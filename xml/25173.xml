@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25173</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Ob allen wnder mirket wol ein wnder <rhyme label="a" type="m">grois</rhyme>.</l>
+        <l id="s1:l2" met="6" type="-+">wait dem gesellet unse szepper erden <rhyme label="a" type="m" corresp="#s1:l1">clois</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">eine hait zu rechter sibpeszaf <rhyme label="b" type="f">gebundin</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">dat wnder uns in ymmer werinde vreude <rhyme label="c" type="m">szielt</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">inde dat he si in einer meide wamben <rhyme label="c" type="m" corresp="#s1:l4">vielt</rhyme>.</l>
+        <l id="s1:l6" met="5" type="-+">inde wart da bi got inde mesze <rhyme label="b" type="f" corresp="#s1:l3">wnden</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">dat si in intfienc. inde si <rhyme label="d" type="m">genas</rhyme>.</l>
+        <l id="s1:l8" met="6" type="+-">reine ungemelit. des doit van dode uns <rhyme label="e" type="f">loiste</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">inde bleif doch dat he e <rhyme label="d" type="m" corresp="#s1:l7">was</rhyme>.</l>
+        <l id="s1:l10" met="6" type="-+">der cristenheide zu helpe. in och zu <rhyme label="e" type="f" corresp="#s1:l8">troiste</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">an eme wart der naturen <rhyme label="f" type="m">craft</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">an wernder wirde ir hoet inde ir <rhyme label="g" type="f">nuwet</rhyme>.</l>
+        <l id="s1:l13" met="4" type="+-">Sin gesippe mit <rhyme label="f" type="m" corresp="#s1:l11">geseszach</rhyme>.</l>
+        <l id="s1:l14" met="5" type="-+">des toufis e versegilt inde <rhyme label="g" type="f" corresp="#s1:l12">getruet</rhyme>.</l>
+        <l id="s1:l15" met="6" type="-+">hie van dem hoesten trone quam zuz uns in <rhyme label="h" type="f">ellende</rhyme>.</l>
+        <l id="s1:l16" met="4" type="+-">wie he birgit in eyn <rhyme label="i" type="m">broit</rhyme></l>
+        <l id="s1:l17" met="2" type="-+">durch unse <rhyme label="i" type="m" corresp="#s1:l16">noit</rhyme></l>
+        <l id="s1:l18" met="7" type="-+">lijhachtig. hie up godis dische. tussin eins pristers <rhyme label="h" type="f" corresp="#s1:l15">hende</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

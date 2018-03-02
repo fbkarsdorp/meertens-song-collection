@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34389</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SA sa van hier,, Qui ne prend pas <rhyme label="a" type="m">plaisier</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In wijn en bier,, Nos sumus <rhyme label="b" type="m">hic</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Van suypen vol en dick,, Mon <rhyme label="c" type="f">Camarade</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Beuvemos pois,, Ten is niet <rhyme label="d" type="m">bois</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Want ick vind' t'soo <rhyme label="c" type="f" corresp="#s1:l3">gheraden</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">Ha das swoll ich haven,, Smoes soo <rhyme label="e" type="m">sin</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Our father Bacchus sal ons buycxkens <rhyme label="f" type="f">laven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ouy avec du vin,, Sa lapt het <rhyme label="e" type="m" corresp="#s1:l6">in</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Di notte &amp; di giorno moet hier <rhyme label="g" type="m">sijn</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Ghedroencken bier en <rhyme label="g" type="m" corresp="#s1:l9">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Errier Gerson,, Die seyt dat Bacchi <rhyme label="a" type="m">ton</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Non est pas bon,, Sa voorts ten <rhyme label="b" type="m">nest</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Hic dulce vinum est,, Adesso <rhyme label="c" type="f">duncque</rhyme>,,</l>
+        <l id="s2:l4" met="4" type="-+">In questa piu, Is niet voor <rhyme label="d" type="m">u</rhyme>,,</l>
+        <l id="s2:l5" met="3" type="-+">Soo gy hier blijft staen <rhyme label="c" type="f" corresp="#s2:l3">proenken</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Oy The king sal wesen,, Die wel <rhyme label="e" type="m">suypt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Qui apud nos, Noit sitten sal <rhyme label="f" type="f">begresen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Noch van ons henen sluypt, noch wech en <rhyme label="e" type="m" corresp="#s2:l6">druypt</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Mais siemper mas boretto wesen <rhyme label="g" type="m">sal</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">wort Cappiteyn van <rhyme label="g" type="m" corresp="#s2:l9">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Ouy pourtant,, Mich lubste das im <rhyme label="a" type="m">kan</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Daer hou ick van,, And for my <rhyme label="b" type="m">will</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Gheen ander, k'hou my stil,, Al mio <rhyme label="c" type="f">core</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">In gremio,, Non <rhyme label="d" type="m">cupio</rhyme>,,</l>
+        <l id="s3:l5" met="3" type="-+">Voorwaer que questa <rhyme label="c" type="f" corresp="#s3:l3">amore</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Sa allon laet vullen,, Lost het <rhyme label="e" type="m">vat</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">I beseech thee, wy moeten wacker <rhyme label="f" type="f">smullen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Quo nempe Bacchus stat,  Sijn vol en <rhyme label="e" type="m" corresp="#s3:l6">sat</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Ter tuyvel ich wol soffen eeuwlich <rhyme label="g" type="m">nou</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Lijs een-oor is mijn <rhyme label="g" type="m" corresp="#s3:l9">vrou</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Val aen al weer,, Sigñor est <rhyme label="a" type="m">menister</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">t'Gheen ick begeer,, Allon val <rhyme label="b" type="m">aen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Als eenen Indiaen,, K'moes tabac <rhyme label="c" type="f">suygen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Il est si bon,, Drinckt dat de <rhyme label="d" type="m">ton</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Door t'suypen raeckt in <rhyme label="c" type="f" corresp="#s4:l3">duygen</rhyme>:</l>
+        <l id="s4:l6" met="4" type="+-">Botto alla horco,, Die hier <rhyme label="e" type="m">sucht</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Est asinus y mas que uno <rhyme label="f" type="f">porco</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Van hier toch grijsers vlucht,, met <rhyme label="e" type="m" corresp="#s4:l6">ongenucht</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Vous mi traffise il core met <rhyme label="g" type="m">ghekrijdt</rhyme>,</l>
+        <l id="s4:l10" met="3" type="-+">Wat brilt den quaden <rhyme label="g" type="m" corresp="#s4:l9">tijdt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Ich swees nich hou,, Als ic smoor inde <rhyme label="a" type="m">schou</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wat schuym ick spou,, I thanke <rhyme label="b" type="m">thee</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Lord wierd, als ghy brenght <rhyme label="c" type="f">me</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">My Bacchi sluysen,, Beuvons une <rhyme label="d" type="m">foy</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">K'en doent t'niet noy,, Want ick moet <rhyme label="c" type="f" corresp="#s5:l3">ruysemuysen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Si il tempo passa,, Hier met <rhyme label="e" type="m">vreught</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Daer Bacchus is por cierte bona <rhyme label="f" type="f">cassa</rhyme>:</l>
+        <l id="s5:l8" met="4" type="-+">Drinckt dan soo langh ghy <rhyme label="e" type="m" corresp="#s5:l6">t'meught</rhyme>,</l>
+        <l id="s5:l9" met="4" type="-+">En sijt verheught,, Haet oock den quaden <rhyme label="g" type="m">tijt</rhyme>,</l>
+        <l id="s5:l10" met="3" type="-+">Met ons doet mé,, Wy leven hier in <rhyme label="g" type="m" corresp="#s5:l9">vré</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

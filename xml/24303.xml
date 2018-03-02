@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24303</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1575</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Wilhelmus</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Godt hoe wonderlijcken <rhyme label="a" type="f">staet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghi ons allen <rhyme label="b" type="m">by</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In alle <rhyme label="a" type="f" corresp="#s1:l1">conincrijcken</rhyme>/</l>
+        <l id="s1:l4" met="3" type="-+">Met u ghenade <rhyme label="b" type="m" corresp="#s1:l2">vry</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Dies moet u elck een <rhyme label="c" type="f">louen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">van u weldaden <rhyme label="d" type="m">al</rhyme>/</l>
+        <l id="s1:l7" met="3" type="-+">Die ghi ons sendt van <rhyme label="c" type="f" corresp="#s1:l5">bouen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Hier in dit eertsche <rhyme label="d" type="m" corresp="#s1:l6">dal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die eerde hebt ghy <rhyme label="a" type="f">gheschapen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Tot ons <rhyme label="b" type="m">nootdrusticheyt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Daer wy tvoetsel af <rhyme label="a" type="f" corresp="#s2:l1">rapen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Met goey <rhyme label="b" type="m" corresp="#s2:l2">vernusticheyt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Duer die cracht uwer <rhyme label="c" type="f">handen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Maecte ghy <rhyme label="d" type="m">tFiermament</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Dwelck deerde in allen <rhyme label="c" type="f" corresp="#s2:l5">landen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Maeckt vruchtbaer ende <rhyme label="d" type="m" corresp="#s2:l6">ient</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dwater tonsen <rhyme label="a" type="f">behoeue</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ghy hebt gheschapen <rhyme label="b" type="m">reyn</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat hem nymant <rhyme label="a" type="f" corresp="#s3:l1">bedroeue</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Van dorste groot noch <rhyme label="b" type="m" corresp="#s3:l2">cleyn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Alle knien moeten <rhyme label="c" type="f">beughen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Voor u o vader <rhyme label="d" type="m">goet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Die kinderkens die <rhyme label="c" type="f" corresp="#s3:l5">suyghen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Louen u metter <rhyme label="d" type="m" corresp="#s3:l6">spoet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">T vier hebt ghy ons <rhyme label="a" type="f">ghegeuen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dwelck ons oock noodich <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Om tonderhouden <rhyme label="a" type="f" corresp="#s4:l1">bleuen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van u kinders <rhyme label="b" type="m" corresp="#s4:l2">ghewis</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Om d Elementen <rhyme label="c" type="f">schoone</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Loef ick u o Godt <rhyme label="d" type="m">mijn</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Die hier elcken <rhyme label="c" type="f" corresp="#s4:l5">persoone</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Toch zeer noottelijck <rhyme label="d" type="m" corresp="#s4:l6">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wie sou connen <rhyme label="a" type="f">vergheten</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">O oppersten <rhyme label="b" type="m">Princier</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Te louen <rhyme label="a" type="f" corresp="#s5:l1">onghemeten</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al u weldaden <rhyme label="b" type="m" corresp="#s5:l2">fier</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Gheen mensch hoe hooch <rhyme label="c" type="f">ghekozen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Hy en ghebruyct <rhyme label="d" type="m">altijt</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">D'Elementen <rhyme label="c" type="f" corresp="#s5:l5">vercoren</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Looft Gogt <rhyme label="d" type="m" corresp="#s5:l6">ghebenedijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2794</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Jeugd en deugd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Weest voerblit hier nae den <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">en laet ons <rhyme label="b" type="f">trijonfeeren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">hier in dit krijt tot niders <rhyme label="a" type="m" corresp="#s1:l1">spijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die ons altijt <rhyme label="b" type="f" corresp="#s1:l2">blaemeeren</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Want altijt wort Iok <rhyme label="c" type="m">gehaet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">van dees valsche nijders <rhyme label="c" type="m" corresp="#s1:l5">quaet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">want altijt peins Ick nacht en <rhyme label="d" type="m">dach</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">om een die mijn troest geeuen <rhyme label="d" type="m" corresp="#s1:l7">mach</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verhuecht in duecht mijn sersen <rhyme label="a" type="m">vruecht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">om een die Ick <rhyme label="b" type="f">beminne</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">o suiuere Jeuoht gij sijt die <rhyme label="a" type="m" corresp="#s2:l1">muecht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">laet mijn eens troest <rhyme label="b" type="f" corresp="#s2:l2">gewinne</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">en u hart tot mijn nu <rhyme label="c" type="m">keert</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">soe wort mijn vruecht geheel <rhyme label="c" type="m" corresp="#s2:l5">voermeert</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">altijt peis ick nacht en <rhyme label="d" type="m">dach</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">op godt die mijn troest ggeuen <rhyme label="d" type="m" corresp="#s2:l7">mach</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sij is soe Ient soe <rhyme label="a" type="m">exsoelent</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">sij hout mijn hert <rhyme label="b" type="f">beuangen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Sijt staet in mijn hertge gepreesen (geprent? <rhyme label="a" type="m" corresp="#s3:l1">bedoeld</rhyme>)</l>
+        <l id="s3:l4" met="3" type="-+">nae haer staet mijn <rhyme label="b" type="f" corresp="#s3:l2">voerlangen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">want sij is soe <rhyme label="c" type="m">graesijues</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">en van liefde <rhyme label="c" type="m" corresp="#s3:l5">aemoerues</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">altijt peins Ick nacht en <rhyme label="d" type="m">dach</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">op godt die mijn troest geeuen <rhyme label="d" type="m" corresp="#s3:l7">mach</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ter eere al van de prins hier <rhyme label="a" type="m">bouen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">soe laet ons vroelick <rhyme label="b" type="f">weesen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">wij willen hem altijt Danken en <rhyme label="a" type="m" corresp="#s4:l1">loeuen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">want hij mach ons <rhyme label="b" type="f" corresp="#s4:l2">geeneesen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">want hij Is die heer <rhyme label="c" type="m">alleen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Die ons mach helpen en anders <rhyme label="c" type="m" corresp="#s4:l5">geen</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">altijt peis Ick nacht en <rhyme label="d" type="m">dach</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">om een die mijn troest geeue <rhyme label="d" type="m" corresp="#s4:l7">mach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

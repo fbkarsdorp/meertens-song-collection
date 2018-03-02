@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29502</id>
+    <date>
+      <year-start>1480</year-start>
+      <year-end>1485</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>proverb</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">Claeuwaert <rhyme label="a" type="m">claeuwaert</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Wacht hu voorden <rhyme label="a" type="m" corresp="#s1:l1">lelyaert</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">ghaet ghij niet weder <rhyme label="a" type="m" corresp="#s1:l1">thuusewaert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ghij later uwen <rhyme label="a" type="m" corresp="#s1:l1">tabbaert</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Al waert ghij noch zo zeere <rhyme label="a" type="m" corresp="#s1:l1">ghebaert</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Zij zullen hu maken al <rhyme label="a" type="m" corresp="#s1:l1">vervaert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

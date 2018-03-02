@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26878</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Es were woll <rhyme label="a" type="m">rechtt</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">wan sie es <rhyme label="a" type="m" corresp="#s1:l1">bedachtt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">vnnd mich jn tre wenn <rhyme label="b" type="f">meinthe</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">Vnnd vnß <rhyme label="c" type="m">alzeitt</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Jn lieb vnnd <rhyme label="c" type="m" corresp="#s1:l4">leidt</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">Jn sachenn groß vnnd <rhyme label="b" type="f" corresp="#s1:l3">kleinenn</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">Verdragenn vnß <rhyme label="d" type="m">woll</rhyme> /</l>
+        <l id="s1:l8" met="2" type="-+">wie pillich sein <rhyme label="d" type="m" corresp="#s1:l7">soll</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">Eß d nckt aber <rhyme label="e" type="m">mich</rhyme> /</l>
+        <l id="s1:l10" met="2" type="-+">das verkerett <rhyme label="e" type="m" corresp="#s1:l9">sich</rhyme> /</l>
+        <l id="s1:l11" met="2" type="+-">Sie ein meintt eß nitt g <rhyme label="f" type="m">ett</rhyme> /</l>
+        <l id="s1:l12" met="4" type="-+">Deß hab ich einenn freienn <rhyme label="f" type="m" corresp="#s1:l11">mott</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Jch hoff aber <rhyme label="a" type="m">gar</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">vnnd weiß f <rhyme label="a" type="m" corresp="#s2:l1">rwar</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Eß kan nitt lang ged <rhyme label="b" type="f">renn</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">Rellett  sie dan <rhyme label="c" type="m">mich</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">des leidden <rhyme label="c" type="m" corresp="#s2:l4">ich</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">ich wils jr woll a ßla <rhyme label="b" type="f" corresp="#s2:l3">ren</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Allein kan <rhyme label="d" type="m">gott</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">verkerenn irhen <rhyme label="d" type="m" corresp="#s2:l7">spott</rhyme> /</l>
+        <l id="s2:l9" met="2" type="-+">das wirtt ehr th <rhyme label="e" type="m">nn</rhyme> /</l>
+        <l id="s2:l10" met="2" type="-+">mitt rechtem <rhyme label="e" type="m" corresp="#s2:l9">lohenn</rhyme> /</l>
+        <l id="s2:l11" met="2" type="+-">vnd grossem <rhyme label="f" type="m">schmertz</rhyme> /</l>
+        <l id="s2:l12" met="4" type="-+">Gott schendt jr falschn <rhyme label="f" type="m" corresp="#s2:l11">hertzenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

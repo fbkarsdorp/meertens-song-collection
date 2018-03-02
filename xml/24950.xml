@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24950</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Woltu lachin nicht der <rhyme label="a" type="f">heide</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Vogelin zanges, der <rhyme label="b" type="m">zomerzijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">So lache aber der <rhyme label="a" type="f" corresp="#s1:l1">ougeweyde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die an reynen vrouwen <rhyme label="b" type="m" corresp="#s1:l2">leyt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Denke an minnentliche <rhyme label="c" type="m">wijp</rhyme>!</l>
+        <l id="s1:l6" met="2" type="+-">Kan der <rhyme label="d" type="f">lachen</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">Doch nicht <rhyme label="d" type="f" corresp="#s1:l6">machen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Vro, verzaget ist din <rhyme label="c" type="m" corresp="#s1:l5">lijp</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

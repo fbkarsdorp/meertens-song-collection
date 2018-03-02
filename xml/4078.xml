@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4078</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Nu laat ons allen God loven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu laet ons allen Gode <rhyme label="a" type="f">louen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den oppersten coninc van hier <rhyme label="a" type="f" corresp="#s1:l1">bouen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dies niet en doet hy is <rhyme label="a" type="f" corresp="#s1:l1">verschouen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s1:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Van bouen quam hi hier te <rhyme label="a" type="f">voren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Om van eender maghet te wesen <rhyme label="a" type="f" corresp="#s2:l1">gheboren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Waer hy niet ghecomen wi waren <rhyme label="a" type="f" corresp="#s2:l1">verloren</rhyme></l>
+        <l id="s2:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s2:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dit edel kint is ons <rhyme label="a" type="f">gheboren</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van eender maget duyt hadde <rhyme label="a" type="f" corresp="#s3:l1">vercoren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Mids desen soe bleef die duyuel <rhyme label="a" type="f" corresp="#s3:l1">verloren</rhyme></l>
+        <l id="s3:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s3:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Int huys al daer dat kint in <rhyme label="a" type="f">lach</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Daer wast seer cout nacht ende <rhyme label="a" type="f" corresp="#s4:l1">dach</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Daer om so weendet ende riep o <rhyme label="a" type="f" corresp="#s4:l1">wach</rhyme></l>
+        <l id="s4:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s4:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">In die cribbe was hi <rhyme label="a" type="f">gheleyt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Een God inder <rhyme label="a" type="f" corresp="#s5:l1">drieuuldicheyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Die osse ende ezel aenbadent <rhyme label="a" type="f" corresp="#s5:l1">ghereyt</rhyme></l>
+        <l id="s5:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s5:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wt orienten al sonder <rhyme label="a" type="f">saghen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">So quamen binnen. xiiij. <rhyme label="a" type="f" corresp="#s6:l1">dagen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Drie coningen die tkint verbaren <rhyme label="a" type="f" corresp="#s6:l1">sagen</rhyme></l>
+        <l id="s6:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s6:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s6:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Als si gegangen hadden <rhyme label="a" type="f">verre</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Doen sagen si waer een <rhyme label="a" type="f" corresp="#s7:l1">sterre</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Hen wijsde den wech dair Ihesus in <rhyme label="a" type="f" corresp="#s7:l1">lach</rhyme></l>
+        <l id="s7:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s7:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s7:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Als sij dat kint metten oogen <rhyme label="a" type="f">aensaghen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">So waren sij blide / hoort wat sij <rhyme label="a" type="f" corresp="#s8:l1">daden</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Sij offerden hem myrrhe ende daer toe <rhyme label="a" type="f" corresp="#s8:l1">gout</rhyme></l>
+        <l id="s8:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s8:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s8:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Si namen oerlof om <rhyme label="a" type="f">wederkeeren</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Si ghingen thuys met groter <rhyme label="a" type="f" corresp="#s9:l1">eeren</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Eenen anderen wech moesten sij <rhyme label="a" type="f" corresp="#s9:l1">keeren</rhyme></l>
+        <l id="s9:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s9:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s9:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s9:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Van Bethleem was dat kint <rhyme label="a" type="f">gheulucht</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">In Egipten / want men hadde <rhyme label="a" type="f" corresp="#s10:l1">ducht</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Dat Herodes soude dooden die <rhyme label="a" type="f" corresp="#s10:l1">vrucht</rhyme>.</l>
+        <l id="s10:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s10:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s10:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s10:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Dat Adam inden appel <rhyme label="a" type="f">beet</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Dat mocht ons alle wesen <rhyme label="a" type="f" corresp="#s11:l1">leet</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Mids desen so dreef ons die duuel int <rhyme label="a" type="f" corresp="#s11:l1">leet</rhyme></l>
+        <l id="s11:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s11:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s11:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s11:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Van deser pinen loste ons dat <rhyme label="a" type="f">kint</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Dat en willen wij weten niet een <rhyme label="a" type="f" corresp="#s12:l1">twint</rhyme>.</l>
+        <l id="s12:l3" met="4" type="-+">Daerom sterf hi die edel <rhyme label="a" type="f" corresp="#s12:l1">coninc</rhyme></l>
+        <l id="s12:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s12:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s12:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s12:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Die valsche verrader <rhyme label="a" type="f">Iudas</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Vercochte sinen meester opten <rhyme label="a" type="f" corresp="#s13:l1">woonsdach</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Daer omme seg ick hi dwaes <rhyme label="a" type="f" corresp="#s13:l1">was</rhyme>.</l>
+        <l id="s13:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s13:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s13:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s13:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Iudas die verrader <rhyme label="a" type="f">fel</rhyme></l>
+        <l id="s14:l2" met="4" type="-+">Gaf den ioden een teeken <rhyme label="a" type="f" corresp="#s14:l1">wel</rhyme></l>
+        <l id="s14:l3" met="4" type="-+">Dyen ick cusse ende nyemant <rhyme label="a" type="f" corresp="#s14:l1">el</rhyme></l>
+        <l id="s14:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s14:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s14:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s14:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Te metten tijt was hy <rhyme label="a" type="f">ghevuaen</rhyme></l>
+        <l id="s15:l2" met="4" type="-+">Sijn iongers sijn hem al af <rhyme label="a" type="f" corresp="#s15:l1">ghegaen</rhyme></l>
+        <l id="s15:l3" met="4" type="-+">Voer Pylatus was hy <rhyme label="a" type="f" corresp="#s15:l1">ghedaen</rhyme></l>
+        <l id="s15:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s15:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s15:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s15:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="-+">Op sijn schoudere moeste hy <rhyme label="a" type="f">draghen</rhyme></l>
+        <l id="s16:l2" met="4" type="-+">Een cruyce van so swaren <rhyme label="a" type="f" corresp="#s16:l1">waghen</rhyme></l>
+        <l id="s16:l3" met="4" type="-+">Te Caluarien gaf hi sijn <rhyme label="a" type="f" corresp="#s16:l1">claghen</rhyme></l>
+        <l id="s16:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s16:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s16:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s16:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="4" type="-+">Ter sester vren ghinghen sij hem <rhyme label="a" type="f">hangen</rhyme></l>
+        <l id="s17:l2" met="4" type="-+">Tusscen twe dieuen met grooter <rhyme label="a" type="f" corresp="#s17:l1">scanden</rhyme>.</l>
+        <l id="s17:l3" met="4" type="-+">Sij gauen hem drincken azijn <rhyme label="a" type="f" corresp="#s17:l1">ghemengt</rhyme></l>
+        <l id="s17:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s17:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s17:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s17:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="4" type="-+">Te noene stac hem in sijn <rhyme label="a" type="f">side</rhyme></l>
+        <l id="s18:l2" met="4" type="-+">Longinus / dies was hi soe <rhyme label="a" type="f" corresp="#s18:l1">blide</rhyme></l>
+        <l id="s18:l3" met="4" type="-+">Wanthi wert siende te dyen <rhyme label="a" type="f" corresp="#s18:l1">tide</rhyme></l>
+        <l id="s18:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s18:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s18:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s18:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="4" type="-+">Te vesper tijde nae minen <rhyme label="a" type="f">waen</rhyme></l>
+        <l id="s19:l2" met="4" type="-+">Was hi van den cruyce <rhyme label="a" type="f" corresp="#s19:l1">ghedaen</rhyme></l>
+        <l id="s19:l3" met="4" type="-+">Te compleeten groeuen sij hem <rhyme label="a" type="f" corresp="#s19:l1">saen</rhyme></l>
+        <l id="s19:l4" met="2" type="-+"><rhyme label="b" type="m">quotidie</rhyme></l>
+        <l id="s19:l5" met="4" type="-+">Hy is van eender maghet <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s19:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s19:l4">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="4" type="-+">Nu laet ons alle <rhyme label="a" type="f">vriendelijck</rhyme></l>
+        <l id="s20:l2" met="4" type="-+">Bidden Iesum van <rhyme label="a" type="f" corresp="#s20:l1">hemelrijck</rhyme></l>
+        <l id="s20:l3" met="4" type="-+">Dat hi ons allen deyle sijn <rhyme label="a" type="f" corresp="#s20:l1">rijc</rhyme></l>
+        <l id="s20:l4" met="2" type="-+">Sine <rhyme label="b" type="m">fine</rhyme></l>
+        <l id="s20:l5" met="4" type="-+">Hi is van eender maget <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s20:l6" met="2" type="-+">Rex <rhyme label="b" type="m" corresp="#s20:l4">glorie</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27228</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Belgica loof de heer</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Schoon lieff eerlyck <rhyme label="a" type="m">befaempt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ick soeck u te <rhyme label="b" type="f">beweeghen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">tot liefde <rhyme label="a" type="m" corresp="#s1:l1">ongeblaempt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">maer ghy staet my heel <rhyme label="b" type="f" corresp="#s1:l2">teghen</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">waer door lyden <rhyme label="c" type="m">fel</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">nu compt bestryden <rhyme label="c" type="m" corresp="#s1:l5">snel</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">ick truer <rhyme label="d" type="m">voerwaer</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">om u reyn jeught <rhyme label="d" type="m" corresp="#s1:l7">eerbaer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doorsaeck wort wel <rhyme label="a" type="m">versint</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">warom ghy soo <rhyme label="b" type="f">onspoedich</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">my soo wel niet <rhyme label="a" type="m" corresp="#s2:l1">bemint</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">als ick u doe seer <rhyme label="b" type="f" corresp="#s2:l2">goedich</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">waer ick van bloede <rhyme label="c" type="m">eel</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">daer toe van goede <rhyme label="c" type="m" corresp="#s2:l5">wel</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">soo soudick <rhyme label="d" type="m">fyn</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">uwen minnaer wel <rhyme label="d" type="m" corresp="#s2:l7">syn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Want men vraecht nu niet <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">naer parsoon off <rhyme label="b" type="f">gheslachte</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">noch naer deucht ende <rhyme label="a" type="m" corresp="#s3:l1">eer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">maer naer ryckdom en <rhyme label="b" type="f" corresp="#s3:l2">machte</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">is een maer ryck van <rhyme label="c" type="m">hoff</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">dochter off jonckman <rhyme label="c" type="m" corresp="#s3:l5">groff</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">liefde haest <rhyme label="d" type="m">wast</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">maer het deynde draecht den <rhyme label="d" type="m" corresp="#s3:l7">last</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Die op tsweerelts goet <rhyme label="a" type="m">boudt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">die vindt hem dick <rhyme label="b" type="f">bedroeghen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">soomen daghelycks <rhyme label="a" type="m" corresp="#s4:l1">aenschoudt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">en sien mach <rhyme label="b" type="f" corresp="#s4:l2">onghelooghen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">want als liefde is <rhyme label="c" type="m">cranck</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">eens crycht eenen <rhyme label="c" type="m" corresp="#s4:l5">misganck</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">doort tghelt off <rhyme label="d" type="m">schadt</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">is te beclaghen <rhyme label="d" type="m" corresp="#s4:l7">dat</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Myn alderlieffste <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">bouen ymant <rhyme label="b" type="f">ghepreesen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">toch naer myn lesse <rhyme label="a" type="m" corresp="#s5:l1">doet</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">laet liefde syn <rhyme label="b" type="f" corresp="#s5:l2">ghereesen</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">myn hart in jonste <rhyme label="c" type="m">bloyt</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">maeckt dat u gonste <rhyme label="c" type="m" corresp="#s5:l5">groyt</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">tot my met <rhyme label="d" type="m">vlyt</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">ick blyff ghetrouw <rhyme label="d" type="m" corresp="#s5:l7">altyt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Adieu princesse <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">adieu moet ick u <rhyme label="b" type="f">laten</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">loont my met u <rhyme label="a" type="m" corresp="#s6:l1">parsoen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">t'scheyden can u niet <rhyme label="b" type="f" corresp="#s6:l2">baten</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">adieu myn liefste <rhyme label="c" type="m">spruyt</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">dit in u hart <rhyme label="c" type="m" corresp="#s6:l5">sluyt</rhyme></l>
+        <l id="s6:l7" met="2" type="-+">t'scheyden ist <rhyme label="d" type="m">dent</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">adieu reyn blom <rhyme label="d" type="m" corresp="#s6:l7">bekent</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

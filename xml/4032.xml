@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4032</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>Mijn tijd gaat weg en ik daar mee</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEer Ihesu wilt ghi mi bi <rhyme label="a" type="m">staen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ick ligghe in quellinghen seer <rhyme label="a" type="m" corresp="#s1:l1">beuaen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Belast met swaren <rhyme label="b" type="f">sonden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Mocht ic my noch vermeyden <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Al in heer Iesus <rhyme label="b" type="f" corresp="#s1:l3">wonden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mocht ick mi noch vermeyden <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Aldaer die rode rooskens <rhyme label="a" type="m" corresp="#s2:l1">staen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Die lelien en de <rhyme label="b" type="f">kerssouwen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">So soude die edel siele <rhyme label="c" type="m">mijn</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Altoos veruruechden <rhyme label="b" type="f" corresp="#s2:l3">wouden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Heere God ic en weet waer henen <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Natuere hout mi soe seer <rhyme label="a" type="m" corresp="#s3:l1">gheuaen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Si doet mi dicwils <rhyme label="b" type="f">trueren</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Den gheest sal noch te bouen <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Al sout haer worden <rhyme label="b" type="f" corresp="#s3:l3">suere</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die geest die moet bouen <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Nature moet ter neder <rhyme label="a" type="m" corresp="#s4:l1">staen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Sal haer die siele <rhyme label="b" type="f">verbliden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">In dat hemelsce vaders <rhyme label="c" type="m">lant</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Al bi haers brudegoms <rhyme label="b" type="f" corresp="#s4:l3">side</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ic sat op eenen auont <rhyme label="a" type="m">stont</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ic dacht so diepe in minen <rhyme label="a" type="m" corresp="#s5:l1">gront</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Dattet daer seer schoon <rhyme label="b" type="f">ware</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Al in dat hemelsche <rhyme label="c" type="m">conincrijc</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Daer is so gaerne in <rhyme label="b" type="f" corresp="#s5:l3">ware</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ick sat op een ander <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ic dacht so diepe int herte <rhyme label="a" type="m" corresp="#s6:l1">mijn</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Dat rijc soude eewelijc <rhyme label="b" type="f">dueren</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">So wiet hier na besoeten <rhyme label="c" type="m">wil</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Die moet eerst hier <rhyme label="b" type="f" corresp="#s6:l3">besueren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ierusalem is een schoon <rhyme label="a" type="m">casteel</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Verchiert met soe menic schoon <rhyme label="a" type="m" corresp="#s7:l1">iuweel</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Met purper ende met <rhyme label="b" type="f">siden</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Och mocht die edel siele <rhyme label="c" type="m">mijn</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Altijs daer in <rhyme label="b" type="f" corresp="#s7:l3">verbliden</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Och mocht de edel siele <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Altijt bi haren bruydegom <rhyme label="a" type="m" corresp="#s8:l1">sijn</rhyme>.</l>
+        <l id="s8:l3" met="3" type="-+">So soudick met vruechden <rhyme label="b" type="f">leuen</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Al daer die reyn maget <rhyme label="c" type="m">Maria</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">So hooghe sidt <rhyme label="b" type="f" corresp="#s8:l3">verheuen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Mochte ick noch comen nae deser <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Aldaer die enghelen maken groot <rhyme label="a" type="m" corresp="#s9:l1">iolijt</rhyme>.</l>
+        <l id="s9:l3" met="3" type="-+">Ende al dat hemelsche <rhyme label="b" type="f">heyre</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">So soude die edel siele <rhyme label="c" type="m">mijn</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">Altoos veruruechden <rhyme label="b" type="f" corresp="#s9:l3">seere</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Mijn gepeys is <rhyme label="a" type="m">menichfout</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Bi wilen heet / bi wilen <rhyme label="a" type="m" corresp="#s10:l1">cout</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">Dat doet mi dicwils <rhyme label="b" type="f">droeuen</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Had ic heer Ihesum tot eenen <rhyme label="c" type="m">vrient</rhyme></l>
+        <l id="s10:l5" met="3" type="-+">Ic soude hem wel <rhyme label="b" type="f" corresp="#s10:l3">behoeuen</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Die borgers van <rhyme label="a" type="m">Ierusalem</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Sij volgen dat soete <rhyme label="a" type="m" corresp="#s11:l1">kindekijin</rhyme></l>
+        <l id="s11:l3" met="3" type="-+">Met haren witten <rhyme label="b" type="f">stolen</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Daer na so volgen die <rhyme label="c" type="m">maechdekijns</rhyme></l>
+        <l id="s11:l5" met="3" type="-+">Met haer vergulden <rhyme label="b" type="f" corresp="#s11:l3">cronen</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Die die lieken heeft <rhyme label="a" type="m">ghedicht</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Bidt God dat hi haer siel <rhyme label="a" type="m" corresp="#s12:l1">verlicht</rhyme></l>
+        <l id="s12:l3" met="3" type="-+">Ende alle diet hooren <rhyme label="b" type="f">singhen</rhyme></l>
+        <l id="s12:l4" met="4" type="-+">Dat si noch moeten <rhyme label="c" type="m">ontsteken</rhyme>.</l>
+        <l id="s12:l5" met="3" type="-+">In heer Iesus soete <rhyme label="b" type="f" corresp="#s12:l3">minne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

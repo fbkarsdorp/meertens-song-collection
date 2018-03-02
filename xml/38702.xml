@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38702</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mythological song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Straalrijke ogen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Adonis <rhyme label="a" type="f">wanghen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Deên my <rhyme label="a" type="f" corresp="#s1:l1">verlanghen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ach hoe is verandert sijn schoon <rhyme label="b" type="m">aenghesicht</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Door hoochste droefheyt mijn reden <rhyme label="b" type="m" corresp="#s1:l3">swicht</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Mits ghy, mijn lief! aldus verslaghen <rhyme label="b" type="m" corresp="#s1:l3">light</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">O <rhyme label="a" type="f">hemel-crachten</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Comt wilt <rhyme label="a" type="f" corresp="#s2:l1">versmachten</rhyme>?</l>
+        <l id="s2:l3" met="5" type="-+">(Door uwe dlixem-straf !) t'verwildert <rhyme label="b" type="m">dier</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Dat my ontrooft, van wellust en <rhyme label="b" type="m" corresp="#s2:l3">plaisier</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die ick ghenoot in't godd'lick <rhyme label="b" type="m" corresp="#s2:l3">minne-vier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Mijn heete <rhyme label="a" type="f">sinnen</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Sullen het <rhyme label="a" type="f" corresp="#s3:l1">minnen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Noyt van Adonis in't ghedacht <rhyme label="b" type="m">ontgaen</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Sijn bloet, dat wort ghemenght met mijn <rhyme label="b" type="m" corresp="#s3:l3">ghetraen</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Dies sal het jeuchdich als een bloem <rhyme label="b" type="m" corresp="#s3:l3">op-staen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Ai eel <rhyme label="a" type="f">Pandora</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Vercierde <rhyme label="a" type="f" corresp="#s4:l1">Flora</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Comt echt dier bloemeken aen uwe <rhyme label="b" type="m">croon</rhyme>?</l>
+        <l id="s4:l4" met="5" type="-+">Ach! schoonen jonghelinck, om mijnen <rhyme label="b" type="m" corresp="#s4:l3">troon</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Sal groeyen uw' ghewass' tot liefdens <rhyme label="b" type="m" corresp="#s4:l3">loon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

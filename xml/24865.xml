@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24865</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>De liefste jonst van aardrijk</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die liefste jonst van <rhyme label="a" type="m">erderijch</rhyme></l>
+        <l id="s1:l2" met="1" type="-+">Dats <rhyme label="b" type="f">minne</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Van tween die bliven eens <rhyme label="a" type="m" corresp="#s1:l1">ghelijc</rhyme></l>
+        <l id="s1:l4" met="1" type="-+">Van <rhyme label="b" type="f" corresp="#s1:l2">zinne</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Here god helpt mi dat ic <rhyme label="b" type="f" corresp="#s1:l2">ghewinne</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">De jonst <rhyme label="c" type="m">allein</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Die ic begher wes ich <rhyme label="b" type="f" corresp="#s1:l2">beghinne</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">In trauwen <rhyme label="c" type="m" corresp="#s1:l6">rein</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn hertze aet minnentlijch <rhyme label="a" type="m">ghevaen</rhyme></l>
+        <l id="s2:l2" met="1" type="-+">Een <rhyme label="b" type="f">vrauwe</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Haer willic wesen <rhyme label="a" type="m" corresp="#s2:l1">onderdaen</rhyme></l>
+        <l id="s2:l4" met="1" type="-+">Up <rhyme label="b" type="f" corresp="#s2:l2">trauwe</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mi huecht veil bet als icse <rhyme label="b" type="f" corresp="#s2:l2">aenscauwe</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Dan eenich <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Soe es alleine die mi den <rhyme label="b" type="f" corresp="#s2:l2">rauwe</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Verdriven <rhyme label="c" type="m" corresp="#s2:l6">doet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Up erde en soude men zoeter <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s3:l2" met="1" type="-+">Niet <rhyme label="b" type="f">vinden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">In haer willic ziele ende <rhyme label="a" type="m" corresp="#s3:l1">lijf</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">Vast <rhyme label="b" type="f" corresp="#s3:l2">binden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ic hope so wils mins <rhyme label="b" type="f" corresp="#s3:l2">onderwinden</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Des bem ic <rhyme label="c" type="m">vro</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Wat zi mi jan of toe wil <rhyme label="b" type="f" corresp="#s3:l2">zinden</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Ic wilt <rhyme label="c" type="m" corresp="#s3:l6">alzo</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Alle duechden sijn haer <rhyme label="a" type="m">an</rhyme></l>
+        <l id="s4:l2" met="1" type="-+"><rhyme label="b" type="f">Gheboren</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Anders blevic arem <rhyme label="a" type="m" corresp="#s4:l1">man</rhyme></l>
+        <l id="s4:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l2">Verloren</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">In haren dienst bem ic <rhyme label="b" type="f" corresp="#s4:l2">bezworen</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Eighin <rhyme label="c" type="m">vry</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Sorge ende pijn ende allen <rhyme label="b" type="f" corresp="#s4:l2">toren</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Verdrijft zoe <rhyme label="c" type="m" corresp="#s4:l6">mi</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

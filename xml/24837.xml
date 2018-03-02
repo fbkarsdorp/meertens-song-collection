@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24837</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Nieuw jaar in vreugden rijk</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nieuwe jaer in vruechden <rhyme label="a" type="m">rijch</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Weinsic der liefster <rhyme label="a" type="m" corresp="#s1:l1">minnentlijch</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Met hertzen ende met <rhyme label="b" type="f">zinne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">In haer ghewaldt so gevich <rhyme label="a" type="m" corresp="#s1:l1">mich</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Met gansen wille <rhyme label="a" type="m" corresp="#s1:l1">zekerlich</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Mijns hertzen <rhyme label="b" type="f" corresp="#s1:l3">keyserinne</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Du best mijns vruechts <rhyme label="b" type="f" corresp="#s1:l3">ghewinne</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn liefste reine ghelooft mi <rhyme label="a" type="m">das</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Want ich dijns waerlich nie <rhyme label="a" type="m" corresp="#s2:l1">vergas</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Noch blivic di <rhyme label="b" type="f">ghestade</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Vor al dat es of ye <rhyme label="a" type="m" corresp="#s2:l1">ghewas</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mijn herte en rustet niewer <rhyme label="a" type="m" corresp="#s2:l1">bas</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dan in dire <rhyme label="b" type="f" corresp="#s2:l3">ghenade</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">In trauwen vro ende <rhyme label="b" type="f" corresp="#s2:l3">spade</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dit nieuwe zalich vroilic <rhyme label="a" type="m">jaer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Daertoe al die mi volghen <rhyme label="a" type="m" corresp="#s3:l1">naer</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Blivic in dire <rhyme label="b" type="f">ghewalde</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">So waer ic bin of hier of <rhyme label="a" type="m" corresp="#s3:l1">daer</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Mijn hertze die es di even <rhyme label="a" type="m" corresp="#s3:l1">naer</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Mijn vruecht ic van di <rhyme label="b" type="f" corresp="#s3:l3">halde</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Met minnentliker <rhyme label="b" type="f" corresp="#s3:l3">zalde</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Salich vroilich minlich <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Du best al mijns leits <rhyme label="a" type="m" corresp="#s4:l1">verdrijf</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Hoe saltu mi dan <rhyme label="b" type="f">laten</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">In minnen mi ghestade <rhyme label="a" type="m" corresp="#s4:l1">blijf</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Ende acht up geen onsteidich <rhyme label="a" type="m" corresp="#s4:l1">kijf</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Ne wilt mi nummer <rhyme label="b" type="f" corresp="#s4:l3">haten</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Dune vints mi buten <rhyme label="b" type="f" corresp="#s4:l3">maten</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

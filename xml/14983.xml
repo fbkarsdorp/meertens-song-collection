@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14983</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>Frog's galliard</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Heere! keere van ons <rhyme label="a" type="m">af</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">U vertoorent <rhyme label="b" type="m">aengesicht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En door dees verdiende <rhyme label="a" type="m" corresp="#s1:l1">straf</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ons verblint verstant <rhyme label="b" type="m" corresp="#s1:l2">verlicht</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Dat u vriendelyck <rhyme label="c" type="m">gelaet</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Lichtend over ons mach <rhyme label="d" type="m">staen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En u uytverkoren <rhyme label="c" type="m" corresp="#s1:l5">saet</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Eens toch mach met vreden <rhyme label="d" type="m" corresp="#s1:l6">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Toomt en breydelt 'sVyants <rhyme label="a" type="m">macht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die't dus al in roeren <rhyme label="b" type="m">stelt</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Heer! verschijnt eens so met <rhyme label="a" type="m" corresp="#s2:l1">kracht</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Dat hy ruymen mach het <rhyme label="b" type="m" corresp="#s2:l2">velt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En u volck, naer sulcken <rhyme label="c" type="m">werck</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Veylig eenmael opgaen <rhyme label="d" type="m">mach</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">In u lieve heyl'ge <rhyme label="c" type="m" corresp="#s2:l5">Kerck</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">U te loven nacht en <rhyme label="d" type="m" corresp="#s2:l6">dag</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Doch so't u believen <rhyme label="a" type="m">sal</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Dat ghy ons noch langer <rhyme label="b" type="m">sult</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Laten in dit <rhyme label="a" type="m" corresp="#s3:l1">ongeval</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Geef ons, Heere, toch <rhyme label="b" type="m" corresp="#s3:l2">gedult</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En laet uwen wil <rhyme label="c" type="m">geschien</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Want ghy seker en <rhyme label="d" type="m">gewis</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Best kont weten en <rhyme label="c" type="m" corresp="#s3:l5">voorsien</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Wat ons meest van noden <rhyme label="d" type="m" corresp="#s3:l6">is</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

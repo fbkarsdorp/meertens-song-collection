@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4081</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Met deze nieuwe jaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Met desen nieuwen <rhyme label="a" type="f">iare</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">So wort ons <rhyme label="a" type="f" corresp="#s1:l1">openbare</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hoe dat een maecht <rhyme label="a" type="f" corresp="#s1:l1">vruchtbare</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die werelt heeft <rhyme label="b" type="m">verblijt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s1:l5">maechdekijn</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s1:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoe wel was haer te <rhyme label="a" type="f">moede</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Doen si in vleesch ende <rhyme label="a" type="f" corresp="#s2:l1">bloede</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Aensach haers herten <rhyme label="a" type="f" corresp="#s2:l1">hoede</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Den heere der werelt <rhyme label="b" type="m">wijt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s2:l5">maechdekijn</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s2:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Sy baerde hem sonder <rhyme label="a" type="f">pine</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ende bleef een maghet <rhyme label="a" type="f" corresp="#s3:l1">fine</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Des sondaers <rhyme label="a" type="f" corresp="#s3:l1">medecine</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dies hebben die ioden <rhyme label="b" type="m">spijt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s3:l5">maechdekijn</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s3:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Die engelen songen <rhyme label="a" type="f">schone</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Glorie inden <rhyme label="a" type="f" corresp="#s4:l1">throone</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Ter eeren ende te <rhyme label="a" type="f" corresp="#s4:l1">lone</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Den kinde <rhyme label="b" type="m">ghebenedijt</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s4:l5">maechdekijn</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s4:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Dat kint van duechden <rhyme label="a" type="f">rijcke</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Bracht ons hier in <rhyme label="a" type="f" corresp="#s5:l1">aertrijcke</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Den vrede <rhyme label="a" type="f" corresp="#s5:l1">ghewaerlijcke</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die herden hadden <rhyme label="b" type="m">iolijt</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s5:l5">maechdekijn</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s5:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Doen acht dagen waren <rhyme label="a" type="f">leden</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">So wert Iesus <rhyme label="a" type="f" corresp="#s6:l1">besneden</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Al na die ioetsche <rhyme label="a" type="f" corresp="#s6:l1">seden</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dwelc ons van sonden <rhyme label="b" type="m">vrijt</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s6:l5">maechdekijn</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s6:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Als Symeon die <rhyme label="a" type="f">oude</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Sach tkint: sijn herte <rhyme label="a" type="f" corresp="#s7:l1">vervroude</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Hi sprac dat ons noch <rhyme label="a" type="f" corresp="#s7:l1">soude</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Van sonden maken <rhyme label="b" type="m">quijt</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s7:l5">maechdekijn</rhyme></l>
+        <l id="s7:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s7:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Drie coninghen <rhyme label="a" type="f">onbecande</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Wt Orienten <rhyme label="a" type="f" corresp="#s8:l1">lande</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Quamen doen <rhyme label="a" type="f" corresp="#s8:l1">offerhande</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Den kinde / dyes seker <rhyme label="b" type="m">sijt</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s8:l5">maechdekijn</rhyme></l>
+        <l id="s8:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s8:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Sij seyden / het waer <rhyme label="a" type="f">gheboren</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Een coninck <rhyme label="a" type="f" corresp="#s9:l1">wtuercoren</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Der ioden / welc ons <rhyme label="a" type="f" corresp="#s9:l1">voren</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Verwinnen soude den <rhyme label="b" type="m">strijt</rhyme>.</l>
+        <l id="s9:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s9:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s9:l5">maechdekijn</rhyme></l>
+        <l id="s9:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s9:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Een sterre claer met <rhyme label="a" type="f">lichte</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Beweechde dese <rhyme label="a" type="f" corresp="#s10:l1">bedichte</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">Bi sijnder ghenaden <rhyme label="a" type="f" corresp="#s10:l1">ghiste</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Altoos sonder <rhyme label="b" type="m">respijt</rhyme></l>
+        <l id="s10:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s10:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s10:l5">maechdekijn</rhyme></l>
+        <l id="s10:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s10:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Doen dat Herodes <rhyme label="a" type="f">wiste</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Sijn herte seere <rhyme label="a" type="f" corresp="#s11:l1">twiste</rhyme></l>
+        <l id="s11:l3" met="3" type="-+">Hi vraechde daer na met <rhyme label="a" type="f" corresp="#s11:l1">liste</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Nochtans so hadden hijs <rhyme label="b" type="m">nijt</rhyme></l>
+        <l id="s11:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s11:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s11:l5">maechdekijn</rhyme></l>
+        <l id="s11:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s11:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="-+">Hi badt hen als sijt <rhyme label="a" type="f">vonden</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">Dat sijt hem <rhyme label="a" type="f" corresp="#s12:l1">oorconden</rhyme>.</l>
+        <l id="s12:l3" met="3" type="-+">Hi woudet in corten <rhyme label="a" type="f" corresp="#s12:l1">stonden</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Aenbeden sonder <rhyme label="b" type="m">verwijt</rhyme></l>
+        <l id="s12:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s12:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s12:l5">maechdekijn</rhyme></l>
+        <l id="s12:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s12:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="3" type="-+">Sij maecten een <rhyme label="a" type="f">ghesceyde</rhyme></l>
+        <l id="s13:l2" met="3" type="-+">Sij reden met <rhyme label="a" type="f" corresp="#s13:l1">arbeyde</rhyme></l>
+        <l id="s13:l3" met="3" type="-+">So hen die sterre <rhyme label="a" type="f" corresp="#s13:l1">leyde</rhyme></l>
+        <l id="s13:l4" met="3" type="-+">Tot in des kints <rhyme label="b" type="m">berijt</rhyme></l>
+        <l id="s13:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s13:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s13:l5">maechdekijn</rhyme></l>
+        <l id="s13:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s13:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="3" type="-+">Den veerthensten dach sijt <rhyme label="a" type="f">vroeder</rhyme></l>
+        <l id="s14:l2" met="3" type="-+">Sij vondent bider <rhyme label="a" type="f" corresp="#s14:l1">moeder</rhyme></l>
+        <l id="s14:l3" met="3" type="-+">Ioseph was sijn <rhyme label="a" type="f" corresp="#s14:l1">behoeder</rhyme></l>
+        <l id="s14:l4" met="3" type="-+">So ons scrifture belijt <rhyme label="b" type="m">Ghelo</rhyme>.</l>
+        <l id="s14:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s14:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s14:l5">maechdekijn</rhyme></l>
+        <l id="s14:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s14:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="3" type="-+">Myrrhe offerde <rhyme label="a" type="f">Iaspar</rhyme></l>
+        <l id="s15:l2" met="3" type="-+">Wieroock die coninc <rhyme label="a" type="f" corresp="#s15:l1">Melchior</rhyme></l>
+        <l id="s15:l3" met="3" type="-+">Daer na gout <rhyme label="a" type="f" corresp="#s15:l1">Balthazar</rhyme>.</l>
+        <l id="s15:l4" met="3" type="-+">Dies niet en ghelooft / <rhyme label="b" type="m">vertijt</rhyme></l>
+        <l id="s15:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s15:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s15:l5">maechdekijn</rhyme></l>
+        <l id="s15:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s15:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="3" type="-+">Als ses weken vol <rhyme label="a" type="f">quamen</rhyme></l>
+        <l id="s16:l2" met="3" type="-+">Si stont op na <rhyme label="a" type="f" corresp="#s16:l1">tbetamen</rhyme></l>
+        <l id="s16:l3" met="3" type="-+">Bevrijdt van alder <rhyme label="a" type="f" corresp="#s16:l1">blamen</rhyme></l>
+        <l id="s16:l4" met="3" type="-+">Om na te volghen die <rhyme label="b" type="m">wet</rhyme></l>
+        <l id="s16:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s16:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s16:l5">maechdekijn</rhyme></l>
+        <l id="s16:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s16:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="3" type="-+">Dus ghinc Maria <rhyme label="a" type="f">simpel</rhyme></l>
+        <l id="s17:l2" met="3" type="-+">Ende droech haer kint ten <rhyme label="a" type="f" corresp="#s17:l1">tempel</rhyme></l>
+        <l id="s17:l3" met="3" type="-+">Allen vrouwen tot een <rhyme label="a" type="f" corresp="#s17:l1">exempel</rhyme></l>
+        <l id="s17:l4" met="3" type="-+">Dies haer niet en <rhyme label="b" type="m">vermijt</rhyme></l>
+        <l id="s17:l5" met="4" type="-+">Gheloeft moet sijn dat soete <rhyme label="c" type="m">kiindekijn</rhyme></l>
+        <l id="s17:l6" met="4" type="-+">Gheeert moet sijn dat soete <rhyme label="c" type="m" corresp="#s17:l5">maechdekijn</rhyme></l>
+        <l id="s17:l7" met="5" type="-+">Nu ende eeuwelijck in alder <rhyme label="b" type="m" corresp="#s17:l4">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="3" type="-+">Elck vrolijck si hier <rhyme label="a" type="f">ane</rhyme></l>
+        <l id="s18:l2" met="3" type="-+">Bidt hem nu ende <rhyme label="a" type="f" corresp="#s18:l1">vermane</rhyme></l>
+        <l id="s18:l3" met="3" type="-+">Om ons bi hem te <rhyme label="a" type="f" corresp="#s18:l1">ontfane</rhyme></l>
+        <l id="s18:l4" met="3" type="-+">Eer ons die doot <rhyme label="b" type="m">verbijt</rhyme></l>
+        <l id="s18:l5" met="4" type="-+">Gheloeft moest sijn dat soete <rhyme label="c" type="m">kindekijn</rhyme></l>
+        <l id="s18:l6" met="4" type="-+">Gheert moet sijn die lieue moeder <rhyme label="c" type="m" corresp="#s18:l5">sijn</rhyme></l>
+        <l id="s18:l7" met="5" type="-+">Nu ende eewelijc in alder <rhyme label="b" type="m" corresp="#s18:l4">tijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

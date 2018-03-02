@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31212</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wa vrauwen schone. inde vrauwen <rhyme label="a" type="f">guode</rhyme>.</l>
+        <l id="s1:l2" met="5" type="+-">suoze inder wol gemuode. minne <rhyme label="b" type="f">leve</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">vrauwe. mase da bis bi inde <rhyme label="a" type="f" corresp="#s1:l1">huode</rhyme>.</l>
+        <l id="s1:l4" met="5" type="+-">dat si durch lieve ir spil iet over <rhyme label="b" type="f" corresp="#s1:l2">geve</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">wie sere vrauwen schone <rhyme label="c" type="f">tuingit</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">ist reyne muot der schone <rhyme label="d" type="m">bi</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">wen ir schone dan in kumber <rhyme label="c" type="f" corresp="#s1:l5">bringit</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">da is die reine schuldin <rhyme label="d" type="m" corresp="#s1:l6">vri</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

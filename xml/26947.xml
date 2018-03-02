@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26947</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>So wünsch ich dir gute Nacht</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">So w nsche ich ir ein guette <rhyme label="a" type="m">nachtt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Z  hundertt thausentt <rhyme label="b" type="f">stunden</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Wen ich ihr lieb rechtt <rhyme label="a" type="m" corresp="#s1:l1">betrachtt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">so ist mein leidt rechtt verschw <rhyme label="b" type="f" corresp="#s1:l2">ndenn</rhyme> /.</l>
+        <l id="s1:l5" met="4" type="-+">Wan ich sei sehe so erfrewett sei <rhyme label="c" type="m">mich</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">sei hatt mein hertz <rhyme label="d" type="f">besessen</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">wor wan ich ahn mein hertzen <rhyme label="e" type="m">bren</rhyme>  /</l>
+        <l id="s1:l8" met="3" type="-+">ich kan ihr nitt <rhyme label="d" type="f" corresp="#s1:l6">vergessenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Jn rechter trew ist sei mir <rhyme label="a" type="m">lieb</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">der ich mein hertz hab <rhyme label="b" type="f">gegebenn</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Z  dienen ihr ich mich <rhyme label="a" type="m" corresp="#s2:l1">verpflichtt</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Dweill ich hab das <rhyme label="b" type="f" corresp="#s2:l2">leben</rhyme>  /</l>
+        <l id="s2:l5" met="4" type="-+">Sei hatt mich gantz <rhyme label="c" type="m">hertzelich</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">mitt lieb vnnd z chtt <rhyme label="d" type="f">vmbfangenn</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">wes mir die schonste mehr mehr freudenn <rhyme label="e" type="m">gibtt</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">Darnach steitt mein <rhyme label="d" type="f" corresp="#s2:l6">verlangenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">An alle falsche will ich stetz <rhyme label="a" type="m">sein</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">bis an meins lebens  <rhyme label="b" type="f">endtt</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Gegen der allerliebste <rhyme label="a" type="m" corresp="#s3:l1">mein</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">vnnd nymer mehe von ihr <rhyme label="b" type="f" corresp="#s3:l2">wenden</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">mitt stettiger clagtt / tag vnnd <rhyme label="c" type="m">nachtt</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">mein hertz nach ir th itt <rhyme label="d" type="f">krencken</rhyme> /</l>
+        <l id="s3:l7" met="4" type="-+">Dr mb hoff ich sei wirtt och <rhyme label="e" type="m">mich</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">an ir armlein fr ndtlich th n <rhyme label="d" type="f" corresp="#s3:l6">schwencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

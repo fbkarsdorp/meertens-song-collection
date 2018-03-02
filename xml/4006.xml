@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4006</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>biblical history song</tag>
+    </tags>
+    <melody>Maagdje wilt gij geestelijk wezen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt gheuiel op eenen <rhyme label="a" type="m">donderdach</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer Christus hoorde ons <rhyme label="a" type="m" corresp="#s1:l1">gheclach</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In scrifture was <rhyme label="b" type="f">ghesloten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat hi een nieu testament <rhyme label="a" type="m" corresp="#s1:l1">versach</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Dat oude heeft hi <rhyme label="b" type="f" corresp="#s1:l3">ghebroken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hi heeft dat waer is ende <rhyme label="a" type="m">openbaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die wt den hemel was ghecomen <rhyme label="a" type="m" corresp="#s2:l1">daer</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Gheboren van eender <rhyme label="b" type="f">maghet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ende heeft drieendertich <rhyme label="a" type="m" corresp="#s2:l1">iaer</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Die siele ghesocht <rhyme label="b" type="f" corresp="#s2:l3">verstaghet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hemseluen ghelaten al in dat <rhyme label="a" type="m">scijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Vanden brode / ende vanden <rhyme label="a" type="m" corresp="#s3:l1">wijn</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Gaf hi met sinen <rhyme label="b" type="f">handen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Sijn lichaem gheleuert / tbloet moste ghestort <rhyme label="a" type="m" corresp="#s3:l1">sijn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dat waren twee diere <rhyme label="b" type="f" corresp="#s3:l3">panden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hi gaf hemseluen in een <rhyme label="a" type="m">present</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">In spise / in dranc / seer <rhyme label="a" type="m" corresp="#s4:l1">excellent</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Der sielen om te <rhyme label="b" type="f">schincken</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ontspringt / ende singt lof <rhyme label="a" type="m" corresp="#s4:l1">sacrament</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Wi willen ws <rhyme label="b" type="f" corresp="#s4:l3">ghedincken</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Aenscout dat broot der enghelen <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghegheuen den menschen voer haer <rhyme label="a" type="m" corresp="#s5:l1">behoet</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Het sal v siele <rhyme label="b" type="f">stercken</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Bewaren in allen <rhyme label="a" type="m" corresp="#s5:l1">teghenspoet</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ende leeren v duechden <rhyme label="b" type="f" corresp="#s5:l3">wercken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

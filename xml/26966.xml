@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26966</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Jch kam darher <rhyme label="a" type="f">gegangenn</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">die zeitt wartt mir nitt <rhyme label="b" type="m">langk</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">vnnd mir wartt dar <rhyme label="a" type="f" corresp="#s1:l1">gegeben</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">ein fre ndtlich <rhyme label="b" type="m" corresp="#s1:l2">vmmefangk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vnnd mir wartt dar <rhyme label="a" type="f">gegebenn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">all von der allerliebster <rhyme label="b" type="m">mein</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">mich dochtt es kam mir <rhyme label="a" type="f" corresp="#s2:l1">eben</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">och mochtt ich bei jr <rhyme label="b" type="m" corresp="#s2:l2">sein</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Sy fartt mich <rhyme label="a" type="f">alleine</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">als hier vnnd anders <rhyme label="b" type="m">wha</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">des w nschenn ich z  g <rhyme label="a" type="f" corresp="#s3:l1">tte</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">vill tha senntt guetter <rhyme label="b" type="m" corresp="#s3:l2">Jair</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Das ist mir ein schwere <rhyme label="a" type="f">noitt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">das ich mich m s meiden ir m ndlein <rhyme label="b" type="m">rott</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">wee mir h ide  vnnd <rhyme label="a" type="f" corresp="#s4:l1">jmmermehr</rhyme> /</l>
+        <l id="s4:l4" met="3" type="-+">wan ich sie so selden <rhyme label="b" type="m" corresp="#s4:l2">sehenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

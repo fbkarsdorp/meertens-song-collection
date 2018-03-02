@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35085</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Pour l'amitié</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Pour <rhyme label="a" type="m">L'amitié</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">lors quelle est vrai et <rhyme label="b" type="f">veritable</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">pour <rhyme label="a" type="m" corresp="#s1:l1">l'amitié</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">parfaite en toutes ses <rhyme label="a" type="m" corresp="#s1:l1">parties</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">pourveu quelle jamais <rhyme label="c" type="f">separe</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">je la revere et me <rhyme label="c" type="f" corresp="#s1:l5">declare</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">pour <rhyme label="a" type="m" corresp="#s1:l1">l'amitié</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Les faux <rhyme label="a" type="m">couleurs</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">ne cachent pas si bien quon <rhyme label="b" type="f">pense</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">les faux <rhyme label="a" type="m" corresp="#s2:l1">couleurs</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">font qu'on connoist <rhyme label="a" type="m" corresp="#s2:l1">l'interieur</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">de bien des gens qui veulent <rhyme label="c" type="f">feindre</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">on appercoit sans se <rhyme label="c" type="f" corresp="#s2:l5">contraindre</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">les feaux <rhyme label="a" type="m" corresp="#s2:l1">couleurs</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">la <rhyme label="a" type="m">fascherie</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">que vous croiez que lon vous <rhyme label="b" type="f">donne</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">la <rhyme label="a" type="m" corresp="#s3:l1">fascherie</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">vous la preuvez mesme en <rhyme label="a" type="m" corresp="#s3:l1">partie</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">vos actions et vos <rhyme label="c" type="f">paroles</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">fomentent par raisons <rhyme label="c" type="f" corresp="#s3:l5">frivoles</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">la <rhyme label="a" type="m" corresp="#s3:l1">fascherie</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">la <rhyme label="a" type="m">jalouzie</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">qui vous chagrine et perse <rhyme label="b" type="f">lame</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">la <rhyme label="a" type="m" corresp="#s4:l1">jalouzie</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">qui vous fait enfler des <rhyme label="a" type="m" corresp="#s4:l1">epit</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">doit infecter comme la <rhyme label="c" type="f">peste</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">quand au lieu des plaisirs vous <rhyme label="c" type="f" corresp="#s4:l5">reste</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">la <rhyme label="a" type="m" corresp="#s4:l1">jalouzie</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Tout son <rhyme label="a" type="m">dedain</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">ne scauroit changer la <rhyme label="b" type="f">conduite</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">tout son <rhyme label="a" type="m" corresp="#s5:l1">dedain</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">doit toujours eclater en <rhyme label="a" type="m" corresp="#s5:l1">vain</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">cest ce qui donne du <rhyme label="c" type="f">courage</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">pour eluder bien <rhyme label="c" type="f" corresp="#s5:l5">d'avantage</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">tout son <rhyme label="a" type="m" corresp="#s5:l1">dedain</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">ses plus grands <rhyme label="a" type="m">soins</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">sont de sous mains me jouer <rhyme label="b" type="f">piete</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">ses plus grands <rhyme label="a" type="m" corresp="#s6:l1">soins</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">sont feaux mais cela me touche <rhyme label="a" type="m" corresp="#s6:l1">point</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">la verite toujours <rhyme label="c" type="f">fertile</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">en bons moiens rend <rhyme label="c" type="f" corresp="#s6:l5">inutile</rhyme></l>
+        <l id="s6:l7" met="2" type="-+">ses plus grands <rhyme label="a" type="m" corresp="#s6:l1">soins</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="2" type="-+">par des <rhyme label="a" type="m">soubsons</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">en ne fait que troubler leau <rhyme label="b" type="f">claire</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">par de <rhyme label="a" type="m" corresp="#s7:l1">soubsons</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">on fait quon pense rien de <rhyme label="a" type="m" corresp="#s7:l1">bon</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">quoi quen tout on soit <rhyme label="c" type="f">innocente</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">on nous irrite et nous <rhyme label="c" type="f" corresp="#s7:l5">tourment</rhyme></l>
+        <l id="s7:l7" met="2" type="-+">par des <rhyme label="a" type="m" corresp="#s7:l1">soubsons</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="2" type="-+">les petits <rhyme label="a" type="m">tours</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">que clandestinement on <rhyme label="b" type="f">joue</rhyme></l>
+        <l id="s8:l3" met="2" type="-+">les petits <rhyme label="a" type="m" corresp="#s8:l1">tours</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">poursuivent lentement leurs <rhyme label="a" type="m" corresp="#s8:l1">cours</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">laissons les remplir la <rhyme label="c" type="f">mesure</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">ils joueronts avec <rhyme label="c" type="f" corresp="#s8:l5">usure</rhyme></l>
+        <l id="s8:l7" met="2" type="-+">leurs petits <rhyme label="a" type="m" corresp="#s8:l1">tours</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

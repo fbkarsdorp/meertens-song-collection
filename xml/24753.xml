@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24753</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Mijn zin mijn moed mijn harten bloed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn zin mijn moet mijns hertzen <rhyme label="a" type="m">bloet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Anich so minnenlijch <rhyme label="b" type="m">gevuecht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Eewich an eene vrouwe <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Sonder verdriet het mir <rhyme label="b" type="m" corresp="#s1:l2">ghenuecht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met rechter minnentliker <rhyme label="a" type="m">duecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Altoos ic om haer dincken <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">El niet mijn hertz mijn zin <rhyme label="a" type="m" corresp="#s2:l1">verhuecht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">So gheift mi tallen vruechden <rhyme label="b" type="m" corresp="#s2:l2">spoet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mochtic noch van haer sijn <rhyme label="a" type="m">behoet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Also mi minne an haer <rhyme label="b" type="m">bewuecht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Eer mi nature sterven <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">So waric vro vul al der <rhyme label="b" type="m" corresp="#s3:l2">vruecht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

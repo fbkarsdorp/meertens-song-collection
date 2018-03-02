@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3930</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Een Venus' diertje heb ik uitverkoren</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOort hier na man ende <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die Marien dienaers <rhyme label="b" type="m">sijt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Gheeft haer op siel ende <rhyme label="a" type="m" corresp="#s1:l1">lijf</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wildy van haer sijn <rhyme label="b" type="m" corresp="#s1:l2">beurijt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Allen vrouwen <rhyme label="c" type="f">bouen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Moeten wij haer <rhyme label="c" type="f" corresp="#s1:l5">louen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Bidt God dat hi den staet <rhyme label="d" type="m">versta</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Lofweerdige schoone <rhyme label="d" type="m" corresp="#s1:l7">Maria</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O coninginne van <rhyme label="a" type="m">hemelrijc</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Des sondaers alder beste <rhyme label="b" type="m">vrient</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Noyt mensch en vant in v <rhyme label="a" type="m" corresp="#s2:l1">beswijc</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die v met goeder herten <rhyme label="b" type="m" corresp="#s2:l2">dient</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">In soe menigher <rhyme label="c" type="f">stede</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Hier ende elders <rhyme label="c" type="f" corresp="#s2:l5">mede</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Repareert ghi der lieden <rhyme label="d" type="m">scha</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Lofweerdighe schone <rhyme label="d" type="m" corresp="#s2:l7">Maria</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Eerweerdighe beelde <rhyme label="a" type="m">miraculeus</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Het is wel recht datmen v <rhyme label="b" type="m">eert</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Vrouwe der engelen <rhyme label="a" type="m" corresp="#s3:l1">gracieus</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Wie dat uwen dienst <rhyme label="b" type="m" corresp="#s3:l2">vermeert</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Wint voer een duechde <rhyme label="c" type="f">schoone</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Iesum tot sinen <rhyme label="c" type="f" corresp="#s3:l5">loone</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Noyt moeders minne en ghinc ons soe <rhyme label="d" type="m">na</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Lofweerdige schoone <rhyme label="d" type="m" corresp="#s3:l7">Maria</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Moeder der <rhyme label="a" type="m">ontfermherticheden</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Fonteyne der <rhyme label="b" type="m">ghenadicheyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Blinckende tempel Gods vol <rhyme label="a" type="m" corresp="#s4:l1">vreden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Slot der maechden <rhyme label="b" type="m" corresp="#s4:l2">reynicheyt</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Aarons roede <rhyme label="c" type="f">bloeyende</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Moyses doorne <rhyme label="c" type="f" corresp="#s4:l5">groeyende</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Arcke van Noe / suyuer <rhyme label="d" type="m">la</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Lof edel minlicke <rhyme label="d" type="m" corresp="#s4:l7">Maria</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghi sijt die godlicke <rhyme label="a" type="m">berade</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die des vaders gramscap heeft <rhyme label="b" type="m">ghestilt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ghelijc Hester Assuero <rhyme label="a" type="m" corresp="#s5:l1">payde</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Dies Mardocheus sijn lijf <rhyme label="b" type="m" corresp="#s5:l2">behilt</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Wij waren alle <rhyme label="c" type="f">verloren</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Maer dat kint van v <rhyme label="c" type="f" corresp="#s5:l5">gheboren</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Heeft ons verlost wten helscen <rhyme label="d" type="m">qua</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Lof aldersuuerste maget <rhyme label="d" type="m" corresp="#s5:l7">Maria</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dauids slingher van machte <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Daer Golias voren tonder <rhyme label="b" type="m">bleef</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Ghi hebt den vyant ghebrocht ter <rhyme label="a" type="m" corresp="#s6:l1">doot</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Also den olifant het serpent <rhyme label="b" type="m" corresp="#s6:l2">verdreef</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Ghi loste volc ende <rhyme label="c" type="f">landen</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Wt Holifernes <rhyme label="c" type="f" corresp="#s6:l5">handen</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Soe Iudith verloste <rhyme label="d" type="m">Betulia</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Lof Christus lieue moeder <rhyme label="d" type="m" corresp="#s6:l7">Maria</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Lya seuen kinderen <rhyme label="a" type="m">baerde</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ghi baerde een inder <rhyme label="b" type="m">waerheyt</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Het licht dat hemel ende aerde <rhyme label="a" type="m" corresp="#s7:l1">verclaerde</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Het lam der <rhyme label="b" type="m" corresp="#s7:l2">ontfermherticheyt</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Sybilla <rhyme label="c" type="f">propheteerde</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Dat v God <rhyme label="c" type="f" corresp="#s7:l5">oerdineerde</rhyme></l>
+        <l id="s7:l7" met="4" type="-+">Dies sloech Octauianus <rhyme label="d" type="m">ga</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Lof alder schoonste <rhyme label="d" type="m" corresp="#s7:l7">Maria</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Veel schoonder dan Noemi <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Sydy Maria Gods moeder <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Ghelijc de sonne doerschijnt het <rhyme label="a" type="m" corresp="#s8:l1">ghelas</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Quam God in uwen onbesmetten <rhyme label="b" type="m" corresp="#s8:l2">moet</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">Moeder ende maghet <rhyme label="c" type="f">bleuen</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Dat hi ons sonder <rhyme label="c" type="f" corresp="#s8:l5">sneuen</rhyme></l>
+        <l id="s8:l7" met="4" type="-+">Van alle onse sonden <rhyme label="d" type="m">dwa</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Lof Gods moeder <rhyme label="d" type="m" corresp="#s8:l7">Maria</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">O wise Sara / bidt <rhyme label="a" type="m">Abraham</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Dat hi ons wil bewaren <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Al dat hier comen is / oft <rhyme label="a" type="m" corresp="#s9:l1">quam</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">In hemelrijc bringhe daert <rhyme label="b" type="m" corresp="#s9:l2">behoort</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">Dit liet van wiser <rhyme label="c" type="f">leeren</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">Ghemaect tot uwer <rhyme label="c" type="f" corresp="#s9:l5">eeren</rhyme></l>
+        <l id="s9:l7" met="4" type="-+">Tis recht datment in danck <rhyme label="d" type="m">ontfa</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">Lof alder goedertierenste <rhyme label="d" type="m" corresp="#s9:l7">Maria</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

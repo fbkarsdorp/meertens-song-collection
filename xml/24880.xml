@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24880</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Natuur heeft in mij zo gewrocht</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nature haet in mich so <rhyme label="a" type="m">ghewracht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Das ich met steiden bem <rhyme label="a" type="m" corresp="#s1:l1">bedacht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Tsoe dinen dienst troutzaerte <rhyme label="b" type="f">reine</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Wes icht <rhyme label="b" type="f" corresp="#s1:l3">beweine</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Lijf ende goet met ganser <rhyme label="a" type="m" corresp="#s1:l1">macht</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Es dijn <rhyme label="b" type="f" corresp="#s1:l3">alleine</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Vor di ne <rhyme label="b" type="f" corresp="#s1:l3">gheine</rhyme></l>
+        <l id="s1:l8" met="2" type="+-"><rhyme label="c" type="m">Sekerlijch</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Das hueghet <rhyme label="c" type="m" corresp="#s1:l8">mijch</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Up minen heit vrauwe duechden <rhyme label="c" type="m" corresp="#s1:l8">rijch</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Ghelooft das <rhyme label="c" type="m" corresp="#s1:l8">ich</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">met truwen <rhyme label="b" type="f" corresp="#s1:l3">meine</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Venus danc hebbe dijn zuetse <rhyme label="a" type="m" corresp="#s1:l1">cracht</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Mijn hertze aenstu daer tzoe <rhyme label="a" type="m" corresp="#s1:l1">ghebracht</rhyme></l>
+        <l id="s1:l15" met="4" type="-+">Das ich ne creech so lief nye <rhyme label="b" type="f" corresp="#s1:l3">eyne</rhyme></l>
+        <l id="s1:l16" met="2" type="-+">Als di <rhyme label="b" type="f" corresp="#s1:l3">alleine</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nature haet in mi so <rhyme label="a" type="m">ghewracht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Das ich met steiden bem <rhyme label="a" type="m" corresp="#s2:l1">bedach</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Tzoe dinen dienste troutzaerte <rhyme label="b" type="f">reine</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Wes icht <rhyme label="b" type="f" corresp="#s2:l3">beweine</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Al mijn ghedinken dach ende <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Dats al om dir so wie mijns <rhyme label="b" type="f" corresp="#s2:l3">acht</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Saltuus verghessen <rhyme label="b" type="f" corresp="#s2:l3">souvereine</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Das huecht mi <rhyme label="c" type="m">cleine</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Troutliefste vrauwe mijn liden <rhyme label="c" type="m" corresp="#s2:l8">zacht</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Rechts gonst <rhyme label="c" type="m" corresp="#s2:l8">ghemeine</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Gheen troost mich <rhyme label="c" type="m" corresp="#s2:l8">leine</rhyme></l>
+        <l id="s2:l12" met="2" type="-+">Das gan ich <rhyme label="b" type="f" corresp="#s2:l3">dijch</rhyme></l>
+        <l id="s2:l13" met="4" type="-+">Wes vruechden <rhyme label="a" type="m" corresp="#s2:l1">rijch</rhyme></l>
+        <l id="s2:l14" met="4" type="-+">Dijn stridicheit ghelievet <rhyme label="a" type="m" corresp="#s2:l1">mijch</rhyme></l>
+        <l id="s2:l15" met="4" type="-+">Des dankich <rhyme label="b" type="f" corresp="#s2:l3">dich</rhyme></l>
+        <l id="s2:l16" met="2" type="-+">lief zuese <rhyme label="b" type="f" corresp="#s2:l3">reine</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27889</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scenic song</tag>
+      <tag>secular song</tag>
+      <tag>Chamber of rhetoric's song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">#Mijn liefste <rhyme label="a" type="m">lief</rhyme>/</l>
+        <l id="s1:l2" met="3" type="-+">Dat noyt mijn herte <rhyme label="a" type="m" corresp="#s1:l1">betief</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Ses al int herte/ alst pakt by <rhyme label="b" type="f">apetyte</rhyme>/</l>
+        <l id="s1:l4" met="2" type="-+">Sy blust <rhyme label="a" type="m" corresp="#s1:l1">miskief</rhyme>/</l>
+        <l id="s1:l5" met="3" type="-+">Van mijnder herten <rhyme label="a" type="m" corresp="#s1:l1">grief</rhyme>/</l>
+        <l id="s1:l6" met="4" type="-+">Aenhoortse/ dat ick nv deerlic <rhyme label="b" type="f" corresp="#s1:l3">cryte</rhyme>/</l>
+        <l id="s1:l7" met="4" type="-+">Quijtse haer seluen/ sen ist maer <rhyme label="b" type="f" corresp="#s1:l3">quyte</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

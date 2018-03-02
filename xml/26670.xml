@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26670</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1725</year-end>
+    </date>
+    <location>
+      <orginal-name>gelre (venlo?)</orginal-name>
+      <standard-name>Venlo, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.3702109</lon>
+        <lat>6.1688954</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+      <tag>mystical song</tag>
+      <tag>wedding song</tag>
+    </tags>
+    <melody>Puer nobis nascitur</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hed ich dye vloegel van <rhyme label="a" type="m">seraphyn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ick sold so hoge <rhyme label="b" type="f">fliegen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hir boven in des hymmels <rhyme label="c" type="m">troen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Tot mynen soeten <rhyme label="b" type="f" corresp="#s1:l2">lieven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soe wolde ick seggen: `Heer Vader <rhyme label="a" type="m">myn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wanneer wildus my <rhyme label="b" type="f">lonen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat ich lange gedyenet <rhyme label="c" type="m">hayn</rhyme>?</l>
+        <l id="s2:l4" met="3" type="-+">Nu gevet my dye <rhyme label="b" type="f" corresp="#s2:l2">crone</rhyme>.'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">`Myn seel, nu gaet hir vor my <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">My dunckt ghy syt soe <rhyme label="b" type="f">schone</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">My dunckt dat ghy eyn spegel <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dar in verklaer ick myn <rhyme label="b" type="f" corresp="#s3:l2">ogen</rhyme>.'</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">`Mer dat ick alsoe schone <rhyme label="a" type="m">byn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat maech ich wael <rhyme label="b" type="f">gelyden</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Ick solde so gerne gecronet <rhyme label="c" type="m">syn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende sitten by uwer <rhyme label="b" type="f" corresp="#s4:l2">syden</rhyme>.'</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">`Wael op, ghy here van <rhyme label="a" type="m">seraphyn</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Wael op, ghy heren <rhyme label="b" type="f">alle</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Versiert dese verwende <rhyme label="c" type="m">bruit</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Si is ons wael <rhyme label="b" type="f" corresp="#s5:l2">gevallen</rhyme>.'</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Do quam dye engel van <rhyme label="a" type="m">seraphyn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ende brachten eyn cleit van <rhyme label="b" type="f">syden</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Dat dye bruit all aen solde <rhyme label="c" type="m">doyn</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ende sitten by Christus <rhyme label="b" type="f" corresp="#s6:l2">syden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Doe quam Got selver ende bracht syn <rhyme label="a" type="m">croen</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Sy was van roden <rhyme label="b" type="f">golde</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Ende satt der bruit all up oer <rhyme label="c" type="m">hoeft</rhyme>:</l>
+        <l id="s7:l4" met="3" type="-+">Soe wassi als sy wesen <rhyme label="b" type="f" corresp="#s7:l2">solde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

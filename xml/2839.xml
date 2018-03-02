@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2839</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>O Venus' band o vurige brand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Veenes wat hebt gij nu <rhyme label="a" type="m">gewracht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat gij mijn Int lijden hebt <rhyme label="a" type="m" corresp="#s1:l1">gebracht</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Mijn en mach geen troost <rhyme label="b" type="f">gebueren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">pracktycken heeft hij soe veel <rhyme label="a" type="m" corresp="#s1:l1">gesocht</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Mijn liefde kan niet sin <rhyme label="a" type="m" corresp="#s1:l1">ontknocht</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">tot geender <rhyme label="b" type="f" corresp="#s1:l3">ueren</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Dus soe moet Ick eewich <rhyme label="b" type="f" corresp="#s1:l3">trueren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O veenes gij waert alle diet mijn <rhyme label="a" type="m">riet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Gij die mijn gebrocht hebt Int <rhyme label="a" type="m" corresp="#s2:l1">voerdriet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">heel hebt gij mij <rhyme label="b" type="f">bedroegen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">het liefelick gesicht dat van haer <rhyme label="a" type="m" corresp="#s2:l1">vlicht</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">recht als een strael mijn hert <rhyme label="a" type="m" corresp="#s2:l1">doorschiet</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">U soete bruin <rhyme label="b" type="f" corresp="#s2:l3">eogen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">hebben mijn In een strick van minnen <rhyme label="b" type="f" corresp="#s2:l3">getoegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Saelomon die wis en Daevit <rhyme label="a" type="m">gris</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">men Jaechde adam uit den <rhyme label="a" type="m" corresp="#s3:l1">paraedijs</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Om een goddin vol <rhyme label="b" type="f">ontrouwe</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">apsaelon bleef hangen aen een <rhyme label="a" type="m" corresp="#s3:l1">ris</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">die schoen heelenae spande <rhyme label="a" type="m" corresp="#s3:l1">prijs</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">boven alle <rhyme label="b" type="f" corresp="#s3:l3">vrouwen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">menich man brocht sij in <rhyme label="b" type="f" corresp="#s3:l3">rouwen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Arijetoeteles die men als een paert <rhyme label="a" type="m">bereet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">daelijdae samson thaer <rhyme label="a" type="m" corresp="#s4:l1">afsneet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">virgilijes hinck inde <rhyme label="b" type="f">mande</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">luekresije haer selleven <rhyme label="a" type="m" corresp="#s4:l1">voerdee</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">daevit voerkrachte <rhyme label="a" type="m" corresp="#s4:l1">besaebee</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">tot sinder <rhyme label="b" type="f" corresp="#s4:l3">schande</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">het quam al doer veenes <rhyme label="b" type="f" corresp="#s4:l3">bande</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ick does geklach laet ende <rhyme label="a" type="m">vroech</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ick klaech seres en <rhyme label="a" type="m" corresp="#s5:l1">cuibijdoe</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Ick klaegh goeden en <rhyme label="b" type="f">goedinnen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">neptuenes Jupiter en <rhyme label="a" type="m" corresp="#s5:l1">plutoe</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Venes pallaes en <rhyme label="a" type="m" corresp="#s5:l1">Jueoe</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Wiltse <rhyme label="b" type="f" corresp="#s5:l3">ontbinnen</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">die daer sin In eenen strick van <rhyme label="b" type="f" corresp="#s5:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O veenes gy hout mijn hert <rhyme label="a" type="m">bevaen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">recht als Juepeter heeft <rhyme label="a" type="m" corresp="#s6:l1">gedaen</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">In Juenyoes liefden <rhyme label="b" type="f">ontsteeken</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Leander en kostet niet <rhyme label="a" type="m" corresp="#s6:l1">ontgaen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">pieraemes en kostet weeder <rhyme label="a" type="m" corresp="#s6:l1">staen</rhyme></l>
+        <l id="s6:l6" met="2" type="-+">u loose <rhyme label="b" type="f" corresp="#s6:l3">trecken</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">mijn hert dunck mijn van binnen te <rhyme label="b" type="f" corresp="#s6:l3">breeken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Haedieu Prinsesse leeft met <rhyme label="a" type="m">Jolit</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Haedieu tot op een ander <rhyme label="a" type="m" corresp="#s7:l1">tijt</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Haedieu schoen bloemje <rhyme label="b" type="f">gepreesen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Haedieu wiens liefde mijn hart <rhyme label="a" type="m" corresp="#s7:l1">duersnit</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Haedieu wiens liefde mijn hart <rhyme label="a" type="m" corresp="#s7:l1">voerblijt</rhyme></l>
+        <l id="s7:l6" met="2" type="-+">reyn liefelick <rhyme label="b" type="f" corresp="#s7:l3">weese</rhyme></l>
+        <l id="s7:l7" met="4" type="-+">Orlof neem Ick midts <rhyme label="b" type="f" corresp="#s7:l3">deesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

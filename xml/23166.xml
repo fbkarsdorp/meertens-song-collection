@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23166</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Procedentem sponsum de thalamo</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Procedentem sponsum de <rhyme label="a" type="m">thalamo</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Prophetavit scriba cum <rhyme label="a" type="m">calamo</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Ergo benedicamus <rhyme label="a" type="m">domino</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Deo dicamus <rhyme label="a" type="m">domino</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

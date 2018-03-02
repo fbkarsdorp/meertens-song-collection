@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2358</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Allemande la douce</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Laet ons hier <rhyme label="a" type="f">beneden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Den tijt wel <rhyme label="a" type="f" corresp="#s1:l1">besteden</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In dit aertsche <rhyme label="b" type="m">dal</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">Soo sullen wij in <rhyme label="a" type="f" corresp="#s1:l1">vreden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Inden hemel <rhyme label="a" type="f" corresp="#s1:l1">treden</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">Alst Godt believen <rhyme label="b" type="m" corresp="#s1:l3">sal</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Heere haelt my toch <rhyme label="c" type="m">tuys</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Heere haelt my toch <rhyme label="c" type="m" corresp="#s1:l7">tuys</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">De werelt is mij een <rhyme label="c" type="m" corresp="#s1:l7">cruys</rhyme> /</l>
+        <l id="s1:l10" met="3" type="+-">Waer ick henen <rhyme label="d" type="f">keere</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Het isser al <rhyme label="c" type="m" corresp="#s1:l7">confuys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waer is den tijt <rhyme label="a" type="f">ghevaeren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Dat wij al tsamen <rhyme label="a" type="f" corresp="#s2:l1">waeren</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">In liefden en <rhyme label="b" type="m">accoort</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Wij en zijn nu alle <rhyme label="a" type="f" corresp="#s2:l1">gaere</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Niet int <rhyme label="a" type="f" corresp="#s2:l1">openbaere</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dan twist ende <rhyme label="b" type="m" corresp="#s2:l3">discoordt</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">O Heer haelt mij doch <rhyme label="c" type="m">thuys</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">O Heer haelt mij doch <rhyme label="c" type="m" corresp="#s2:l7">thuys</rhyme> /</l>
+        <l id="s2:l9" met="3" type="-+">De werelt es mij een <rhyme label="c" type="m" corresp="#s2:l7">cruys</rhyme> /</l>
+        <l id="s2:l10" met="3" type="+-">Waer ick henen <rhyme label="d" type="f">keere</rhyme> /</l>
+        <l id="s2:l11" met="3" type="+-">Het isser al <rhyme label="c" type="m" corresp="#s2:l7">confuys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wy mogen al wel <rhyme label="a" type="f">weenen</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">Oudt / ionck / groot ende <rhyme label="a" type="f" corresp="#s3:l1">cleyne</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">Over desen droeven <rhyme label="b" type="m">tijt</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Want wij int <rhyme label="a" type="f" corresp="#s3:l1">ghemeene</rhyme>/</l>
+        <l id="s3:l5" met="3" type="-+">Int gheselschap oft <rhyme label="a" type="f" corresp="#s3:l1">alleene</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Niet en hooren dat ons <rhyme label="b" type="m" corresp="#s3:l3">verblijt</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">O Heere haelt mij toch <rhyme label="c" type="m">thuys</rhyme>.</l>
+        <l id="s3:l8" met="3" type="-+">O Heere haelt mij toch <rhyme label="c" type="m" corresp="#s3:l7">thuys</rhyme>.</l>
+        <l id="s3:l9" met="3" type="-+">De werelt is mij een <rhyme label="c" type="m" corresp="#s3:l7">cruys</rhyme> /</l>
+        <l id="s3:l10" met="3" type="+-">Waer ick henen <rhyme label="d" type="f">keere</rhyme> /</l>
+        <l id="s3:l11" met="3" type="+-">Het isser al <rhyme label="c" type="m" corresp="#s3:l7">confuys</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O alderliefste <rhyme label="a" type="f">Heere</rhyme> /</l>
+        <l id="s4:l2" met="3" type="-+">Waer is die goddelijke <rhyme label="a" type="f" corresp="#s4:l1">eere</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">Diemen u te doene <rhyme label="b" type="m">plach</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Want men nu niet <rhyme label="a" type="f" corresp="#s4:l1">meere</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dies mijn herte mij breect van <rhyme label="a" type="f" corresp="#s4:l1">zeere</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Uwen dienst hier doen en <rhyme label="b" type="m" corresp="#s4:l3">mach</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">O Heere haelt mij toch <rhyme label="c" type="m">thuys</rhyme>/</l>
+        <l id="s4:l8" met="3" type="-+">O Heere haelt mij toch <rhyme label="c" type="m" corresp="#s4:l7">thuys</rhyme>/</l>
+        <l id="s4:l9" met="3" type="-+">De werelt is mij een <rhyme label="c" type="m" corresp="#s4:l7">cruys</rhyme> /</l>
+        <l id="s4:l10" met="3" type="+-">Waer ick henen <rhyme label="d" type="f">keere</rhyme></l>
+        <l id="s4:l11" met="3" type="+-">Het isser al <rhyme label="c" type="m" corresp="#s4:l7">confuys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

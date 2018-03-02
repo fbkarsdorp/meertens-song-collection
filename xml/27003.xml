@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27003</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Schons lieb ich bin dir trew vnnd <rhyme label="a" type="m">holtt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">a ß gantzem meinem <rhyme label="b" type="f">hertzenn</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Woltt gott das mirs geb renn <rhyme label="a" type="m" corresp="#s1:l1">soltt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">mitt dir fr ndtlich z  <rhyme label="b" type="f" corresp="#s1:l2">schertzenn</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">nichtt liebers a ff <rhyme label="c" type="m">erdt</rhyme> /</l>
+        <l id="s1:l6" met="2" type="-+">mein J nges hertz <rhyme label="c" type="m" corresp="#s1:l5">begertt</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">dan dein fre ndtschafft z  <rhyme label="d" type="f">erwerbenn</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">Desto frolicher woltt ich <rhyme label="d" type="f" corresp="#s1:l7">sterbenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">D  sollstt mein gem ett nichtt <rhyme label="a" type="m">verachten</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">Du schones megdlein <rhyme label="b" type="f">rein</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Vnnd mein g nst d  <rhyme label="a" type="m" corresp="#s2:l1">betrachtenn</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Dweill ich dich f r all <rhyme label="b" type="f" corresp="#s2:l2">gemein</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">hab a <rhyme label="c" type="m">ßerkorenn</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">nitt laß sein / <rhyme label="c" type="m" corresp="#s2:l5">verlorenn</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">vergeltt lieb mitt <rhyme label="d" type="f">trewenn</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">Daß soll dich nitt gera <rhyme label="d" type="f" corresp="#s2:l7">wenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sprich z  mir ein freundtliche <rhyme label="a" type="m">redde</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">das mein hertz trost <rhyme label="b" type="f">befinde</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">vnnd mein schmertz sich verker z  fre <rhyme label="a" type="m" corresp="#s3:l1">dt</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Dir will ich mich eweglich <rhyme label="b" type="f" corresp="#s3:l2">verbynden</rhyme>  /</l>
+        <l id="s3:l5" met="2" type="-+">Der diener <rhyme label="c" type="m">dein</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">Zartt liebste <rhyme label="c" type="m" corresp="#s3:l5">mein</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">vor meines lebens  <rhyme label="d" type="f">ende</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">will ich von dir nitt <rhyme label="d" type="f" corresp="#s3:l7">wendenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

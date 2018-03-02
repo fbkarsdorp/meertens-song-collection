@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34718</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1651</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [te koop in]</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+    </tags>
+    <melody>Bruinsmadelijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">N'En man die een quaedt wijf <rhyme label="a" type="f">heet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die isser qualijck <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Want al wat s'hem op 't lijf <rhyme label="a" type="f" corresp="#s1:l1">leet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dat moet hy onder <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Schueren, schrobben, wieghen, <rhyme label="c" type="f">vaghen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Of hy crijght het hert vol <rhyme label="c" type="f" corresp="#s1:l5">slaghen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Isser niet qualijck <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Noch is het al veel <rhyme label="a" type="f">beter</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Te trouwen een quaey <rhyme label="b" type="m">griet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Als wel een lichte <rhyme label="a" type="f" corresp="#s2:l1">kleter</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die gheerne vremden <rhyme label="b" type="m" corresp="#s2:l2">siet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Want die kroont den man met <rhyme label="c" type="f">horens</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ghelijck hooghe scherpe <rhyme label="c" type="f" corresp="#s2:l5">torens</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Is niet groot <rhyme label="b" type="m" corresp="#s2:l2">verdriet</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En die n'en quaden man <rhyme label="a" type="f">heeft</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Is oock ghenoegh <rhyme label="b" type="m">gheplaeght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die gheerne by de kan <rhyme label="a" type="f" corresp="#s3:l1">leeft</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En nievers naer en <rhyme label="b" type="m" corresp="#s3:l2">vraeght</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Drincken, tuysschen, kijven, <rhyme label="c" type="f">knorren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En ghegheslaghen noch te <rhyme label="c" type="f" corresp="#s3:l5">worden</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">'T is te veel by <rhyme label="b" type="m" corresp="#s3:l2">een</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">En noch sou sy al <rhyme label="a" type="f">swijghen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat hy maer wercken <rhyme label="b" type="m">wou</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En sien den kost te <rhyme label="a" type="f" corresp="#s4:l1">krijghen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Voor kinders ende <rhyme label="b" type="m" corresp="#s4:l2">vrouw</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Maer ydel buycken, korsel <rhyme label="c" type="f">sinnen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Veel te slaen, en luttel <rhyme label="c" type="f" corresp="#s4:l5">winnen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Can niet 't samen <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Om in gheen krackeel te <rhyme label="a" type="f">vallen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Wat ick u raden <rhyme label="b" type="m">sou</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">(Dit dunckt my best van <rhyme label="a" type="f" corresp="#s5:l1">allen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Voor man soo wel als <rhyme label="b" type="m" corresp="#s5:l2">vrouw</rhyme>)</l>
+        <l id="s5:l5" met="4" type="-+">Alle bey onghehouwt te <rhyme label="c" type="f">blijven</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Dan sal d'een noch d'ander <rhyme label="c" type="f" corresp="#s5:l5">kijven</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Wat dunckt u hier <rhyme label="b" type="m" corresp="#s5:l2">van</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30974</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <location>
+      <orginal-name>italië</orginal-name>
+      <standard-name>Italy</standard-name>
+      <coordinates>
+        <lon>42.6384261</lon>
+        <lat>12.674297</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Meisje is uw kutje ruw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Meschine su chut <rhyme label="a" type="m">churi</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Vatebtighi mete <rhyme label="b" type="f">done</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Lazemitas tendat <rhyme label="a" type="m" corresp="#s1:l1">bideghu</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Obien tot morchent <rhyme label="b" type="f" corresp="#s1:l2">moen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Itso <rhyme label="c" type="m">luaer</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Itso <rhyme label="c" type="m" corresp="#s1:l5">daschar</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">It <rhyme label="c" type="m" corresp="#s1:l5">asternaer</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Obien tot morghent <rhyme label="b" type="f" corresp="#s1:l2">moen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

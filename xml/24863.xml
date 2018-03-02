@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24863</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Nieuwjaar heeft mij verheugd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nieuwe jaer haet mich <rhyme label="a" type="m">verhuecht</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Met rechter <rhyme label="a" type="m" corresp="#s1:l1">vruecht</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Vrauwe in dijnre <rhyme label="b" type="f">hoede</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Du aens mijn hertze also <rhyme label="a" type="m" corresp="#s1:l1">bewuecht</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Met dijnre <rhyme label="a" type="m" corresp="#s1:l1">duecht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Wi soldichs werden <rhyme label="b" type="f" corresp="#s1:l3">moede</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ich haen ghehadt der jaren <rhyme label="a" type="m">veil</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Met vruechden <rhyme label="a" type="m" corresp="#s2:l1">speil</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dan can mi niet <rhyme label="b" type="f">verdriesen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Met trauwen icht voor niders <rhyme label="a" type="m" corresp="#s2:l1">heil</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Hoe das ich <rhyme label="a" type="m" corresp="#s2:l1">queil</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Ich wils mi voort <rhyme label="b" type="f" corresp="#s2:l3">gheniesen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Up erde en anich liever <rhyme label="a" type="m">gein</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Dan du <rhyme label="a" type="m" corresp="#s3:l1">allein</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat saeltu wael <rhyme label="b" type="f">bevinden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Want ich di diene in trauwen <rhyme label="a" type="m" corresp="#s3:l1">rein</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Niet als <rhyme label="a" type="m" corresp="#s3:l1">vilein</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Die helt met allen <rhyme label="b" type="f" corresp="#s3:l3">winden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus blijfstu in mijns hertzen <rhyme label="a" type="m">bloet</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Lief beilde <rhyme label="a" type="m" corresp="#s4:l1">zoet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Boven allen <rhyme label="b" type="f">wiven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Du aens mijn hertze ende ooc mijn <rhyme label="a" type="m" corresp="#s4:l1">moet</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">In dijn <rhyme label="a" type="m" corresp="#s4:l1">behoet</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Dijn eighin moetic <rhyme label="b" type="f" corresp="#s4:l3">bliven</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit jaer ende al die volghen <rhyme label="a" type="m">naer</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Vrauwe weit vor <rhyme label="a" type="m" corresp="#s5:l1">waer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">So blivic dir <rhyme label="b" type="f">ghestade</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Liever ledic liden <rhyme label="a" type="m" corresp="#s5:l1">zwaer</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Al mine <rhyme label="a" type="m" corresp="#s5:l1">jaer</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Dan ich di ontrauwe <rhyme label="b" type="f" corresp="#s5:l3">dade</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Nu jon mi dan dijns vruechts <rhyme label="a" type="m">ghecrijch</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">Vrauwe duechden <rhyme label="a" type="m" corresp="#s6:l1">rijch</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Blijft in trauwen <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">God jonne ons tween <rhyme label="a" type="m" corresp="#s6:l1">eendrachtelijch</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">Sijn <rhyme label="a" type="m" corresp="#s6:l1">hemelrijch</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Met sijnre vrienden <rhyme label="b" type="f" corresp="#s6:l3">raste</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

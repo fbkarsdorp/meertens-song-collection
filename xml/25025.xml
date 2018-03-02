@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25025</id>
+    <date>
+      <year-start>1300</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>zürich</orginal-name>
+      <standard-name>Zürich, Swiss</standard-name>
+      <coordinates>
+        <lon>47.3723957</lon>
+        <lat>8.5423216</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">In den ziten da die <rhyme label="a" type="f">rosen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">erzeigeten manig schoene <rhyme label="b" type="m">blat</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">so stuoht man den <rhyme label="a" type="f" corresp="#s1:l1">froeidelosen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">die tuegete sint an maniger <rhyme label="b" type="m" corresp="#s1:l2">stat</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">dur das wan si der minne sint <rhyme label="b" type="m" corresp="#s1:l2">gehas</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">vnde die minne <rhyme label="a" type="f" corresp="#s1:l1">oesen</rhyme></l>
+        <l id="s1:l7" met="6" type="+-">von den boesen scheide vns got wt schat im <rhyme label="a" type="f" corresp="#s1:l1">das</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Man darf den boesen niht <rhyme label="a" type="f">svochen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">im wirt dike vnsanfte <rhyme label="b" type="m">we</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">wan si wartent vnde <rhyme label="a" type="f" corresp="#s2:l1">luogent</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">als der springet in dem <rhyme label="b" type="m" corresp="#s2:l2">sne</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">den sint si vil dest me <rhyme label="b" type="m" corresp="#s2:l2">geve</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">des darf noch nieman <rhyme label="a" type="f" corresp="#s2:l1">ruochen</rhyme></l>
+        <l id="s2:l7" met="6" type="+-">wan si svochent pirn vf den <rhyme label="a" type="f" corresp="#s2:l1">bvochen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15012</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Est-ce Mars</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Geluckig is hy die leert <rhyme label="a" type="f">sterven</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">D'wyl hy <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">End' sich tot God, ons aller <rhyme label="a" type="f" corresp="#s1:l1">erven</rhyme>,,</l>
+        <l id="s1:l4" met="2" type="+-">Vroeg <rhyme label="b" type="m" corresp="#s1:l2">begeeft</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">'tAerdsche goet, Oock hoe <rhyme label="c" type="m">soet</rhyme>,,</l>
+        <l id="s1:l6" met="5" type="+-">Voor het Hemelsch eeuwig niet en <rhyme label="d" type="m">acht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">End' van't quaet sich <rhyme label="d" type="m" corresp="#s1:l6">wacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die daer steets gaen in 'sHeeren <rhyme label="a" type="f">wegen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Sullen <rhyme label="b" type="m">weer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Daer voor verkrygen grooten <rhyme label="a" type="f" corresp="#s2:l1">segen</rhyme></l>
+        <l id="s2:l4" met="2" type="+-">Van den <rhyme label="b" type="m" corresp="#s2:l2">Heer</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">'sHemels kroon,, Is haer <rhyme label="c" type="m">loon</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Of sy schoon,, Hier hadden al wat <rhyme label="d" type="m">stryt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Voor een kleyne <rhyme label="d" type="m" corresp="#s2:l6">tyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Heer is waerheyt, weg, en <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">'tHemelsch' <rhyme label="b" type="m">broot</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">De weg die laes! daer leyt <rhyme label="a" type="f" corresp="#s3:l1">beneven</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Is de <rhyme label="b" type="m" corresp="#s3:l2">doot</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Smal ist pat,, 'tGene <rhyme label="c" type="m">dat</rhyme></l>
+        <l id="s3:l6" met="5" type="+-">Naer den schat,, Des Hemels henen <rhyme label="d" type="m">treed</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">'tAnder ruym en <rhyme label="d" type="m" corresp="#s3:l6">breet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

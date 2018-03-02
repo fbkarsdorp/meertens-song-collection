@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29747</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1602</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Fortuyn onsacht / ick doe myn <rhyme label="a" type="m">clacht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Aen v die my doet <rhyme label="b" type="f">flouwen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die met v macht / my heft <rhyme label="a" type="m" corresp="#s1:l1">getracht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ganschelyck te <rhyme label="b" type="f" corresp="#s1:l2">benouwen</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Cupido fel / sal wesen u <rhyme label="c" type="m">viant</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Ten sy ghy snel / verkeert u stercke <rhyme label="c" type="m" corresp="#s1:l5">handt</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Hymeneus sal v niet <rhyme label="d" type="f">sparen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dwelck liefflyck hant aen <rhyme label="c" type="m" corresp="#s1:l5">hant</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Aen desen overen <rhyme label="c" type="m" corresp="#s1:l5">kant</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Met eenen vasten <rhyme label="c" type="m" corresp="#s1:l5">bandt</rhyme></l>
+        <l id="s1:l11" met="2" type="-+">Begeert te <rhyme label="d" type="f" corresp="#s1:l7">paren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sult ghy alleen / sulx achten <rhyme label="a" type="m">cleen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Stercker als alle <rhyme label="b" type="f">godinnen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Die Venus leen / mosten <rhyme label="a" type="m" corresp="#s2:l1">betreen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En onpatientlyck <rhyme label="b" type="f" corresp="#s2:l2">minnen</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Sult ghy constandt / haer geboden <rhyme label="c" type="m">versmaen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Dat noch niemant / der goden heeft <rhyme label="c" type="m" corresp="#s2:l5">gedaen</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Ghy sult oock saccum <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Denckt dat v syn <rhyme label="c" type="m" corresp="#s2:l5">ontrent</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Waer door ghy syt <rhyme label="c" type="m" corresp="#s2:l5">geschendt</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">De plagen sonder <rhyme label="c" type="m" corresp="#s2:l5">endt</rhyme></l>
+        <l id="s2:l11" met="2" type="-+">Het sal v <rhyme label="d" type="f" corresp="#s2:l7">deren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hymen diet weet / heeft syn <rhyme label="a" type="m">bescheet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Van Junonis <rhyme label="b" type="f">vierscharen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Tsy lieff off leet hy sal seer <rhyme label="a" type="m" corresp="#s3:l1">wreet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Op wecken syn <rhyme label="b" type="f" corresp="#s3:l2">dienaeren</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Dat sy met haest / Jovis sommaty <rhyme label="c" type="m">doen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Die nu verbaest / haer haest[.] daertoe <rhyme label="c" type="m" corresp="#s3:l5">spoen</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Mercurius sal <rhyme label="d" type="f">adsisteeren</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Want tis Iouis <rhyme label="c" type="m" corresp="#s3:l5">beuel</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Dat sy v sulcken <rhyme label="c" type="m" corresp="#s3:l5">spel</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Ist dat ghy valt <rhyme label="c" type="m" corresp="#s3:l5">rebel</rhyme></l>
+        <l id="s3:l11" met="2" type="-+">Sullen <rhyme label="d" type="f" corresp="#s3:l7">moueren</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tbegin was goet dan metter <rhyme label="a" type="m">spoet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Begon tseyl te <rhyme label="b" type="f">verdrayen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Tweck nu als <rhyme label="a" type="m" corresp="#s4:l1">roet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Om keert myn <rhyme label="b" type="f" corresp="#s4:l2">bloet</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">En blyft constant soo <rhyme label="c" type="m">waeyen</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Des menschen min / hebt ghy daer door <rhyme label="c" type="m" corresp="#s4:l5">verkeert</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">Een valschen syn hebt ghy haer <rhyme label="d" type="f">toegeteert</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Ick cant naulyckx <rhyme label="c" type="m" corresp="#s4:l5">verdraghen</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">Dus wilt shemels <rhyme label="c" type="m" corresp="#s4:l5">gebot</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Niet houden voor een <rhyme label="c" type="m" corresp="#s4:l5">spot</rhyme></l>
+        <l id="s4:l11" met="2" type="-+">Invidiaen seer sot compt haest <rhyme label="d" type="f" corresp="#s4:l7">verjagen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Aensiet nu stont hoe dat seer <rhyme label="a" type="m">bout</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Fortuna sal gaen <rhyme label="b" type="f">strycken</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Princes niet flout Iouem <rhyme label="a" type="m" corresp="#s5:l1">betorout</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Hy sal ons niet <rhyme label="b" type="f" corresp="#s5:l2">beswycken</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Al haet en nyt / sullen vertreden <rhyme label="c" type="m">syn</rhyme></l>
+        <l id="s5:l6" met="5" type="-+">Als hy met vlyt / toont syne chracht <rhyme label="c" type="m" corresp="#s5:l5">diuyn</rhyme></l>
+        <l id="s5:l7" met="3" type="+-">Op hem alleen wilt <rhyme label="d" type="f">achten</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Die druck smert ende <rhyme label="c" type="m" corresp="#s5:l5">pyn</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">Heel swaer dat hem mach <rhyme label="c" type="m" corresp="#s5:l5">syn</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Sal brengen tot <rhyme label="c" type="m" corresp="#s5:l5">ruyn</rhyme></l>
+        <l id="s5:l11" met="2" type="-+">En sal <rhyme label="d" type="f" corresp="#s5:l7">versachten</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

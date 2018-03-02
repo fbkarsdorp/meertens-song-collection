@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24663</id>
+    <date>
+      <year-start>1470</year-start>
+      <year-end>1480</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Nicolai solemnia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Jhesus Cristus Marien <rhyme label="a" type="m">soen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Verleent die leven wel te <rhyme label="a" type="m" corresp="#s1:l1">doen</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die sijn versceyden van <rhyme label="a" type="m">eertrijc</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Rust vruechd by u in <rhyme label="a" type="m" corresp="#s2:l1">hemmelrijc</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En vree die heylich kerc <rhyme label="a" type="m">ghemeen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">End al die kersten onder <rhyme label="a" type="m" corresp="#s3:l1">een</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">End als ons tijt hier is <rhyme label="a" type="m">gedaen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die ewich croen van u <rhyme label="a" type="m" corresp="#s4:l1">tontfaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

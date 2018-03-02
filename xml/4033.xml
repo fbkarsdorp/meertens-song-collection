@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4033</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Mijn tijd gaat weg en ik daar mee</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DAer toe dwanck hem der minnen <rhyme label="a" type="m">bant</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Want Christus gheen genade en <rhyme label="a" type="m" corresp="#s1:l1">vant</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Noch ooc gheen en <rhyme label="b" type="f">sochte</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hi leedt dat hem te liden <rhyme label="c" type="m">stont</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Die heere diet al <rhyme label="b" type="f" corresp="#s1:l3">volbrochte</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat leedt hi al om smenschen <rhyme label="a" type="m">wille</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hi salt ons loonen al swijcht hi <rhyme label="a" type="m" corresp="#s2:l1">stille</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Ten ionxsten <rhyme label="b" type="f">daghen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dair en sal helpen siluer of <rhyme label="c" type="m">gout</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Noch vrienden noch <rhyme label="b" type="f" corresp="#s2:l3">maghen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Help rijck heer God wat is dit <rhyme label="a" type="m">leuen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die de wereld hantiert die mach wel <rhyme label="a" type="m" corresp="#s3:l1">beuen</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Wij moeten doch <rhyme label="b" type="f">steruen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Steruen is onser alder <rhyme label="c" type="m">erue</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Wij moeten ymmer <rhyme label="b" type="f" corresp="#s3:l3">steruen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O mensce ic hebt v lange <rhyme label="a" type="m">geseyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Siet dat ghi v te tide <rhyme label="a" type="m" corresp="#s4:l1">bereyt</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Eer dat ick mi <rhyme label="b" type="f">erre</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ic sende mijn boden <rhyme label="c" type="m">ondertussen</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Al wone ic seer <rhyme label="b" type="f" corresp="#s4:l3">verre</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Helpt ons Maria wt alder <rhyme label="a" type="m">noot</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dese werelt te hantieren si is so <rhyme label="a" type="m" corresp="#s5:l1">loos</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Haren loon is <rhyme label="b" type="f">cranc</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ic wil mijn herte tot Gode <rhyme label="c" type="m">keeren</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Al sonder <rhyme label="b" type="f" corresp="#s5:l3">bedwanck</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27207</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>In Oostenrijk daar staat een huis</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aurora claer / blinckende <rhyme label="a" type="m">eerbaer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">V licht voorwaer / heeft myn door <rhyme label="b" type="f">scheenen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dies van my gaer / voor ende <rhyme label="a" type="m" corresp="#s1:l1">naer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Alle druck swaer / haest is <rhyme label="b" type="f" corresp="#s1:l2">verdweenen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Cupido seer dit siende <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Heeft metter spoet myn hert doen <rhyme label="b" type="f">breecken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En zeer onvroet door venus <rhyme label="a" type="m" corresp="#s2:l1">vloet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Vleys ende bloet zeer fel <rhyme label="b" type="f" corresp="#s2:l2">onsteecken</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Van dyen tyt pleyn sonder <rhyme label="a" type="m">geweyn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Maer vreucht nyet cleyn met hart en <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">O edel greyn heb ick <rhyme label="a" type="m" corresp="#s3:l1">certeyn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Vuyt lieffden reyn v gaen <rhyme label="b" type="f" corresp="#s3:l2">beminnen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gelyck inden noot den verwonnen <rhyme label="a" type="m">snoot</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Siende den doot roept <rhyme label="b" type="f">miseraty</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Soo roep ick bloot int swaer <rhyme label="a" type="m" corresp="#s4:l1">aenstoot</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">O lieff mynjoot geeft <rhyme label="b" type="f" corresp="#s4:l2">consolaty</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Edel princes ick bid v <rhyme label="a" type="m">des</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Sonder regres wilt by my <rhyme label="b" type="f">weesen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Want my het les al van <rhyme label="a" type="m" corresp="#s5:l1">reces</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Schoone matres swaer valt om <rhyme label="b" type="f" corresp="#s5:l2">leesen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

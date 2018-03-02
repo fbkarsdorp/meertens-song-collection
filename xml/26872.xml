@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26872</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">N n hab ich all mein tagh <rhyme label="a" type="m">gehortt</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">wie scheidenn sei ein so schwere <rhyme label="b" type="m">pin</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">so hatt eß mir noch nehe geb <rhyme label="a" type="m" corresp="#s1:l1">rtt</rhyme> /</l>
+        <l id="s1:l4" met="4" type="-+">das ichs mochtt ynnen wordenn <rhyme label="b" type="m" corresp="#s1:l2">sein</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">dan n  <rhyme label="c" type="m">allein</rhyme> /</l>
+        <l id="s1:l6" met="2" type="-+">so ich die <rhyme label="c" type="m" corresp="#s1:l5">rein</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">vnnd aller schonste a ff <rhyme label="d" type="m">erdenn</rhyme> /</l>
+        <l id="s1:l8" met="2" type="-+">moß lassenn <rhyme label="e" type="m">stann</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">vnnd sall nitt <rhyme label="e" type="m" corresp="#s1:l8">han</rhyme> /</l>
+        <l id="s1:l10" met="4" type="-+">van jr all waß mein hertz <rhyme label="d" type="m" corresp="#s1:l7">bogertt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mein hertz bogert nitt anders <rhyme label="a" type="m">mehr</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">dan was zv fre den vnnd ehrn <rhyme label="b" type="m">zimptt</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">woltt gl ck soltt wieder <rhyme label="a" type="m" corresp="#s2:l1">kerenn</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">das ich mehr hortt die Engels <rhyme label="b" type="m" corresp="#s2:l2">stim</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">Jn einem ha <rhyme label="c" type="m">ß</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">z m finster a <rhyme label="c" type="m" corresp="#s2:l5">ß</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">machtt mir mein hertz <rhyme label="d" type="m">erbrennenn</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">mitt grossem <rhyme label="e" type="m">prachtt</rhyme> /</l>
+        <l id="s2:l9" met="2" type="-+">die liebde die <rhyme label="e" type="m" corresp="#s2:l8">machtt</rhyme> /</l>
+        <l id="s2:l10" met="4" type="-+">das ichs nitt kan besinnen.,",Nederrijngebied (nabij de Duits-Nederlandse <rhyme label="d" type="m" corresp="#s2:l7">grens</rhyme>)"</l>
+      </lg>
+    </lg>
+  </text>
+</song>

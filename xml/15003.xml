@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15003</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>reflective song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Wij twee zijn hier alleen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">T'Quaet groeyt in groot getal, End' 'theeft schier over <rhyme label="a" type="m">al</rhyme>,,</l>
+        <l id="s1:l2" met="4" type="+-">Hier te Land, <rhyme label="b" type="m">d'Overhand</rhyme>,,</l>
+        <l id="s1:l3" met="4" type="+-">Want de list,, Haet en <rhyme label="c" type="m">twist</rhyme>,,</l>
+        <l id="s1:l4" met="5" type="+-">'tSwarte nydig beest,, Is <rhyme label="d" type="m">geweest</rhyme>,,</l>
+        <l id="s1:l5" met="4" type="+-">Noyt soo seer,, In de <rhyme label="e" type="m">weer</rhyme>,,</l>
+        <l id="s1:l6" met="6" type="-+">De liefd' als yder siet,, Is meer te vinden <rhyme label="f" type="m">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">D'onnoselste meest lyd,. D'aerd is het recht schier <rhyme label="a" type="m">quyt</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">Tiranny,, Moordery,, <rhyme label="b" type="m">overdrang</rhyme>,,</l>
+        <l id="s2:l3" met="4" type="+-">Heeft soo <rhyme label="c" type="m">lang</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">'tArme volck benouwt,, End' dit <rhyme label="d" type="m">brouwt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Al de nyt,, Die schier <rhyme label="e" type="m">splyt</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Van bitterheyt en haet,, End' noch van meerder <rhyme label="f" type="m">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">O Heer! der vromen borg,, Draegt voor u kind'ren <rhyme label="a" type="m">sorg</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dat de boos',, Arg en <rhyme label="b" type="m">loos</rhyme>,,</l>
+        <l id="s3:l3" met="4" type="+-">Onse siel,, Niet <rhyme label="c" type="m">verniel</rhyme>,,</l>
+        <l id="s3:l4" met="5" type="+-">Legt hem inden mont,, Toch <rhyme label="d" type="m">terstont</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Een gebit,, Dat geen <rhyme label="e" type="m">pit</rhyme></l>
+        <l id="s3:l6" met="6" type="-+">Of kracht hy kryge weer,, Om ons te plagen <rhyme label="f" type="m">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

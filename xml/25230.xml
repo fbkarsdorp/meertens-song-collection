@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25230</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Der hemelen ewich glorij <rhyme label="a" type="m">groet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">salich hoep der sterflicken <rhyme label="a" type="m" corresp="#s1:l1">bloet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">ghij soen vanden oppersten <rhyme label="b" type="m">heer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">der reijnder maecht oock soone <rhyme label="b" type="m" corresp="#s1:l3">teer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Reijckt vuijt v handt, die nu <rhyme label="a" type="m">opstaen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">dat in haer rijse <rhyme label="a" type="m" corresp="#s2:l1">aengenaem</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Een sober hart, vlijtich tot <rhyme label="b" type="m">loff</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">met dancbarheijt, al sijn wij <rhyme label="b" type="m" corresp="#s2:l3">stoff</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die morgen ster blinck in sijn <rhyme label="a" type="m">troen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">vercundicht tlicht op d'aerde <rhyme label="a" type="m" corresp="#s3:l1">groen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">des nachts duijster ontualt hem <rhyme label="b" type="m">bloet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">ons t'heijlich licht verlichten <rhyme label="b" type="m" corresp="#s3:l3">moet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En blijuende in ons <rhyme label="a" type="m">verstandt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">der werrelts nacht, moet doen <rhyme label="a" type="m" corresp="#s4:l1">afstandt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">ten endt van alle dagen <rhyme label="b" type="m">coen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">maect dat ons harten blijuen <rhyme label="b" type="m" corresp="#s4:l3">scoen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Tgeloeff als eerst geuonden <rhyme label="a" type="m">scier</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">mocht wortelen in ons <rhyme label="a" type="m" corresp="#s5:l1">manier</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">oeck ons verblijden hoop <rhyme label="b" type="m">vruchtbaer</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">op dat die lieff wort <rhyme label="b" type="m" corresp="#s5:l3">openbaer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25215</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waerachtich god, machtich <rhyme label="a" type="m">regent</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">die maticht alle tijt sijn <rhyme label="b" type="m">voert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">den morgen stont met licht <rhyme label="a" type="m" corresp="#s1:l1">present</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">maeck den middach vierich <rhyme label="b" type="m" corresp="#s1:l2">beroert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Blust vuijt den vlam van alle <rhyme label="a" type="m">tuist</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">neemt wech den hinderlicken <rhyme label="b" type="m">brandt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">geeft dat lichaems gesontheijt <rhyme label="a" type="m" corresp="#s2:l1">rist</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">geeft j. herten vrede <rhyme label="b" type="m" corresp="#s2:l2">goederhandt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

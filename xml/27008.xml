@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27008</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O weiblich <rhyme label="a" type="m">biltt</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">wie reich vnnd <rhyme label="a" type="m" corresp="#s1:l1">miltt</rhyme> /</l>
+        <l id="s1:l3" met="2" type="-+">Dein lob <rhyme label="a" type="m" corresp="#s1:l1">erheltt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ob allenn das auff erdenn <rhyme label="b" type="m">ist</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">jrlich <rhyme label="c" type="m">gemachtt</rhyme> /</l>
+        <l id="s1:l6" met="2" type="-+">fast groß <rhyme label="c" type="m" corresp="#s1:l5">geachtt</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">vnnd woll <rhyme label="c" type="m" corresp="#s1:l5">erdachtt</rhyme> /</l>
+        <l id="s1:l8" met="4" type="-+">a ch allenn menschenn vrspr ng <rhyme label="b" type="m" corresp="#s1:l4">bist</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">vonn lob so <rhyme label="d" type="m">reich</rhyme> /</l>
+        <l id="s1:l10" met="2" type="-+">Das dir <rhyme label="d" type="m" corresp="#s1:l9">gleich</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">sigh nichts <rhyme label="e" type="m">erfindt</rhyme>  /</l>
+        <l id="s1:l12" met="2" type="-+">das weiblich biltt / gantz <rhyme label="f" type="m">vberwindt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">O weiblich z <rhyme label="a" type="m">chtt</rhyme> /</l>
+        <l id="s2:l2" met="2" type="-+">d  edell fr <rhyme label="a" type="m" corresp="#s2:l1">chtt</rhyme> /</l>
+        <l id="s2:l3" met="2" type="-+">nhemantt gen <rhyme label="a" type="m" corresp="#s2:l1">gts</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">zu preisenn dich / gn gksam mitt <rhyme label="b" type="m">werdt</rhyme>  /</l>
+        <l id="s2:l5" met="2" type="-+">du hochstes g <rhyme label="c" type="m">itt</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">allein machtt m <rhyme label="c" type="m" corresp="#s2:l5">tt</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">erweck das bl <rhyme label="c" type="m" corresp="#s2:l5">itt</rhyme> /</l>
+        <l id="s2:l8" met="4" type="-+">an dich zergahett kein fre dt a ff <rhyme label="b" type="m" corresp="#s2:l4">erdtt</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">d rch deinen <rhyme label="d" type="m">schertz</rhyme> /</l>
+        <l id="s2:l10" met="2" type="-+">das manlich <rhyme label="d" type="m" corresp="#s2:l9">hertz</rhyme> /</l>
+        <l id="s2:l11" met="2" type="+-">vor lieb z <rhyme label="e" type="m">brennt</rhyme> /</l>
+        <l id="s2:l12" met="2" type="-+">Daß weiblich bildtt gantz <rhyme label="f" type="m">vberwendtt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">O weiblich <rhyme label="a" type="m">gestaltt</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">vonn deiner <rhyme label="a" type="m" corresp="#s3:l1">gewaltt</rhyme> /</l>
+        <l id="s3:l3" met="2" type="-+">beid J ng vnnd <rhyme label="a" type="m" corresp="#s3:l1">altt</rhyme> /</l>
+        <l id="s3:l4" met="4" type="-+">m ssen gantz hartt bezw ngenn <rhyme label="b" type="m">sein</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">Der starck moß <rhyme label="c" type="m">dran</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">Der weiß nitt <rhyme label="c" type="m" corresp="#s3:l5">kan</rhyme> /</l>
+        <l id="s3:l7" met="2" type="-+">mitt w rtz <rhyme label="c" type="m" corresp="#s3:l5">entgahen</rhyme> /</l>
+        <l id="s3:l8" met="4" type="-+">w rtt a ch bedarff  / von  deinem <rhyme label="b" type="m" corresp="#s3:l4">schein</rhyme> /</l>
+        <l id="s3:l9" met="2" type="-+">Dan Dir <rhyme label="d" type="m">allein</rhyme></l>
+        <l id="s3:l10" met="2" type="-+">all dinch  <rhyme label="d" type="m" corresp="#s3:l9">gemein</rhyme> /</l>
+        <l id="s3:l11" met="2" type="+-">gehorsam <rhyme label="e" type="m">seintt</rhyme></l>
+        <l id="s3:l12" met="2" type="-+">Daß weiblich wiltt gantz <rhyme label="f" type="m">vberwintt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

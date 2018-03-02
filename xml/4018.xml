@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4018</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Klaas Molenaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LOf o vader van den <rhyme label="a" type="f">throon</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Want ghi ons uwen lieuen <rhyme label="a" type="f" corresp="#s1:l1">soon</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hier hebt ghesonden een kindeken <rhyme label="a" type="f" corresp="#s1:l1">schoon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie v te dienen is <rhyme label="a" type="f">ghewoon</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Vwen sone gheefdy hem te <rhyme label="a" type="f" corresp="#s2:l1">loon</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Daer toe der eewigher vruechden <rhyme label="a" type="f" corresp="#s2:l1">croon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O schone roose sonder <rhyme label="a" type="f">doren</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Verheuen bouen der engelen <rhyme label="a" type="f" corresp="#s3:l1">choren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">God die is van v <rhyme label="a" type="f" corresp="#s3:l1">gheboren</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hi heeft versoet des vaders <rhyme label="a" type="f">thoren</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Want anders waren wij alle <rhyme label="a" type="f" corresp="#s4:l1">verloren</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Met rechte wij hem toe <rhyme label="a" type="f" corresp="#s4:l1">behoren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O Iesu heere alder <rhyme label="a" type="f">heeren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wilt v hulpe tonswaert <rhyme label="a" type="f" corresp="#s5:l1">keeren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Dat wi van ons die sonden <rhyme label="a" type="f" corresp="#s5:l1">weren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Gheen beter goet en machmen <rhyme label="a" type="f">begheeren</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Dan in v minne te <rhyme label="a" type="f" corresp="#s6:l1">vermeeren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Heere God laet ons met v <rhyme label="a" type="f" corresp="#s6:l1">regneren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

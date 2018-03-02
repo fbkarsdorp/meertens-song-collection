@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24879</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Ach hart die in lijden staat</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ach hertze die in liden <rhyme label="a" type="m">staet</rhyme></l>
+        <l id="s1:l2" met="1" type="-+"><rhyme label="b" type="f">Verboorghen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Wie sal di troost of <rhyme label="a" type="m" corresp="#s1:l1">toeverlaet</rhyme></l>
+        <l id="s1:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Bezorghen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Heden trueren vroilic <rhyme label="b" type="f" corresp="#s1:l2">morghen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Das dinct mi hope wesen <rhyme label="c" type="m">best</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Pour quoy ie <rhyme label="d" type="m">di</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So wie in venus ordin <rhyme label="a" type="m">leit</rhyme></l>
+        <l id="s2:l2" met="1" type="-+"><rhyme label="b" type="f">Ghevanghen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Hem mach wel na sijn <rhyme label="a" type="m" corresp="#s2:l1">vroilicheit</rhyme></l>
+        <l id="s2:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l2">Verlanghen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mijn hertze en can des nicht <rhyme label="b" type="f" corresp="#s2:l2">ontganghen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Doch es mijn hope om vruecht int <rhyme label="c" type="m">lest</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Pour quoy ie <rhyme label="d" type="m">di</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Waer trouwe staet in reinen <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s3:l2" met="1" type="-+"><rhyme label="b" type="f">Ghescreven</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Venus es hem sculdich <rhyme label="a" type="m" corresp="#s3:l1">spoet</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">Te <rhyme label="b" type="f" corresp="#s3:l2">gheven</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Trauwe sal in mi staen <rhyme label="b" type="f" corresp="#s3:l2">verheven</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Toot men mi leicht oost ende <rhyme label="c" type="m">west</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Pour qouy ie <rhyme label="d" type="m">di</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

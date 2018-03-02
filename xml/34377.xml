@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34377</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>wedding song</tag>
+      <tag>shepherd's song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HErders wilt nu lustich <rhyme label="a" type="f">springhen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Amarillis is de <rhyme label="b" type="m">Bruydt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Laet ons nieuwe liekens <rhyme label="a" type="f" corresp="#s1:l1">singhen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Mopsus heeft ghereet sijn <rhyme label="b" type="m" corresp="#s1:l2">fluyt</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Pan is daer,, En volght oock Mopsus <rhyme label="c" type="m">naer</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Om t'saemen te ver-eeren soo dit nieuwe <rhyme label="c" type="m" corresp="#s1:l5">paer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vrolijck laet u snaeren <rhyme label="a" type="f">clincken</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Phoebus heeft den thoon <rhyme label="b" type="m">ghespelt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Satyrkens t'is tijt van <rhyme label="a" type="f" corresp="#s2:l1">drincken</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Bacchus wort in staet <rhyme label="b" type="m" corresp="#s2:l2">ghestelt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Sa laet gaen,, Den standaert van <rhyme label="c" type="m">Silvaen</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Want al de minne-quellingh die is nu <rhyme label="c" type="m" corresp="#s2:l5">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Compt dan Nimphkens vanden <rhyme label="a" type="f">velde</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Wenst de nieuwe Bruyt <rhyme label="b" type="m">gheluck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Siet de min die t'hert <rhyme label="a" type="f" corresp="#s3:l1">onstelde</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Stelpt ten lest eens al den <rhyme label="b" type="m" corresp="#s3:l2">druck</rhyme>;</l>
+        <l id="s3:l5" met="5" type="-+">Doet dan mé,, Als Amarillis <rhyme label="c" type="m">dé</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">Soo suldy met u Herder Leven haest in <rhyme label="c" type="m" corresp="#s3:l5">vré</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

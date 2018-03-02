@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4093</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>narrative song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het was een maagd uitverkoren</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Het was een maget <rhyme label="a" type="m">wtuercoren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer Iesus af woude sijn <rhyme label="a" type="m" corresp="#s1:l1">gheboren</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s1:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heer Iesus sprac tot Gabriel <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hi seyde vaert neder wten <rhyme label="a" type="m" corresp="#s2:l1">troon</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s2:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al totter stede van <rhyme label="a" type="m">nazareth</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dair woont een maget <rhyme label="a" type="m" corresp="#s3:l1">onbesmet</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s3:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Groetse mi metten name <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ende segt dat ic haer kint wil <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Dies bin ic <rhyme label="b" type="m">vro</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s4:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die engel was een bode <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Hi quam neder metter <rhyme label="a" type="m" corresp="#s5:l1">spoet</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s5:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Te Nazareth al in die <rhyme label="a" type="m">stede</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Daer si lach in haer <rhyme label="a" type="m" corresp="#s6:l1">ghebede</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s6:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s6:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Hi seyde / God groet v suuer <rhyme label="a" type="m">maghet</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ghi sijt die Gode seer wel <rhyme label="a" type="m" corresp="#s7:l1">behaghet</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s7:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s7:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Hi wil van v gheboren <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Iesus Christus die meester <rhyme label="a" type="m" corresp="#s8:l1">mijn</rhyme></l>
+        <l id="s8:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s8:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s8:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Als Maria dat <rhyme label="a" type="m">verstoet</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Wert si veruaert in haren <rhyme label="a" type="m" corresp="#s9:l1">moet</rhyme></l>
+        <l id="s9:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s9:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Ende si sprac hoe mocht ick hem <rhyme label="a" type="m">bekinnen</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Want ic noyt man en begheerde om <rhyme label="a" type="m" corresp="#s10:l1">minnen</rhyme></l>
+        <l id="s10:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s10:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s10:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Die heylighe gheest sal in v <rhyme label="a" type="m">comen</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Ghelijc den dau valt op die <rhyme label="a" type="m" corresp="#s11:l1">bloemen</rhyme></l>
+        <l id="s11:l3" met="2" type="-+">Des ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s11:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s11:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Maria weset <rhyme label="a" type="m">onuersaecht</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Het is die Gods sone dyen ghi <rhyme label="a" type="m" corresp="#s12:l1">draecht</rhyme></l>
+        <l id="s12:l3" met="2" type="-+">Dies ben ic <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s12:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s12:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Iesus heeft v <rhyme label="a" type="m">wtuercoren</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Hi wil verlossen dat was <rhyme label="a" type="m" corresp="#s13:l1">verloren</rhyme></l>
+        <l id="s13:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s13:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s13:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Van allen seere ben ick <rhyme label="a" type="m">ghenesen</rhyme></l>
+        <l id="s14:l2" met="4" type="-+">De deerne Gods wil ick <rhyme label="a" type="m" corresp="#s14:l1">wesen</rhyme></l>
+        <l id="s14:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme>.</l>
+        <l id="s14:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s14:l3">domino</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Maria viel neder op haer <rhyme label="a" type="m">knien</rhyme></l>
+        <l id="s15:l2" met="4" type="-+">Den wille Gods moet in mi <rhyme label="a" type="m" corresp="#s15:l1">gheschien</rhyme></l>
+        <l id="s15:l3" met="2" type="-+">Dies ben ick <rhyme label="b" type="m">vro</rhyme></l>
+        <l id="s15:l4" met="4" type="-+">O o o benedicamus <rhyme label="b" type="m" corresp="#s15:l3">domino</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

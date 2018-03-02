@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25182</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Eyn wiser alder edil man hatte eynen valkin <rhyme label="a" type="m">gut</rhyme>.</l>
+        <l id="s1:l2" met="8" type="-+">der valke kunde rechte vain syet dar zu so stuont sin edil <rhyme label="a" type="m" corresp="#s1:l1">muot</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">des valken nam he zelver <rhyme label="b" type="m">war</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">mit siner hant gaf he ime sziessen <rhyme label="c" type="f">dicke</rhyme></l>
+        <l id="s1:l5" met="7" type="-+">uch hatte he eyne dole. unt da bi dumme <rhyme label="d" type="f">kindelin</rhyme></l>
+        <l id="s1:l6" met="7" type="-+">dye dole kunde claffen wol syet das war ir <rhyme label="d" type="f" corresp="#s1:l5">gewin</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">vil spisin drogen si ir <rhyme label="b" type="m" corresp="#s1:l3">dar</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">des valken achtin si niet um eyn <rhyme label="c" type="f" corresp="#s1:l4">wicke</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">der walke kunde claffen <rhyme label="e" type="m">niet</rhyme>.</l>
+        <l id="s1:l10" met="5" type="-+">da von must he der doren spise <rhyme label="f" type="f">miden</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">den wisen dicke also <rhyme label="e" type="m" corresp="#s1:l9">gesziet</rhyme></l>
+        <l id="s1:l12" met="7" type="+-">wa dye singit ader saint sat sijt man doure <rhyme label="f" type="f" corresp="#s1:l10">nidin</rhyme></l>
+        <l id="s1:l13" met="8" type="+-">wolde got liepde noch der alte wise der des valken <rhyme label="g" type="m">plach</rhyme>.</l>
+        <l id="s1:l14" met="8" type="+-">der minde kunst vor snatterin. dye da sprechint atzille doule <rhyme label="g" type="m" corresp="#s1:l13">dach</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

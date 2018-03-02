@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35086</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Dedans mon petit réduit</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Dedans mon petit <rhyme label="a" type="m">reduit</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">je vis a mon <rhyme label="b" type="f">aise</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">je n'ai qu'un table un <rhyme label="a" type="m" corresp="#s1:l1">lit</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">un verr et deux <rhyme label="b" type="f" corresp="#s1:l2">chaises</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">dont je men sert chaque <rhyme label="c" type="m">jour</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">pour caresser tour a <rhyme label="c" type="m" corresp="#s1:l5">tour</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Les hauts degrez des <rhyme label="a" type="m">grandeurs</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">me font peu <rhyme label="b" type="f">d'envie</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">lon ij dort aux <rhyme label="a" type="m" corresp="#s2:l1">spectateurs</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">comter de sa <rhyme label="b" type="f" corresp="#s2:l2">vie</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">et dans mon <rhyme label="c" type="m">obscurité</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">je passe de en <rhyme label="c" type="m" corresp="#s2:l5">liberté</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">des touts les brillants <rhyme label="a" type="m">emplois</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">qu'un sot orgueil <rhyme label="b" type="f">brigue</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">l'on est sujet a des <rhyme label="a" type="m" corresp="#s3:l1">lois</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">dont le jour <rhyme label="b" type="f" corresp="#s3:l2">fatigue</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">mais moi libre de touts <rhyme label="c" type="m">soins</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">je prends selon mes <rhyme label="c" type="m" corresp="#s3:l5">besoin</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">quon apprend a grands <rhyme label="a" type="m">traveaux</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">la fable et <rhyme label="b" type="f">l'histoire</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">des anciens et des <rhyme label="a" type="m" corresp="#s4:l1">nouveaux</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">jeu ce de la <rhyme label="b" type="f" corresp="#s4:l2">gloire</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">mon scavoir le plus <rhyme label="c" type="m">profond</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">cest de bien sonder au <rhyme label="c" type="m" corresp="#s4:l5">fond</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">quau travers de touts les <rhyme label="a" type="m">morts</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">sur la terre et <rhyme label="b" type="f">l'onde</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">lon cour apres des <rhyme label="a" type="m" corresp="#s5:l1">tresors</rhyme></l>
+        <l id="s5:l4" met="3" type="+-">jusquau nouveau <rhyme label="b" type="f" corresp="#s5:l2">monde</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">je crois d'avoir tout les <rhyme label="c" type="m">biens</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">lorsque dans mes mains je <rhyme label="c" type="m" corresp="#s5:l5">tiens</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">ma pinte et verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s5:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">je ne veu point des grand <rhyme label="a" type="m">mots</rhyme></l>
+        <l id="s6:l2" met="3" type="+-">etre la <rhyme label="b" type="f">victime</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">de la gloire des <rhyme label="a" type="m" corresp="#s6:l1">heros</rhyme></l>
+        <l id="s6:l4" met="3" type="+-">j'en fait peur <rhyme label="b" type="f" corresp="#s6:l2">destine</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">n'ai je pas assez <rhyme label="c" type="m">vaincu</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">quand je sans mettre sur <rhyme label="c" type="m" corresp="#s6:l5">cul</rhyme></l>
+        <l id="s6:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s6:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">des simples et des <rhyme label="a" type="m">meteaux</rhyme></l>
+        <l id="s7:l2" met="3" type="+-">cherchant <rhyme label="b" type="f">l'analise</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">en echauffant les <rhyme label="a" type="m" corresp="#s7:l1">forneaux</rhyme></l>
+        <l id="s7:l4" met="3" type="+-">un souffleur <rhyme label="b" type="f" corresp="#s7:l2">s'epuise</rhyme></l>
+        <l id="s7:l5" met="4" type="+-">moi souvent sans tant <rhyme label="c" type="m">siffler</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">je scai faire <rhyme label="c" type="m" corresp="#s7:l5">distiler</rhyme></l>
+        <l id="s7:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s7:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">la promenade et le <rhyme label="a" type="m">jeu</rhyme></l>
+        <l id="s8:l2" met="3" type="+-">nont rien qui me <rhyme label="b" type="f">picque</rhyme></l>
+        <l id="s8:l3" met="4" type="+-">un concert me touche <rhyme label="a" type="m" corresp="#s8:l1">peu</rhyme></l>
+        <l id="s8:l4" met="3" type="+-">pour de la <rhyme label="b" type="f" corresp="#s8:l2">musique</rhyme></l>
+        <l id="s8:l5" met="4" type="+-">je ne veut pour <rhyme label="c" type="m">m'amuser</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">que remplir et <rhyme label="c" type="m" corresp="#s8:l5">renverser</rhyme></l>
+        <l id="s8:l7" met="4" type="+-">ma pinte et mon verre au <rhyme label="d" type="m">gaij</rhyme></l>
+        <l id="s8:l8" met="3" type="+-">ma pinte et mon <rhyme label="e" type="f">verre</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>165388</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody>O Heer geef zo lang leeft</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Lof prijs, en eer ,, zij god, den <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die Leyden heeft behoet ,, zo <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">voor den vijant ,, die hy met <rhyme label="c" type="m">schand</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">zeer haest verloopen <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Voor honger noot ,, en Pest seer <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">verleent oock spijs en dranck god <rhyme label="b" type="m">danck</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">den spanigaert boos ,, voor de <rhyme label="c" type="m">maetroos</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">doen ruijmen met een <rhyme label="b" type="m" corresp="#s2:l2">Stanck</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als god begint ,, met water <rhyme label="a" type="m">wint</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">zoo wijckt al t boos geslacht ,, <rhyme label="b" type="m">geacht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dus voor heem beeft alle wat <rhyme label="c" type="m">leeft</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">en bidt godt Dach en <rhyme label="b" type="m" corresp="#s3:l2">nacht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Burger haet licht ,, quade <rhyme label="a" type="m">toesicht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">ter doot toe zijn gewont ,, ter <rhyme label="b" type="m">stont</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Leyden versmaet ,, haer valschen <rhyme label="c" type="m">raet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">pryst godt met hert en <rhyme label="b" type="m" corresp="#s4:l2">mont</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Tpardoen met list ,, van <rhyme label="a" type="m">Antecrist</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">met meenich schimpich woort ,, <rhyme label="b" type="m">gehoort</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">veel brieven vals ,, In duijts en <rhyme label="c" type="m">wals</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">en sijn noch nyet <rhyme label="b" type="m" corresp="#s5:l2">versmoort</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">In hondert Iaer ,, geen blyder <rhyme label="a" type="m">maer</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">als Leyden voor verdriet <rhyme label="b" type="m">,,geschiet</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Stantvastich blyft ,, en vreucht <rhyme label="c" type="m">bedryft</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">vergeet den armen <rhyme label="b" type="m" corresp="#s6:l2">nijet</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Memorij hout ,, en god <rhyme label="a" type="m">betrout</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">als Leyden doen ter tyt met <rhyme label="b" type="m">vlyt</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">hoe groot gewelt ,, doe was te <rhyme label="c" type="m">velt</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">vol standich wint den <rhyme label="b" type="m" corresp="#s7:l2">stryt</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Dees Prins alleen ,, en anders <rhyme label="a" type="m">geen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">al schijnt hij hier absent <rhyme label="b" type="m">bekent</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">elck acoley ,, hun wel <rhyme label="c" type="m">bereij</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Daer lieffd es <rhyme label="b" type="m" corresp="#s8:l2">t'fondament</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

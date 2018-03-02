@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2861</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Goedt vruecht aenschout goedts groete <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">hier opt aertrijck seer wit <rhyme label="b" type="f">ontloeken</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">haegel en snee kount voer des winters <rhyme label="a" type="m" corresp="#s1:l1">kracht</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">heeft hij suierelicks haer macht <rhyme label="b" type="f" corresp="#s1:l2">gebroeken</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Diet kruit en aerde heeft <rhyme label="b" type="f" corresp="#s1:l2">ondoeken</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">maer elck sin roeck nu schoen uit <rhyme label="c" type="m">stort</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">het gewas voerdort weeder groen <rhyme label="c" type="m" corresp="#s1:l6">wordt</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Den nacht Is kort wilt vruecht uit <rhyme label="d" type="f">spreien</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Die boomkens staen met den dou <rhyme label="e" type="m">belaen</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">elck heeft ontfaen zijn groene <rhyme label="e" type="m" corresp="#s1:l9">blaen</rhyme></l>
+        <l id="s1:l11" met="2" type="-+">In dese <rhyme label="d" type="f" corresp="#s1:l8">meye</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

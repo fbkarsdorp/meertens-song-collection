@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166224</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Verheucht u nu ghij menschen <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">die leeft In deze <rhyme label="b" type="m">tyt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">wy zijn verlost van adams <rhyme label="a" type="m" corresp="#s1:l1">val</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">zo ghy natuur <rhyme label="b" type="m" corresp="#s1:l2">bestrijt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">die tgoet van t'quade <rhyme label="b" type="m" corresp="#s1:l2">snijt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">mer u vol standich <rhyme label="b" type="m" corresp="#s1:l2">quijt</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">geen loosheyt off <rhyme label="c" type="f">boosheyt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">laet woonen In u <rhyme label="d" type="m">hart</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">u ydel vleysch,, geeft nijet zijn <rhyme label="e" type="m">eysch</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">want t'maekt de ziel <rhyme label="d" type="m" corresp="#s1:l8">verwert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Siet hoe dat godt hem heeft <rhyme label="a" type="m">verneert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">om t'menschelyck <rhyme label="b" type="m">geslacht</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">twelck door hem was <rhyme label="a" type="m" corresp="#s2:l1">gepropheteert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">is nu geheel <rhyme label="b" type="m" corresp="#s2:l2">volbracht</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">het ryck van werelts <rhyme label="b" type="m" corresp="#s2:l2">pracht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">gantsch nijet by hem <rhyme label="b" type="m" corresp="#s2:l2">geacht</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">mer t'leven <rhyme label="c" type="f">gedreven</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">was door den heyligen <rhyme label="d" type="m">geest</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">zyn woort en Daet, nam al het <rhyme label="e" type="m">quaet</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">op hem van minst en <rhyme label="d" type="m" corresp="#s2:l8">meest</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Weert u met zijne schilt en <rhyme label="a" type="m">sweert</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">blijft In zyn wet <rhyme label="b" type="m">verplicht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">O Bethlehem ghij zyt <rhyme label="a" type="m" corresp="#s3:l1">vermaert</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In Inda t'grootst <rhyme label="b" type="m" corresp="#s3:l2">gesticht</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">door dien ghy bracht het <rhyme label="b" type="m" corresp="#s3:l2">licht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">In t'heydens blint <rhyme label="b" type="m" corresp="#s3:l2">gesicht</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">t beheeren,, en t <rhyme label="c" type="f">leeren</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">van uwe heylsaem <rhyme label="d" type="m">woort</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">bewees u doot en maeckten <rhyme label="e" type="m">groot</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">u naem nu voort en <rhyme label="d" type="m" corresp="#s3:l8">voort</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waer om o mensch loop ghy <rhyme label="a" type="m">verdwaelt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">den wech zo recht <rhyme label="b" type="m">gebaent</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">nyet isser dat aen zyn woort <rhyme label="a" type="m" corresp="#s4:l1">Faelt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">en leert het noch <rhyme label="b" type="m" corresp="#s4:l2">verwaent</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">met schynheylich <rhyme label="b" type="m" corresp="#s4:l2">gedaent</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Daer anders wert <rhyme label="b" type="m" corresp="#s4:l2">vermaent</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">wilt lesen, en <rhyme label="c" type="f">vrezen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">t'geen sonder twyffel <rhyme label="d" type="m">Is</rhyme></l>
+        <l id="s4:l9" met="4" type="+-">want godt alleen, en anders <rhyme label="e" type="m">geen</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">maeckt uwe heijl <rhyme label="d" type="m" corresp="#s4:l8">gewis</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dees prince eert en hoopt op <rhyme label="a" type="m">hem</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">verlost heeft ons zyn <rhyme label="b" type="m">hant</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Danckt, pryst, en singt met luijder <rhyme label="a" type="m" corresp="#s5:l1">stem</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">om dat hy bracht tot <rhyme label="b" type="m" corresp="#s5:l2">Schant</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Onzen trotsen <rhyme label="b" type="m" corresp="#s5:l2">vyant</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">waer door ons comt <rhyme label="b" type="m" corresp="#s5:l2">t'bestant</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">die heden,, op <rhyme label="c" type="f">vreden</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">gehoort wert hier <rhyme label="d" type="m">omtrent</rhyme></l>
+        <l id="s5:l9" met="4" type="+-">In dit Nieu Jaer,, toont alle <rhyme label="e" type="m">gaer</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Dat lieffd' es <rhyme label="d" type="m" corresp="#s5:l8">t'Fondament</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

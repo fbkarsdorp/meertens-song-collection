@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29749</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1602</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Allemande de Spiers</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Helaes Amour wat gaet myn <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Al myn vrienden en <rhyme label="b" type="f">maechden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Willen myn Gheuen eenen <rhyme label="a" type="m" corresp="#s1:l1">man</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die myn niet en can <rhyme label="b" type="f" corresp="#s1:l2">behagen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Want syn sinnekens ende <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Connen niet een drachtich <rhyme label="c" type="m" corresp="#s1:l5">syn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soude ick myne Ionghe <rhyme label="a" type="m">Ieucht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Soo lichtelycken <rhyme label="b" type="f">waghen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Om dat loose aertsche <rhyme label="a" type="m" corresp="#s2:l1">goet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Twelck myn niet en can <rhyme label="b" type="f" corresp="#s2:l2">behaeghe</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Want syn sinnekens ende <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Connen niet eendrachtich <rhyme label="c" type="m" corresp="#s2:l5">syn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nochtans soude ick <rhyme label="a" type="m">onbevreest</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Pack van minnen wel willen <rhyme label="b" type="f">draghen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met een Ionckman fraey van <rhyme label="a" type="m" corresp="#s3:l1">geest</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die myn beter sou <rhyme label="b" type="f" corresp="#s3:l2">behaghen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Want syn sinnekens ende <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Souden wel eendrachtich <rhyme label="c" type="m" corresp="#s3:l5">syn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse die myn thert <rhyme label="a" type="m">verheucht</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Laet het v nu <rhyme label="b" type="f">Ghenoughen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Alst Gheschiet met eer en <rhyme label="a" type="m" corresp="#s4:l1">deucht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Sal het Godt ten besten <rhyme label="b" type="f" corresp="#s4:l2">voughen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Want v sinnekens ende <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Sullen wel eendrachtich <rhyme label="c" type="m" corresp="#s4:l5">syn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

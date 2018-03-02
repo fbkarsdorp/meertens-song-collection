@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38693</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>La nouvelle comtesse</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Of schoon mijn ooghen inden <rhyme label="a" type="m">vloet</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Van traenen swemmen: als een swane <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Sal ick noch singhen nu ick scheyden <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mijn hert (in plaets van <rhyme label="b" type="f">suchten</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Door't groot verdriet van sware <rhyme label="c" type="m">minne-pijn</rhyme>)</l>
+        <l id="s1:l6" met="2" type="-+">Schept nu <rhyme label="b" type="f" corresp="#s1:l4">ghenuchten</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Nu 'tkan <rhyme label="b" type="f" corresp="#s1:l4">ontvluchten</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Venus wreedt <rhyme label="c" type="m" corresp="#s1:l5">aenschijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

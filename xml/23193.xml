@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23193</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Dat is wil dij van de waarheid horen zingen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'God gruet U, lieflich Beelde <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Daer God in sciep vleys ende <rhyme label="a" type="m" corresp="#s1:l1">bloet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Al opten dach van <rhyme label="b" type="f">huden</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Ghi selt ons baren een <rhyme label="c" type="m">Kijndekijn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ende bliven maghet <rhyme label="c" type="m" corresp="#s1:l4">reyne</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Al sonder wee ende sonder <rhyme label="b" type="f" corresp="#s1:l3">pijn</rhyme>.'</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Jhesus, die lach int <rhyme label="a" type="m">cribbekijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Men sach Sijn bloete <rhyme label="a" type="m" corresp="#s2:l1">ribbekijns</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Sijn deckel dat was <rhyme label="b" type="f">dunne</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Van couden weende dat <rhyme label="c" type="m">Kijndekijn</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Doe sprac die liefste Moeder <rhyme label="c" type="m" corresp="#s2:l4">Sijn</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">'Nu sus, mijn lieve <rhyme label="b" type="f" corresp="#s2:l3">Mindekijn</rhyme>!'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een os maer, ende een <rhyme label="a" type="m">eselijn</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Verwermden dat soete <rhyme label="a" type="m" corresp="#s3:l1">Kijndekijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die bider cribben <rhyme label="b" type="f">stonden</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Van couden soe weende dat <rhyme label="c" type="m">Kijndekijn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Och, daer en was rock noch <rhyme label="c" type="m" corresp="#s3:l4">hemdekijn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Int hoey lach Hi <rhyme label="b" type="f" corresp="#s3:l3">ghewonden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die hardekijns ghinghen alte <rhyme label="a" type="m">samen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">So langhe thent si te Bethleem <rhyme label="a" type="m" corresp="#s4:l1">quamen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daer si dat kijnt <rhyme label="b" type="f">aensaghen</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Si songhen, si spronghen, si waren <rhyme label="c" type="m">blide</rhyme>!</l>
+        <l id="s4:l5" met="4" type="-+">Sie wieghedent Kijnt met soeter <rhyme label="c" type="m" corresp="#s4:l4">melodien</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Dat Kijnt was jonc van <rhyme label="b" type="f" corresp="#s4:l3">daghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Drie coninghen quamen daer van <rhyme label="a" type="m">verre</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Gheleit met eenre claerre <rhyme label="a" type="m" corresp="#s5:l1">sterre</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Si brochten Hem <rhyme label="b" type="f">offerhande</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Si offerden Hem mirre, wieroec, ende <rhyme label="c" type="m">gout</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Si gavent het Kijnt in Sijn <rhyme label="c" type="m" corresp="#s5:l4">ghewout</rhyme>.</l>
+        <l id="s5:l6" met="3" type="-+">Si keerde wederom te <rhyme label="b" type="f" corresp="#s5:l3">lande</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Doe Herodes dat <rhyme label="a" type="m">vernam</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Ende hi wort tornich ende <rhyme label="a" type="m" corresp="#s6:l1">gram</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Hi docht om ander <rhyme label="b" type="f">saken</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Des menich goede vrou grote scade bi <rhyme label="c" type="m">nam</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Mar dat daer so menich onnosel <rhyme label="c" type="m" corresp="#s6:l4">lam</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Sijn lijf daer om most <rhyme label="b" type="f" corresp="#s6:l3">laten</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Laet ons alle met harten <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Aenbeden dat soete Kijndekijn <rhyme label="a" type="m" corresp="#s7:l1">cleyn</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Ende bidden Hem <rhyme label="b" type="f">naernsteliken</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Dat Hi ons maec van sonden <rhyme label="c" type="m">reyn</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Behoede ons voer die helsche <rhyme label="c" type="m" corresp="#s7:l4">pijn</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Ende brenct ons in Sijn <rhyme label="b" type="f" corresp="#s7:l3">rike</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

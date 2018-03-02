@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15000</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>political song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Het nachtegaaltje klein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een Coning, Prins, of <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe machtig dat hy <rhyme label="b" type="m">sy</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die daer niet recht wil <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">End' ooc heeft schaemt noch <rhyme label="a" type="f" corresp="#s1:l1">eere</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die machmen oock wel <rhyme label="b" type="m" corresp="#s1:l2">vry</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met eeren tegen <rhyme label="c" type="m" corresp="#s1:l3">staen</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Want 'trecht geen onrecht <rhyme label="d" type="m">lyd</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Het syn geen <rhyme label="e" type="f">Voester-Heeren</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Die daer tot een'ger <rhyme label="d" type="m" corresp="#s1:l7">tyd</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Het rechte <rhyme label="e" type="f" corresp="#s1:l8">rechtverkeeren</rhyme>;</l>
+        <l id="s1:l11" met="3" type="+-">Uyt haet en enckel <rhyme label="d" type="m" corresp="#s1:l7">spyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Des Conings hert gantsch <rhyme label="a" type="f">rotsig</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">End' hard als <rhyme label="b" type="m">Marbel-steen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Bloet-dorstig, loos en <rhyme label="c" type="m">vals</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Is seer verkeert en <rhyme label="a" type="f" corresp="#s2:l1">trotsig</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Hy trachtet maer elck <rhyme label="b" type="m" corresp="#s2:l2">een</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Te brengen om den <rhyme label="c" type="m" corresp="#s2:l3">hals</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Maer ghy o <rhyme label="d" type="m">Batavier</rhyme>!</l>
+        <l id="s2:l8" met="3" type="-+">En wilt hem niet <rhyme label="e" type="f">verschoonen</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Al maeckt hy veel <rhyme label="d" type="m" corresp="#s2:l7">getier</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Laet eendracht by u <rhyme label="e" type="f" corresp="#s2:l8">woonen</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">End' vreest hem niet een <rhyme label="d" type="m" corresp="#s2:l7">sier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt vast u pylen <rhyme label="a" type="f">binden</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat uwer geen <rhyme label="b" type="m">ontval</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">End' die u vyand <rhyme label="c" type="m">raep</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Malkander, als goe <rhyme label="a" type="f" corresp="#s3:l1">vrinden</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">De hand bied over <rhyme label="b" type="m" corresp="#s3:l2">al</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Ay laet u niet in <rhyme label="c" type="m" corresp="#s3:l3">slaep</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Toch wiegen; maer hout <rhyme label="d" type="m">wacht</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Met bidden, waken <rhyme label="e" type="f">sorgen</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Neemt op u doen wel <rhyme label="d" type="m" corresp="#s3:l7">acht</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">U vyand loert <rhyme label="e" type="f" corresp="#s3:l8">verborgen</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Op u met al syn <rhyme label="d" type="m" corresp="#s3:l7">macht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4086</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Fontein moeder maagd rein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Fonteyne moeder / maghet <rhyme label="a" type="f">reyne</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Bloeme der ghenade / edel <rhyme label="a" type="f" corresp="#s1:l1">greyne</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Laet ons di louen tot alder <rhyme label="b" type="m">tijt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een vruchte Heeft God aen v <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Weerdiger vrucht en was nye <rhyme label="a" type="f" corresp="#s2:l1">gheboren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Noch saligher op <rhyme label="b" type="m">aertrijck</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Recht yst bouen der <rhyme label="a" type="f">naturer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Een kint bracht voort die maghet <rhyme label="a" type="f" corresp="#s3:l1">puere</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Een trooster alder werlt <rhyme label="b" type="m">wijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Feeste seer groot is wel <rhyme label="a" type="f">bequame</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Nu dese tijt / al om den <rhyme label="a" type="f" corresp="#s4:l1">namen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Iesus kerst <rhyme label="b" type="m">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Tot groten druck waren wi <rhyme label="a" type="f">al</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghecomen bi Adams <rhyme label="a" type="f" corresp="#s5:l1">ongheual</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Int voerburch vander hellen <rhyme label="b" type="m">crijt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">In swaren verdriet moesten daer <rhyme label="a" type="f">beyden</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Die oude vaders sonder <rhyme label="a" type="f" corresp="#s6:l1">scheyden</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Also ons die scrifture <rhyme label="b" type="m">belijt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Seer vrolijck werden si als si <rhyme label="a" type="f">wisten</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Troost te ontfane van Iesum <rhyme label="a" type="f" corresp="#s7:l1">Christum</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Doen maecten si groot <rhyme label="b" type="m">iolijt</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Hier om so sullen wij <rhyme label="a" type="f">dencken</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Ende hert ende sin den kinde <rhyme label="a" type="f" corresp="#s8:l1">schencken</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Soe vlien wij wel des vyants <rhyme label="b" type="m">strijt</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Nu laet ons oockdie suyuer <rhyme label="a" type="f">bloeme</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Louen ende dancken sonder <rhyme label="a" type="f" corresp="#s9:l1">roeme</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Want daer af coemt ons seer groot <rhyme label="b" type="m">profijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

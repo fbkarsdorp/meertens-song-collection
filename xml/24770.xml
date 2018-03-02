@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24770</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Wou mij de vrouwe mijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Woude mi de vrouwe <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Jonnen daer mijn zin na <rhyme label="b" type="m">staet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">So soudic in vruechden <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Maer des so doet soe mi <rhyme label="b" type="m" corresp="#s1:l2">verlaet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Dinct haer dat goet het dinct mi <rhyme label="b" type="m" corresp="#s1:l2">quaet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Want ics haer niet verlaten <rhyme label="c" type="m">can</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Int scade van tween witten <rhyme label="d" type="m">dien</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Doet het goet der zonnen <rhyme label="d" type="m" corresp="#s1:l7">ontvlien</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Daer mens eenen met jonsten <rhyme label="c" type="m" corresp="#s1:l6">jan</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ic aenscauwe haer zoete <rhyme label="a" type="m">aenzien</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So es mi therte in vruechden <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Als soes mi jan sal mi <rhyme label="a" type="m" corresp="#s2:l1">ghescien</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Gheluc ende heil ende goet <rhyme label="b" type="m" corresp="#s2:l2">gheval</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ic duchte dat spade commen <rhyme label="b" type="m" corresp="#s2:l2">sal</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Des blivic inder vruechden <rhyme label="c" type="m">ban</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Int scade van tween witten <rhyme label="d" type="m">dien</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Doet het goet der zonnen <rhyme label="d" type="m" corresp="#s2:l7">ontvlien</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Daer mens eenen met jonsten <rhyme label="c" type="m" corresp="#s2:l6">jan</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">So wie ghewint der vrouwen <rhyme label="a" type="m">jonste</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ende dat versegghen wil in <rhyme label="b" type="m">quade</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Hi heift verdient met sulker <rhyme label="a" type="m" corresp="#s3:l1">conste</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Datten elc reinlic wijf <rhyme label="b" type="m" corresp="#s3:l2">versmade</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Vaert hi wel dat dinct mi <rhyme label="b" type="m" corresp="#s3:l2">scade</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Want het ne dede noit reinlic <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Int scade van tween witten <rhyme label="d" type="m">dien</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Doet het goet der zonnen <rhyme label="d" type="m" corresp="#s3:l7">ontvlien</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Daer mens eenen met jonsten <rhyme label="c" type="m" corresp="#s3:l6">jan</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al daer mi vruecht of comen <rhyme label="a" type="m">mach</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Dat jan mi wel de vrauwe <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Maer altoos bidt soe om <rhyme label="a" type="m" corresp="#s4:l1">verdrach</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Der dinc die lief vervreimden <rhyme label="b" type="m" corresp="#s4:l2">doet</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Dus willic stellen zin ende <rhyme label="b" type="m" corresp="#s4:l2">moet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">In haren vrien wille <rhyme label="c" type="m">dan</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Int scade van tween witten <rhyme label="d" type="m">dien</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Doet het goet der zonnen <rhyme label="d" type="m" corresp="#s4:l7">ontvlien</rhyme></l>
+        <l id="s4:l9" met="4" type="+-">Daer mens eenen met jonsten <rhyme label="c" type="m" corresp="#s4:l6">jan</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

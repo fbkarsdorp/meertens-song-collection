@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24888</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Musike die in der <rhyme label="a" type="f">naturen</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Can <rhyme label="a" type="f" corresp="#s1:l1">bezuren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Beseffen der consten <rhyme label="b" type="m">vroylicheit</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wes vroylic nu la varen <rhyme label="a" type="f" corresp="#s1:l1">trueren</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Looft teser <rhyme label="a" type="f" corresp="#s1:l1">uren</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Der rozen vul der <rhyme label="b" type="m" corresp="#s1:l3">reynicheit</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Wiens omoet ende <rhyme label="b" type="m" corresp="#s1:l3">zuverheit</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Der <rhyme label="b" type="m" corresp="#s1:l3">triniteit</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Ontsluten dede schemels <rhyme label="a" type="f" corresp="#s1:l1">duren</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Om alre meinschen <rhyme label="b" type="m" corresp="#s1:l3">zalicheit</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Daer soe <rhyme label="b" type="m" corresp="#s1:l3">bereit</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Toe was vor alle <rhyme label="a" type="f" corresp="#s1:l1">creaturen</rhyme></l>
+        <l id="s1:l13" met="4" type="+-">Eva brochte ons int <rhyme label="a" type="f" corresp="#s1:l1">bezuren</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Ave was bi den here <rhyme label="b" type="m" corresp="#s1:l3">gheseit</rhyme></l>
+        <l id="s1:l15" met="4" type="+-">Ave der werder rozen <rhyme label="c" type="f">teeren</rhyme></l>
+        <l id="s1:l16" met="2" type="-+">Die ons mach <rhyme label="c" type="f" corresp="#s1:l15">leeren</rhyme></l>
+        <l id="s1:l17" met="2" type="+-">Quaets <rhyme label="c" type="f" corresp="#s1:l15">ombeeren</rhyme></l>
+        <l id="s1:l18" met="2" type="-+">Te duechden <rhyme label="c" type="f" corresp="#s1:l15">keeren</rhyme></l>
+        <l id="s1:l19" met="2" type="-+">Den viant <rhyme label="c" type="f" corresp="#s1:l15">weeren</rhyme></l>
+        <l id="s1:l20" met="2" type="-+">An haer so <rhyme label="b" type="m" corresp="#s1:l3">steit</rhyme></l>
+        <l id="s1:l21" met="4" type="-+">Al onse meeste <rhyme label="b" type="m" corresp="#s1:l3">zalicheit</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Bi den here so was <rhyme label="a" type="f">muzike</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">In <rhyme label="a" type="f" corresp="#s2:l1">hemelrike</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Eer hi adame tlijf in <rhyme label="b" type="m">blies</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dien wildi maken van den <rhyme label="a" type="f" corresp="#s2:l1">slike</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Na sire <rhyme label="a" type="f" corresp="#s2:l1">ghelike</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ende gaf hem alre herten <rhyme label="b" type="m" corresp="#s2:l3">kies</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Den viant dien vernoyde <rhyme label="b" type="m" corresp="#s2:l3">dies</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Ende vantene <rhyme label="b" type="m" corresp="#s2:l3">ries</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Doe eva slouch sbevelens <rhyme label="a" type="f" corresp="#s2:l1">swike</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Ave beterde ons <rhyme label="b" type="m" corresp="#s2:l3">tverlies</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Doe soe up <rhyme label="b" type="m" corresp="#s2:l3">wies</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Die werde roze die met <rhyme label="a" type="f" corresp="#s2:l1">verzike</rhyme></l>
+        <l id="s2:l13" met="4" type="+-">Den heere ontfinc <rhyme label="a" type="f" corresp="#s2:l1">oetmoedelike</rhyme></l>
+        <l id="s2:l14" met="4" type="+-">Nu danct der rozen die vruechden <rhyme label="b" type="m" corresp="#s2:l3">plies</rhyme></l>
+        <l id="s2:l15" met="4" type="+-">Ave der werder rozen <rhyme label="c" type="f">teeren</rhyme></l>
+        <l id="s2:l16" met="2" type="-+">Die ons mach <rhyme label="c" type="f" corresp="#s2:l15">leeren</rhyme></l>
+        <l id="s2:l17" met="2" type="+-">Quaets <rhyme label="c" type="f" corresp="#s2:l15">ombeeren</rhyme></l>
+        <l id="s2:l18" met="2" type="-+">Te duechden <rhyme label="c" type="f" corresp="#s2:l15">keeren</rhyme></l>
+        <l id="s2:l19" met="2" type="-+">Den viant <rhyme label="c" type="f" corresp="#s2:l15">weeren</rhyme></l>
+        <l id="s2:l20" met="2" type="-+">An haer so <rhyme label="b" type="m" corresp="#s2:l3">steit</rhyme></l>
+        <l id="s2:l21" met="4" type="-+">Al onse meeste <rhyme label="b" type="m" corresp="#s2:l3">zalicheit</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O zuvre roze zonder <rhyme label="a" type="f">doren</rhyme></l>
+        <l id="s3:l2" met="2" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Uutvercoren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Van den heere dor sijn <rhyme label="b" type="m">ootmoet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ne ware hi niet van di <rhyme label="a" type="f" corresp="#s3:l1">gheboren</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">So ware <rhyme label="a" type="f" corresp="#s3:l1">verloren</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Al dat adame ye <rhyme label="b" type="m" corresp="#s3:l3">bestoet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">So wie musiken eere <rhyme label="b" type="m" corresp="#s3:l3">doet</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Verleent hem <rhyme label="b" type="m" corresp="#s3:l3">spoet</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Tallen vruechden sonder <rhyme label="a" type="f" corresp="#s3:l1">toren</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Ende neimt ons allen roze <rhyme label="b" type="m" corresp="#s3:l3">zoet</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">In dijn <rhyme label="b" type="m" corresp="#s3:l3">behoet</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Die van musiken gheerne <rhyme label="a" type="f" corresp="#s3:l1">horen</rhyme></l>
+        <l id="s3:l13" met="4" type="+-">Ende diese node souden <rhyme label="a" type="f" corresp="#s3:l1">storen</rhyme></l>
+        <l id="s3:l14" met="4" type="+-">Nu elc sijn alre blijtste <rhyme label="b" type="m" corresp="#s3:l3">doet</rhyme></l>
+        <l id="s3:l15" met="4" type="+-">Ave der werder rozen <rhyme label="c" type="f">teeren</rhyme></l>
+        <l id="s3:l16" met="2" type="-+">Die ons mach <rhyme label="c" type="f" corresp="#s3:l15">leeren</rhyme></l>
+        <l id="s3:l17" met="2" type="+-">Quaets <rhyme label="c" type="f" corresp="#s3:l15">ombeeren</rhyme></l>
+        <l id="s3:l18" met="2" type="-+">Te duechden <rhyme label="c" type="f" corresp="#s3:l15">keeren</rhyme></l>
+        <l id="s3:l19" met="2" type="-+">Den viant <rhyme label="c" type="f" corresp="#s3:l15">weeren</rhyme></l>
+        <l id="s3:l20" met="2" type="-+">An haer so <rhyme label="b" type="m" corresp="#s3:l3">steit</rhyme></l>
+        <l id="s3:l21" met="4" type="-+">Al onse meeste <rhyme label="b" type="m" corresp="#s3:l3">zalicheit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

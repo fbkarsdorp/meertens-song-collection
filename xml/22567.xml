@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22567</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>De edele heer van Brunswijk</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dien edelen heer van <rhyme label="a" type="m">Brunsesvick</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die heeft een kijnt <rhyme label="b" type="f">ghevanghen.H</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hy swoer so dier by sijnee gouwe <rhyme label="c" type="m">croen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hy soude dat schoen kint <rhyme label="b" type="f" corresp="#s1:l2">hanghen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Hy swoer so dier by sijnee gouwe <rhyme label="c" type="m" corresp="#s1:l3">croen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hy soude dat schoen kint <rhyme label="b" type="f" corresp="#s1:l2">hanghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En dat vernam die moeder <rhyme label="a" type="m">sijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Soe vaert aen gheenre <rhyme label="b" type="f">dalee</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En sy nam silvaers en gouts <rhyme label="c" type="m">ghenoech</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">'Wecht op mijn kijnt mit <rhyme label="b" type="f" corresp="#s2:l2">scalen</rhyme>!'</l>
+        <l id="s2:l5" met="4" type="-+">En sy nam silvaers en gouts <rhyme label="c" type="m" corresp="#s2:l3">ghenoech</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">'Wecht op mijn kijnt mit <rhyme label="b" type="f" corresp="#s2:l2">scalen</rhyme>!'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'Och juwe kijnt en crygt ghi <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En dat moet ummer <rhyme label="b" type="f">hanghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m">boem</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Staet vaers in mijnen <rhyme label="b" type="f" corresp="#s3:l2">landen</rhyme>.'</l>
+        <l id="s3:l5" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m" corresp="#s3:l3">boem</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Staet vaers in mijnen <rhyme label="b" type="f" corresp="#s3:l2">landen</rhyme>.'</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">'Hadieu mijn moer, mijn liefste  <rhyme label="a" type="m">moer</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ende ic moet ummer <rhyme label="b" type="f">hanghen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m">boem</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Staet ver in tsheere <rhyme label="b" type="f" corresp="#s4:l2">landen</rhyme>.'</l>
+        <l id="s4:l5" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m" corresp="#s4:l3">boem</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Staet ver in tsheere <rhyme label="b" type="f" corresp="#s4:l2">landen</rhyme>.'</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">'Hadieu mijn kijnt, mijn liefste  <rhyme label="a" type="m">kijnt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Ende ghi moet ummer <rhyme label="b" type="f">hanghen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m">boem</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Al in des heeren <rhyme label="b" type="f" corresp="#s5:l2">landen</rhyme>.'</l>
+        <l id="s5:l5" met="4" type="-+">An eenen boem, den hoechsten <rhyme label="c" type="m" corresp="#s5:l3">boem</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Al in des heeren <rhyme label="b" type="f" corresp="#s5:l2">landen</rhyme>.'</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Des snachts ontrent der <rhyme label="a" type="m">middernacht</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Doen wort dat kijnt <rhyme label="b" type="f">ghewroken</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Doen wort den edelen heer van <rhyme label="c" type="m">Bruyniswijck</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Doer sijnen hals <rhyme label="b" type="f" corresp="#s6:l2">ghescoten</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Doen wort den edelen heer van <rhyme label="c" type="m" corresp="#s6:l3">Bruyniswijck</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Doer sijnen hals <rhyme label="b" type="f" corresp="#s6:l2">ghescoten</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">'Och edeelen heer van <rhyme label="a" type="m">Bruyniswijck</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Hoe is u nu te <rhyme label="b" type="f">moedee</rhyme>?</l>
+        <l id="s7:l3" met="4" type="-+">Hoe leit dat schone ghecrolden <rhyme label="c" type="m">haer</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Besprenkelt met den <rhyme label="b" type="f" corresp="#s7:l2">bloeden</rhyme>?'</l>
+        <l id="s7:l5" met="4" type="-+">Hoe leit dat schone ghecrolden <rhyme label="c" type="m" corresp="#s7:l3">haer</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Besprenkelt met den <rhyme label="b" type="f" corresp="#s7:l2">bloeden</rhyme>?'</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">'Ic heb noch seven broeders <rhyme label="a" type="m">stout</rhyme>:</l>
+        <l id="s8:l2" met="3" type="-+">Die drie, dat sijn die <rhyme label="b" type="f">papee</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Die vier, dat sijn die <rhyme label="c" type="m">coninxkinder</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Die rijen met hoeren <rhyme label="b" type="f" corresp="#s8:l2">knapen</rhyme>.'</l>
+        <l id="s8:l5" met="4" type="-+">Die vier, dat sijn die <rhyme label="c" type="m" corresp="#s8:l3">coninxkinder</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">Die rijen met hoeren <rhyme label="b" type="f" corresp="#s8:l2">knapen</rhyme>.'</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">'Ic heb noch seven susteren <rhyme label="a" type="m">stout</rhyme>:</l>
+        <l id="s9:l2" met="3" type="-+">Die drie, dat sijn die <rhyme label="b" type="f">nonnen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Die vier, dat sijn die <rhyme label="c" type="m">coninxkinder</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Sijn clarre dan die <rhyme label="b" type="f" corresp="#s9:l2">sonne</rhyme>.'</l>
+        <l id="s9:l5" met="4" type="-+">Die vier, dat sijn die <rhyme label="c" type="m" corresp="#s9:l3">coninxkinder</rhyme>,</l>
+        <l id="s9:l6" met="3" type="-+">Sijn clarre dan die <rhyme label="b" type="f" corresp="#s9:l2">sonne</rhyme>.'</l>
+      </lg>
+    </lg>
+  </text>
+</song>

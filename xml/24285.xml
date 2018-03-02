@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24285</id>
+    <date>
+      <year-start>1574</year-start>
+      <year-end>1574</year-end>
+    </date>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Schoon lief wat mag het u baten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Merckt hoe dat Godt <rhyme label="a" type="f">almachtich</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Sijn wercken <rhyme label="a" type="f" corresp="#s1:l1">crachtig</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Tot ons behoef heeft wel <rhyme label="b" type="m">ghemaeckt</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Uut niet, zijt dit <rhyme label="a" type="f" corresp="#s1:l1">ghedachtich</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Schiep hij <rhyme label="a" type="f" corresp="#s1:l1">warachtig</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Hemel en aerde <rhyme label="b" type="m" corresp="#s1:l3">onghelaeckt</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Water en vier <rhyme label="c" type="m">diligent</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Dwelck zijn cracht ons maeckt <rhyme label="c" type="m" corresp="#s1:l7">bekent</rhyme>;</l>
+        <l id="s1:l9" met="3" type="-+">D'elementen <rhyme label="d" type="f">beneven</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Oock ons hier vroech en <rhyme label="e" type="f">spade</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Bethoonen zijn <rhyme label="e" type="f" corresp="#s1:l10">ghenade</rhyme>.</l>
+        <l id="s1:l12" met="3" type="-+">Loeft Godt, wilt hem <rhyme label="d" type="f" corresp="#s1:l9">aencleven</rhyme></l>
+        <l id="s1:l13" met="2" type="-+">Eeuwich <rhyme label="d" type="f" corresp="#s1:l9">verheven</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

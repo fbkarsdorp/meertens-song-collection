@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24783</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Met hart en met zin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Met herten ende met <rhyme label="a" type="f">zinne</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Anich een minlic .M. <rhyme label="b" type="f">vercoren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ende wes das ich <rhyme label="a" type="f" corresp="#s1:l1">beghinne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">So es mijn liefste toe <rhyme label="b" type="f" corresp="#s1:l2">behoren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mijns hertzen <rhyme label="a" type="f">keyserinne</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Als ic u zie vergaet mijn <rhyme label="b" type="f">toren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In u so staen mijns vruechts <rhyme label="a" type="f" corresp="#s2:l1">gewinne</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En ware u jonst ic bleve <rhyme label="b" type="f" corresp="#s2:l2">verloren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Met jonsten ic mi <rhyme label="a" type="f">kinne</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Al u eighin als dincs te <rhyme label="b" type="f">voren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ets recht ghi maect mijn zorghen <rhyme label="a" type="f" corresp="#s3:l1">dinne</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">So lieve wijf was nie <rhyme label="b" type="f" corresp="#s3:l2">gheboren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

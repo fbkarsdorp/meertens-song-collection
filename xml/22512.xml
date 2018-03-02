@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22512</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1510</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Hoe luid zong de leraar op de tinnen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">¶ Hoe lude sanc die lerar opter <rhyme label="a" type="f">tynnen</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">so wie in swaren sonden leeft god laets hem wel <rhyme label="a" type="f" corresp="#s1:l1">versynnen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">dat hi sich keert ter doechden <rhyme label="b" type="m">waert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">eer hem den wech die doot <rhyme label="b" type="m" corresp="#s1:l3">ondergaet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">sij vroeden diet <rhyme label="a" type="f" corresp="#s1:l1">versynnen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">¶ O edel mensch denct ghi moet ymmer <rhyme label="a" type="f">steruen</rhyme></l>
+        <l id="s2:l2" met="7" type="-+">en sij di niet van sonden vrij gods rijc so moet ghi <rhyme label="a" type="f" corresp="#s2:l1">deruen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">ghi hebt so dic versuymt den <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">en dede gods <rhyme label="b" type="m" corresp="#s2:l3">ghenadicheit</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">die hel waer dijn vrij <rhyme label="a" type="f" corresp="#s2:l1">eruen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">¶ Ende dat verhoordeen ionglinc ionc van <rhyme label="a" type="f">iaren</rhyme></l>
+        <l id="s3:l2" met="7" type="-+">nv seg mi lerar wel bekent hoe moechdi dus <rhyme label="a" type="f" corresp="#s3:l1">ghebaren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">ic mach noch leuen menichen <rhyme label="b" type="m">dach</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">ende vroechd hanteren als ic <rhyme label="b" type="m" corresp="#s3:l3">plach</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">ende dan te goden <rhyme label="a" type="f" corresp="#s3:l1">varen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">¶ Die lerar sprac wat wildi v <rhyme label="a" type="f">vermeten</rhyme></l>
+        <l id="s4:l2" met="7" type="-+">siet waer sijn v ghesellen gheuaren die bi v waren <rhyme label="a" type="f" corresp="#s4:l1">gheseten</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">si waren van iaren dijns <rhyme label="b" type="m">ghelijc</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">van hauen waren si also <rhyme label="b" type="m" corresp="#s4:l3">rijc</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">die wormen hebbense <rhyme label="a" type="f" corresp="#s4:l1">gheten</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">¶ Die ionglinc sprac ic en can mij niet <rhyme label="a" type="f">bedwingen</rhyme></l>
+        <l id="s5:l2" met="7" type="-+">ic moet ghebruken mijnre ioecht mit dansen ende <rhyme label="a" type="f" corresp="#s5:l1">springen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">si moeten steruen die veyich <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">wel op nv laet ons vrolic <rhyme label="b" type="m" corresp="#s5:l3">sijn</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">god salt noch lang <rhyme label="a" type="f" corresp="#s5:l1">ghehengen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">¶ Die lerar sprac die vroechd mach di niet <rhyme label="a" type="f">duren</rhyme></l>
+        <l id="s6:l2" met="7" type="-+">want het verkeert so menichsyns  in eenre corter <rhyme label="a" type="f" corresp="#s6:l1">vren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">och waerstu van die synne <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">dat v nv duncket vroechde <rhyme label="b" type="m" corresp="#s6:l3">sijn</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">ten waer dij niet dan <rhyme label="a" type="f" corresp="#s6:l1">truren</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">¶ Die ionglinc sprac du moechs mi niet <rhyme label="a" type="f">ontraden</rhyme></l>
+        <l id="s7:l2" met="7" type="-+">dat ic die werelt laten sal ende leuen int <rhyme label="a" type="f" corresp="#s7:l1">versmaden</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">ic wil volbrenghen dat ic <rhyme label="b" type="m">can</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">die vroechd der werelt staet mij <rhyme label="b" type="m" corresp="#s7:l3">an</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">ic en canse niet <rhyme label="a" type="f" corresp="#s7:l1">versmaden</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="-+">¶ Die lerar sprac ghi sijt seer vten <rhyme label="a" type="f">keren</rhyme></l>
+        <l id="s8:l2" met="7" type="-+">dat ghi der werelt vroechde kiest voer tleuen ons liefs <rhyme label="a" type="f" corresp="#s8:l1">heren</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">siet toe dat ghi soe niet en <rhyme label="b" type="m">kiest</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">dat ghi dat rijke gods <rhyme label="b" type="m" corresp="#s8:l3">verliest</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">welc ewelijc sal <rhyme label="a" type="f" corresp="#s8:l1">dueren</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="5" type="-+">¶ Die ionglinc sprac soud ic gods rijke <rhyme label="a" type="f">deruen</rhyme></l>
+        <l id="s9:l2" met="7" type="-+">soe mocht ic sorghen voer mijn lijf dat ic dus soude <rhyme label="a" type="f" corresp="#s9:l1">steruen</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">ic heb ghemist den rechten <rhyme label="b" type="m">pat</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">waer sal ic heen bericht mi <rhyme label="b" type="m" corresp="#s9:l3">dat</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">ic ontsie der hellen <rhyme label="a" type="f" corresp="#s9:l1">eruen</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="5" type="-+">¶ Die lerar sprac wildi in doechden <rhyme label="a" type="f">risen</rhyme></l>
+        <l id="s10:l2" met="7" type="-+">den rechten wech tot gode waert sal ic v gherne <rhyme label="a" type="f" corresp="#s10:l1">wisen</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">daer nymmermeer en is <rhyme label="b" type="m">verdriet</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">doet altijt goet ende laet des <rhyme label="b" type="m" corresp="#s10:l3">niet</rhyme></l>
+        <l id="s10:l5" met="3" type="-+">god sal dijn siel wel <rhyme label="a" type="f" corresp="#s10:l1">spisen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

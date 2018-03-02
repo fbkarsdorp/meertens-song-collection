@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14970</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>La Durette</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Bitter droeve <rhyme label="a" type="f">klachten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Ysselijck <rhyme label="b" type="m">geween</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hoortmen nu aen groot en <rhyme label="b" type="m" corresp="#s1:l2">kleen</rhyme>.</l>
+        <l id="s1:l4" met="3" type="+-">'tVroom volc sietmen <rhyme label="a" type="f" corresp="#s1:l1">slachten</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">En met voeten <rhyme label="b" type="m" corresp="#s1:l2">treen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat nau overblijft niet <rhyme label="b" type="m" corresp="#s1:l2">een</rhyme>.</l>
+        <l id="s1:l7" met="3" type="+-">Spanjen soeckt te <rhyme label="c" type="f">brengen</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">'tNeerland gantsch tot <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">En in't uytterste <rhyme label="d" type="m" corresp="#s1:l8">verdriet</rhyme>.</l>
+        <l id="s1:l10" met="3" type="+-">Wilt'et niet <rhyme label="c" type="f" corresp="#s1:l7">gehengen</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Heer! en neder <rhyme label="d" type="m" corresp="#s1:l8">siet</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">En ons uwe hulpe <rhyme label="d" type="m" corresp="#s1:l8">biet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Heer hoe lang salt <rhyme label="a" type="f">dueren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Dat u sware <rhyme label="b" type="m">hand</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Dreyghen sal ons <rhyme label="b" type="m" corresp="#s2:l2">Vaderland</rhyme>?</l>
+        <l id="s2:l4" met="3" type="+-">Wilt den Boos-wicht <rhyme label="a" type="f" corresp="#s2:l1">stueren</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Die soo moord en <rhyme label="b" type="m" corresp="#s2:l2">brand</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Heer! en maeckt syn doen tot <rhyme label="b" type="m" corresp="#s2:l2">schand</rhyme>.</l>
+        <l id="s2:l7" met="3" type="+-">En 'them soo <rhyme label="c" type="f">vergelden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Dat des quaets vol <rhyme label="d" type="m">op</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Kom' op zijnen eyghen <rhyme label="d" type="m" corresp="#s2:l8">kop</rhyme>.</l>
+        <l id="s2:l10" met="3" type="+-">Laet zijn vloecken, <rhyme label="c" type="f" corresp="#s2:l7">schelden</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">En zijns boosheyts <rhyme label="d" type="m" corresp="#s2:l8">krop</rhyme></l>
+        <l id="s2:l12" met="4" type="+-">Wesen zijnen eygen <rhyme label="d" type="m" corresp="#s2:l8">strop</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

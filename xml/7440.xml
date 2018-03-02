@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7440</id>
+    <date>
+      <year-start>1563</year-start>
+      <year-end>1563</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>Uit het diepste mijner harten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Uut tdiepste mijnder <rhyme label="a" type="f">herten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Riep ick o heer tot <rhyme label="b" type="m">u</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Cureert o heer mijn <rhyme label="a" type="f" corresp="#s1:l1">smerten</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En voys aenhoort toch <rhyme label="b" type="m" corresp="#s1:l2">nu</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gheneycht moeten u <rhyme label="a" type="f">ooren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Worden, om te <rhyme label="b" type="m">verstaen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">O Heere wilt <rhyme label="a" type="f" corresp="#s2:l1">aenhooren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Den voys mijns biddens <rhyme label="b" type="m" corresp="#s2:l2">saen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt ghy die boosheyt <rhyme label="a" type="f">plaghen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Midts u <rhyme label="b" type="m">rechtveerdicheyt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Heer, Heer wie sal <rhyme label="a" type="f" corresp="#s3:l1">verdraeghen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">U groote <rhyme label="b" type="m" corresp="#s3:l2">majesteyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Want by u is <rhyme label="a" type="f">ghenade</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En om u goede <rhyme label="b" type="m">wet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Verdroech ic vroech, en <rhyme label="a" type="f" corresp="#s4:l1">spade</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">U Heer, met goed <rhyme label="b" type="m" corresp="#s4:l2">opset</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Mijn siele verdroech <rhyme label="a" type="f">seere</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">In sijn waerachtich <rhyme label="b" type="m">woort</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Mijn siele inden <rhyme label="a" type="f" corresp="#s5:l1">Heere</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Hopte, om mijn <rhyme label="b" type="m" corresp="#s5:l2">confoort</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Van in die morghen <rhyme label="a" type="f">hoede</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Laet hopen totter <rhyme label="b" type="m">nacht</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Israel in <rhyme label="a" type="f" corresp="#s6:l1">ootmoede</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Inden Heer met <rhyme label="b" type="m" corresp="#s6:l2">indacht</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Want bijden Heer <rhyme label="a" type="f">ontfermen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Is, duer sijn goetheyt <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Verlossen, en <rhyme label="a" type="f" corresp="#s7:l1">beschermen</rhyme>.</l>
+        <l id="s7:l4" met="3" type="-+">By hem in <rhyme label="b" type="m" corresp="#s7:l2">overvloet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">En oock sal hy <rhyme label="a" type="f">waerachtich</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Israel lossen <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Ende bevrijden <rhyme label="a" type="f" corresp="#s8:l1">crachtich</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Van Boosheyt groot, en <rhyme label="b" type="m" corresp="#s8:l2">smal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

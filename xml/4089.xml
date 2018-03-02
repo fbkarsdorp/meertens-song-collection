@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4089</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Kinder nu louet die maghet <rhyme label="a" type="m">Marie</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Si heeft veruult die <rhyme label="a" type="m" corresp="#s1:l1">prophecie</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Si heeft eenen soon / si is maget <rhyme label="a" type="m" corresp="#s1:l1">Marie</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat wonder en geschiede ons <rhyme label="a" type="m" corresp="#s1:l1">nye</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maria is een sterre <rhyme label="a" type="m">schone</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die ons verlicht al aen den <rhyme label="a" type="m" corresp="#s2:l1">throne</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wie haer aenbedet hy heeft te <rhyme label="a" type="m" corresp="#s2:l1">lone</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Van Iesus kerst Marien <rhyme label="a" type="m" corresp="#s2:l1">sone</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maria is een <rhyme label="a" type="m">dagheraet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die voer der midder nacht op <rhyme label="a" type="m" corresp="#s3:l1">staet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wie haer aenbidt hi heeft <rhyme label="a" type="m" corresp="#s3:l1">aflaet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van alle sonderlijcke <rhyme label="a" type="m" corresp="#s3:l1">misdaet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maria is een <rhyme label="a" type="m">triniteyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Si is moeder der <rhyme label="a" type="m" corresp="#s4:l1">ontfermherticheyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Sy is moeder ende reyne <rhyme label="a" type="m" corresp="#s4:l1">maghet</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die onsen vader wel <rhyme label="a" type="m" corresp="#s4:l1">behaget</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maria is een roose sonder <rhyme label="a" type="m">doren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die God tot sijnder moeder hadde <rhyme label="a" type="m" corresp="#s5:l1">wtuercoren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Eer Iesus Christus was <rhyme label="a" type="m" corresp="#s5:l1">gheboren</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">So was dese werelt al <rhyme label="a" type="m" corresp="#s5:l1">verloren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maria is een volle <rhyme label="a" type="m">vloet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Daer God aen nam vleesch ende <rhyme label="a" type="m" corresp="#s6:l1">bloet</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Dat sal ons allen wesen <rhyme label="a" type="m" corresp="#s6:l1">goet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Nu dienen wij om deewich <rhyme label="a" type="m" corresp="#s6:l1">goet</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Heer Ioseph viel neder op sine <rhyme label="a" type="m">knien</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Hy en conde dat wonder niet aen <rhyme label="a" type="m" corresp="#s7:l1">ghesien</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Daer kint al in die cribbe <rhyme label="a" type="m" corresp="#s7:l1">lach</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Hi wist wel dat Gods sone <rhyme label="a" type="m" corresp="#s7:l1">was</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Die enghelen songhen sanctus / <rhyme label="a" type="m">sanctus</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Hier is die heylighe gheest int <rhyme label="a" type="m" corresp="#s8:l1">huys</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Gheboren van een ionge <rhyme label="a" type="m" corresp="#s8:l1">maecht</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Die alder werelt wel <rhyme label="a" type="m" corresp="#s8:l1">behaecht</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Sijt willecoem heer <rhyme label="a" type="m">iongelinc</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Die ons van bouen is <rhyme label="a" type="m" corresp="#s9:l1">ghesint</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Dat is Iesus Marient <rhyme label="a" type="m" corresp="#s9:l1">kint</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Ende alder engelen <rhyme label="a" type="m" corresp="#s9:l1">coninck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

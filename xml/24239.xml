@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24239</id>
+    <date>
+      <year-start>1561</year-start>
+      <year-end>1562</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>dance song</tag>
+      <tag>Shrove Tuesday song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoort alle die zyt van Bachus <rhyme label="a" type="f">bende</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">End hu naer vastenavendt <rhyme label="b" type="m">dwynght</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Eer datmen hu de zomer <rhyme label="a" type="f" corresp="#s1:l1">zende</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Doch hu ghelt niet gheel <rhyme label="b" type="m" corresp="#s1:l2">verdrynct</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Maer properlick by maeten <rhyme label="b" type="m" corresp="#s1:l2">schijnct</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Fraey ghezondt wordt ghy <rhyme label="c" type="f">ghepresen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">En wat ghy doet, dit <rhyme label="b" type="m" corresp="#s1:l2">overdynct</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s1:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die versmeert nu groot <rhyme label="a" type="f">ghelach</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En metten theerlyngh tghelt <rhyme label="b" type="m">verdoet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Daer ghy meer dan eennen <rhyme label="a" type="f" corresp="#s2:l1">dach</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Thuwen huuse by leven <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Vroylick huwen durst nu <rhyme label="b" type="m" corresp="#s2:l2">boet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Theert vougsaemich boven <rhyme label="c" type="f">desen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Hoe ghy tdlyf baldadich <rhyme label="b" type="m" corresp="#s2:l2">voed</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s2:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Drooghe kelen by <rhyme label="a" type="f">Manieren</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die zo gheerne by pyntjens <rhyme label="b" type="m">poyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Souft noch hedent alfve <rhyme label="a" type="f" corresp="#s3:l1">Bieren</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Vry deen danders keerleken <rhyme label="b" type="m" corresp="#s3:l2">ployt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Rasch om bucht Tot myn oomkens <rhyme label="b" type="m" corresp="#s3:l2">schoyt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Es hu Credo <rhyme label="c" type="f">huutghelesen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Zwelghet tmaertsbier nu <rhyme label="b" type="m" corresp="#s3:l2">gheloyt</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s3:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die noch Rycke zyt van <rhyme label="a" type="f">haven</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Touft nu Venus moy <rhyme label="b" type="m">gheCranst</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Laet den theerlyngh dapper <rhyme label="a" type="f" corresp="#s4:l1">draven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Huwer alder Lustich <rhyme label="b" type="m" corresp="#s4:l2">Canst</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Momt zynght sprynght hubbelt en <rhyme label="b" type="m" corresp="#s4:l2">danst</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Laet ghenouchte zyn <rhyme label="c" type="f">gheResen</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Drynct bacxkens huut, Brast ende <rhyme label="b" type="m" corresp="#s4:l2">schranst</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s4:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Fraey Joncwyfvekens ende <rhyme label="a" type="f">Cnaepen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die gheerne vette morseelen <rhyme label="b" type="m">smult</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Wilt alshedent wyde <rhyme label="a" type="f" corresp="#s5:l1">gaepen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Hu buucxkens voor zes weken <rhyme label="b" type="m" corresp="#s5:l2">vult</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Dan natuerlicke blomme <rhyme label="b" type="m" corresp="#s5:l2">huutbult</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Laet hu helpen ende <rhyme label="c" type="f">ghenesen</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Doet ghyt niet tword hu tselfs <rhyme label="b" type="m" corresp="#s5:l2">schult</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s5:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Pupstekers die om den naeycoorf <rhyme label="a" type="f">vechten</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ende Venus zyn <rhyme label="b" type="m">onderdaen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Wilt den standaert vroylick <rhyme label="a" type="f" corresp="#s6:l1">Rechten</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">En bloodshoofts noch int vleeschuus <rhyme label="b" type="m" corresp="#s6:l2">ghaen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Smetst saussyskens en <rhyme label="b" type="m" corresp="#s6:l2">Coolbraen</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Laet nu soberheyt <rhyme label="c" type="f">verknesen</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Drynct int Lyf den Rynsschen <rhyme label="b" type="m" corresp="#s6:l2">traen</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s6:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Die om hebben doet den <rhyme label="a" type="f">heesch</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">En gheerne tlecker keelgat <rhyme label="b" type="m">voert</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Eer ghy eit hu laetste <rhyme label="a" type="f" corresp="#s7:l1">Vleesch</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Laet up hu vleesch zyn <rhyme label="b" type="m" corresp="#s7:l2">ghetamboert</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">End huwe Blende schuetel <rhyme label="b" type="m" corresp="#s7:l2">Roert</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Nyemandt zalmer omme <rhyme label="c" type="f">vesen</rhyme></l>
+        <l id="s7:l7" met="4" type="-+">Hu dranck wel buetert ende <rhyme label="b" type="m" corresp="#s7:l2">poert</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">Moorghen moet ghy sober <rhyme label="c" type="f" corresp="#s7:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Oorlof pier pauwels claeys en <rhyme label="a" type="f">philips</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">End elck wie hoort ons vroylick <rhyme label="b" type="m">Liedt</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Tes in ons buerse zeer groot <rhyme label="a" type="f" corresp="#s8:l1">Eclips</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Want wy en zien der een cruce <rhyme label="b" type="m" corresp="#s8:l2">Niet</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Nochtans al eist Dat zoo <rhyme label="b" type="m" corresp="#s8:l2">gheschiet</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Crancken willen wy droufheyts <rhyme label="c" type="f">pesen</rhyme></l>
+        <l id="s8:l7" met="4" type="-+">En wesen Rechts vroylick zoomen <rhyme label="b" type="m" corresp="#s8:l2">ziet</rhyme></l>
+        <l id="s8:l8" met="4" type="-+">Maer moorghen willen wy wyser <rhyme label="c" type="f" corresp="#s8:l6">wesen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

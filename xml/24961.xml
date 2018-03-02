@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24961</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>virelai ballad</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Wan ik de vrouwe lijden zie</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wan ich der vrauwen liden <rhyme label="a" type="m">zie</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In enigher wijs wes huer <rhyme label="a" type="m" corresp="#s1:l1">messcie</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Gaer ganslich lijt mijn herte <rhyme label="b" type="m">also</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Sal ich huer scauwen vruechden <rhyme label="c" type="m">laen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">En vruechden haen dan can ich <rhyme label="d" type="m">niet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Al conde mijn zin na vruechden <rhyme label="c" type="m" corresp="#s1:l4">staen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Nature en wil das volghen <rhyme label="d" type="m" corresp="#s1:l5">niet</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Mijn hertze is huer dies haer <rhyme label="d" type="m" corresp="#s1:l5">verdriet</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Dan laet mi nummer wesen <rhyme label="b" type="m" corresp="#s1:l3">vro</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wan ich der vrauwen liden <rhyme label="a" type="m">zie</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In enigher wijs wes huer <rhyme label="a" type="m" corresp="#s2:l1">messcie</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Gaer ganslich lijt mijn herte <rhyme label="b" type="m">also</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Bin ich huer varre bin ich huer <rhyme label="c" type="m">naer</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Van huer comt al de vruechden <rhyme label="d" type="m">mijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Al mochtic leven duzent <rhyme label="c" type="m" corresp="#s2:l4">jaer</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ich meine en sal niet anders <rhyme label="d" type="m" corresp="#s2:l5">sijn</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Si liefd mir so al lidich <rhyme label="d" type="m" corresp="#s2:l5">pijn</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">In wil des achten niet een <rhyme label="b" type="m" corresp="#s2:l3">stro</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wan ich der vrauwen liden <rhyme label="a" type="m">zie</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In enigher wijs wes huer <rhyme label="a" type="m" corresp="#s3:l1">messcie</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Gaer ganslich lijt mijn hertze <rhyme label="b" type="m">also</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ich weinsche huer tallen tiden <rhyme label="c" type="m">heil</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ghenouchlicheit al hueren <rhyme label="d" type="m">tzijt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Huer eighin bin ich also <rhyme label="c" type="m" corresp="#s3:l4">gheil</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Truert si ich bin der vruechden <rhyme label="d" type="m" corresp="#s3:l5">quijt</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Ghedenc das wan ghi vroilic <rhyme label="d" type="m" corresp="#s3:l5">zijt</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">So sinc ich lief van vruechden <rhyme label="b" type="m" corresp="#s3:l3">ho</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35582</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1633</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>spiritual song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Las qui hâtera le temps</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe clinckt die <rhyme label="a" type="m">stem</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">'Ken weet van <rhyme label="a" type="m" corresp="#s1:l1">hem</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die daer veur mijn <rhyme label="b" type="m">deur</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Staet met <rhyme label="b" type="m" corresp="#s1:l3">ghetreur</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Sijn edel wesen <rhyme label="c" type="m">teer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Thoont hem te wesen een groot <rhyme label="c" type="m" corresp="#s1:l5">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waerom ghy <rhyme label="a" type="m">betracht</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Toch met <rhyme label="a" type="m" corresp="#s2:l1">cracht</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Te wonden mijn <rhyme label="b" type="m">gemoet</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Met liefde <rhyme label="b" type="m" corresp="#s2:l3">soet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En toont my groot <rhyme label="c" type="m">faveur</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">'Ken weet waerom, noch oock waer <rhyme label="c" type="m" corresp="#s2:l5">deur</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dat ghy liefde <rhyme label="a" type="m">draeght</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Tot my <rhyme label="a" type="m" corresp="#s3:l1">maeght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die daer ben slecht van <rhyme label="b" type="m">staet</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">En leegh van <rhyme label="b" type="m" corresp="#s3:l3">graet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Schoon lief ghy dunckt my <rhyme label="c" type="m">blindt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dat ghy niet uws ghelijckx en <rhyme label="c" type="m" corresp="#s3:l5">mindt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Aenghesien ghy <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">My mindt <rhyme label="a" type="m" corresp="#s4:l1">seer</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En seght dat u hert <rhyme label="b" type="m">blaeckt</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Naer my soo <rhyme label="b" type="m" corresp="#s4:l3">haeckt</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Siet sonder veel <rhyme label="c" type="m">gheschil</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Nemt mijn hert wech nae uwen <rhyme label="c" type="m" corresp="#s4:l5">wil</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">U stem van my <rhyme label="a" type="m">ghehoort</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Heeft <rhyme label="a" type="m" corresp="#s5:l1">verstoort</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Cupidoos schichten <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Menich van <rhyme label="b" type="m" corresp="#s5:l3">ghetal</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Seght my toch waer gy <rhyme label="c" type="m">rust</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Onder wat weyde van <rhyme label="c" type="m" corresp="#s5:l5">wellust</rhyme>?</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Want mijn ziele <rhyme label="a" type="m">queelt</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">Door't <rhyme label="a" type="m" corresp="#s6:l1">ghewelt</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Van u liefde <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s6:l4" met="2" type="-+">Sterck als die <rhyme label="b" type="m" corresp="#s6:l3">doot</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Met Appelen om set <rhyme label="c" type="m">my</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">En Blomkens schoon aen alle <rhyme label="c" type="m" corresp="#s6:l5">sy</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Lief gheen waeter <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">En mach <rhyme label="a" type="m" corresp="#s7:l1">daer</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Wtblussen den <rhyme label="b" type="m">brandt</rhyme>,</l>
+        <l id="s7:l4" met="2" type="-+">Die t'allen <rhyme label="b" type="m" corresp="#s7:l3">kant</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Mijn hert ontsteken <rhyme label="c" type="m">heeft</rhyme>:</l>
+        <l id="s7:l6" met="4" type="-+">Och gy my toch eens te drinken <rhyme label="c" type="m" corresp="#s7:l5">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Schenckt tot <rhyme label="a" type="m">medecijn</rhyme></l>
+        <l id="s8:l2" met="2" type="+-">My den <rhyme label="a" type="m" corresp="#s8:l1">wijn</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">En van den nieuwen <rhyme label="b" type="m">most</rhyme></l>
+        <l id="s8:l4" met="2" type="-+">V veel <rhyme label="b" type="m" corresp="#s8:l3">ghekost</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Mijn ziel daer in eens <rhyme label="c" type="m">baeyt</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Voor u aenschijn haer toch <rhyme label="c" type="m" corresp="#s8:l5">versaeyt</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Prins der Heeren <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s9:l2" met="2" type="+-">Tot der <rhyme label="a" type="m" corresp="#s9:l1">doot</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Sal ick u zijn <rhyme label="b" type="m">ghetrou</rhyme></l>
+        <l id="s9:l4" met="2" type="-+">Met hulp van <rhyme label="b" type="m" corresp="#s9:l3">ou</rhyme>,</l>
+        <l id="s9:l5" met="3" type="-+">'Ken min u niet om <rhyme label="c" type="m">loon</rhyme>:</l>
+        <l id="s9:l6" met="4" type="-+">Maer wt liefde uwen <rhyme label="c" type="m" corresp="#s9:l5">persoon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

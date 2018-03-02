@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25018</id>
+    <date>
+      <year-start>1300</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>zürich</orginal-name>
+      <standard-name>Zürich, Swiss</standard-name>
+      <coordinates>
+        <lon>47.3723957</lon>
+        <lat>8.5423216</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>praise</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Ic sach noyt so roden <rhyme label="a" type="f">mont</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Noch oec so minlike <rhyme label="b" type="m">ogen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Als si heeft, die mi heeft <rhyme label="a" type="f" corresp="#s1:l1">gewont</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Al in dat herte <rhyme label="b" type="m" corresp="#s1:l2">dogen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Doch leve ic in <rhyme label="c" type="m">hogen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ende hope des loen <rhyme label="d" type="f">ontfaen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Geeft si mi qualen <rhyme label="c" type="m" corresp="#s1:l5">dogen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Si mach mis beteren <rhyme label="d" type="f" corresp="#s1:l6">saen</rhyme>.</l>
+        <l id="s1:l9" met="3" type="-+">Lief, mi hevet u <rhyme label="d" type="f" corresp="#s1:l6">minne</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">So vriendelike <rhyme label="b" type="m" corresp="#s1:l2">bevaen</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Dat ic u met <rhyme label="d" type="f" corresp="#s1:l6">sinne</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">Moete wesen <rhyme label="b" type="m" corresp="#s1:l2">onderdaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Mi es wale, als ic mach <rhyme label="a" type="f">sijn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Bi minre scone <rhyme label="b" type="m">vrouwen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Ende ic danne haer claer <rhyme label="a" type="f" corresp="#s2:l1">anscijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ende haer gelaet mach <rhyme label="b" type="m" corresp="#s2:l2">scouwen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">God verde si van <rhyme label="c" type="m">rouwen</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">Si es so wale <rhyme label="d" type="f">gedaen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Dat ic haer bi <rhyme label="c" type="m" corresp="#s2:l5">trouwen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Moete tallen diensten <rhyme label="d" type="f" corresp="#s2:l6">staen</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Lief, mi hevet u <rhyme label="d" type="f" corresp="#s2:l6">minne</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">So vriendelike <rhyme label="b" type="m" corresp="#s2:l2">bevaen</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Dat ic u met <rhyme label="d" type="f" corresp="#s2:l6">sinne</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Moete wesen <rhyme label="b" type="m" corresp="#s2:l2">onderdaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

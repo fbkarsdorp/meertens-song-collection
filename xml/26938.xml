@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26938</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">G tt lieb laß dich <rhyme label="a" type="f">gedencken</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">das ich nitt bei dir mag <rhyme label="b" type="m">sein</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Laß d  die trow nitt  <rhyme label="a" type="f" corresp="#s1:l1">senckenn</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">die ich dir hab <rhyme label="b" type="m" corresp="#s1:l2">bewist</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">darz  d rch meinen hertzen gr <rhyme label="c" type="f">ndt</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">d  bist mein fre ndt so <rhyme label="d" type="m">groß</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">des nhemen ich a ff mein <rhyme label="c" type="f" corresp="#s1:l5">hinnefartt</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">das mir kein lieber <rhyme label="d" type="m" corresp="#s1:l6">wardtt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Och edell trost meins hertzen l <rhyme label="a" type="f">st</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">was krenckest  das hertze <rhyme label="b" type="m">mein</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Das ich dich lieb nitt sprecken <rhyme label="a" type="f" corresp="#s2:l1">mag</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">das ist mir ein schware <rhyme label="b" type="m" corresp="#s2:l2">pein</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">Jr m ndtlein iß rott / ihr a gen seintt <rhyme label="c" type="f">clar</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">sie l chten wie ein <rhyme label="d" type="m">Robin</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">moghtt ich mitt jr jns ellendt <rhyme label="c" type="f" corresp="#s2:l5">gahenn</rhyme>  /</l>
+        <l id="s2:l8" met="3" type="-+">das werhe mir ein kleine <rhyme label="d" type="m" corresp="#s2:l6">pein</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

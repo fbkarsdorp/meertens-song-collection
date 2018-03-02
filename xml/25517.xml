@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25517</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (jülich?)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>De eerste vreugde die ik gewon</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die eirste freud die ich ye <rhyme label="a" type="m">gewon</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">ys myr zo truren <rhyme label="b" type="f">komen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">dat vngeuall is widder <rhyme label="c" type="m">mich</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">hait myr myn freud <rhyme label="b" type="f" corresp="#s1:l2">benomen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">des mois ich truren bis vff eyn <rhyme label="d" type="m">zyt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">bis myr myn schones lieff freude <rhyme label="d" type="m" corresp="#s1:l5">gyfft</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">kan myr wael kummer <rhyme label="e" type="f">wenden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Och lest mael do ich by ye <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">fruntlich myt ys zo <rhyme label="b" type="f">kosen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">do machte sy mir eyn <rhyme label="c" type="m">krensselyn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">van fiolen vnd ouch van <rhyme label="b" type="f" corresp="#s2:l2">rosen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">dat machte sy mit yrere sine wysser <rhyme label="d" type="m">hant</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">ye trew gaff sy myr zo eynem <rhyme label="d" type="m" corresp="#s2:l5">pandt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">van myr wold sy nyet <rhyme label="e" type="f">wychen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dat nesselen kruyt dat sy myr <rhyme label="a" type="m">boid</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">dat west yn yerem <rhyme label="b" type="f">garden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sy spielde mit myr ind ich myt <rhyme label="c" type="m">ye</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">dry schantzen vff eyner <rhyme label="b" type="f" corresp="#s3:l2">karten</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">die erste schantz die ich <rhyme label="d" type="m">gewan</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">dat wa vurwair ye mundellyng <rhyme label="d" type="m" corresp="#s3:l5">roit</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">alle zyt zo mynem <rhyme label="e" type="f">besten</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och meetgen wat hait dyr der rocken <rhyme label="a" type="m">gedayn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">dat du nyet me machs <rhyme label="b" type="f">spynnen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">du suyst in eener die nesselen <rhyme label="c" type="m">an</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">recht wolstu myt eine <rhyme label="b" type="f" corresp="#s4:l2">ryngen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">O meetgen nu lais dyr wael die <rhyme label="d" type="m">weil</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">dat dich der rocken neyt ouer <rhyme label="d" type="m" corresp="#s4:l5">eyl</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">och gruetz myr myn <rhyme label="e" type="f">spynnerynnen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Och moder ich hauen eyn eydt <rhyme label="a" type="m">gesworn</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">dat ich nyet me mach <rhyme label="b" type="f">spynnen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">ich hauen eynen lantzknecht lieff ind <rhyme label="c" type="m">wert</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">licht mir yn mynen <rhyme label="b" type="f" corresp="#s5:l2">synnen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">hey drinck so gerne den kolen <rhyme label="d" type="m">wyn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Hu fleyd mich yn syn blancke <rhyme label="d" type="m" corresp="#s5:l5">armelyn</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">den auent zu dem <rhyme label="e" type="f">morgen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

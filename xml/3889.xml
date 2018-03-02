@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3889</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Een ridder en een meisje jong</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VAstelauont vals <rhyme label="a" type="m">bedroch</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">This recht dat ick v <rhyme label="b" type="f">hate</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ghi cont wel van Gods <rhyme label="c" type="m">kinderen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Verdoelde scaepkens <rhyme label="b" type="f" corresp="#s1:l2">maken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die werelt spreect ons blidelijck <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wilt ghi ons so haest <rhyme label="b" type="f">begeuen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ghi sijt noch ionc / ghi hebt den <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghi moecht noch langhe <rhyme label="b" type="f" corresp="#s2:l2">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De nature is seer haest <rhyme label="a" type="m">ghenoodt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Si en can haer niet <rhyme label="b" type="f">bedwingen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Waer ick nu inde werelt <rhyme label="c" type="m">noch</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Daer soude ic dansen en <rhyme label="b" type="f" corresp="#s3:l2">springen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O lacy het moet ghelaten <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Ic en mach daer nu niet <rhyme label="b" type="f">gangen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ic heb mi onder een ander <rhyme label="c" type="m">ghegeuen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dus bliue ick <rhyme label="b" type="f" corresp="#s4:l2">gheuangen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Mi coemt so dick in minen <rhyme label="a" type="m">sinnen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Wat mach ic hier binnen <rhyme label="b" type="f">maken</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Mijn herte is so dick <rhyme label="c" type="m">beswaert</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Ick en can God niet <rhyme label="b" type="f" corresp="#s5:l2">ghenaken</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O lacy het moet ghelaten <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ick moet nu leeren <rhyme label="b" type="f">deruen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Nature eest v lief oft <rhyme label="c" type="m">leet</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ghi moet v leeren <rhyme label="b" type="f" corresp="#s6:l2">steruen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Och steruen ghi sijt een hert <rhyme label="a" type="m">ghelach</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Die v te rechte sal <rhyme label="b" type="f">proeuen</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Voerwaer ten is gheen <rhyme label="c" type="m">ongelijc</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Al is mijn herte dicwijl <rhyme label="b" type="f" corresp="#s7:l2">droeue</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">O kint en ghelooft die werelt <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Al thoont si v een schoon <rhyme label="b" type="f">ghenuecht</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Want si met haren stricken <rhyme label="c" type="m">valsch</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Menich goet herte treckt van der <rhyme label="b" type="f" corresp="#s8:l2">duecht</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Ick sie wel ic mach wel wacker <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Bi daghen ende oock bi <rhyme label="b" type="f">nachten</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Want de vyant schiet soe menighen <rhyme label="c" type="m">pijl</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Om deuote herten te <rhyme label="b" type="f" corresp="#s9:l2">versmachten</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Ick wil om keeren / tis meer dan <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Dat ick dat cleyne om tgroote <rhyme label="b" type="f">gheue</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Op dat ick niet daer buyten en <rhyme label="c" type="m">blijf</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Als die sotte maechden <rhyme label="b" type="f" corresp="#s10:l2">deden</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Als ick dencke op dat herde <rhyme label="a" type="m">woert</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">So wort mijn herte swaer <rhyme label="b" type="f">beladen</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Voerwaer voerwaer ick en kenne v <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Ghi coemt oock veel te <rhyme label="b" type="f" corresp="#s11:l2">spade</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">O Maria staet ons nu <rhyme label="a" type="m">bi</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">En wilt ons troost <rhyme label="b" type="f">verweruen</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Op dat wi na dese corte <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Ghenade moghen <rhyme label="b" type="f" corresp="#s12:l2">verweruen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

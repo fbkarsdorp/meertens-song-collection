@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38614</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mythological song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Courante la reine</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Croon van <rhyme label="a" type="m">Helicon</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghewonnen door het <rhyme label="b" type="f">vluchten</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Die ons <rhyme label="b" type="f" corresp="#s1:l2">ghenuchten</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Vermeeren <rhyme label="a" type="m" corresp="#s1:l1">kon</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">O! ziel-bekoorster vande gulde <rhyme label="a" type="m" corresp="#s1:l1">Son</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">De Cabalinsche clare,, <rhyme label="c" type="m">vliet</rhyme></l>
+        <l id="s1:l7" met="5" type="+-">Dien en besproeyt der Musen snaren,, <rhyme label="c" type="m" corresp="#s1:l6">niet</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Ten sy uw' <rhyme label="d" type="f">cransen</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Hun lockt tot <rhyme label="d" type="f" corresp="#s1:l8">dansen</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Met een vrolijck <rhyme label="c" type="m" corresp="#s1:l6">liet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Singht dan <rhyme label="a" type="m">Calliope</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Met uwe <rhyme label="b" type="f">Sangh-matinnen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Verheeft het <rhyme label="b" type="f" corresp="#s2:l2">minnen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Dat Daphnes <rhyme label="a" type="m" corresp="#s2:l1">dé</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Verkeeren in een teecken vande <rhyme label="a" type="m" corresp="#s2:l1">Vré</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Sy heeft den geylen lust <rhyme label="c" type="m">gheveldt</rhyme>?</l>
+        <l id="s2:l7" met="5" type="+-">Gheheylicht loof, ach suyver <rhyme label="c" type="m" corresp="#s2:l6">Sinne-beldt</rhyme>.</l>
+        <l id="s2:l8" met="2" type="-+">Wy sullen <rhyme label="d" type="f">vieren</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">De <rhyme label="d" type="f" corresp="#s2:l8">Lauwerieren</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">In't Elesis <rhyme label="c" type="m" corresp="#s2:l6">veldt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Roem-weerde <rhyme label="a" type="m">Lauwer-Bruydt</rhyme>?</l>
+        <l id="s3:l2" met="3" type="-+">Die door uw' groote <rhyme label="b" type="f">kuysheydt</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">By Pallas 'thuys <rhyme label="b" type="f" corresp="#s3:l2">leyt</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Ach reyne <rhyme label="a" type="m" corresp="#s3:l1">spruyt</rhyme>!</l>
+        <l id="s3:l5" met="5" type="-+">Ick offer u den lof van mijn <rhyme label="a" type="m" corresp="#s3:l1">gheluydt</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Comt hier speel-siecke <rhyme label="c" type="m">saterkens</rhyme>,</l>
+        <l id="s3:l7" met="5" type="+-">En baeyt u in Parnassi <rhyme label="c" type="m" corresp="#s3:l6">waterkens</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">En naer u <rhyme label="d" type="f">singhen</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">En dertel <rhyme label="d" type="f" corresp="#s3:l8">springhen</rhyme>,</l>
+        <l id="s3:l10" met="3" type="+-">Houdt uw' <rhyme label="c" type="m" corresp="#s3:l6">fraterkens</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

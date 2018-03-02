@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24764</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Kom haar te mij</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Com haer te mi mijns hertzen <rhyme label="a" type="f">vrouwe</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">An dir so staen de zinnen <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Liever wijf ic niewer <rhyme label="a" type="f" corresp="#s1:l1">scouwe</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Laet dir ghenoughen mijn jonstlijc <rhyme label="b" type="m" corresp="#s1:l2">pijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ende doet mir dinen troost <rhyme label="b" type="m" corresp="#s1:l2">anschijn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Com hare verdriven minen <rhyme label="a" type="f">rauwe</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Als ic aenzie dat anschijn <rhyme label="b" type="m">dijn</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Lief alder liefst in rechter <rhyme label="a" type="f" corresp="#s2:l1">trauwe</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Laet mi dijn alre liefste <rhyme label="b" type="m" corresp="#s2:l2">zijn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende doet mir dinen troost <rhyme label="b" type="m" corresp="#s2:l2">anscijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Com haer doe das ic vreucht <rhyme label="a" type="f">ghelauwe</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Altoos so vintstu mi <rhyme label="b" type="m">eighijn</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Lost mi van zorghen het staet mi <rhyme label="a" type="f" corresp="#s3:l1">nauwe</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Lost mijn jonst in dir hertzen <rhyme label="b" type="m" corresp="#s3:l2">scrijn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ende doet mir dinen troost <rhyme label="b" type="m" corresp="#s3:l2">anscijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

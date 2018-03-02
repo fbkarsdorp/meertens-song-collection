@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3951</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ik had een gestadig minnetje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALle minen troost die is <rhyme label="a" type="m">bereyt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Waer ic keere oft waer ick <rhyme label="b" type="m">vaer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Om eender vrouwen <rhyme label="a" type="m" corresp="#s1:l1">lieflicheit</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Alle duecht heeft si in <rhyme label="b" type="m" corresp="#s1:l2">haer</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Si is in reynicheden / <rhyme label="b" type="m" corresp="#s1:l2">maer</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Een edel vrou van duechden <rhyme label="c" type="m">vry</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Daer om mach ick wel seggen <rhyme label="b" type="m" corresp="#s1:l2">claer</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Maria mater <rhyme label="c" type="m" corresp="#s1:l6">domini</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ic denc op haer grote <rhyme label="a" type="m">duecht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die mi comen mach te <rhyme label="b" type="m">baten</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">So worde ic so seer <rhyme label="a" type="m" corresp="#s2:l1">verhuecht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ende moet al mijn trueren <rhyme label="b" type="m" corresp="#s2:l2">laten</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Na haren wille mach si <rhyme label="b" type="m" corresp="#s2:l2">saten</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Mijn arme leuen waer ick <rhyme label="c" type="m">si</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Want si is machtich bouen <rhyme label="b" type="m" corresp="#s2:l2">maten</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Maria mater <rhyme label="c" type="m" corresp="#s2:l6">domini</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Edelder vrucht / oft reynder <rhyme label="a" type="m">maecht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En was ter weerelt noyt <rhyme label="b" type="m">gheuoet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Daer mijn herte ende sin toe <rhyme label="a" type="m" corresp="#s3:l1">draecht</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Op haer heb ic so groten <rhyme label="b" type="m" corresp="#s3:l2">moet</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Si is reyn en daer toe <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ende alle duecht die is haer <rhyme label="c" type="m">bi</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Waer bi dat ick nu seggen <rhyme label="b" type="m" corresp="#s3:l2">moet</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Maria mater <rhyme label="c" type="m" corresp="#s3:l6">domini</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tot haer wil ick ghestadich <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Then sal mi nemmermeer wesen <rhyme label="b" type="m">quaet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Si is die alder liefste <rhyme label="a" type="m" corresp="#s4:l1">mijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende mijn eewich <rhyme label="b" type="m" corresp="#s4:l2">toeuerlaet</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Hope ende troost daert al aen <rhyme label="b" type="m" corresp="#s4:l2">staet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">In reynicheden so is haer <rhyme label="c" type="m">cry</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Si heeft een ioncfroulijc <rhyme label="b" type="m" corresp="#s4:l2">gelaet</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Maria mater <rhyme label="c" type="m" corresp="#s4:l6">domini</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Nu groetse ghi heeren ende <rhyme label="a" type="m">gasten</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Na den edelen hoogen <rhyme label="b" type="m">weert</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">So leefdy in vruechden <rhyme label="a" type="m" corresp="#s5:l1">vaste</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Als ghi dalder hoochste <rhyme label="b" type="m" corresp="#s5:l2">begeert</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">So wat die werlt heeft <rhyme label="b" type="m" corresp="#s5:l2">verteert</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Dat sal die vrou al sonder <rhyme label="c" type="m">sy</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Betalen aen den hoochsten <rhyme label="b" type="m" corresp="#s5:l2">weert</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Maria mater <rhyme label="c" type="m" corresp="#s5:l6">domini</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

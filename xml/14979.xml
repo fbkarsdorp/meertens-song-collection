@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14979</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>praise</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>La Vallette</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Geen dingen syn so,, Geringe <rhyme label="a" type="f">geschapen</rhyme>,,</l>
+        <l id="s1:l2" met="5" type="-+">Of strecken ons gantsch'lyck seer,, Tot nut en <rhyme label="b" type="m">leer</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Wie isser soo snoo? Wie sal sich <rhyme label="a" type="f" corresp="#s1:l1">vergapen</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Sich selven toeschryven 't goet, Dat Gode <rhyme label="c" type="m">doet</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Dat wy door 't betrachten, Van eygene <rhyme label="d" type="f">krachten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Kregen onfeylbaer ons <rhyme label="b" type="m" corresp="#s1:l2">begeer</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wy souden dier wegen, Niet achten Gods <rhyme label="e" type="f">segen</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Ja niet weer,, dencken meer,, op den <rhyme label="b" type="m" corresp="#s1:l2">Heer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

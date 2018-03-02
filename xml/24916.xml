@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24916</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>May song</tag>
+    </tags>
+    <melody>Ach lieflijk zien dijn zoete kracht</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ach lieflic zien dijn zuetze <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Haet mir <rhyme label="a" type="m" corresp="#s1:l1">ghebracht</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Des meyes <rhyme label="b" type="m">vruecht</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Den zuetzen dach vor meyes <rhyme label="a" type="m" corresp="#s1:l1">nacht</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Das mijn <rhyme label="a" type="m" corresp="#s1:l1">ghedacht</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Steit so <rhyme label="b" type="m" corresp="#s1:l3">ontwuecht</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">In can niet anders sijn <rhyme label="b" type="m" corresp="#s1:l3">verhuecht</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">April dijn hent mir wael <rhyme label="c" type="m">becant</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Die haet <rhyme label="c" type="m" corresp="#s1:l8">ghesant</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Eyn vruntlic zien so <rhyme label="d" type="m">minnentlijch</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Int hertze mijn das haet <rhyme label="c" type="m" corresp="#s1:l8">gheplant</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">Vrau venus <rhyme label="c" type="m" corresp="#s1:l8">brant</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Den mey in mich gaer <rhyme label="d" type="m" corresp="#s1:l10">vruechdenrijch</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Mesloont mir das dats <rhyme label="d" type="m" corresp="#s1:l10">onghelijch</rhyme></l>
+        <l id="s1:l15" met="4" type="-+">Want mir das lieflic oghen <rhyme label="d" type="m" corresp="#s1:l10">blijch</rhyme></l>
+        <l id="s1:l16" met="4" type="-+">Nam hertze ende zin ende al <rhyme label="b" type="m" corresp="#s1:l3">ghenuecht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mey gaer vruechdenrijche <rhyme label="a" type="m">tzijt</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Gon mir <rhyme label="a" type="m" corresp="#s2:l1">jolijt</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Van haer die mijns nu gheil <rhyme label="b" type="m">vermach</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In vant nye ghein ter werelt <rhyme label="a" type="m" corresp="#s2:l1">wijt</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Das seiker <rhyme label="a" type="m" corresp="#s2:l1">zijt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Die mir so gheil mijn hertze <rhyme label="b" type="m" corresp="#s2:l3">ontzach</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ach lieflich mey does huer <rhyme label="b" type="m" corresp="#s2:l3">ghewach</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Mijns levens heil wert zaen <rhyme label="c" type="m">verdrach</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Versmaet zi dan mijns meinens <rhyme label="c" type="m" corresp="#s2:l8">duecht</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Ach lieflic zien dijn zuetze <rhyme label="d" type="m">cracht</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Haet mir <rhyme label="c" type="m" corresp="#s2:l8">ghebracht</rhyme></l>
+        <l id="s2:l12" met="2" type="-+">Des meyes <rhyme label="c" type="m" corresp="#s2:l8">vruecht</rhyme></l>
+        <l id="s2:l13" met="4" type="-+">Den zuetzen dach vor meyes <rhyme label="d" type="m" corresp="#s2:l10">nacht</rhyme></l>
+        <l id="s2:l14" met="4" type="-+">Das mijn <rhyme label="d" type="m" corresp="#s2:l10">ghedacht</rhyme></l>
+        <l id="s2:l15" met="4" type="-+">Steit so <rhyme label="d" type="m" corresp="#s2:l10">ontwuecht</rhyme></l>
+        <l id="s2:l16" met="4" type="-+">In can niet anders sijn <rhyme label="b" type="m" corresp="#s2:l3">verhuecht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lieflic beild recht wijflic <rhyme label="a" type="m">scijn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Nu ben ich <rhyme label="a" type="m" corresp="#s3:l1">dijn</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Dus haet ghewracht dijn scote <rhyme label="b" type="m">zoet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ende haet gheplant ein <rhyme label="a" type="m" corresp="#s3:l1">gaerdelijn</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Int hertze <rhyme label="a" type="m" corresp="#s3:l1">mijn</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Daer nie ghein in so vaste en <rhyme label="b" type="m" corresp="#s3:l3">stoet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Neimstu mir niet in dijn <rhyme label="b" type="m" corresp="#s3:l3">behoet</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Mijns levens ne sciet mich nummer <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Want ghi allein mijns al <rhyme label="c" type="m" corresp="#s3:l8">vermuecht</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Ach lieflic zien dijn zuetze <rhyme label="d" type="m">cracht</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Haet mir <rhyme label="c" type="m" corresp="#s3:l8">ghebracht</rhyme></l>
+        <l id="s3:l12" met="2" type="-+">Das meyes <rhyme label="c" type="m" corresp="#s3:l8">vruecht</rhyme></l>
+        <l id="s3:l13" met="4" type="-+">Den zuetzen dach vor meyes <rhyme label="d" type="m" corresp="#s3:l10">nacht</rhyme></l>
+        <l id="s3:l14" met="4" type="-+">Das mijn <rhyme label="d" type="m" corresp="#s3:l10">ghedacht</rhyme></l>
+        <l id="s3:l15" met="4" type="-+">Steit so <rhyme label="d" type="m" corresp="#s3:l10">ontwuecht</rhyme></l>
+        <l id="s3:l16" met="4" type="-+">In can niet anders zijn <rhyme label="b" type="m" corresp="#s3:l3">verhuecht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

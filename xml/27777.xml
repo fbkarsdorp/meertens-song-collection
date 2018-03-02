@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27777</id>
+    <date>
+      <year-start>1578</year-start>
+      <year-end>1578</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht]</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>dance song</tag>
+    </tags>
+    <melody>Nu laat ons allen God loven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hy verbiet de spijs al op den <rhyme label="a" type="m">Ban</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hy consenteert het Wijff end <rhyme label="a" type="m" corresp="#s1:l1">Man</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Als hy aen gheldt geraken <rhyme label="a" type="m" corresp="#s1:l1">kan</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Daer hyt om <rhyme label="b" type="m">dee</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Uuten duyvel is hy <rhyme label="c" type="f">geboren</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Zijn dienaers <rhyme label="b" type="m" corresp="#s1:l4">mee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy verbiedt te trouwen echte <rhyme label="a" type="m">wijven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hy laet wel hoererie <rhyme label="a" type="m" corresp="#s2:l1">bedrijven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als hy mach crijgen de ronde <rhyme label="a" type="m" corresp="#s2:l1">schijven</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Daer hyt om <rhyme label="b" type="m">dee</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Uuten duivel is hy <rhyme label="c" type="f">geboren</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Zijn dienaers <rhyme label="b" type="m" corresp="#s2:l4">mee</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy wil voor ons den Hemel <rhyme label="a" type="m">sluyten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Selve moet hyder blijven <rhyme label="a" type="m" corresp="#s3:l1">buyten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Met alle zijn gecapte <rhyme label="a" type="m" corresp="#s3:l1">guyten</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Zijn oordeel is <rhyme label="b" type="m">ree</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Uuten duyvel is hy <rhyme label="c" type="f">geboren</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Zijn dienaers <rhyme label="b" type="m" corresp="#s3:l4">mee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

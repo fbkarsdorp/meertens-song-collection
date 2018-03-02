@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27196</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Grijp een moed gij edele jongelingen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Cupydos <rhyme label="a" type="m">straelen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghy hebt myn hert <rhyme label="b" type="f">doorschoten</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Met vwen <rhyme label="a" type="m" corresp="#s1:l1">quaelen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hebt ghy my gansch <rhyme label="b" type="f" corresp="#s1:l2">doorgoten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Als ick present / als ick <rhyme label="c" type="m">present</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ten heeft my niet <rhyme label="b" type="f" corresp="#s1:l2">verdrooten</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Waer by v lieff <rhyme label="c" type="m" corresp="#s1:l5">ontrent</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Maer als ick niet en <rhyme label="a" type="m">mach</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Aenschouwen v <rhyme label="b" type="f">visagie</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Soo lyd ick met <rhyme label="a" type="m" corresp="#s2:l1">geclach</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Om v schoone <rhyme label="b" type="f" corresp="#s2:l2">imagie</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Geen swaerder pyn / geen swaerder <rhyme label="c" type="m">pyn</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Het is een groot <rhyme label="b" type="f" corresp="#s2:l2">quellage</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Apsent te <rhyme label="c" type="m" corresp="#s2:l5">syn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Want v aesem die <rhyme label="a" type="m">ruckt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Als vyoletten <rhyme label="b" type="f">schoone</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">En ghy v tongh <rhyme label="a" type="m" corresp="#s3:l1">gebruyckt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Bouen veenus <rhyme label="b" type="f" corresp="#s3:l2">ydoone</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Van lichaem delicaet / van lichaem <rhyme label="c" type="m">delicaet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ghy spandt in thert die <rhyme label="b" type="f" corresp="#s3:l2">croone</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Al bouen <rhyme label="c" type="m" corresp="#s3:l5">maet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">In schoonheyt <rhyme label="a" type="m">gelyck</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Als helena <rhyme label="b" type="f">verheuen</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">V keeltghen singt <rhyme label="a" type="m" corresp="#s4:l1">musyke</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dat doet my geheel <rhyme label="b" type="f" corresp="#s4:l2">sneuen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Met pynen groot met pynen <rhyme label="c" type="m">groot</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Mocht ick v eens <rhyme label="b" type="f" corresp="#s4:l2">aencleeuen</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Die liefste <rhyme label="c" type="m" corresp="#s4:l5">minyoet</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Princes <rhyme label="a" type="m">eerbaer</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die keur van alle <rhyme label="b" type="f">vrouwen</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Daer ick <rhyme label="a" type="m" corresp="#s5:l1">voorwaer</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Van nu voortaen op <rhyme label="b" type="f" corresp="#s5:l2">bouwe</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">V dienaer altyt v dienaer <rhyme label="c" type="m">altyt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Ick vast op v <rhyme label="b" type="f" corresp="#s5:l2">betrouwe</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Al met <rhyme label="c" type="m" corresp="#s5:l5">jolyt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

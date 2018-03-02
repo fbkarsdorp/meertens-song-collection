@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34362</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Tweede Carileen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CUpidoken ick min een <rhyme label="a" type="m">Maeght</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Die t'gemoet my dach en nacht soo <rhyme label="a" type="m" corresp="#s1:l1">plaeght</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">t'Is een Nimph vande <rhyme label="b" type="m">zee</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Die my t'hert,, Vult met <rhyme label="b" type="m" corresp="#s1:l3">wee</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">Dat van haer my dus ontstolen <rhyme label="c" type="m">wert</rhyme>.</l>
+        <l id="s1:l6" met="6" type="+-">Waer dat ick gaen,, k'Siense staen,, Inde <rhyme label="d" type="m">baen</rhyme></l>
+        <l id="s1:l7" met="5" type="+-">Van mijn woelen eeuwich dagh en <rhyme label="e" type="m">nacht</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Waer ick ben,, Hier oft <rhyme label="f" type="m">daer</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Niemant ken,, Ick als <rhyme label="f" type="m" corresp="#s1:l8">haer</rhyme>,</l>
+        <l id="s1:l10" met="5" type="+-">Want van haer en is noit mijn <rhyme label="e" type="m" corresp="#s1:l7">ghedacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Eenen dagh ghescheyden van <rhyme label="a" type="m">haer</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Dunckt my langher als twee duysent <rhyme label="a" type="m" corresp="#s2:l1">iaer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Ia alleen maer een <rhyme label="b" type="m">ur</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Haer absent,, valt soo <rhyme label="b" type="m" corresp="#s2:l3">sur</rhyme></l>
+        <l id="s2:l5" met="5" type="+-">My als d'alderfelste boos <rhyme label="c" type="m">torment</rhyme>.</l>
+        <l id="s2:l6" met="6" type="+-">Siet ick verdwijn,, Door de pijn,, Als ick <rhyme label="d" type="m">schijn</rhyme></l>
+        <l id="s2:l7" met="5" type="+-">Dat ick raecken niet sal tot dees <rhyme label="e" type="m">haef</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Want vol vrees,, Alle <rhyme label="f" type="m">reys</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Is mijn vlees,, Int <rhyme label="f" type="m" corresp="#s2:l8">ghepeys</rhyme></l>
+        <l id="s2:l10" met="5" type="+-">Van te blijven eeuwich maer haer <rhyme label="e" type="m" corresp="#s2:l7">slaef</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wiest Cupid' ghy oft <rhyme label="a" type="m">sou</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Haer verwerven tot mijn echte <rhyme label="a" type="m" corresp="#s3:l1">vrou</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">t'Hert dat waer dan <rhyme label="b" type="m">gherust</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Als ick wiest,, dat <rhyme label="b" type="m" corresp="#s3:l3">gheblust</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Sou van haer mijn vier sijn, en <rhyme label="c" type="m">gheslieft</rhyme>;</l>
+        <l id="s3:l6" met="6" type="+-">De hoop is goet,, Die my voet,, Maer den <rhyme label="d" type="m">moet</rhyme></l>
+        <l id="s3:l7" met="5" type="+-">Heb ick schier verloren hier voor <rhyme label="e" type="m">al</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Mits dat sy,, Niet <rhyme label="f" type="m">ghesint</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Is tot my,, Die haer <rhyme label="f" type="m" corresp="#s3:l8">mint</rhyme>,</l>
+        <l id="s3:l10" met="5" type="+-">Dunckt my dat ick haer niet crijghen <rhyme label="e" type="m" corresp="#s3:l7">sal</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Schoon Princers die my hout <rhyme label="a" type="m">geboeyt</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Tot een weder-liefd'u met my <rhyme label="a" type="m" corresp="#s4:l1">spoet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">Denckt maer eens op sijn <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Och wanneer sal u <rhyme label="b" type="m" corresp="#s4:l3">hert</rhyme></l>
+        <l id="s4:l5" met="5" type="+-">Flack'ren inde liefde al soo <rhyme label="c" type="m">seer</rhyme>!</l>
+        <l id="s4:l6" met="6" type="+-">Mijn weertsten pant, k'Geef mijn hant,, Laet den <rhyme label="d" type="m">brant</rhyme></l>
+        <l id="s4:l7" met="5" type="+-">Blussen, die ick om u schoonheyt <rhyme label="e" type="m">ly</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Helpt my dan,, Uyt de <rhyme label="f" type="m">pijn</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Laet u man,, My nu <rhyme label="f" type="m" corresp="#s4:l8">sijn</rhyme>,</l>
+        <l id="s4:l10" met="5" type="+-">Soo sal uwen dienaer wesen <rhyme label="e" type="m" corresp="#s4:l7">bly</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

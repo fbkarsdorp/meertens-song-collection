@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26882</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Jch habs <rhyme label="a" type="m">gewagtt</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">frisch <rhyme label="a" type="m" corresp="#s1:l1">vnerzagtt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Jn rechter liebdenn vnnd tra <rhyme label="b" type="f">wenn</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">dar mb halt <rhyme label="c" type="m">fast</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">wie d  mir hast <rhyme label="c" type="m" corresp="#s1:l4">zugesagtt</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">es wirdt dich nymmer re <rhyme label="b" type="f" corresp="#s1:l3">wenn</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">allein will <rhyme label="d" type="m">ich</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">dein eigenn <rhyme label="d" type="m" corresp="#s1:l7">sein</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">dara ff sei <rhyme label="e" type="m">bedachtt</rhyme> /</l>
+        <l id="s1:l10" met="2" type="-+">vnnd woll <rhyme label="e" type="m" corresp="#s1:l9">betrachtt</rhyme> /</l>
+        <l id="s1:l11" met="2" type="+-">das ich woll <rhyme label="f" type="m">sein</rhyme> /</l>
+        <l id="s1:l12" met="4" type="-+">der aller liebster <rhyme label="f" type="m" corresp="#s1:l11">dein</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Es ist gar <rhyme label="a" type="m">fein</rhyme> /</l>
+        <l id="s2:l2" met="2" type="-+">who zwei bei den andern <rhyme label="a" type="m" corresp="#s2:l1">sein</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">die sich gar trewlich <rhyme label="b" type="f">meinnenn</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">die sich <rhyme label="c" type="m">altzeitt</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Jn lieb vnnd <rhyme label="c" type="m" corresp="#s2:l4">leidt</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">Jn sachenn groß vnnd <rhyme label="b" type="f" corresp="#s2:l3">kleine</rhyme> /</l>
+        <l id="s2:l7" met="2" type="-+">betrachtenn <rhyme label="d" type="m">woll</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">wie es sein <rhyme label="d" type="m" corresp="#s2:l7">soll</rhyme> /</l>
+        <l id="s2:l9" met="2" type="-+">gedenck <rhyme label="e" type="m">daran</rhyme> /</l>
+        <l id="s2:l10" met="2" type="-+">Laß nit dar <rhyme label="e" type="m" corresp="#s2:l9">an</rhyme> /</l>
+        <l id="s2:l11" met="2" type="+-">ich meins gar g <rhyme label="f" type="m">ett</rhyme> /</l>
+        <l id="s2:l12" met="4" type="-+">des weiß d  <rhyme label="f" type="m" corresp="#s2:l11">woll</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dar mb ich <rhyme label="a" type="m">zwar</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">versehe mich <rhyme label="a" type="m" corresp="#s3:l1">gar</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">d  wirst mich nitt <rhyme label="b" type="f">verlassenn</rhyme> /</l>
+        <l id="s3:l4" met="2" type="-+">Herwidder <rhyme label="c" type="m">ich</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">mich dich <rhyme label="c" type="m" corresp="#s3:l4">versprich</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">thu d  altzeitt der <rhyme label="b" type="f" corresp="#s3:l3">massenn</rhyme> /</l>
+        <l id="s3:l7" met="2" type="-+">allein soll <rhyme label="d" type="m">gott</rhyme> /</l>
+        <l id="s3:l8" met="2" type="-+">mich d rch den <rhyme label="d" type="m" corresp="#s3:l7">thott</rhyme> /</l>
+        <l id="s3:l9" met="2" type="-+">brengenn vonn <rhyme label="e" type="m">dir</rhyme> /</l>
+        <l id="s3:l10" met="2" type="-+">gel beß <rhyme label="e" type="m" corresp="#s3:l9">mir</rhyme> /</l>
+        <l id="s3:l11" met="2" type="+-">vnnd annders kein <rhyme label="f" type="m">machtt</rhyme> /</l>
+        <l id="s3:l12" met="4" type="-+">Ade feins lieb z  g tter <rhyme label="f" type="m" corresp="#s3:l11">nachtt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

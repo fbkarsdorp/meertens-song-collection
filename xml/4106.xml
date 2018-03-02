@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4106</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Een maghet <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Reyn <rhyme label="b" type="f">wtghelesen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Heeft ons van thelsce serpent <rhyme label="c" type="m">beurijt</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Haer suyuer <rhyme label="a" type="m" corresp="#s1:l1">bloet</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Is vleesch bi <rhyme label="b" type="f" corresp="#s1:l2">desen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Met twoort geworden <rhyme label="c" type="m" corresp="#s1:l3">ghebenedijt</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Gabriel om onser alder <rhyme label="c" type="m" corresp="#s1:l3">profijt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ghesonden was van <rhyme label="d" type="f">gode</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Dien God die vader <rhyme label="c" type="m" corresp="#s1:l3">heeft</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Als des hemels hoochste <rhyme label="d" type="f" corresp="#s1:l8">bode</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Dus laet ons al <rhyme label="e" type="f">ghemeyne</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Louen Maria die suuer <rhyme label="f" type="m">iuecht</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">Ende Iesum haer kindeken <rhyme label="e" type="f" corresp="#s1:l11">cleyne</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Van haer gheboren is shemels <rhyme label="f" type="m" corresp="#s1:l12">vruecht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">V groot <rhyme label="a" type="m">ootmoet</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Moeder vol <rhyme label="b" type="f">trouwen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Heeft Christum wten hemel <rhyme label="c" type="m">ghehaelt</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Die goddelijcke <rhyme label="a" type="m" corresp="#s2:l1">vloet</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Des hemels <rhyme label="b" type="f" corresp="#s2:l2">bedouwen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">heeft v ter liefden gods <rhyme label="c" type="m" corresp="#s2:l3">bestraelt</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Adams sculden heeft hi <rhyme label="c" type="m" corresp="#s2:l3">betaelt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Aent cruce / dits claer <rhyme label="d" type="f">bescreuen</rhyme>.</l>
+        <l id="s2:l9" met="4" type="-+">Ende tsvaders gramscap is <rhyme label="c" type="m" corresp="#s2:l3">ghedaelt</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Al doer v vruecht <rhyme label="d" type="f" corresp="#s2:l8">verheuen</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Dus laet ons al <rhyme label="e" type="f">ghemeyne</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Louen Maria die suuer <rhyme label="f" type="m">iuecht</rhyme></l>
+        <l id="s2:l13" met="3" type="-+">Ende Iesum haer kindeken <rhyme label="e" type="f" corresp="#s2:l11">cleyne</rhyme></l>
+        <l id="s2:l14" met="4" type="-+">Van haer gheboren is shemels <rhyme label="f" type="m" corresp="#s2:l12">vruecht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Het hemelsche <rhyme label="a" type="m">licht</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Opt aertsche <rhyme label="b" type="f">rijcke</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Heeft ons bewesen die waerheyt <rhyme label="c" type="m">claer</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">O <rhyme label="a" type="m" corresp="#s3:l1">ghebenedide</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Ende wech <rhyme label="b" type="f" corresp="#s3:l2">publike</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">God ende mensche eewich <rhyme label="c" type="m" corresp="#s3:l3">eenpaer</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Voer dbeghin der werelt voer <rhyme label="c" type="m" corresp="#s3:l3">waer</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Int secreet gods <rhyme label="d" type="f">besloten</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">V dancken wij reyn maghet <rhyme label="c" type="m" corresp="#s3:l3">eerbaer</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Wten boom van Iesse <rhyme label="d" type="f" corresp="#s3:l8">ghesproten</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Dus laet ons al <rhyme label="e" type="f">ghemeyne</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Louen Maria die suuer <rhyme label="f" type="m">iuecht</rhyme></l>
+        <l id="s3:l13" met="3" type="-+">Ende Iesum haer kindeken <rhyme label="e" type="f" corresp="#s3:l11">cleyne</rhyme></l>
+        <l id="s3:l14" met="4" type="-+">Van haer gheboren is shemels <rhyme label="f" type="m" corresp="#s3:l12">vruecht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Die crachtighe <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Nye sijns <rhyme label="b" type="f">ghelijcke</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Is ons gheboren van eender <rhyme label="c" type="m">maecht</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Die machtighe <rhyme label="a" type="m" corresp="#s4:l1">macht</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Van allen <rhyme label="b" type="f" corresp="#s4:l2">wijcke</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Die claerheyt die ons claer <rhyme label="c" type="m" corresp="#s4:l3">bedaecht</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Het hoochste dat god oyt heeft <rhyme label="c" type="m" corresp="#s4:l3">behaecht</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Heeft voer ons willen <rhyme label="d" type="f">steruen</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Een sondich besmetten van ons <rhyme label="c" type="m" corresp="#s4:l3">veriaecht</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Dwelck ons wilde <rhyme label="d" type="f" corresp="#s4:l8">bederuen</rhyme></l>
+        <l id="s4:l11" met="3" type="+-">Dus laet ons al <rhyme label="e" type="f">ghemeyne</rhyme></l>
+        <l id="s4:l12" met="4" type="-+">Louen Maria die suuer <rhyme label="f" type="m">iuecht</rhyme></l>
+        <l id="s4:l13" met="3" type="-+">Ende Iesum haer kindeken <rhyme label="e" type="f" corresp="#s4:l11">cleyne</rhyme></l>
+        <l id="s4:l14" met="4" type="-+">Van haer gheboren is shemels <rhyme label="f" type="m" corresp="#s4:l12">vruecht</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Ootmoedelijcke <rhyme label="a" type="m">iuecht</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Princesse vol <rhyme label="b" type="f">ghenaden</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Bidt voer ons uwen sone <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Doer uwe <rhyme label="a" type="m" corresp="#s5:l1">duecht</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Staet ons in <rhyme label="b" type="f" corresp="#s5:l2">staden</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Al is ons leuen <rhyme label="c" type="m" corresp="#s5:l3">quaet</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Doer sijn weerde precioes <rhyme label="c" type="m" corresp="#s5:l3">bloet</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Dwelc hi ons heeft <rhyme label="d" type="f">ghegheuen</rhyme></l>
+        <l id="s5:l9" met="4" type="-+">O god die naect aent cruce <rhyme label="c" type="m" corresp="#s5:l3">stoet</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Verleent ons v eewich <rhyme label="d" type="f" corresp="#s5:l8">leuen</rhyme></l>
+        <l id="s5:l11" met="3" type="+-">Dat bidden wi alle <rhyme label="e" type="f">ghemeyne</rhyme></l>
+        <l id="s5:l12" met="4" type="-+">Moeder ende maecht reyn suyuer <rhyme label="f" type="m">iuecht</rhyme></l>
+        <l id="s5:l13" met="3" type="-+">Ende Iesum v kindeken <rhyme label="e" type="f" corresp="#s5:l11">cleyne</rhyme></l>
+        <l id="s5:l14" met="4" type="-+">Van v gheboren is shemels <rhyme label="f" type="m" corresp="#s5:l12">vruecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

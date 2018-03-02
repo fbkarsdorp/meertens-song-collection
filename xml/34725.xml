@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34725</id>
+    <date>
+      <year-start>1684</year-start>
+      <year-end>1684</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>new year song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">AEnsiet hoe Jesus schreyt, In hoy in stroy <rhyme label="a" type="m">gheleydt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">In doecxkens teer ghewonden,, Waer in u <rhyme label="a" type="m" corresp="#s1:l1">Majesteydt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Godt vander eeuwigheydt,, Wordt mensch voor ons <rhyme label="b" type="f">sonden</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Hy schud' en beeft van kou,, Hy weent uyt bittter <rhyme label="a" type="m">rou</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">De tranen zijn de wonden,, O mensch in liefden <rhyme label="a" type="m" corresp="#s2:l1">flou</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">T'woordt is gheworden nou,, Godt is mensch voor u <rhyme label="b" type="f">sonden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">En vreest niet sondaer groot,, Het Kindt is naeckt en <rhyme label="a" type="m">bloodt</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Sijn handen zijn ghebonden,, Hy jaeght van u de <rhyme label="a" type="m" corresp="#s3:l1">doodt</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Hy helpt u uyt den noodt,, O menschen verlaet de <rhyme label="b" type="f">sonden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">t'Bloedt is een nieuwe Jaer,, Ghestort voor alle <rhyme label="a" type="m">gaer</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Schept nieuwe vreught en sinnen, Adieu t'is t'leste <rhyme label="a" type="m" corresp="#s4:l1">jaer</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Laet ons die nemen waer,, Om Iesum te gaen <rhyme label="b" type="f">beminnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

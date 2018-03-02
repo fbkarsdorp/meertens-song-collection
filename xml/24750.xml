@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24750</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>narrative song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>De kapelaan van Hoedelem</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De capelaen van <rhyme label="a" type="m">hoedelem</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die soude eens nuchtens messe <rhyme label="b" type="m">doen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die coster die drouch bachten <rhyme label="a" type="m" corresp="#s1:l1">hem</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Sinen bouc ende sinen <rhyme label="b" type="m" corresp="#s1:l2">craproen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hi seide coster lieve <rhyme label="b" type="m" corresp="#s1:l2">garsoen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Nu ganc een lettelkijn met <rhyme label="c" type="m">mi</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s1:l6">sondi</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s1:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De costre seide <rhyme label="a" type="m">domine</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Waer waert wildi henen <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Lieve coster <rhyme label="a" type="m" corresp="#s2:l1">nemmermee</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Ne latet niemene <rhyme label="b" type="m" corresp="#s2:l2">verstaen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Men soude mi de crune <rhyme label="b" type="m" corresp="#s2:l2">vlaen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Wiste men hoe die zake <rhyme label="c" type="m">zi</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s2:l6">sondi</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s2:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als si camen vor die <rhyme label="a" type="m">duere</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Daer de pape wilde <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Coster nu moeti hier <rhyme label="a" type="m" corresp="#s3:l1">vuere</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Bliven staende een <rhyme label="b" type="m" corresp="#s3:l2">lettelkijn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Haddic ghedaen den wille <rhyme label="b" type="m" corresp="#s3:l2">mijn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ic comme tot u sonder <rhyme label="c" type="m">chi</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s3:l6">sondi</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s3:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Mijn here die pape die ghinc <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">De coster die daer buten <rhyme label="b" type="m">stoet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hi peinsde wel in zinen <rhyme label="a" type="m" corresp="#s4:l1">zin</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Dese pape en es niet <rhyme label="b" type="m" corresp="#s4:l2">vroet</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Quame de man dan ware niet <rhyme label="b" type="m" corresp="#s4:l2">goet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Hi soude mi vragen wat <rhyme label="c" type="m">wildi</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s4:l6">sondi</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s4:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De coster die ne stont daer niet <rhyme label="a" type="m">lanc</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">De man ne cam ter duere <rhyme label="b" type="m">ghegaen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Laet in laet in dat was sijn <rhyme label="a" type="m" corresp="#s5:l1">zanc</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Of ic sal de duere up <rhyme label="b" type="m" corresp="#s5:l2">slaen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Als hi dit riep doe wast <rhyme label="b" type="m" corresp="#s5:l2">ghedaen</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">In de camere so ghinc <rhyme label="c" type="m">hi</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s5:l6">sondi</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s5:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Een pape dat hi te bedde <rhyme label="a" type="m">vant</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Die arde jamerlike <rhyme label="b" type="m">sach</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">De man nam enen stoc in <rhyme label="a" type="m" corresp="#s6:l1">dhant</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">Hi gaf hem menighen drouven <rhyme label="b" type="m" corresp="#s6:l2">slach</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Hi seide dit es u laetste <rhyme label="b" type="m" corresp="#s6:l2">dach</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">De pape maecte groot <rhyme label="c" type="m">ghecri</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s6:l6">sondi</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s6:l6">vi</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Die coster hoerde dat <rhyme label="a" type="m">ghescal</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Hi tart een lettelkijn bet <rhyme label="b" type="m">naer</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Hi hoorde tspapen <rhyme label="a" type="m" corresp="#s7:l1">ongheval</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Hi seide wat duvle doedi <rhyme label="b" type="m" corresp="#s7:l2">daer</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">God gheve mi een drouve <rhyme label="b" type="m" corresp="#s7:l2">jaer</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Mi en es lief dat ic hier buten <rhyme label="c" type="m">zi</rhyme></l>
+        <l id="s7:l7" met="4" type="-+">De bottekalagi de madamoers sondi <rhyme label="c" type="m" corresp="#s7:l6">sondi</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">De bottekalagi de madamoers de voustra <rhyme label="c" type="m" corresp="#s7:l6">vi</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4026</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>O waarde mond</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Rooden <rhyme label="a" type="m">mont</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Ghi maect <rhyme label="a" type="m" corresp="#s1:l1">ghesont</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">In alder <rhyme label="a" type="m" corresp="#s1:l1">stont</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Al die ghijs <rhyme label="a" type="m" corresp="#s1:l1">gont</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">O soete <rhyme label="a" type="m" corresp="#s1:l1">gront</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">seer hooch <rhyme label="b" type="f">ghepresen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Alsijn si totter doot <rhyme label="a" type="m" corresp="#s1:l1">ghewont</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ghi moechtse saen <rhyme label="b" type="f" corresp="#s1:l6">ghenesen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">O reyne <rhyme label="a" type="m">maecht</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Die niet en <rhyme label="a" type="m" corresp="#s2:l1">draecht</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Dat God <rhyme label="a" type="m" corresp="#s2:l1">mishaecht</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Maer <rhyme label="a" type="m" corresp="#s2:l1">onuersaecht</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Alle quaet <rhyme label="a" type="m" corresp="#s2:l1">verlaecht</rhyme>.</l>
+        <l id="s2:l6" met="2" type="-+">Dies sidy <rhyme label="b" type="f">ghepresen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Eer mi God van sonden <rhyme label="a" type="m" corresp="#s2:l1">plaecht</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">So wilt mijn hulpster <rhyme label="b" type="f" corresp="#s2:l6">wesen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Beelde <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Ghi sijt <rhyme label="a" type="m" corresp="#s3:l1">certeyn</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Een edel <rhyme label="a" type="m" corresp="#s3:l1">greyn</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Gods liefste <rhyme label="a" type="m" corresp="#s3:l1">reyn</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Sijt ghi <rhyme label="a" type="m" corresp="#s3:l1">alleyn</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Alswo wij <rhyme label="b" type="f">lesen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Och troost ons in dit swar <rhyme label="a" type="m" corresp="#s3:l1">gheweyn</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Dat wij van druck <rhyme label="b" type="f" corresp="#s3:l6">ghenesen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">O <rhyme label="a" type="m">dagheraet</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Daert al aen <rhyme label="a" type="m" corresp="#s4:l1">staert</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Ons troost en <rhyme label="a" type="m" corresp="#s4:l1">raet</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Lacy al mijn <rhyme label="a" type="m" corresp="#s4:l1">daet</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Is snoode en <rhyme label="a" type="m" corresp="#s4:l1">quaet</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">O bloeme <rhyme label="b" type="f">wtghelesen</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Mer ghi sijt des sondaers <rhyme label="a" type="m" corresp="#s4:l1">toeuerlaet</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">So ghi dat wel hebt <rhyme label="b" type="f" corresp="#s4:l6">bewesen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Die dit eerst <rhyme label="a" type="m">sanck</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Seer snoode en <rhyme label="a" type="m" corresp="#s5:l1">cranck</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">In duechdenb <rhyme label="a" type="m" corresp="#s5:l1">manck</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Is sinen <rhyme label="a" type="m" corresp="#s5:l1">ganck</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Sijn leuen <rhyme label="a" type="m" corresp="#s5:l1">lanck</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Moet hi aldus hier <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">O alders schoonste aenscijn <rhyme label="a" type="m" corresp="#s5:l1">blanck</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Weest doch mijn troost in <rhyme label="b" type="f" corresp="#s5:l6">desen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

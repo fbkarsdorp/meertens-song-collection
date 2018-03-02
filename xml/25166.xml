@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25166</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wa lyep dyeplich lyep sich hayt mit umbe <rhyme label="a" type="f">vangin</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">langin nachte daz dut <rhyme label="b" type="m">wol</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">sol sprechin daz <rhyme label="c" type="m">baz</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">kan niemanne <rhyme label="d" type="f">werdin</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">da wirt dyebe lyebe unde minnin hort <rhyme label="e" type="f">erceygit</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">neygit sich ir herze <rhyme label="f" type="m">dar</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">gar uz frundis vas <rhyme label="c" type="m" corresp="#s1:l3">was</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">vreut bas up <rhyme label="d" type="f" corresp="#s1:l4">erdin</rhyme>.</l>
+        <l id="s1:l9" met="5" type="-+">ouwe suzer minnenclicher <rhyme label="g" type="m">lyp</rhyme></l>
+        <l id="s1:l10" met="1" type="+-">wyp. wen du bis <rhyme label="g" type="m" corresp="#s1:l9">bi</rhyme></l>
+        <l id="s1:l11" met="6" type="+-">vri sin herze has <rhyme label="c" type="m" corresp="#s1:l3">las</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">wirt yme und is aller sorgen <rhyme label="h" type="m">vri</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

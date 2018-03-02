@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25218</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>evening song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Te lucis ante terminum</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Eer dat het licht ten onder <rhyme label="a" type="m">gae</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">aenbidden wij v o heere <rhyme label="b" type="m">vroem</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">op dat nae v gewoente <rhyme label="a" type="m" corresp="#s1:l1">drae</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ghij ons behoede vande <rhyme label="b" type="m" corresp="#s1:l2">scroem</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ver van ons moeten droomen <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">des nachts veruaertheijt oeck sij <rhyme label="b" type="m">cleijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">bedwinck ons viand inde <rhyme label="a" type="m" corresp="#s2:l1">lijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">dat ons lichamen blijuen <rhyme label="b" type="m" corresp="#s2:l2">reijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gunt ons vader almachtich <rhyme label="a" type="m">godt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">door Jesvm Christum <rhyme label="b" type="m">ombeureest</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">die met v leeft bouen <rhyme label="a" type="m" corresp="#s3:l1">gebot</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">ewich regneert met heijlich <rhyme label="b" type="m" corresp="#s3:l2">geest</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

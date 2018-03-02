@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26789</id>
+    <date>
+      <year-start>1558</year-start>
+      <year-end>1558</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>O Gott wir danken deiner Güt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Met mijn stem tot den Heer ick roepen <rhyme label="a" type="m">wil</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">In myne <rhyme label="b" type="f">nootwendicheyde</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Met mijn stem tot den Heer ick bidde <rhyme label="a" type="m" corresp="#s1:l1">stil</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Versekert van zijn <rhyme label="b" type="f" corresp="#s1:l2">goetheyde</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Voor hem ick gantsch wtstorten <rhyme label="c" type="m">sal</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Mijn belang, noodt verdriet <rhyme label="c" type="m" corresp="#s1:l5">misual</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">In allerley <rhyme label="b" type="f" corresp="#s1:l2">teghenheyden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Als mynen gheest met angst beuanghen <rhyme label="a" type="m">is</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Kenstu alle mijn <rhyme label="b" type="f">weghen</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Dat sy my onrecht doen is my <rhyme label="a" type="m" corresp="#s2:l1">bewist</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Met stricken ben ick <rhyme label="b" type="f" corresp="#s2:l2">beleghen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Wan ick't alwijts en zijts sie <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Gheenen aenwijser ick schouwen <rhyme label="c" type="m" corresp="#s2:l5">kan</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">In't vluchten is't my al <rhyme label="b" type="f" corresp="#s2:l2">teghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Niemant heeft mijnder sielen eenich <rhyme label="a" type="m">acht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dan du O mijn God <rhyme label="b" type="f">alleyne</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Daerom roep ick tot dy seer wel <rhyme label="a" type="m" corresp="#s3:l1">bedacht</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Mijn toevlucht en leefdeel <rhyme label="b" type="f" corresp="#s3:l2">reyne</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Aenmerckt mijn klaghe want ick nu <rhyme label="c" type="m">saen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ben kleyn gheworden en kan niet <rhyme label="c" type="m" corresp="#s3:l5">staen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Teghen mijn vyanden <rhyme label="b" type="f" corresp="#s3:l2">ghemeyne</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Verlost my van alle veruolghers <rhyme label="a" type="m">fel</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die my benouwen en <rhyme label="b" type="f">roouen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Leydt mijn siel Heer wt alle <rhyme label="a" type="m" corresp="#s4:l1">ghequel</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Op dat ick v prijse en <rhyme label="b" type="f" corresp="#s4:l2">loue</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Dan sullen die gherechtighe <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">My omringhen en troosten <rhyme label="c" type="m" corresp="#s4:l5">vroet</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">End prijsen v Heer hier <rhyme label="b" type="f" corresp="#s4:l2">bouen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

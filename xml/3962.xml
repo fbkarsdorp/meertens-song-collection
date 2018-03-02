@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3962</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Graaf van Rome</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk sal mi seluen <rhyme label="a" type="f">troosten</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ende maken eenen <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ende keeren mi totten <rhyme label="a" type="f" corresp="#s1:l1">besten</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Het sal mi wesen <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Van sonden wil ick mi <rhyme label="c" type="f">keeren</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">In minen ionghen <rhyme label="d" type="m">tijt</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s1:l5">heere</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s1:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mijn siele sal sijn <rhyme label="a" type="f">bedouwet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Also ick hebbe <rhyme label="b" type="m">verdient</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">In bliscepe oft in <rhyme label="a" type="f" corresp="#s2:l1">rouwe</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dus rade ick minen <rhyme label="b" type="m" corresp="#s2:l2">vrient</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Dat hi hem van sonden <rhyme label="c" type="f">keere</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Want cort is hier den <rhyme label="d" type="m">tijt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s2:l5">heere</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s2:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hadde ic dat sware <rhyme label="a" type="f">liden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Voerdacht dat waer mi <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">So soude mi God <rhyme label="a" type="f" corresp="#s3:l1">verkiesen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ghelijc hi ander salighe <rhyme label="b" type="m" corresp="#s3:l2">doet</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Maer neen ic dat rout mi <rhyme label="c" type="f">seere</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Al minen verloren <rhyme label="d" type="m">tijt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s3:l5">heere</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s3:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Niemant en derf hem <rhyme label="a" type="f">pogen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Om te comen daer God <rhyme label="b" type="m">sy</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Hy en moet na sijn <rhyme label="a" type="f" corresp="#s4:l1">vermoghen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van sonden wesen <rhyme label="b" type="m" corresp="#s4:l2">vry</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Ende dienen altoos <rhyme label="c" type="f">gode</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Wanneer hi heeft den <rhyme label="d" type="m">tijt</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s4:l5">heere</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s4:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ouder mach ic <rhyme label="a" type="f">werden</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Maer iongher <rhyme label="b" type="m">nemmermeer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Hier namaels onder die <rhyme label="a" type="f" corresp="#s5:l1">eerde</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Ende laten goet ende <rhyme label="b" type="m" corresp="#s5:l2">eer</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Waer toe dat ick mi <rhyme label="c" type="f">keere</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Altoos ontgaet mi den <rhyme label="d" type="m">tijt</rhyme>.</l>
+        <l id="s5:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s5:l5">heere</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s5:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Nu so wil ick <rhyme label="a" type="f">hopen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Op God ende onser <rhyme label="b" type="m">vrouwen</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Die gracie Gods staet <rhyme label="a" type="f" corresp="#s6:l1">open</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Als ons die sonden <rhyme label="b" type="m" corresp="#s6:l2">rouwen</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Milde so is die <rhyme label="c" type="f">Heere</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Onseker is ons den <rhyme label="d" type="m">tijt</rhyme>.</l>
+        <l id="s6:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s6:l5">heere</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s6:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Nu so wil ick gaen <rhyme label="a" type="f">temmen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Dat ionghe leuen <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">So mach ic namaels <rhyme label="a" type="f" corresp="#s7:l1">clemmen</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Daer alle die salighe <rhyme label="b" type="m" corresp="#s7:l2">sijn</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Daer is so lanck so <rhyme label="c" type="f">meere</rhyme>.</l>
+        <l id="s7:l6" met="3" type="-+">Vruecht / bliscap / ende <rhyme label="d" type="m">iolijt</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s7:l5">heere</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s7:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">O radt van <rhyme label="a" type="f">auontueren</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">En sult ghi niet omme <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Dat mi gracie mocht <rhyme label="a" type="f" corresp="#s8:l1">gebueren</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Van al dat ic hebbe <rhyme label="b" type="m" corresp="#s8:l2">misdaen</rhyme>.</l>
+        <l id="s8:l5" met="3" type="-+">Ic en sondichde <rhyme label="c" type="f">nemmermeere</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Al had ick wel den <rhyme label="d" type="m">tijt</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s8:l5">heere</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s8:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Ghestadelic wil ick <rhyme label="a" type="f">dienen</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Ende Gode sijn <rhyme label="b" type="m">onderdaen</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Het staet mi noch te <rhyme label="a" type="f" corresp="#s9:l1">geschieden</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Dat ick sal moeten <rhyme label="b" type="m" corresp="#s9:l2">gaen</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">Ende nemmermeer weder <rhyme label="c" type="f">keeren</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">Nemmermeer in gheender <rhyme label="d" type="m">tijt</rhyme>.</l>
+        <l id="s9:l7" met="3" type="-+">Ic bidde v ghenadighe <rhyme label="c" type="f" corresp="#s9:l5">heere</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s9:l6">sijt</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Nu spreect voer mi ten <rhyme label="a" type="f">besten</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Ghi heylighen alle <rhyme label="b" type="m">ghemeen</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">Al come ick nu ten <rhyme label="a" type="f" corresp="#s10:l1">lesten</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Ic ben nochtans daer <rhyme label="b" type="m" corresp="#s10:l2">een</rhyme></l>
+        <l id="s10:l5" met="3" type="-+">Daer Christus God ons <rhyme label="c" type="f">heere</rhyme></l>
+        <l id="s10:l6" met="3" type="-+">Om sterf op eenen <rhyme label="d" type="m">tijt</rhyme>.</l>
+        <l id="s10:l7" met="3" type="-+">Ick bidde v ghenadighe <rhyme label="c" type="f" corresp="#s10:l5">heere</rhyme></l>
+        <l id="s10:l8" met="3" type="-+">Dat ghi mijns ghenadich <rhyme label="d" type="m" corresp="#s10:l6">sijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

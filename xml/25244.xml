@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25244</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>Ave maris stella</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Zee sterre weest <rhyme label="a" type="m">gegroet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">moeder goeds ons <rhyme label="a" type="m" corresp="#s1:l1">behoet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">ende maecht altijt <rhyme label="b" type="m">reijn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">hemels poort, blij, <rhyme label="b" type="m" corresp="#s1:l3">gemeijn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ontfangende <rhyme label="a" type="m">saluijt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">door gabriels <rhyme label="a" type="m" corresp="#s2:l1">geluijt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">sterct ons in vrede <rhyme label="b" type="m">vast</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">van Eua naem <rhyme label="b" type="m" corresp="#s2:l3">ontlast</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Sondaren nu <rhyme label="a" type="m">ontbint</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">geeft licht die sijn <rhyme label="a" type="m" corresp="#s3:l1">verblint</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">al ons quaden <rhyme label="b" type="m">veriaecht</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">alle goet ons toe <rhyme label="b" type="m" corresp="#s3:l3">draecht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Toont dat ghij moder <rhyme label="a" type="m">sijt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">ons gebet met der <rhyme label="a" type="m" corresp="#s4:l1">vlijt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">ontfanckt door v christus <rhyme label="b" type="m">scoen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">voor ons worden v <rhyme label="b" type="m" corresp="#s4:l3">soon</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">O maecht <rhyme label="a" type="m">vuijtvercoren</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">sachtmoedich wilt <rhyme label="a" type="m" corresp="#s5:l1">hooren</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">ons vrijt van sonden <rhyme label="b" type="m">bandt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">maeckt reijn, sacht, <rhyme label="b" type="m" corresp="#s5:l3">gooderhant</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Oeck dat wij leuen <rhyme label="a" type="m">reijn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">den wech maect effen <rhyme label="a" type="m" corresp="#s6:l1">pleijn</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">op dat wij Jesum <rhyme label="b" type="m">sien</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">ende met v <rhyme label="b" type="m" corresp="#s6:l3">verblien</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Loft godt vader <rhyme label="a" type="m">ewich</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Christo soone <rhyme label="a" type="m" corresp="#s7:l1">enich</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">heijligen geest oeck <rhyme label="b" type="m">eer</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">sij der drien, een <rhyme label="b" type="m" corresp="#s7:l3">heer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

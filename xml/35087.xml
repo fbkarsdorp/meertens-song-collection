@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35087</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <tags>
+      <tag>wedding song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Appollo met uwen gulden <rhyme label="a" type="m">lier</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">appollo met uwen gulden <rhyme label="a" type="m" corresp="#s1:l1">lier</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">brenght uw sangh Goddinnen <rhyme label="a" type="m" corresp="#s1:l1">hier</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">want hier is een jeughdigh <rhyme label="b" type="m">paer</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">dat sigh versaemt te <rhyme label="b" type="m" corresp="#s1:l4">gaer</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">en stelt hier uw <rhyme label="c" type="f">snaeren</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">en speelt hier int <rhyme label="d" type="m">ghemeen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">en speelt hier int <rhyme label="d" type="m" corresp="#s1:l7">ghemeen</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">niet anders as de <rhyme label="e" type="m">doodt</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">niet anders als de <rhyme label="e" type="m" corresp="#s1:l9">doodt</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">can hunne trouwe <rhyme label="d" type="m" corresp="#s1:l7">scheen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Comt nestor met uwen grijsen <rhyme label="a" type="m">baert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Comt nestor met uwen grijsen <rhyme label="a" type="m" corresp="#s2:l1">baert</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">tot die hier sijn <rhyme label="a" type="m" corresp="#s2:l1">ghepaert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">stort in uw <rhyme label="b" type="m">ouderdom</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">comt nestor nestor <rhyme label="b" type="m" corresp="#s2:l4">comt</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">en wilt aen hun <rhyme label="c" type="f">jonnen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">tgon aen uw is <rhyme label="d" type="m">ghejont</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">tgon aen uw is <rhyme label="d" type="m" corresp="#s2:l7">ghejont</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">ick bid uw bid uw <rhyme label="e" type="m">nestor</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">ick bid uw bid uw <rhyme label="e" type="m" corresp="#s2:l9">nestor</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">doet alles wat ghij <rhyme label="d" type="m" corresp="#s2:l7">cont</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">ceres gheeft hun uwe <rhyme label="a" type="m">vruchtbaerheijt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">ceres gheeft hun uwe <rhyme label="a" type="m" corresp="#s3:l1">vruchtbaerheijt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">job geeft hun uwe <rhyme label="a" type="m" corresp="#s3:l1">lijdsaemheijt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">godt geeft hun geen <rhyme label="b" type="m">verdriet</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">anders ontbreeckt hun <rhyme label="b" type="m" corresp="#s3:l4">niet</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">dits tgonne dat wij <rhyme label="c" type="f">wenschen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">hiernaer de <rhyme label="d" type="m">saligheijt</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">hiernaer de <rhyme label="d" type="m" corresp="#s3:l7">saligheijt</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">het welck voor hun bereijt <rhyme label="e" type="m">is</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">het welck voor hun bereijt <rhyme label="e" type="m" corresp="#s3:l9">is</rhyme>,</l>
+        <l id="s3:l11" met="3" type="+-">van inder <rhyme label="d" type="m" corresp="#s3:l7">eeuwigheijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

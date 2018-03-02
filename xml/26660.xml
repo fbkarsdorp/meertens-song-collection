@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26660</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1725</year-end>
+    </date>
+    <location>
+      <orginal-name>gelre (venlo?)</orginal-name>
+      <standard-name>Venlo, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.3702109</lon>
+        <lat>6.1688954</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Een vrolijk nieuw lied</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Eyn vrolick nu <rhyme label="a" type="m">liet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Tis beter yet dan <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Ho byn ick in dit <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Ick en derse noemen <rhyme label="a" type="m" corresp="#s1:l1">nyet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ich hebse lang <rhyme label="a" type="m" corresp="#s1:l1">gefryet</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Sall ickse moten <rhyme label="b" type="f">derven</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">So sall ick van ruwe <rhyme label="b" type="f" corresp="#s1:l6">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wartoe, wartoe, <rhyme label="a" type="m">wartoe</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van mynnen ick <rhyme label="a" type="m" corresp="#s2:l1">verwoe</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">Wat dyngen dat ick <rhyme label="a" type="m" corresp="#s2:l1">doe</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Van eten, van dryncken ic nyet <rhyme label="a" type="m" corresp="#s2:l1">engroe</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">My is, ick en weit nyet <rhyme label="a" type="m" corresp="#s2:l1">hoe</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Eya lacy! ic arme <rhyme label="b" type="f">bluts</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Soe jamerlick heb ick dye <rhyme label="b" type="f" corresp="#s2:l6">muts</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dye tyt valt my te <rhyme label="a" type="m">lange</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Myn herte is soe <rhyme label="a" type="m" corresp="#s3:l1">bevangen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Plats midden in den <rhyme label="a" type="m" corresp="#s3:l1">drangen</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Ist dat geyn troesten <rhyme label="a" type="m" corresp="#s3:l1">ontfange</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Ick sterve mitten <rhyme label="a" type="m" corresp="#s3:l1">gangen</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Ick hebbe wael dusent <rhyme label="b" type="f">wecke</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Aldus den block gaen <rhyme label="b" type="f" corresp="#s3:l6">sleypen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ho come ic in desen <rhyme label="a" type="m">moras</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">Ick byn soe quaelick te <rhyme label="a" type="m" corresp="#s4:l1">pas</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ick sitte tusschen twee stoelen in dye <rhyme label="a" type="m" corresp="#s4:l1">asse</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Nochtan soe heb ick geldeken in myn <rhyme label="a" type="m" corresp="#s4:l1">tasse</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dwilck ick verquys, <rhyme label="a" type="m" corresp="#s4:l1">verquas</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Ende all mit schonen <rhyme label="b" type="f">vrouwen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Nyet voel en sall ick <rhyme label="b" type="f" corresp="#s4:l6">behouwen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Mer wat ick hale off <rhyme label="a" type="m">janck</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Si singet all eynen <rhyme label="a" type="m" corresp="#s5:l1">sanck</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Si settet my up Hugen <rhyme label="a" type="m" corresp="#s5:l1">banck</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Mer wat si doit, ic nemt in <rhyme label="a" type="m" corresp="#s5:l1">danck</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Ick doeget all van <rhyme label="a" type="m" corresp="#s5:l1">kant</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Ick slacht den luyden van <rhyme label="b" type="f">Tuylle</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Voir tgaet gae ic <rhyme label="b" type="f" corresp="#s5:l6">huylen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ten baet geyn draven off <rhyme label="a" type="m">lopen</rhyme>.</l>
+        <l id="s6:l2" met="3" type="-+">Dye muts moet ick daer <rhyme label="a" type="m" corresp="#s6:l1">knopen</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Ick byn daer in <rhyme label="a" type="m" corresp="#s6:l1">gecropen</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Synt Jorys vissop heb ic <rhyme label="a" type="m" corresp="#s6:l1">gesopen</rhyme>.</l>
+        <l id="s6:l5" met="3" type="-+">Ic byn dar in <rhyme label="a" type="m" corresp="#s6:l1">gedocken</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Wat listen dat ick <rhyme label="b" type="f">soecken</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Ick blyve plat in den <rhyme label="b" type="f" corresp="#s6:l6">hoicken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Sy holt myn hert so <rhyme label="a" type="m">vast</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Dat is my den meisten <rhyme label="a" type="m" corresp="#s7:l1">last</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Ic byn oer eyn onwert <rhyme label="a" type="m" corresp="#s7:l1">gast</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Want sy up my nyet en <rhyme label="a" type="m" corresp="#s7:l1">past</rhyme>.</l>
+        <l id="s7:l5" met="3" type="-+">Ick slacht den erden <rhyme label="a" type="m" corresp="#s7:l1">quast</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Ich byn voel nauwer den ich <rhyme label="b" type="f">klauwen</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">Ic maech myn hoeft wael <rhyme label="b" type="f" corresp="#s7:l6">krouwen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Hoer herte is alte <rhyme label="a" type="m">maele</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Van yser ende van <rhyme label="a" type="m" corresp="#s8:l1">staele</rhyme>.</l>
+        <l id="s8:l3" met="3" type="-+">Och, sall ick noch langer <rhyme label="a" type="m" corresp="#s8:l1">dwaelen</rhyme>?</l>
+        <l id="s8:l4" met="3" type="-+">Och ley der doyt, will my doch <rhyme label="a" type="m" corresp="#s8:l1">halen</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">All sonder langen <rhyme label="a" type="m" corresp="#s8:l1">dralen</rhyme>.</l>
+        <l id="s8:l6" met="3" type="-+">Voel liever weer ick <rhyme label="b" type="f">doet</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Dan te blyven in deser <rhyme label="b" type="f" corresp="#s8:l6">noit</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Myn hert wilt my <rhyme label="a" type="m">beswycken</rhyme>,</l>
+        <l id="s9:l2" met="3" type="-+">Uutten lande will ick <rhyme label="a" type="m" corresp="#s9:l1">slycken</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Ende nummermeer omme <rhyme label="a" type="m" corresp="#s9:l1">kycken</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Al byn ic arm, ic sall noch <rhyme label="a" type="m" corresp="#s9:l1">rycken</rhyme>.</l>
+        <l id="s9:l5" met="3" type="-+">Ic will nu van oer <rhyme label="a" type="m" corresp="#s9:l1">strycken</rhyme>.</l>
+        <l id="s9:l6" met="3" type="-+">Ade, myn <rhyme label="b" type="f">uutvercoren</rhyme>,</l>
+        <l id="s9:l7" met="3" type="-+">Ic en gefs nyet all <rhyme label="b" type="f" corresp="#s9:l6">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Si heft my aen <rhyme label="a" type="m">gesien</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Dat ick oer gonste <rhyme label="a" type="m" corresp="#s10:l1">plien</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Sy en mochtet nyet <rhyme label="a" type="m" corresp="#s10:l1">gesien</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Dat ic van oer sold <rhyme label="a" type="m" corresp="#s10:l1">vlien</rhyme>.</l>
+        <l id="s10:l5" met="3" type="-+">Sy spraeck: `ten moet nyet <rhyme label="a" type="m" corresp="#s10:l1">geschien</rhyme>.</l>
+        <l id="s10:l6" met="3" type="-+">Het vint nu <rhyme label="b" type="f">alleyns</rhyme>,</l>
+        <l id="s10:l7" met="3" type="-+">Wy syns geworden <rhyme label="b" type="f" corresp="#s10:l6">eyns</rhyme>.'</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">All om dye liefste <rhyme label="a" type="m">myn</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">So willick vrolick <rhyme label="a" type="m" corresp="#s11:l1">syn</rhyme>.</l>
+        <l id="s11:l3" met="3" type="-+">Schinckt in den coelen <rhyme label="a" type="m" corresp="#s11:l1">wyn</rhyme>,</l>
+        <l id="s11:l4" met="3" type="-+">Ich byn verloest uut alre <rhyme label="a" type="m" corresp="#s11:l1">pyn</rhyme></l>
+        <l id="s11:l5" met="3" type="-+">Alsoe het wael is <rhyme label="a" type="m" corresp="#s11:l1">aenschyn</rhyme>.</l>
+        <l id="s11:l6" met="3" type="-+">Laet spoelen up dye <rhyme label="b" type="f">luyte</rhyme>,</l>
+        <l id="s11:l7" met="3" type="-+">Dye vroude moet all <rhyme label="b" type="f" corresp="#s11:l6">uutte</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

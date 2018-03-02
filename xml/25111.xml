@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25111</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>Maria song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hy es eenre fierder maget <rhyme label="a" type="m">kint</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Al wt des vaders hert <rhyme label="a" type="m" corresp="#s1:l1">gesint</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Hets wonder <rhyme label="b" type="f">groot</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat hy woude suygen als een cleyn <rhyme label="a" type="m" corresp="#s1:l1">kint</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">In uwen <rhyme label="b" type="f" corresp="#s1:l3">scoot</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy es een edel <rhyme label="a" type="m">coninginne</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Haer oetmoet ende haer groote <rhyme label="a" type="m" corresp="#s2:l1">minne</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Die heeft ons <rhyme label="b" type="f">bracht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die hemel ende eerde <rhyme label="a" type="m" corresp="#s2:l1">alleyne</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Heeft in siere <rhyme label="b" type="f" corresp="#s2:l3">macht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sy es die ouer scone <rhyme label="a" type="m">stadt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die god seere minde en oec <rhyme label="a" type="m" corresp="#s3:l1">besat</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Als sinen <rhyme label="b" type="f">troen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Hy heeft daer bouen in sijn <rhyme label="a" type="m" corresp="#s3:l1">rijc</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Den hoechsten <rhyme label="b" type="f" corresp="#s3:l3">loen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sy es die borre en die <rhyme label="a" type="m">fonteyne</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die ouer vloeyt ons allen <rhyme label="a" type="m" corresp="#s4:l1">gemeynne</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Dies es ons <rhyme label="b" type="f">noot</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Wy vinden ouervloedich <rhyme label="a" type="m" corresp="#s4:l1">goet</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">In haren <rhyme label="b" type="f" corresp="#s4:l3">scoot</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O poorte des hemels ghy sijt soe <rhyme label="a" type="m">scone</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Doer v soe comen wy inden <rhyme label="a" type="m" corresp="#s5:l1">troone</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Na deser <rhyme label="b" type="f">tijt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Nv hulpt vrouwe doer die scoen <rhyme label="a" type="m" corresp="#s5:l1">poorte</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Die ghy selue <rhyme label="b" type="f" corresp="#s5:l3">sijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

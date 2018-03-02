@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24749</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>proverb</tag>
+      <tag>narrative song</tag>
+      <tag>dance song</tag>
+    </tags>
+    <melody>Ik had een lief verkoren dies is leden lang</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ic hadde een lief <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Dies es leden <rhyme label="b" type="m">lanc</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Soe hadde een ore <rhyme label="a" type="f" corresp="#s1:l1">verloren</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Daer toe ghincso <rhyme label="b" type="m" corresp="#s1:l2">manc</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Soe diende so wel na minen <rhyme label="b" type="m" corresp="#s1:l2">danc</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Seidic neen so seide <rhyme label="c" type="m">ja</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s1:l6">na</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ic seide soete <rhyme label="a" type="f">minnekijn</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Nu gaet met <rhyme label="b" type="m">mi</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ic wille altoos u eighin <rhyme label="a" type="f" corresp="#s2:l1">zijn</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">So waer ic <rhyme label="b" type="m" corresp="#s2:l2">zi</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Mijn herte es u so vaste <rhyme label="b" type="m" corresp="#s2:l2">bi</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Mine rouc waer dat ic met u <rhyme label="c" type="m">ga</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s2:l6">na</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ic leedese in dat <rhyme label="a" type="f">groene</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Bachten <rhyme label="b" type="m">daverloo</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Haddicker yet mede te <rhyme label="a" type="f" corresp="#s3:l1">doene</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Dat laet zijn <rhyme label="b" type="m" corresp="#s3:l2">also</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Wi waren beide in vruechden <rhyme label="b" type="m" corresp="#s3:l2">vro</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Soe leerde mi scieten na de <rhyme label="c" type="m">ka</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s3:l6">na</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ic seide scone <rhyme label="a" type="f">vrouwe</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Ic bem in u <rhyme label="b" type="m">bedwanc</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Soe boot mi hare <rhyme label="a" type="f" corresp="#s4:l1">trouwe</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Doe riepic <rhyme label="b" type="m" corresp="#s4:l2">goddanc</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Van vruechden dat ic lude <rhyme label="b" type="m" corresp="#s4:l2">zanc</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Help mi here god hoe vaste ic <rhyme label="c" type="m">sta</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s4:l6">na</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Soe boot mi hare <rhyme label="a" type="f">meine</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Wit als ene <rhyme label="b" type="m">cole</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">De zuverlike <rhyme label="a" type="f" corresp="#s5:l1">reyne</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Maecte mi an <rhyme label="b" type="m" corresp="#s5:l2">dole</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Wi ghingen so ter minnen <rhyme label="b" type="m" corresp="#s5:l2">scole</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Wine consten segghen bu no <rhyme label="c" type="m">ba</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s5:l6">na</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Soe boot mi haer <rhyme label="a" type="f">anscijn</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">Ende zoe sanc in <rhyme label="b" type="m">fransois</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Recht als een ongherich <rhyme label="a" type="f" corresp="#s6:l1">zwijn</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">So ghinc haer zoete <rhyme label="b" type="m" corresp="#s6:l2">voys</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Mi dincke ic minne gheerne iet <rhyme label="b" type="m" corresp="#s6:l2">moys</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Ic halp haer zinghen re mi <rhyme label="c" type="m">fa</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s6:l6">na</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ic seide lief nu <rhyme label="a" type="f">gaeu</rhyme></l>
+        <l id="s7:l2" met="2" type="-+">Ende ghevet mi eenen <rhyme label="b" type="m">mont</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Ghelu ende <rhyme label="a" type="f" corresp="#s7:l1">blaeu</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Up hare lippen <rhyme label="b" type="m" corresp="#s7:l2">stont</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Mijn hertkin dat es al <rhyme label="b" type="m" corresp="#s7:l2">ghesont</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Als ic mi in der vruechden <rhyme label="c" type="m">dwa</rhyme></l>
+        <l id="s7:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s7:l6">na</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Soe lichtede haer <rhyme label="a" type="f">caproen</rhyme></l>
+        <l id="s8:l2" met="2" type="-+">Ende seide die tijt <rhyme label="b" type="m">gaet</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Ic seide wat gadi <rhyme label="a" type="f" corresp="#s8:l1">doen</rhyme></l>
+        <l id="s8:l4" met="2" type="-+">Ende dies es gedaen <rhyme label="b" type="m" corresp="#s8:l2">quaet</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">Ghi hebt mijn hertekin al <rhyme label="b" type="m" corresp="#s8:l2">versaet</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Als ic mijn oghen up u <rhyme label="c" type="m">sla</rhyme></l>
+        <l id="s8:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s8:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s8:l6">na</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Als ic sach haren <rhyme label="a" type="f">ganc</rhyme></l>
+        <l id="s9:l2" met="2" type="-+">Spien ic der vruechden <rhyme label="b" type="m">crans</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Soe was van houden <rhyme label="a" type="f" corresp="#s9:l1">manc</rhyme></l>
+        <l id="s9:l4" met="2" type="-+">Hoe mochte haer lusten <rhyme label="b" type="m" corresp="#s9:l2">mans</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">Wielende ghinc soe als een <rhyme label="b" type="m" corresp="#s9:l2">gans</rhyme></l>
+        <l id="s9:l6" met="4" type="-+">Hadsoe gheroupen doe ka <rhyme label="c" type="m">ga</rhyme></l>
+        <l id="s9:l7" met="4" type="-+">Nu gaet voren voren <rhyme label="d" type="f">voren</rhyme></l>
+        <l id="s9:l8" met="4" type="-+">Nu gaet voren ic volghe u <rhyme label="c" type="m" corresp="#s9:l6">na</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4051</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Met liden swaer ben ick <rhyme label="a" type="m">beuaen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Nu ende tot allen <rhyme label="b" type="f">stonden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mijn vruecht die is nu al <rhyme label="a" type="m" corresp="#s1:l1">ghedaen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met druck ben ick <rhyme label="b" type="f" corresp="#s1:l2">ghebonden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O sceyden wat hebdy mi <rhyme label="a" type="m">ghedaen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghi stoort mijn herte <rhyme label="b" type="f">binnen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">ghi cost mi menigen droeuen <rhyme label="a" type="m" corresp="#s2:l1">traen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghi quelt mijn ionge <rhyme label="b" type="f" corresp="#s2:l2">sinnen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat vruechde mach mi gheuen <rhyme label="a" type="m">moet</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Als ic ghedencke der <rhyme label="b" type="f">qualen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Maer liden maect den menigen <rhyme label="a" type="m" corresp="#s3:l1">vroet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die in ghenoechten <rhyme label="b" type="f" corresp="#s3:l2">dwalen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat liden sterct den crancken <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Het temt die wilde <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Het maect den mensche van binnen <rhyme label="a" type="m" corresp="#s4:l1">vroet</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Het leert hem Gode <rhyme label="b" type="f" corresp="#s4:l2">minnen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Och edel liden ghi sijt so <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ghi leert den traghen <rhyme label="b" type="f">striden</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ghi bedwingt den iongen <rhyme label="a" type="m" corresp="#s5:l1">moet</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die ghi bswaert met <rhyme label="b" type="f" corresp="#s5:l2">liden</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Eer ic met liden was <rhyme label="a" type="m">beuaen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">So dwaelde ick buyten <rhyme label="b" type="f">pade</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Mer liden heeft mi doen <rhyme label="a" type="m" corresp="#s6:l1">verstaen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dat ick nu leue bi <rhyme label="b" type="f" corresp="#s6:l2">rade</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Och liden ghi sijt Gode <rhyme label="a" type="m">weert</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Mer seer hert sidy den <rhyme label="b" type="f">menschen</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Mer die bekent uwen edelen <rhyme label="a" type="m" corresp="#s7:l1">aert</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Die plach om v te <rhyme label="b" type="f" corresp="#s7:l2">wenschen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Ick wel gaen keeren minen <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Ende stellen mi tot <rhyme label="b" type="f">striden</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Och waer ic come oft waer ic <rhyme label="a" type="m" corresp="#s8:l1">bin</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Altijt so vinde ick <rhyme label="b" type="f" corresp="#s8:l2">liden</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Had ick mi te deghe <rhyme label="a" type="m">bedacht</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Ende mi te deghe <rhyme label="b" type="f">versonnen</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Ic had den strijt ten eynde <rhyme label="a" type="m" corresp="#s9:l1">bracht</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Die ick nu heb <rhyme label="b" type="f" corresp="#s9:l2">begonnen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Die dit lieken heeft <rhyme label="a" type="m">ghedicht</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">God sterckse in sijnder <rhyme label="b" type="f">minnen</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">So dat haer liden werde <rhyme label="a" type="m" corresp="#s10:l1">verlicht</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Dat haer beswaert van <rhyme label="b" type="f" corresp="#s10:l2">binnen</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Want iongen die bedwongen <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Tes wonder wat si <rhyme label="b" type="f">liden</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Maer al is liden grote <rhyme label="a" type="m" corresp="#s11:l1">pijn</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Na liden coemt <rhyme label="b" type="f" corresp="#s11:l2">verbliden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

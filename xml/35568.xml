@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35568</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">O MARIA, maior omni <rhyme label="a" type="f">laude</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Cum divinâ prole tuâ <rhyme label="a" type="f" corresp="#s1:l1">gaude</rhyme>:</l>
+        <l id="s1:l3" met="5" type="+-">Gaude Virgo plena <rhyme label="b" type="f">gratiarum</rhyme>;</l>
+        <l id="s1:l4" met="5" type="+-">Mater DEI; fons <rhyme label="b" type="f" corresp="#s1:l3">deliciarum</rhyme> ;</l>
+        <l id="s1:l5" met="3" type="+-">Munda &amp; <rhyme label="c" type="f">fæcunda</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">Virginum <rhyme label="d" type="m">miraculum</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Virgo parens, labe <rhyme label="e" type="f">carens</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">DEI <rhyme label="d" type="m" corresp="#s1:l6">tabernaculum</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Ex Te carnem sumpsit, ô <rhyme label="a" type="f">Virago</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Verbum Patris, Splendor &amp; <rhyme label="a" type="f" corresp="#s2:l1">Imago</rhyme>;</l>
+        <l id="s2:l3" met="5" type="+-">Cuius morte vita <rhyme label="b" type="f">reparatur</rhyme>;</l>
+        <l id="s2:l4" met="5" type="+-">Cuius vitâ mors <rhyme label="b" type="f" corresp="#s2:l3">eliminatur</rhyme>;</l>
+        <l id="s2:l5" met="3" type="+-">Choros qui <rhyme label="c" type="f">canoros</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Coelitum <rhyme label="d" type="m">lætificat</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Et videntes sese <rhyme label="e" type="f">Mentes</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Plenè <rhyme label="d" type="m" corresp="#s2:l6">beatificat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">O Beata Mater tali <rhyme label="a" type="f">prole</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Quâ refulges, vt amicta <rhyme label="a" type="f" corresp="#s3:l1">sole</rhyme>:</l>
+        <l id="s3:l3" met="5" type="+-">Luna tuis pedibus <rhyme label="b" type="f">substrata</rhyme>;</l>
+        <l id="s3:l4" met="5" type="+-">Coma tua stellis <rhyme label="b" type="f" corresp="#s3:l3">coronata</rhyme>.</l>
+        <l id="s3:l5" met="3" type="+-">Ora, ô <rhyme label="c" type="f">decora</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Tuum dulcem <rhyme label="d" type="m">Filium</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Vt nos vitâ <rhyme label="e" type="f">infinitâ</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Donet post <rhyme label="d" type="m" corresp="#s3:l6">exilium</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

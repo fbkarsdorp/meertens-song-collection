@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4029</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>O waarde mond</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Siele <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Wilt v <rhyme label="b" type="f">verbliden</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">In Iesus <rhyme label="c" type="f">minne</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die bloeyt in alle <rhyme label="b" type="f" corresp="#s1:l2">tiden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">So wie daer in mach <rhyme label="b" type="f" corresp="#s1:l2">verbliden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Hi sal daer vruechden in <rhyme label="b" type="f" corresp="#s1:l2">vinden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">O Iesus <rhyme label="a" type="m">minne</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Is een <rhyme label="b" type="f">fonteyne</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Daer alle <rhyme label="c" type="f">sondaren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Van sonden worden <rhyme label="b" type="f" corresp="#s2:l2">reyne</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">So wie daer in can <rhyme label="b" type="f" corresp="#s2:l2">gheraken</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Si is ons allen <rhyme label="b" type="f" corresp="#s2:l2">ghemeyne</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Bedruct is dat herte <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Iesu wilt mi <rhyme label="b" type="f">ontladen</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">V wil ick <rhyme label="c" type="f">fijn</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ick roepe aen v <rhyme label="b" type="f" corresp="#s3:l2">ghenaden</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Ick ligghe gheladen met <rhyme label="b" type="f" corresp="#s3:l2">sonden</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Troost mi doer v vijf <rhyme label="b" type="f" corresp="#s3:l2">wonden</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

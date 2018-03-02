@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22488</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1510</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het gepeins ligt mij zeer vast en kwelt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">¶ Die werlt leit mi so seer en quelt van mi en canix nit <rhyme label="a" type="f">geweren</rhyme></l>
+        <l id="s1:l2" met="8" type="-+">mijn sinnen sijn mi so dic onstelt och troest van god moet ic <rhyme label="a" type="f" corresp="#s1:l1">onberen</rhyme></l>
+        <l id="s1:l3" met="8" type="-+">ten coemt nit al na mijn begheren want nit en baet dat ic veel <rhyme label="b" type="f">troere</rhyme></l>
+        <l id="s1:l4" met="8" type="-+">dus wil ic mijn hert te vreden stellen Ic bin daer inne ic moeter <rhyme label="b" type="f" corresp="#s1:l3">dore</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">al stonden dar dusent muren <rhyme label="b" type="f" corresp="#s1:l3">vore</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">¶ Mijn gonste wil ic tot hem dragen dat hi veranderen doe mijn <rhyme label="a" type="f">moet</rhyme></l>
+        <l id="s2:l2" met="8" type="-+">och mocht ic hem mijn liden clagen mijn hert onlasten dat waer mi <rhyme label="a" type="f" corresp="#s2:l1">goet</rhyme></l>
+        <l id="s2:l3" met="8" type="-+">want tis al druc ende wederspoet dat ic van deser werelt <rhyme label="b" type="f">spoere</rhyme></l>
+        <l id="s2:l4" met="8" type="-+">noch bin ic diet al liden moet Ic bin dar in ic moet daer <rhyme label="b" type="f" corresp="#s2:l3">doere</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">al stonden dar dusent muren <rhyme label="b" type="f" corresp="#s2:l3">vore</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">¶ Och lacen ic weet nit waert mi liecht dat hi mi scout die liefste <rhyme label="a" type="f">gemind</rhyme></l>
+        <l id="s3:l2" met="8" type="-+">het is die sonde die mi bedriecht dat ic gheen troest aen hem en <rhyme label="a" type="f" corresp="#s3:l1">vind</rhyme></l>
+        <l id="s3:l3" met="8" type="-+">daer om so lijd ic groot elleynd dus ist gheen wonder dat ic <rhyme label="b" type="f">troere</rhyme></l>
+        <l id="s3:l4" met="8" type="-+">ic hoeps te hebben noch eens een eynd Ic bin daer in ick moet daer <rhyme label="b" type="f" corresp="#s3:l3">doere</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">al stonden dar dusent muren <rhyme label="b" type="f" corresp="#s3:l3">vore</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">¶ Lof ende eer moet hem ghescien nv ende tot allen <rhyme label="a" type="f">tijden</rhyme></l>
+        <l id="s4:l2" met="8" type="-+">ic en cans ghemercken noch gesien dat hij mi enich sins wil <rhyme label="a" type="f" corresp="#s4:l1">verbliden</rhyme></l>
+        <l id="s4:l3" met="8" type="-+">mit sijnre minne mijn hert doersniden woud hi mi helpen wt mijn <rhyme label="b" type="f">troere</rhyme></l>
+        <l id="s4:l4" met="8" type="-+">hi laet mi so langhe in dit liden Ic bin dar in ic moet daer <rhyme label="b" type="f" corresp="#s4:l3">doere</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">al stonden dar dusent muren <rhyme label="b" type="f" corresp="#s4:l3">vore</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="8" type="-+">¶ Ter eren van allen minnende sielen die ghern in iesus armkens <rhyme label="a" type="f">slapen</rhyme></l>
+        <l id="s5:l2" met="8" type="-+">so wil ic ons dit lieken singhen men vijnter luttel die tsopken <rhyme label="a" type="f" corresp="#s5:l1">smaken</rhyme></l>
+        <l id="s5:l3" met="8" type="-+">nyemont en derfer sijn ghec mit maken dat soete coemt wel dic na <rhyme label="b" type="f">tsoere</rhyme></l>
+        <l id="s5:l4" met="8" type="-+">elc wacht hem voer des viants kaken Ic bin dar in ic moet daer <rhyme label="b" type="f" corresp="#s5:l3">doere</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">al stonden daer dusent muren <rhyme label="b" type="f" corresp="#s5:l3">voere</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

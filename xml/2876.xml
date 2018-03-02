@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2876</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Ik lijd in het hart pijn ongewoon</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Soe haest mijn oech was <rhyme label="a" type="m">gedaelt</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Op een <rhyme label="b" type="f">persoene</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">van een maecht <rhyme label="b" type="f" corresp="#s1:l2">schoene</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Soe haest werde Ick oock <rhyme label="a" type="m" corresp="#s1:l1">doorstraelt</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">uit tseemels <rhyme label="b" type="f" corresp="#s1:l2">troene</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">van veenes <rhyme label="b" type="f" corresp="#s1:l2">soene</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die mijn ter sellever <rhyme label="c" type="m">uer</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">zoe zeer <rhyme label="d" type="f">geraeckte</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Dat Ick der minnen <rhyme label="c" type="m" corresp="#s1:l7">vuer</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">gekreech tot mijn <rhyme label="c" type="m" corresp="#s1:l7">gebuer</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Die thert <rhyme label="d" type="f" corresp="#s1:l8">duerblaeckte</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dees maecht wiens slave Ick nu <rhyme label="a" type="m">sij</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">sinde <rhyme label="b" type="f">geboogen</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">In haer <rhyme label="b" type="f" corresp="#s2:l2">vermoegen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">heeft tot sieraet haer aenschins <rhyme label="a" type="m" corresp="#s2:l1">blij</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">twee klaer bruin <rhyme label="b" type="f" corresp="#s2:l2">oegen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">daer op <rhyme label="b" type="f" corresp="#s2:l2">getoogen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">twee winkhrauckens geheel <rhyme label="c" type="m">swert</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">die elck een <rhyme label="d" type="f">behaegen</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">als Ick die sie mijn <rhyme label="c" type="m" corresp="#s2:l7">hert</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">van pijn bevrijet <rhyme label="c" type="m" corresp="#s2:l7">wert</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">die zulcx moet <rhyme label="d" type="f" corresp="#s2:l8">draegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den hemel die hier alles <rhyme label="a" type="m">geeft</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Dat is <rhyme label="b" type="f">beneeden</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">verstaet mijn <rhyme label="b" type="f" corresp="#s3:l2">reeden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">ganschelick niet voergeeten <rhyme label="a" type="m" corresp="#s3:l1">heeft</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">om met schoon <rhyme label="b" type="f" corresp="#s3:l2">heeden</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">En goede <rhyme label="b" type="f" corresp="#s3:l2">seeden</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Dees maecht soe te <rhyme label="c" type="m">voorsien</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">ende <rhyme label="d" type="f">voorrijcken</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">dat men sech Ick mits <rhyme label="c" type="m" corresp="#s3:l7">dien</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">ter weerelt niet kan <rhyme label="c" type="m" corresp="#s3:l7">sien</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">haeres <rhyme label="d" type="f" corresp="#s3:l8">gelijcken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dees Ick met hert sin en <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">nu wil <rhyme label="b" type="f">beginnen</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">gans te <rhyme label="b" type="f" corresp="#s4:l2">beminnen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">op hoop dat Ick naet tzuer het <rhyme label="a" type="m" corresp="#s4:l1">zoet</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Duer rein der <rhyme label="b" type="f" corresp="#s4:l2">minnen</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Noch sal <rhyme label="b" type="f" corresp="#s4:l2">gewinnen</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">van dees prinses <rhyme label="c" type="m">eerbaer</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">versiert met <rhyme label="d" type="f">duechden</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">en dat mijn druck te <rhyme label="c" type="m" corresp="#s4:l7">gaer</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">verandert sal hier <rhyme label="c" type="m" corresp="#s4:l7">naer</rhyme></l>
+        <l id="s4:l11" met="2" type="+-">(in) duisent <rhyme label="d" type="f" corresp="#s4:l8">vruechden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

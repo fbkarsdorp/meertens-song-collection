@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25516</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Wat wyrt es <rhyme label="a" type="m">doch</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">des wonders <rhyme label="a" type="m" corresp="#s1:l1">noch</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">so gar eyn selsams <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">als etßont <rhyme label="c" type="m">yst</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">alle werlt voll <rhyme label="c" type="m" corresp="#s1:l4">bist</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">mit v[......] <rhyme label="b" type="f" corresp="#s1:l3">oeuergeuen</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">gudt wert arch <rhyme label="d" type="m">duck</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">vyll groyß bueß <rhyme label="d" type="m" corresp="#s1:l7">blyck</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">yst ytß gemeyn vff <rhyme label="e" type="f">erdenb</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">idt gundt geyner <rhyme label="f" type="m">meyr</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">dem anderen goit noch <rhyme label="f" type="m" corresp="#s1:l10">ere</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">was wyll noch dair vß werdden Ja <rhyme label="e" type="f" corresp="#s1:l9">werden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Vyll gelucks zo <rhyme label="a" type="m">eym</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">so gundt mans <rhyme label="a" type="m" corresp="#s2:l1">geym</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">men steltß im ins <rhyme label="b" type="f">verdrucken</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">der richt es <rhyme label="c" type="m">vys</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">waill nae der <rhyme label="c" type="m" corresp="#s2:l4">gunst</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">spricht im nyet goitß hymder <rhyme label="b" type="f" corresp="#s2:l3">rucken</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">[.]erleufft im die <rhyme label="d" type="m">wegh</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">all stegh vnd <rhyme label="d" type="m" corresp="#s2:l7">stegh</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">ys ytß der bruch vff <rhyme label="e" type="f">werden</rhyme></l>
+        <l id="s2:l10" met="2" type="-+">ys ytßt nyet <rhyme label="f" type="m">meer</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">dan allet <rhyme label="f" type="m" corresp="#s2:l10">hiehrer</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">was wyll noch dae vis <rhyme label="e" type="f" corresp="#s2:l9">werden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Noch werden <rhyme label="a" type="m">die</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Zu tzyden <rhyme label="a" type="m" corresp="#s3:l1">hie</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">van vnten selffs <rhyme label="b" type="f">geslagen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">wer niet <rhyme label="c" type="m">ansicht</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">was im <rhyme label="c" type="m" corresp="#s3:l4">gebricht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">vnd wyll van anderen <rhyme label="b" type="f" corresp="#s3:l3">sagen</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">van geym und <rhyme label="d" type="m">dem</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">weis neit van <rhyme label="d" type="m" corresp="#s3:l7">wem</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">ys ytz gemeyn vff <rhyme label="e" type="f">erden</rhyme></l>
+        <l id="s3:l10" met="2" type="-+">in selchem <rhyme label="f" type="m">loiff</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">so sieße men <rhyme label="f" type="m" corresp="#s3:l10">vff</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">was wyll noch dair vis <rhyme label="e" type="f" corresp="#s3:l9">werden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Wer ytzt hait <rhyme label="a" type="m">gelt</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">yn dieser <rhyme label="a" type="m" corresp="#s4:l1">werlt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">den stelt men vur an <rhyme label="b" type="f">spytzen</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">denckt neit dair <rhyme label="c" type="m">by</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">wie from hy <rhyme label="c" type="m" corresp="#s4:l4">sy</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">her vur so mois hy <rhyme label="b" type="f" corresp="#s4:l3">sytzen</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">gewalt gunst und <rhyme label="d" type="m">gelt</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">den bracht <rhyme label="d" type="m" corresp="#s4:l7">behelt</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">etønt vff dieser <rhyme label="e" type="f">erden</rhyme></l>
+        <l id="s4:l10" met="2" type="-+">aen gudt vyll <rhyme label="f" type="m">ere</rhyme></l>
+        <l id="s4:l11" met="2" type="+-">gylt ytzt niet <rhyme label="f" type="m" corresp="#s4:l10">meer</rhyme></l>
+        <l id="s4:l12" met="4" type="-+">wat wylt idt doch noch <rhyme label="e" type="f" corresp="#s4:l9">werden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">So moys der <rhyme label="a" type="m">slecht</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">der from ind <rhyme label="a" type="m" corresp="#s5:l1">recht</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">alletzyt dae hynden <rhyme label="b" type="f">blyuen</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">wer nyet hait <rhyme label="c" type="m">haue</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">ys ytzt schaff <rhyme label="c" type="m" corresp="#s5:l4">aff</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">by man und ouch by <rhyme label="b" type="f" corresp="#s5:l3">wyuen</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">vernusst kunst und <rhyme label="d" type="m">wytz</rhyme></l>
+        <l id="s5:l8" met="2" type="-+">gylt aen gudt <rhyme label="d" type="m" corresp="#s5:l7">nychtz</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">yetz hie vff dieser <rhyme label="e" type="f">erden</rhyme></l>
+        <l id="s5:l10" met="2" type="-+">wer hait gudtz <rhyme label="f" type="m">vyll</rhyme></l>
+        <l id="s5:l11" met="2" type="+-">deyt was hy <rhyme label="f" type="m" corresp="#s5:l10">wyll</rhyme></l>
+        <l id="s5:l12" met="4" type="-+">wat wyll noch dae vyß <rhyme label="e" type="f" corresp="#s5:l9">werden</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Wie waill die <rhyme label="a" type="m">zyt</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">nyet vys en <rhyme label="a" type="m" corresp="#s6:l1">blyfft</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">wylch all dynck <rhyme label="b" type="f">verkeret</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">denck nemantz <rhyme label="c" type="m">an</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">dan allet vort <rhyme label="c" type="m" corresp="#s6:l4">an</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">eyn yder syn synne <rhyme label="b" type="f" corresp="#s6:l3">vermeret</rhyme></l>
+        <l id="s6:l7" met="2" type="-+">bys dat im <rhyme label="d" type="m">geluckt</rhyme></l>
+        <l id="s6:l8" met="2" type="-+">all wyrt <rhyme label="d" type="m" corresp="#s6:l7">vertzuckt</rhyme></l>
+        <l id="s6:l9" met="3" type="-+">alhie vff dieser <rhyme label="e" type="f">erden</rhyme></l>
+        <l id="s6:l10" met="2" type="-+">dan moyß men <rhyme label="f" type="m">schamp</rhyme></l>
+        <l id="s6:l11" met="2" type="+-">zom schaden <rhyme label="f" type="m" corresp="#s6:l10">hayn</rhyme></l>
+        <l id="s6:l12" met="4" type="-+">ydt en mach nyet anders werden Ja werden,",Nederrijngebied <rhyme label="e" type="f" corresp="#s6:l9">(Jülich</rhyme>?)"</l>
+      </lg>
+    </lg>
+  </text>
+</song>

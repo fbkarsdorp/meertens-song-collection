@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25100</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>holy song</tag>
+      <tag>thanks song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Kinder al si wi in dit <rhyme label="a" type="f">sneuen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wi selen gods bruyt glorie <rhyme label="a" type="f" corresp="#s1:l1">geuen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Si es soe hoechlic <rhyme label="a" type="f" corresp="#s1:l1">verheuen</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Dats sint barbara int eewich <rhyme label="a" type="f" corresp="#s1:l1">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Alle die heilegen die sijn daer <rhyme label="a" type="f">bouen</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Die willen haer dogen eewelic <rhyme label="a" type="f" corresp="#s2:l1">louen</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Si wilt dat wi daer met haer <rhyme label="a" type="f" corresp="#s2:l1">houen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Die viant wilt ons al <rhyme label="a" type="f" corresp="#s2:l1">berouen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Van gode was si groot <rhyme label="a" type="f">geacht</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Si hadde in haer die godlike <rhyme label="a" type="f" corresp="#s3:l1">cracht</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Ons broescheit dier heeft si <rhyme label="a" type="f" corresp="#s3:l1">gedacht</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ende ons remedie daer iegen <rhyme label="a" type="f" corresp="#s3:l1">bracht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Nv laetse ons dancken want wi wel <rhyme label="a" type="f">weten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Want si ons niet en heeft <rhyme label="a" type="f" corresp="#s4:l1">vergeten</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Si es nv in die weelde <rhyme label="a" type="f" corresp="#s4:l1">geseten</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Haer giften die sijn <rhyme label="a" type="f" corresp="#s4:l1">ongemeten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Haer scoen gewaden die sijn <rhyme label="a" type="f">bereet</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Si draecht der coninginne <rhyme label="a" type="f" corresp="#s5:l1">cleet</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Tot haren hoechsten dienste si <rhyme label="a" type="f" corresp="#s5:l1">steet</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Want si altoes daer naast haer <rhyme label="a" type="f" corresp="#s5:l1">geet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Si es als een fijn gulden <rhyme label="a" type="f">crone</rhyme>.</l>
+        <l id="s6:l2" met="3" type="-+">Geset int scoenste vanden <rhyme label="a" type="f" corresp="#s6:l1">trone</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Si es daer vanden hoechsten <rhyme label="a" type="f" corresp="#s6:l1">lone</rhyme>.</l>
+        <l id="s6:l4" met="3" type="-+">Haer verdiente es soe <rhyme label="a" type="f" corresp="#s6:l1">scone</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Die godlike eere die was soe <rhyme label="a" type="f">groot</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Van harer pinen ende harer <rhyme label="a" type="f" corresp="#s7:l1">doot</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Wi bidden haer hulpe in onser <rhyme label="a" type="f" corresp="#s7:l1">noet</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Ende soeken genade in haren <rhyme label="a" type="f" corresp="#s7:l1">scoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

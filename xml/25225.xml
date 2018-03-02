@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25225</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O alder goetste schepper <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">oock ons regent aensiet toch <rhyme label="a" type="m" corresp="#s1:l1">neer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">van alle scadelijken <rhyme label="b" type="m">rust</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">deur slaep versmoert verlost den <rhyme label="b" type="m" corresp="#s1:l3">lust</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Christe heijlich wij biden <rhyme label="a" type="m">veel</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">vergeeft ons groet misdaet <rhyme label="a" type="m" corresp="#s2:l1">geheel</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">om te belijden wij op <rhyme label="b" type="m">staen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">brekende nachs slaeps leu <rhyme label="b" type="m" corresp="#s2:l3">beraen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Harten en handen tot v <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">wij heffen op, tis propheets <rhyme label="a" type="m" corresp="#s3:l1">leer</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sulcx Paulus mede heft <rhyme label="b" type="m">gedaen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">sijn veerken doens ons cloeck <rhyme label="b" type="m" corresp="#s3:l3">vermaen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ons aller quaet is v <rhyme label="a" type="m">bekent</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">oeck verburgen siet ghij <rhyme label="a" type="m" corresp="#s4:l1">present</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">wij storten ons gebet met <rhyme label="b" type="m">traen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">vergeeft dat wij hebben <rhyme label="b" type="m" corresp="#s4:l3">misdaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

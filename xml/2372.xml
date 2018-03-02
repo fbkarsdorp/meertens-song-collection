@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2372</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Peyst o mensche tot alder <rhyme label="a" type="m">tyt</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">Dat gij maer stof der aerden en <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Weest ootmoedich zonder <rhyme label="b" type="f">veysen</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">Want ghij moet uutter werelt <rhyme label="b" type="f" corresp="#s1:l3">reysen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt u doch in tyts <rhyme label="a" type="m">bekeeren</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">Ende inwendighe deuchden <rhyme label="a" type="m" corresp="#s2:l1">leeren</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Gaet u leven <rhyme label="b" type="f">ondersoeken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">In allen uwer zielen <rhyme label="b" type="f" corresp="#s2:l3">hoecken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghij moet al sterven dat weetty <rhyme label="a" type="m">wel</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Al valt u quade natuere <rhyme label="a" type="m" corresp="#s3:l1">rebel</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Wacht u van alle <rhyme label="b" type="f">quade</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Ende bidt Godt om <rhyme label="b" type="f" corresp="#s3:l3">ghenaede</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">U werken en hebben niet <rhyme label="a" type="m">ghedocht</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">Altyt hebdi wellust <rhyme label="a" type="m" corresp="#s4:l1">ghesocht</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">In zinnelycke <rhyme label="b" type="f">saeken</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Hebdi u willen <rhyme label="b" type="f" corresp="#s4:l3">vermaecken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die creaturen hebdi <rhyme label="a" type="m">bemint</rhyme> /</l>
+        <l id="s5:l2" met="4" type="-+">Tot hem was u herte <rhyme label="a" type="m" corresp="#s5:l1">ghesint</rhyme>/</l>
+        <l id="s5:l3" met="3" type="-+">Nochtans ghevoeldi van <rhyme label="b" type="f">binnen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Dat ghij Godt behoorde te <rhyme label="b" type="f" corresp="#s5:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Alsmen u van penitencie <rhyme label="a" type="m">sprack</rhyme> /</l>
+        <l id="s6:l2" met="4" type="-+">Dan socht u lichaem zyn <rhyme label="a" type="m" corresp="#s6:l1">ghemack</rhyme> /</l>
+        <l id="s6:l3" met="3" type="-+">Ten wilde hem niet <rhyme label="b" type="f">versterven</rhyme> /</l>
+        <l id="s6:l4" met="3" type="-+">Noch zynen wille <rhyme label="b" type="f" corresp="#s6:l3">derven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

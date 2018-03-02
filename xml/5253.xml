@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5253</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody>Admirant</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wie wil hooren een nieu <rhyme label="a" type="m">Liedt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Wat in Julius is <rhyme label="a" type="m" corresp="#s1:l1">gheschiet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hoe dat hy quam al int <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s1:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mauritz heeft een tocht <rhyme label="a" type="m">ghedaen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Met Ruyters knechten <rhyme label="a" type="m" corresp="#s2:l1">onbelaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">O Admirant, O <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Hy sette syn volck te Schepe <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s2:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Al meer dan met twee duysent <rhyme label="a" type="m">scheep</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Mauritz zynen aenslach <rhyme label="a" type="m" corresp="#s3:l1">begreep</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Most danssen also Mauritz <rhyme label="a" type="m" corresp="#s3:l1">peep</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s3:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Het was wel stout <rhyme label="a" type="m">gheavontuert</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Op s'vyants bodem krijch <rhyme label="a" type="m" corresp="#s4:l1">ghevuert</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die heeft het met sijn volck <rhyme label="a" type="m" corresp="#s4:l1">besuert</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s4:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Doen nu Albertus dit <rhyme label="a" type="m">vernam</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Wert hy seer toornich ende <rhyme label="a" type="m" corresp="#s5:l1">gram</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ras met sijn volck nae Nieupoort <rhyme label="a" type="m" corresp="#s5:l1">quam</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s5:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Hy kreech twee schanssen met <rhyme label="a" type="m">accoort</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Maer hebben noch al tvolck <rhyme label="a" type="m" corresp="#s6:l1">vermoort</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Boven beloften, Eedt, oft <rhyme label="a" type="m" corresp="#s6:l1">woort</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s6:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Het scheen daer wel een goet <rhyme label="a" type="m">beghin</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Doen sy hadden twee schanssen <rhyme label="a" type="m" corresp="#s7:l1">in</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Maer tGeusen volck schoot op de <rhyme label="a" type="m" corresp="#s7:l1">pin</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s7:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Sy kreghen twee stucken <rhyme label="a" type="m">gheschuts</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Maer dat en dee hen niet veel <rhyme label="a" type="m" corresp="#s8:l1">nuts</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Die kreech daer self wat op sijn <rhyme label="a" type="m" corresp="#s8:l1">Muts</rhyme>,</l>
+        <l id="s8:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s8:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">De tijding quam t'Antwerpen <rhyme label="a" type="m">haest</rhyme></l>
+        <l id="s9:l2" met="4" type="+-">De Geusen vluchten seer <rhyme label="a" type="m" corresp="#s9:l1">verbaest</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Voor d'Admirant, voor d' <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Victory heeftmen daer <rhyme label="a" type="m" corresp="#s9:l1">gheraest</rhyme>,</l>
+        <l id="s9:l5" met="2" type="-+">Al in <rhyme label="b" type="m" corresp="#s9:l3">Brabant</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Albertus doe bedroghen,, <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s10:l2" met="4" type="+-">Docht dat den Geus vertoghen,, <rhyme label="a" type="m" corresp="#s10:l1">was</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Die vont dat al gheloghen,, <rhyme label="a" type="m" corresp="#s10:l1">was</rhyme></l>
+        <l id="s10:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s10:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="+-">Sy toghen aen met een <rhyme label="a" type="m">ghedruys</rhyme></l>
+        <l id="s11:l2" met="4" type="+-">Maer sy vonden de waert daer <rhyme label="a" type="m" corresp="#s11:l1">t'huys</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Die droech het Indiaensche <rhyme label="a" type="m" corresp="#s11:l1">Cruys</rhyme>,</l>
+        <l id="s11:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s11:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="+-">Sy meynden ons te maken <rhyme label="a" type="m">ree</rhyme></l>
+        <l id="s12:l2" met="4" type="+-">Den wech om te loopen in <rhyme label="a" type="m" corresp="#s12:l1">Zee</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s12:l4" met="4" type="-+">De Geusen toghen t'sweert uyt <rhyme label="a" type="m" corresp="#s12:l1">t'schee</rhyme></l>
+        <l id="s12:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s12:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="+-">Sy vielen daer seer dapper <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s13:l2" met="4" type="+-">Met schieten houwen, steken <rhyme label="a" type="m" corresp="#s13:l1">slaen</rhyme>,</l>
+        <l id="s13:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s13:l4" met="4" type="-+">Die wert daer in dien slach <rhyme label="a" type="m" corresp="#s13:l1">ghevaen</rhyme>,</l>
+        <l id="s13:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s13:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="+-">Albertus was daer self in <rhyme label="a" type="m">noot</rhyme></l>
+        <l id="s14:l2" met="4" type="+-">Met al syn Eed'len kleyn en <rhyme label="a" type="m" corresp="#s14:l1">groot</rhyme>,</l>
+        <l id="s14:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s14:l4" met="4" type="-+">Daer bleeffer seven duysent <rhyme label="a" type="m" corresp="#s14:l1">doot</rhyme></l>
+        <l id="s14:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s14:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="+-">Veel Edeldoms wert gheslaghen <rhyme label="a" type="m">daer</rhyme></l>
+        <l id="s15:l2" met="4" type="+-">En ghevanghen int <rhyme label="a" type="m" corresp="#s15:l1">openbaer</rhyme></l>
+        <l id="s15:l3" met="4" type="-+">Oock d'Admirant, ook <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s15:l4" met="4" type="-+">Die sitten nu met droef heyt <rhyme label="a" type="m" corresp="#s15:l1">swaer</rhyme></l>
+        <l id="s15:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s15:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="+-">Eylacen twasser seer <rhyme label="a" type="m">bekayt</rhyme></l>
+        <l id="s16:l2" met="4" type="+-">De kants die liep hun veel <rhyme label="a" type="m" corresp="#s16:l1">verdraeyt</rhyme></l>
+        <l id="s16:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s16:l4" met="4" type="-+">Sijn Spaengiaerts laghen daer <rhyme label="a" type="m" corresp="#s16:l1">ghesaeyt</rhyme></l>
+        <l id="s16:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s16:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="4" type="+-">Tusschen de duynen en op <rhyme label="a" type="m">t'velt</rhyme></l>
+        <l id="s17:l2" met="4" type="+-">Laghen de dooden <rhyme label="a" type="m" corresp="#s17:l1">onghetelt</rhyme>,</l>
+        <l id="s17:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s17:l4" met="4" type="-+">Denckt hoe sijn herte was <rhyme label="a" type="m" corresp="#s17:l1">ontstelt</rhyme>,</l>
+        <l id="s17:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s17:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="4" type="+-">Wie weet waer dat Albertus <rhyme label="a" type="m">bleef</rhyme></l>
+        <l id="s18:l2" met="4" type="+-">Die men oock int dootboeck <rhyme label="a" type="m" corresp="#s18:l1">schreef</rhyme></l>
+        <l id="s18:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s18:l4" met="4" type="-+">Sijn volck doen kleyne vreucht <rhyme label="a" type="m" corresp="#s18:l1">bedreef</rhyme></l>
+        <l id="s18:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s18:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="4" type="+-">Hun voornemen dat is <rhyme label="a" type="m">ghefaelt</rhyme>,</l>
+        <l id="s19:l2" met="4" type="+-">Sy hebben daer gheen prijs <rhyme label="a" type="m" corresp="#s19:l1">behaelt</rhyme>,</l>
+        <l id="s19:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s19:l4" met="4" type="-+">Rechtveerdich heeftse God <rhyme label="a" type="m" corresp="#s19:l1">betaelt</rhyme>,</l>
+        <l id="s19:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s19:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="4" type="+-">Hij sidt te Woerden op het <rhyme label="a" type="m">slot</rhyme></l>
+        <l id="s20:l2" met="4" type="+-">En treurt om synen <rhyme label="a" type="m" corresp="#s20:l1">Laberlot</rhyme>,</l>
+        <l id="s20:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s20:l4" met="4" type="-+">Want hy is doot en half <rhyme label="a" type="m" corresp="#s20:l1">verrot</rhyme></l>
+        <l id="s20:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s20:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s21" type="stanza">
+        <l id="s21:l1" met="4" type="+-">Wy kreghen daer in dat <rhyme label="a" type="m">exploot</rhyme></l>
+        <l id="s21:l2" met="4" type="+-">Oock thien Metalen stucken <rhyme label="a" type="m" corresp="#s21:l1">groot</rhyme></l>
+        <l id="s21:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s21:l4" met="4" type="-+">Die staen te Dordrecht voor den <rhyme label="a" type="m" corresp="#s21:l1">noot</rhyme></l>
+        <l id="s21:l5" met="2" type="-+">Uut <rhyme label="b" type="m" corresp="#s21:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s22" type="stanza">
+        <l id="s22:l1" met="4" type="+-">Wy kreghen noch hoort mijn <rhyme label="a" type="m">ghewaech</rhyme></l>
+        <l id="s22:l2" met="4" type="+-">Hondert acht vendelen twas een <rhyme label="a" type="m" corresp="#s22:l1">plaech</rhyme></l>
+        <l id="s22:l3" met="4" type="-+">Voor d'Admirant, voor <rhyme label="b" type="m">d'Admirant</rhyme>,</l>
+        <l id="s22:l4" met="4" type="-+">Die sietmen oock in s'Graven <rhyme label="a" type="m" corresp="#s22:l1">haech</rhyme>,</l>
+        <l id="s22:l5" met="2" type="-+">Uut <rhyme label="b" type="m" corresp="#s22:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s23" type="stanza">
+        <l id="s23:l1" met="4" type="+-">Ons Princen van Orangien <rhyme label="a" type="m">soon</rhyme></l>
+        <l id="s23:l2" met="4" type="+-">Die won daer in de slach de <rhyme label="a" type="m" corresp="#s23:l1">Croon</rhyme></l>
+        <l id="s23:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s23:l4" met="4" type="-+">Hy is gheen Tyranny <rhyme label="a" type="m" corresp="#s23:l1">ghewoon</rhyme>:</l>
+        <l id="s23:l5" met="2" type="-+">Maer vreest Gods <rhyme label="b" type="m" corresp="#s23:l3">hant</rhyme>.</l>
+      </lg>
+      <lg id="s24" type="stanza">
+        <l id="s24:l1" met="4" type="+-">Want doen hy sijn Victory,, <rhyme label="a" type="m">sach</rhyme>,</l>
+        <l id="s24:l2" met="4" type="+-">Prees God, so zijn memory,, <rhyme label="a" type="m" corresp="#s24:l1">plach</rhyme></l>
+        <l id="s24:l3" met="4" type="-+">O Admirant, O <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s24:l4" met="4" type="-+">Sijn hert vol van glory,, <rhyme label="a" type="m" corresp="#s24:l1">lach</rhyme></l>
+        <l id="s24:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s24:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s25" type="stanza">
+        <l id="s25:l1" met="4" type="+-">Buyten Oostende voor de <rhyme label="a" type="m">poort</rhyme></l>
+        <l id="s25:l2" met="4" type="+-">Moesten oock al de Spaengiaerts <rhyme label="a" type="m" corresp="#s25:l1">voort</rhyme></l>
+        <l id="s25:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s25:l4" met="4" type="-+">Die de Schotten hadden <rhyme label="a" type="m" corresp="#s25:l1">vermoort</rhyme></l>
+        <l id="s25:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s25:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s26" type="stanza">
+        <l id="s26:l1" met="4" type="+-">Dees waren ghevanghen inden <rhyme label="a" type="m">strijt</rhyme></l>
+        <l id="s26:l2" met="4" type="+-">Sy dachten doen te zijn <rhyme label="a" type="m" corresp="#s26:l1">bevryt</rhyme></l>
+        <l id="s26:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s26:l4" met="4" type="-+">Haer moorden wracht een grooten <rhyme label="a" type="m" corresp="#s26:l1">nijt</rhyme></l>
+        <l id="s26:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s26:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s27" type="stanza">
+        <l id="s27:l1" met="4" type="+-">Wy sloeghen daerna een <rhyme label="a" type="m">Convoy</rhyme></l>
+        <l id="s27:l2" met="4" type="+-">Maer die van Nieupoort haddent <rhyme label="a" type="m" corresp="#s27:l1">moy</rhyme></l>
+        <l id="s27:l3" met="4" type="-+">Oock d'Admirant, oock <rhyme label="b" type="m">d'Admirant</rhyme></l>
+        <l id="s27:l4" met="4" type="-+">Papou werp deux, den Geus werp <rhyme label="a" type="m" corresp="#s27:l1">Troy</rhyme>:,</l>
+        <l id="s27:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s27:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s28" type="stanza">
+        <l id="s28:l1" met="4" type="+-">Doen ghy laecht in d'lant van <rhyme label="a" type="m">Kleef</rhyme></l>
+        <l id="s28:l2" met="4" type="+-">De wreetheyt die u volck <rhyme label="a" type="m" corresp="#s28:l1">bedreef</rhyme>,</l>
+        <l id="s28:l3" met="4" type="-+">O Admirant, O <rhyme label="b" type="m">Admirant</rhyme>,</l>
+        <l id="s28:l4" met="4" type="-+">Hollant dit al int herte <rhyme label="a" type="m" corresp="#s28:l1">schreef</rhyme>,</l>
+        <l id="s28:l5" met="2" type="-+">Tot uwer <rhyme label="b" type="m" corresp="#s28:l3">schant</rhyme>.</l>
+      </lg>
+      <lg id="s29" type="stanza">
+        <l id="s29:l1" met="4" type="+-">Papouwen kreghen neusen,, <rhyme label="a" type="m">langh</rhyme></l>
+        <l id="s29:l2" met="4" type="+-">Sy dachten t'was der Geusen,, <rhyme label="a" type="m" corresp="#s29:l1">dwangh</rhyme></l>
+        <l id="s29:l3" met="4" type="-+">Den Admirant, den <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s29:l4" met="4" type="-+">Maer Maurits gingh der Reusen,, <rhyme label="a" type="m" corresp="#s29:l1">gang</rhyme></l>
+        <l id="s29:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s29:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s30" type="stanza">
+        <l id="s30:l1" met="4" type="+-">So deed hy oock in <rhyme label="a" type="m">Bomlerweert</rhyme></l>
+        <l id="s30:l2" met="4" type="+-">Te Turnhout oock te voet te <rhyme label="a" type="m" corresp="#s30:l1">peert</rhyme></l>
+        <l id="s30:l3" met="4" type="-+">O Admirant, O <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s30:l4" met="4" type="-+">Hy kort des Spaens ghesindes <rhyme label="a" type="m" corresp="#s30:l1">steert</rhyme>:</l>
+        <l id="s30:l5" met="2" type="-+">Aen elcken <rhyme label="b" type="m" corresp="#s30:l3">kant</rhyme>.</l>
+      </lg>
+      <lg id="s31" type="stanza">
+        <l id="s31:l1" met="4" type="+-">Ghy hebt langh Mauritz doot <rhyme label="a" type="m">ghesocht</rhyme>,</l>
+        <l id="s31:l2" met="4" type="+-">En Moordenaers daer toe <rhyme label="a" type="m" corresp="#s31:l1">ghekocht</rhyme>,</l>
+        <l id="s31:l3" met="4" type="-+">t'Fy Admirant, t'fy <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s31:l4" met="4" type="-+">(God lof) ten is niet <rhyme label="a" type="m" corresp="#s31:l1">volbrocht</rhyme>,</l>
+        <l id="s31:l5" met="2" type="-+">Dat feyt <rhyme label="b" type="m" corresp="#s31:l3">mechant</rhyme>.</l>
+      </lg>
+      <lg id="s32" type="stanza">
+        <l id="s32:l1" met="4" type="+-">Al wat ghy doet ten is maer <rhyme label="a" type="m">wint</rhyme>,</l>
+        <l id="s32:l2" met="4" type="+-">Ghelijck ghy selver dat <rhyme label="a" type="m" corresp="#s32:l1">bevint</rhyme></l>
+        <l id="s32:l3" met="4" type="-+">O Admirant, O <rhyme label="b" type="m">Admirant</rhyme></l>
+        <l id="s32:l4" met="4" type="-+">U saecken bet met God <rhyme label="a" type="m" corresp="#s32:l1">beghint</rhyme>,</l>
+        <l id="s32:l5" met="2" type="-+">Ghebruyckt <rhyme label="b" type="m" corresp="#s32:l3">verstant</rhyme>.</l>
+      </lg>
+      <lg id="s33" type="stanza">
+        <l id="s33:l1" met="4" type="+-">Waer bleef doe den grooten <rhyme label="a" type="m">standaert</rhyme></l>
+        <l id="s33:l2" met="4" type="+-">Ick denck dat Lieven was <rhyme label="a" type="m" corresp="#s33:l1">vervaert</rhyme></l>
+        <l id="s33:l3" met="4" type="-+">Hoort Admirant, hoort <rhyme label="b" type="m">Admirant</rhyme>,</l>
+        <l id="s33:l4" met="4" type="-+">Mauritz had te veel volcks <rhyme label="a" type="m" corresp="#s33:l1">vergaert</rhyme></l>
+        <l id="s33:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s33:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s34" type="stanza">
+        <l id="s34:l1" met="4" type="+-">En Lievens Broeck die stont heel <rhyme label="a" type="m">ront</rhyme>,</l>
+        <l id="s34:l2" met="4" type="+-">Nu raet wat hij daer inne <rhyme label="a" type="m" corresp="#s34:l1">vont</rhyme>,</l>
+        <l id="s34:l3" met="4" type="-+">Gheen Admirant, gheen <rhyme label="b" type="m">Admirant</rhyme>,</l>
+        <l id="s34:l4" met="4" type="-+">Ghegheten Broot meer dan een <rhyme label="a" type="m" corresp="#s34:l1">pont</rhyme></l>
+        <l id="s34:l5" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s34:l3">Vlaenderlant</rhyme>.</l>
+      </lg>
+      <lg id="s35" type="stanza">
+        <l id="s35:l1" met="4" type="+-">Rijck oft arme hoort na <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s35:l2" met="4" type="+-">Wilt toch vreesen het groot <rhyme label="a" type="m" corresp="#s35:l1">ghepijn</rhyme></l>
+        <l id="s35:l3" met="4" type="-+">Van d'Admirant, van <rhyme label="b" type="m">d'Admirant</rhyme>,</l>
+        <l id="s35:l4" met="4" type="-+">Bisdom wenscht elck ghetrou te <rhyme label="a" type="m" corresp="#s35:l1">zijn</rhyme>,</l>
+        <l id="s35:l5" met="2" type="-+">Voor <rhyme label="b" type="m" corresp="#s35:l3">t'Vaderlant</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

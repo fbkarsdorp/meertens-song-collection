@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25239</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Scepper van alle <rhyme label="a" type="m">hemelen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">ewich licht der <rhyme label="a" type="m" corresp="#s1:l1">gelouigen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Christe verlosser van ons <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">verhoort die roepen vuijt den <rhyme label="b" type="m" corresp="#s1:l3">dal</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zijnde bedroeft met ons <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">dat die doet sou brengen tot <rhyme label="a" type="m" corresp="#s2:l1">niet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">de werelt kranck, ghij hebt <rhyme label="b" type="m">verlost</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">oock den sondaren hulp <rhyme label="b" type="m" corresp="#s2:l3">becost</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Want soo de werrelt ginck ten <rhyme label="a" type="m">endt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">sijt ghij als buijgom <rhyme label="a" type="m" corresp="#s3:l1">excellent</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">die coempt vuijt sijn slaepcamer <rhyme label="b" type="m">pleijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">geboren van een maechde <rhyme label="b" type="m" corresp="#s3:l3">reijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Voor v macht starck, buijcht alle <rhyme label="a" type="m">knie</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">themels, en aerts, al wat men <rhyme label="a" type="m" corresp="#s4:l1">sie</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">met al wat is gescapen <rhyme label="b" type="m">wis</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Tuijcht dat v onderworpen <rhyme label="b" type="m" corresp="#s4:l3">is</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">V wij aenbidden heere <rhyme label="a" type="m">groet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Toecomend rechter nae die <rhyme label="a" type="m" corresp="#s5:l1">doot</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">wilt ons bewaren in dit <rhyme label="b" type="m">wijl</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">vanden menedich viandts <rhyme label="b" type="m" corresp="#s5:l3">pijl</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Loff, eer, cracht, en glorij, <rhyme label="a" type="m">gelijck</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">sij godt den vader <rhyme label="a" type="m" corresp="#s6:l1">ewelijck</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">met den soen ende heijlich <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">t'allen tijt sonder endt <rhyme label="b" type="m" corresp="#s6:l3">geweest</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

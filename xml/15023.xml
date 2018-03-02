@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15023</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+    </tags>
+    <melody>Malle Sijmen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ay hoor eens buerman lieve <rhyme label="a" type="m">kaer</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Wat brengt g'ons voor een nieuwe <rhyme label="a" type="m" corresp="#s1:l1">maer</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Vry wat wonders, End' <rhyme label="b" type="f">besonders</rhyme>.</l>
+        <l id="s1:l4" met="3" type="+-">Wat'ser voor de <rhyme label="c" type="m">hand</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Ick hoor de Wolf is by het <rhyme label="d" type="m">Schaep</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Daer is gekomen eenen <rhyme label="d" type="m" corresp="#s1:l5">Paep</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Met toelaten,, Vande <rhyme label="e" type="f">Staten</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">In ons vrye <rhyme label="c" type="m" corresp="#s1:l4">Land</rhyme>.</l>
+        <l id="s1:l9" met="7" type="+-">Isset waer? Ja myn vaer, 'tIs maer al te <rhyme label="f" type="f">seker</rhyme>.</l>
+        <l id="s1:l10" met="7" type="+-">Wat sermoen, Sal toch doen Hier de Paepsche <rhyme label="f" type="f" corresp="#s1:l9">Preker</rhyme>?</l>
+        <l id="s1:l11" met="4" type="+-">Met syn heylig schynsche <rhyme label="g" type="m">Cap</rhyme>?</l>
+        <l id="s1:l12" met="4" type="+-">Ay toch wat een malle <rhyme label="g" type="m" corresp="#s1:l11">klap</rhyme>;</l>
+        <l id="s1:l13" met="4" type="+-">Hy gaet hier gelyck een <rhyme label="h" type="m">Heer</rhyme>.</l>
+        <l id="s1:l14" met="4" type="+-">Wat sal hier uyt broeden <rhyme label="h" type="m" corresp="#s1:l13">weer</rhyme>?</l>
+        <l id="s1:l15" met="3" type="-+">Ick vrees het leyd (o <rhyme label="i" type="m">broer</rhyme>!)</l>
+        <l id="s1:l16" met="3" type="-+">Op eene vreemde <rhyme label="i" type="m" corresp="#s1:l15">moer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe noemt men desen Priester <rhyme label="a" type="m">toch</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">Ian Nai, die't garen van <rhyme label="a" type="m" corresp="#s2:l1">bedrog</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Wel kan Naien,, En <rhyme label="b" type="f">verdraeyen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">'tAl na zynen <rhyme label="c" type="m">sin</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Maer wat toch heeft de Paep voor <rhyme label="d" type="m">last</rhyme>?</l>
+        <l id="s2:l6" met="4" type="-+">Hy is een seer doorslepen <rhyme label="d" type="m" corresp="#s2:l5">gast</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En met smeken,, Hoofsche <rhyme label="e" type="f">streken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Neemt hy d'herten <rhyme label="c" type="m" corresp="#s2:l4">in</rhyme>.</l>
+        <l id="s2:l9" met="7" type="+-">Het begeer,, Van myn Heer,, Is te maken <rhyme label="f" type="f">Treves</rhyme>.</l>
+        <l id="s2:l10" met="7" type="+-">Treves! Wat? Sal ons dat,, Al syn goet? A. God <rhyme label="f" type="f" corresp="#s2:l9">geves</rhyme>.</l>
+        <l id="s2:l11" met="4" type="+-">Maer op syn bedryven <rhyme label="g" type="m">al</rhyme>,</l>
+        <l id="s2:l12" met="4" type="+-">Hoop ick datmen passen <rhyme label="g" type="m" corresp="#s2:l11">sal</rhyme>.</l>
+        <l id="s2:l13" met="4" type="+-">Och daer moet geluck toe <rhyme label="h" type="m">slaen</rhyme>.</l>
+        <l id="s2:l14" met="4" type="+-">Laet het Land daer met <rhyme label="h" type="m" corresp="#s2:l13">begaen</rhyme>,</l>
+        <l id="s2:l15" met="3" type="-+">En voort in allen <rhyme label="i" type="m">schyn</rhyme>,</l>
+        <l id="s2:l16" met="3" type="-+">Dat God bevolen <rhyme label="i" type="m" corresp="#s2:l15">syn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

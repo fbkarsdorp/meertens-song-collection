@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26788</id>
+    <date>
+      <year-start>1558</year-start>
+      <year-end>1558</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>Allein Gott in der Höhe sei Ehre</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn ooghen hef ick tot dy God <rhyme label="a" type="m">alleyn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">bewooner der hemelen <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Recht als der knechten ooghen <rhyme label="a" type="m" corresp="#s1:l1">ghemeyn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Sien op de milde hant haerer <rhyme label="b" type="f" corresp="#s1:l2">Heeren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">End als der maeghden ooghen sien <rhyme label="c" type="m">vrij</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">op haer vrouwen hant, So sien <rhyme label="c" type="m" corresp="#s1:l5">wy</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Op God en onsen <rhyme label="b" type="f" corresp="#s1:l2">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So staen wy op onsen God en <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Tot hy sick onser <rhyme label="b" type="f">erbarme</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Goedertierenlick doet met ons <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghenadelick hoort ons <rhyme label="b" type="f" corresp="#s2:l2">karmen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Want wy van smaedtheyt zijn <rhyme label="c" type="m">versaedt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ons siel is sadt van der rijcken <rhyme label="c" type="m" corresp="#s2:l5">smaedt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">End der grootscher, O Heer <rhyme label="b" type="f" corresp="#s2:l2">erbarmet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

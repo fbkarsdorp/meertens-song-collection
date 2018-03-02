@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38645</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Adieu <rhyme label="a" type="f">beminde</rhyme>?</l>
+        <l id="s1:l2" met="2" type="-+">Wie u <rhyme label="a" type="f" corresp="#s1:l1">aensiende</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Was strackx <rhyme label="b" type="m">ghewondt</rhyme>:</l>
+        <l id="s1:l4" met="2" type="-+">V soete <rhyme label="c" type="f">wanghen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Deen my <rhyme label="c" type="f" corresp="#s1:l4">verlanghen</rhyme>:</l>
+        <l id="s1:l6" met="2" type="-+">En uwen <rhyme label="b" type="m" corresp="#s1:l3">mondt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Uw poesel <rhyme label="a" type="f">borsten</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Waer naer ick <rhyme label="a" type="f" corresp="#s2:l1">dorsten</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Schier dach en <rhyme label="b" type="m">nacht</rhyme>:</l>
+        <l id="s2:l4" met="2" type="-+">V witte <rhyme label="c" type="f">handen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Dat waren <rhyme label="c" type="f" corresp="#s2:l4">banden</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Van mijn <rhyme label="b" type="m" corresp="#s2:l3">vejacht</rhyme> .</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Vw rechte <rhyme label="a" type="f">leden</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Seer wel <rhyme label="a" type="f" corresp="#s3:l1">besneden</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Maer u <rhyme label="b" type="m">ghelonck</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">(Dat als de <rhyme label="c" type="f">sterren</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Hier boven <rhyme label="c" type="f" corresp="#s3:l4">werren</rhyme>)</l>
+        <l id="s3:l6" met="2" type="-+">Veel schoonder <rhyme label="b" type="m" corresp="#s3:l3">blonck</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">O losse <rhyme label="a" type="f">vrouwe</rhyme>!</l>
+        <l id="s4:l2" met="2" type="-+">Wie kan <rhyme label="a" type="f" corresp="#s4:l1">betrouwe</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Op u <rhyme label="b" type="m">ghena</rhyme>?</l>
+        <l id="s4:l4" met="2" type="-+">Ick placht voor <rhyme label="c" type="f">desen</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">By u te <rhyme label="c" type="f" corresp="#s4:l4">wesen</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Vroegh ende <rhyme label="b" type="m" corresp="#s4:l3">spa</rhyme>:</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Wat sijnt voor <rhyme label="a" type="f">plaghen</rhyme>?</l>
+        <l id="s5:l2" met="2" type="-+">En Noordtsche <rhyme label="a" type="f" corresp="#s5:l1">vlaghen</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Dat ghy my <rhyme label="b" type="m">vlucht</rhyme>?</l>
+        <l id="s5:l4" met="2" type="-+">Ick die u <rhyme label="c" type="f">sinnen</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Placht te <rhyme label="c" type="f" corresp="#s5:l4">verwinnen</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">Met groot <rhyme label="b" type="m" corresp="#s5:l3">ghenucht</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">'Kheb s'nachts het <rhyme label="a" type="f">laken</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">Wel nat gaen <rhyme label="a" type="f" corresp="#s6:l1">maken</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">Met mijn <rhyme label="b" type="m">ghetraen</rhyme>:</l>
+        <l id="s6:l4" met="2" type="-+">Door mijn <rhyme label="c" type="f">ghepeysen</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">Wel duysent <rhyme label="c" type="f" corresp="#s6:l4">reysen</rhyme></l>
+        <l id="s6:l6" met="2" type="-+">Tot u <rhyme label="b" type="m" corresp="#s6:l3">ghegaen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="2" type="-+">Mjn jonghe <rhyme label="a" type="f">daghen</rhyme></l>
+        <l id="s7:l2" met="2" type="-+">Moet ick <rhyme label="a" type="f" corresp="#s7:l1">beclaghen</rhyme>,</l>
+        <l id="s7:l3" met="2" type="-+">Dat ick mijn <rhyme label="b" type="m">jeught</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Soo heb <rhyme label="c" type="f">verslonden</rhyme>,</l>
+        <l id="s7:l5" met="2" type="-+">En lief <rhyme label="c" type="f" corresp="#s7:l4">ghevonden</rhyme></l>
+        <l id="s7:l6" met="2" type="-+">Die niet en <rhyme label="b" type="m" corresp="#s7:l3">deught</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="2" type="-+">Cupidos <rhyme label="a" type="f">schichten</rhyme></l>
+        <l id="s8:l2" met="2" type="-+">Die moeten <rhyme label="a" type="f" corresp="#s8:l1">swichten</rhyme>,</l>
+        <l id="s8:l3" met="2" type="-+">Ick scheyer <rhyme label="b" type="m">uyt</rhyme>:</l>
+        <l id="s8:l4" met="2" type="-+">'Tsijn <rhyme label="c" type="f">sotternyen</rhyme></l>
+        <l id="s8:l5" met="2" type="-+">Te gaen uyt <rhyme label="c" type="f" corresp="#s8:l4">vryen</rhyme></l>
+        <l id="s8:l6" met="2" type="-+">Wort vry de <rhyme label="b" type="m" corresp="#s8:l3">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

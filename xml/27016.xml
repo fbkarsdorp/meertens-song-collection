@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27016</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>guard song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Het daagt in de oosten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Eß tagett vor dem <rhyme label="a" type="f">osten</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">der tag schein vber <rhyme label="b" type="m">all</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">vnnd der sich will verborgenn freien <rhyme label="c" type="f">gahnn</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">der schlaff sich nitt <rhyme label="b" type="m" corresp="#s1:l2">langh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vnnd der sich verborgenn freien will <rhyme label="a" type="f">gahenn</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">Jn rechter <rhyme label="b" type="m">stattigkeitt</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Der sall den wechter <rhyme label="c" type="f">lieben</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">so meltt ehr seiner <rhyme label="b" type="m" corresp="#s2:l2">nitt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Es lag ein J nckfraw <rhyme label="a" type="f">schone</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">bei jrem bolenn vnd <rhyme label="b" type="m">schleiff</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">ein klein kurtzweill ohn <rhyme label="c" type="f">sorgenn</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">sei wardtt so sehr <rhyme label="b" type="m" corresp="#s3:l2">erschreckt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">N  laß dich nitt <rhyme label="a" type="f">erschreckenn</rhyme> /</l>
+        <l id="s4:l2" met="3" type="-+">mein w nderschones <rhyme label="b" type="m">lieb</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">ich bin ich J ngelinck <rhyme label="c" type="f">frome</rhyme> /</l>
+        <l id="s4:l4" met="3" type="-+">ich nem dich zu der <rhyme label="b" type="m" corresp="#s4:l2">Ehe</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Vnnd wist ich das f <rhyme label="a" type="f">rware</rhyme> /</l>
+        <l id="s5:l2" met="3" type="-+">das d  ein J nglinck <rhyme label="b" type="m">werest</rhyme> /</l>
+        <l id="s5:l3" met="3" type="-+">mein hertzlein woltt ich <rhyme label="c" type="f">bezwingen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">sein tra renn soltt es <rhyme label="b" type="m" corresp="#s5:l2">lahn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Die J nffraw thett ir <rhyme label="a" type="f">magett</rhyme> /</l>
+        <l id="s6:l2" met="3" type="-+">fast an das finsterlein <rhyme label="b" type="m">stahenn</rhyme> /</l>
+        <l id="s6:l3" met="3" type="-+">Vnnd ob sei nitt en <rhyme label="c" type="f">sehe</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Den lichtenn Osten a <rhyme label="b" type="m" corresp="#s6:l2">ffgehn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Denn lichtenn Ost en sehe ich <rhyme label="a" type="f">nitt</rhyme> /</l>
+        <l id="s7:l2" met="3" type="-+">es ist der morgenn <rhyme label="b" type="m">stern</rhyme> /</l>
+        <l id="s7:l3" met="3" type="-+">ehr k mpt daher gedr <rhyme label="c" type="f">ngenn</rhyme> /</l>
+        <l id="s7:l4" met="3" type="-+">Der manchenn tra ren th <rhyme label="b" type="m" corresp="#s7:l2">itt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Er gab ir die <rhyme label="a" type="f">trawe</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Jn ir schnehe weisse <rhyme label="b" type="m">handt</rhyme> /</l>
+        <l id="s8:l3" met="3" type="-+">Die liebt treckt z  dem <rhyme label="c" type="f">hertzenn</rhyme> /</l>
+        <l id="s8:l4" met="3" type="-+">Die fr ndt whar Gott <rhyme label="b" type="m" corresp="#s8:l2">bekhandtt</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Der vnns das liedlein vonn irst <rhyme label="a" type="f">gesanck</rhyme> /</l>
+        <l id="s9:l2" met="3" type="-+">von newes ges ngenn <rhyme label="b" type="m">hatt</rhyme> /</l>
+        <l id="s9:l3" met="3" type="-+">Das haben gethan drei frewlein <rhyme label="c" type="f">fein</rhyme> /</l>
+        <l id="s9:l4" met="3" type="-+">Gott geb Jn ein fein g itt <rhyme label="b" type="m" corresp="#s9:l2">Jair</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Daß ein das heischtt <rhyme label="a" type="f">Margretelein</rhyme> /</l>
+        <l id="s10:l2" met="3" type="-+">Das ander <rhyme label="b" type="m">Urselin</rhyme> /</l>
+        <l id="s10:l3" met="3" type="-+">Das dritt hatt keinenn <rhyme label="c" type="f">nhamen</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Daß soll die liebste <rhyme label="b" type="m" corresp="#s10:l2">sein</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

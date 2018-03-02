@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2810</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Schoon jonkheertje heus en trouw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vrou veenes Ient, lustich <rhyme label="a" type="f">goddinne</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">seer sweer gy doet brandent <rhyme label="b" type="m">tvuer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">en kuibydoe een goedt der <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">u kint wys van voerstande <rhyme label="b" type="m" corresp="#s1:l2">fier</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">en metter straele hy snel <rhyme label="c" type="m">schiet</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">sonder faelen doet <rhyme label="c" type="m" corresp="#s1:l5">voerdriet</rhyme></l>
+        <l id="s1:l7" met="6" type="+-">Doet beuaen met lief plaen veel <rhyme label="d" type="f">minnaeren</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">als sy koemen by maechden <rhyme label="e" type="m">ient</rhyme></l>
+        <l id="s1:l9" met="6" type="+-">niet belaen onuersmaen sin sy <rhyme label="d" type="f" corresp="#s1:l7">kaeren</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Elck daer een behaegen <rhyme label="e" type="m" corresp="#s1:l8">sent</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vrienschap dat sy malkander <rhyme label="a" type="f">toene</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">met lieffelycke praeten <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">van scheide en weete niet dees <rhyme label="a" type="f" corresp="#s2:l1">persoene</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">genuecht dat sy dan raepen <rhyme label="b" type="m" corresp="#s2:l2">vroet</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">maer als men scheide dan <rhyme label="c" type="m">aldaer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">soe comt schreyde al wat <rhyme label="c" type="m" corresp="#s2:l5">naer</rhyme></l>
+        <l id="s2:l7" met="6" type="+-">men dan kust met een <rhyme label="d" type="f">lust</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">uiter liefde en stelle malkander uer en <rhyme label="e" type="m">tyt</rhyme></l>
+        <l id="s2:l9" met="6" type="+-">t hart dan rust dat hy <rhyme label="d" type="f" corresp="#s2:l7">blust</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">met geriefde doer hoep dat het mach dueren <rhyme label="e" type="m" corresp="#s2:l8">blyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Noch toent gy veenes u <rhyme label="a" type="f">pracktycke</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">en schieten op meenich gehouden <rhyme label="b" type="m">toch</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">op mans en vrouwen <rhyme label="a" type="f" corresp="#s3:l1">Iselycke</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">veel bedroch men aenschouwen <rhyme label="b" type="m" corresp="#s3:l2">och</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">samson ster verloer <rhyme label="c" type="m">krach</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">door list werken hier op <rhyme label="c" type="m" corresp="#s3:l5">acht</rhyme></l>
+        <l id="s3:l7" met="6" type="+-">Daelydae die schoer drae thaer syns <rhyme label="d" type="f">hoefde</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">waer doer hy most steruen <rhyme label="e" type="m">snel</rhyme></l>
+        <l id="s3:l9" met="6" type="+-">u komt nae vrouch en spae vals lieft <rhyme label="d" type="f" corresp="#s3:l7">roefde</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">wie kan vrouwe lieft deruen <rhyme label="e" type="m" corresp="#s3:l8">wel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">van dirck kaetryne machmen <rhyme label="a" type="f">schryuen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">pieraemes tysbe storuen <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">leeander voordronck doer list van <rhyme label="a" type="f" corresp="#s4:l1">wyuen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">hollefernes worde bedroegen <rhyme label="b" type="m" corresp="#s4:l2">tal</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">In alle steeds Is list <rhyme label="c" type="m">sweer</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">naer tonureede thart moet <rhyme label="c" type="m" corresp="#s4:l5">ger</rhyme></l>
+        <l id="s4:l7" met="6" type="+-">want veenes die Jaecht <rhyme label="d" type="f">wis</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">met veel pyne en op alle naesye <rhyme label="e" type="m">spoert</rhyme></l>
+        <l id="s4:l9" met="6" type="+-">hout u fris sulck Is als <rhyme label="d" type="f" corresp="#s4:l7">feenine</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">Ick konst souck sent dees graesye <rhyme label="e" type="m" corresp="#s4:l8">voert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

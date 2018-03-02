@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28639</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>lier</orginal-name>
+      <standard-name>Lier, Belgium</standard-name>
+      <coordinates>
+        <lon>51.131069</lon>
+        <lat>4.5696516</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>hunter's song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Windje daar het bos af drilt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wel op, wel op, ick gae ter <rhyme label="a" type="m">jacht</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Nemen op de herten <rhyme label="a" type="m" corresp="#s1:l1">acht</rhyme>.</l>
+        <l id="s1:l3" met="2" type="+-">Steeckt met <rhyme label="b" type="f">sporen</rhyme>!</l>
+        <l id="s1:l4" met="2" type="+-">Blaest den <rhyme label="b" type="f" corresp="#s1:l3">horen</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Nempt den swijnspriet in u <rhyme label="c" type="m">hant</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En met vlijt de netten <rhyme label="c" type="m" corresp="#s1:l5">spant</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Altijt het herte vluchten <rhyme label="a" type="m">wilt</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Doer den bossche: <rhyme label="a" type="m" corresp="#s2:l1">ongestilt</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">Loopt en <rhyme label="b" type="f">rennet</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Niet en <rhyme label="b" type="f" corresp="#s2:l3">kennet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Oft het vyant is oft <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Diet van verre comen <rhyme label="c" type="m" corresp="#s2:l5">siet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sullen u dan de boomen <rhyme label="a" type="m">dicht</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Decken, o hert, voer mijn <rhyme label="a" type="m" corresp="#s3:l1">gesicht</rhyme>?</l>
+        <l id="s3:l3" met="2" type="+-">Zal de <rhyme label="b" type="f">varen</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">U <rhyme label="b" type="f" corresp="#s3:l3">bewaren</rhyme>?</l>
+        <l id="s3:l5" met="4" type="+-">Zal het lis oft sal het <rhyme label="c" type="m">riet</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Maken dat ic u vinde <rhyme label="c" type="m" corresp="#s3:l5">niet</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O neen, ick can sien <rhyme label="a" type="m">overal</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Op de bergen, bosch en <rhyme label="a" type="m" corresp="#s4:l1">dal</rhyme>;</l>
+        <l id="s4:l3" met="2" type="+-">Laet u <rhyme label="b" type="f">vangen</rhyme>,</l>
+        <l id="s4:l4" met="2" type="+-">Neempt u <rhyme label="b" type="f" corresp="#s4:l3">gangen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Naer den jager; bidt <rhyme label="c" type="m">genae</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Eer hy tswijnspriet doer u <rhyme label="c" type="m" corresp="#s4:l5">slae</rhyme>!</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Om u te dooden jaeg ick <rhyme label="a" type="m">niet</rhyme>;</l>
+        <l id="s5:l2" met="4" type="+-">'K come u helpen uyt <rhyme label="a" type="m" corresp="#s5:l1">verdriet</rhyme>;</l>
+        <l id="s5:l3" met="2" type="+-">Uwe <rhyme label="b" type="f">wonden</rhyme></l>
+        <l id="s5:l4" met="2" type="+-">Wel <rhyme label="b" type="f" corresp="#s5:l3">verbonden</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Sullen van mijn handen <rhyme label="c" type="m">sijn</rhyme>:</l>
+        <l id="s5:l6" met="4" type="+-">'K giet er olie op en <rhyme label="c" type="m" corresp="#s5:l5">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Compt, dorstich hert, tot dees <rhyme label="a" type="m">fonteyn</rhyme>;</l>
+        <l id="s6:l2" met="4" type="+-">Drinket van dees beke <rhyme label="a" type="m" corresp="#s6:l1">reyn</rhyme>;</l>
+        <l id="s6:l3" met="2" type="+-">Laet u <rhyme label="b" type="f">laven</rhyme>!</l>
+        <l id="s6:l4" met="2" type="+-">Rust van <rhyme label="b" type="f" corresp="#s6:l3">draven</rhyme>!</l>
+        <l id="s6:l5" met="4" type="+-">Ligget hier int groene <rhyme label="c" type="m">gras</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Of gevanckenis vrijdom <rhyme label="c" type="m" corresp="#s6:l5">was</rhyme>!</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Christus den Heere jaget <rhyme label="a" type="m">sterck</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Tsondich herte naer zijn <rhyme label="a" type="m" corresp="#s7:l1">kerck</rhyme>,</l>
+        <l id="s7:l3" met="2" type="+-">Om te <rhyme label="b" type="f">geven</rhyme></l>
+        <l id="s7:l4" met="2" type="+-">Teeuwich <rhyme label="b" type="f" corresp="#s7:l3">leven</rhyme>.</l>
+        <l id="s7:l5" met="4" type="+-">Laet u vangen, geeft u <rhyme label="c" type="m">bloot</rhyme>;</l>
+        <l id="s7:l6" met="4" type="+-">Gy sult leven in den <rhyme label="c" type="m" corresp="#s7:l5">doot</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3965</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>De molenarin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn suchten ende een <rhyme label="a" type="f">beuen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dat soude my voegen <rhyme label="b" type="m">wel</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Als ick aensie mijn <rhyme label="a" type="f" corresp="#s1:l1">leuen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Tot sonden also <rhyme label="b" type="m" corresp="#s1:l2">snel</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Ick hebbe in mi <rhyme label="a" type="f" corresp="#s1:l1">beseuen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Nature heeft redene <rhyme label="a" type="f" corresp="#s1:l1">verdreuen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Dat en dunct mi gheen <rhyme label="b" type="m" corresp="#s1:l2">spel</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Redene wil mi <rhyme label="a" type="f">leeren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Der dinghen <rhyme label="b" type="m">wederstaen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Nature wilt noode <rhyme label="a" type="f" corresp="#s2:l1">ontbeeren</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Hoe sal haer dat <rhyme label="b" type="m" corresp="#s2:l2">vergaen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Heere / God bouen alle <rhyme label="a" type="f" corresp="#s2:l1">heeren</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Doet mi mijn sinnen <rhyme label="a" type="f" corresp="#s2:l1">keeren</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ende leert mi redene <rhyme label="b" type="m" corresp="#s2:l2">verstaen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gheen dinck in desen <rhyme label="a" type="f">tiden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Nature bedwinghen <rhyme label="b" type="m">mach</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dan als haer druck en <rhyme label="a" type="f" corresp="#s3:l1">liden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Te selden wil doen <rhyme label="b" type="m" corresp="#s3:l2">verdrach</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dan wil haer duecht <rhyme label="a" type="f" corresp="#s3:l1">ontgliden</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ende si wil haer <rhyme label="a" type="f" corresp="#s3:l1">vermiden</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Ghenoechte die si <rhyme label="b" type="m" corresp="#s3:l2">plach</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Te leuen ghelijc die <rhyme label="a" type="f">beesten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Natuere altoos <rhyme label="b" type="m">begheert</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Te leuen na den <rhyme label="a" type="f" corresp="#s4:l1">gheeste</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ons reden altoos <rhyme label="b" type="m" corresp="#s4:l2">leert</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Heer God laet mi vol <rhyme label="a" type="f" corresp="#s4:l1">leesten</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">So mach ic comen ter <rhyme label="a" type="f" corresp="#s4:l1">feesten</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Daer alle druck is <rhyme label="b" type="m" corresp="#s4:l2">gheweert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

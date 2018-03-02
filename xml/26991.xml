@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26991</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Mitt kommer schwer / mit kommer <rhyme label="a" type="m">schwer</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">hatt mich gantz <rhyme label="a" type="m" corresp="#s1:l1">sein</rhyme>  /</l>
+        <l id="s1:l3" met="3" type="-+">groß vngluck <rhyme label="b" type="f">vmbgebenn</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">wie ich th <rhyme label="c" type="m">e</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">das ich kein <rhyme label="c" type="m" corresp="#s1:l4">raw</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">es th itt mir alles <rhyme label="b" type="f" corresp="#s1:l3">wiederstrebenn</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">es gahett mir <rhyme label="d" type="m">vergebes</rhyme> /</l>
+        <l id="s1:l8" met="2" type="-+">gleich wie dem <rhyme label="d" type="m" corresp="#s1:l7">krebs</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">eß hatt keinen <rhyme label="e" type="m">schein</rhyme>  /</l>
+        <l id="s1:l10" met="2" type="-+">wo ichs wendt  <rhyme label="e" type="m" corresp="#s1:l9">hin</rhyme> /</l>
+        <l id="s1:l11" met="4" type="+-">mich wondertt das ich so frolich <rhyme label="e" type="m" corresp="#s1:l9">bin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Wantt  ich <rhyme label="a" type="m">vertraw</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">vnnd fast a <rhyme label="a" type="m" corresp="#s2:l1">ffbaw</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Jn mitten sei mich th n <rhyme label="b" type="f">verlassenn</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">sei seindt <rhyme label="c" type="m">geschwindt</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">wie ich sei <rhyme label="c" type="m" corresp="#s2:l4">befindtt</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">voller vntrew vber die <rhyme label="b" type="f" corresp="#s2:l3">massenn</rhyme> /</l>
+        <l id="s2:l7" met="2" type="-+">mitt grossem vnsch <rhyme label="d" type="m">ldt</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">mitt schmertzenn ich ged <rhyme label="d" type="m" corresp="#s2:l7">ldtt</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">es k mptt die <rhyme label="e" type="m">zeitt</rhyme></l>
+        <l id="s2:l10" met="2" type="-+">die mich <rhyme label="e" type="m" corresp="#s2:l9">erfrewett</rhyme> /</l>
+        <l id="s2:l11" met="4" type="+-">Gott weiß wo mein gl ck noch <rhyme label="e" type="m" corresp="#s2:l9">ligtt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

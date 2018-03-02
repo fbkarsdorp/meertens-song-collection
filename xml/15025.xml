@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15025</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Lacrimae</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Myn Ziele treur'! en doet u <rhyme label="a" type="f">klachten</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">Wend' u <rhyme label="a" type="f" corresp="#s1:l1">gedachten</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Om over <rhyme label="b" type="m">luyd</rhyme>,,</l>
+        <l id="s1:l4" met="2" type="-+">Te schreyen <rhyme label="b" type="m" corresp="#s1:l3">uyt</rhyme>,,</l>
+        <l id="s1:l5" met="1" type="-+">Met <rhyme label="c" type="m">smert</rhyme>,,</l>
+        <l id="s1:l6" met="2" type="-+">U droevig <rhyme label="c" type="m" corresp="#s1:l5">hert</rhyme>!</l>
+        <l id="s1:l7" met="3" type="-+">O Goddelose <rhyme label="d" type="m">mensch</rhyme>!</l>
+        <l id="s1:l8" met="3" type="-+">Hebt ghy nu al een <rhyme label="d" type="m" corresp="#s1:l7">wensch</rhyme>!</l>
+        <l id="s1:l9" met="2" type="+-">Als <rhyme label="e" type="m">wanneer</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">Ghy u <rhyme label="e" type="m" corresp="#s1:l9">Heer</rhyme>,,</l>
+        <l id="s1:l11" met="2" type="+-">Dus helpt <rhyme label="f" type="m">voort</rhyme></l>
+        <l id="s1:l12" met="4" type="+-">End' so schandig hebt <rhyme label="f" type="m" corresp="#s1:l11">vermoort</rhyme>?</l>
+        <l id="s1:l13" met="4" type="+-">Die naer Godes ware <rhyme label="g" type="m">Wet</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Tot een Koning was <rhyme label="g" type="m" corresp="#s1:l13">geset</rhyme>?</l>
+        <l id="s1:l15" met="4" type="+-">Siet eens wat ghy hebt <rhyme label="h" type="f">bedreven</rhyme></l>
+        <l id="s1:l16" met="2" type="-+">Ghy moogt wel <rhyme label="h" type="f" corresp="#s1:l15">beleven</rhyme>,</l>
+        <l id="s1:l17" met="4" type="+-">Boose, loose, snoode <rhyme label="i" type="m">siel</rhyme>!</l>
+        <l id="s1:l18" met="4" type="-+">Wat raet nu met u arme <rhyme label="i" type="m" corresp="#s1:l17">siel</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4052</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHi Christenen wilt v toornen <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Int voerspoet der <rhyme label="b" type="f">goddeloosen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Noch trect aen v gheen <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Om dat weluaren der <rhyme label="b" type="f" corresp="#s1:l2">boosen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want als gras sullen si <rhyme label="a" type="m">vergaen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haestelijc af <rhyme label="b" type="f">ghesneden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Als groene cruyt werden si <rhyme label="a" type="m" corresp="#s2:l1">saen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Verdorret ende <rhyme label="b" type="f" corresp="#s2:l2">vertreden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Set uwen troost alleen in <rhyme label="a" type="m">god</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Keert alle dinc in <rhyme label="b" type="f">duechden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Blijft in v lant / wilt alle <rhyme label="a" type="m" corresp="#s3:l1">ween</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Int ghelooue <rhyme label="b" type="f" corresp="#s3:l2">vervruechden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In God hebt altijt uwen <rhyme label="a" type="m">lust</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wat hi geeft tsal v wel <rhyme label="b" type="f">smaken</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">In sijn bewegen weest <rhyme label="a" type="m" corresp="#s4:l1">gherust</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Betrout hi salt wel <rhyme label="b" type="f" corresp="#s4:l2">maken</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">V rechtuerdicheyt als <rhyme label="a" type="m">licht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Sal hi claer <rhyme label="b" type="f">openbaren</rhyme> /</l>
+        <l id="s5:l3" met="4" type="-+">Ghelijct die middach al <rhyme label="a" type="m" corresp="#s5:l1">verlicht</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Sal hi v recht <rhyme label="b" type="f" corresp="#s5:l2">verclaren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hout aen god wat hi v <rhyme label="a" type="m">schinet</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">En toornet niet / swijcht <rhyme label="b" type="f">stille</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Als uwe viant voerspoet <rhyme label="a" type="m" corresp="#s6:l1">vinct</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Doende nae sinen <rhyme label="b" type="f" corresp="#s6:l2">wille</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">En grimt noch en toornt <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Wilt goed voer quaet <rhyme label="b" type="f">gheuen</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">die god wacht in sijn lant <rhyme label="a" type="m" corresp="#s7:l1">bediet</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Die quaet doet wort <rhyme label="b" type="f" corresp="#s7:l2">verdreuen</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Laet noch om eenen cleynen <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Den godloos <rhyme label="b" type="f">onderwinden</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Hi werd ghesocht breet en <rhyme label="a" type="m" corresp="#s8:l1">wijt</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Maer nietmant en sal hem <rhyme label="b" type="f" corresp="#s8:l2">vinden</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Mer die sachtmoedige dat <rhyme label="a" type="m">lant</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Met pays besitten <rhyme label="b" type="f">sullen</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Sonder der godloosen <rhyme label="a" type="m" corresp="#s9:l1">verbant</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Die rasen ende <rhyme label="b" type="f" corresp="#s9:l2">dullen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Die quade ouer den goeden <rhyme label="a" type="m">raest</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Als van sinnen <rhyme label="b" type="f">benomen</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Mer god hout hem als sot <rhyme label="a" type="m" corresp="#s10:l1">verdwaest</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Want sinen dach sal <rhyme label="b" type="f" corresp="#s10:l2">comen</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Die goddelose blooten haer <rhyme label="a" type="m">sweert</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Ende spannen haer <rhyme label="b" type="f">boghen</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Om te quellen den goeden <rhyme label="a" type="m" corresp="#s11:l1">weert</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Die haer tot duechden wil <rhyme label="b" type="f" corresp="#s11:l2">poghen</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Haer sweert sal in haer herte <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">Haer boghen sullen <rhyme label="b" type="f">breken</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Alle tquaet dat doer hen werdt <rhyme label="a" type="m" corresp="#s12:l1">ghedaen</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Sal in haer herte <rhyme label="b" type="f" corresp="#s12:l2">spreken</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Den Christen is beter cleyn <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s13:l2" met="3" type="-+">Dan hoepen goets der <rhyme label="b" type="f">bosen</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Want God den wildoenden <rhyme label="a" type="m" corresp="#s13:l1">behoet</rhyme></l>
+        <l id="s13:l4" met="3" type="-+">Den arm breect der <rhyme label="b" type="f" corresp="#s13:l2">godlosen</rhyme></l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">God weet wanneer hi sal <rhyme label="a" type="m">bestaen</rhyme></l>
+        <l id="s14:l2" met="3" type="-+">Donsculdige te <rhyme label="b" type="f">helpen</rhyme></l>
+        <l id="s14:l3" met="4" type="-+">Sijn erue sal veel langer <rhyme label="a" type="m" corresp="#s14:l1">staen</rhyme></l>
+        <l id="s14:l4" met="3" type="-+">Dan sine gulden <rhyme label="b" type="f" corresp="#s14:l2">schelpen</rhyme></l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Hem wert hoonde noch <rhyme label="a" type="m">verwijt</rhyme></l>
+        <l id="s15:l2" met="3" type="-+">In quader tijt <rhyme label="b" type="f">begheuen</rhyme></l>
+        <l id="s15:l3" met="4" type="-+">Maer hem wert in dieren <rhyme label="a" type="m" corresp="#s15:l1">tijt</rhyme></l>
+        <l id="s15:l4" met="3" type="-+">Ghenoech om bi te <rhyme label="b" type="f" corresp="#s15:l2">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="-+">Al waren godlosen als <rhyme label="a" type="m">schat</rhyme></l>
+        <l id="s16:l2" met="3" type="-+">Hooge in die werelt <rhyme label="b" type="f">verheuen</rhyme></l>
+        <l id="s16:l3" met="4" type="-+">Veel snelder dan een rosen <rhyme label="a" type="m" corresp="#s16:l1">blat</rhyme></l>
+        <l id="s16:l4" met="3" type="-+">Werden si als roock <rhyme label="b" type="f" corresp="#s16:l2">verdreuen</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="4" type="-+">De godlose bercht gern <rhyme label="a" type="m">gelt</rhyme></l>
+        <l id="s17:l2" met="3" type="-+">Dwelck hi gaerne <rhyme label="b" type="f">behilde</rhyme></l>
+        <l id="s17:l3" met="4" type="-+">Die rechtuerdige is vri <rhyme label="a" type="m" corresp="#s17:l1">gestelt</rhyme></l>
+        <l id="s17:l4" met="3" type="-+">Bermhertich ende <rhyme label="b" type="f" corresp="#s17:l2">milde</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="4" type="-+">Die van God wert <rhyme label="a" type="m">ghebenedijt</rhyme></l>
+        <l id="s18:l2" met="3" type="-+">Die sal besitten die <rhyme label="b" type="f">erue</rhyme></l>
+        <l id="s18:l3" met="4" type="-+">Mer die daer wert <rhyme label="a" type="m" corresp="#s18:l1">vermaledijt</rhyme></l>
+        <l id="s18:l4" met="3" type="-+">This wel recht dat hijs <rhyme label="b" type="f" corresp="#s18:l2">derue</rhyme></l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="4" type="-+">Des menschen wegen sijn <rhyme label="a" type="m">gheuoert</rhyme></l>
+        <l id="s19:l2" met="3" type="-+">Van God in sijn <rhyme label="b" type="f">behagen</rhyme></l>
+        <l id="s19:l3" met="4" type="-+">Al valt hi / hi blijft <rhyme label="a" type="m" corresp="#s19:l1">onberoert</rhyme></l>
+        <l id="s19:l4" met="3" type="-+">In sijn hant wil hi hem <rhyme label="b" type="f" corresp="#s19:l2">draghen</rhyme></l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="4" type="-+">Ic ben van ioncheyt worden <rhyme label="a" type="m">out</rhyme></l>
+        <l id="s20:l2" met="3" type="-+">Noyt en hib ick connen <rhyme label="b" type="f">vaten</rhyme></l>
+        <l id="s20:l3" met="4" type="-+">Van rechtueerdigen arm oft <rhyme label="a" type="m" corresp="#s20:l1">cout</rhyme></l>
+        <l id="s20:l4" met="3" type="-+">Noch haer kinder <rhyme label="b" type="f" corresp="#s20:l2">verlaten</rhyme>.</l>
+      </lg>
+      <lg id="s21" type="stanza">
+        <l id="s21:l1" met="4" type="-+">Hy is berhertich nacht ende <rhyme label="a" type="m">dach</rhyme></l>
+        <l id="s21:l2" met="3" type="-+">In Gods weghen <rhyme label="b" type="f">ghetorden</rhyme></l>
+        <l id="s21:l3" met="4" type="-+">Sijn saet sal ooc sonder <rhyme label="a" type="m" corresp="#s21:l1">beclach</rhyme></l>
+        <l id="s21:l4" met="3" type="-+">Ghebenedijt <rhyme label="b" type="f" corresp="#s21:l2">worden</rhyme></l>
+      </lg>
+      <lg id="s22" type="stanza">
+        <l id="s22:l1" met="4" type="-+">Wijct vanden quade / doende <rhyme label="a" type="m">duecht</rhyme></l>
+        <l id="s22:l2" met="3" type="-+">Ende blijft ewich <rhyme label="b" type="f">leuen</rhyme></l>
+        <l id="s22:l3" met="4" type="-+">God die sijn heyligen <rhyme label="a" type="m" corresp="#s22:l1">veruruecht</rhyme></l>
+        <l id="s22:l4" met="3" type="-+">En wilde niet <rhyme label="b" type="f" corresp="#s22:l2">begheuen</rhyme></l>
+      </lg>
+      <lg id="s23" type="stanza">
+        <l id="s23:l1" met="4" type="-+">Eewich ende eewich bliuen <rhyme label="a" type="m">si</rhyme></l>
+        <l id="s23:l2" met="3" type="-+">Quade sullen <rhyme label="b" type="f">verganghen</rhyme></l>
+        <l id="s23:l3" met="4" type="-+">Diet goede land besitten <rhyme label="a" type="m" corresp="#s23:l1">vri</rhyme></l>
+        <l id="s23:l4" met="3" type="-+">Eewich sonder <rhyme label="b" type="f" corresp="#s23:l2">verlanghen</rhyme></l>
+      </lg>
+      <lg id="s24" type="stanza">
+        <l id="s24:l1" met="4" type="-+">Die mont der Christenen wijsheyt <rhyme label="a" type="m">denct</rhyme></l>
+        <l id="s24:l2" met="3" type="-+">Gheen onrecht en can hi <rhyme label="b" type="f">clappen</rhyme></l>
+        <l id="s24:l3" met="4" type="-+">Want God sijn wet int herte hem <rhyme label="a" type="m" corresp="#s24:l1">schenct</rhyme></l>
+        <l id="s24:l4" met="3" type="-+">Bewegende sijn <rhyme label="b" type="f" corresp="#s24:l2">stappen</rhyme></l>
+      </lg>
+      <lg id="s25" type="stanza">
+        <l id="s25:l1" met="4" type="-+">Den christen die godlose <rhyme label="a" type="m">aensiet</rhyme></l>
+        <l id="s25:l2" met="3" type="-+">Dat hi hem mochte <rhyme label="b" type="f">doden</rhyme></l>
+        <l id="s25:l3" met="4" type="-+">Mer god die en verdoemt hem <rhyme label="a" type="m" corresp="#s25:l1">niet</rhyme></l>
+        <l id="s25:l4" met="3" type="-+">Mer trect hem wten <rhyme label="b" type="f" corresp="#s25:l2">noden</rhyme></l>
+      </lg>
+      <lg id="s26" type="stanza">
+        <l id="s26:l1" met="4" type="-+">Verbeyt God in sinen <rhyme label="a" type="m">wech</rhyme></l>
+        <l id="s26:l2" met="3" type="-+">Ghi sult dat lant <rhyme label="b" type="f">besitten</rhyme></l>
+        <l id="s26:l3" met="4" type="-+">Die godlosen verstoot hi <rhyme label="a" type="m" corresp="#s26:l1">wech</rhyme></l>
+        <l id="s26:l4" met="3" type="-+">Beschiet ten helschen <rhyme label="b" type="f" corresp="#s26:l2">pitten</rhyme></l>
+      </lg>
+      <lg id="s27" type="stanza">
+        <l id="s27:l1" met="4" type="-+">Der godlosen ic eenen <rhyme label="a" type="m">mael</rhyme></l>
+        <l id="s27:l2" met="3" type="-+">Sach grouwelijc van <rhyme label="b" type="f">doenene</rhyme></l>
+        <l id="s27:l3" met="4" type="-+">Machtich / groot / wijt / als <rhyme label="a" type="m" corresp="#s27:l1">admirael</rhyme></l>
+        <l id="s27:l4" met="3" type="-+">Ende als den lauwer <rhyme label="b" type="f" corresp="#s27:l2">groene</rhyme></l>
+      </lg>
+      <lg id="s28" type="stanza">
+        <l id="s28:l1" met="4" type="-+">Ic ghinc voort ouer / ende <rhyme label="a" type="m">siet</rhyme></l>
+        <l id="s28:l2" met="3" type="-+">Ick sach ten allen <rhyme label="b" type="f">winden</rhyme></l>
+        <l id="s28:l3" met="4" type="-+">Ick vraechder na / men vant hem <rhyme label="a" type="m" corresp="#s28:l1">niet</rhyme></l>
+        <l id="s28:l4" met="3" type="-+">Hi en wat niet te <rhyme label="b" type="f" corresp="#s28:l2">vinden</rhyme></l>
+      </lg>
+      <lg id="s29" type="stanza">
+        <l id="s29:l1" met="4" type="-+">Weest onsculdich ende siet <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s29:l2" met="3" type="-+">Na die <rhyme label="b" type="f">rechtueerdichede</rhyme></l>
+        <l id="s29:l3" met="4" type="-+">Want dat laetste van sulcken <rhyme label="a" type="m" corresp="#s29:l1">man</rhyme></l>
+        <l id="s29:l4" met="3" type="-+">Is pays / ruste / en <rhyme label="b" type="f" corresp="#s29:l2">vrede</rhyme>.</l>
+      </lg>
+      <lg id="s30" type="stanza">
+        <l id="s30:l1" met="4" type="-+">Die godlose sullen <rhyme label="a" type="m">vergaen</rhyme></l>
+        <l id="s30:l2" met="3" type="-+">Te samen cleyn ende <rhyme label="b" type="f">groot</rhyme></l>
+        <l id="s30:l3" met="4" type="-+">Ten lesten en sal niemant <rhyme label="a" type="m" corresp="#s30:l1">staen</rhyme></l>
+        <l id="s30:l4" met="3" type="-+">Maer werden wech <rhyme label="b" type="f" corresp="#s30:l2">ghestooten</rhyme></l>
+      </lg>
+      <lg id="s31" type="stanza">
+        <l id="s31:l1" met="4" type="-+">Der gherechtiger <rhyme label="a" type="m">salicheyt</rhyme></l>
+        <l id="s31:l2" met="3" type="-+">Is van God / ende <rhyme label="b" type="f">ontfermen</rhyme></l>
+        <l id="s31:l3" met="4" type="-+">Hi wilse in alle <rhyme label="a" type="m" corresp="#s31:l1">dierbaerheyt</rhyme></l>
+        <l id="s31:l4" met="3" type="-+">Van ongheluc <rhyme label="b" type="f" corresp="#s31:l2">beschermen</rhyme>.</l>
+      </lg>
+      <lg id="s32" type="stanza">
+        <l id="s32:l1" met="4" type="-+">God salse helpen so hi <rhyme label="a" type="m">seyt</rhyme></l>
+        <l id="s32:l2" met="3" type="-+">In goddelosen <rhyme label="b" type="f">ontscouwen</rhyme></l>
+        <l id="s32:l3" met="4" type="-+">Ende brenghen tot <rhyme label="a" type="m" corresp="#s32:l1">salicheyt</rhyme></l>
+        <l id="s32:l4" met="3" type="-+">Want sij in hem <rhyme label="b" type="f" corresp="#s32:l2">betrouwen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

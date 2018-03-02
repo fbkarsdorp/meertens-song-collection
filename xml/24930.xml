@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24930</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wit brinnen, glimmen wangen <rhyme label="a" type="m">fin</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Dorch wives hertzin <rhyme label="b" type="f">bloede</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Sach ich blicken den <rhyme label="a" type="m" corresp="#s1:l1">schin</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Daraf zich <rhyme label="b" type="f" corresp="#s1:l2">hoegemoede</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Verscart in mijns hertzen <rhyme label="c" type="m">gront</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Van rechter minnen <rhyme label="d" type="f">vure</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Der minnen vlamme hait mer <rhyme label="c" type="m" corresp="#s1:l5">onzont</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Und wijflichs <rhyme label="d" type="f" corresp="#s1:l6">figure</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O wijflich wives <rhyme label="a" type="m">zuezicheit</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Du scat-trysor der <rhyme label="b" type="f">minnen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Du bloyende rijs aen <rhyme label="a" type="m" corresp="#s2:l1">conterfeit</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Du sukers scrinen <rhyme label="b" type="f" corresp="#s2:l2">binnen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Nu lesche und scheide dinen <rhyme label="c" type="m">brant</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Daraf ich bin <rhyme label="d" type="f">ontsteken</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Lijf und goet ga ich in <rhyme label="c" type="m" corresp="#s2:l5">hant</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Mi vergaet das <rhyme label="d" type="f" corresp="#s2:l6">sprechin</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Minen gheluut, o werde <rhyme label="a" type="m">wijf</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Du vrouwe reyne <rhyme label="b" type="f">konne</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Rosen bloyt din vrolich <rhyme label="a" type="m" corresp="#s3:l1">lijf</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ghevet meniger verwen <rhyme label="b" type="f" corresp="#s3:l2">wonne</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Fyolen roet uut lelyen <rhyme label="c" type="m">wijs</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Canstu geven <rhyme label="d" type="f">wonder</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">O aller zeliger bloyender <rhyme label="c" type="m" corresp="#s3:l5">rijs</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Ich niet von dir en <rhyme label="d" type="f" corresp="#s3:l6">sonder</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

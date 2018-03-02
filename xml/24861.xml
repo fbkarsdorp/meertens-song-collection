@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24861</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Als alle dingen zijn gezegd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Als alle dinghen sijn <rhyme label="a" type="m">ghesaecht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">So hebbic liefst dat men <rhyme label="a" type="m" corresp="#s1:l1">ghewaecht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Van huer die mi verbliden <rhyme label="b" type="m">can</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Daer omme en doet geen noot <rhyme label="a" type="m" corresp="#s1:l1">ghevraecht</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Of yemen anders liden <rhyme label="a" type="m" corresp="#s1:l1">draecht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als alle dinghen sijn <rhyme label="a" type="m">ghesaecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So hebbic liefst dat men <rhyme label="a" type="m" corresp="#s2:l1">ghewaecht</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Een wijflic beild mi so <rhyme label="b" type="m">behaecht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Al truerdet al dat dach <rhyme label="a" type="m" corresp="#s2:l1">bedaecht</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ic loughe waric haer liefste <rhyme label="a" type="m" corresp="#s2:l1">man</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

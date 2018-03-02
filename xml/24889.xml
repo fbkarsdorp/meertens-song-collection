@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24889</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Naar dat du haas de hart mijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Naer dattu haes de herte <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Aen dir ghewald vrau <rhyme label="b" type="m">minnentlijch</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Unde ich el niemens bin dan <rhyme label="a" type="m" corresp="#s1:l1">dijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">So troost mi beilde <rhyme label="b" type="m" corresp="#s1:l2">wivelijch</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">So blide ende vro want ichs dir <rhyme label="c" type="m">gan</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">So willich vroylich zinghen <rhyme label="c" type="m" corresp="#s1:l5">dan</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ende bliven dijn <rhyme label="b" type="m" corresp="#s1:l2">ghetruwelijch</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Vor al dat lieft mir dijn wijflic <rhyme label="a" type="m" corresp="#s1:l1">scijn</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Als icht mach scauwen <rhyme label="b" type="m" corresp="#s1:l2">vriendelijch</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Nacht ende dach so lidich <rhyme label="a" type="m" corresp="#s1:l1">pijn</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Sonder als ic bem bi <rhyme label="b" type="m" corresp="#s1:l2">dijch</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

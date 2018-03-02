@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14973</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>moralistic song</tag>
+      <tag>beggar song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Ik heb er een uitverkoren</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe loopet volc dus <rhyme label="a" type="f">oneenig</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Wat vintmen nu ooc al <rhyme label="a" type="f" corresp="#s1:l1">menig</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">wispeltuerig licht <rhyme label="b" type="m">gesel</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Sy waeyen en draeyen met alle <rhyme label="c" type="f">winden</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Maer vinden sal God haer <rhyme label="b" type="m" corresp="#s1:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sy stellen haer siel te <rhyme label="a" type="f">pande</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sy vragen meer na geen <rhyme label="a" type="f" corresp="#s2:l1">schande</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Al om dat verdoem'lyck <rhyme label="b" type="m">goed</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Sy huycken, en duycken, om hare <rhyme label="c" type="f">buycken</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Te mesten in <rhyme label="b" type="m" corresp="#s2:l3">overvloet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer eer sy't wel sullen <rhyme label="a" type="f">schicken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Sal't ongeluck haer <rhyme label="a" type="f" corresp="#s3:l1">verstricken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Alst sal wesen al te <rhyme label="b" type="m">laet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Haer smeeren, hoveren, en <rhyme label="c" type="f">domineren</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Verkeeren sal haer tot <rhyme label="b" type="m" corresp="#s3:l3">quaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

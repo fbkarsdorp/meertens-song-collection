@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25245</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Den wolck aerd, zee, en <rhyme label="a" type="m">firmament</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">eeren, louen, aenbidden <rhyme label="b" type="m">ia</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">al haer behooder en <rhyme label="a" type="m" corresp="#s1:l1">regent</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">hem draecht, t'lichaem van <rhyme label="b" type="m" corresp="#s1:l2">Maria</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dien maen en son, op sijnen <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">dienen, met al dat gemaect <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">hem draecht een maecht sonder <rhyme label="a" type="m" corresp="#s2:l1">verwijt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">begaeft met hemels gracij <rhyme label="b" type="m" corresp="#s2:l2">wis</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O salich moder door goeds <rhyme label="a" type="m">gift</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In wiens lichaem de meester <rhyme label="b" type="m">groet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">welck den werelt hout in sijn <rhyme label="a" type="m" corresp="#s3:l1">drift</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">hem laet besluijten voor ons <rhyme label="b" type="m" corresp="#s3:l2">noet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Salich sijt ghij, die wort <rhyme label="a" type="m">vruchtbaer</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">door hemels bood, en heijlich <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">die wort begeert van t'volck te <rhyme label="a" type="m" corresp="#s4:l1">gaer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">van v vleijsch wort mensch <rhyme label="b" type="m" corresp="#s4:l2">ombeureest</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">V sij glorij loff, prijs en <rhyme label="a" type="m">eer</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">die sijt geboren van maecht <rhyme label="b" type="m">reijn</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">met den vader, geest heijlich <rhyme label="a" type="m" corresp="#s5:l1">seer</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">in ewicheijt sij loff <rhyme label="b" type="m" corresp="#s5:l2">gemeijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

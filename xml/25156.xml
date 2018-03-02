@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25156</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wyp selden hort der wnnen <rhyme label="a" type="m">spil</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">wip vreuden <rhyme label="a" type="m" corresp="#s1:l1">zil</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">eyn spegil zart der soisse ich sprechen <rhyme label="a" type="m" corresp="#s1:l1">wil</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">wip wrzil aller <rhyme label="b" type="m">selicheit</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">wip aller gute eyn fiol der nie craft <rhyme label="b" type="m" corresp="#s1:l4">vermeit</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">wip duginde <rhyme label="a" type="m" corresp="#s1:l1">vil</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">got het dich <rhyme label="c" type="f">gegevin</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">wip werdenclicher eren <rhyme label="d" type="m">dach</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">wip truwen <rhyme label="d" type="m" corresp="#s1:l8">bach</rhyme>.</l>
+        <l id="s1:l10" met="5" type="-+">wip senftinclicher ho ein pris <rhyme label="d" type="m" corresp="#s1:l8">gemach</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">wip mannis leve geselle <rhyme label="e" type="m">szaft</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">wip aller sune eyn syginriche mannis <rhyme label="e" type="m" corresp="#s1:l11">craft</rhyme>.</l>
+        <l id="s1:l13" met="2" type="-+">wip milde eyn <rhyme label="d" type="m" corresp="#s1:l8">vach</rhyme></l>
+        <l id="s1:l14" met="3" type="-+">dar na die werden <rhyme label="c" type="f" corresp="#s1:l7">strebin</rhyme>.</l>
+        <l id="s1:l15" met="6" type="-+">wip minnenclicher duginde ein trutillich <rhyme label="f" type="f">garte</rhyme>.</l>
+        <l id="s1:l16" met="4" type="-+">wip aller eren vuer luchtich <rhyme label="f" type="f" corresp="#s1:l15">warte</rhyme>.</l>
+        <l id="s1:l17" met="3" type="-+">wip dyn lop ny <rhyme label="f" type="f" corresp="#s1:l15">szarte</rhyme>.</l>
+        <l id="s1:l18" met="4" type="-+">gewan des wol dir einer <rhyme label="g" type="m">wip</rhyme>.</l>
+        <l id="s1:l19" met="2" type="+-">wip let <rhyme label="g" type="m" corresp="#s1:l18">verdrip</rhyme>.</l>
+        <l id="s1:l20" met="2" type="+-">ho geherte <rhyme label="g" type="m" corresp="#s1:l18">lip</rhyme>.</l>
+        <l id="s1:l21" met="3" type="+-">drach wip wipplich din <rhyme label="c" type="f" corresp="#s1:l7">leven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Man vint in rote bleyge <rhyme label="a" type="m">szam</rhyme>.</l>
+        <l id="s2:l2" met="2" type="-+">nicht wirt zugtin <rhyme label="a" type="m" corresp="#s2:l1">gram</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">dat si dir redit vereuil v vrouwin <rhyme label="a" type="m" corresp="#s2:l1">stam</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">gedencke wat dat sprichit <rhyme label="b" type="m">wip</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">so hof ich dat der vereuil mide dinen <rhyme label="b" type="m" corresp="#s2:l4">lip</rhyme>.</l>
+        <l id="s2:l6" met="2" type="-+">wip soisser <rhyme label="a" type="m" corresp="#s2:l1">name</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">wnne irdis <rhyme label="c" type="f">paradys</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">gedenke wat dat vrauwe <rhyme label="d" type="m">si</rhyme>.</l>
+        <l id="s2:l9" met="2" type="-+">vrauwe e da <rhyme label="d" type="m" corresp="#s2:l8">bi</rhyme>.</l>
+        <l id="s2:l10" met="5" type="-+">vrauwe heisint si durch diner vreudin <rhyme label="d" type="m" corresp="#s2:l8">zui</rhyme>.</l>
+        <l id="s2:l11" met="4" type="+-">alle menszilliche vreude van in <rhyme label="e" type="m">kunt</rhyme></l>
+        <l id="s2:l12" met="6" type="-+">so wol in daz nature an in mit frugtin <rhyme label="e" type="m" corresp="#s2:l11">frumt</rhyme>.</l>
+        <l id="s2:l13" met="2" type="-+">wer is nu <rhyme label="d" type="m" corresp="#s2:l8">vri</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">der tugint an vreudin <rhyme label="c" type="f" corresp="#s2:l7">prys</rhyme>.</l>
+        <l id="s2:l15" met="6" type="-+">der gedenke an lyplich lachen roder <rhyme label="f" type="f">munde</rhyme>.</l>
+        <l id="s2:l16" met="4" type="-+">die stralen blicke us spilinder augin <rhyme label="f" type="f" corresp="#s2:l15">grunde</rhyme>.</l>
+        <l id="s2:l17" met="3" type="-+">stric kint frunt zu <rhyme label="f" type="f" corresp="#s2:l15">frunde</rhyme>.</l>
+        <l id="s2:l18" met="4" type="-+">man wilt du prys und eren <rhyme label="g" type="m">zol</rhyme></l>
+        <l id="s2:l19" met="2" type="+-">erfullen <rhyme label="g" type="m" corresp="#s2:l18">vol</rhyme></l>
+        <l id="s2:l20" met="2" type="+-">sprich vrauwin <rhyme label="g" type="m" corresp="#s2:l18">wol</rhyme>.</l>
+        <l id="s2:l21" met="3" type="+-">ere al ir formen <rhyme label="c" type="f" corresp="#s2:l7">rys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

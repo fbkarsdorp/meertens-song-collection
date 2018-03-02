@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25178</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">In duser wider werelde ein vreude <rhyme label="a" type="m">vert</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">die was bewilen szameloser diet <rhyme label="a" type="m" corresp="#s1:l1">besziert</rhyme>.</l>
+        <l id="s1:l3" met="8" type="-+">Nu is ir leider cleine. die sich der selver vreuden willen <rhyme label="b" type="f">szamen</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">O wye dat man ir so luzzil vint. bi hoen <rhyme label="b" type="f" corresp="#s1:l3">namen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">mit girlicher ungelust durch vlusit si den <rhyme label="c" type="m">munt</rhyme>.</l>
+        <l id="s1:l6" met="5" type="-+">unde velszit och vil mangen reynen <rhyme label="c" type="m" corresp="#s1:l5">vunt</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Si lemit zunge. int krenkit <rhyme label="d" type="f">sinne</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">si weckit zorn inde velszit <rhyme label="d" type="f" corresp="#s1:l7">minne</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">vil starke bein si struchelin <rhyme label="e" type="f">lerit</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">Si hait an allen sunden <rhyme label="f" type="m">deil</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">uch magit si mut ain ere <rhyme label="f" type="m" corresp="#s1:l10">geil</rhyme>.</l>
+        <l id="s1:l12" met="5" type="-+">ir avent spil lief inde sele <rhyme label="e" type="f" corresp="#s1:l9">interit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

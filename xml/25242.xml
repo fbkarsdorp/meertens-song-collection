@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25242</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>holy song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Laet ons blij sijn op desen <rhyme label="a" type="m">dach</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">godt louende met blijde <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">laet ons bidden sonder <rhyme label="a" type="m" corresp="#s1:l1">verdrach</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">dat godt ons geue goede <rhyme label="b" type="m" corresp="#s1:l2">spoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het gebet van sijn <rhyme label="a" type="m">dienaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">heeft veel verlost vuijt <rhyme label="b" type="m">dangier</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">door sint Niclaes verdiensten <rhyme label="a" type="m" corresp="#s2:l1">claer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">sijn veel beurijt van quaet <rhyme label="b" type="m" corresp="#s2:l2">bestier</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Oeck maechden, wesen al van <rhyme label="a" type="m">als</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">hij heeft geholpen <rhyme label="b" type="m">mildelick</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">beschermende van opset <rhyme label="a" type="m" corresp="#s3:l1">vals</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">heeft haer voorcomen <rhyme label="b" type="m" corresp="#s3:l2">mildelick</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tegen ketters was hij zeer <rhyme label="a" type="m">stout</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">en liet niet toe dat zij <rhyme label="b" type="m">leerden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Goodts kerck beminden hij als <rhyme label="a" type="m" corresp="#s4:l1">gout</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">suijuer te houden, hij <rhyme label="b" type="m" corresp="#s4:l2">weerden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laet ons oock leeren <rhyme label="a" type="m">soberheijt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">miltheijt, verdult, lieff <rhyme label="b" type="m">excellent</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Godt wil ons gunnen <rhyme label="a" type="m" corresp="#s5:l1">vrolicheijt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Vre, hier, hiernae vroecht sonder <rhyme label="b" type="m" corresp="#s5:l2">ent</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Loff godt van alle gauen <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">den vader soen en heijlich <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">wij bidden, verhoort ons <rhyme label="a" type="m" corresp="#s6:l1">deuoot</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">maect dat wij v beminnen <rhyme label="b" type="m" corresp="#s6:l2">meest</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

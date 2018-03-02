@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3953</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>Ik had een gestadig minnetje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk wil mi gaen <rhyme label="a" type="f">verbliden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In Iesus minne <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hi sal mi leeren <rhyme label="a" type="f" corresp="#s1:l1">liden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In hem vindick alle <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Conde ick mi daer toe <rhyme label="b" type="m" corresp="#s1:l2">keeren</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">So waer mi wel <rhyme label="c" type="m">gheschiet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hi soude mi so wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s1:l6">niet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sal ic ter minnen <rhyme label="a" type="f">comen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ick moet mi leeren <rhyme label="b" type="m">steruen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Natuere eest <rhyme label="a" type="f" corresp="#s2:l1">onghewone</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Si wil den gheest <rhyme label="b" type="m" corresp="#s2:l2">bederuen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mocht ic die minne Gods <rhyme label="b" type="m" corresp="#s2:l2">verweruen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">So waer mi wel <rhyme label="c" type="m">geschiet</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Hi soude mi so wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s2:l6">niet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Nature heeft mi <rhyme label="a" type="f">bedroghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Al in dit doncker <rhyme label="b" type="m">dal</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Den tijt is mi <rhyme label="a" type="f" corresp="#s3:l1">ontuloghen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ick en weet niet waer ick <rhyme label="b" type="m" corresp="#s3:l2">sal</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ick prise die minne bouen <rhyme label="b" type="m" corresp="#s3:l2">al</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Altoos wat mijns <rhyme label="c" type="m">gheschiet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Hi soude mi so wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s3:l6">niet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wil ick ter minnen <rhyme label="a" type="f">comen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Ic moeste ootmoedich <rhyme label="b" type="m">wesen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Anders soude mi luttel <rhyme label="a" type="f" corresp="#s4:l1">vromen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Mijn bidden ende mijn <rhyme label="b" type="m" corresp="#s4:l2">lesen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Conde ick natuer ghebrengen tot <rhyme label="b" type="m" corresp="#s4:l2">desen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">So waer mi wel <rhyme label="c" type="m">gheschiet</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Hi soude mi so wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s4:l6">niet</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ick wil mi gaen <rhyme label="a" type="f">verliesen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">In Iesus minnen <rhyme label="b" type="m">gloet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Ende God gaen <rhyme label="a" type="f" corresp="#s5:l1">verkiesen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">So mach ick wesen <rhyme label="b" type="m" corresp="#s5:l2">vroet</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Iesu neemt mi in v <rhyme label="b" type="m" corresp="#s5:l2">behoet</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">So wort mi wel <rhyme label="c" type="m">gheschiet</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Hi soude mi so wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s5:l6">niet</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Die minne is <rhyme label="a" type="f">ghenadich</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Die al wt Gode <rhyme label="b" type="m">groeyt</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Si maect den mensche <rhyme label="a" type="f" corresp="#s6:l1">ghestadich</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">In liden in haren <rhyme label="b" type="m" corresp="#s6:l2">moet</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Een herteken dat wt minnen <rhyme label="b" type="m" corresp="#s6:l2">gloeyt</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Hem is so wel <rhyme label="c" type="m">gheschiet</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Hi soude mi soe wel <rhyme label="d" type="f">leeren</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Bekennen mijn arme <rhyme label="c" type="m" corresp="#s6:l6">niet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

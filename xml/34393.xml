@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34393</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Al wat men doet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">ICk braeck nu van t'min-treurich <rhyme label="a" type="m">gheluydt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">tGheen quelden my al den <rhyme label="b" type="m">dagh</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">En ick geck nu al de Medekens <rhyme label="a" type="m" corresp="#s1:l1">uyt</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Die ick te minne <rhyme label="b" type="m" corresp="#s1:l2">plach</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ken vraegher niet naer,, Al liepense <rhyme label="c" type="m">daer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Want k'heb u een ander <rhyme label="c" type="m" corresp="#s1:l5">Caer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">De toeback-pijp die heb ick nu <rhyme label="a" type="m">lief</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Sy thoont haer niet <rhyme label="b" type="m">obstinaet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Want daer vind' ick in mijns hertsen <rhyme label="a" type="m" corresp="#s2:l1">gherief</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Alsmen aen t'smooren <rhyme label="b" type="m" corresp="#s2:l2">gaet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En wil ick dan hier,, Noch blussen mijn <rhyme label="c" type="m">vier</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Soo drinck ick een pintjen <rhyme label="c" type="m" corresp="#s2:l5">bier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">In plaets dat ick sou spreeken van <rhyme label="a" type="m">min</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Soo speel ick eens op die <rhyme label="b" type="m">fluyt</rhyme>;</l>
+        <l id="s3:l3" met="5" type="+-">En dan douw ick lancx mijn snotergat <rhyme label="a" type="m" corresp="#s3:l1">in</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Wat van dat Lovens <rhyme label="b" type="m" corresp="#s3:l2">cruyt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Cant beter ghesijn,, By bierken en <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Soo stilt haer die <rhyme label="c" type="m" corresp="#s3:l5">minne-pijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">De traentjens die door liefde ick <rhyme label="a" type="m">gaf</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">(Mits dat ick haer soo <rhyme label="b" type="m">vercoor</rhyme>)</l>
+        <l id="s4:l3" met="5" type="+-">Die leeken nu van mijn broecxken <rhyme label="a" type="m" corresp="#s4:l1">af</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">En lancx mijn <rhyme label="b" type="m" corresp="#s4:l2">justacoor</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dat compt door den tap,, Van t'soet Lovens <rhyme label="c" type="m">sap</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Dat icker ten gront in <rhyme label="c" type="m" corresp="#s4:l5">snap</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Gheen sottelijck min ick <rhyme label="a" type="m">ghevoel</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Als ick sit en smoor in <rhyme label="b" type="m">t'schouw</rhyme>,</l>
+        <l id="s5:l3" met="5" type="+-">Dan sit ick op <rhyme label="a" type="m" corresp="#s5:l1">eenen-dry-voet-stoel</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Soo crijgh ick oock gheenen <rhyme label="b" type="m" corresp="#s5:l2">couw</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">My houtjen leedt aen,, Daer mé ist een <rhyme label="c" type="m">vaen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Soo blijf ick by t'vierken <rhyme label="c" type="m" corresp="#s5:l5">staen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="+-">Schrijft noch een briefken aen mijnen <rhyme label="a" type="m">boom</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Mijn pijppeken dat is <rhyme label="b" type="m">uyt</rhyme>,</l>
+        <l id="s6:l3" met="5" type="+-">Ick moet noch eens met Ianneken <rhyme label="a" type="m" corresp="#s6:l1">oom</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">Gaen stoppen dat hemels <rhyme label="b" type="m" corresp="#s6:l2">cruyt</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Heb ick dan gheen gelt,, t'Ghelagh dat my <rhyme label="c" type="m">quelt</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">My isser noch klets <rhyme label="c" type="m" corresp="#s6:l5">ghestelt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="+-">Wat solfer-stecken weder <rhyme label="a" type="m">ghebracht</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Want t'dienter eens vers <rhyme label="b" type="m">ghestopt</rhyme>,</l>
+        <l id="s7:l3" met="5" type="+-">Daer sit ick mé tot den halleven <rhyme label="a" type="m" corresp="#s7:l1">nacht</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Tot dat ick ben gans <rhyme label="b" type="m" corresp="#s7:l2">vercropt</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Dan gaen ick naer huys, Al ben ick wat <rhyme label="c" type="m">buys</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">k'En ben maer een Bacchus <rhyme label="c" type="m" corresp="#s7:l5">knuys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

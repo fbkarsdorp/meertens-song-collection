@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15035</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>thanks song</tag>
+      <tag>spiritual song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Pavane d'Espagne</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Als Christi Bruyd was in den <rhyme label="a" type="m">nood</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End' als benout werd totter <rhyme label="a" type="m" corresp="#s1:l1">doot</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'tWelc menig hert bedroefde <rhyme label="b" type="m">seer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">So heeft zy noch op God de <rhyme label="b" type="m" corresp="#s1:l3">Heer</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Gestelt al haer vertrouwen <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">End' hy heeft haer geholpen <rhyme label="c" type="m" corresp="#s1:l5">weer</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Syn goetheyt en <rhyme label="d" type="m">genaed</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Haer altyt open <rhyme label="d" type="m" corresp="#s1:l7">staet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wanneer wy zyn in druck en <rhyme label="a" type="m">pyn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">God is alleen ons <rhyme label="a" type="m" corresp="#s2:l1">Medecyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hy helpet seker en <rhyme label="b" type="m">gewis</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als tyd en stond gekomen <rhyme label="b" type="m" corresp="#s2:l3">is</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Hy doet het boos volck haest ter <rhyme label="c" type="m">schand</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">End' kort'lyck ruymen 'tgantsche <rhyme label="c" type="m" corresp="#s2:l5">Land</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als hy maer spreeckt een <rhyme label="d" type="m">woord</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Soo moet ons Vyand <rhyme label="d" type="m" corresp="#s2:l7">voort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och! of (gelyck de Key op't <rhyme label="a" type="m">strand</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Geeft van de Son een <rhyme label="a" type="m" corresp="#s3:l1">weder-brand</rhyme>)</l>
+        <l id="s3:l3" met="4" type="-+">De Sonne van Gods <rhyme label="b" type="m">goedigheyd</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">In ons verweckt' een <rhyme label="b" type="m" corresp="#s3:l3">weder-steyt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Van danckbaerheyt en ware <rhyme label="c" type="m">deucht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wat soud't ons Ziele syn een <rhyme label="c" type="m" corresp="#s3:l5">vreucht</rhyme>!</l>
+        <l id="s3:l7" met="3" type="-+">En wat soud' ons de <rhyme label="d" type="m">Heer</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Al goet doen meer en <rhyme label="d" type="m" corresp="#s3:l7">meer</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

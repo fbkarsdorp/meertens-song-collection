@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30254</id>
+    <date>
+      <year-start>1586</year-start>
+      <year-end>1586</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Branle maîtresse</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O nactegael in wilde princes <rhyme label="a" type="f">amrues</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">botscapt myn lief zeer <rhyme label="b" type="m">milde</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">dat blomken <rhyme label="a" type="f" corresp="#s1:l1">gracieur</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">-ick wilde dy <rhyme label="b" type="m" corresp="#s1:l2">segge</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">en secht die scoene <rhyme label="c" type="f">roesette</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">ick wilde wel syn met <rhyme label="d" type="m">huer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">corst ick contsent <rhyme label="a" type="f">ghecryghen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">van dat frans <rhyme label="b" type="m">medelyn</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">en spreken sonder <rhyme label="a" type="f" corresp="#s2:l1">verswyghen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">voer huer clyen <rhyme label="b" type="m" corresp="#s2:l2">vinsterken</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">qvi nyders moechten <rhyme label="c" type="f">beletten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">my voelghen op dat <rhyme label="d" type="m">spuer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">minnaer wilt v <rhyme label="a" type="f">bedenken</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">verstaet wel mynen <rhyme label="b" type="m">sin</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">wilt my in trou <rhyme label="a" type="f" corresp="#s3:l1">scenken</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">eer ick bedroeghen <rhyme label="b" type="m" corresp="#s3:l2">ben</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">compt dan op myn <rhyme label="c" type="f">gheloerriette</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">en spreken sonder <rhyme label="d" type="m">ghetoeur</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">scoen lief dats myn begherte mynen <rhyme label="a" type="f">wille</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">ic bit iu om <rhyme label="b" type="m">confoert</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">dat ich met iu in <rhyme label="a" type="f" corresp="#s4:l1">stille</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">maech segghen myn <rhyme label="b" type="m" corresp="#s4:l2">rappoert</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">myn trowe ryen sonder <rhyme label="c" type="f">smette</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">wil ic v dan legghen <rhyme label="d" type="m">veur</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">daer waeren sy <rhyme label="a" type="f">verboerghen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">des twe scoen lieuen <rhyme label="b" type="m">siet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">wan sauons tot den <rhyme label="a" type="f" corresp="#s5:l1">morghen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">den tyt verdriet haer <rhyme label="b" type="m" corresp="#s5:l2">niet</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">den ruyter nam syn <rhyme label="c" type="f">singnette</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">en sconcse de maghet <rhyme label="d" type="m">puer</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">ic dancke v minnaer <rhyme label="a" type="f">verheuen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">van wer trowe <rhyme label="b" type="m">groet</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">ick hoope v al myn <rhyme label="a" type="f" corresp="#s6:l1">leuen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">by te blyuen tot inder <rhyme label="b" type="m" corresp="#s6:l2">doet</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">oerlof die dit liedeken <rhyme label="c" type="f">sette</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">sy en viel haer lief niet <rhyme label="d" type="m">suer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

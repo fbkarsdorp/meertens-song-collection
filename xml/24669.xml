@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24669</id>
+    <date>
+      <year-start>1470</year-start>
+      <year-end>1480</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>Maria song</tag>
+    </tags>
+    <melody>Ik klom de boom al op die mij te hoog</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hi troer die troeren <rhyme label="a" type="f">wil</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn troeren is <rhyme label="b" type="m">ghedaen</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Ic heb ghezweghen <rhyme label="a" type="f" corresp="#s1:l1">stil</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Mariam <rhyme label="b" type="m" corresp="#s1:l2">verstaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waerom so soud ic <rhyme label="a" type="f">troeren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Of sorghen alte <rhyme label="b" type="m">seer</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Mi dunct ic bin <rhyme label="a" type="f" corresp="#s2:l1">vercoren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Van Jhesu minen <rhyme label="b" type="m" corresp="#s2:l2">heer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dat ic hem bin <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Heeft hi ghedaen <rhyme label="b" type="m">aenschijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Want ic most sijn <rhyme label="a" type="f" corresp="#s3:l1">verloren</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Deed sijn doot end sijn <rhyme label="b" type="m" corresp="#s3:l2">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Hi is hier neer <rhyme label="a" type="f">ghecomen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Daer in bin ic <rhyme label="b" type="m">verblijt</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Misdaet sou my <rhyme label="a" type="f" corresp="#s4:l1">verdoemen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Sijn doot heeft my <rhyme label="b" type="m" corresp="#s4:l2">ghequijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hier om wil ic hem <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die my dus heeft <rhyme label="b" type="m">verlost</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">End in mijn hertkijn <rhyme label="a" type="f" corresp="#s5:l1">bijnden</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Houwen voer al mijn <rhyme label="b" type="m" corresp="#s5:l2">troest</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ic weet dat wel <rhyme label="a" type="f">voerwaer</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Deed sijn pijn end sijn <rhyme label="b" type="m">doot</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Al bay ic dusent <rhyme label="a" type="f" corresp="#s6:l1">jaer</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Twaer al verloren <rhyme label="b" type="m" corresp="#s6:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Dus wil ic my <rhyme label="a" type="f">verbliden</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Seer vroemelic in <rhyme label="b" type="m">hym</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Draghen tot allen <rhyme label="a" type="f" corresp="#s7:l1">tyden</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Sijn doot in minen <rhyme label="b" type="m" corresp="#s7:l2">syn</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Lof, eer, danck sy <rhyme label="a" type="f">Marie</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Die edel suver <rhyme label="b" type="m">maecht</rhyme>.</l>
+        <l id="s8:l3" met="3" type="-+">Ten was noch waerlic <rhyme label="a" type="f" corresp="#s8:l1">nye</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Dat sy my liet <rhyme label="b" type="m" corresp="#s8:l2">versaecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

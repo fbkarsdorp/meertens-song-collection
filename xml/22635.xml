@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22635</id>
+    <date>
+      <year-start>1537</year-start>
+      <year-end>1543</year-end>
+    </date>
+    <location>
+      <orginal-name>zutphen</orginal-name>
+      <standard-name>Zutphen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.143222</lon>
+        <lat>6.2044441</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>May song</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>De winter is vergangen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">`Die winter is <rhyme label="a" type="f">verganghen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ic sie des meien <rhyme label="b" type="m">schijn</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Ic sie die bloemkens <rhyme label="a" type="f" corresp="#s1:l1">hanghen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Des is mijn hert <rhyme label="b" type="m" corresp="#s1:l2">verblijt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">So ver aen ghenen <rhyme label="c" type="f">dale</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Daer ist ghenoechlich <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Daer singhet die <rhyme label="c" type="f" corresp="#s1:l5">nachtegale</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Also menich <rhyme label="d" type="m" corresp="#s1:l6">woutvoghelkijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ic wil den mei gaen <rhyme label="a" type="f">houwen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Al in dat groene <rhyme label="b" type="m">gras</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ende schenken mijn boel die <rhyme label="a" type="f" corresp="#s2:l1">trouwe</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die mi die lieveste <rhyme label="b" type="m" corresp="#s2:l2">was</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Ende bidden, dat si wil <rhyme label="c" type="f">comen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Al voor haer vensterken <rhyme label="d" type="m">staen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ende ontfanghen den mei met <rhyme label="c" type="f" corresp="#s2:l5">bloemen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Hi is so wel <rhyme label="d" type="m" corresp="#s2:l6">ghedaen</rhyme>.'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ende doe die <rhyme label="a" type="f">suiverlike</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Sijn reden hadde <rhyme label="b" type="m">ghehoort</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Doe stont si <rhyme label="a" type="f" corresp="#s3:l1">trurentlike</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Met des sprac si een <rhyme label="b" type="m" corresp="#s3:l2">woort</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">`Ic heb den mei <rhyme label="c" type="f">ontfanghen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Met groter <rhyme label="d" type="m">eerwaerdicheit</rhyme>.'</l>
+        <l id="s3:l7" met="3" type="-+">Hu cust si aen haer <rhyme label="c" type="f" corresp="#s3:l5">wanghen</rhyme>:</l>
+        <l id="s3:l8" met="3" type="-+">Was dat niet <rhyme label="d" type="m" corresp="#s3:l6">eerbaerheit</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Hi nam si sonder <rhyme label="a" type="f">truren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Al in sijn aermkens <rhyme label="b" type="m">blanc</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Die wachter op der <rhyme label="a" type="f" corresp="#s4:l1">muren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die hief op een liet ende <rhyme label="b" type="m" corresp="#s4:l2">sanc</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">`En is daer ieman <rhyme label="c" type="f">inne</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Die mach wel thuiswaert <rhyme label="d" type="m">gaen</rhyme>:</l>
+        <l id="s4:l7" met="3" type="-+">Ic sie den dach op <rhyme label="c" type="f" corresp="#s4:l5">dringhen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Al door die wolken <rhyme label="d" type="m" corresp="#s4:l6">claer</rhyme>.'</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">`Och wachter op der <rhyme label="a" type="f">muren</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Hoe quelstu mi so <rhyme label="b" type="m">hart</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Ic ligghe in swaren <rhyme label="a" type="f" corresp="#s5:l1">truren</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Mijn herte dat lidet <rhyme label="b" type="m" corresp="#s5:l2">smert</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Dat doet die <rhyme label="c" type="f">alreliefste</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Dat ic van haer scheiden <rhyme label="d" type="m">moet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Dat claghic God den <rhyme label="c" type="f" corresp="#s5:l5">Heren</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Dat ic si laten <rhyme label="d" type="m" corresp="#s5:l6">moet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Adieu myn <rhyme label="a" type="f">alreliefste</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Adieu schoon bloemken <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Adieu schoon <rhyme label="a" type="f" corresp="#s6:l1">rosebloeme</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Daer moet ghescheiden <rhyme label="b" type="m" corresp="#s6:l2">sijn</rhyme>:</l>
+        <l id="s6:l5" met="3" type="-+">Hent dat ic weder <rhyme label="c" type="f">come</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Die liefste soudt ghi <rhyme label="d" type="m">sijn</rhyme>;</l>
+        <l id="s6:l7" met="3" type="-+">Dat herte in minen <rhyme label="c" type="f" corresp="#s6:l5">live</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Dat hoort, ja, altijd <rhyme label="d" type="m" corresp="#s6:l6">dijn</rhyme>.'</l>
+      </lg>
+    </lg>
+  </text>
+</song>

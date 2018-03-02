@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24772</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Trouw eer goed zin hart en moed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Trouwe ere goet zin hertze ende <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Reine vrauwe es eighin <rhyme label="b" type="m">dijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ic weinsche u eere vor enich <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Contrarie hem die wroughers <rhyme label="b" type="m" corresp="#s1:l2">sijn</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Eighin <rhyme label="b" type="m" corresp="#s1:l2">dijn</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Es therte <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Wat ghi mi <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Troost van u vrouwe dats mijn <rhyme label="a" type="m">behoet</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Rooft mi alleyn uut zorgen <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In u so rust mijns hertzen <rhyme label="a" type="m" corresp="#s2:l1">bloet</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Claerre dan der sonnen <rhyme label="b" type="m" corresp="#s2:l2">scijn</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Eighin <rhyme label="b" type="m" corresp="#s2:l2">dijn</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Es therte <rhyme label="b" type="m" corresp="#s2:l2">mijn</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Wat ghi mi <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Toocht mir ghenaden beilde <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Recht blivic stede in trauwen <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ic meene al goet Des wilt zijn <rhyme label="a" type="m" corresp="#s3:l1">vroet</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Comt mi in hulpen vrouwe <rhyme label="b" type="m" corresp="#s3:l2">mijn</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Eighin <rhyme label="b" type="m" corresp="#s3:l2">dijn</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Es therte <rhyme label="b" type="m" corresp="#s3:l2">mijn</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Wat ghi mi <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

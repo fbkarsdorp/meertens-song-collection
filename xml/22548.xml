@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22548</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een enich een, Een een <rhyme label="a" type="m">alleen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Sel dat <rhyme label="b" type="f">eenicheitbegripen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Tmoet sijn alleen, niet int <rhyme label="a" type="m" corresp="#s1:l1">ghemeen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Of tsal hem <rhyme label="b" type="f" corresp="#s1:l2">ontsvicken</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Tmoet sijn alleen, niet int <rhyme label="a" type="m" corresp="#s1:l1">ghemeen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Of tsal hem <rhyme label="b" type="f" corresp="#s1:l2">ontsvicken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het is mer een dat thert <rhyme label="a" type="m">begheert</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Dat is dat guetvan <rhyme label="b" type="f">boven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wat anders ist en niet <rhyme label="a" type="m" corresp="#s2:l1">waert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dan Gode altijt te <rhyme label="b" type="f" corresp="#s2:l2">loven</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Wat anders ist en niet <rhyme label="a" type="m" corresp="#s2:l1">waert</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dan Gode altijt te <rhyme label="b" type="f" corresp="#s2:l2">loven</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O salighe gront, daer God in <rhyme label="a" type="m">rust</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wat sal hem moghen <rhyme label="b" type="f">ontbreken</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Want hij sal vijnden soe menighe <rhyme label="a" type="m" corresp="#s3:l1">rust</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Wie salt ons moeghen <rhyme label="b" type="f" corresp="#s3:l2">uutspreken</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Want hij sal vijnden soe menighe <rhyme label="a" type="m" corresp="#s3:l1">rust</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Wie salt ons moeghen <rhyme label="b" type="f" corresp="#s3:l2">uutspreken</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Een haert vervult in Godes <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Vaergettet dat ghescapen <rhyme label="b" type="f">is</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Ten mach niet liden in sinen <rhyme label="a" type="m" corresp="#s4:l1">sin</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dat sterflijc ende verganclijc <rhyme label="b" type="f" corresp="#s4:l2">is</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Ten mach niet liden in sinen <rhyme label="a" type="m" corresp="#s4:l1">sin</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Dat sterflijc ende verganclijc <rhyme label="b" type="f" corresp="#s4:l2">is</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die minne Goeds is alsoe <rhyme label="a" type="m">clear</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Dat si niet stadich bliven <rhyme label="b" type="f">mach</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Int hart si vliet al haest van <rhyme label="a" type="m" corresp="#s5:l1">daer</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Om vremde min, ja, om een <rhyme label="b" type="f" corresp="#s5:l2">caf</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Int hart si vliet al haest van <rhyme label="a" type="m" corresp="#s5:l1">daer</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Om vremde min, ja, om een <rhyme label="b" type="f" corresp="#s5:l2">caf</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Waer al om also moet hi <rhyme label="a" type="m">gheven</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Die God gheheel ontfanghen <rhyme label="b" type="f">wil</rhyme>?</l>
+        <l id="s6:l3" met="4" type="-+">Hi en mach niet na den sinnen <rhyme label="a" type="m" corresp="#s6:l1">leven</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Die lof sel crighen in desen <rhyme label="b" type="f" corresp="#s6:l2">spel</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Hi en mach niet na den sinnen <rhyme label="a" type="m" corresp="#s6:l1">leven</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Die lof sel crighen in desen <rhyme label="b" type="f" corresp="#s6:l2">spel</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">God heeft ghemaect die redeliken <rhyme label="a" type="m">siel</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Dat si soude ontfanckeliken  <rhyme label="b" type="f">sijn</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Ende wesen alte diepen <rhyme label="a" type="m" corresp="#s7:l1">wiel</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Waer in mach vloyen die godliken <rhyme label="b" type="f" corresp="#s7:l2">wijn</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">Ende wesen alte diepen <rhyme label="a" type="m" corresp="#s7:l1">wiel</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Waer in mach vloyen die godliken <rhyme label="b" type="f" corresp="#s7:l2">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Och Godt, die claghe <rhyme label="a" type="m">jammerlijck</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Dat niemant is die sijns <rhyme label="b" type="f">ontbeit</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Hij woude gheven soe <rhyme label="a" type="m" corresp="#s8:l1">minnetlijc</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Die guede, die hem hier boven sijn <rhyme label="b" type="f" corresp="#s8:l2">bereit</rhyme>!</l>
+        <l id="s8:l5" met="4" type="-+">Hij woude gheven soe <rhyme label="a" type="m" corresp="#s8:l1">minnetlijc</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Die guede, die hem hier boven sijn <rhyme label="b" type="f" corresp="#s8:l2">bereit</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

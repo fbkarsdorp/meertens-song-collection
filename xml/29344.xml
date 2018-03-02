@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29344</id>
+    <date>
+      <year-start>1501</year-start>
+      <year-end>1550</year-end>
+    </date>
+    <location>
+      <orginal-name>holland</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IHesus naem <rhyme label="a" type="m">gebenedijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Schelt ons van allen sonden <rhyme label="a" type="m" corresp="#s1:l1">quijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Die wel in hem <rhyme label="b" type="f">betrouwen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Daer om roept tot allen <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Verdraecht om hem spijt en <rhyme label="a" type="m" corresp="#s1:l1">verwijt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ten sal v niet <rhyme label="b" type="f" corresp="#s1:l3">berouwen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat aen roepen wilt weesen <rhyme label="a" type="m">vroet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Is bouen allen hoenich <rhyme label="a" type="m" corresp="#s2:l1">soet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Diet proeft die mach het <rhyme label="b" type="f">seggen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Daer om verworpt al <rhyme label="a" type="m" corresp="#s2:l1">ongemoit</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende leert wat gods saluinghe <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die scrifture salt v <rhyme label="b" type="f" corresp="#s2:l3">seggen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O jhesu mynder herter <rhyme label="a" type="m">troost</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ick soeck v int west ende oeck int <rhyme label="a" type="m" corresp="#s3:l1">oost</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Ende qualicken kan ick v <rhyme label="b" type="f">vinden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat herte is moede benaut <rhyme label="a" type="m" corresp="#s3:l1">bewoest</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">In v wilt worden alleen <rhyme label="a" type="m" corresp="#s3:l1">verpoost</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Laet myn doch niet <rhyme label="b" type="f" corresp="#s3:l3">verslinden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick roep v jhesu ontfermt v <rhyme label="a" type="m">myns</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Hoert mynen roep oft <rhyme label="a" type="m" corresp="#s4:l1">andersins</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Moet ick verloren <rhyme label="b" type="f">bliuen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Drie serpenten vol <rhyme label="a" type="m" corresp="#s4:l1">fenijns</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Myn vervolghen alle <rhyme label="a" type="m" corresp="#s4:l1">sins</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Als die scrifturen ons <rhyme label="b" type="f" corresp="#s4:l3">bescriuen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ick dancke v here van hoghen <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">want mijnen strijt is wat <rhyme label="a" type="m" corresp="#s5:l1">versacht</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Int dencken van uwer <rhyme label="b" type="f">name</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Jhesus woort aen wort mijn <rhyme label="a" type="m" corresp="#s5:l1">gedachten</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Want daer in so vindick <rhyme label="a" type="m" corresp="#s5:l1">cracht</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Alle menschen seer <rhyme label="b" type="f" corresp="#s5:l3">bequame</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

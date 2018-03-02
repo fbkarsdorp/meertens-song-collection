@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2831</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody>Belgica loof de heer</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Belgycae loeft den <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">die alles heeft <rhyme label="b" type="f">begrepen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Die vyant sterck opt <rhyme label="a" type="m" corresp="#s1:l1">meer</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">met synen groete <rhyme label="b" type="f" corresp="#s1:l2">schepen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">en hoogen trotsen <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">leyt heel onder de <rhyme label="c" type="m" corresp="#s1:l5">voet</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">leit nu <rhyme label="d" type="m">voertreen</rhyme>/</l>
+        <l id="s1:l8" met="3" type="-+">doer syn armey <rhyme label="d" type="m" corresp="#s1:l7">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De groete spaensche <rhyme label="a" type="m">vloet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met soe meenich duisent <rhyme label="b" type="f">knechten</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">en parmae die soe <rhyme label="a" type="m" corresp="#s2:l1">groet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">hem stelde om te <rhyme label="b" type="f" corresp="#s2:l2">vechten</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">sy sin geworden <rhyme label="c" type="m">voersaecht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">al eer haer iemant <rhyme label="c" type="m" corresp="#s2:l5">jaecht</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">goedts sterke <rhyme label="d" type="m">hant</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">heeft haer gebracht tot <rhyme label="d" type="m" corresp="#s2:l7">schant</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gelyck als faeroe <rhyme label="a" type="m">fel</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">int roe meer is <rhyme label="b" type="f">gebleeuen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">en tsenaeserip <rhyme label="a" type="m" corresp="#s3:l1">snel</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Jeruselaem heeft <rhyme label="b" type="f" corresp="#s3:l2">begeeuen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">soe is den spaenschen <rhyme label="c" type="m">hont</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">voerdweenen nu ter <rhyme label="c" type="m" corresp="#s3:l5">stont</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">sijnen bloet <rhyme label="d" type="m">dorst</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">werde met waeter <rhyme label="d" type="m" corresp="#s3:l7">geblist</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Den prins die leide ons <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">verlost uit alle <rhyme label="b" type="f">lijden</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">gelyck belgykae <rhyme label="a" type="m" corresp="#s4:l1">schier</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">oeck wille met <rhyme label="b" type="f" corresp="#s4:l2">beuryde</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">loeft sinck met luider <rhyme label="c" type="m">stem</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">danckt godt eert pryst oeck <rhyme label="c" type="m" corresp="#s4:l5">hem</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">en maeckt <rhyme label="d" type="m">bekent</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">(dat) het liefde Ist <rhyme label="d" type="m" corresp="#s4:l7">fondament</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

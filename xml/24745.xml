@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24745</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>In noyale trouw fijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">In noyaelre trauwen <rhyme label="a" type="m">fijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Sonder fraude of <rhyme label="b" type="m">malengien</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Willic eewich haer dienre <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Want duecht ende vruecht doet si <rhyme label="b" type="m" corresp="#s1:l2">ghescien</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Haer edel wivelic zoete <rhyme label="b" type="m" corresp="#s1:l2">aenzien</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Staet binnen in mire hertzen <rhyme label="a" type="m" corresp="#s1:l1">scrijn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Naest gode so moet dat herte <rhyme label="a" type="m" corresp="#s1:l1">mijn</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Altoos bliven haer <rhyme label="a" type="m" corresp="#s1:l1">eighijn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al warich heinen over <rhyme label="a" type="m">rijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Gheheel soude haer mijn hertze <rhyme label="b" type="m">bliven</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Want haer wivelic <rhyme label="a" type="m" corresp="#s2:l1">anscijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En can men uut mi niet <rhyme label="b" type="m" corresp="#s2:l2">verdriven</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mine bliscap ware niet te <rhyme label="b" type="m" corresp="#s2:l2">scriven</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Gaefsoe mi troost een <rhyme label="a" type="m" corresp="#s2:l1">lettelkijn</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Naest gode so moet dat herte <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Altoos bliven haer <rhyme label="a" type="m" corresp="#s2:l1">eighijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hoe mochtic achten eenighe <rhyme label="a" type="m">pijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die mi haer minne doghen <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Want als die edel duutsche <rhyme label="a" type="m" corresp="#s3:l1">wijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Mach si verhueghen minen <rhyme label="b" type="m" corresp="#s3:l2">moet</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Wat soe mi doet docht mi niet <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ic ware onwetender dan een <rhyme label="a" type="m" corresp="#s3:l1">zwijn</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Naest gode so moet die hertze <rhyme label="a" type="m" corresp="#s3:l1">mijn</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Altoos bliven haer <rhyme label="a" type="m" corresp="#s3:l1">eighijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24966</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Ach zie voor dij trouw hart rein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat noode es minne van eenigher <rhyme label="a" type="m">tonghe</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Niet want haer weerck dat es haer <rhyme label="b" type="m">woort</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Al waert dat scaemt de spraek <rhyme label="b" type="m" corresp="#s1:l2">bedwonghe</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Haer weerck wil altoos commen <rhyme label="a" type="m" corresp="#s1:l1">voort</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Ach dat mer nu zo vele naer <rhyme label="c" type="m">hoort</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Naer woorden zonder weercx <rhyme label="d" type="f">acoort</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Des gaet den menighen rauwe an <rhyme label="e" type="m">hand</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Ach zich voor dich truw hertzen <rhyme label="d" type="f" corresp="#s1:l6">reyn</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Wil niet te lichtelijc wanen <rhyme label="e" type="m" corresp="#s1:l7">waers</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Want quantelicghen ende <rhyme label="e" type="m" corresp="#s1:l7">quantelaers</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Sijn nu <rhyme label="e" type="m" corresp="#s1:l7">ghemeyn</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">In Venus <rhyme label="c" type="m" corresp="#s1:l5">land</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waer moghen zij hebben gheweist ter <rhyme label="a" type="m">scolen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die quantelen hier ende quantelen <rhyme label="b" type="m">daer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ghebaren of zij van minnen <rhyme label="b" type="m" corresp="#s2:l2">dolen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ende.............dan scinet <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Dus trecken zij eenigher herten <rhyme label="c" type="m">naer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Waer zij dan comen zij vinden <rhyme label="d" type="f">paer</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Trauwe es bereet toot elker <rhyme label="e" type="m">hand</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Ach zich voor dich truw hertzen <rhyme label="d" type="f" corresp="#s2:l6">reyn</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Wil niet te lichtelijc wanen <rhyme label="e" type="m" corresp="#s2:l7">waers</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Want quantelicghen ende <rhyme label="e" type="m" corresp="#s2:l7">quantelaers</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Sijn nu <rhyme label="e" type="m" corresp="#s2:l7">ghemeyn</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">In Venus <rhyme label="c" type="m" corresp="#s2:l5">land</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wanneer zals Venus nemen <rhyme label="a" type="m">wrake</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat men haer weerck dus <rhyme label="b" type="m">corrumpeirt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Het doen de minres vander <rhyme label="b" type="m" corresp="#s3:l2">sprake</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Dat men met truwen nu <rhyme label="a" type="m" corresp="#s3:l1">bordeirt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Nochtan la doen zo wiet <rhyme label="c" type="m">uzeirt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Zijn loon wert noch <rhyme label="d" type="f">gheteermineirt</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Den quaetsten coop an zinen <rhyme label="e" type="m">cant</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Ach zich voor dich truw hertzen <rhyme label="d" type="f" corresp="#s3:l6">reyn</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Wil niet te lichtelijc wanen <rhyme label="e" type="m" corresp="#s3:l7">waers</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Want quantelicghen ende <rhyme label="e" type="m" corresp="#s3:l7">quantelaers</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Sijn nu <rhyme label="e" type="m" corresp="#s3:l7">ghemeyn</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">In Venus <rhyme label="c" type="m" corresp="#s3:l5">land</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

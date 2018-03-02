@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22208</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Psalm 101 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hy heeft my met zijn ghenade <rhyme label="a" type="f">beghoten</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Hy heeft mijn blinde oogen <rhyme label="a" type="f" corresp="#s1:l1">opgesloten</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Al haatmen my daerom/ nochtans ick <rhyme label="b" type="m">wil</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">niet swijgen <rhyme label="b" type="m" corresp="#s1:l3">stil</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Al ben ick vander Pharizeusche <rhyme label="a" type="f">schaaren</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Wt gestooten doen ick sulcx ghinck <rhyme label="a" type="f" corresp="#s2:l1">verclaren</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Al ist datmen my daerom schout en <rhyme label="b" type="m">mijt</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ick swijch toch <rhyme label="b" type="m" corresp="#s2:l3">niet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Niet dan te meer lusts heb ic te <rhyme label="a" type="f">verbreden</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Mijn salichmakers eer in allen <rhyme label="a" type="f" corresp="#s3:l1">steeden</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Warent tongen al mijns hoofts hayren <rhyme label="b" type="m">smal</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Su spraacken <rhyme label="b" type="m" corresp="#s3:l3">al</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Noch souden niet al cunnen <rhyme label="a" type="f">wtspreken</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Des Heeren deucht die my van mijn <rhyme label="a" type="f" corresp="#s4:l1">gebreken</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Genesen heeft/ tot zijns naams eer <rhyme label="b" type="m">alleen</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Wil ickt <rhyme label="b" type="m" corresp="#s4:l3">verbreen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Wat vraach ick na tPharizeusche <rhyme label="a" type="f">geslachte</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Die op des Heeren werck nemen geen <rhyme label="a" type="f" corresp="#s5:l1">achte</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Ick weet dat ick blint was en sie nu <rhyme label="b" type="m">tlicht</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Met claar <rhyme label="b" type="m" corresp="#s5:l3">gesicht</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Maar al seg ick haar sulcx met ware <rhyme label="a" type="f">reden</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">Sy loouent niet/ want d'wterlicke <rhyme label="a" type="f" corresp="#s6:l1">seden</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">Houdt noch leert ons Heer niet so zijt <rhyme label="b" type="m">verstaan</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">Daar sy op <rhyme label="b" type="m" corresp="#s6:l3">smaan</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Daarom moet onsen Prins een sondaar <rhyme label="a" type="f">heete</rhyme></l>
+        <l id="s7:l2" met="5" type="-+">Maar wy die blint geweest zijn so wy <rhyme label="a" type="f" corresp="#s7:l1">weeten</rhyme></l>
+        <l id="s7:l3" met="5" type="-+">Laat ons zijn duechden prijsen dach en <rhyme label="b" type="m">nacht</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Voor dit <rhyme label="b" type="m" corresp="#s7:l3">geslacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33083</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>love song</tag>
+      <tag>scenic song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Vitté du vin, vitté du vin; j'ay besoin du <rhyme label="a" type="m">vigeur</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">I'ay sur les bras une double <rhyme label="b" type="f">carelle</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Bacchus me trouble la <rhyme label="b" type="f" corresp="#s1:l2">cervelle</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Et l'amour attaqué mon <rhyme label="a" type="m" corresp="#s1:l1">coeur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

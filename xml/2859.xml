@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2859</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Uw liefde kwelt mij tot de dood</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">U liefde quelt <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">tot Inder <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Wel eedele schoen <rhyme label="c" type="f">goddinne</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Voerlicht uit <rhyme label="d" type="f">Jonste</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">u dienaers lijden <rhyme label="b" type="m" corresp="#s1:l2">groet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Eer Ick geheel <rhyme label="c" type="f" corresp="#s1:l3">voordwijne</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">en voergae al doer u <rhyme label="c" type="f" corresp="#s1:l3">minne</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Doen Ick u eerst <rhyme label="a" type="m">mael</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">met oogen aen <rhyme label="b" type="m">sach</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Jae eens van u hoerde <rhyme label="c" type="f">spreeke</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Doen heeft mijn <rhyme label="d" type="f">veenes</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">al op dat sellefie <rhyme label="b" type="m" corresp="#s2:l2">pas</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">al met sin liefde heel <rhyme label="c" type="f" corresp="#s2:l3">ontsteeken</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Is dat liefie niet een goedt <rhyme label="c" type="f" corresp="#s2:l3">teeken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Hoe komt het schoen <rhyme label="a" type="m">lief</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die om u <rhyme label="b" type="m">gaet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sijn vleis en sijn bloet <rhyme label="c" type="f">voerteeren</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Dat gij hem <rhyme label="d" type="f">weyggert</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">het aenschouwe vrouch en <rhyme label="b" type="m" corresp="#s3:l2">laet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">en u oechies van hem <rhyme label="c" type="f" corresp="#s3:l3">keere</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Die op u eer en duecht <rhyme label="c" type="f" corresp="#s3:l3">begeere</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">U eerbaere <rhyme label="a" type="m">weese</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">En duenck mijn liefie <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Te sin straf van <rhyme label="c" type="f">naetuere</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">maer goeder <rhyme label="d" type="f">tierent</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dus wilt al mijn <rhyme label="b" type="m" corresp="#s4:l2">voerdriet</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Wilt toch blussen al mijn <rhyme label="c" type="f" corresp="#s4:l3">trueren</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Of die doet moet Ick <rhyme label="c" type="f" corresp="#s4:l3">besueren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

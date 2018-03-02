@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26967</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>guard song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Woltt mich der wechter <rhyme label="a" type="f">wenckenn</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">nach meines hertzenn l <rhyme label="b" type="m">st</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Das ich mich nitt <rhyme label="a" type="f" corresp="#s1:l1">verschlepe</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">an meines liebenn br <rhyme label="b" type="m" corresp="#s1:l2">st</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">Jch hortt ein hornlein  <rhyme label="c" type="f">schallen</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">Junckfrewlein wecktt ewern <rhyme label="c" type="f" corresp="#s1:l5">gesellen</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">das ehr sich nitt <rhyme label="d" type="m">verschlap</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wie gernn woltt ich jnn <rhyme label="a" type="f">weckenn</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">den aller liebstenn <rhyme label="b" type="m">mein</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Jch fruchtt ehr soltt <rhyme label="a" type="f" corresp="#s2:l1">verschreckenn</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">sein hertz vnd auch das <rhyme label="b" type="m" corresp="#s2:l2">mein</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">Dan m sten mir zwei <rhyme label="c" type="f">scheidenn</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">so tra rtenn mir alle <rhyme label="c" type="f" corresp="#s2:l5">beidenn</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">Das thuett des tages <rhyme label="d" type="m">schein</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Och wechter wollest  <rhyme label="a" type="f">schweigenn</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">vnnd folgen meiner <rhyme label="b" type="m">lehr</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">Bei der liebstenn woltt ich <rhyme label="a" type="f" corresp="#s3:l1">pleibenn</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">verschlaffenn g itt vnnd <rhyme label="b" type="m" corresp="#s3:l2">ehr</rhyme> /</l>
+        <l id="s3:l5" met="3" type="-+">och wechter tra wer <rhyme label="c" type="f">geselle</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">wer mein lieb in der <rhyme label="c" type="f" corresp="#s3:l5">hellenn</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">bei jm so wollt ich <rhyme label="d" type="m">sein</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ehr nam sie bei den <rhyme label="a" type="f">hendenn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">bei jren schneweisser <rhyme label="b" type="m">handtt</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">ehr leidt sei also <rhyme label="a" type="f" corresp="#s4:l1">balde</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">dar ehr das bettelein <rhyme label="b" type="m" corresp="#s4:l2">fantt</rhyme> /</l>
+        <l id="s4:l5" met="3" type="-+">dar ligenn die zwei <rhyme label="c" type="f">verborgenn</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">bis an den lichtenn <rhyme label="c" type="f" corresp="#s4:l5">morgen</rhyme> /</l>
+        <l id="s4:l7" met="3" type="-+">das sich der tag a <rhyme label="d" type="m">ffbrach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25312</id>
+    <date>
+      <year-start>1451</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>new year song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Met deze nieuwe jaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Mit diesen nuwen <rhyme label="a" type="f">jaire</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">so wirt vns <rhyme label="a" type="f" corresp="#s1:l1">offenbaire</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">we dat eyn maghet <rhyme label="a" type="f" corresp="#s1:l1">fruchtbare</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">de werlet hait verblijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s1:l5">megdelijn</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s1:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mit diesen nuwen <rhyme label="a" type="f">jare</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">so wirt vns <rhyme label="a" type="f" corresp="#s2:l1">offenbare</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">we dat eyn maghet <rhyme label="a" type="f" corresp="#s2:l1">fruchtbaire</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">de werlt hait verblijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">geeirt moiss sijn dat <rhyme label="c" type="m" corresp="#s2:l5">megdelijn</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s2:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">We wal was yr zo <rhyme label="a" type="f">moide</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">do sij in vleisch ind <rhyme label="a" type="f" corresp="#s3:l1">bloide</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">an sach yrs hertzen <rhyme label="a" type="f" corresp="#s3:l1">hoide</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">den heren der werlde wijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s3:l5">megdelijn</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s3:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">De engele songen <rhyme label="a" type="f">schoene</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">gloria in den <rhyme label="a" type="f" corresp="#s4:l1">throne</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">zo eren ind ouch zo <rhyme label="a" type="f" corresp="#s4:l1">loue</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">des kyndes sicher sijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s4:l5">megdelijn</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s4:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Sie beirdeyn al sunder <rhyme label="a" type="f">pyne</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ind bleiff eyn maget <rhyme label="a" type="f" corresp="#s5:l1">fyne</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">des sunders <rhyme label="a" type="f" corresp="#s5:l1">medicine</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">des hatten die juden spijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s5:l5">megdelijn</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s5:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Als echtdage waren <rhyme label="a" type="f">verleden</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">do wart ihesus <rhyme label="a" type="f" corresp="#s6:l1">besneden</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">al na der judeschen <rhyme label="a" type="f" corresp="#s6:l1">seden</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">macht vnss van sunden quijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s6:l5">megdelijn</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s6:l4">zijt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Dre konyngen <rhyme label="a" type="f">vnbekande</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">quamen doin <rhyme label="a" type="f" corresp="#s7:l1">offerhande</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">so verre vss vremden <rhyme label="a" type="f" corresp="#s7:l1">lande</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">got sij gebenedijt <rhyme label="b" type="m">Repeticio</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Gelouet moiss sijn dat <rhyme label="c" type="m">kyndelijn</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">geeret moiss sijn dat <rhyme label="c" type="m" corresp="#s7:l5">megdelijn</rhyme></l>
+        <l id="s7:l7" met="5" type="-+">nv ind ewelich in alre <rhyme label="b" type="m" corresp="#s7:l4">zijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

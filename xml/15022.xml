@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15022</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Ballet O Heemskerk</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heemskerck! noyt u kloecke <rhyme label="a" type="m">daet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Uyt ons gedachten <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die met lust,, Na de <rhyme label="b" type="m">kust</rhyme>,,</l>
+        <l id="s1:l4" met="4" type="+-">Gibraltar// Voert so <rhyme label="c" type="m">var'</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">Om Maraen Daer wat op te <rhyme label="d" type="m">slaen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met menich kloecken <rhyme label="e" type="m">Held</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Die u te schepe was <rhyme label="e" type="m" corresp="#s1:l6">besteld</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Elck geaerd,, Als een <rhyme label="f" type="m">Leeu</rhyme>, ,</l>
+        <l id="s1:l9" met="4" type="+-">Onvervaerd,, Voort <rhyme label="f" type="m" corresp="#s1:l8">geschreeu</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Van het snoode Spaensch <rhyme label="g" type="m">gedrocht</rhyme>:</l>
+        <l id="s1:l11" met="4" type="+-">'tWas een wonder soo elck <rhyme label="g" type="m" corresp="#s1:l10">vocht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doe g'op den blaeuwen <rhyme label="a" type="m">Occeaen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Liet waeyen Staten <rhyme label="a" type="m" corresp="#s2:l1">vaen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Al't gebras,, datter <rhyme label="b" type="m">was</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Moste voort,, Over <rhyme label="c" type="m">boort</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">Daer versoop,, Schier meest al den <rhyme label="d" type="m">hoop</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">De Vlotten dreven <rhyme label="e" type="m">seer</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Vol Castiljanen heen en <rhyme label="e" type="m" corresp="#s2:l6">weer</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Groot krioel,, En <rhyme label="f" type="m">gewoel</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Sachmen daer,, Voor en <rhyme label="f" type="m" corresp="#s2:l8">naer</rhyme>;</l>
+        <l id="s2:l10" met="4" type="+-">Die best konde, packt hem <rhyme label="g" type="m">dra</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Op de vlucht, of tot <rhyme label="g" type="m" corresp="#s2:l10">gena</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daer bleef den trotsen <rhyme label="a" type="m">Arragon</rhyme>/</l>
+        <l id="s3:l2" met="3" type="-+">Grenaden end' <rhyme label="a" type="m" corresp="#s3:l1">Leon</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Haren roem,, Haer <rhyme label="b" type="m">geweld</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Als een bloem,, Lag <rhyme label="c" type="m">geveld</rhyme>,</l>
+        <l id="s3:l5" met="5" type="+-">Al haer macht,, werd meest om <rhyme label="d" type="m">gebracht</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">De lust vant Spaensch <rhyme label="e" type="m">gebroet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Die werd so lustig daer <rhyme label="e" type="m" corresp="#s3:l6">geboet</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Dat haer trots,, Hogen <rhyme label="f" type="m">moet</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Doe lag plots,, Onder <rhyme label="f" type="m" corresp="#s3:l8">voet</rhyme>;</l>
+        <l id="s3:l10" met="4" type="+-">Daer van d'hoogste God en <rhyme label="g" type="m">Heer</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Toequam lof, en prys en <rhyme label="g" type="m" corresp="#s3:l10">eer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

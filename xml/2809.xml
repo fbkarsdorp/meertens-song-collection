@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2809</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>In Oostenrijk daar staat een huis</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ficktoeryues, gebruick nu <rhyme label="a" type="m">hues</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Is nu gues, tis goedt <rhyme label="b" type="f">voermoegen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">klapmut seer prues, kick op syn <rhyme label="a" type="m" corresp="#s1:l1">nues</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat is syn lues, en moettet <rhyme label="b" type="f" corresp="#s1:l2">gedoegen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">syn oeuerdaet, hier niet en <rhyme label="c" type="m">baet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">hy met syn raet, vrouch ende <rhyme label="c" type="m" corresp="#s1:l5">laet</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">nae vranckryck <rhyme label="b" type="f" corresp="#s1:l2">toegen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Oeck aemeiel, dat was seer <rhyme label="a" type="m">fel</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En hielt hem snel, om te <rhyme label="b" type="f">beuechten</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">koenincks beuel, doet hem <rhyme label="a" type="m" corresp="#s2:l1">gequel</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">haer vals opstel, mocht niet uit <rhyme label="b" type="f" corresp="#s2:l2">rechten</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">naeuaeren blyt, wont het wiet <rhyme label="c" type="m">spit</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">klapmut dit lyt , hy ist al <rhyme label="c" type="m" corresp="#s2:l5">quit</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">maer hout syn <rhyme label="b" type="f" corresp="#s2:l2">knechten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Let op goedt macht, op syn woert <rhyme label="a" type="m">acht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">nassouwes macht, wilt eer <rhyme label="b" type="f">bewyse</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">den spaniaert Jacht, tot boesheit <rhyme label="a" type="m" corresp="#s3:l1">tracht</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">syn vals gedacht, tis een <rhyme label="b" type="f" corresp="#s3:l2">afgrysen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Prins vorst graaf hoert, gaet soe al <rhyme label="c" type="m">voert</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">met goedt ackoert, aen allen <rhyme label="c" type="m" corresp="#s3:l5">oert</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">salmen u <rhyme label="b" type="f" corresp="#s3:l2">prysen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prinse hoert klaer, ontfanckt dees <rhyme label="a" type="m">maer</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">oepen baer, wy leyden <rhyme label="b" type="f">liefde</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">heel onbeswaert, loof toch <rhyme label="a" type="m" corresp="#s4:l1">eenpaer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">die ons komt naer, wy u dit <rhyme label="b" type="f" corresp="#s4:l2">briefde</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">roet <rhyme label="c" type="m">exsoelent</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">waert tfondaement, het sou <rhyme label="c" type="m" corresp="#s4:l5">preesent</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">u bet <rhyme label="b" type="f" corresp="#s4:l2">geriefden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

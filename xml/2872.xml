@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2872</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Mijn zinnen zijn mij ontsteld</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een suiver roosie Ick vant <rhyme label="a" type="m">geplant</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">In tseemels <rhyme label="b" type="f">troene</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Gelijck een dieaemant <rhyme label="a" type="m" corresp="#s1:l1">plaesant</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">In goude <rhyme label="b" type="f" corresp="#s1:l2">schoene</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">het wasser een maechdeken klaer <rhyme label="a" type="m">voorwaer</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">meewaerdich <rhyme label="b" type="f">gepresen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">het Isser mij een kruis swaer van <rhyme label="a" type="m" corresp="#s2:l1">haer</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">te <rhyme label="b" type="f" corresp="#s2:l2">weesen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dus hebben mijn hier gewont <rhyme label="a" type="m">terstont</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Cuibijdoes <rhyme label="b" type="f">straelen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ter eere van haer wangkens <rhyme label="a" type="m" corresp="#s3:l1">ront</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">en mont gelijck <rhyme label="b" type="f" corresp="#s3:l2">koeraele</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Feninge tongen raet seer <rhyme label="a" type="m">quat</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">mijn dat <rhyme label="b" type="f">beniden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">en willen miJn desperaet met <rhyme label="a" type="m" corresp="#s4:l1">haet</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">van haer doen <rhyme label="b" type="f" corresp="#s4:l2">vlieden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus ben Ick om haer In noot seer <rhyme label="a" type="m">groet</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">tot aller <rhyme label="b" type="f">ueren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">In liefde en lijden <rhyme label="a" type="m" corresp="#s5:l1">groet</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">die doot Sal Ick <rhyme label="b" type="f" corresp="#s5:l2">besueren</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Prinse dit liet met leyt <rhyme label="a" type="m">beschreyt</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">tsy u gesongen godt neemt <rhyme label="b" type="f">ons</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">In sijn geleit voort <rhyme label="a" type="m" corresp="#s6:l1">tfeyt</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">van valsche <rhyme label="b" type="f" corresp="#s6:l2">tongen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

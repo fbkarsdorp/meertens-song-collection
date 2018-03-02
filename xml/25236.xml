@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25236</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Groote god van macht <rhyme label="a" type="m">onendt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">die alle tgene is <rhyme label="a" type="m" corresp="#s1:l1">present</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">natuerlijck water ghij <rhyme label="b" type="m">bestelt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">eensdeels in lucht, eensdeels opt <rhyme label="b" type="m" corresp="#s1:l3">velt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het een dringende neer in <rhyme label="a" type="m">zee</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">licht het ander ten hemel <rhyme label="a" type="m" corresp="#s2:l1">dwee</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">sulcx den natuer in plaets <rhyme label="b" type="m">diuers</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">nae v behagen blijue <rhyme label="b" type="m" corresp="#s2:l3">vers</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Geeft heer v dienaren <rhyme label="a" type="m">gelijk</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">die met bloedich water vuijt <rhyme label="a" type="m" corresp="#s3:l1">slijk</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">gewasschen zijn sij blijuen <rhyme label="b" type="m">reijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">van sondt en van doets leet <rhyme label="b" type="m" corresp="#s3:l3">gemeijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">dat niemant van schult wert <rhyme label="a" type="m">verdruckt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">omeet oock niet verheft oft <rhyme label="a" type="m" corresp="#s4:l1">plucht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">noch thert gedriecht, come tot <rhyme label="b" type="m">val</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">noch geeft verheuen neer ten <rhyme label="b" type="m" corresp="#s4:l3">dal</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7524</id>
+    <date>
+      <year-start>1480</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>Begeerte nu vlieg ten hemel op</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Begheerte nu vlieghet ten hemel <rhyme label="a" type="m">op</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Gruet my mijn lief ende segt hem <rhyme label="a" type="m" corresp="#s1:l1">lof</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s1:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s1:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Segt hem dat ic van mynne <rhyme label="a" type="m">quel</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Het gaet mit my al uut den <rhyme label="a" type="m" corresp="#s2:l1">spel</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s2:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s2:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sijn mynne steet vast in minen <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En wils niet meer, mi en doechs niet <rhyme label="a" type="m" corresp="#s3:l1">min</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s3:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s3:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nymmermeer en werde ic <rhyme label="a" type="m">ghesont</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sijn hoghe mynne sy my <rhyme label="a" type="m" corresp="#s4:l1">kont</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s4:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s4:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hi heeft my in mynen gront <rhyme label="a" type="m">gheraect</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Sijn stralen sijn weder <rhyme label="a" type="m" corresp="#s5:l1">ghehaect</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s5:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s5:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hi is een suete <rhyme label="a" type="m">honichvloet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Die droghen harten groyen <rhyme label="a" type="m" corresp="#s6:l1">doet</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s6:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s6:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Hi mach wel draghen gueden <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Die mynt dat onghescapen <rhyme label="a" type="m" corresp="#s7:l1">goet</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s7:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s7:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">O ziele wilt ghi nu meyen <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Gan dair seraphin gulden harpen <rhyme label="a" type="m" corresp="#s8:l1">slaen</rhyme></l>
+        <l id="s8:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s8:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s8:l3">misericordie</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Al dair is clanc ende <rhyme label="a" type="m">overclanc</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Dair is der sueter mynnen <rhyme label="a" type="m" corresp="#s9:l1">sanc</rhyme></l>
+        <l id="s9:l3" met="2" type="-+">Rex <rhyme label="b" type="m">glorie</rhyme></l>
+        <l id="s9:l4" met="6" type="+-">deus omnipotens <rhyme label="b" type="m" corresp="#s9:l3">misericordie</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

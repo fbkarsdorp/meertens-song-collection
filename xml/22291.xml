@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22291</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scriptural song</tag>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Psalm 010 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Uerheft v Heer en swijcht nv langer <rhyme label="a" type="m">niet</rhyme>/</l>
+        <l id="s1:l2" met="5" type="-+">Maackt v nv op en treet met machte <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">De boosen doen d'onschuldigen <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>/</l>
+        <l id="s1:l4" met="5" type="-+">Ghy zijt een Godt die sulcx wel siet en <rhyme label="b" type="m" corresp="#s1:l2">hoort</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">V schapen gaan nu verstroyt suydt en <rhyme label="b" type="m" corresp="#s1:l2">noort</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Maar ghy sylt Heer genadelick <rhyme label="c" type="f">verhooren</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Tgebeth des worstelaars comt voor v <rhyme label="c" type="f" corresp="#s1:l6">ooren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Heer v gerucht nu ouer al <rhyme label="a" type="m">wtgaat</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Want ghy hebt v nu tot den strijt <rhyme label="b" type="m">bereyt</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Tegens als v vyanden boos en <rhyme label="a" type="m" corresp="#s2:l1">quaat</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">T'eertrijck wort vol van uwer <rhyme label="b" type="m" corresp="#s2:l2">heerlicheyt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">V loff en eer wort ouer al <rhyme label="b" type="m" corresp="#s2:l2">verbreyt</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Der Mooren hutten nu in onrust <rhyme label="c" type="f">leuen</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">De tenten der Midianiten <rhyme label="c" type="f" corresp="#s2:l6">beuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De waterstroom mach nu zijn ganc gaen <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Ghy deylt de wateren met macht van <rhyme label="b" type="m">een</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Ghy maact het uwen Soon al <rhyme label="a" type="m" corresp="#s3:l1">onderdaan</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Die nu ons Veltheer is en anders <rhyme label="b" type="m" corresp="#s3:l2">geen</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Son/ maan moet stil staen hem tot dienst <rhyme label="b" type="m" corresp="#s3:l2">alleen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Want hy is onsen Josue int <rhyme label="c" type="f">strijden</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Zijn wil sal oock geschieden in dees <rhyme label="c" type="f" corresp="#s3:l6">tijden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">want Godt heeft nu zijn harnas an <rhyme label="a" type="m">gedaan</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">En hem geweldich tot den strijt <rhyme label="b" type="m">bereyt</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Om zijn gesallefden nu by te <rhyme label="a" type="m" corresp="#s4:l1">staan</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">So hy hem heeft belooft en <rhyme label="b" type="m" corresp="#s4:l2">toegeseyt</rhyme>/</l>
+        <l id="s4:l5" met="5" type="-+">Och mocht hy nu rusten in <rhyme label="b" type="m" corresp="#s4:l2">stillicheyt</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Nu hy op treckt tegens al zijn <rhyme label="c" type="f">vyanden</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">Die hem nu bestrijden <rhyme label="c" type="f" corresp="#s4:l6">mennigerhanden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Men siet dat nu de ackers dorre <rhyme label="a" type="m">staan</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">De schapen worden nu getrocken <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Wt haar koyen/ daar sy in zijn <rhyme label="a" type="m" corresp="#s5:l1">gegaan</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">De Runders moeten oock elck wt haar <rhyme label="b" type="m" corresp="#s5:l2">stal</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Tlant staat in droefheyt ick sie Babels <rhyme label="b" type="m" corresp="#s5:l2">val</rhyme></l>
+        <l id="s5:l6" met="5" type="-+">Maar Habacuc singt en speelt op zijn <rhyme label="c" type="f">snaaren</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">So weet Godt zijn worstelaars te <rhyme label="c" type="f" corresp="#s5:l6">bewaren</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Cristus van Godt gesalft is nu ons <rhyme label="a" type="m">hooft</rhyme>/</l>
+        <l id="s6:l2" met="5" type="-+">Die nu voor ons heen gaat/ als een cloeck <rhyme label="b" type="m">helt</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">Caleb sal sien tgeen dat hem is <rhyme label="a" type="m" corresp="#s6:l1">belooft</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">Ons vyanden moeten nu wt het <rhyme label="b" type="m" corresp="#s6:l2">velt</rhyme></l>
+        <l id="s6:l5" met="5" type="-+">Ons saacken zijn in Godts handen <rhyme label="b" type="m" corresp="#s6:l2">gestelt</rhyme></l>
+        <l id="s6:l6" met="5" type="-+">Geen ander Richter wy als nu <rhyme label="c" type="f">begeeren</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">Om ons saack wt te richten tzijnder <rhyme label="c" type="f" corresp="#s6:l6">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Want hem kennen wy in alles <rhyme label="a" type="m">oprecht</rhyme></l>
+        <l id="s7:l2" met="5" type="-+">Wy weten/ hy sal geen persoon <rhyme label="b" type="m">aansien</rhyme></l>
+        <l id="s7:l3" met="5" type="-+">Godt sal verhooren Josue zijn <rhyme label="a" type="m" corresp="#s7:l1">knecht</rhyme>/</l>
+        <l id="s7:l4" met="5" type="-+">Wat hem belieft sal Godt laten <rhyme label="b" type="m" corresp="#s7:l2">geschien</rhyme></l>
+        <l id="s7:l5" met="5" type="-+">Daarom verdagen wy nu ons <rhyme label="b" type="m" corresp="#s7:l2">partien</rhyme></l>
+        <l id="s7:l6" met="5" type="-+">Voor hem dat sy nu mede sonder <rhyme label="c" type="f">beuen</rhyme></l>
+        <l id="s7:l7" met="5" type="-+">Haar saack hem in zijn handen sullen <rhyme label="c" type="f" corresp="#s7:l6">geuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

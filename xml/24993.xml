@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24993</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sol ein legender <rhyme label="a" type="m">getelinch</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den vrouwen alzo wal <rhyme label="b" type="f">behagen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Der nye siin lijp oph eynen <rhyme label="a" type="m" corresp="#s1:l1">rinch</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Voyrte dorch eyn <rhyme label="b" type="f" corresp="#s1:l2">prijs-beiagen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Zam eynre, die lijp unde <rhyme label="c" type="m">groyt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">In vrouwendienste wagent <rhyme label="d" type="m">taer</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'t Si in scymphe odir ernst <rhyme label="d" type="m" corresp="#s1:l6">wayr</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Das were eyn ongevoeger <rhyme label="c" type="m" corresp="#s1:l5">moyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ir edele suese vrouwen <rhyme label="a" type="m">goyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Deyt nach den alden <rhyme label="b" type="f">werdicheyt</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Wer nicht have ritterlijcher <rhyme label="a" type="m" corresp="#s2:l1">moyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dem layst uch yummer wesen <rhyme label="b" type="f" corresp="#s2:l2">leyt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Het was ye gueter vrouwen <rhyme label="c" type="m">zit</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wer ritterlijche voeghe <rhyme label="d" type="m">drege</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Dem goeten lobyit alle <rhyme label="d" type="m" corresp="#s2:l6">taghe</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Zo volget uch vrouwe Salde <rhyme label="c" type="m" corresp="#s2:l5">mit</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zint vrouwen guete unde <rhyme label="a" type="m">ritterscaft</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Mit ynnicheyt eynander <rhyme label="b" type="f">ghern</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">So sint beyde wol yr beyder <rhyme label="a" type="m" corresp="#s3:l1">craft</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Das eyn ander so <rhyme label="b" type="f" corresp="#s3:l2">geweren</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Wolde guete danchyn byrve <rhyme label="c" type="m">tayt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">So sulde ritterscap zich <rhyme label="d" type="m">cyren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Dem goeten tso hoyn prise <rhyme label="d" type="m" corresp="#s3:l6">kyeren</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Zulc moyt vil lobes erworven <rhyme label="c" type="m" corresp="#s3:l5">hayt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2780</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Ik lijd in het hart pijn ongewoon</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ick ly int hert pyn <rhyme label="a" type="m">ongewont</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">En kans <rhyme label="b" type="f">voerdraegen</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Wien sal ick <rhyme label="b" type="f" corresp="#s1:l2">claegen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die schoenheit van myn liefs <rhyme label="a" type="m" corresp="#s1:l1">persoen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Die myn doet <rhyme label="b" type="f" corresp="#s1:l2">Jaegen</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">In Veenes <rhyme label="b" type="f" corresp="#s1:l2">laegen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">In die myn thart <rhyme label="c" type="m">doerschoet</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Lief Int <rhyme label="d" type="f">seekreete</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">maer eylaes noeit meerder <rhyme label="c" type="m" corresp="#s1:l7">noet</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Diet thert uit Jonste <rhyme label="c" type="m" corresp="#s1:l7">boet</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">en wilt niet <rhyme label="d" type="f" corresp="#s1:l8">weeten</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

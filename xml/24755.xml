@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24755</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Mijn hart ontbiedt u lieve dag</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn herte onbiedt u lieven <rhyme label="a" type="m">dach</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Alleine vrouwe <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Reinre wijf ic nie <rhyme label="a" type="m" corresp="#s1:l1">ghesach</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In trouwen also <rhyme label="b" type="m" corresp="#s1:l2">fijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ende ic wil u ghestade <rhyme label="b" type="m" corresp="#s1:l2">zijn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn zin mijn moet wat ic <rhyme label="a" type="m">vermach</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Aenstu mijn wijflic <rhyme label="b" type="m">scijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Recht dwincstu mi al sonder <rhyme label="a" type="m" corresp="#s2:l1">slach</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ic bem te male <rhyme label="b" type="m" corresp="#s2:l2">dijn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende ic wil u ghestade <rhyme label="b" type="m" corresp="#s2:l2">sijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mi aenstu al sonder <rhyme label="a" type="m">verdrach</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Al waric over <rhyme label="b" type="m">rijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Rouct mijns mijn vrouwe hoort mijn <rhyme label="a" type="m" corresp="#s3:l1">gheclach</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Jont mi recht loon na <rhyme label="b" type="m" corresp="#s3:l2">pijn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ende ic wil u ghestade <rhyme label="b" type="m" corresp="#s3:l2">zijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

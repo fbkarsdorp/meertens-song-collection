@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24781</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>narrative song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Ik zag in een rozengaarde</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich sach in enen <rhyme label="a" type="f">rozengaerde</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van sconen bloumen maken eenen <rhyme label="b" type="m">hoet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die gaf een wijf van reinen <rhyme label="a" type="f" corresp="#s1:l1">aerde</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Enen ouden grisen man die bi haer <rhyme label="b" type="m" corresp="#s1:l2">stoet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Totem so sprac dat beilde <rhyme label="b" type="m" corresp="#s1:l2">zoet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Here ic hebbe u in rechter <rhyme label="a" type="f" corresp="#s1:l1">waerde</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">U eyghin <rhyme label="c" type="m">vry</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">So gevic <rhyme label="c" type="m" corresp="#s1:l7">mi</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Mettien sprac <rhyme label="c" type="m" corresp="#s1:l7">hi</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Des dankic <rhyme label="c" type="m" corresp="#s1:l7">di</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Hi sat daer <rhyme label="c" type="m" corresp="#s1:l7">bi</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">Met sinen langhen <rhyme label="a" type="f" corresp="#s1:l1">baerde</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Langher doe ic niet ne <rhyme label="a" type="f">spaerde</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ic groete dat wivelic beilde <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Scaemte in haer doe meest <rhyme label="a" type="f" corresp="#s2:l1">verbaerde</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Si sprac vilein mi dinct dat ghi <rhyme label="b" type="m" corresp="#s2:l2">mesdoet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Doet van den bloumen uwen <rhyme label="b" type="m" corresp="#s2:l2">voet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Maect u van hier ende gaet uwer <rhyme label="a" type="f" corresp="#s2:l1">vaerde</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Dat wijflic <rhyme label="c" type="m">scijn</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Was eighin <rhyme label="c" type="m" corresp="#s2:l7">zijn</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Des hadde ic <rhyme label="c" type="m" corresp="#s2:l7">pijn</rhyme></l>
+        <l id="s2:l10" met="2" type="-+">Int herte <rhyme label="c" type="m" corresp="#s2:l7">mijn</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Hi gaf enen <rhyme label="c" type="m" corresp="#s2:l7">grijn</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Des mi de zin <rhyme label="a" type="f" corresp="#s2:l1">verzwaerde</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ic sprac mi wondert scone <rhyme label="a" type="f">vrouwe</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wat ghi versiet an desen kerel <rhyme label="b" type="m">out</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Minne ende jonst in rechter <rhyme label="a" type="f" corresp="#s3:l1">trouwe</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Salic u gheven zelver ende <rhyme label="b" type="m" corresp="#s3:l2">gout</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">So gaf mi orlof <rhyme label="b" type="m" corresp="#s3:l2">menichfout</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Mi dert seit soe dat ic u <rhyme label="a" type="f" corresp="#s3:l1">scauwe</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Laet mi <rhyme label="c" type="m">allein</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Mettem <rhyme label="c" type="m" corresp="#s3:l7">ghemein</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Sijn trauwe es <rhyme label="c" type="m" corresp="#s3:l7">reyn</rhyme></l>
+        <l id="s3:l10" met="2" type="-+">Sijn ontrauwe <rhyme label="c" type="m" corresp="#s3:l7">clein</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">U ja es <rhyme label="c" type="m" corresp="#s3:l7">nein</rhyme></l>
+        <l id="s3:l12" met="3" type="-+">Alsulc ic gein <rhyme label="a" type="f" corresp="#s3:l1">ghelauwe</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghestadich hout hi herte ende <rhyme label="a" type="f">zinne</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sijn duecht verchiert sijn anscijn <rhyme label="b" type="m">scoon</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hier omme eist recht dat icken <rhyme label="a" type="f" corresp="#s4:l1">minne</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Den hoet ende ic dat es sijn <rhyme label="b" type="m" corresp="#s4:l2">loon</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Hu minne es hoon ghi sijts <rhyme label="b" type="m" corresp="#s4:l2">ghewoon</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dus willic houden dat ic <rhyme label="a" type="f" corresp="#s4:l1">kinne</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">De kerel <rhyme label="c" type="m">grijs</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Was haer <rhyme label="c" type="m" corresp="#s4:l7">amijs</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Na haer <rhyme label="c" type="m" corresp="#s4:l7">avijs</rhyme></l>
+        <l id="s4:l10" met="2" type="-+">Haddi den <rhyme label="c" type="m" corresp="#s4:l7">prijs</rhyme></l>
+        <l id="s4:l11" met="2" type="+-">De vrauwe <rhyme label="c" type="m" corresp="#s4:l7">jolijs</rhyme></l>
+        <l id="s4:l12" met="3" type="-+">Die nammen bi den <rhyme label="a" type="f" corresp="#s4:l1">kinne</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

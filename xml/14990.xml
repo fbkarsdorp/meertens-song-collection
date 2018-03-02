@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14990</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>political song</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody>Onze Heer God heeft hier beneden</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="+-">Onse Heere God heeft hier beneden,, Goden oock <rhyme label="a" type="m">gestelt</rhyme>,</l>
+        <l id="s1:l2" met="7" type="+-">Op dat op der aerd, Syn gerecht mocht syn <rhyme label="b" type="m">bewaert</rhyme>.</l>
+        <l id="s1:l3" met="8" type="+-">En de goede woonen mocht met vreden,, Die daer lyd <rhyme label="a" type="m" corresp="#s1:l1">gewelt</rhyme>,</l>
+        <l id="s1:l4" met="7" type="+-">En der quaden quaet,, Mocht gestraft zyn naer de <rhyme label="c" type="m">daet</rhyme>.</l>
+        <l id="s1:l5" met="6" type="+-">Alsmen t'onsen tyden, Om ons te <rhyme label="d" type="f">bevryden</rhyme>,,</l>
+        <l id="s1:l6" met="5" type="+-">Sag bereyt,, Hare <rhyme label="e" type="m">Majesteyt</rhyme>;</l>
+        <l id="s1:l7" met="8" type="+-">Die door dryving' van Gods geest, Ons soo hulpsaem is <rhyme label="f" type="m">geweest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="+-">Seer bescheydentlyck sy eerst ging mercken,, En wel <rhyme label="a" type="m">onderstaen</rhyme></l>
+        <l id="s2:l2" met="7" type="+-">Hoe de Spanjaert heeft,, Hier met t'arme volck <rhyme label="b" type="m">geleeft</rhyme>;</l>
+        <l id="s2:l3" met="8" type="+-">Wat ellend en smert hy Godes kercken,, Al heeft <rhyme label="a" type="m" corresp="#s2:l1">aengedaen</rhyme></l>
+        <l id="s2:l4" met="7" type="+-">Hoe aen allen end',, Hy gemoort heeft en <rhyme label="c" type="m">geschend</rhyme>.</l>
+        <l id="s2:l5" met="6" type="+-">Dies sy seer medogend',, Wat sy was <rhyme label="d" type="f">vermogend'</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Ons biet aen,, sonder af te <rhyme label="e" type="m">slaen</rhyme>,</l>
+        <l id="s2:l7" met="8" type="+-">Hulp van gelt en volck met macht,, Doe wy lagen als <rhyme label="f" type="m">versmacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="+-">Hoog geboren Vrouw' en Coninginne,, V sy grooten <rhyme label="a" type="m">danck</rhyme>,</l>
+        <l id="s3:l2" met="7" type="+-">Voor dit groote goet,, Dat u Majesteyt ons <rhyme label="b" type="m">doet</rhyme>;</l>
+        <l id="s3:l3" met="8" type="+-">'Tis voorwaer een stuck van rechte minne,, 'tWelck ons leven <rhyme label="a" type="m" corresp="#s3:l1">lanck</rhyme>,</l>
+        <l id="s3:l4" met="7" type="+-">Waer wy neder slaen,, Noyt uyt ons gedacht' sal <rhyme label="c" type="m">gaen</rhyme>.</l>
+        <l id="s3:l5" met="6" type="+-">God wil u daer voren,, Wederom <rhyme label="d" type="f">verhooren</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">En soo seer,, Oock al u <rhyme label="e" type="m">begeer</rhyme></l>
+        <l id="s3:l7" met="8" type="+-">Geven in dit aertsche dal,, 'teeuwig leven boven <rhyme label="f" type="m">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

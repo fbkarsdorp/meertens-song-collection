@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26936</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Rijke God wie zal ik klagen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ach Gott wem sall ich <rhyme label="a" type="f">clagenn</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">das ich jm ellendtt <rhyme label="b" type="m">bin</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">mein hertz will mir <rhyme label="a" type="f" corresp="#s1:l1">vertzagen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">wan ich gedenck an <rhyme label="b" type="m" corresp="#s1:l2">sei</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">es gahett sich an <rhyme label="c" type="f">scheidenn</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">o wee der groster <rhyme label="d" type="m">noth</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">geschechtt eß zwischenn vnß <rhyme label="c" type="f" corresp="#s1:l5">beiden</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">des erbarmen dich <rhyme label="d" type="m" corresp="#s1:l6">gott</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach zarte J nckfrawe <rhyme label="a" type="f">reine</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">bedenck dein <rhyme label="b" type="m">stettigheitt</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Jn trewen ich dich <rhyme label="a" type="f" corresp="#s2:l1">meinenn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">mein hertz ist dir <rhyme label="b" type="m" corresp="#s2:l2">bereitt</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">a ff dich han ich <rhyme label="c" type="f">gebauwett</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">wie off einen hartenn steinen gr <rhyme label="d" type="m">ndt</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">mich en kan keinenn weib <rhyme label="c" type="f" corresp="#s2:l5">erfrewenn</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">dan lieb dein roter m <rhyme label="d" type="m" corresp="#s2:l6">ndt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

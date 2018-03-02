@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29965</id>
+    <date>
+      <year-start>1526</year-start>
+      <year-end>1575</year-end>
+    </date>
+    <location>
+      <orginal-name>jutphaas of omgeving</orginal-name>
+      <standard-name>Jutphaas, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0358004</lon>
+        <lat>5.0708647</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Shrove Tuesday song</tag>
+    </tags>
+    <melody>Moeten wij eten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">Moeten wij <rhyme label="a" type="f">eeten</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Moeten wij <rhyme label="a" type="f" corresp="#s1:l1">vergeten</rhyme></l>
+        <l id="s1:l3" met="2" type="+-">moeten aen <rhyme label="b" type="m">mee</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Wij zijn <rhyme label="b" type="m" corresp="#s1:l3">tevree</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">sijn soet Is <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">al op dit <rhyme label="d" type="m">pad</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">wij <rhyme label="e" type="f">vijsten</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">coemt Dus aen <rhyme label="f" type="m">hoort</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">hyer mee soe <rhyme label="g" type="m">gae</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Die vasten die <rhyme label="h" type="f">vasten</rhyme></l>
+        <l id="s1:l11" met="2" type="-+">hier mee soe <rhyme label="g" type="m" corresp="#s1:l9">gaet</rhyme></l>
+        <l id="s1:l12" met="2" type="+-">die vasten <rhyme label="f" type="m" corresp="#s1:l8">woort</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29590</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden?</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Nu zijt wellekome</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Nu sijt willekome Jesu lieven <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Gij komt van alsoo hoge, van alsoo <rhyme label="a" type="m" corresp="#s1:l1">veer</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Nu sijt willekome van den hoghen hemel <rhyme label="b" type="m">neer</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Hier al in dit aertrijck zijt gij gesien noijt <rhyme label="b" type="m" corresp="#s1:l3">meer</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+"><rhyme label="c" type="m">Kirieleys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Christe kijrieleyson laet ons singhen <rhyme label="a" type="m">blij</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Daer meed oock onse leijsen beghinnen <rhyme label="a" type="m" corresp="#s2:l1">vrij</rhyme>.</l>
+        <l id="s2:l3" met="6" type="-+">Jesus is geboren op den heijligen <rhyme label="b" type="m">kersnacht</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Van een maget reijne, die hoogh moet sijn <rhyme label="b" type="m" corresp="#s2:l3">geacht</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+"><rhyme label="c" type="m">Kirieleys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">D'herders op den velde hoorden een nieu <rhyme label="a" type="m">liedt</rhyme>.</l>
+        <l id="s3:l2" met="5" type="-+">Dat Jesus was geboren, sij wisten 't <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme>.</l>
+        <l id="s3:l3" met="6" type="-+">Gaet aen geender straten, en ghij sult hem vinden <rhyme label="b" type="m">klaer</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Bethlem is de stede daer 't is geschiet <rhyme label="b" type="m" corresp="#s3:l3">voorwaer</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+"><rhyme label="c" type="m">Kirieleys</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">D'heijlige drie koon'ghen uijt soo verren <rhyme label="a" type="m">landt</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Sij sochten onsen Heere met <rhyme label="a" type="m" corresp="#s4:l1">offerhandt</rhyme>.</l>
+        <l id="s4:l3" met="6" type="-+">S'offerden oytmoedelijck myrh, wieroock ende <rhyme label="b" type="m">goudt</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Teeren van den kinde, dat alle dinck <rhyme label="b" type="m" corresp="#s4:l3">behoudt</rhyme>.</l>
+        <l id="s4:l5" met="2" type="-+"><rhyme label="c" type="m">Kirieleys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

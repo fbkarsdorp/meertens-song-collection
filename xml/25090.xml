@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25090</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die spiegel der genaden <rhyme label="a" type="m">sijt</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Helpt ons noch na deser <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Daer die bliscap niet en <rhyme label="b" type="m">yndt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die vroude en nemt daer geen <rhyme label="a" type="m">inde</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daer en es siecheit noch <rhyme label="a" type="m" corresp="#s2:l1">allinde</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">In die hemelsche suete <rhyme label="b" type="m">stat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sonder mate es daer <rhyme label="a" type="m">iolijt</rhyme>.</l>
+        <l id="s3:l2" met="4" type="-+">Eewelijc duerende sonder <rhyme label="a" type="m" corresp="#s3:l1">tijt</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Die coninc hout daer altoes <rhyme label="b" type="m">hof</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sonder sorge machmen daer <rhyme label="a" type="m">houen</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Die mechtich coninc van <rhyme label="a" type="m" corresp="#s4:l1">hierbouen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hi betaelt altoes <rhyme label="b" type="m">gelach</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sijn open herte edel en <rhyme label="a" type="m">fijn</rhyme>.</l>
+        <l id="s5:l2" met="4" type="-+">Dat scinct daer den coelen <rhyme label="a" type="m" corresp="#s5:l1">wijn</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Die daer altoes <rhyme label="b" type="m">ouervloeyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Een leuende fonteyne daer altoes <rhyme label="a" type="m">groyt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Met v aderen si <rhyme label="a" type="m" corresp="#s6:l1">ouervloeyt</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Daer leet die scat des hemels <rhyme label="b" type="m">in</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dat steruen es daer al <rhyme label="a" type="m">verdreuen</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Men can daer niet dan blidelic <rhyme label="a" type="m" corresp="#s7:l1">leuen</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Inden sconen bloyenden <rhyme label="b" type="m">mey</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Hitte noch coude noch geen <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">En heeft die lieue geselscap <rhyme label="a" type="m" corresp="#s8:l1">niet</rhyme>.</l>
+        <l id="s8:l3" met="4" type="-+">Si sijn in vroudich sonne <rhyme label="b" type="m">scijn</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Ic ben daer ballinc dats my te <rhyme label="a" type="m">sware</rhyme>.</l>
+        <l id="s9:l2" met="4" type="-+">In die suete hemelsche <rhyme label="a" type="m" corresp="#s9:l1">scare</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Daer ic kint der genaden soude <rhyme label="b" type="m">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Die heere heeft ons daer terwe <rhyme label="a" type="m">geset</rhyme>.</l>
+        <l id="s10:l2" met="4" type="-+">Daer die ingelen houden die <rhyme label="a" type="m" corresp="#s10:l1">wet</rhyme>.</l>
+        <l id="s10:l3" met="4" type="-+">Lieue heere wilt ons daer <rhyme label="b" type="m">ontfaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30400</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Vrauwe ere het groissen szaden ir clage is <rhyme label="a" type="m">manichvalt</rhyme>.</l>
+        <l id="s1:l2" met="6" type="-+">si clait wa junge herren mit bosin worden <rhyme label="a" type="m" corresp="#s1:l1">balt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">si clait wa eyn reyne berve <rhyme label="b" type="m">wip</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">wirt eyme argin bosin manne <rhyme label="c" type="f">erszaffen</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">Si clait uch wa dye gode lant niet wail beherit <rhyme label="d" type="m">sint</rhyme>.</l>
+        <l id="s1:l6" met="6" type="-+">Si clait uch wa eyn bierve dem bosin git sin <rhyme label="d" type="m" corresp="#s1:l5">kint</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Si clait wa tuginder loser <rhyme label="b" type="m" corresp="#s1:l3">wip</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">wirt zu eyme rigin kargin <rhyme label="c" type="f" corresp="#s1:l4">paffin</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Si clait uch me das dut ir <rhyme label="e" type="m">noit</rhyme>.</l>
+        <l id="s1:l10" met="5" type="-+">das man untruwe vor dye truwe <rhyme label="f" type="f">minnit</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">Si clait uch milter herrin <rhyme label="e" type="m" corresp="#s1:l9">doyt</rhyme>.</l>
+        <l id="s1:l12" met="7" type="-+">Si clait uch wa den bidervin manne des goit das he <rhyme label="f" type="f" corresp="#s1:l10">cerinnit</rhyme>.</l>
+        <l id="s1:l13" met="6" type="-+">Si clait das man de lugene lever het dan dye <rhyme label="g" type="m">wareit</rhyme>.</l>
+        <l id="s1:l14" met="9" type="-+">si clait dat wiseit ervit niet unde edille dugint dat het si gode <rhyme label="g" type="m" corresp="#s1:l13">gecleyt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

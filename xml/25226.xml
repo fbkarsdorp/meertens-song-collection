@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25226</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Duijster, ende nacht, neuel <rhyme label="a" type="m">confuijs</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">onroer des wereld en <rhyme label="a" type="m" corresp="#s1:l1">gedruijs</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">het licht compt inden hemel <rhyme label="b" type="m">fier</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">christus die compt vertreck van <rhyme label="b" type="m" corresp="#s1:l3">hier</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den neuel op de aert te <rhyme label="a" type="m">mael</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">wort geslagen met sonnen <rhyme label="a" type="m" corresp="#s2:l1">strael</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">door schijnen van het hemels <rhyme label="b" type="m">licht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">men siet die aert van god <rhyme label="b" type="m" corresp="#s2:l3">gesticht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">V christe kennen wij <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">met suijuer hart en simpel <rhyme label="a" type="m" corresp="#s3:l1">meen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">met sangh en traen wij bidden <rhyme label="b" type="m">claer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">let op ons sin en woort te <rhyme label="b" type="m" corresp="#s3:l3">gaer</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">veel sijnder met listen <rhyme label="a" type="m">bedeckt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">die door v licht worden <rhyme label="a" type="m" corresp="#s4:l1">oprecht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">ghij sijt het licht der lichten <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">door blijde scijn verlicht ons <rhyme label="b" type="m" corresp="#s4:l3">val</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit gunne vader <rhyme label="a" type="m">godertier</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Oeck ghij die vader sijt <rhyme label="a" type="m" corresp="#s5:l1">gelijck</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">met den geest ons trooster <rhyme label="b" type="m">hier</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">regnerende dies <rhyme label="b" type="m" corresp="#s5:l3">ewelijk</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

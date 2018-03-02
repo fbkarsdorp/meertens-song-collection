@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38708</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Schone Cato</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Lest als ick <rhyme label="a" type="m">quam</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">een groenen bos-waerd <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">t'Gheen ick <rhyme label="a" type="m" corresp="#s1:l1">vernam</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">spelt my noch inden <rhyme label="b" type="m" corresp="#s1:l2">sin</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Van vreught <rhyme label="c" type="m">berooft</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">ick een Godinne <rhyme label="d" type="m">sach</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">D'hant onder't <rhyme label="c" type="m" corresp="#s1:l5">hooft</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">vol fantasijen <rhyme label="d" type="m" corresp="#s1:l6">lach</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Sy riep die <rhyme label="a" type="m">mint</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">in veel ghebreken <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Want Venus <rhyme label="a" type="m" corresp="#s2:l1">kint</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">mijn hert ontsteken <rhyme label="b" type="m" corresp="#s2:l2">heeft</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Tot <rhyme label="c" type="m">Celadon</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">die gheen weer-min en <rhyme label="d" type="m">draeght</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Het bosch en <rhyme label="c" type="m" corresp="#s2:l5">bron</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">met d'Eccho my <rhyme label="d" type="m" corresp="#s2:l6">beclaeght</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Mijn lam'ren,, <rhyme label="a" type="m">die</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">aen-hooren mijn <rhyme label="b" type="m">ghesucht</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">En jam'ren,, <rhyme label="a" type="m" corresp="#s3:l1">wie</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">en sal mijn <rhyme label="b" type="m" corresp="#s3:l2">onghenucht</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Niet heughen <rhyme label="c" type="m">ach</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">nu ick in droef <rhyme label="d" type="m">ghetraen</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Van dach tot <rhyme label="c" type="m" corresp="#s3:l5">dach</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">ghelijck den sneeuw <rhyme label="d" type="m" corresp="#s3:l6">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">In dit <rhyme label="a" type="m">gherucht</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">soo wirt sy my <rhyme label="b" type="m">ghewaer</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">En namp de <rhyme label="a" type="m" corresp="#s4:l1">vlucht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">en ick van achter <rhyme label="b" type="m" corresp="#s4:l2">naer</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">En wat ick <rhyme label="c" type="m">riep</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">aenhoort, aenhoort mijn <rhyme label="d" type="m">bé</rhyme>?</l>
+        <l id="s4:l7" met="2" type="-+">Mijn Laura <rhyme label="c" type="m" corresp="#s4:l5">liep</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">ghelijck Atlantha <rhyme label="d" type="m" corresp="#s4:l6">dé</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Die stont ick <rhyme label="a" type="m">stil</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">vewondert en <rhyme label="b" type="m">verbaest</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Om mijnen't <rhyme label="a" type="m" corresp="#s5:l1">wil</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">daer sy soo had <rhyme label="b" type="m" corresp="#s5:l2">gheraest</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">En nu ick <rhyme label="c" type="m">deys</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">tot haer in liefdens <rhyme label="d" type="m">spoor</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Vlucht sy ick <rhyme label="c" type="m" corresp="#s5:l5">peys</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">uyt maeghde-schaemte <rhyme label="d" type="m" corresp="#s5:l6">door</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

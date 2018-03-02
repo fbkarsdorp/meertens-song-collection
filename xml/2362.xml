@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2362</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>No me diga mal a madre</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Myn ziele leeft nu in <rhyme label="a" type="f">vreuchden</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Inwendich in Godt <rhyme label="b" type="m">gerust</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Schickt u tot allen <rhyme label="a" type="f" corresp="#s1:l1">deuchden</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">U begherten met liefden <rhyme label="b" type="m" corresp="#s1:l2">blust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Syt altyt op u <rhyme label="a" type="f">hoede</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wat ghij peyst oft <rhyme label="b" type="m">doet</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Neempt alle dingen int <rhyme label="a" type="f" corresp="#s2:l1">goede</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Met patientie in goeden <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die Godt den Heere <rhyme label="a" type="f">soeken</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">Veel lydens es hen <rhyme label="b" type="m">bereyt</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">In alle plaetsen en <rhyme label="a" type="f" corresp="#s3:l1">hoecken</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Sal tegen hen worden <rhyme label="b" type="m" corresp="#s3:l2">gheseyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Is Godt uwen <rhyme label="a" type="f">waromme</rhyme> /</l>
+        <l id="s4:l2" met="3" type="-+">U saeken sullen wel <rhyme label="b" type="m">gaen</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">Maer soeckt ghij u selven <rhyme label="a" type="f" corresp="#s4:l1">alomme</rhyme> /</l>
+        <l id="s4:l4" met="3" type="-+">Ten sal niet langhe <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wilt u hertte <rhyme label="a" type="f">stellen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Op Godt <rhyme label="b" type="m">gebenedyt</rhyme> /</l>
+        <l id="s5:l3" met="3" type="-+">Met de werelt en wilt u niet <rhyme label="a" type="f" corresp="#s5:l1">quellen</rhyme> /</l>
+        <l id="s5:l4" met="3" type="-+">Zy vergaet al metter <rhyme label="b" type="m" corresp="#s5:l2">tyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Gheen meerder rust op <rhyme label="a" type="f">aerden</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">De mensche vinden en <rhyme label="b" type="m">sal</rhyme> /</l>
+        <l id="s6:l3" met="3" type="-+">Dan luttel onderwints <rhyme label="a" type="f" corresp="#s6:l1">aenveirden</rhyme> /</l>
+        <l id="s6:l4" met="3" type="-+">En houden vrede <rhyme label="b" type="m" corresp="#s6:l2">overal</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Al compter somtijts <rhyme label="a" type="f">schade</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Het moet gheleden <rhyme label="b" type="m">zyn</rhyme> /</l>
+        <l id="s7:l3" met="3" type="-+">Godt sal vroech en <rhyme label="a" type="f" corresp="#s7:l1">spaede</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Den vergelder <rhyme label="b" type="m" corresp="#s7:l2">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

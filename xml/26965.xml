@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26965</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Ach winter koud wie menigvoud</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ach winter <rhyme label="a" type="m">kaltt</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">wie <rhyme label="a" type="m" corresp="#s1:l1">mannigfaltt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">krengst  hertz m tt vnnd <rhyme label="b" type="f">sinnen</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">Graw vnnd <rhyme label="a" type="m" corresp="#s1:l1">altt</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">mags d  mich <rhyme label="a" type="m" corresp="#s1:l1">baldt</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">Des bin ich worden <rhyme label="b" type="f" corresp="#s1:l3">jnnen</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">Mein gl ck ist kleiner dan ein <rhyme label="c" type="m">haar</rhyme> /</l>
+        <l id="s1:l8" met="4" type="-+">darz  ist mir mein b ttell <rhyme label="c" type="m" corresp="#s1:l7">claar</rhyme> /</l>
+        <l id="s1:l9" met="3" type="-+">Diß jaar ist klein vonn <rhyme label="b" type="f" corresp="#s1:l3">gewinnenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Jch far <rhyme label="a" type="m">darher</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">on alles <rhyme label="a" type="m" corresp="#s2:l1">gefer</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">vnnd woltt mich gern <rhyme label="b" type="f">ernerenn</rhyme> :/:</l>
+        <l id="s2:l4" met="2" type="-+">Es krenckt mich <rhyme label="a" type="m" corresp="#s2:l1">seher</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">vnnd th itt mir <rhyme label="a" type="m" corresp="#s2:l1">wee</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">das gluck th itt sich <rhyme label="b" type="f" corresp="#s2:l3">verkerenn</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">So will ich doch nitt <rhyme label="c" type="m">abelann</rhyme> /</l>
+        <l id="s2:l8" met="4" type="-+">vnd will ein ne wes wiedder <rhyme label="c" type="m" corresp="#s2:l7">bestann</rhyme> /</l>
+        <l id="s2:l9" met="3" type="-+">Des kan mir nemantz <rhyme label="b" type="f" corresp="#s2:l3">werhenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Ach mancher <rhyme label="a" type="m">sprichtt</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">Gott gr tze <rhyme label="a" type="m" corresp="#s3:l1">dich</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">a s seinem falschenn m <rhyme label="b" type="f">nde</rhyme> /</l>
+        <l id="s3:l4" met="2" type="-+">Jch acht es <rhyme label="a" type="m" corresp="#s3:l1">nitt</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">was der Kleffer <rhyme label="a" type="m" corresp="#s3:l1">spricht</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">a s seinem falschenn m <rhyme label="b" type="f" corresp="#s3:l3">nde</rhyme> /</l>
+        <l id="s3:l7" met="4" type="-+">Mannicher schlicht darher als wehr er ein <rhyme label="c" type="m">dieb</rhyme> /</l>
+        <l id="s3:l8" met="4" type="-+">gingh ess mir vbell das wer Jm <rhyme label="c" type="m" corresp="#s3:l7">lieb</rhyme> /</l>
+        <l id="s3:l9" met="3" type="-+">das hab ich offt bef <rhyme label="b" type="f" corresp="#s3:l3">ndenn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Mannicher ist mir <rhyme label="a" type="m">gram</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">vnnd mir <rhyme label="a" type="m" corresp="#s4:l1">vergahnn</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">das mir gott hefft <rhyme label="b" type="f">gegebenn</rhyme> :/:</l>
+        <l id="s4:l4" met="2" type="-+">m chtt mannicher <rhyme label="a" type="m" corresp="#s4:l1">man</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">seinen willenn <rhyme label="a" type="m" corresp="#s4:l1">hann</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">er g ntt mir nichtt das <rhyme label="b" type="f" corresp="#s4:l3">lebenn</rhyme>  /</l>
+        <l id="s4:l7" met="4" type="-+">Der Kleffer hasset alles watt ehr <rhyme label="c" type="m">sechtt</rhyme>  /</l>
+        <l id="s4:l8" met="4" type="-+">noch mos ehr leidenn das <rhyme label="c" type="m" corresp="#s4:l7">gescheht</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">ehr kann es nitt <rhyme label="b" type="f" corresp="#s4:l3">wiedderstrebenn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Deis leidtt is a <rhyme label="a" type="m">s</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">mitt diesem stra <rhyme label="a" type="m" corresp="#s5:l1">s</rhyme> /</l>
+        <l id="s5:l3" met="3" type="-+">Ade ich far meiner <rhyme label="b" type="f">strassenn</rhyme> /</l>
+        <l id="s5:l4" met="2" type="-+">ein kleine ma <rhyme label="a" type="m" corresp="#s5:l1">s</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">ein einenn grossen ha <rhyme label="a" type="m" corresp="#s5:l1">ß</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">die moß ich faren <rhyme label="b" type="f" corresp="#s5:l3">lassen</rhyme> /</l>
+        <l id="s5:l7" met="4" type="-+">so lang sie selber <rhyme label="c" type="m">wehtt</rhyme> /</l>
+        <l id="s5:l8" met="4" type="-+">ich hoff mein mein katz sie baldtt <rhyme label="c" type="m" corresp="#s5:l7">erschlehtt</rhyme> /</l>
+        <l id="s5:l9" met="3" type="-+">hertz lieb haltt rechte <rhyme label="b" type="f" corresp="#s5:l3">masse</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Ade <rhyme label="a" type="m">ade</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">ich woll nitt <rhyme label="a" type="m" corresp="#s6:l1">mehr</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">von vngl ck den <rhyme label="b" type="f">singen</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">ich ra sch <rhyme label="a" type="m" corresp="#s6:l1">daher</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">d rch das wilde <rhyme label="a" type="m" corresp="#s6:l1">mehr</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">ich hoff mir sall <rhyme label="b" type="f" corresp="#s6:l3">gelingenn</rhyme> /</l>
+        <l id="s6:l7" met="4" type="-+">widder ahn wiedder an verderbtt mannich g ett <rhyme label="c" type="m">pferdtt</rhyme> /</l>
+        <l id="s6:l8" met="4" type="-+">dem gott das glucke hatt <rhyme label="c" type="m" corresp="#s6:l7">beschertt</rhyme> /</l>
+        <l id="s6:l9" met="3" type="-+">der mag woll frolich <rhyme label="b" type="f" corresp="#s6:l3">singen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

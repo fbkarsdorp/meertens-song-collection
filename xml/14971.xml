@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14971</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Zijt nu verblijd in deze tijd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Syt nu verblijt,, In dese <rhyme label="a" type="m">tydt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Laet af van't treurig <rhyme label="b" type="f">klagen</rhyme>,,</l>
+        <l id="s1:l3" met="4" type="-+">Com maect geklanc,, Met spel en <rhyme label="c" type="m">sang</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Want m' heeft in dese <rhyme label="b" type="f" corresp="#s1:l2">dagen</rhyme>,,</l>
+        <l id="s1:l5" met="4" type="-+">Self sien verslaen,, En oock <rhyme label="d" type="m">vergaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Die ons ten val, Wil brengen <rhyme label="e" type="m">al</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vive les Geux, Was daer de <rhyme label="a" type="m">leus</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">In't Leger van <rhyme label="b" type="f">Nassouwe</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Daer yder een, Was kloeck te <rhyme label="c" type="m">been</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om gierig te <rhyme label="b" type="f" corresp="#s2:l2">doorhouwen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">'tMaraensch gebroet,, Dat Spaensche <rhyme label="d" type="m">bloet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">'t Welck over hoop, teeg op de <rhyme label="e" type="m">loop</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Graef Arenberch, Hoe straf of <rhyme label="a" type="m">erch</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Is daer ter plaets' <rhyme label="b" type="f">verslegen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En menig Hut, jae oock <rhyme label="c" type="m">'tgeschut</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wiert van den Speck <rhyme label="b" type="f" corresp="#s3:l2">gecregen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Dies lof sy God,, die't Spaensche <rhyme label="d" type="m">rot</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Verstroyt, verjaecht,, En maeckt <rhyme label="e" type="m">versaegt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dit vrome feyt,, Seer wel <rhyme label="a" type="m">beleyt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">De Vyand grootlijcks <rhyme label="b" type="f">smerte</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Sijn hooft dat roockt,, Ja smoockt en <rhyme label="c" type="m">koockt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Syn trots en moedig <rhyme label="b" type="f" corresp="#s4:l2">herte</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Syn dul gemoet,, Op staende <rhyme label="d" type="m">voet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Wil nemen wraeck,, Van dese <rhyme label="e" type="m">saeck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

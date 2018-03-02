@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26934</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Laat ons fris en vrolijk zijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">N n wollenn wir frisch vnnd frolich <rhyme label="a" type="m">sein</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">ich weiß mir ein feins br <rhyme label="a" type="m" corresp="#s1:l1">nßmegdlein</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">woll he er z  diesem <rhyme label="b" type="f">Sommer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Jch weiß mir ein st dentenn ist h bsch vnnd <rhyme label="c" type="m">fein</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Achtt gott soltt ich sein dienerjn <rhyme label="c" type="m" corresp="#s1:l4">sein</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">gar heimlich vndd <rhyme label="d" type="f">verborgenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nemb ich nh  eins ba rmans <rhyme label="a" type="m">knabenn</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">so schreienn sie des morgens wie die <rhyme label="a" type="m" corresp="#s2:l1">rabenn</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Das th n sei all vmb <rhyme label="b" type="f">fressenn</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">So gibtt man jn ein habern <rhyme label="c" type="m">brei</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">daß wasser kr ch steitt nach <rhyme label="c" type="m" corresp="#s2:l4">darbei</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">ein feins megdlein will ich <rhyme label="d" type="f">pleiben</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vnd nheme ich nh  ein Re thers <rhyme label="a" type="m">knaben</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">So r cktt ehr den sattel a ff vnnd <rhyme label="a" type="m" corresp="#s3:l1">ab</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">daß m ß ehr ewig <rhyme label="b" type="f">threibenn</rhyme> /</l>
+        <l id="s3:l4" met="4" type="-+">ehr r cktt dein  sattell auff vnnd <rhyme label="c" type="m">ab</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">das ehr die lieb nitt f ren <rhyme label="c" type="m" corresp="#s3:l4">mag</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">Ein feins meglein will ick <rhyme label="d" type="f">pleibenn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nh  hatt mein liedtlein schier ein <rhyme label="a" type="m">endt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die schreiber die haben die wiesse <rhyme label="a" type="m" corresp="#s4:l1">hendt</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">darz  die harte <rhyme label="b" type="f">federn</rhyme> /</l>
+        <l id="s4:l4" met="4" type="-+">Sei singen in Chor daß hor ich <rhyme label="c" type="m">gern</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">Das iß mein trost / mein morgen <rhyme label="c" type="m" corresp="#s4:l4">sternn</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">Z  dem will ick mich schm <rhyme label="d" type="f">cken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

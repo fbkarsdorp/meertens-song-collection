@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2862</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">Dat reet een heer In syn schiltknecht/ <rhyme label="a" type="m">dat</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Dat lange padt <rhyme label="b" type="f">op</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Smael Is de wech/ <rhyme label="a" type="m" corresp="#s1:l1">smael</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wat vandt gy In syn weege <rhyme label="c" type="m">staen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Een lindeboom groene was <rhyme label="d" type="f">welgedaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">was wel <rhyme label="c" type="m" corresp="#s1:l4">gedaen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">Daer op soe sadt een duif en sanck/ <rhyme label="a" type="m">daer</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">hy sanck van <rhyme label="b" type="f">minne</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">soe soeten sanck/ <rhyme label="a" type="m" corresp="#s2:l1">sie</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">myn heer al tot sijn schiltknecht <rhyme label="c" type="m">sprack</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">nu schiet mey dat <rhyme label="d" type="f">duifien</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">al van den tack/ <rhyme label="c" type="m" corresp="#s2:l4">al</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">Mijn heer en dat doe Ick niet/ <rhyme label="a" type="m">myn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die tackies sien <rhyme label="b" type="f">swack</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sij en draege mijn niet/ <rhyme label="a" type="m" corresp="#s3:l1">sij</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">myn heer was toernich ende gram/ <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">hy schoeter dat duifie / <rhyme label="d" type="f">(sellever</rhyme>)</l>
+        <l id="s3:l6" met="4" type="-+">Daer van / <rhyme label="c" type="m" corresp="#s3:l4">sellever</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">Hy stiet sin voedt aen eene steen / <rhyme label="a" type="m">hy</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Daer brack hy sin <rhyme label="b" type="f">halsie</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">syn beenies aen tween/ <rhyme label="a" type="m" corresp="#s4:l1">zyn</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Nu leeft myn heer of Is hy doet/ <rhyme label="c" type="m">nu</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Waer krych Ick nu <rhyme label="d" type="f">myn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">voerdiende loen/ voerdiende <rhyme label="c" type="m" corresp="#s4:l4">loon</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="8" type="-+">Voerdiende loen dat krycht gy wel/ <rhyme label="a" type="m">vo</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Hy heiter noch <rhyme label="b" type="f">koeyen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">en paerde Int velt/ <rhyme label="a" type="m" corresp="#s5:l1">en</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">hy heiter noch <rhyme label="c" type="m">koeyen</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">en paerden en <rhyme label="d" type="f">swijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">bruin smaechdelinck/ <rhyme label="c" type="m" corresp="#s5:l4">bruin</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="8" type="-+">Die ons dit liedeken eerst werf sanck/ <rhyme label="a" type="m">die</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">Dat was een <rhyme label="b" type="f">geselletgen</rhyme>/</l>
+        <l id="s6:l3" met="4" type="-+">uit braebant/ Jae uit <rhyme label="a" type="m" corresp="#s6:l1">braebant</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">hy heeftet gesongen hy <rhyme label="c" type="m">sincktet</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">wel meer hy sinckt het wel <rhyme label="d" type="f">meer</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">godt geeft de lans knecht prys ende <rhyme label="c" type="m" corresp="#s6:l4">eer</rhyme>/</l>
+      </lg>
+    </lg>
+  </text>
+</song>

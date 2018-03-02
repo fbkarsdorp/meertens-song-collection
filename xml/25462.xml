@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25462</id>
+    <date>
+      <year-start>1571</year-start>
+      <year-end>1571</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Lauda Sion salvatorem</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Syon wilt v schepper <rhyme label="a" type="f">louen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">uwen herder van hier <rhyme label="a" type="f" corresp="#s1:l1">bouen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">in hijmnen en sangen <rhyme label="b" type="m">claer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Noet o vermoghen wilt stout <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">bouen alle loff <rhyme label="c" type="f" corresp="#s1:l4">geresen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">niemant mach god vol prijsen <rhyme label="b" type="m" corresp="#s1:l3">daer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een looffelijck goet <rhyme label="a" type="f">argument</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">vant leuende broot <rhyme label="a" type="f" corresp="#s2:l1">excellent</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">wert ons huyden <rhyme label="b" type="m">voorgeset</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Twelck int heijlich auontmael <rhyme label="c" type="f">reen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">reen den apostolen al <rhyme label="c" type="f" corresp="#s2:l4">gemeen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">ghegheuen is <rhyme label="b" type="m" corresp="#s2:l3">onbesmet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laet zijn lof toch wesen <rhyme label="a" type="f">volmaect</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">in vrucht in schoonheit vierich <rhyme label="a" type="f" corresp="#s3:l1">blaect</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">int hart vol <rhyme label="b" type="m">iubilacie</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Want eenen groten sonderlingen <rhyme label="c" type="f">feest</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">dat dit mael eerst is in gheset <rhyme label="c" type="f" corresp="#s3:l4">geweest</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">houden wij met <rhyme label="b" type="m" corresp="#s3:l3">stacie</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In dees nieuwen Coincx <rhyme label="a" type="f">maeltijt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">een nieu paeschlam nieuwet <rhyme label="a" type="f" corresp="#s4:l1">belijt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">die oude wet moet <rhyme label="b" type="m">swichten</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Het nieu dat breckt dat out <rhyme label="c" type="f">ontween</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">die schim moet voor die waerheit <rhyme label="c" type="f" corresp="#s4:l4">vlien</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">tlicht doet den nacht <rhyme label="b" type="m" corresp="#s4:l3">verlichten</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dat int auontmael christus heeft <rhyme label="a" type="f">gedaen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">sullen wij doen na zijn <rhyme label="a" type="f" corresp="#s5:l1">vermaen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">in zijnder <rhyme label="b" type="m">memorie</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Soe wij geleert goddelijck <rhyme label="c" type="f">zijn</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">consacreren wij broot en <rhyme label="c" type="f" corresp="#s5:l4">wijn</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">een salighe <rhyme label="b" type="m" corresp="#s5:l3">ciborie</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Het wert den Christenen <rhyme label="a" type="f">geleert</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">dat dit broot in vleisch <rhyme label="a" type="f" corresp="#s6:l1">verkeert</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">en die wijn verkeert int <rhyme label="b" type="m">bloet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Dat gheen ghij niet begrijpt noch <rhyme label="c" type="f">siet</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">door vast gelooft ghij dat <rhyme label="c" type="f" corresp="#s6:l4">geniet</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">sonder ordinancy <rhyme label="b" type="m" corresp="#s6:l3">goet</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Onder diuersche <rhyme label="a" type="f">figuren</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">teijckenen van een <rhyme label="a" type="f" corresp="#s7:l1">naturen</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">schrijlen zeer grote <rhyme label="b" type="m">dingen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Het vleijsch wert spijs tbloet dranc zeer <rhyme label="c" type="f">eel</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">nochtans zo blijft cristus <rhyme label="c" type="f" corresp="#s7:l4">geheel</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">in forme <rhyme label="b" type="m" corresp="#s7:l3">sonderlinge</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Uan diet ontfangen niet <rhyme label="a" type="f">vernielt</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">niet gebroken noch niet <rhyme label="a" type="f" corresp="#s8:l1">gedielt</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">maer heelwert dat <rhyme label="b" type="m">ontfangen</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Een ontfanget een duijsent <rhyme label="c" type="f">man</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">ijder heefter euen veel <rhyme label="c" type="f" corresp="#s8:l4">antwert</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">niet vernielt met <rhyme label="b" type="m" corresp="#s8:l3">vangen</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Dit nuth die goeden en die <rhyme label="a" type="f">quaden</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">maer elcx sonderlinck <rhyme label="a" type="f" corresp="#s9:l1">beraden</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">deen tleuen dander den <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Die quade sterft die goede <rhyme label="c" type="f">leeft</rhyme></l>
+        <l id="s9:l5" met="4" type="-+">siet dat elcx gemenelijck <rhyme label="c" type="f" corresp="#s9:l4">heeft</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">een eijndt verscheijden <rhyme label="b" type="m" corresp="#s9:l3">groot</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

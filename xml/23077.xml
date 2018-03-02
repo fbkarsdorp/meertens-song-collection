@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23077</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+      <tag>mystical song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daer en is ghen rust in deser <rhyme label="a" type="m">tijt</rhyme>:</l>
+        <l id="s1:l2" met="3" type="-+">Vaerdriet, dat doet my <rhyme label="b" type="f">singhen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Daer en is ghen rust in deser <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Vaerdriet, dat doet my <rhyme label="b" type="f" corresp="#s1:l2">singhen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ic wasser ghestrict in mijnen <rhyme label="c" type="m">ghedacht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In deser aertser minnen, <rhyme label="d" type="f">Minnee</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Ic wasser ghestrict in mijnen <rhyme label="c" type="m" corresp="#s1:l5">ghedacht</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">In deser aertser minnen, <rhyme label="d" type="f" corresp="#s1:l6">Minnee</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="a" type="m">wee</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn hertge wil my <rhyme label="b" type="f">breken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Help, rijc Heer God! my is so <rhyme label="a" type="m" corresp="#s2:l1">wee</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Mijn hertge wil my <rhyme label="b" type="f" corresp="#s2:l2">breken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Van rouwen, van troegicheit <rhyme label="c" type="m">ontwee</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Ic en cans niet uutghespreken, <rhyme label="d" type="f">Sprekee</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Van rouwen, van troegicheit <rhyme label="c" type="m" corresp="#s2:l5">ontwee</rhyme>:</l>
+        <l id="s2:l8" met="4" type="-+">Ic en cans niet uutghespreken, <rhyme label="d" type="f" corresp="#s2:l6">Sprekee</rhyme>;</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ic moet van noe nu maken <rhyme label="a" type="m">vroe</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">In druck ende oeck in <rhyme label="b" type="f">liden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Want ic wel weet, my is <rhyme label="a" type="m" corresp="#s3:l1">bereet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Altoes so moet ic strijden, <rhyme label="b" type="f" corresp="#s3:l2">Strijdee</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Want ic wel weet, my is <rhyme label="c" type="m">bereet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Altoes so moet ic strijden, <rhyme label="d" type="f">Strijdee</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="c" type="m" corresp="#s3:l5">wee</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Mijn hertge wil my <rhyme label="d" type="f" corresp="#s3:l6">breken</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Met druvergaer harten ende blijd <rhyme label="a" type="m">aenschijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Moet ic my dicwils <rhyme label="b" type="f">vensen</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Och, is dat niet een grote <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme>?</l>
+        <l id="s4:l4" met="4" type="-+">Maer alsmen wel mach penssen, <rhyme label="b" type="f" corresp="#s4:l2">peynsee</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Och, is dat niet een grote <rhyme label="c" type="m">pijn</rhyme>?</l>
+        <l id="s4:l6" met="3" type="-+">Maer alsmen wel mach penssen, <rhyme label="d" type="f">peynsee</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="c" type="m" corresp="#s4:l5">wee</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Mijn hertge wil my <rhyme label="d" type="f" corresp="#s4:l6">breken</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O reyne hart, ghi lijdt groot <rhyme label="a" type="m">smart</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Van binnen ende oeck van <rhyme label="b" type="f">buten</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Soe menighe strijt in deser <rhyme label="a" type="m" corresp="#s5:l1">tijt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Moet ghi hier al besluten, <rhyme label="b" type="f" corresp="#s5:l2">Slutee</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Soe menighe strijt in deser <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Moet ghi hier al besluten, <rhyme label="d" type="f">Slutee</rhyme>.</l>
+        <l id="s5:l7" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="c" type="m" corresp="#s5:l5">wee</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Mijn hertge wil my <rhyme label="d" type="f" corresp="#s5:l6">breken</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ic legghe te velt nacht ende <rhyme label="a" type="m">dach</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Mijn viant willee my <rhyme label="b" type="f">deeren</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Sij scieten op my soe menighe <rhyme label="a" type="m" corresp="#s6:l1">slach</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Ic en canse niet verweren, <rhyme label="b" type="f" corresp="#s6:l2">Weree</rhyme>;</l>
+        <l id="s6:l5" met="4" type="-+">Sij scieten op my soe menighe <rhyme label="c" type="m">slach</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Ic en canse niet verweren, <rhyme label="d" type="f">Weree</rhyme>;</l>
+        <l id="s6:l7" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="c" type="m" corresp="#s6:l5">wee</rhyme>,</l>
+        <l id="s6:l8" met="4" type="-+">Mijn hertge wil my <rhyme label="d" type="f" corresp="#s6:l6">breken</rhyme>,</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O, soete Heer, gheeft my een <rhyme label="a" type="m">ofkeer</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Van minne der <rhyme label="b" type="f">creatueren</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Want si en is niet dan swaer <rhyme label="a" type="m" corresp="#s7:l1">verdriet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Si en mach niet langhe dueren, <rhyme label="b" type="f" corresp="#s7:l2">Dueree</rhyme>;</l>
+        <l id="s7:l5" met="4" type="-+">Want si en is niet dan swaer <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Si en mach niet langhe dueren, <rhyme label="d" type="f">Dueree</rhyme>;</l>
+        <l id="s7:l7" met="4" type="-+">Help, rijc Heer God! myis soe <rhyme label="c" type="m" corresp="#s7:l5">wee</rhyme>,</l>
+        <l id="s7:l8" met="4" type="-+">Mijn hertge wil my <rhyme label="d" type="f" corresp="#s7:l6">breken</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

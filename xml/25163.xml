@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25163</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">So zart inwart geboren nie <rhyme label="a" type="m">wip</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">van art bewart in kuisser <rhyme label="a" type="m" corresp="#s1:l1">lip</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">In duginde iuginde niet si <rhyme label="b" type="m">sich</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Sij zugtich duchtig <rhyme label="b" type="m" corresp="#s1:l3">minnenclich</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Der szal vuer al <rhyme label="c" type="f">erhillit</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Ir munt in zunt is als eyn <rhyme label="d" type="m">fuyr</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">der losin kosin is <rhyme label="d" type="m" corresp="#s1:l6">gehuyr</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">ir smerin zerin kan der <rhyme label="e" type="m">dach</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">der suzen gruzen an sorge <rhyme label="e" type="m" corresp="#s1:l8">mach</rhyme>.</l>
+        <l id="s1:l10" met="3" type="-+">Ir szone hone <rhyme label="c" type="f" corresp="#s1:l5">stillit</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">diz wnder under wilin <rhyme label="f" type="m">doyt</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">bisunder munder mir den <rhyme label="f" type="m" corresp="#s1:l11">moyt</rhyme>.</l>
+        <l id="s1:l13" met="3" type="-+">wan ich mich des ver <rhyme label="g" type="f">sinne</rhyme>.</l>
+        <l id="s1:l14" met="4" type="-+">wye garwe ir varwe erquicken <rhyme label="h" type="m">kan</rhyme>.</l>
+        <l id="s1:l15" met="4" type="-+">ellenden senden sie gin <rhyme label="h" type="m" corresp="#s1:l14">man</rhyme>.</l>
+        <l id="s1:l16" met="4" type="-+">van suldin huldin ich ir <rhyme label="i" type="m">muoiz</rhyme>.</l>
+        <l id="s1:l17" met="4" type="-+">ich sigin nigin uf irrin <rhyme label="i" type="m" corresp="#s1:l16">fuoys</rhyme></l>
+        <l id="s1:l18" met="3" type="-+">ich meynin die ich <rhyme label="g" type="f" corresp="#s1:l13">minnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

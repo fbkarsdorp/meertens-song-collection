@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15038</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>thanks song</tag>
+      <tag>spiritual song</tag>
+      <tag>triumph song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>O Angenietje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Siet Christen <rhyme label="a" type="f">menschen</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">Hoe dat naer <rhyme label="a" type="f" corresp="#s1:l1">wenschen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De Heer die eeuwig <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">U weer geholpen <rhyme label="b" type="m" corresp="#s1:l3">heeft</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">Wanneer g'als <rhyme label="c" type="f">dooden</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Door sware <rhyme label="c" type="f" corresp="#s1:l5">nooden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Schier waert geworden <rhyme label="d" type="m">al</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Van Spanjens <rhyme label="d" type="m" corresp="#s1:l7">overval</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">Die door het <rhyme label="e" type="m">Ys</rhyme>,,</l>
+        <l id="s1:l10" met="3" type="-+">Woud' alles maken <rhyme label="e" type="m" corresp="#s1:l9">prys</rhyme>;</l>
+        <l id="s1:l11" met="4" type="-+">End' meynd' ons Land,, in sulcken <rhyme label="f" type="m">stand</rhyme>,,</l>
+        <l id="s1:l12" met="3" type="-+">Te nemen in van <rhyme label="f" type="m" corresp="#s1:l11">kant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Maer hem <rhyme label="a" type="f">benoude</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Te seer de <rhyme label="a" type="f" corresp="#s2:l1">koude</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Des Heeren strenge <rhyme label="b" type="m">locht</rhyme>,,</l>
+        <l id="s2:l4" met="3" type="-+">Soo dapper hem <rhyme label="b" type="m" corresp="#s2:l3">bevocht</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Dats' alle <rhyme label="c" type="f">vloden</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">En hy veel <rhyme label="c" type="f" corresp="#s2:l5">dooden</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Most schandig laten <rhyme label="d" type="m">naer</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En schuwen het <rhyme label="d" type="m" corresp="#s2:l7">gevaer</rhyme>.</l>
+        <l id="s2:l9" met="2" type="-+">Geen mensch en <rhyme label="e" type="m">deed'</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Hem hinder ofte <rhyme label="e" type="m" corresp="#s2:l9">leed</rhyme>:</l>
+        <l id="s2:l11" met="4" type="-+">Maer God alleen,, En anders <rhyme label="f" type="m">geen</rhyme>,,</l>
+        <l id="s2:l12" met="3" type="-+">Quam op zyn hielen <rhyme label="f" type="m" corresp="#s2:l11">treen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Wy zyn <rhyme label="a" type="f">ontsprongen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Los <rhyme label="a" type="f" corresp="#s3:l1">onbedwongen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En g'lyck een vogel <rhyme label="b" type="m">springt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die door de stricken <rhyme label="b" type="m" corresp="#s3:l3">dringt</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">De Heer moet <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Gelooft <rhyme label="c" type="f" corresp="#s3:l5">gepresen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die ons van't Spaensch <rhyme label="d" type="m">gevaerd</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Nu weder soo <rhyme label="d" type="m" corresp="#s3:l7">bewaerd</rhyme>;</l>
+        <l id="s3:l9" met="2" type="-+">End' niet <rhyme label="e" type="m">gestelt</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Heeft in haer boos <rhyme label="e" type="m" corresp="#s3:l9">gewelt</rhyme></l>
+        <l id="s3:l11" met="4" type="-+">Stut lieve Heer! Tot uwen <rhyme label="f" type="m">eer</rhyme>,</l>
+        <l id="s3:l12" met="3" type="-+">Ons Vyand langs hoe <rhyme label="f" type="m" corresp="#s3:l11">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

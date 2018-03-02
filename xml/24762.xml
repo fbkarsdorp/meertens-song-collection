@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24762</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Een edele waarde reine vrucht</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een edel werde reine <rhyme label="a" type="m">vrucht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hout mi in rechter <rhyme label="b" type="f">trauwen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Claerre dan der zonnen <rhyme label="a" type="m" corresp="#s1:l1">lucht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Boven allen <rhyme label="b" type="f" corresp="#s1:l2">vrouwen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Als icse minlic mach <rhyme label="b" type="f" corresp="#s1:l2">aenscauwen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Sone es mijn bliscap niet te <rhyme label="c" type="f">scriven</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Gheen vruecht en mach mer in den <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Wien ic met trouwen steidich <rhyme label="d" type="m" corresp="#s1:l7">bin</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Die moet eens anders eighin <rhyme label="c" type="f" corresp="#s1:l6">bliven</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Si kent dat ic haer eighin <rhyme label="a" type="m">bem</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hoe salic dan <rhyme label="b" type="f">gheliden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat eenich ander heift met <rhyme label="a" type="m" corresp="#s2:l1">hem</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Mijn vruecht ende mijn <rhyme label="b" type="f" corresp="#s2:l2">verbliden</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ach leider al mach ict <rhyme label="b" type="f" corresp="#s2:l2">beniden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">In maecht met eren niet <rhyme label="c" type="f">ontkiven</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Gheen vruecht en mach mer in den <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Wien ic met trouwen steidich <rhyme label="d" type="m" corresp="#s2:l7">bin</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Die moet eens anders eighin <rhyme label="c" type="f" corresp="#s2:l6">bliven</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ic minse boven al dat <rhyme label="a" type="m">leift</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met herten ende met <rhyme label="b" type="f">zinne</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die duecht die ere die an haer <rhyme label="a" type="m" corresp="#s3:l1">cleift</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Behout mi vaste hier <rhyme label="b" type="f" corresp="#s3:l2">inne</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Om lief om leit wes ic <rhyme label="b" type="f" corresp="#s3:l2">beghinne</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Haer eere ne willic niet <rhyme label="c" type="f">verdriven</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Gheen vruecht en mach mer in den <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Wien ic met trouwen steidich <rhyme label="d" type="m" corresp="#s3:l7">bin</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Die moet eens anders eighin <rhyme label="c" type="f" corresp="#s3:l6">bliven</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus duchtic dat ic sterven <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Maer niet bi haren <rhyme label="b" type="f">scouden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Want in wil niet dat soe yet <rhyme label="a" type="m" corresp="#s4:l1">doet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Haer eere ne si <rhyme label="b" type="f" corresp="#s4:l2">behouden</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Mijn leit moetic int beste <rhyme label="b" type="f" corresp="#s4:l2">vouden</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Of onghenoucht sal mi <rhyme label="c" type="f">ontliven</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Gheen vruecht en mach mer in den <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Wien ic met trouwen steidich <rhyme label="d" type="m" corresp="#s4:l7">bin</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Die moet eens anders eighin <rhyme label="c" type="f" corresp="#s4:l6">bliven</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O vrouwe daer al mijn troost an <rhyme label="a" type="m">steit</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Blijft mi vort an <rhyme label="b" type="f">ghestade</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Kent dat ic lide menich <rhyme label="a" type="m" corresp="#s5:l1">leit</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Van rouwen vro ende <rhyme label="b" type="f" corresp="#s5:l2">spade</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Ic hope een ende deser <rhyme label="b" type="f" corresp="#s5:l2">scade</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Ghi sijt mijn lief vor allen <rhyme label="c" type="f">wiven</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Gheen vruecht en mach mer in den <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Wien ic met trauwen sculdich <rhyme label="d" type="m" corresp="#s5:l7">bin</rhyme></l>
+        <l id="s5:l9" met="4" type="-+">Die moet eens anders eighin <rhyme label="c" type="f" corresp="#s5:l6">bliven</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

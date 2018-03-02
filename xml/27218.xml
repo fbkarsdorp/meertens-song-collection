@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27218</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Schoon jonkheertje heus en trouw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Reyn maecht ick moet v <rhyme label="a" type="f">saluteren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Deesen groet v <rhyme label="b" type="m">schenckende</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Waer door myn vruecht noch sal <rhyme label="a" type="f" corresp="#s1:l1">vermeren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die andren syn <rhyme label="b" type="m" corresp="#s1:l2">krenckende</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Ick en acht geen clappers <rhyme label="c" type="m">siet</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Die dit moogen lyden <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme></l>
+        <l id="s1:l7" met="6" type="+-">Trouw en goet / es tgemoet / twelck -moet&lt;+sal&gt; <rhyme label="d" type="f">singhen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Vuwen loff reyn maecht <rhyme label="e" type="m">eerbaer</rhyme></l>
+        <l id="s1:l9" met="6" type="+-">Twesen soet / in my doet / vreucht <rhyme label="d" type="f" corresp="#s1:l7">ontspringhen</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s1:l8">jaer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Godt geeff dat dit lieff moet <rhyme label="a" type="f">beginnen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met spoet / blyschap / en <rhyme label="b" type="m">vroolycheyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met meer voorspoet altoos <rhyme label="a" type="f" corresp="#s2:l1">voortrinnen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">E]nde vuytgaen in <rhyme label="b" type="m" corresp="#s2:l2">salicheyt</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Dat ghy lieff in trouwe <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Muecht vergaren metter <rhyme label="c" type="m" corresp="#s2:l5">spoet</rhyme></l>
+        <l id="s2:l7" met="6" type="+-">Onbenyt / seer verblyt / gaen <rhyme label="d" type="f">spanceren</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Met v alderliefste <rhyme label="e" type="m">caer</rhyme></l>
+        <l id="s2:l9" met="6" type="+-">Tallen tyt / sonder stryt / <rhyme label="d" type="f" corresp="#s2:l7">domineren</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s2:l8">jaer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och Muse wilt my nu voorts <rhyme label="a" type="f">dichten</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Deses maechdens loouen <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Compt voort Apollo wilt niet <rhyme label="a" type="f" corresp="#s3:l1">swichten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Helpt my vint desen <rhyme label="b" type="m" corresp="#s3:l2">noot</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Icarus jonck was wel seer <rhyme label="c" type="m">stout</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Als hy syn vleugels heeft <rhyme label="c" type="m" corresp="#s3:l5">betrout</rhyme></l>
+        <l id="s3:l7" met="6" type="+-">Door tbestaen / streeck de vaen / bouen <rhyme label="d" type="f">crachten</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Is in zee verdroncken <rhyme label="e" type="m">claer</rhyme></l>
+        <l id="s3:l9" met="6" type="+-">Sulcxs ick waen / dat ter baen / my sal <rhyme label="d" type="f" corresp="#s3:l7">wachten</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s3:l8">jaer</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nochtans door hulp der <rhyme label="a" type="f">goddinnen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Vaer ick met myn reden <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Vlisses spraeck &amp; Venus <rhyme label="a" type="f" corresp="#s4:l1">minnen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Werden in dees maecht <rhyme label="b" type="m" corresp="#s4:l2">gespoort</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Van leden fray <rhyme label="c" type="m">gestatueert</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Twesen diuin <rhyme label="c" type="m" corresp="#s4:l5">gedistingueert</rhyme></l>
+        <l id="s4:l7" met="6" type="+-">Geen corael / hoe loyael / soo mach <rhyme label="d" type="f">blincken</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Int yuoor gestelt <rhyme label="e" type="m">voorwaer</rhyme></l>
+        <l id="s4:l9" met="6" type="+-">Gy myn quael / teenemael / kan <rhyme label="d" type="f" corresp="#s4:l7">verdrincken</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s4:l8">jaer</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Haer deucht / haer liff en haer <rhyme label="a" type="f">manieren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Geene tong vuytspreecken <rhyme label="b" type="m">sal</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Haer sang haer gang die haer <rhyme label="a" type="f" corresp="#s5:l1">vercieren</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Gaen tverstant te bouen <rhyme label="b" type="m" corresp="#s5:l2">all</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Mocht ick van dees reyn maecht <rhyme label="c" type="m">vreedsaem</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Eenich cleyn troostlyck woort <rhyme label="c" type="m" corresp="#s5:l5">ontfaen</rhyme></l>
+        <l id="s5:l7" met="6" type="+-">Alt verwyt / en gecryt / hier <rhyme label="d" type="f">beneuen</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">My verlaten sal <rhyme label="e" type="m">eenpaer</rhyme></l>
+        <l id="s5:l9" met="6" type="+-">Seer verblyt taller tyt soud ick <rhyme label="d" type="f" corresp="#s5:l7">leuen</rhyme></l>
+        <l id="s5:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s5:l8">jaer</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Oorloff hiermet Princes <rhyme label="a" type="f">diuine</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Neempt in danck dit cleyn <rhyme label="b" type="m">gedicht</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Geeft graty maeckt doch geen <rhyme label="a" type="f" corresp="#s6:l1">ruine</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Ghy staet alleen int hert <rhyme label="b" type="m" corresp="#s6:l2">gesticht</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Ick hoop met v verheucht te <rhyme label="c" type="m">syn</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">Tscheyden van v dat valt myn <rhyme label="c" type="m" corresp="#s6:l5">pyn</rhyme></l>
+        <l id="s6:l7" met="6" type="+-">Ghy alleen syt zeer reen die <rhyme label="d" type="f">goddinne</rhyme></l>
+        <l id="s6:l8" met="4" type="+-">Die wechneempt myn lyden <rhyme label="e" type="m">swaer</rhyme></l>
+        <l id="s6:l9" met="6" type="+-">Anders geen ick certeen sal <rhyme label="d" type="f" corresp="#s6:l7">beminnen</rhyme></l>
+        <l id="s6:l10" met="4" type="+-">In dit gulde nieuwe <rhyme label="e" type="m" corresp="#s6:l8">jaer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

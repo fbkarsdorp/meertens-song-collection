@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5205</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>triumph song</tag>
+    </tags>
+    <melody>Wel op gij Spanjaarden</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wel op ghy <rhyme label="a" type="f">Spaengiaerden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die nu in Brabant <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Hoe smaeckt u dat <rhyme label="a" type="f" corresp="#s1:l1">ghebraden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Daertoe de koele <rhyme label="b" type="m" corresp="#s1:l2">wijn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ghy moet nae Spaengien met <rhyme label="c" type="m">gewelt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Sonder Paspoort, sonder <rhyme label="c" type="m" corresp="#s1:l5">gelt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Woechey, slaet de Spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Uut Spaengien quamen sy <rhyme label="a" type="f">dringhen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Spaensche Jonckers <rhyme label="b" type="m">wijs</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Brabant wouden sy <rhyme label="a" type="f" corresp="#s2:l1">dwinghen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die Steden maken <rhyme label="b" type="m" corresp="#s2:l2">prijs</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Off sy wouden zijn <rhyme label="c" type="m">betaelt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Den lesten penninck niet <rhyme label="c" type="m" corresp="#s2:l5">gefaelt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Woechey, slaet die Spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die Staten sonder <rhyme label="a" type="f">falen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Setten de spaengiaerts eenen <rhyme label="b" type="m">dach</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Men soud haer al <rhyme label="a" type="f" corresp="#s3:l1">betalen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Haer leeninghe korten <rhyme label="b" type="m" corresp="#s3:l2">aff</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dan soudense weder na spaengien <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">De spaengiaerts spraken, niet te <rhyme label="c" type="m" corresp="#s3:l5">verstaen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Woechey, slaet die spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Die Spaengiaerts sonder <rhyme label="a" type="f">falen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Spraken <rhyme label="b" type="m">ghelijckerhandt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ghy moet ons al <rhyme label="a" type="f" corresp="#s4:l1">betalen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van dat wy quamen int <rhyme label="b" type="m" corresp="#s4:l2">Landt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Die voor Alckmaer en Haerlem <rhyme label="c" type="m">groot</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">De geusen hebben gheslaghen <rhyme label="c" type="m" corresp="#s4:l5">doot</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Woechey, slaet de spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wat hebt ghy hier <rhyme label="a" type="f">bedreven</rhyme>:</l>
+        <l id="s5:l2" met="3" type="-+">Spraken die Staten <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Dat Lant is ons <rhyme label="a" type="f" corresp="#s5:l1">gegeven</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Spraken de Spaengiaerts <rhyme label="b" type="m" corresp="#s5:l2">vals</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Tis u gegeven van <rhyme label="c" type="m">Duckdalff</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Maer ghy en crijghet noch niet <rhyme label="c" type="m" corresp="#s5:l5">halff</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Woechey, slaet de spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Die Hooch-gheboren <rhyme label="a" type="f">Staten</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Uut Vlaenderen en <rhyme label="b" type="m">Brabant</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Zy sonden heur <rhyme label="a" type="f" corresp="#s6:l1">Placcaten</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Over in <rhyme label="b" type="m" corresp="#s6:l2">Ghelderlant</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Dat sy souden cleyn end <rhyme label="c" type="m">groot</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Smijten al de spaengiaerts <rhyme label="c" type="m" corresp="#s6:l5">doot</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Woechey, slaet de spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">In spaengien moetense al wat <rhyme label="a" type="f">doenen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Die spaensche Jonckers <rhyme label="b" type="m">moy</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">En gaen lappen oude <rhyme label="a" type="f" corresp="#s7:l1">schoenen</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Hier gaen sy soo <rhyme label="b" type="m" corresp="#s7:l2">parmafoy</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Daer gaen sy met verscheurde <rhyme label="c" type="m">kleer</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Hier ist al Monseur mijn <rhyme label="c" type="m" corresp="#s7:l5">Heer</rhyme>,</l>
+        <l id="s7:l7" met="4" type="-+">Woechey, slaet de Spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Al met verscheurde <rhyme label="a" type="f">broecken</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Brocht haer Duckdalff int <rhyme label="b" type="m">Lant</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Zy moghen hem wel <rhyme label="a" type="f" corresp="#s8:l1">vloecken</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Hy heeft haer hier <rhyme label="b" type="m" corresp="#s8:l2">gheplant</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Hy at zijn ghebraden alle <rhyme label="c" type="m">daghen</rhyme>,</l>
+        <l id="s8:l6" met="4" type="-+">Nu werden sy met de spit <rhyme label="c" type="m" corresp="#s8:l5">gheslaghen</rhyme>,</l>
+        <l id="s8:l7" met="4" type="-+">Woechey, slaet de spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Als sy nu zijn <rhyme label="a" type="f">verdreven</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Die spaensche Jonckers <rhyme label="b" type="m">knap</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Dan mogen sy wel leeren <rhyme label="a" type="f" corresp="#s9:l1">weven</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Of roepen Ketel <rhyme label="b" type="m" corresp="#s9:l2">lap</rhyme>,</l>
+        <l id="s9:l5" met="4" type="-+">Off schoorsteenvaghen sonder <rhyme label="c" type="m">leer</rhyme>.</l>
+        <l id="s9:l6" met="4" type="-+">Is dat niet schand voor sulcken <rhyme label="c" type="m" corresp="#s9:l5">Heer</rhyme></l>
+        <l id="s9:l7" met="4" type="-+">Woechey, slaet de spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Zy meenden te trecken na <rhyme label="a" type="f">Spaengien</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Met haren ghestolen <rhyme label="b" type="m">buyt</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">So coemt de Prins van <rhyme label="a" type="f" corresp="#s10:l1">Oraengien</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Die slaet haer op de <rhyme label="b" type="m" corresp="#s10:l2">huyt</rhyme>,</l>
+        <l id="s10:l5" met="4" type="-+">Zy en sullen niet een naghel <rhyme label="c" type="m">houwen</rhyme></l>
+        <l id="s10:l6" met="4" type="-+">Om haer eyghen gat te <rhyme label="c" type="m" corresp="#s10:l5">clouwen</rhyme>,</l>
+        <l id="s10:l7" met="4" type="-+">Woechey, slaet de Spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Ghy Lansknechten sonder <rhyme label="a" type="f">falen</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Dient die Staten trou en <rhyme label="b" type="m">hout</rhyme>,</l>
+        <l id="s11:l3" met="3" type="-+">Men salder u wel <rhyme label="a" type="f" corresp="#s11:l1">betalen</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Met silver ende met <rhyme label="b" type="m" corresp="#s11:l2">gout</rhyme>,</l>
+        <l id="s11:l5" met="4" type="-+">Ghy sult die spaensche Heeren al te <rhyme label="c" type="m">mael</rhyme></l>
+        <l id="s11:l6" met="4" type="-+">Ridder slaen met ijser end <rhyme label="c" type="m" corresp="#s11:l5">stael</rhyme></l>
+        <l id="s11:l7" met="4" type="-+">Woechey, slaet die Spaengiaerts <rhyme label="d" type="m">vry</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

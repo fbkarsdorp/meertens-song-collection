@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35654</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody>O Corydon zie hier de stal</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt; mijn deel en eeuwich <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hoe sal ick u lof konnen <rhyme label="b" type="f">gheven</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy my door u liefste <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Tot uwen dienst nu hebt <rhyme label="b" type="f" corresp="#s1:l2">verheven</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Dat ghy my door u liefde <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Tot uwen dienst nu hebt <rhyme label="b" type="f" corresp="#s1:l2">verheven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick roep al dat daer boven <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En dat op aerden is <rhyme label="b" type="f">gheschapen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Dat sy in dese saeck <rhyme label="a" type="m" corresp="#s2:l1">ghewis</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Met my in Godt vreudhgt willen <rhyme label="b" type="f" corresp="#s2:l2">rapen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Dat sy in dese saeck <rhyme label="a" type="m" corresp="#s2:l1">ghewis</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Met my in Godt vreudhgt willen <rhyme label="b" type="f" corresp="#s2:l2">rapen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Want Godt den grooten al, die <rhyme label="a" type="m">heeft</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">My heden tot sijn bruydt <rhyme label="b" type="f">vercoren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">O alderliefsten Heer die <rhyme label="a" type="m" corresp="#s3:l1">leeft</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Mocht ick in u toch sijn <rhyme label="b" type="f" corresp="#s3:l2">verloren</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">O alderliefsten Heer die <rhyme label="a" type="m" corresp="#s3:l1">leeft</rhyme>;</l>
+        <l id="s3:l6" met="4" type="-+">Mocht ick in u toch sijn <rhyme label="b" type="f" corresp="#s3:l2">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want ghy alleen my t'leven <rhyme label="a" type="m">gheeft</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En sijdt die mijn hert cunt <rhyme label="b" type="f">versaden</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Adieu van al dat schijnsel <rhyme label="a" type="m" corresp="#s4:l1">heeft</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Van goetheden wil u <rhyme label="b" type="f" corresp="#s4:l2">versmaden</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Adieu van al dat schijnsel <rhyme label="a" type="m" corresp="#s4:l1">heeft</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Van goetheden wil u <rhyme label="b" type="f" corresp="#s4:l2">versmaden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">In Beggas hof, wt liefde <rhyme label="a" type="m">puer</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wilt u ghestadigh daer <rhyme label="b" type="f">vereeren</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Met die inwoonders t'alder <rhyme label="a" type="m" corresp="#s5:l1">uer</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Gheduerigh uwen lof <rhyme label="b" type="f" corresp="#s5:l2">vermeeren</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Met die inwoonders t'alder <rhyme label="a" type="m" corresp="#s5:l1">uer</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Gheduerigh uwen lof <rhyme label="b" type="f" corresp="#s5:l2">vermeeren</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Volght my naer ghy jonghe <rhyme label="a" type="m">Jeught</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Verlaet des 's werelts valsche <rhyme label="b" type="f">treken</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Want Godt te dienen is meer <rhyme label="a" type="m" corresp="#s6:l1">vreught</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Als wel tonghen cunnen <rhyme label="b" type="f" corresp="#s6:l2">wtspreken</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Want Godt te dienen is meer <rhyme label="a" type="m" corresp="#s6:l1">vreught</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Als wel tonghen cunnen <rhyme label="b" type="f" corresp="#s6:l2">wtspreken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O Liefste Godt; ghy sijdt <rhyme label="a" type="m">alleen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Daer ick na haeck, daer ick na <rhyme label="b" type="f">wensche</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Onthelst u wet en anders <rhyme label="a" type="m" corresp="#s7:l1">gheen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Verfoeyt al dat vermaeckt den <rhyme label="b" type="f" corresp="#s7:l2">mensche</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">Onthelst u wet en anders <rhyme label="a" type="m" corresp="#s7:l1">gheen</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Verfoeyt al dat vermaeckt den <rhyme label="b" type="f" corresp="#s7:l2">mensche</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

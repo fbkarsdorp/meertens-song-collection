@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27209</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>'s Winters 's zomers even groen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ick heb een lief eerbaer van <rhyme label="a" type="f">weesen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">sy staet al in myn hart <rhyme label="b" type="m">geprent</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">sy can alleen myn druck <rhyme label="a" type="f" corresp="#s1:l1">genesen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">myn pyn ende myn suaer <rhyme label="b" type="m" corresp="#s1:l2">torment</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">na u alleen staet myn <rhyme label="c" type="f">verlangen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">wilt u oochskens doch op myn <rhyme label="d" type="m">slaen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">om u ben ick in suaer <rhyme label="c" type="f" corresp="#s1:l5">verstranghen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">dus wilt my in u liefde <rhyme label="d" type="m" corresp="#s1:l6">ontfaen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O lief wilt u dienaer <rhyme label="a" type="f">verhooren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">en boet doch myn droeuich <rhyme label="b" type="m">gheclach</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">ick geef als pieramus te <rhyme label="a" type="f" corresp="#s2:l1">voren</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">voor u myn bloet sonder <rhyme label="b" type="m" corresp="#s2:l2">verdrach</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">daerom wilt myn nu niet <rhyme label="c" type="f">versteken</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">maer toont myn rechte liefde <rhyme label="d" type="m">saen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">laet myn u jonste niet <rhyme label="c" type="f" corresp="#s2:l5">ontbreken</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">du wilt my in u liefde <rhyme label="d" type="m" corresp="#s2:l6">ontfaen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Schoon lief wilt myn clachte <rhyme label="a" type="f">aenmercken</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">die ick u doe op dit <rhyme label="b" type="m">termyn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">wilt myn met u liefde <rhyme label="a" type="f" corresp="#s3:l1">verstercken</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">als helena paris dee <rhyme label="b" type="m" corresp="#s3:l2">fyn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">also doet u liefde toch <rhyme label="c" type="f">blycken</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">en verhoort u dienaers <rhyme label="d" type="m">vermaen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">ick sal u nimmermeer <rhyme label="c" type="f" corresp="#s3:l5">besuycken</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">dus wilt my in u liefde <rhyme label="d" type="m" corresp="#s3:l6">ontfaen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Met u liefde ben ick <rhyme label="a" type="f">duerschoten</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">als troyeles die starf den <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">om bresida en heeft <rhyme label="a" type="f" corresp="#s4:l1">vergooten</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">syn bloet en quam in lyden <rhyme label="b" type="m" corresp="#s4:l2">groot</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">wilt soo op myn liefde toch <rhyme label="c" type="f">dencken</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">cupidoos stralen neempt toch <rhyme label="d" type="m">aen</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">qua nyders quaet sult ghy dan <rhyme label="c" type="f" corresp="#s4:l5">crencken</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">dus wilt my in u liefde <rhyme label="d" type="m" corresp="#s4:l6">ontfaen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Och edele princes <rhyme label="a" type="f">verheeuen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">wilt toch aenmercken met <rhyme label="b" type="m">verstant</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">myn treuren suchten ende <rhyme label="a" type="f" corresp="#s5:l1">beuen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">dien ick nu ly aen elcken <rhyme label="b" type="m" corresp="#s5:l2">kant</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">en laet myn troost van u <rhyme label="c" type="f">genieten</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">laet ick toch in u gracy <rhyme label="d" type="m">staen</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">gheen arbeyt sal myn dan <rhyme label="c" type="f" corresp="#s5:l5">verdrieten</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">dus wilt my in u liefde <rhyme label="d" type="m" corresp="#s5:l6">ontfaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

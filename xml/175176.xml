@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175176</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+    </tags>
+    <melody>Uw liefde kwelt mij tot de dood</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gods zegen maeckt rijck, In <rhyme label="a" type="m">overvloet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">die desolaet soucken te <rhyme label="b" type="f">heelen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">hun schadt ten hemel, wel dubbelt winnen <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">So wie doet nae goods <rhyme label="b" type="f" corresp="#s1:l2">bevelen</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Om de weeskens milt te <rhyme label="b" type="f" corresp="#s1:l2">deelen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het weeshuijs hier bout met wijsen <rhyme label="a" type="m">raet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">goede op sicht wilt <rhyme label="b" type="f">ordineren</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">tis zo gods bevel, en ampt der <rhyme label="a" type="m" corresp="#s2:l1">Magistraet</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">wil te letten, opt <rhyme label="b" type="f" corresp="#s2:l2">regeren</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Op dat weeskens gods naem <rhyme label="b" type="f" corresp="#s2:l2">eeren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Toch met Milderhant, wilt doen het <rhyme label="a" type="m">best</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Om spijsen de armen <rhyme label="b" type="f">weesen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">tongemaeckte huijs noch vry wat veel aen <rhyme label="a" type="m" corresp="#s3:l1">rest</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Dus de bystandt wort <rhyme label="b" type="f" corresp="#s3:l2">gepresen</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">voorden Prijs noch uijt te <rhyme label="b" type="f" corresp="#s3:l2">lesen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Deur oorlooch en Pest off ander <rhyme label="a" type="m">noot</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Daer godt de heer mee doet <rhyme label="b" type="f">castyen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">zo wort de meenicht van weeskinderen <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">tweeshuijs heeft al veel te <rhyme label="b" type="f" corresp="#s4:l2">lijen</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Dan godt laet, <rhyme label="b" type="f" corresp="#s4:l2">gebenedijen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Prince godt aensiet de Ioncheyt <rhyme label="a" type="m">cleijn</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">haer ouderen In zee <rhyme label="b" type="f">verlooren</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Caritaet bewijs, zo doet uijt harten <rhyme label="a" type="m" corresp="#s5:l1">reijn</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Laet met geen Trompetten <rhyme label="b" type="f" corresp="#s5:l2">hooren</rhyme></l>
+        <l id="s5:l5" met="3" type="+-">u In leggen van te <rhyme label="b" type="f" corresp="#s5:l2">voren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

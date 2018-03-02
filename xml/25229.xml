@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25229</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O ghij drieuuldich <rhyme label="a" type="m">enicheijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">den werrelt door v <rhyme label="a" type="m" corresp="#s1:l1">machticheijt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">regerende aensiet ons <rhyme label="b" type="m">loff</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">den welc wij doen, wij die sijn <rhyme label="b" type="m" corresp="#s1:l3">stoff</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wij staen op van ons bedde <rhyme label="a" type="m">saecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">wakende in die stille <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">om te versooken van v <rhyme label="b" type="m">heer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">gesontheijt van ons sonde <rhyme label="b" type="m" corresp="#s2:l3">meer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Waervan  in nachts duijster <rhyme label="a" type="m">gemist</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">moogen hebben door viandts <rhyme label="a" type="m" corresp="#s3:l1">list</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">V glorij machticht die maecht <rhyme label="b" type="m">reijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Vuijt den hemel ons al <rhyme label="b" type="m" corresp="#s3:l3">gemeijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat oock traecheijt thert niet <rhyme label="a" type="m">beclempt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">noch sonden smet het lichaem <rhyme label="a" type="m" corresp="#s4:l1">scent</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">den brant des geest niet maket <rhyme label="b" type="m">kout</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">weest heer met macht ons <rhyme label="b" type="m" corresp="#s4:l3">onderhout</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">hierom verlosser, met <rhyme label="a" type="m">oethmoet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">veruult, wij bidden, ons <rhyme label="a" type="m" corresp="#s5:l1">gemoet</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">met uwen lust, dat genen <rhyme label="b" type="m">strijt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">ons onderdruckt tot enich <rhyme label="b" type="m" corresp="#s5:l3">tijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

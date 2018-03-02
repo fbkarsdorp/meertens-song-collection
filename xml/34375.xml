@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34375</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="1" type="-+"><rhyme label="a" type="f">VErvloghen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">sijt ghy mijn <rhyme label="b" type="m">Herderin</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">VVat trouweloose <rhyme label="b" type="m" corresp="#s1:l2">min</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Heeft de liefde wech <rhyme label="a" type="f" corresp="#s1:l1">getogen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Van mijn soetste <rhyme label="b" type="m" corresp="#s1:l2">Velt-Goddin</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">De vlucht van soo een snellen <rhyme label="c" type="m">gheest</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Gheeft reden van mijn <rhyme label="d" type="f">lijden</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">In plaets van te <rhyme label="d" type="f" corresp="#s1:l7">verblijden</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">My op uwe <rhyme label="c" type="m" corresp="#s1:l6">Bruylof-feest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="1" type="-+">VVaer vlucht <rhyme label="a" type="f">ghy</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Ke staet een weynich <rhyme label="b" type="m">stil</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">VVy hebben gheen <rhyme label="b" type="m" corresp="#s2:l2">verschil</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Toeft, soo vreet niet, waerom sucht <rhyme label="a" type="f" corresp="#s2:l1">ghy</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Mijne lieve <rhyme label="b" type="m" corresp="#s2:l2">Amaril</rhyme>?</l>
+        <l id="s2:l6" met="4" type="-+">Ghy siet u Herder <rhyme label="c" type="m">Celadon</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die met een vierich <rhyme label="d" type="f">wesen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Sijn smert peylt te <rhyme label="d" type="f" corresp="#s2:l7">ghenesen</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Door de straelen van u <rhyme label="c" type="m" corresp="#s2:l6">Son</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="1" type="-+"><rhyme label="a" type="f">Goddinne</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die my alleen <rhyme label="b" type="m">behaeght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Kent wie u liefde <rhyme label="b" type="m" corresp="#s3:l2">draeght</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">VVilt met even liefd' hem <rhyme label="a" type="f" corresp="#s3:l1">minne</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Die sijn leven om u <rhyme label="b" type="m" corresp="#s3:l2">waeght</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Gedenckt eens Herders <rhyme label="c" type="m">minnevlam</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die t'schaepken alle <rhyme label="d" type="f">daghen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Soeckt naer den stal te <rhyme label="d" type="f" corresp="#s3:l7">draghen</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Om te rusten met sijn <rhyme label="c" type="m" corresp="#s3:l6">lam</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="1" type="-+">Ter <rhyme label="a" type="f">tijden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Geen quael u t'herr meer <rhyme label="b" type="m">quelt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">VVant hebt een trouwen <rhyme label="b" type="m" corresp="#s4:l2">helt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die veel meerder is in <rhyme label="a" type="f" corresp="#s4:l1">lijden</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Door u schoon Pigmali <rhyme label="b" type="m" corresp="#s4:l2">belt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Gy sijt sijn segens-baeck en <rhyme label="c" type="m">troost</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Dies hy met diep <rhyme label="d" type="f">verlanghen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Tracht naer u purper <rhyme label="d" type="f" corresp="#s4:l7">wangen</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Als den lant-man naer den <rhyme label="c" type="m" corresp="#s4:l6">oost</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="1" type="-+"><rhyme label="a" type="f">Princersse</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Houdt daer den <rhyme label="b" type="m">diamant</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Die van u Bruygoms <rhyme label="b" type="m" corresp="#s5:l2">hant</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">VVort geschoencken sijn <rhyme label="a" type="f" corresp="#s5:l1">Meestersse</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Nu hy in u liefde <rhyme label="b" type="m" corresp="#s5:l2">brant</rhyme>;</l>
+        <l id="s5:l6" met="4" type="-+">VVel aen, ick voel oock t'min <rhyme label="c" type="m">ghedouw</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Van u sneew-witte <rhyme label="d" type="f">handen</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Die my als echte <rhyme label="d" type="f" corresp="#s5:l7">panden</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">Gheven teeckens van ons <rhyme label="c" type="m" corresp="#s5:l6">trou</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="1" type="-+"><rhyme label="a" type="f">Beminde</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Het is ghenoch <rhyme label="b" type="m">geseyt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Mijn hert staet u <rhyme label="b" type="m" corresp="#s6:l2">bereyt</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Laet my weder-liefde <rhyme label="a" type="f" corresp="#s6:l1">vinde</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Die ons door de doodt maer <rhyme label="b" type="m" corresp="#s6:l2">scheyt</rhyme>:</l>
+        <l id="s6:l6" met="4" type="-+">Ontfanckt dijn Celadon hier <rhyme label="c" type="m">mé</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Sijn trouw wort u <rhyme label="d" type="f">geschoencken</rhyme>.</l>
+        <l id="s6:l8" met="3" type="-+">VVant is van liefde <rhyme label="d" type="f" corresp="#s6:l7">droencken</rhyme></l>
+        <l id="s6:l9" met="3" type="-+">Nu hy met u leeft in <rhyme label="c" type="m" corresp="#s6:l6">vré</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

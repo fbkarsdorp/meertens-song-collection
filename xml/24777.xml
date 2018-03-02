@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24777</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>May song</tag>
+    </tags>
+    <melody>Een M die niet van mij en scheidt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een .M. die nye van mi ne <rhyme label="a" type="m">sciet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Sint ic mi gaf in haer <rhyme label="b" type="m">ghewaldt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Van haer ne wil ic sceiden <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">So wat mi nemmermeer <rhyme label="b" type="m" corresp="#s1:l2">ghevaldt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Haer duecht die es so <rhyme label="b" type="m" corresp="#s1:l2">menichfalt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Bi dezer .M. voughic een <rhyme label="a" type="m">.Y</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Met ganser trauwen sonder <rhyme label="b" type="m">scil</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met desen tween so spelt men <rhyme label="a" type="m" corresp="#s2:l1">mi</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die haer ghestade bliven <rhyme label="b" type="m" corresp="#s2:l2">wil</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Van allen meye tote <rhyme label="b" type="m" corresp="#s2:l2">april</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tusschen der .M. der .Y. so <rhyme label="a" type="m">steit</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Een edel .E. van zoeter <rhyme label="b" type="m">aert</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die .E. bediet ons <rhyme label="a" type="m" corresp="#s3:l1">eewicheit</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Te samen minnentlijch <rhyme label="b" type="m" corresp="#s3:l2">ghepaert</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Niet bet maghic zijn <rhyme label="b" type="m" corresp="#s3:l2">verwaert</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus volghet deser .M. een <rhyme label="a" type="m">.E</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Der .E. een .Y. ende elc <rhyme label="b" type="m">bevrijt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Daer mede so spelt men min no <rhyme label="a" type="m" corresp="#s4:l1">mee</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Mey deser over zoeter <rhyme label="b" type="m" corresp="#s4:l2">tijt</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Daer in elc minre heift <rhyme label="b" type="m" corresp="#s4:l2">jolijt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laet u ghenoughen .M. <rhyme label="a" type="m">alleine</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Den mey die ic u minlic <rhyme label="b" type="m">gheve</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Up erde en anich liever <rhyme label="a" type="m" corresp="#s5:l1">gheine</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ghi zijt die vruecht daer ic bi <rhyme label="b" type="m" corresp="#s5:l2">leve</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Ne gheen ontsien mi van u <rhyme label="b" type="m" corresp="#s5:l2">dreve</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

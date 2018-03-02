@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29500</id>
+    <date>
+      <year-start>1485</year-start>
+      <year-end>1485</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>proverb</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">Clauwaert <rhyme label="a" type="m">clauwaert</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">hoet v vanden <rhyme label="a" type="m" corresp="#s1:l1">leliaert</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">gaet ghij niet vullic thuus <rhyme label="a" type="m" corresp="#s1:l1">waert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ghij laet ter huwen <rhyme label="a" type="m" corresp="#s1:l1">tabbaert</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">ende maken v <rhyme label="a" type="m" corresp="#s1:l1">vervaert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

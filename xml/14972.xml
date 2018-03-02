@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14972</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>De studenten dans</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Al uwe boos' <rhyme label="a" type="f">aenslagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verkeerde mensch van <rhyme label="b" type="m">hert</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Die sullen Godt <rhyme label="a" type="f" corresp="#s1:l1">mishagen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Want hyse moede <rhyme label="b" type="m" corresp="#s1:l2">wert</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">En dat ghy had <rhyme label="c" type="m">gegist</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ghy vinden sult <rhyme label="c" type="m" corresp="#s1:l5">gemist</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Al die te recht <rhyme label="a" type="f">beminnen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">'sLants vryheyt en 't <rhyme label="b" type="m">geloof</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die geven nu dees' <rhyme label="a" type="f" corresp="#s2:l1">spinnen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De boose tot een <rhyme label="b" type="m" corresp="#s2:l2">roof</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">T'is vrienden tyt, treckt <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ontgaet des Spanjaerts <rhyme label="c" type="m" corresp="#s2:l5">strop</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Heer! o God der <rhyme label="a" type="f">helden</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Siet toch dit jammer <rhyme label="b" type="m">aen</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">En wil Duc d'Alf <rhyme label="a" type="f" corresp="#s3:l1">vergelden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Al wat hy heeft <rhyme label="b" type="m" corresp="#s3:l2">gedaen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Die so veel menschen <rhyme label="c" type="m">bloet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Stort met een wreet <rhyme label="c" type="m" corresp="#s3:l5">gemoet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ay keert toch weer <rhyme label="a" type="f">Oranjen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En biet ons nu de <rhyme label="b" type="m">hant</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Wreeckt, wreect ons leet aen <rhyme label="a" type="f" corresp="#s4:l1">Spanjen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Verlost ons <rhyme label="b" type="m" corresp="#s4:l2">Vaderlant</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Op dat, o lieve! <rhyme label="c" type="m">wy</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Gaen mogen los en <rhyme label="c" type="m" corresp="#s4:l5">vry</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

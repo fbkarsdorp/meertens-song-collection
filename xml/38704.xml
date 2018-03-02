@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38704</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+      <tag>shepherd's song</tag>
+    </tags>
+    <melody>Van Rosalia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Mindt ghy dan die trouwheyt <rhyme label="a" type="f">minden</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Soo moet ick medooghen <rhyme label="a" type="f" corresp="#s1:l1">vinden</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">By u schoonste <rhyme label="b" type="m">veldt-goddin</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">Rosamont o Mont van <rhyme label="c" type="f">Rosen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Laet doen vonckxstrael jonstich <rhyme label="c" type="f" corresp="#s1:l4">losen</rhyme>?</l>
+        <l id="s1:l6" met="4" type="+-">Van mijn langh-ghedraghen <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Tuyght u trouw aen my, met <rhyme label="a" type="f">reden</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Soo leef ick met u in <rhyme label="a" type="f" corresp="#s2:l1">vreden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als een vrouw in <rhyme label="b" type="m">trouw-verbont</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Blijft (dat bid ick u') <rhyme label="c" type="f">Philander</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Als in 't vier den <rhyme label="c" type="f" corresp="#s2:l4">Salamander</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Leven, met u <rhyme label="b" type="m" corresp="#s2:l3">Rosamont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Comt Sileni goy <rhyme label="a" type="f">ghebuerkens</rhyme>?</l>
+        <l id="s3:l2" met="4" type="+-">Satyrkerns vol malle <rhyme label="a" type="f" corresp="#s3:l1">kurkens</rhyme>?</l>
+        <l id="s3:l3" met="4" type="+-">Maeckt een dansken in het <rhyme label="b" type="m">ront</rhyme>?</l>
+        <l id="s3:l4" met="4" type="+-">Singht Parnassi neghen <rhyme label="c" type="f">troonen</rhyme>?</l>
+        <l id="s3:l5" met="4" type="+-">Phoebe vlicht hier <rhyme label="c" type="f" corresp="#s3:l4">lauwer-croonen</rhyme>?</l>
+        <l id="s3:l6" met="4" type="+-">Voor mijn bruyt, mijn <rhyme label="b" type="m" corresp="#s3:l3">Rosamont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

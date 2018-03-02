@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24739</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Houd mij in dijn zin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hout mer in dinen <rhyme label="a" type="m">zin</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Lief vrouwelin <rhyme label="b" type="m">tsaer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Al sijn mijn avonturen <rhyme label="c" type="m">cranc</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ic hope tlieve sal comen <rhyme label="b" type="m" corresp="#s1:l2">naer</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Al dinct mi tleide wesen <rhyme label="c" type="m" corresp="#s1:l3">lanc</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">So waer das ich <rhyme label="a" type="m" corresp="#s1:l1">bin</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Of waer ich heinen <rhyme label="b" type="m" corresp="#s1:l2">vaer</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Du aens mijn hertze in dijn <rhyme label="c" type="m" corresp="#s1:l3">bedwanc</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Doe mir also mijns hertzen <rhyme label="b" type="m" corresp="#s1:l2">gaer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ich blive daer <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Steide al mine <rhyme label="b" type="m">jaer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met trouwen vrouwe sonder <rhyme label="c" type="m">verganc</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Doe ich di voer so doet mi <rhyme label="b" type="m" corresp="#s2:l2">naer</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ic sal u minlic spreken <rhyme label="c" type="m" corresp="#s2:l3">danc</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Hout mer in dinen <rhyme label="a" type="m" corresp="#s2:l1">zin</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Lief vrouwelin <rhyme label="b" type="m" corresp="#s2:l2">tsaer</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Al sijn mijn avonturen <rhyme label="c" type="m" corresp="#s2:l3">cranc</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Ic hope tlieve sal comen <rhyme label="b" type="m" corresp="#s2:l2">naer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

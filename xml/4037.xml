@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4037</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Al mijn gepeins doet mij zo wee</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alle mijn gepeys doet mi so <rhyme label="a" type="m">wee</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wien sal ick clagen mijn <rhyme label="b" type="m">verdriet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die sonde en wilt van mi niet <rhyme label="a" type="m" corresp="#s1:l1">scheen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ay lacy wat is mi <rhyme label="b" type="m" corresp="#s1:l2">ghesciet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Al pooge icker om this al om <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Si is altijt in minen <rhyme label="b" type="m" corresp="#s1:l2">ooghen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Dus moet ick singen die druckelijc <rhyme label="c" type="f">liet</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Och sonde ghi doet mi <rhyme label="c" type="f" corresp="#s1:l7">dooghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie sal mi gheuen een troostelijck <rhyme label="a" type="m">woort</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Oft waer sal ic henen <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In menschen is nu gheen <rhyme label="a" type="m" corresp="#s2:l1">confoort</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Ter noot sijn si mi af <rhyme label="b" type="m" corresp="#s2:l2">ghegaen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Het cost mijnder herten soe menigen <rhyme label="b" type="m" corresp="#s2:l2">traen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat vleesch doet mi seer schoon <rhyme label="b" type="m" corresp="#s2:l2">verstaen</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Mer ic vinde mi aldus <rhyme label="c" type="f">bedrogen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Want ick vint nu al <rhyme label="c" type="f" corresp="#s2:l7">gheloghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een weynich een ende dat <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Eest dat mi noch hopen <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dat pure woert ende anders <rhyme label="a" type="m" corresp="#s3:l1">gheen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat verhuecht mi sin ende <rhyme label="b" type="m" corresp="#s3:l2">moet</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Het vloeyt al wter godheyt <rhyme label="b" type="m" corresp="#s3:l2">soet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Het maect den mensch wel <rhyme label="b" type="m" corresp="#s3:l2">gemoet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Het doet wech suchten en <rhyme label="c" type="f">beuen</rhyme>.</l>
+        <l id="s3:l8" met="3" type="-+">In steruen doetet <rhyme label="c" type="f" corresp="#s3:l7">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Conde ic nu sceppen in dese <rhyme label="a" type="m">vloet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">So mocht ic al <rhyme label="b" type="m">ghenesen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Dat nu is quaet soude sijn <rhyme label="a" type="m" corresp="#s4:l1">goet</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat soude ic vrolijc <rhyme label="b" type="m" corresp="#s4:l2">wesen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Tis al om niet hoort dit <rhyme label="b" type="m" corresp="#s4:l2">bediet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Want int gelooue niet en <rhyme label="b" type="m" corresp="#s4:l2">geschiet</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Ten baet gelachtert noch <rhyme label="c" type="f">gepresen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Het moet altijt sonde <rhyme label="c" type="f" corresp="#s4:l7">wesen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghi sijt mijn God / ghi sijt mijn <rhyme label="a" type="m">heeren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghi sijt mijn troost / mijn <rhyme label="b" type="m">toeuerlaet</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Van alle quaet moechdy mi <rhyme label="a" type="m" corresp="#s5:l1">keeren</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ende ooc gheuen goeden <rhyme label="b" type="m" corresp="#s5:l2">raet</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Ghi sijt daer alle mijn hope aen <rhyme label="b" type="m" corresp="#s5:l2">staet</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">V mogentheyt niet en <rhyme label="b" type="m" corresp="#s5:l2">vergaet</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Mijn lof / mijn prijs / ende ooc mijn <rhyme label="c" type="f">eere</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Hoe wijs sijn si die dat wel <rhyme label="c" type="f" corresp="#s5:l7">leeren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ghi sijt die wech / ghi sijt dat <rhyme label="a" type="m">leuen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ghi sijt die waerheyt bouen <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Die vader heeft ons v <rhyme label="a" type="m" corresp="#s6:l1">ghegeuen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Ghesonden in dit aertsche <rhyme label="b" type="m" corresp="#s6:l2">dal</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Ghi sighet die voer ons vechten <rhyme label="b" type="m" corresp="#s6:l2">sal</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Ghi sijt diet al versoenen <rhyme label="b" type="m" corresp="#s6:l2">sal</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Ende ons vercrigen goeden <rhyme label="c" type="f">vrede</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Van al dat adam oyt <rhyme label="c" type="f" corresp="#s6:l7">misdede</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

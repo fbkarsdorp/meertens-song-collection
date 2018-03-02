@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2835</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Passamezzo Hollande</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een bloemetgen heb Ick uit <rhyme label="a" type="f">geleesen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Int hert staet sij <rhyme label="b" type="m">geprent</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">haer blaederkens die staen <rhyme label="a" type="f" corresp="#s1:l1">gereesen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">en bloeyen <rhyme label="b" type="m" corresp="#s1:l2">exsoelent</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">moch ick eens troest van haer <rhyme label="c" type="m">ontfaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Soe waer al mijn truere <rhyme label="c" type="m" corresp="#s1:l5">gedaen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">maer wilt haer <rhyme label="d" type="f">genaede</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">mijn dus gaen <rhyme label="d" type="f" corresp="#s1:l7">voersmaede</rhyme></l>
+        <l id="s1:l9" met="5" type="-+">al ben Ick belaede met druck <rhyme label="c" type="m" corresp="#s1:l5">bevaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haer aesom liefelick <rhyme label="a" type="f">figuere</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Is soeter als een <rhyme label="b" type="m">gernaet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">haer wanskens gebloesent van <rhyme label="a" type="f" corresp="#s2:l1">koeluere</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">haer ooskens <rhyme label="b" type="m" corresp="#s2:l2">delikaet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">blinckende als een <rhyme label="c" type="m">dieaemant</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Die daer staet Int wout <rhyme label="c" type="m" corresp="#s2:l5">geplant</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">haer lipkens <rhyme label="d" type="f">loeiaele</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">schoender als <rhyme label="d" type="f" corresp="#s2:l7">koeraeren</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">vintmen altemael <rhyme label="c" type="m" corresp="#s2:l5">trijonfant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Schoen lief Ick moet u mijn noet <rhyme label="a" type="f">klagen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">met pijn ben Ick <rhyme label="b" type="m">duerwont</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sal ick noch langer <rhyme label="a" type="f" corresp="#s3:l1">Jaegen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">maeck mijn Jonck hert <rhyme label="b" type="m" corresp="#s3:l2">gesont</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Wilt mijn aen sien In mijnen <rhyme label="c" type="m">noet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">helpt mijn uit dit lijden <rhyme label="c" type="m" corresp="#s3:l5">groet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">want Jonckfrou <rhyme label="d" type="f">gepreesen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">ghij kuent mij wel <rhyme label="d" type="f" corresp="#s3:l7">geneesen</rhyme></l>
+        <l id="s3:l9" met="5" type="-+">al ben Ick voerweesen totter <rhyme label="c" type="m" corresp="#s3:l5">doet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">haest u veenes prinses der <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">aensiet mijn swaere <rhyme label="b" type="m">last</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">maeckt dat Ick kan <rhyme label="a" type="f" corresp="#s4:l1">gewinne</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">die op mijn niet en <rhyme label="b" type="m" corresp="#s4:l2">past</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Komt kuiibijdoe veenes <rhyme label="c" type="m">soen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">gij die sit Int tseemels <rhyme label="c" type="m" corresp="#s4:l5">troen</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">wilt haer hart duer <rhyme label="d" type="f">schieten</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Laetet haer <rhyme label="d" type="f" corresp="#s4:l7">voerdrieten</rhyme></l>
+        <l id="s4:l9" met="5" type="-+">Dat Ick mach genieten van u <rhyme label="c" type="m" corresp="#s4:l5">loen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

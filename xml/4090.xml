@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4090</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">THis recht dat wij die maghet <rhyme label="a" type="f">eeren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ende altijt haren dienst <rhyme label="a" type="f" corresp="#s1:l1">vermeeren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Want si is maget / ende moeder ons <rhyme label="a" type="f" corresp="#s1:l1">heeren</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Noyt saliger mensche en was <rhyme label="a" type="f">gheboren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Bouen alle vrouwen is si <rhyme label="a" type="f" corresp="#s2:l1">vercoren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Groot van verdiensten so ghi moget <rhyme label="a" type="f" corresp="#s2:l1">horen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ootmoedich van herten / ende <rhyme label="a" type="f">goedertieren</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Huesch van zeden in alle <rhyme label="a" type="f" corresp="#s3:l1">manieren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Vol van duechden in Gods <rhyme label="a" type="f" corresp="#s3:l1">bestieren</rhyme>.</l>
+        <l id="s3:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als Maria die suyuer <rhyme label="a" type="f">clare</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Oudt was ontrent. xv. <rhyme label="a" type="f" corresp="#s4:l1">iaren</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Liet God de vader gramscap <rhyme label="a" type="f" corresp="#s4:l1">varen</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">In corter tijt / in corter <rhyme label="a" type="f">spacie</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Sant God den engele / te doen <rhyme label="a" type="f" corresp="#s5:l1">salutacie</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Der ionger maghet vol van <rhyme label="a" type="f" corresp="#s5:l1">gracie</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Onse heren god versach ons <rhyme label="a" type="f">wel</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Hi sprac totten enghel <rhyme label="a" type="f" corresp="#s6:l1">Gabriel</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Gaet doet mi een boetscap <rhyme label="a" type="f" corresp="#s6:l1">snel</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Volwaerdich was de enghel <rhyme label="a" type="f">Gabriel</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Het was hem van dancke / het ghereyde hem <rhyme label="a" type="f" corresp="#s7:l1">wel</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Hi wilde voldoen als gods <rhyme label="a" type="f" corresp="#s7:l1">beuel</rhyme></l>
+        <l id="s7:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Te Nazareth so quam hi <rhyme label="a" type="f">na</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Daer hi in bedinge vant <rhyme label="a" type="f" corresp="#s8:l1">Maria</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Hi sprac / Aue plena <rhyme label="a" type="f" corresp="#s8:l1">gratia</rhyme></l>
+        <l id="s8:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Maria versaechde / si liet haer <rhyme label="a" type="f">lesen</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Si sprac heer engel moe mach dit <rhyme label="a" type="f" corresp="#s9:l1">wesen</rhyme>?</l>
+        <l id="s9:l3" met="4" type="-+">Ic en kende noyt man / mi wondert van <rhyme label="a" type="f" corresp="#s9:l1">desen</rhyme></l>
+        <l id="s9:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Maria sprac hi / en vreest niet <rhyme label="a" type="f">seere</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Den heyligen gheest van onsen <rhyme label="a" type="f" corresp="#s10:l1">heeren</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Sal in v dalen / verblijt des <rhyme label="a" type="f" corresp="#s10:l1">seere</rhyme></l>
+        <l id="s10:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Och enghel sprack si / so moetet <rhyme label="a" type="f">mi</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Gheschien alsoe ghi nu brenghet <rhyme label="a" type="f" corresp="#s11:l1">bi</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Ecce ancilla <rhyme label="a" type="f" corresp="#s11:l1">domini</rhyme></l>
+        <l id="s11:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Ter seluer tijt na dat <rhyme label="a" type="f">verhalen</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Liet God den heylighen gheest in haer <rhyme label="a" type="f" corresp="#s12:l1">dalen</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Al in haer onbesmette <rhyme label="a" type="f" corresp="#s12:l1">sale</rhyme></l>
+        <l id="s12:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Daer bleef Maria met Gode <rhyme label="a" type="f">bevrucht</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Ioseph vernamt / dyes hadde hy <rhyme label="a" type="f" corresp="#s13:l1">ducht</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Hy wildese laten / hy coos die <rhyme label="a" type="f" corresp="#s13:l1">vlucht</rhyme></l>
+        <l id="s13:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Als God vernam dat Ioseph <rhyme label="a" type="f">soude</rhyme></l>
+        <l id="s14:l2" met="4" type="-+">Van Maria sceyden alsoe <rhyme label="a" type="f" corresp="#s14:l1">houde</rhyme></l>
+        <l id="s14:l3" met="4" type="-+">Hy sant tot hem sinen enghel <rhyme label="a" type="f" corresp="#s14:l1">boude</rhyme></l>
+        <l id="s14:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Ioseph mijn vrient en twifelt <rhyme label="a" type="f">niet</rhyme></l>
+        <l id="s15:l2" met="4" type="-+">Maria v vrouwe en is niet <rhyme label="a" type="f" corresp="#s15:l1">ghescheynt</rhyme></l>
+        <l id="s15:l3" met="4" type="-+">Van eenighen man verstaghet <rhyme label="a" type="f" corresp="#s15:l1">bediet</rhyme></l>
+        <l id="s15:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="-+">Van dese tijt was Ioseph te <rhyme label="a" type="f">vreden</rhyme></l>
+        <l id="s16:l2" met="4" type="-+">Hi lietse riden / hi ghinc <rhyme label="a" type="f" corresp="#s16:l1">beneden</rhyme></l>
+        <l id="s16:l3" met="4" type="-+">Hi custese vriendelijck te menigher <rhyme label="a" type="f" corresp="#s16:l1">steden</rhyme>.</l>
+        <l id="s16:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="4" type="-+">Alst was verloopen dach / tijt ende <rhyme label="a" type="f">vre</rhyme></l>
+        <l id="s17:l2" met="4" type="-+">Ontrent neghen maenden wel ter <rhyme label="a" type="f" corresp="#s17:l1">cuere</rhyme></l>
+        <l id="s17:l3" met="4" type="-+">Doe baerde maria in een <rhyme label="a" type="f" corresp="#s17:l1">scuere</rhyme></l>
+        <l id="s17:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="4" type="-+">Daer wert Maria vercoren <rhyme label="a" type="f">moeder</rhyme></l>
+        <l id="s18:l2" met="4" type="-+">Van Iesus kerst des menschen <rhyme label="a" type="f" corresp="#s18:l1">broeder</rhyme></l>
+        <l id="s18:l3" met="4" type="-+">Van couden so weende des menschen <rhyme label="a" type="f" corresp="#s18:l1">behoeder</rhyme></l>
+        <l id="s18:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="4" type="-+">Ter seluer vre / ten seluen <rhyme label="a" type="f">tye</rhyme></l>
+        <l id="s19:l2" met="4" type="-+">Dat god geboren was van <rhyme label="a" type="f" corresp="#s19:l1">marie</rhyme></l>
+        <l id="s19:l3" met="4" type="-+">Doe was de lucht vol <rhyme label="a" type="f" corresp="#s19:l1">melodie</rhyme></l>
+        <l id="s19:l4" met="5" type="-+">Nu wel God danck / dat is der engelen <rhyme label="b" type="m">sanc</rhyme>.</l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="4" type="-+">Die engelen songhen ter seluer <rhyme label="a" type="f">tijt</rhyme></l>
+        <l id="s20:l2" met="4" type="-+">Nu wel nu wel wi sijn <rhyme label="a" type="f" corresp="#s20:l1">verblijt</rhyme></l>
+        <l id="s20:l3" met="4" type="-+">Ons is gheboren een <rhyme label="a" type="f" corresp="#s20:l1">ghebenedijt</rhyme></l>
+        <l id="s20:l4" met="5" type="-+">Nu wel god danck dat is der enghelen <rhyme label="b" type="m">sanck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

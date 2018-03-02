@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29333</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>May song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het viel een hemelse dauw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Looft God wilt v <rhyme label="a" type="f">vermaecken</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">veel saecken / ist <rhyme label="b" type="m">proffijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">den tijt / des meijs doet <rhyme label="a" type="f" corresp="#s1:l1">haken</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">t'ontwaken / na den <rhyme label="b" type="m" corresp="#s1:l2">strijt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">gheen vlijt / noch arbeyt suldij <rhyme label="c" type="f">sparen</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">tbeswaren / acht &lt;-ghij&gt; &lt;+nu&gt; <rhyme label="d" type="m">niet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">maer siet / Gods schepsels <rhyme label="c" type="f" corresp="#s1:l5">openbaren</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">denckt wat ons goets <rhyme label="d" type="m" corresp="#s1:l6">gheschiet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Aenschout Gods wonder <rhyme label="a" type="f">wercken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">aenschout son ende <rhyme label="b" type="m">maen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">aenschout wilt neerstich <rhyme label="a" type="f" corresp="#s2:l1">mercken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">siet hoe die sterren <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">aenschout hoe alle dingen <rhyme label="c" type="f">spruiten</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">aenschout hoet swinters <rhyme label="d" type="m">vliet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">aenschout elc dier comt wter <rhyme label="c" type="f" corresp="#s2:l5">muiten</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">denckt wat ons goets <rhyme label="d" type="m" corresp="#s2:l6">gheschiet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Lof bloemen gras off <rhyme label="a" type="f">cruiden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">is huiden in syn <rhyme label="b" type="m">cracht</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">God macht / sy elck <rhyme label="a" type="f" corresp="#s3:l1">beduiden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">den ruiden / mensch niet <rhyme label="b" type="m" corresp="#s3:l2">slacht</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">maer acht / wie haer dus can <rhyme label="c" type="f">becleden</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">de reden  leert v <rhyme label="d" type="m">ijet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">tverdriet / der couden is <rhyme label="c" type="f" corresp="#s3:l5">gheleden</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">denckt wat ons goets <rhyme label="d" type="m" corresp="#s3:l6">gheschiet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Eert schepsels Scheppers <rhyme label="a" type="f">daden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">eert hem die v <rhyme label="b" type="m">regeert</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">eert God prijst sijn <rhyme label="a" type="f" corresp="#s4:l1">genaden</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">eert die ons voed en <rhyme label="b" type="m" corresp="#s4:l2">leert</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">eert God / schaep ossen coeijen <rhyme label="c" type="f">paerden</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">singt voochlen elck v <rhyme label="d" type="m">liet</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">eert God Gods grootste werc op <rhyme label="c" type="f" corresp="#s4:l5">aerden</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">denckt wat ons goets <rhyme label="d" type="m" corresp="#s4:l6">gheschiet</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Prince wilt nu van <rhyme label="a" type="f">binnen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">beminnen / onsen <rhyme label="b" type="m">heer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">een leer / in schepsels <rhyme label="a" type="f" corresp="#s5:l1">winnen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">v sinnen / volcht niet <rhyme label="b" type="m" corresp="#s5:l2">meer</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">t'Gods eer / gebruickt nu alle <rhyme label="c" type="f">desen</rhyme></l>
+        <l id="s5:l6" met="3" type="+-">schouwt wat tmisbruic <rhyme label="d" type="m">verbiet</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">wt wiedt / de sond van God <rhyme label="c" type="f" corresp="#s5:l5">mispresen</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">denckt wat ons goets <rhyme label="d" type="m" corresp="#s5:l6">gheschiet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

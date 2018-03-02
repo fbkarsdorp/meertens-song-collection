@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25183</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Kuosche inde <rhyme label="a" type="f">juogent</rhyme>.</l>
+        <l id="s1:l2" met="3" type="+-">Irbarmich <rhyme label="b" type="f">ingewelde</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">milde inder <rhyme label="a" type="f" corresp="#s1:l1">duogent</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">inde guodis muodis <rhyme label="c" type="m">riche</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">In zorne <rhyme label="c" type="m" corresp="#s1:l4">zuochtich</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">willich in <rhyme label="b" type="f" corresp="#s1:l2">einvelde</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">stede in der <rhyme label="d" type="f">truen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">unnidich umbe <rhyme label="c" type="m" corresp="#s1:l4">sich</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">zuochelich zuo alre <rhyme label="e" type="f">missdede</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">zuo guoder dait kouinne inde <rhyme label="f" type="m">balt</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">we dat allit an im <rhyme label="e" type="f" corresp="#s1:l9">hette</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">de duochte mich zu minnen wail <rhyme label="f" type="m" corresp="#s1:l10">gestalt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

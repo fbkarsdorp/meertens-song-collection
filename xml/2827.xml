@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2827</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>mythological song</tag>
+    </tags>
+    <melody>Mocht ik geluk verwerven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Den mey lustich <rhyme label="a" type="f">voerheeven</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Spruit met veel blaeden <rhyme label="b" type="m">groen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">hiemenes <rhyme label="a" type="f" corresp="#s1:l1">verdreeven</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">verJaecht uit dit <rhyme label="b" type="m" corresp="#s1:l2">saesoen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">naet noorden gaet hy <rhyme label="c" type="f">stryken</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">auroera sietmen <rhyme label="c" type="f" corresp="#s1:l5">blyken</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">oek feebues straelen <rhyme label="d" type="m">klaer</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">schynen ons te met <rhyme label="d" type="m" corresp="#s1:l7">naer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">pomae sietmen nu <rhyme label="a" type="f">bloeyen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ceres brenckt vruchten <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">pan gaet syn schaepkens <rhyme label="a" type="f" corresp="#s2:l1">hoeyen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">paelas voerdrift <rhyme label="b" type="m" corresp="#s2:l2">diskoert</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">florae die doet nu <rhyme label="c" type="f">spruten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">bloemJes soet van <rhyme label="c" type="f" corresp="#s2:l5">viertuiten</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">die Irus nat <rhyme label="d" type="m">bespreit</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">In meenich schone <rhyme label="d" type="m" corresp="#s2:l7">Weit</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Den musiae vruccht voort <rhyme label="a" type="f">bringen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">appoelo speelt seer <rhyme label="b" type="m">Ient</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Daert tgevoegelt by <rhyme label="a" type="f" corresp="#s3:l1">singen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">en fluiten <rhyme label="b" type="m" corresp="#s3:l2">exsoelent</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">faema brenckt In <rhyme label="c" type="f">memoerye</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ons nu eene <rhyme label="c" type="f" corresp="#s3:l5">fictoerye</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">met bommel <rhyme label="d" type="m">voerrewaert</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">In deese mey vruecht <rhyme label="d" type="m" corresp="#s3:l7">baert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Dus prinse wilt U <rhyme label="a" type="f">keeren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">tot hem diet ons al <rhyme label="b" type="m">geeft</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">onthout syn woert en <rhyme label="a" type="f" corresp="#s4:l1">leere</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">van syn wech niet en <rhyme label="b" type="m" corresp="#s4:l2">sneeft</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">tele wilt hier <rhyme label="c" type="f">voerdriven</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">nete laet van u <rhyme label="c" type="f" corresp="#s4:l5">blyven</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">oeck ate diet <rhyme label="d" type="m">verstoert</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">maer u tot duechden <rhyme label="d" type="m" corresp="#s4:l7">spoert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

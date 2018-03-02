@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34365</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+      <tag>mythological song</tag>
+    </tags>
+    <melody>Petite royale</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AEnhoort mijn over-droevich <rhyme label="a" type="f">suchten</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Nimphken die my <rhyme label="b" type="m">vliet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Hout op wilt soo niet <rhyme label="a" type="f" corresp="#s1:l1">vluchten</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Maer eens om doch siet,, Naer die sijn liefd' u <rhyme label="b" type="m" corresp="#s1:l2">biet</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Ach Daphne t'valt te swaer,, <rhyme label="c" type="m">Voorwaer</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Den wech die ick moet loopen <rhyme label="c" type="m" corresp="#s1:l5">naer</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Vertoeft toch wat,, Mijn soetste Nimph, op <rhyme label="d" type="m">dat</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">k'U in mijn ermen <rhyme label="d" type="m" corresp="#s1:l7">vat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy pijnicht al mijn <rhyme label="a" type="f">inghewanden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">En onsteeckt mijn <rhyme label="b" type="m">bloedt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghelijck op't velt int <rhyme label="a" type="f" corresp="#s2:l1">branden</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Kaf den Huysman doet, Soo plaeght ghy mijn <rhyme label="b" type="m" corresp="#s2:l2">ghemoet</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">U vlucht is my een zee,, Van <rhyme label="c" type="m">wee</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die t'hert my bersten doet in <rhyme label="c" type="m" corresp="#s2:l5">twee</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Mijn liefste kindt,, Ke siet eens op u <rhyme label="d" type="m">vrint</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">t'Is Phoebus die u <rhyme label="d" type="m" corresp="#s2:l7">mint</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Helaes wat vierichlijck <rhyme label="a" type="f">verlanghen</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Coestert mijnen <rhyme label="b" type="m">lust</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">Als ick u hair sien <rhyme label="a" type="f" corresp="#s3:l1">hanghen</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Om u hals soo wust,, Word' ick meer <rhyme label="b" type="m" corresp="#s3:l2">ongerust</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">U ooghskens als t'gesteert,, My <rhyme label="c" type="m">weert</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">De bange ziel,, Als ghy <rhyme label="c" type="m" corresp="#s3:l5">verbeert</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Mijn drucklijck hert,, Door t'licht dat veel te <rhyme label="d" type="m">hert</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Op my gheblixemt <rhyme label="d" type="m" corresp="#s3:l7">wert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wat Coninck-rijck heeft oit <rhyme label="a" type="f">ghedragen</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Sulcken prael als <rhyme label="b" type="m">ghy</rhyme>?</l>
+        <l id="s4:l3" met="3" type="-+">Noit en bescheen mijn wagen,, Sulcken <rhyme label="a" type="f" corresp="#s4:l1">schildery</rhyme>.</l>
+        <l id="s4:l4" met="6" type="-+">Helaes k'beswijck ay <rhyme label="b" type="m" corresp="#s4:l2">my</rhyme>!</l>
+        <l id="s4:l5" met="4" type="-+">Ey iont Goddin my vaeck,, <rhyme label="c" type="m">t'Vermaeck</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dat ick maer eens u ermkens <rhyme label="c" type="m" corresp="#s4:l5">raeck</rhyme>,</l>
+        <l id="s4:l7" met="5" type="-+">Ach k'word' ontstelt,, Als ghy my meer <rhyme label="d" type="m">verbelt</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">t'Gheen my noch straffer <rhyme label="d" type="m" corresp="#s4:l7">quelt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Waer loopt ghy lief en wilt niet <rhyme label="a" type="f">vallen</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Dat ghy om niet <rhyme label="b" type="m">swickt</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">De clippen die versmallen,, En het water <rhyme label="a" type="f" corresp="#s5:l1">blickt</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">Ick Phoebus ben <rhyme label="b" type="m" corresp="#s5:l2">verschrickt</rhyme>;</l>
+        <l id="s5:l5" met="4" type="-+">Ay my k'voel wagg'len stuck,, Wat <rhyme label="c" type="m">druck</rhyme>!</l>
+        <l id="s5:l6" met="4" type="-+">Ke wacht u lief voor <rhyme label="c" type="m" corresp="#s5:l5">ongheluck</rhyme>,</l>
+        <l id="s5:l7" met="5" type="-+">Verlaet dees baen,, En nempt u minnaer <rhyme label="d" type="m">aen</rhyme></l>
+        <l id="s5:l8" met="3" type="+-">Die u comt <rhyme label="d" type="m" corresp="#s5:l7">naer-ghegaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Helaes wat grijp ick aen mijn <rhyme label="a" type="f">leppen</rhyme>,</l>
+        <l id="s6:l2" met="3" type="+-">Ach mijn lief ick <rhyme label="b" type="m">schroom</rhyme>!</l>
+        <l id="s6:l3" met="3" type="-+">Heb ghy u doen herscheppen,, In een <rhyme label="a" type="f" corresp="#s6:l1">lauwer-boom</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Hoe Nimphken is het <rhyme label="b" type="m" corresp="#s6:l2">droom</rhyme>?</l>
+        <l id="s6:l5" met="4" type="-+">Wel nu ick u niet magh,, Die <rhyme label="c" type="m">k'sagh</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Te houden, wil ick al den <rhyme label="c" type="m" corresp="#s6:l5">dagh</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">Mijn hooft naer wens,, Becroonen als een <rhyme label="d" type="m">mens</rhyme></l>
+        <l id="s6:l8" met="3" type="+-">Met u groen <rhyme label="d" type="m" corresp="#s6:l7">blaederkens</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

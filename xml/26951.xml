@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26951</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Mijn zinnetjes zijn mij doortogen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Mein syn seintt mir <rhyme label="a" type="f">entzogenn</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">mein hertz iß mir <rhyme label="b" type="m">durchwondtt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Jch fruchtt ich bins <rhyme label="a" type="f" corresp="#s1:l1">belogenn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">gegen irhen roter m <rhyme label="b" type="m" corresp="#s1:l2">ndtt</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">Wann ich daran <rhyme label="c" type="f">gedenck</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">wie rewlich das ich <rhyme label="d" type="m">bin</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">vill suchten will ich <rhyme label="c" type="f" corresp="#s1:l5">schencken</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">Das macht des kleffers <rhyme label="c" type="f" corresp="#s1:l5">schwenckenn</rhyme> /</l>
+        <l id="s1:l9" met="3" type="-+">brengen mein J nges hertz jn <rhyme label="d" type="m" corresp="#s1:l6">pein</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">N  woll hin sprach sich ein g etter <rhyme label="a" type="f">geselle</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">der vill verlorenn <rhyme label="b" type="m">hatt</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Zu dem will ich mich <rhyme label="a" type="f" corresp="#s2:l1">gesellenn</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">vnnd halten von jm den <rhyme label="b" type="m" corresp="#s2:l2">rath</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">noch soltt darbei nitt <rhyme label="c" type="f">pleiben</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">waß vnß der kleffer <rhyme label="d" type="m">sagtt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">kundt ich so fill fre dtt <rhyme label="c" type="f" corresp="#s2:l5">bedrieben</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">das sei bei mir woltt <rhyme label="c" type="f" corresp="#s2:l5">pleiben</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">so wehr ich woll <rhyme label="d" type="m" corresp="#s2:l6">gemoitt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">N  gesegen dich gott mein <rhyme label="a" type="f">hertze</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">Wie gar bedrobest  <rhyme label="b" type="m">mich</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Zieh von mir jamer vnnd <rhyme label="a" type="f" corresp="#s3:l1">schmertz</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">vmb alle Junckfrawlein <rhyme label="b" type="m" corresp="#s3:l2">fein</rhyme>/</l>
+        <l id="s3:l5" met="3" type="-+">war fint man deins <rhyme label="c" type="f">gleichenn</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">bo en erhe bist  ein <rhyme label="d" type="m">kron</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">hilff gott von <rhyme label="c" type="f" corresp="#s3:l5">himmelreichenn</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">van dannen m st ich <rhyme label="c" type="f" corresp="#s3:l5">weichenn</rhyme> /</l>
+        <l id="s3:l9" met="3" type="-+">Das schaffett mir <rhyme label="d" type="m" corresp="#s3:l6">vngefall</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

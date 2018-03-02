@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27193</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody>Lief uitverkoren lief triomfant</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Door fantasyen / vindt ick myn <rhyme label="a" type="m">jeucht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In droeuich lyen / en <rhyme label="a" type="m" corresp="#s1:l1">ongeneucht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dies ick my quelle / want ick sal <rhyme label="b" type="m">nu</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Madamoiselle / scheyden van <rhyme label="b" type="m" corresp="#s1:l3">v</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">In vreemde lants gaen / van nu <rhyme label="c" type="m">voortaen</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Wandelen gaen / daer ick my seer voor <rhyme label="b" type="m" corresp="#s1:l3">gru</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe sal ick moghen / nemen <rhyme label="a" type="m">verdrach</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Als vwer ooghen / lieffelyck <rhyme label="a" type="m" corresp="#s2:l1">opslaen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">My niet beschynen / voerwaer ick <rhyme label="b" type="m">smelt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En sal verdwynen / als sneeu opt <rhyme label="b" type="m" corresp="#s2:l3">velt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Wie salder dan syn / die welcke <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">van druck en pyn / sal maecken <rhyme label="b" type="m" corresp="#s2:l3">ongequelt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick sal ontberen / v <rhyme label="a" type="m">gracyeus</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">soet colloqueren / en <rhyme label="a" type="m" corresp="#s3:l1">amoreux</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">geclanck van woorden / seer <rhyme label="b" type="m">eloquent</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">die ick aenhoorden / soude <rhyme label="b" type="m" corresp="#s3:l3">ontrent</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">ick claecht den dach / o wee o <rhyme label="c" type="m">wach</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">dat v soet gelach / van my sal syn <rhyme label="b" type="m" corresp="#s3:l3">gewent</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O patiency / hoochweerdich <rhyme label="a" type="m">cruyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">In s'liefs absency / mildelyck <rhyme label="a" type="m" corresp="#s4:l1">spruyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">in mynder sinnen / affeckteys <rhyme label="b" type="m">aert</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">daer tvier der minnen / hem <rhyme label="b" type="m" corresp="#s4:l3">openbaert</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">op dat myn hert / door druck en <rhyme label="c" type="m">smert</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">dan niet en wart / te jamerlyck <rhyme label="b" type="m" corresp="#s4:l3">beswaert</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Naest Godt almachtich / die t'al <rhyme label="a" type="m">regeert</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">syt ghy waerachtich / van my <rhyme label="a" type="m" corresp="#s5:l1">geert</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">ende wt pure / liefde <rhyme label="b" type="m">bemint</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">geen creature / is so <rhyme label="b" type="m" corresp="#s5:l3">besint</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">in al myn gedacht / tis lieffden <rhyme label="c" type="m">cracht</rhyme></l>
+        <l id="s5:l6" met="5" type="-+">die met eendracht / dit fondament <rhyme label="b" type="m" corresp="#s5:l3">begint</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Adieu Princesse / myn lieffste <rhyme label="a" type="m">lieff</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">schoonste matresse / tsherten <rhyme label="a" type="m" corresp="#s6:l1">gerief</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">godt wil v spaeren / met <rhyme label="b" type="m">gesontheyt</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">een lanck weluaeren / tot <rhyme label="b" type="m" corresp="#s6:l3">salicheyt</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">al ben ick apsent / myn hert is <rhyme label="c" type="m">ontrent</rhyme></l>
+        <l id="s6:l6" met="5" type="-+">en tot den endt / t'vwen dienste <rhyme label="b" type="m" corresp="#s6:l3">bereyt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

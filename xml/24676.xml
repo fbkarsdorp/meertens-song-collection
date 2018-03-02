@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24676</id>
+    <date>
+      <year-start>1470</year-start>
+      <year-end>1480</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>O gij die nu ter tijden lijdt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O gi, die nu ter tiden <rhyme label="a" type="m">lijdt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mit recht so moech di sijn <rhyme label="a" type="m" corresp="#s1:l1">verblijt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Opdat gi ymmer lijdsaem <rhyme label="a" type="m" corresp="#s1:l1">sijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Want gi selt corts groot loen <rhyme label="b" type="m">ontfaen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">En hebt daer ghenen twifel <rhyme label="b" type="m" corresp="#s1:l4">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Na mijn verstaen, als Jhesus <rhyme label="a" type="m">seyt</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">'Die liden mit <rhyme label="a" type="m" corresp="#s2:l1">verduldicheyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die ewich croen is hem <rhyme label="a" type="m" corresp="#s2:l1">bereyt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">End grote vruechd in <rhyme label="b" type="m">hemmelrijc</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Wel u, die lijt <rhyme label="b" type="m" corresp="#s2:l4">verduldelijc</rhyme>.'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och heer, o God, hoe wel hi <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die eyghen wille <rhyme label="a" type="m" corresp="#s3:l1">afterlaet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En mynt om God die hem doet <rhyme label="a" type="m" corresp="#s3:l1">quaet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Waerlic, dees is Goots lieve <rhyme label="b" type="m">soen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">15 Sijn loen sel groot sijn in den <rhyme label="b" type="m" corresp="#s3:l4">throen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och heer, dat teyken is so <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">So wie men dicwil onrecht <rhyme label="a" type="m" corresp="#s4:l1">doet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">End daer op denct mit groot <rhyme label="a" type="m" corresp="#s4:l1">oetmoet</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Mijn sonden hebbent wel <rhyme label="b" type="m">verdient</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Ic danc den heer diet my <rhyme label="b" type="m" corresp="#s4:l4">verleent</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wye so altijt sijn onrecht <rhyme label="a" type="m">keert</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">End anders ghene wraack <rhyme label="a" type="m" corresp="#s5:l1">begheert</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Waerlic die is seer wel <rhyme label="a" type="m" corresp="#s5:l1">gheleert</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Om borgher tsijn in <rhyme label="b" type="m">hemmelrijc</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Want hi strijt wel end <rhyme label="b" type="m" corresp="#s5:l4">vroemelijc</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die nymmermeer en heeft <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Mer altijt sine wille <rhyme label="a" type="m" corresp="#s6:l1">siet</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ic vrees dat teyken quaet <rhyme label="a" type="m" corresp="#s6:l1">bediet</rhyme>.</l>
+        <l id="s6:l4" met="4" type="-+">Want wye vruechd boven sel <rhyme label="b" type="m">ontfaen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Die wort mit liden dic <rhyme label="b" type="m" corresp="#s6:l4">bevaen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dus laet ons liden nijt <rhyme label="a" type="m">versmaen</rhyme>.</l>
+        <l id="s7:l2" met="4" type="-+">Tis ons so goet, kond wijt <rhyme label="a" type="m" corresp="#s7:l1">verstaen</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Want tdoet den gheest tot Gode <rhyme label="a" type="m" corresp="#s7:l1">gaen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Opdat men lijt <rhyme label="b" type="m">verduldelijc</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Want anders heb ic <rhyme label="b" type="m" corresp="#s7:l4">onghelijc</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Laet ons mit liden sijn <rhyme label="a" type="m">content</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Want als ons Jhesus dat <rhyme label="a" type="m" corresp="#s8:l1">toeseynt</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">So hebwi scone <rhyme label="a" type="m" corresp="#s8:l1">testament</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Dat hi sijn lieve moeder <rhyme label="b" type="m">liet</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Doe hi van haer ant cruys <rhyme label="b" type="m" corresp="#s8:l4">versciet</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Dat testament is ymmer <rhyme label="a" type="m">scoen</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Dat ons verdienen doet die <rhyme label="a" type="m" corresp="#s9:l1">croen</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">End ewich vruechde in den <rhyme label="a" type="m" corresp="#s9:l1">throen</rhyme>.</l>
+        <l id="s9:l4" met="4" type="-+">End want dat druc end liden <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s9:l5" met="4" type="-+">Hier so sijn sy scoen end <rhyme label="b" type="m" corresp="#s9:l4">goet</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Mer lacy, wi sijn dic <rhyme label="a" type="m">verblint</rhyme>.</l>
+        <l id="s10:l2" met="4" type="-+">Wanneer ons druc of liden <rhyme label="a" type="m" corresp="#s10:l1">vijnt</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Ons dunct dat god ons nijt en <rhyme label="a" type="m" corresp="#s10:l1">mynt</rhyme>.</l>
+        <l id="s10:l4" met="4" type="-+">Ey, waer wijs vroet, ten is so <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s10:l5" met="4" type="-+">Want wie god mynt, heeft dic <rhyme label="b" type="m" corresp="#s10:l4">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Het is alsmen bescreven <rhyme label="a" type="m">vijnt</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">So wie dat God, ons vader, <rhyme label="a" type="m" corresp="#s11:l1">mynt</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Castijt hi als sijn lieve <rhyme label="a" type="m" corresp="#s11:l1">kijnt</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Mit druc, mit liden dicwil <rhyme label="b" type="m">zeer</rhyme>.</l>
+        <l id="s11:l5" met="4" type="-+">Hier om in liden dancten <rhyme label="b" type="m" corresp="#s11:l4">heer</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Wat hier van liden is <rhyme label="a" type="m">gheseyt</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">Dat is bescloten ende <rhyme label="a" type="m" corresp="#s12:l1">leyt</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">In willighe <rhyme label="a" type="m" corresp="#s12:l1">oetmoedicheyt</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">Want hemmelrijc is <rhyme label="b" type="m">onbereyt</rhyme></l>
+        <l id="s12:l5" met="4" type="-+">Bedwanc mit <rhyme label="b" type="m" corresp="#s12:l4">onverduldicheit</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Hierom so laet ons <rhyme label="a" type="m">trouwelijc</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Aenroepen God van <rhyme label="a" type="m" corresp="#s13:l1">hemmelrijc</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">End bidden hem <rhyme label="a" type="m" corresp="#s13:l1">oetmoedelijc</rhyme></l>
+        <l id="s13:l4" met="4" type="-+">Dat hi ons liden laet hier <rhyme label="b" type="m">neer</rhyme>,</l>
+        <l id="s13:l5" met="4" type="-+">Verduldelic tot sijnre <rhyme label="b" type="m" corresp="#s13:l4">eer</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">O Jhesu, uutvercoren <rhyme label="a" type="m">heer</rhyme>,</l>
+        <l id="s14:l2" met="4" type="-+">Wi bidden, ist u wil end <rhyme label="a" type="m" corresp="#s14:l1">eer</rhyme>,</l>
+        <l id="s14:l3" met="4" type="-+">Dat ghi ons liden laet hier <rhyme label="a" type="m" corresp="#s14:l1">neer</rhyme></l>
+        <l id="s14:l4" met="4" type="-+">Verduldelic, soet u <rhyme label="b" type="m">behaecht</rhyme>,</l>
+        <l id="s14:l5" met="4" type="-+">End daerna haelt ons <rhyme label="b" type="m" corresp="#s14:l4">onversaecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29479</id>
+    <date>
+      <year-start>1299</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>keulen of omgeving?</orginal-name>
+      <standard-name>Cologne, Germany</standard-name>
+      <coordinates>
+        <lon>50.938361</lon>
+        <lat>6.959974</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vro ere mint nicht vmbe <rhyme label="a" type="m">gut</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Si mint aber <rhyme label="b" type="m">swer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">mit gute lobeliche <rhyme label="a" type="m" corresp="#s1:l1">tut</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Swer gut vor ere <rhyme label="c" type="f">minnet</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Swer den eret daz ist gar ane ir <rhyme label="d" type="m">rat</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ein man si riche. Ein man si <rhyme label="e" type="m">arm</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Si wirt an <rhyme label="f" type="m">ir</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">De cheines site nimmer minne <rhyme label="e" type="m" corresp="#s1:l6">warm</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Der si veile <rhyme label="g" type="m">erchent</rhyme></l>
+        <l id="s1:l10" met="5" type="-+">Er selich man der si veile <rhyme label="d" type="m" corresp="#s1:l5">hat</rhyme></l>
+        <l id="s1:l11" met="5" type="+-">Swer aber durch gut wirt sine eren <rhyme label="h" type="f">ane</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">Vnde wil er dan noch leben in eren <rhyme label="h" type="f" corresp="#s1:l11">wane</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Bi den eren geernten <rhyme label="i" type="f">luten</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Inder maze er bi in <rhyme label="j" type="m">ist</rhyme></l>
+        <l id="s1:l15" met="4" type="-+">Al san bi pheffer meuse <rhyme label="j" type="m" corresp="#s1:l14">mist</rhyme></l>
+        <l id="s1:l16" met="5" type="-+">Si gelwez lop kan ich nicht baz <rhyme label="i" type="f" corresp="#s1:l13">bereyten</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

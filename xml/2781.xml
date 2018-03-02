@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2781</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Een meisje van hart fijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie wil hoeren een nieu <rhyme label="a" type="f">liet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">van deesen niewe Jaer <rhyme label="b" type="m">plaesant</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">van twee meisies souwen uit schueren <rhyme label="a" type="f" corresp="#s1:l1">gaen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">en sy gingen in veenes berch om <rhyme label="b" type="m" corresp="#s1:l2">sant</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">want sy hadde vruecht <rhyme label="c" type="m">voerpacht</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Vruecht hantiere was haer <rhyme label="d" type="f">begeeren</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">al die lieue lange <rhyme label="c" type="m" corresp="#s1:l5">nacht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat hebben die Jongeuryers <rhyme label="a" type="f">voernomen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In de buert of daer <rhyme label="b" type="m">ontrent</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Sy sien in veenes berch <rhyme label="a" type="f" corresp="#s2:l1">gekoemen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">sy hebben die meisies wel <rhyme label="b" type="m" corresp="#s2:l2">bekent</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">want sy hadde vruecht <rhyme label="c" type="m">voerpacht</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Vruecht hantiere was haer <rhyme label="d" type="f">begeeren</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">al die lieue lange <rhyme label="c" type="m" corresp="#s2:l5">nacht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">smorgens vroeuch en het was schoen <rhyme label="a" type="f">dach</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">en sy souwen tuiswert <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Deen begon soe seer te <rhyme label="a" type="f" corresp="#s3:l1">weenen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dander was met vruecht <rhyme label="b" type="m" corresp="#s3:l2">belaen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">want sy hadde vruecht <rhyme label="c" type="m">voerpacht</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Vruecht hantiere was haer <rhyme label="d" type="f">begeeren</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">al die lieue lange <rhyme label="c" type="m" corresp="#s3:l5">nacht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Oorlof gy prinse mannen en <rhyme label="a" type="f">vrouwe</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En stiert u kinderen niet meer om <rhyme label="b" type="m">sant</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">en wiltse niet soe vast <rhyme label="a" type="f" corresp="#s4:l1">betrouwe</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Want haer geloef Is veelste <rhyme label="b" type="m" corresp="#s4:l2">kranck</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">want sy hadde vruecht <rhyme label="c" type="m">voerpacht</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Vruecht hantiere was haer <rhyme label="d" type="f">begeeren</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">al die lieue lange <rhyme label="c" type="m" corresp="#s4:l5">nacht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24301</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1575</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ik zeg adieu</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">De Heere <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Laet ons louen en <rhyme label="b" type="f">prijsen</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Sijn crachten <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ouer ons eerlic <rhyme label="b" type="f" corresp="#s1:l2">rijsen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hy geeft tot onsen <rhyme label="c" type="m">onderhout</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Sijn elementen <rhyme label="c" type="m" corresp="#s1:l5">menichfout</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Hem dan <rhyme label="c" type="m" corresp="#s1:l5">betroudt</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Die eerde gheeft ons siluer en <rhyme label="c" type="m" corresp="#s1:l5">gout</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Dwater en <rhyme label="a" type="m">tvier</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Doen de eerde wel <rhyme label="b" type="f">groeyen</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Des lochts <rhyme label="a" type="m" corresp="#s2:l1">bestier</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Comste oock net <rhyme label="b" type="f" corresp="#s2:l2">bespoeyen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Met reghen en den dauwe <rhyme label="c" type="m">reyn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En geeft ons graen/ en wijn <rhyme label="c" type="m" corresp="#s2:l5">ghemeyn</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Van als <rhyme label="c" type="m" corresp="#s2:l5">certeyn</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Looft God Heere groot en <rhyme label="c" type="m" corresp="#s2:l5">cleyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">De Coeykens <rhyme label="a" type="m">snel</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ons melck en boter <rhyme label="b" type="f">spreeden</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">De Schaepkens <rhyme label="a" type="m" corresp="#s3:l1">wel</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ons naecte lijf ient <rhyme label="b" type="f" corresp="#s3:l2">cleeden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Het water gheeft ons Visch <rhyme label="c" type="m">planteyt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dwelck God altijt voor ons <rhyme label="c" type="m" corresp="#s3:l5">bereyt</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Met goet <rhyme label="c" type="m" corresp="#s3:l5">bescheyt</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">O God groot is dijne <rhyme label="c" type="m" corresp="#s3:l5">maiesteyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Die Voghels <rhyme label="a" type="m">ient</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Haer inde locht <rhyme label="b" type="f">verblijden</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Met sanck <rhyme label="a" type="m" corresp="#s4:l1">bekent</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Louen sy tallen <rhyme label="b" type="f" corresp="#s4:l2">tijden</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Den Heere goet/ tot ons <rhyme label="c" type="m">bevrijt</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dus laet ons oock God louen <rhyme label="c" type="m" corresp="#s4:l5">wijt</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Met alder <rhyme label="c" type="m" corresp="#s4:l5">vlijt</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Int hoochste is hy <rhyme label="c" type="m" corresp="#s4:l5">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Prince <rhyme label="a" type="m">vermaert</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">O God niet om <rhyme label="b" type="f">verhooghen</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Ghy ons <rhyme label="a" type="m" corresp="#s5:l1">bewaert</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Als den appel der <rhyme label="b" type="f" corresp="#s5:l2">ooghen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Met alle d'Elementen <rhyme label="c" type="m">dijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Onderhout ghy ons tleuen <rhyme label="c" type="m" corresp="#s5:l5">fijn</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">In desen <rhyme label="c" type="m" corresp="#s5:l5">schijn</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Lof moet u inder eewicheyt <rhyme label="c" type="m" corresp="#s5:l5">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

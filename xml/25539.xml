@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25539</id>
+    <date>
+      <year-start>1301</year-start>
+      <year-end>1325</year-end>
+    </date>
+    <location>
+      <orginal-name>rijnland?</orginal-name>
+      <standard-name>Rijnland, Germany</standard-name>
+      <coordinates>
+        <lon>51.466667</lon>
+        <lat>7.55</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>new year song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Helf god we mach myr lever <rhyme label="a" type="m">syn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">den ich seghe eyn vrouchen <rhyme label="a" type="m" corresp="#s1:l1">fyn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">de myr myt ghunsten ghudes <rhyme label="b" type="m">ghan</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Lever den ich hy <rhyme label="b" type="m" corresp="#s1:l3">ghesach</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">datz bistu vruntlich lieb <rhyme label="c" type="m">alzo</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Tzo nuwen jar myn hertze <rhyme label="c" type="m" corresp="#s1:l5">twinghet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">daz ist na dyne hulden <rhyme label="d" type="m">rich</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">daz ist mir leib unde dir <rhyme label="d" type="m" corresp="#s1:l7">ghelich</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

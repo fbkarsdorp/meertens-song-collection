@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4044</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>spiritual song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Och lig dij nu en slaapt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Minen gheest is mi <rhyme label="a" type="m">ontwaect</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hi en can niet meer <rhyme label="b" type="f">gheslapen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Wat vruechden dat hi <rhyme label="a" type="m" corresp="#s1:l1">maect</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die doot wil mi <rhyme label="b" type="f" corresp="#s1:l2">betrapen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Hi heeft al sulc <rhyme label="c" type="m">beuel</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dat hi nu schier mopet <rhyme label="d" type="f">henen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Dus mach ick singhen <rhyme label="c" type="m" corresp="#s1:l5">wel</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Minen mey die is <rhyme label="d" type="f" corresp="#s1:l6">verdwenen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Verdwenen is minen <rhyme label="a" type="m">boom</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Daer en is geen vrucht in <rhyme label="b" type="f">bleuen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Hoe luttel nam icx <rhyme label="a" type="m" corresp="#s2:l1">goom</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Doen hi stont schoon <rhyme label="b" type="f" corresp="#s2:l2">becleuen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ick was ionck / dom / en <rhyme label="c" type="m">snel</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Nu moet ic suchten en <rhyme label="d" type="f">stenen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Dus mach ick singhen <rhyme label="c" type="m" corresp="#s2:l5">wel</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Minen mey die is <rhyme label="d" type="f" corresp="#s2:l6">verdwenen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die mi in mijnder <rhyme label="a" type="m">iuecht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Veel bliscappen aen <rhyme label="b" type="f">daden</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sij en sijn van mi niet <rhyme label="a" type="m" corresp="#s3:l1">verhuecht</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Sij en connen mi niet <rhyme label="b" type="f" corresp="#s3:l2">versaden</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">So waer dat ict <rhyme label="c" type="m">vertel</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ick en weet op niemant <rhyme label="d" type="f">beenen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Dus mach ick singhen <rhyme label="c" type="m" corresp="#s3:l5">wel</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Minen mey die is <rhyme label="d" type="f" corresp="#s3:l6">verdwenen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wat helpt mi nu het <rhyme label="a" type="m">iolijt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat ick placht te <rhyme label="b" type="f">hantieren</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Die doot coemt sonder <rhyme label="a" type="m" corresp="#s4:l1">respijt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Hoe schoon wij ons <rhyme label="b" type="f" corresp="#s4:l2">verchieren</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Als ick dit ouer <rhyme label="c" type="m">tel</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Beghinne ick mi te <rhyme label="d" type="f">vereenen</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Dus mach ick singhen <rhyme label="c" type="m" corresp="#s4:l5">wel</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Minen mey die is <rhyme label="d" type="f" corresp="#s4:l6">verdwenen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Als ick nu in die aerde <rhyme label="a" type="m">si</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Waer sal mijn siel dan <rhyme label="b" type="f">varen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">O God staet mi dan <rhyme label="a" type="m" corresp="#s5:l1">bi</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Ende behoedtr mi vander <rhyme label="b" type="f" corresp="#s5:l2">scaren</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Des boosen vyants <rhyme label="c" type="m">fel</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Ende van dat eewich <rhyme label="d" type="f">weenen</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Wilt mi dan alsoe <rhyme label="c" type="m" corresp="#s5:l5">wel</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">V eewich rijck <rhyme label="d" type="f" corresp="#s5:l6">verleenen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

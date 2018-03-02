@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24834</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>Zonder nummer of getal</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sonder nommer of <rhyme label="a" type="f">ghetal</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">So hebbic vruecht <rhyme label="b" type="m">bezeven</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die ic minne mi minnen <rhyme label="a" type="f" corresp="#s1:l1">zal</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">So heift mi troost <rhyme label="b" type="m" corresp="#s1:l2">ghegeven</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Nu willic vroilic <rhyme label="b" type="m" corresp="#s1:l2">leven</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie weet of ics geloven <rhyme label="a" type="f">wil</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Want ic ne weets niet <rhyme label="b" type="m">zelve</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Haer troost heift in tverstaen <rhyme label="a" type="f" corresp="#s2:l1">ghescil</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Hoe ict keere of <rhyme label="b" type="m" corresp="#s2:l2">welve</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Om niet ic dike ende <rhyme label="b" type="m" corresp="#s2:l2">delve</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soe heift geseit soe sal mi <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dus heift zoe haer <rhyme label="b" type="m">vermeten</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Maer weltijt salzoes <rhyme label="a" type="f" corresp="#s3:l1">beginnen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat soudic gerne <rhyme label="b" type="m" corresp="#s3:l2">weten</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Ic duchte soe saels <rhyme label="b" type="m" corresp="#s3:l2">vergeten</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Vergeit soet ende ict haer <rhyme label="a" type="f">verwite</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wat hebbic dan <rhyme label="b" type="m">gewonnen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">So salzoe secghen sceldet <rhyme label="a" type="f" corresp="#s4:l1">quite</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Wat doetem yet <rhyme label="b" type="m" corresp="#s4:l2">begonnen</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Die niet verbeiden <rhyme label="b" type="m" corresp="#s4:l2">connen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus willic beiden ende <rhyme label="a" type="f">verdraghen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Laet zien wat zaelt mi <rhyme label="b" type="m">baten</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">In hebbbe int zwighen no int <rhyme label="a" type="f" corresp="#s5:l1">claghen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">No ghedaen no <rhyme label="b" type="m" corresp="#s5:l2">ghelaten</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ic peinse ic bem <rhyme label="b" type="m" corresp="#s5:l2">verwaten</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ghetrouwe minres roup wi <rhyme label="a" type="f">wrake</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Over zulke <rhyme label="b" type="m">wiven</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Die int ghelaet ende in de <rhyme label="a" type="f" corresp="#s6:l1">sprake</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">In minnen troost <rhyme label="b" type="m" corresp="#s6:l2">bedriven</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Ende niet daer bi ne <rhyme label="b" type="m" corresp="#s6:l2">bliven</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22539</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>devout song</tag>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>Verlangen verlangen doet mijn hart pijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Voerlanghen, voerlanghen, du doeste mijnre jongher hartge <rhyme label="a" type="m">pyne</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Al om tee weten, o Vader, die wille <rhyme label="a" type="m" corresp="#s1:l1">Dijn</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Mijn harte is vaervremt, vervremt soe veer van <rhyme label="b" type="m">Dy</rhyme>!</l>
+        <l id="s1:l4" met="5" type="-+">Mijn rede daer consciencie  die knaghen dijcwijl <rhyme label="b" type="m" corresp="#s1:l3">mij</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, Vader <rhyme label="b" type="m" corresp="#s1:l3">mijn</rhyme>!</l>
+        <l id="s1:l6" met="5" type="-+">De claerheit is bovengaende daer sonnen <rhyme label="b" type="m" corresp="#s1:l3">cristallijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Begheren, begheren, doet mij mij cracht <rhyme label="a" type="m">verteren</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Al om al om te weten, Jhesus, die liefste <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Sel ic sijn troest, sijn trooest niet schier <rhyme label="b" type="m">vaerwerven</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Van rou soe moet, soe moet ic ummer <rhyme label="b" type="m" corresp="#s2:l3">sterven</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, mijn hert dat <rhyme label="b" type="m" corresp="#s2:l3">screit</rhyme>!</l>
+        <l id="s2:l6" met="5" type="-+">Och Vader, wilt mij vertroesten, verdrijft mijns herten <rhyme label="b" type="m" corresp="#s2:l3">leit</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Duchten ende vresen, dat doet mijn hert <rhyme label="a" type="m">versaghen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Och mocht, och mocht ic, o Vader, U <rhyme label="a" type="m" corresp="#s3:l1">behaghen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Dat waer, dat waer die wille <rhyme label="b" type="m">mijn</rhyme>!</l>
+        <l id="s3:l4" met="5" type="-+">Och Vader, wilt mi verlichten met uwen soeten <rhyme label="b" type="m" corresp="#s3:l3">aenschijn</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, Vader <rhyme label="b" type="m" corresp="#s3:l3">mijn</rhyme>!</l>
+        <l id="s3:l6" met="5" type="-+">cherubin ende seraphin ghebruken U soete <rhyme label="b" type="m" corresp="#s3:l3">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Och Vader, ontsteect, ontsteect dat herte <rhyme label="a" type="m">mijn</rhyme>;</l>
+        <l id="s4:l2" met="5" type="-+">Ic begheer, O Vader, die wille <rhyme label="a" type="m" corresp="#s4:l1">Dijn</rhyme>.</l>
+        <l id="s4:l3" met="5" type="-+">Die natuer daer sinnen, die hinderen dicwijl <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Die toekeer daer creatueren bevlecken die siele <rhyme label="b" type="m" corresp="#s4:l3">mijn</rhyme>.</l>
+        <l id="s4:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, Vader <rhyme label="b" type="m" corresp="#s4:l3">mijn</rhyme>!</l>
+        <l id="s4:l6" met="5" type="-+">Een blic van Uwen beelde vaerclaert die siele <rhyme label="b" type="m" corresp="#s4:l3">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Die werelt, die werelt, wil ic <rhyme label="a" type="m">ofgaen</rhyme>.</l>
+        <l id="s5:l2" met="5" type="-+">Och Vader, wilt my helpen,In U cracht wil my <rhyme label="a" type="m" corresp="#s5:l1">ombevaen</rhyme>.</l>
+        <l id="s5:l3" met="5" type="-+">Och Licht der lichten, wilt myn liden <rhyme label="b" type="m">doerschinen</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">O Heylighe Geest, O Mijn, ontsteeckt dat herte <rhyme label="b" type="m" corresp="#s5:l3">mijn</rhyme>!</l>
+        <l id="s5:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, Vader <rhyme label="b" type="m" corresp="#s5:l3">mijn</rhyme>!</l>
+        <l id="s5:l6" met="5" type="-+">Mocht ic U altijt loven, dat waer die wille <rhyme label="b" type="m" corresp="#s5:l3">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Die dit liedeken ineen, ineen heeft <rhyme label="a" type="m">ghedicht</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Een maecht begheert te wesen, te wesen seer <rhyme label="a" type="m" corresp="#s6:l1">ghesticht</rhyme>;</l>
+        <l id="s6:l3" met="5" type="-+">Een maghet behoert te wesen, oetmoedich ende <rhyme label="b" type="m">reyn</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Och Jhesus, wilt haer helpen, haer crachten sijn so <rhyme label="b" type="m" corresp="#s6:l3">cleyn</rhyme>!</l>
+        <l id="s6:l5" met="5" type="-+">Ay laes, ay laes, ay lacij, Vader <rhyme label="b" type="m" corresp="#s6:l3">mijn</rhyme>!</l>
+        <l id="s6:l6" met="5" type="-+">Een voentgen Uwer minnen ontstect dat herte <rhyme label="b" type="m" corresp="#s6:l3">mijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

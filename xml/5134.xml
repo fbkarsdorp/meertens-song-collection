@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5134</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Ik heb gedragen wel zeven jaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waer blijft ghy nu ghy boos <rhyme label="a" type="m">gheslacht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy die uwen Godt hebt <rhyme label="a" type="m" corresp="#s1:l1">veracht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En Christum gants <rhyme label="b" type="m">ghemist</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Weet dat ghy nu ter Werelt <rhyme label="a" type="m" corresp="#s1:l1">verwacht</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s1:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al om u schandelicken <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hebt ghy weder ghedroncken <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dat ghy hebt <rhyme label="b" type="m">uutghewist</rhyme>  ,</l>
+        <l id="s2:l4" met="4" type="-+">So neemt dan dit voor u <rhyme label="a" type="m" corresp="#s2:l1">ghewin</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s2:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Met twee roo wanghen moet ghy <rhyme label="a" type="m">gaen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Voor alle Menschen beschaemt <rhyme label="a" type="m" corresp="#s3:l1">staen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Want so seyt elck <rhyme label="b" type="m">Papist</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">U gheloof ghy verloochent <rhyme label="a" type="m" corresp="#s3:l1">saen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s3:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Een Geus die acht met reden <rhyme label="a" type="m">waer</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Een Pardonist voor een <rhyme label="a" type="m" corresp="#s4:l1">Verraer</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">So is u eer <rhyme label="b" type="m">verquist</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Om Mammon draechdy schanden <rhyme label="a" type="m" corresp="#s4:l1">swaer</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s4:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dagelicks ghy verkeeren <rhyme label="a" type="m">moet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Met dien die stort tonnoosel <rhyme label="a" type="m" corresp="#s5:l1">bloet</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Daer in ghy u <rhyme label="b" type="m">verfrist</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Dit doet ghy al om tAertsche <rhyme label="a" type="m" corresp="#s5:l1">goet</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s5:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ghy siet daer lijden daechlicks <rhyme label="a" type="m">veel</rhyme>, :</l>
+        <l id="s6:l2" met="4" type="-+">En moeten hanghen by haer <rhyme label="a" type="m" corresp="#s6:l1">keel</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Die ghy hebt <rhyme label="b" type="m">aenghehist</rhyme>, :</l>
+        <l id="s6:l4" met="4" type="-+">Wat sult ghy hebben voor u <rhyme label="a" type="m" corresp="#s6:l1">deel</rhyme>.</l>
+        <l id="s6:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s6:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Maer nu zijt ghy gheeert <rhyme label="a" type="m">gheacht</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ghelijck daer is Judas <rhyme label="a" type="m" corresp="#s7:l1">gheslacht</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Dit loon is u <rhyme label="b" type="m">verwist</rhyme>  ,</l>
+        <l id="s7:l4" met="4" type="-+">Datmen nu singt met gantscher <rhyme label="a" type="m" corresp="#s7:l1">macht</rhyme>.</l>
+        <l id="s7:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s7:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Om Mammon te vercrijghen <rhyme label="a" type="m">weer</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Ghinckt ghy verwerpen al u <rhyme label="a" type="m" corresp="#s8:l1">eer</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">U tijt hebt ghy <rhyme label="b" type="m">vergist</rhyme>, :</l>
+        <l id="s8:l4" met="4" type="-+">U eer is wech, en tgoet veel <rhyme label="a" type="m" corresp="#s8:l1">meer</rhyme>.</l>
+        <l id="s8:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s8:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Wat eer sult ghy hebben int <rhyme label="a" type="m">endt</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Als Godt die Prins int Land eens <rhyme label="a" type="m" corresp="#s9:l1">sendt</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">En tonweer is <rhyme label="b" type="m">gheslist</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Ende blijft voor Verraders <rhyme label="a" type="m" corresp="#s9:l1">bekent</rhyme>.</l>
+        <l id="s9:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s9:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Is Mammon u so goeden <rhyme label="a" type="m">vrient</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Hoe coemt dat ghy den Paus dan <rhyme label="a" type="m" corresp="#s10:l1">dient</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Die moet aen sDuyvels <rhyme label="b" type="m">Rist</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Tgebeurt u mede eer ghijt <rhyme label="a" type="m" corresp="#s10:l1">mient</rhyme>.</l>
+        <l id="s10:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s10:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Ghy meynt te beschermen u <rhyme label="a" type="m">gelt</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Maer door Gods hant het selve <rhyme label="a" type="m" corresp="#s11:l1">smelt</rhyme>,</l>
+        <l id="s11:l3" met="3" type="-+">U Bors wert <rhyme label="b" type="m">uutghevist</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Om tquaet middel dat ghy <rhyme label="a" type="m" corresp="#s11:l1">voorstelt</rhyme>.</l>
+        <l id="s11:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s11:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Duckdalba sal u scheeren <rhyme label="a" type="m">snel</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">Ghelijckmen doet der Schapen <rhyme label="a" type="m" corresp="#s12:l1">vel</rhyme>,</l>
+        <l id="s12:l3" met="3" type="-+">Ende vaghen u de <rhyme label="b" type="m">Kist</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">End sult noch hooren dit <rhyme label="a" type="m" corresp="#s12:l1">gerel</rhyme>.</l>
+        <l id="s12:l5" met="3" type="-+">Tfy fy u <rhyme label="b" type="m" corresp="#s12:l3">Pardonnist</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Godt ons Prins sal gheven <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s13:l2" met="4" type="-+">Om te singhen tuwen <rhyme label="a" type="m" corresp="#s13:l1">verwijt</rhyme>,</l>
+        <l id="s13:l3" met="3" type="-+">Over u valsche <rhyme label="b" type="m">list</rhyme>:</l>
+        <l id="s13:l4" met="4" type="-+">Vive die zijn gheloof <rhyme label="a" type="m" corresp="#s13:l1">belijt</rhyme>,</l>
+        <l id="s13:l5" met="3" type="-+">Maer fry een <rhyme label="b" type="m" corresp="#s13:l3">Pardonist</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

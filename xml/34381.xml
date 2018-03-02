@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34381</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+    </tags>
+    <melody>Laura zoet minnebeeld</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAura soet <rhyme label="a" type="m">minne-belt</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Hoe langh salt <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat ghy die my <rhyme label="a" type="m" corresp="#s1:l1">onstelt</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Eens sult <rhyme label="b" type="f" corresp="#s1:l2">ghenesen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Siet hoe bangh,, Ick <rhyme label="c" type="m">verlangh</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Maer wat cant <rhyme label="d" type="f">baten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Als ghy my,, Noch in <rhyme label="e" type="m">ly</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">VVilt langher <rhyme label="d" type="f" corresp="#s1:l6">laten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V borstjens <rhyme label="a" type="m">appel-ront</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Volmaeckte <rhyme label="b" type="f">leden</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Hebben my t'hert <rhyme label="a" type="m" corresp="#s2:l1">door-wont</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">En ziel <rhyme label="b" type="f" corresp="#s2:l2">doorsneden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">V gesicht,, <rhyme label="c" type="m">Crol-gevlicht</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Sne-witte <rhyme label="d" type="f">handen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Doen my t hert,, Vol van <rhyme label="e" type="m">smert</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">In liefde <rhyme label="d" type="f" corresp="#s2:l6">branden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gedenckt dan die u <rhyme label="a" type="m">mint</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Laura mijn <rhyme label="b" type="f">schoone</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Leander uwen <rhyme label="a" type="m" corresp="#s3:l1">vrint</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Sal u <rhyme label="b" type="f" corresp="#s3:l2">becroone</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Nempt hem dan,, Voor u <rhyme label="c" type="m">man</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">VVilt hem <rhyme label="d" type="f">betrouwen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Soo ghy wilt,, Blijft <rhyme label="e" type="m">gestilt</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Ghy sijt <rhyme label="d" type="f" corresp="#s3:l6">behouwen</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Princers dan liefde <rhyme label="a" type="m">thoont</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Die u comt <rhyme label="b" type="f">minnen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Het sal u sijn <rhyme label="a" type="m" corresp="#s4:l1">gheloont</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Int hert van <rhyme label="b" type="f" corresp="#s4:l2">binnen</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Sucht niet meer,, Vwen <rhyme label="c" type="m">keer</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Sal oock eens <rhyme label="d" type="f">naecken</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Dat de trouw,, V een <rhyme label="e" type="m">Vrouw</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Ten lest sal <rhyme label="d" type="f" corresp="#s4:l6">maecken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

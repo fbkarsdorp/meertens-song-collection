@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34382</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PHilis siet eens aen de <rhyme label="a" type="m">smert</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Die door uwe schoonheydt <rhyme label="a" type="m" corresp="#s1:l1">wert</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">My ghesteeken in het <rhyme label="a" type="m" corresp="#s1:l1">hert</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ick en can niet leven <rhyme label="b" type="m">meer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De pijn die prickelt my te <rhyme label="b" type="m" corresp="#s1:l4">seer</rhyme>!</l>
+        <l id="s1:l6" met="4" type="+-">Is het Philis noch geen <rhyme label="c" type="m">tijdt</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Dat hy wort van dees pijn <rhyme label="c" type="m" corresp="#s1:l6">bevrijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Slaet maer eens u oogh op <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Want de oorsaeck sijde <rhyme label="a" type="m" corresp="#s2:l1">ghy</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Van de pijn en <rhyme label="a" type="m" corresp="#s2:l1">slaverny</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Weest niet vreet ghy sijt te <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">k'Doen u gheen quaet als ghy my <rhyme label="b" type="m" corresp="#s2:l4">doet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Siet ghy scheurt my t'hert in <rhyme label="c" type="m">twee</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En ick ben noch tot minnen <rhyme label="c" type="m" corresp="#s2:l6">ree</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Philis nu ghy t'hebt <rhyme label="a" type="m">doorwont</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">k'Bid u, en ick wou <rhyme label="a" type="m" corresp="#s3:l1">terstont</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Dat ghy t'had te deegh <rhyme label="a" type="m" corresp="#s3:l1">doorgront</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">k'Weet dat al u <rhyme label="b" type="m">noortsicheyt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Sou worden uyt mijn hert <rhyme label="b" type="m" corresp="#s3:l4">gheleyt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Philis Philis doet het <rhyme label="c" type="m">dan</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">En nempt hier Titer voor u <rhyme label="c" type="m" corresp="#s3:l6">man</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

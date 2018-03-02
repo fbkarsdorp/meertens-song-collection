@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25250</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>holy song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Te recht louen wij al te <rhyme label="a" type="m">saen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">den heijlijgen sinte <rhyme label="b" type="f">steuen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">die nae sijn naem heeft croen <rhyme label="a" type="m" corresp="#s1:l1">ontfaen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">verheuen int ewich <rhyme label="b" type="f" corresp="#s1:l2">leuen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Christi dienaer, Leuijt <rhyme label="a" type="m">bequaem</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">vol met gracij van goeds geest <rhyme label="b" type="f">reijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">door sijn starckheijt god <rhyme label="a" type="m" corresp="#s2:l1">aengenaem</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">doet in tvolck veel teecken <rhyme label="b" type="f" corresp="#s2:l2">pleijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer tegen god en sijn <rhyme label="a" type="m">dienaer</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">haer alderleij boosen <rhyme label="b" type="f">setten</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sij mochten niet tegen leer <rhyme label="a" type="m" corresp="#s3:l1">waer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">sijn wijsheijt oft geest <rhyme label="b" type="f" corresp="#s3:l2">beletten</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">dan nu soo hoort der quaden <rhyme label="a" type="m">gront</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">die als niet mach waerheijt <rhyme label="b" type="f">weerstaen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">door loogentael en valsche <rhyme label="a" type="m" corresp="#s4:l1">mont</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">maken oprorich tvolck <rhyme label="b" type="f" corresp="#s4:l2">vreesaem</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Te meer vallen sij al op <rhyme label="a" type="m">hem</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">dat hij de waerheijt maect <rhyme label="b" type="f">bekent</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">vuijt spreeckt en straff met vollen <rhyme label="a" type="m" corresp="#s5:l1">stem</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">haer weerspannincheijt <rhyme label="b" type="f" corresp="#s5:l2">pestilent</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Met gedruijs stooten vuijt de <rhyme label="a" type="m">stadt</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">worpen met stenen <rhyme label="b" type="f">wredelick</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Goeds dienaer die voor haer god <rhyme label="a" type="m" corresp="#s6:l1">badt</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">op sijn knijen <rhyme label="b" type="f" corresp="#s6:l2">deuotelick</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Sinte steuen goeds heerlicker <rhyme label="a" type="m">vrint</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">die siet aen vaders <rhyme label="b" type="f">rechterhandt</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Christum staen die v <rhyme label="a" type="m" corresp="#s7:l1">bemint</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">vrijt ons van quaden <rhyme label="b" type="f" corresp="#s7:l2">alderhandt</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Loff, eer glorij, prijs, <rhyme label="a" type="m">danckbaerheijt</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">sij god, die maecht is <rhyme label="b" type="f">gebaert</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">met vader en geest in <rhyme label="a" type="m" corresp="#s8:l1">ewicheijt</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">die ons spijst, leert, regeert, <rhyme label="b" type="f" corresp="#s8:l2">bewaert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25248</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Christe redemptor omnium</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Christe ons aller verlosser <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">vuijt den vader, goeds enich <rhyme label="b" type="m">soen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">alleen onsprekelijck wel <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">geboren godt voor shemels <rhyme label="b" type="m" corresp="#s1:l2">troen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghij licht en glinster vanden <rhyme label="a" type="m">vaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">ghij ewich hoep van ons al <rhyme label="b" type="m">tsaem</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">let opt gebot dat storten <rhyme label="a" type="m" corresp="#s2:l1">gaer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">v dienaren op s'werels <rhyme label="b" type="m" corresp="#s2:l2">aen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gedenck o salicheijts <rhyme label="a" type="m">autoor</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">dat ghij eertijts ons lichaems <rhyme label="b" type="m">scijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">vuijt ongescende maechts <rhyme label="a" type="m" corresp="#s3:l1">trijsoor</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">geboren, hebt aenuaert wel <rhyme label="b" type="m" corresp="#s3:l2">fijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sulck tuijcht ons desen dach <rhyme label="a" type="m">present</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">nae vuijtwijsen van t'iaers <rhyme label="b" type="m">verloep</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">dat ghij alleen vuijt vaders <rhyme label="a" type="m" corresp="#s4:l1">tent</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">sijt gecomen des werels <rhyme label="b" type="m" corresp="#s4:l2">hoep</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hemel, aerden, oeck me die <rhyme label="a" type="m">zee</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">en al dat in haer is <rhyme label="b" type="m">gelijck</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">dees prijsen, als die is <rhyme label="a" type="m" corresp="#s5:l1">geree</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">oersaeck van v toecomste <rhyme label="b" type="m" corresp="#s5:l2">rijck</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Oeck wij die door v heijlich <rhyme label="a" type="m">bloet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">sijn verlost vuijt viandts <rhyme label="b" type="m">gequel</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">ten dage van v geboort <rhyme label="a" type="m" corresp="#s6:l1">soet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">een nieu lijd singen, met voes <rhyme label="b" type="m" corresp="#s6:l2">snel</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O heer v sij glorij en <rhyme label="a" type="m">prijs</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">die sijt geboren van maecht <rhyme label="b" type="m">reijn</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">met den vader, ende geest <rhyme label="a" type="m" corresp="#s7:l1">wijs</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">een ewich god regneert <rhyme label="b" type="m" corresp="#s7:l2">gemeijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

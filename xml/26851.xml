@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26851</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mein syn hab ich an ir <rhyme label="a" type="m">gelechtt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">sei ist gantz woll <rhyme label="b" type="f">gebildett</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Jn th gtenn ist ihr hertz <rhyme label="a" type="m" corresp="#s1:l1">gewrachtt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">wie all jr wesenn <rhyme label="b" type="f" corresp="#s1:l2">vermeldett</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">wie ein <rhyme label="c" type="m">Robin</rhyme> /</l>
+        <l id="s1:l6" met="2" type="-+">Jn golde <rhyme label="c" type="m" corresp="#s1:l5">fyn</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">m chtt ihr m ndtlein r <rhyme label="d" type="f">renn</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">so wehr mein j nges <rhyme label="e" type="m">hertz</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">d rch all leidenn vnnd <rhyme label="e" type="m" corresp="#s1:l8">schmertz</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Jn irer liebdenn woltt ich <rhyme label="d" type="f" corresp="#s1:l7">sterbenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Jch mach ir <rhyme label="a" type="m">hertz</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">eim Dyamantt wol <rhyme label="b" type="f">geligenn</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">auff erdenn iß kein <rhyme label="a" type="m" corresp="#s2:l1">man</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">der das boxbl itt magh <rhyme label="b" type="f" corresp="#s2:l2">enthwigenn</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">Mochtt idt s nder den <rhyme label="c" type="m">thott</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">meins hertzen <rhyme label="c" type="m" corresp="#s2:l5">bloitt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">gnade ahn ihr <rhyme label="d" type="f">erlangenn</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">so wer mein j nges <rhyme label="e" type="m">hertz</rhyme> /</l>
+        <l id="s2:l9" met="3" type="-+">sunder all dr ck leidenn vnnd <rhyme label="e" type="m" corresp="#s2:l8">schmertz</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">nach ihr so dragh ich <rhyme label="d" type="f" corresp="#s2:l7">verlangenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Van nat renn thragtt sei ein <rhyme label="a" type="m">siegelstein</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">vonn S idenn Westen vnnd <rhyme label="b" type="f">Nordenn</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Der hatt sei jn erhenn <rhyme label="a" type="m" corresp="#s3:l1">jn</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">sei will mich werlich <rhyme label="b" type="f" corresp="#s3:l2">mordenn</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">helff gluck vnnd <rhyme label="c" type="m">rath</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">meiner nitt <rhyme label="c" type="m" corresp="#s3:l5">verlatt</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">viell s chtenn will mich <rhyme label="d" type="f">verderbenn</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">So wehr mein j nges <rhyme label="e" type="m">hertz</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">d rch all leidenn vnnd <rhyme label="e" type="m" corresp="#s3:l8">schmertz</rhyme> /</l>
+        <l id="s3:l10" met="3" type="-+">jn jrer liebdenn nicht magh <rhyme label="d" type="f" corresp="#s3:l7">sterbenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24622</id>
+    <date>
+      <year-start>1579</year-start>
+      <year-end>1579</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden]</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>martyr's song</tag>
+    </tags>
+    <melody>Het daagt in de oosten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ic arm Schaepken aen groen <rhyme label="a" type="f">heyde</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">waer sal ick hene <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">van vrienden en magen moet ic <rhyme label="a" type="f" corresp="#s1:l1">scheyde</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">ende alleen op Christum <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

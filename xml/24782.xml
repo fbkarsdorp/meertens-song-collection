@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24782</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>thanks song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Geldeloze volg mij wij willen zingen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gheldeloze volghet <rhyme label="a" type="m">mi</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wi willen zinghen een vroylic <rhyme label="b" type="m">liet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">So wie dat riker es dan <rhyme label="a" type="m" corresp="#s1:l1">wi</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die nes van onsen lieden <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Maer wie altoos na vruechden <rhyme label="b" type="m" corresp="#s1:l2">spiet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Die es van onser <rhyme label="c" type="f">compaengie</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Wanneer hi drouvelike up mi <rhyme label="b" type="m" corresp="#s1:l2">ziet</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">So wetic wel hoe hem <rhyme label="c" type="f" corresp="#s1:l6">ghescie</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghebrec van gelde ende <rhyme label="a" type="m">scamelheit</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dat doet ons toghen drouve <rhyme label="b" type="m">gelaet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Want als een wellecome <rhyme label="a" type="m" corresp="#s2:l1">zeit</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">De .ij. de .iij. die segghen <rhyme label="b" type="m" corresp="#s2:l2">gaet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">So wie gelt heift elc na hem <rhyme label="b" type="m" corresp="#s2:l2">staet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Al cant ons lieden niet <rhyme label="c" type="f">gheburen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Dus dinct mi sijn de beste <rhyme label="b" type="m" corresp="#s2:l2">raet</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Vroilic leven sonder <rhyme label="c" type="f" corresp="#s2:l6">truren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sorgheloos ende zonder <rhyme label="a" type="m">nijt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dats tbeste dat men zinghen <rhyme label="b" type="m">mach</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Cuenwi duerbringhen dus den <rhyme label="a" type="m" corresp="#s3:l1">tijt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Beter dinc ic nie ne <rhyme label="b" type="m" corresp="#s3:l2">zach</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Laetse trueren nacht ende <rhyme label="b" type="m" corresp="#s3:l2">dach</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Die tgelt besluten in haer <rhyme label="c" type="f">scrine</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Noch eist beter ghelts <rhyme label="b" type="m" corresp="#s3:l2">verdrach</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Dan altoos zonder vruecht te <rhyme label="c" type="f" corresp="#s3:l6">zine</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Heer god al sijn wi <rhyme label="a" type="m">aveloos</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Verleent ons vruecht in onsen <rhyme label="b" type="m">zin</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ende hoet ons vor de vrec <rhyme label="a" type="m" corresp="#s4:l1">altoos</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die niet ne geert dan gelt <rhyme label="b" type="m" corresp="#s4:l2">ghewin</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Ende hoet mi dat ic niet ne <rhyme label="b" type="m" corresp="#s4:l2">bin</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Int huus ghelet van enigher <rhyme label="c" type="f">boete</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Daer men roupt ter buerch waert <rhyme label="b" type="m" corresp="#s4:l2">in</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Soet soete gheraerts soet soete <rhyme label="c" type="f" corresp="#s4:l6">soete</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

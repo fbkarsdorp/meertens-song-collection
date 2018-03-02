@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31303</id>
+    <date>
+      <year-start>1584</year-start>
+      <year-end>1584</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Lijntjes oven is bestoven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Tsou een meisken gaen om <rhyme label="a" type="m">wijn</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">savons inde <rhyme label="a" type="m" corresp="#s1:l1">maneschijn</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s1:l2">nachte</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">hout u canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s1:l2">vaste</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

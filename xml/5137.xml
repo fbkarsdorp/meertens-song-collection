@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5137</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>De oude Hillebrand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ghy Hoenderen, Enden en <rhyme label="a" type="f">Duyven</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wilt ghy verblijden <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Den Vos die op u plach te <rhyme label="a" type="f" corresp="#s1:l1">cluyven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die leyt nu in een <rhyme label="b" type="m" corresp="#s1:l2">dal</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Op den wegh derf hyt niet <rhyme label="c" type="f">houwen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat heeft de Gans <rhyme label="d" type="m">ghedaen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die brengt hem int <rhyme label="c" type="f" corresp="#s1:l5">benouwen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Met haer Jonghen sonder <rhyme label="d" type="m" corresp="#s1:l6">waen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Die nu dapper broeden <rhyme label="d" type="m" corresp="#s1:l6">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die Vos subtijl van <rhyme label="a" type="f">listen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Altijt hy <rhyme label="b" type="m">practiseert</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Twas wonder dat sy niet <rhyme label="a" type="f" corresp="#s2:l1">gisten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dat de Gans dus swemmen <rhyme label="b" type="m" corresp="#s2:l2">leert</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Hoe wijt dat zijn de <rhyme label="c" type="f">stroomen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Soo weet de Gans wel <rhyme label="d" type="m">raet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Om daer over te <rhyme label="c" type="f" corresp="#s2:l5">comen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Daer den Vos voren <rhyme label="d" type="m" corresp="#s2:l6">staet</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Daerom heeft hyt nu so <rhyme label="d" type="m" corresp="#s2:l6">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wat macht den Vos veel <rhyme label="a" type="f">baten</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat hy can loopen <rhyme label="b" type="m">snel</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Can de Gans boven <rhyme label="a" type="f" corresp="#s3:l1">maten</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Oock vlieghen also <rhyme label="b" type="m" corresp="#s3:l2">wel</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Over hecken, bosschen en <rhyme label="c" type="f">tuynen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">T'is haer niet inde <rhyme label="d" type="m">weech</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Al loopt den Vos veel <rhyme label="c" type="f" corresp="#s3:l5">struynen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Sijn hol wort niet te <rhyme label="d" type="m" corresp="#s3:l6">leech</rhyme>,,</l>
+        <l id="s3:l9" met="4" type="+-">Met hem ist daerom gheen <rhyme label="d" type="m" corresp="#s3:l6">deech</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Den Vos die leyt veel <rhyme label="a" type="f">laghen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met den Wolf op dit <rhyme label="b" type="m">pas</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Om de Gansen te <rhyme label="a" type="f" corresp="#s4:l1">verjaghen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Sy loopen daerom so <rhyme label="b" type="m" corresp="#s4:l2">ras</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">Maer ten mach niet <rhyme label="c" type="f">profiteren</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Achter is den Wolf <rhyme label="d" type="m">lam</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Sy connen den Gans,  niet <rhyme label="c" type="f" corresp="#s4:l5">leeren</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dus worden sy so <rhyme label="d" type="m" corresp="#s4:l6">gram</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Om dat de Gans het hol in <rhyme label="d" type="m" corresp="#s4:l6">nam</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Den Vos die heeft soo <rhyme label="a" type="f">langhen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ghebruyckt alle sijn <rhyme label="b" type="m">macht</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">De Gansen <rhyme label="a" type="f" corresp="#s5:l1">opghehanghen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al door des Wolves <rhyme label="b" type="m" corresp="#s5:l2">cracht</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Maer nu comt de Gans met <rhyme label="c" type="f">hoopen</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Die dus lang heeft <rhyme label="d" type="m">ghebroet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Nu moet den Vos <rhyme label="c" type="f" corresp="#s5:l5">verloopen</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Met den Wolf seer <rhyme label="d" type="m" corresp="#s5:l6">verwoet</rhyme>,</l>
+        <l id="s5:l9" met="4" type="+-">Vande Gans al metter <rhyme label="d" type="m" corresp="#s5:l6">spoet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Had de Vos moghen <rhyme label="a" type="f">ghebruycken</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Sijn wil ende sijn <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">De Gans had moeten <rhyme label="a" type="f" corresp="#s6:l1">duycken</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Want de Vos doch niet en <rhyme label="b" type="m" corresp="#s6:l2">rust</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Hy meynde onder hem te <rhyme label="c" type="f">vercrijghen</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Alle macht ende <rhyme label="d" type="m">ghewelt</rhyme>:</l>
+        <l id="s6:l7" met="3" type="-+">Maer nu moet den Vos <rhyme label="c" type="f" corresp="#s6:l5">swijghen</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">En wijcken uyt dat <rhyme label="d" type="m" corresp="#s6:l6">velt</rhyme>,</l>
+        <l id="s6:l9" met="4" type="+-">Want de Gans is seer <rhyme label="d" type="m" corresp="#s6:l6">ontstelt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">De Gans die heeft <rhyme label="a" type="f">vernomen</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Met so menigh cleyn <rhyme label="b" type="m">ghedier</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Hoe den Vos sonder <rhyme label="a" type="f" corresp="#s7:l1">schromen</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Den Wolf wil senden <rhyme label="b" type="m" corresp="#s7:l2">hier</rhyme>,</l>
+        <l id="s7:l5" met="3" type="-+">Om haer jonghen te <rhyme label="c" type="f">berooven</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Te nemen den thienden uyt den <rhyme label="d" type="m">Nest</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">End oock van alle <rhyme label="c" type="f" corresp="#s7:l5">schooven</rhyme>,</l>
+        <l id="s7:l8" met="3" type="-+">Sy plucken daer aen haer <rhyme label="d" type="m" corresp="#s7:l6">best</rhyme>,</l>
+        <l id="s7:l9" met="4" type="+-">Souden sy hebben <rhyme label="d" type="m" corresp="#s7:l6">ghemest</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Dese Mare is <rhyme label="a" type="f">vertoghen</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Onder menich Voghel <rhyme label="b" type="m">cleyn</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">By een zijn die nu <rhyme label="a" type="f" corresp="#s8:l1">ghevloghen</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">End comen al <rhyme label="b" type="m" corresp="#s8:l2">ghemeyn</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Om desen Vos te <rhyme label="c" type="f">verdrijven</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">Te smijten den Wolf <rhyme label="d" type="m">doot</rhyme>,</l>
+        <l id="s8:l7" met="3" type="-+">En noch comen sy <rhyme label="c" type="f" corresp="#s8:l5">stijven</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Met eenen gantschen <rhyme label="d" type="m" corresp="#s8:l6">vloot</rhyme>,</l>
+        <l id="s8:l9" met="4" type="+-">Nu is den Vos in grooter <rhyme label="d" type="m" corresp="#s8:l6">noot</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Het is doch eene <rhyme label="a" type="f">wijse</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Dat elck heeft sijne <rhyme label="b" type="m">beurt</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Als d'een daelt moet d'ander <rhyme label="a" type="f" corresp="#s9:l1">rijsen</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Na blijschap comt lijden <rhyme label="b" type="m" corresp="#s9:l2">voort</rhyme>,</l>
+        <l id="s9:l5" met="3" type="-+">Na lijden, en bitter <rhyme label="c" type="f">tranen</rhyme>,</l>
+        <l id="s9:l6" met="3" type="-+">Comt blijschap sonder <rhyme label="d" type="m">ghetal</rhyme>,</l>
+        <l id="s9:l7" met="3" type="-+">Elck die moet <rhyme label="c" type="f" corresp="#s9:l5">ontfanghen</rhyme>,</l>
+        <l id="s9:l8" met="3" type="-+">Loon na sijn wercken <rhyme label="d" type="m" corresp="#s9:l6">al</rhyme></l>
+        <l id="s9:l9" met="4" type="+-">Eer dat eynde comen <rhyme label="d" type="m" corresp="#s9:l6">sal</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Prince der <rhyme label="a" type="f">Creatueren</rhyme>,</l>
+        <l id="s10:l2" met="3" type="-+">Exempel op dit <rhyme label="b" type="m">termijn</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Een yegelijck moet <rhyme label="a" type="f" corresp="#s10:l1">besueren</rhyme>,</l>
+        <l id="s10:l4" met="3" type="-+">Naer blijschap groote <rhyme label="b" type="m" corresp="#s10:l2">pijn</rhyme>,</l>
+        <l id="s10:l5" met="3" type="-+">Die daer sat in <rhyme label="c" type="f">weelden</rhyme>,</l>
+        <l id="s10:l6" met="3" type="-+">Met vreuchden <rhyme label="d" type="m">onghefaelt</rhyme>,</l>
+        <l id="s10:l7" met="3" type="-+">Twas droefheyt dat hy <rhyme label="c" type="f" corresp="#s10:l5">teelden</rhyme>,</l>
+        <l id="s10:l8" met="3" type="-+">Als hy sijn vreucht <rhyme label="d" type="m" corresp="#s10:l6">inhaelt</rhyme>,</l>
+        <l id="s10:l9" met="4" type="+-">Dat wort hem al <rhyme label="d" type="m" corresp="#s10:l6">betaelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

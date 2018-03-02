@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14974</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Toen Daphne de overschone maagd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Men brand, men blaeckt, men schend, men <rhyme label="a" type="m">moort</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">'tArme volc laes! rechte <rhyme label="a" type="m" corresp="#s1:l1">voort</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Lyd nu groot <rhyme label="b" type="m">gewelt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">En wort seer <rhyme label="b" type="m" corresp="#s1:l3">gequelt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Noyt dack van regen so druypen men <rhyme label="c" type="m">sag</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Gelyckmen 'tvolck weenen siet al den <rhyme label="c" type="m" corresp="#s1:l5">dag</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Rechtvaerdig Heere! siet ons <rhyme label="d" type="m">aen</rhyme>;</l>
+        <l id="s1:l8" met="4" type="-+">En wil de tranen toch <rhyme label="d" type="m" corresp="#s1:l7">ontfaen</rhyme>,</l>
+        <l id="s1:l9" met="2" type="+-">In een <rhyme label="e" type="m">vat</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">En thoont <rhyme label="e" type="m" corresp="#s1:l9">dat</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Ghy dierbaer hebt de onnoosel <rhyme label="f" type="m">ziel</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Die u steets suchtende te voet <rhyme label="f" type="m" corresp="#s1:l11">viel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

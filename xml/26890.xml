@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26890</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O falsches hertz / o rotter m <rhyme label="a" type="m">ndt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">wie hast  mich <rhyme label="b" type="f">bedrogenn</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">d  sagtt  ich soltt der liebste <rhyme label="c" type="m">sein</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">d  hast mir <rhyme label="b" type="f" corresp="#s1:l2">vorgelogen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Das iß der falscher Kleffer sch <rhyme label="a" type="m">ldt</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">so hoch an gener <rhyme label="b" type="f">zynnenn</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">die hab mir meinenn falckenn <rhyme label="c" type="m">verfortt</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">ehr is geflogenn von <rhyme label="b" type="f" corresp="#s2:l2">hinnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vnnd das er mir entflogenn <rhyme label="a" type="m">is</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">des bin ich sehr <rhyme label="b" type="f">erschreckett</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Die schell hatt jren klanck  <rhyme label="c" type="m">verlorn</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">ich kans nitt wiedder <rhyme label="b" type="f" corresp="#s3:l2">lockenn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Des abentz als ich bei sei <rhyme label="a" type="m">kam</rhyme> /</l>
+        <l id="s4:l2" met="3" type="-+">bei jre schmale <rhyme label="b" type="f">seittenn</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">das schloß sei mich jn ir armlein <rhyme label="c" type="m">blanck</rhyme> /</l>
+        <l id="s4:l4" met="3" type="-+">darmitt far ich vonn <rhyme label="b" type="f" corresp="#s4:l2">hinnenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

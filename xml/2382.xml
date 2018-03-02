@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2382</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Segt mij o mensche wat <rhyme label="a" type="m">begeerdi</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Heer dat ic myn sonden groot en <rhyme label="b" type="f">cleene</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dicwils bitterlyck mach <rhyme label="b" type="f" corresp="#s1:l2">beweenen</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">Dat bid ick u lieve <rhyme label="a" type="m" corresp="#s1:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Heere dat ic openbaer en <rhyme label="b" type="f">stille</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Mach worden een mensch na uwen <rhyme label="b" type="f" corresp="#s2:l2">wille</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dat bid ick u lieve <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Heer dat in myn bidden ende <rhyme label="b" type="f">lesen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Mynen geest mach met u vereenicht <rhyme label="b" type="f" corresp="#s3:l2">wesen</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Dat bid ick u Lieve <rhyme label="a" type="m" corresp="#s3:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Heere dat ick int hebben en <rhyme label="b" type="f">derven</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mynen wille mach <rhyme label="b" type="f" corresp="#s4:l2">versterven</rhyme>/</l>
+        <l id="s4:l4" met="3" type="-+">Dat bid ick u lieve <rhyme label="a" type="m" corresp="#s4:l1">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Heere dat ick met mijn inwendige <rhyme label="b" type="f">ooren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Altijt u Goddelijck woort mach <rhyme label="b" type="f" corresp="#s5:l2">hooren</rhyme> /</l>
+        <l id="s5:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s5:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Heere dat ic de sonde soo moet <rhyme label="b" type="f">haten</rhyme> /</l>
+        <l id="s6:l3" met="4" type="-+">Datse mij teenemael mach <rhyme label="b" type="f" corresp="#s6:l2">verlaeten</rhyme>/</l>
+        <l id="s6:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s6:l1">heer</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Heere dat ick u passie en <rhyme label="b" type="f">smerte</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Altijt geprint draege in mijn <rhyme label="b" type="f" corresp="#s7:l2">herte</rhyme>/</l>
+        <l id="s7:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s7:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Heere dat ick met vierigen <rhyme label="b" type="f">verlangen</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">U heylich lichaem mach <rhyme label="b" type="f" corresp="#s8:l2">ontfangen</rhyme> /</l>
+        <l id="s8:l4" met="3" type="-+">Dat bid ic u lief <rhyme label="a" type="m" corresp="#s8:l1">heer</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Heere dat in al mijn woorden en <rhyme label="b" type="f">werken</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Uwen heyligen geest mij wil <rhyme label="b" type="f" corresp="#s9:l2">versterken</rhyme> /</l>
+        <l id="s9:l4" met="3" type="-+">Dat bid ic u lief <rhyme label="a" type="m" corresp="#s9:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Heere dat ic u liefde soo mach <rhyme label="b" type="f">smaken</rhyme> /</l>
+        <l id="s10:l3" met="4" type="-+">Dat ic versmade alle aertsche <rhyme label="b" type="f" corresp="#s10:l2">saeken</rhyme> /</l>
+        <l id="s10:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s10:l1">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Heer dat ick myn gebreken mach <rhyme label="b" type="f">kinnen</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">En door u gracie die mach <rhyme label="b" type="f" corresp="#s11:l2">verwinnen</rhyme> /</l>
+        <l id="s11:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s11:l1">heer</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Heere dat ic tot alle tijden en <rhyme label="b" type="f">uren</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Mijn herteken mach in u Godtheyt <rhyme label="b" type="f" corresp="#s12:l2">sturen</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s12:l1">heer</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Heere dat nu in mijn oude <rhyme label="b" type="f">dagen</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Alle mijn wercken u mogen <rhyme label="b" type="f" corresp="#s13:l2">behagen</rhyme> /</l>
+        <l id="s13:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s13:l1">heer</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">O mensche wat begeerdi <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s14:l2" met="4" type="-+">Heer als ick van deser werelt sal <rhyme label="b" type="f">scheyden</rhyme>/</l>
+        <l id="s14:l3" met="4" type="-+">Dat ghij mijn ziele dan wilt <rhyme label="b" type="f" corresp="#s14:l2">geleyden</rhyme> /</l>
+        <l id="s14:l4" met="3" type="-+">Dat bid ick u lief <rhyme label="a" type="m" corresp="#s14:l1">heer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

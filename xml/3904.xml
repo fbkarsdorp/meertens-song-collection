@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3904</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Van de timmerman</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe minne van Ihesus becoemt ons <rhyme label="a" type="m">wel</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wi connense wel <rhyme label="b" type="f">gheliden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mer temptacie en voerspoet <rhyme label="c" type="m">snel</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Es ons so swaren <rhyme label="b" type="f" corresp="#s1:l2">striden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat ic beghinne / wat ic <rhyme label="a" type="m">aengae</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ic en cans niet wel <rhyme label="b" type="f">gheliden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat doet die bose viant <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Met sijnder valscher <rhyme label="b" type="f" corresp="#s2:l2">wisen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laet ons aenroepen ende begheeren <rhyme label="a" type="m">troost</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Al aen der maghet <rhyme label="b" type="f">Marien</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">So sal die viant ymmer <rhyme label="c" type="m">moeten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Met alle crachten van ons <rhyme label="b" type="f" corresp="#s3:l2">vlien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick rade alle menschen <rhyme label="a" type="m">ionc</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Sijnt mannen ofte <rhyme label="b" type="f">vrouwen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Dat si haer herten tot Gode <rhyme label="c" type="m">keeren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ten sal hen niet <rhyme label="b" type="f" corresp="#s4:l2">berouwen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">In deser werelt en is geen <rhyme label="a" type="m">troost</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Het is al cost <rhyme label="b" type="f">verloren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Laet ons aen god soecken <rhyme label="c" type="m">troost</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Sijn troost mach ons <rhyme label="b" type="f" corresp="#s5:l2">vromen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wi en souden na gheen menschen <rhyme label="a" type="m">vraghen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Wilden wi gode <rhyme label="b" type="f">behaghen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Want hy mach ons sijn gracie <rhyme label="c" type="m">gheuen</rhyme>.</l>
+        <l id="s6:l4" met="3" type="-+">Bi nachte ende oock bi <rhyme label="b" type="f" corresp="#s6:l2">daghen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O mensche keert v tot Gode <rhyme label="a" type="m">waert</rhyme>.</l>
+        <l id="s7:l2" met="3" type="-+">Het sal v veel meer <rhyme label="b" type="f">baten</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Ende leer van herte oetmoedich <rhyme label="c" type="m">sijn</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Ende leeft in <rhyme label="b" type="f" corresp="#s7:l2">charitaten</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Dye dit liedeken heeft <rhyme label="a" type="m">ghemaect</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">God die wilse in duechden <rhyme label="b" type="f">sparen</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Ende brengense na deser corter <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Al in der enghelen <rhyme label="b" type="f" corresp="#s8:l2">scharen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

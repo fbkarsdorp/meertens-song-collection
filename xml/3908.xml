@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3908</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het reed een ridder jagen uit aan gene heide groen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe soete Iesus lach int <rhyme label="a" type="m">hoy</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ootmoedelijc voer twee stomme <rhyme label="b" type="f">beesten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Al en was tlogijs niet alte <rhyme label="a" type="m" corresp="#s1:l1">moy</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Nochtans hielt hi daer in sijn <rhyme label="b" type="f" corresp="#s1:l2">feeste</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Met haer / die alder ootmoedichste van <rhyme label="b" type="f" corresp="#s1:l2">gheeste</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Sijn moeder / dat suyuer <rhyme label="c" type="m">maechdekijn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Dies singhen wij nu / die minste en oock die <rhyme label="b" type="f" corresp="#s1:l2">meeste</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Gebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s1:l6">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Iesus lach int open <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ende beefde met sijn leden <rhyme label="b" type="f">cout</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Maria aensach dat groot <rhyme label="a" type="m" corresp="#s2:l1">abuys</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Si dancte hem seer <rhyme label="b" type="f" corresp="#s2:l2">menichfout</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dat hi die vaders ionc ende <rhyme label="b" type="f" corresp="#s2:l2">out</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Verlossen soude wter hellen <rhyme label="c" type="m">pijn</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Des singhen wij nu met herten <rhyme label="b" type="f" corresp="#s2:l2">stout</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Ghebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s2:l6">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een cribbeken stont daer <rhyme label="a" type="m">ghemaect</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Te Bethleem tot dyer <rhyme label="b" type="f">tijt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Daer leyde si hem in al <rhyme label="a" type="m" corresp="#s3:l1">naect</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Iesus Gods sone <rhyme label="b" type="f" corresp="#s3:l2">ghebenedijt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ende verlosser van alle der werelt <rhyme label="b" type="f" corresp="#s3:l2">wijt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Met sinen bloede met sijnder <rhyme label="c" type="m">pijn</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Dies singhen wij nu met groten <rhyme label="b" type="f" corresp="#s3:l2">iolijt</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Ghebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s3:l6">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ioseph maect ons een papken <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Haestelijck in corter <rhyme label="b" type="f">tijt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Laet mi doch voeden dit onnosel <rhyme label="a" type="m" corresp="#s4:l1">bloet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Het is Gods sone <rhyme label="b" type="f" corresp="#s4:l2">ghebenedijt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Hi sal verlossen dies seker <rhyme label="b" type="f" corresp="#s4:l2">sijt</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Adams geslachte wt haer <rhyme label="c" type="m">gepijn</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Dus singen wij nu ende talder <rhyme label="b" type="f" corresp="#s4:l2">tijt</rhyme></l>
+        <l id="s4:l8" met="5" type="-+">Ghebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s4:l6">sijn</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ioseph sprack met haesten <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Al tot die maget <rhyme label="b" type="f">goedertieren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ey lacy hier en is melck noch <rhyme label="a" type="m" corresp="#s5:l1">broot</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Wat soude ick doen ten <rhyme label="b" type="f" corresp="#s5:l2">viere</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Doen verscricte die maghet al so <rhyme label="b" type="f" corresp="#s5:l2">schiere</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Vol tranen quam haer vriendelijck <rhyme label="c" type="m">aenschijn</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Dus singhen wi nu in goeder <rhyme label="b" type="f" corresp="#s5:l2">manieren</rhyme></l>
+        <l id="s5:l8" met="5" type="-+">Ghebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s5:l6">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Si die dit liedeken heeft <rhyme label="a" type="m">ghedicht</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Was seer bedruct van <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Eylaes sy en was niet wel <rhyme label="a" type="m" corresp="#s6:l1">verlicht</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">In goddeliker <rhyme label="b" type="f" corresp="#s6:l2">minnen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Mer si droech doleur int herte <rhyme label="b" type="f" corresp="#s6:l2">binnen</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Ende daer toe menich swaer <rhyme label="c" type="m">ghepijn</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Maer si sanghet om troost te <rhyme label="b" type="f" corresp="#s6:l2">ghewinnen</rhyme></l>
+        <l id="s6:l8" met="5" type="-+">Ghebenedijt moeten si beyde <rhyme label="c" type="m" corresp="#s6:l6">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

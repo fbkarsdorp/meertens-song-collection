@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26582</id>
+    <date>
+      <year-start>1562</year-start>
+      <year-end>1562</year-end>
+    </date>
+    <tags>
+      <tag>scenic song</tag>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>secular song</tag>
+      <tag>dance song</tag>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody>Dies est laetitiae in ortu regali</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Het was een proper knechtken <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En die sou gaen ten <rhyme label="b" type="f">Bossche</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daer vant hy een Meysken <rhyme label="a" type="m" corresp="#s1:l1">cleyn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die sach wat na <rhyme label="b" type="f" corresp="#s1:l2">tlossche</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Een Meysken waert soo ick u <rhyme label="c" type="m">sey</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Sy wprt ghevrijt om een <rhyme label="c" type="m" corresp="#s1:l5">crauwey</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Daer sy ghinck op de <rhyme label="d" type="f">laye</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Lijsken en heeft niet lang <rhyme label="e" type="m">ghelet</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Maer sey terstont comt, gaen wy <rhyme label="e" type="m" corresp="#s1:l8">met</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Dat ons God bey <rhyme label="d" type="f" corresp="#s1:l7">beraeye</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Lijsken had gheraeyt haer <rhyme label="a" type="m">hout</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Naer huys stack zij haer <rhyme label="b" type="f">deure</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maer trouwen desen vrijer <rhyme label="a" type="m" corresp="#s2:l1">stout</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Volchde op Lijskens <rhyme label="b" type="f" corresp="#s2:l2">speure</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Cort aen haer hielen, al scheent <rhyme label="c" type="m">abuys</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot recht voor haerder vrouwen <rhyme label="c" type="m" corresp="#s2:l5">huys</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Twas Lijsken een goet <rhyme label="d" type="f">behaghen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Haer vrouwe die heeftse van verre <rhyme label="e" type="m">begreyst</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Nochtans heeft Lijsken om thaer <rhyme label="e" type="m" corresp="#s2:l8">ghepeyst</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">En den vryer int huys <rhyme label="d" type="f" corresp="#s2:l7">ghedraghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lijsken die leyen om haer <rhyme label="a" type="m">gherieff</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wat rouwelijck in een <rhyme label="b" type="f">cave</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dit wijff die riep quansuijs een <rhyme label="a" type="m" corresp="#s3:l1">dieff</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En quam die trappe <rhyme label="b" type="f" corresp="#s3:l2">ave</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Sy hadde ghemerckt Lijskens <rhyme label="c" type="m">bedrijff</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Want twas een out doortrocken <rhyme label="c" type="m" corresp="#s3:l5">wijff</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Sy sprack tot Lijsken met <rhyme label="d" type="f">liste</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Haest u doch rasch, oft ickt <rhyme label="e" type="m">vergaet</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Ghy moet my helpen draghen opt <rhyme label="e" type="m" corresp="#s3:l8">straet</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Ick wil vercoopen dees <rhyme label="d" type="f" corresp="#s3:l7">kiste</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dit vryerken was zeer qualijck te <rhyme label="a" type="m">vreen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat hy soo quam ten <rhyme label="b" type="f">brande</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">De kiste brack hem by na de <rhyme label="a" type="m" corresp="#s4:l1">leen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Noch vreesde hy voort voor <rhyme label="b" type="f" corresp="#s4:l2">schande</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Al was hy noch soo elen <rhyme label="c" type="m">greyn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Hy was der kisten <rhyme label="c" type="m" corresp="#s4:l5">Casteleyn</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Hy en dorst een woordt niet <rhyme label="d" type="f">kicken</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Hy hadt seer quaet den armen <rhyme label="e" type="m">cornuyt</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Want wat hy de hy en cost niet <rhyme label="e" type="m" corresp="#s4:l8">uyt</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Van vreesen moest hy <rhyme label="d" type="f" corresp="#s4:l7">ontstricken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De caeffkiste es op strate <rhyme label="a" type="m">ghebrocht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Een vrouken met lichten <rhyme label="b" type="f">sinne</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Die heeft die oude cave <rhyme label="a" type="m" corresp="#s5:l1">ghecocht</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al met den vryer daer <rhyme label="b" type="f" corresp="#s5:l2">inne</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Dees vrou die haeste haer metter <rhyme label="c" type="m">spoet</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Om thuys te voeren dat docht haer <rhyme label="c" type="m" corresp="#s5:l5">goet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Maer sy was soo seer <rhyme label="d" type="f">verlaeyen</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Haer vrou die sprack, ick wil nu <rhyme label="e" type="m">dat</rhyme></l>
+        <l id="s5:l9" met="4" type="-+">Ghy haer sult helpen trecken <rhyme label="e" type="m" corresp="#s5:l8">wat</rhyme>,</l>
+        <l id="s5:l10" met="3" type="-+">En Lijsken die deet met <rhyme label="d" type="f" corresp="#s5:l7">staeyen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die vrou die cruyde, Lijsken die <rhyme label="a" type="m">track</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Al hevet haer wat <rhyme label="b" type="f">verdroten</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">De vryer door trammelen by na <rhyme label="a" type="m" corresp="#s6:l1">brack</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Sijn beenen, sijn knuysen, sijn <rhyme label="b" type="f" corresp="#s6:l2">coten</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Tot dat hy quam, met herten <rhyme label="c" type="m">coen</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Daermen de kiste open sou <rhyme label="c" type="m" corresp="#s6:l5">doen</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Hy practiseerde te <rhyme label="d" type="f">deghe</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">Het was wat doncker inder <rhyme label="e" type="m">nacht</rhyme></l>
+        <l id="s6:l9" met="4" type="-+">Hy spranck daer uyt met grooter <rhyme label="e" type="m" corresp="#s6:l8">cracht</rhyme></l>
+        <l id="s6:l10" met="3" type="-+">En liep soo voort <rhyme label="d" type="f" corresp="#s6:l7">eweghe</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Die vrou dit siende, die wert <rhyme label="a" type="m">bevreest</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Och Lijsken waer selen wy <rhyme label="b" type="f">blijven</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Och, och, sey Lijsken het is eenen <rhyme label="a" type="m" corresp="#s7:l1">gheest</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Wat sal ick toch nu <rhyme label="b" type="f" corresp="#s7:l2">bedrijven</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Den vrijer vervloogh door zijn <rhyme label="c" type="m">opset</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">En dit behaechde Lisken seer <rhyme label="c" type="m" corresp="#s7:l5">net</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Sy liep met corten <rhyme label="d" type="f">verhale</rhyme>,</l>
+        <l id="s7:l8" met="4" type="-+">Naer huys daer sy haer vrouwe <rhyme label="e" type="m">vant</rhyme>,</l>
+        <l id="s7:l9" met="4" type="-+">En wou haer thoonen groot <rhyme label="e" type="m" corresp="#s7:l8">samblant</rhyme></l>
+        <l id="s7:l10" met="3" type="-+">Maer Lijsken die creech haer <rhyme label="d" type="f" corresp="#s7:l7">male</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Neemt danckelijck, Prince, dit slecht <rhyme label="a" type="m">bediet</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Dat begheirt Faes op <rhyme label="b" type="f">elcken</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Al is tRefereyn gheworden een <rhyme label="a" type="m" corresp="#s8:l1">liet</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Hy en wilt gheen duyven meer <rhyme label="b" type="f" corresp="#s8:l2">melcken</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Al is hy slecht in zijn <rhyme label="c" type="m">opstel</rhyme>,</l>
+        <l id="s8:l6" met="4" type="-+">Rhetorica behaecht hem <rhyme label="c" type="m" corresp="#s8:l5">wel</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Hy wilt haer noch <rhyme label="d" type="f">vercieren</rhyme>,</l>
+        <l id="s8:l8" met="4" type="-+">Hy wilt noch wesen met haer <rhyme label="e" type="m">verheucht</rhyme></l>
+        <l id="s8:l9" met="4" type="-+">Door Tcoerenbloemken Jeucht sticht <rhyme label="e" type="m" corresp="#s8:l8">Vreucht</rhyme></l>
+        <l id="s8:l10" met="3" type="-+">Ghy edel <rhyme label="d" type="f" corresp="#s8:l7">Violieren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

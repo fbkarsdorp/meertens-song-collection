@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22577</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>De oude Hillebrand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Van lieften coemt <rhyme label="a" type="f">grootlieften</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ende onder willen oeck groot <rhyme label="b" type="m">leit</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Het minde een salighe <rhyme label="c" type="f">siele</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Heer Jhesus wel <rhyme label="b" type="m" corresp="#s1:l2">ghement</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Si minde Hem seer, si hadden <rhyme label="d" type="m">lief</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat si om Jhesus <rhyme label="e" type="f">wille</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die boese weerelt <rhyme label="d" type="m" corresp="#s1:l5">liet</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Si minde Hem seer, si hadden <rhyme label="d" type="m" corresp="#s1:l5">lief</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dat si om Jhesus <rhyme label="e" type="f" corresp="#s1:l6">wille</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Die boese weerelt <rhyme label="d" type="m" corresp="#s1:l5">liet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die viant, die stont <rhyme label="a" type="f">op</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ende hi ghinck eenen <rhyme label="b" type="m">ganck</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Al totter saligher <rhyme label="c" type="f">sielen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die hi in rusten <rhyme label="b" type="m" corresp="#s2:l2">vant</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">'Och, siele!' seit hy, 'siele <rhyme label="d" type="m">mijn</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Och, woutstu na my <rhyme label="e" type="f">horen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ghi sout in vroechden <rhyme label="d" type="m" corresp="#s2:l5">sijn</rhyme>!'</l>
+        <l id="s2:l8" met="4" type="-+">'Och, siele!' seit hy, 'siele <rhyme label="d" type="m" corresp="#s2:l5">mijn</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Och, woutstu na my <rhyme label="e" type="f" corresp="#s2:l6">horen</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Ghi sout in vroechden <rhyme label="d" type="m" corresp="#s2:l5">sijn</rhyme>!'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">'Ic en wil nae u niet <rhyme label="a" type="f">horen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Noch naden wille <rhyme label="b" type="m">dijn</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">Ghi soudt my al <rhyme label="c" type="f">bedrieghen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat seit die reden <rhyme label="b" type="m" corresp="#s3:l2">mijn</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Ic ontsie soe seer die bitter <rhyme label="d" type="m">doot</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Waert dat si haestick quam <rhyme label="e" type="f">ee</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ic waer in vresen <rhyme label="d" type="m" corresp="#s3:l5">groot'</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">Ic ontsie soe seer die bitter <rhyme label="d" type="m" corresp="#s3:l5">doot</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Waert dat si haestick quam <rhyme label="e" type="f" corresp="#s3:l6">ee</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Ic waer in vresen <rhyme label="d" type="m" corresp="#s3:l5">groot'</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">'Si en sel soe haestich niet <rhyme label="a" type="f">comen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Schoen edel <rhyme label="b" type="m">creatuer</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Ghi moeghetin vroechden <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ende oeck alsoe menich <rhyme label="b" type="m" corresp="#s4:l2">ure</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Ghebruken hier u jonghe <rhyme label="d" type="m">joecht</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ende met wellust uwes <rhyme label="e" type="f">levens</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Hier namaels comen ter <rhyme label="d" type="m" corresp="#s4:l5">vroecht</rhyme>!'</l>
+        <l id="s4:l8" met="4" type="-+">Ghebruken hier u jonghe <rhyme label="d" type="m" corresp="#s4:l5">joecht</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Ende met wellust uwes <rhyme label="e" type="f" corresp="#s4:l6">levens</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Hier namaels comen ter <rhyme label="d" type="m" corresp="#s4:l5">vroecht</rhyme>!'</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">'Hoe soude ic met <rhyme label="a" type="f">wellusticheit</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Leven in desen <rhyme label="b" type="m">dal</rhyme>?</l>
+        <l id="s5:l3" met="3" type="-+">Den tijt is my <rhyme label="c" type="f">verborghen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Hoe neer ic sterven <rhyme label="b" type="m" corresp="#s5:l2">sal</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Ende oeck en wet ic, cleyn of <rhyme label="d" type="m">groot</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Waer mijn siel sel <rhyme label="e" type="f">varen</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Als coemt die bitter <rhyme label="d" type="m" corresp="#s5:l5">doot'</rhyme>.</l>
+        <l id="s5:l8" met="4" type="-+">Ende oeck en wet ic, cleyn of <rhyme label="d" type="m" corresp="#s5:l5">groot</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">Waer mijn siel sel <rhyme label="e" type="f" corresp="#s5:l6">varen</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Als coemt die bitter <rhyme label="d" type="m" corresp="#s5:l5">doot'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

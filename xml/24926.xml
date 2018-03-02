@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24926</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Ik haan mijn rozen uit gestrooid</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich haen mijn rozen uut <rhyme label="a" type="m">ghestreit</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Aen <rhyme label="a" type="m" corresp="#s1:l1">ondersceit</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Of minen <rhyme label="a" type="m" corresp="#s1:l1">heit</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mine esser ein niet <rhyme label="b" type="f">bleven</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Of men die onder voetsen <rhyme label="a" type="m" corresp="#s1:l1">leit</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Aen hofen <rhyme label="a" type="m" corresp="#s1:l1">steit</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Al mijn <rhyme label="a" type="m" corresp="#s1:l1">aerbeit</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Wes huecht mir dan tze <rhyme label="b" type="f" corresp="#s1:l4">leven</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Mijn rozen sijn van smetten <rhyme label="c" type="m">rein</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Daer en esser ghein so <rhyme label="c" type="m" corresp="#s1:l9">clein</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Si en wies in herten <rhyme label="d" type="f">gronde</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Blijf si vertreden dan <rhyme label="c" type="m" corresp="#s1:l9">ghemein</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Mine wert der rozen nummer <rhyme label="c" type="m" corresp="#s1:l9">ein</rhyme></l>
+        <l id="s1:l14" met="3" type="-+">Dat ics dan ye <rhyme label="d" type="f" corresp="#s1:l11">begonde</rhyme></l>
+        <l id="s1:l15" met="3" type="-+">Dat was verloren <rhyme label="d" type="f" corresp="#s1:l11">stonde</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sullen dan dus de rozen <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Ghestroiet <rhyme label="a" type="m" corresp="#s2:l1">zijn</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Verliezens <rhyme label="a" type="m" corresp="#s2:l1">pijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wes sal ic mi <rhyme label="b" type="f">betrouwen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Hope het was tbevelen <rhyme label="a" type="m" corresp="#s2:l1">dijn</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Doestu <rhyme label="a" type="m" corresp="#s2:l1">verdwijn</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Den rozen <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Den boom sal ic of <rhyme label="b" type="f" corresp="#s2:l4">hauwen</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Daer ne sal nummer roze <rhyme label="c" type="m">anstaen</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Des stroiens willic <rhyme label="c" type="m" corresp="#s2:l9">avelaen</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Nemmermeer ics mi <rhyme label="d" type="f">bewinde</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Si zijn ghepluct het blijft <rhyme label="c" type="m" corresp="#s2:l9">ghedaen</rhyme></l>
+        <l id="s2:l13" met="4" type="-+">Sijn si ghestroit ende over <rhyme label="c" type="m" corresp="#s2:l9">gaen</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">Hier mede so nemic <rhyme label="d" type="f" corresp="#s2:l11">inde</rhyme></l>
+        <l id="s2:l15" met="3" type="-+">Up dat ict so <rhyme label="d" type="f" corresp="#s2:l11">bevinde</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach twifel twifel wacker <rhyme label="a" type="m">strijt</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die altoos <rhyme label="a" type="m" corresp="#s3:l1">sijt</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">In mijn <rhyme label="a" type="m" corresp="#s3:l1">berijt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat salic hopen <rhyme label="b" type="f">claghen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Vrau hope ic bem mire rosen <rhyme label="a" type="m" corresp="#s3:l1">quijt</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Helpt mi tze <rhyme label="a" type="m" corresp="#s3:l1">tijt</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Of mijn <rhyme label="a" type="m" corresp="#s3:l1">jolijt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Verliezic al mijn <rhyme label="b" type="f" corresp="#s3:l4">daghe</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Mijn rozen staen mi over <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Het zijn mijn zinne het es mijn <rhyme label="c" type="m" corresp="#s3:l9">moet</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Trouwe ende hertze <rhyme label="d" type="f">gonste</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Zenuwe adren vleesch ende <rhyme label="c" type="m" corresp="#s3:l9">bloet</rhyme></l>
+        <l id="s3:l13" met="4" type="-+">Ende wes ich haen lief beilde <rhyme label="c" type="m" corresp="#s3:l9">zoet</rhyme></l>
+        <l id="s3:l14" met="3" type="-+">Dat es dijn proper <rhyme label="d" type="f" corresp="#s3:l11">wonste</rhyme></l>
+        <l id="s3:l15" met="3" type="-+">Met minliker <rhyme label="d" type="f" corresp="#s3:l11">conste</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu nem te minen rosen <rhyme label="a" type="m">waer</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Mijn hoochste <rhyme label="a" type="m" corresp="#s4:l1">gaer</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Al mine <rhyme label="a" type="m" corresp="#s4:l1">jaer</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Willich dijn eighin <rhyme label="b" type="f">bliven</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Haenstu in dir des twifels <rhyme label="a" type="m" corresp="#s4:l1">vaer</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">So sich mi <rhyme label="a" type="m" corresp="#s4:l1">naer</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Du vindes <rhyme label="a" type="m" corresp="#s4:l1">waer</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Onstede willic <rhyme label="b" type="f" corresp="#s4:l4">verdriven</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Ic wil mich eighin gheven <rhyme label="c" type="m">dir</rhyme></l>
+        <l id="s4:l10" met="4" type="-+">Ic gheve di rozen ende <rhyme label="c" type="m" corresp="#s4:l9">rozier</rhyme></l>
+        <l id="s4:l11" met="3" type="+-">Wiltuus niet nemen <rhyme label="d" type="f">hoede</rhyme></l>
+        <l id="s4:l12" met="4" type="-+">Ende in mi rijst des twifels <rhyme label="c" type="m" corresp="#s4:l9">vier</rhyme></l>
+        <l id="s4:l13" met="4" type="-+">So wart dijn boom verbrandet <rhyme label="c" type="m" corresp="#s4:l9">scier</rhyme></l>
+        <l id="s4:l14" met="3" type="-+">Want ic bem vrouwe <rhyme label="d" type="f" corresp="#s4:l11">goede</rhyme></l>
+        <l id="s4:l15" met="3" type="-+">Bescout van tswifels <rhyme label="d" type="f" corresp="#s4:l11">gloede</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

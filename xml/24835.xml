@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24835</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Ik heb gemind</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ich haen <rhyme label="a" type="m">ghemint</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Men achtes <rhyme label="a" type="m" corresp="#s1:l1">twint</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ic moet mijn liden <rhyme label="b" type="f">claghen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Het es al <rhyme label="a" type="m" corresp="#s1:l1">wint</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Dat men nu <rhyme label="a" type="m" corresp="#s1:l1">vint</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In al die minne <rhyme label="b" type="f" corresp="#s1:l3">draghen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Men darffer niet om <rhyme label="b" type="f" corresp="#s1:l3">vraghen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ic hoors so vele <rhyme label="b" type="f" corresp="#s1:l3">ghewaghen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Die nu wil <rhyme label="a" type="m">minnen</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Moet <rhyme label="a" type="m" corresp="#s2:l1">beghinnen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Spreiken jeghen <rhyme label="b" type="f">meenen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Sal hi <rhyme label="a" type="m" corresp="#s2:l1">gewinnen</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Paeis van <rhyme label="a" type="m" corresp="#s2:l1">zinnen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Of hi saelt <rhyme label="b" type="f" corresp="#s2:l3">beweenen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Van XVII <rhyme label="b" type="f" corresp="#s2:l3">eenen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Sone vint men anders <rhyme label="b" type="f" corresp="#s2:l3">gheenen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Hoe eist <rhyme label="a" type="m">ghevaren</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die minres <rhyme label="a" type="m" corresp="#s3:l1">waren</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Ne willens nemmeer <rhyme label="b" type="f">ayen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Want zi zien <rhyme label="a" type="m" corresp="#s3:l1">tjaren</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Trauwe <rhyme label="a" type="m" corresp="#s3:l1">versparen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ende ontrouwe boven <rhyme label="b" type="f" corresp="#s3:l3">draeyen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Dus moetsi sulzi <rhyme label="b" type="f" corresp="#s3:l3">payen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Met allen winde <rhyme label="b" type="f" corresp="#s3:l3">wayen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Mint een <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">In trauwen <rhyme label="a" type="m" corresp="#s4:l1">stijf</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Ghef di in haer <rhyme label="b" type="f">ghenade</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Ghestade <rhyme label="a" type="m" corresp="#s4:l1">blijf</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Maer dijn <rhyme label="a" type="m" corresp="#s4:l1">beclijf</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Dan doet di nummer <rhyme label="b" type="f" corresp="#s4:l3">stade</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Nu ganc haer vast te <rhyme label="b" type="f" corresp="#s4:l3">rade</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Maer hoeti deser <rhyme label="b" type="f" corresp="#s4:l3">scade</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Trueren <rhyme label="a" type="m">waken</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Magher <rhyme label="a" type="m" corresp="#s5:l1">caken</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Selden sonder <rhyme label="b" type="f">toren</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Breken <rhyme label="a" type="m" corresp="#s5:l1">maken</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Niet <rhyme label="a" type="m" corresp="#s5:l1">gheraken</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Achter meer dan <rhyme label="b" type="f" corresp="#s5:l3">voren</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Dit moeter al toe <rhyme label="b" type="f" corresp="#s5:l3">horen</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Ende alden tijt <rhyme label="b" type="f" corresp="#s5:l3">verloren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Mint ende <rhyme label="a" type="m">beziet</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">Vindi dit <rhyme label="a" type="m" corresp="#s6:l1">niet</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">So muechdijs u <rhyme label="b" type="f">beloven</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">Ic zinghe een <rhyme label="a" type="m" corresp="#s6:l1">liet</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">Ende alst <rhyme label="a" type="m" corresp="#s6:l1">ghesciet</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Dat ic bem wat <rhyme label="b" type="f" corresp="#s6:l3">bestoven</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Willic met vrauwen <rhyme label="b" type="f" corresp="#s6:l3">hoven</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Maer niet daer an <rhyme label="b" type="f" corresp="#s6:l3">verscoven</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

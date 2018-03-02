@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22565</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Och Doot, Doot, Doot, die niement en <rhyme label="a" type="m">spaert</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wat hebdij nu <rhyme label="b" type="f">bedreven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Aen een lantsvrou van also groter <rhyme label="a" type="m" corresp="#s1:l1">macht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die tHanwerpen liet haer <rhyme label="b" type="f" corresp="#s1:l2">leven</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m">soelaes</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f">begheren</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s1:l5">solaes</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s1:l6">lantsheeren</rhyme>.</l>
+        <l id="s1:l9" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m" corresp="#s1:l5">soelaes</rhyme>!</l>
+        <l id="s1:l10" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f" corresp="#s1:l6">begheren</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s1:l5">solaes</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s1:l6">lantsheeren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Des sander dach, vrij edel <rhyme label="a" type="m">bloet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Nu leyt hij in <rhyme label="b" type="f">Franssoensselande</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Nu bid ic Maria, die waerde Moeder <rhyme label="a" type="m" corresp="#s2:l1">Gods</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dat sy hem bescermt voer viants <rhyme label="b" type="f" corresp="#s2:l2">handen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m">soelaes</rhyme>!</l>
+        <l id="s2:l6" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f">begheren</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s2:l5">solaes</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s2:l6">lantsheeren</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m" corresp="#s2:l5">soelaes</rhyme>!</l>
+        <l id="s2:l10" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f" corresp="#s2:l6">begheren</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s2:l5">solaes</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s2:l6">lantsheeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'Occh hadieu vader, hadieu <rhyme label="a" type="m">moeder</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ende ic moet varen in een ander <rhyme label="b" type="f">lant</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Hadieu suster, hadieu <rhyme label="a" type="m" corresp="#s3:l1">broeder</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die doot die is my also swaeren <rhyme label="b" type="f" corresp="#s3:l2">pant</rhyme>.'</l>
+        <l id="s3:l5" met="3" type="-+">Hadieu, hadieu <rhyme label="c" type="m">solaes</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Ende sy had also grote <rhyme label="d" type="f">begheren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Al om te spreken al haeren <rhyme label="c" type="m" corresp="#s3:l5">solaes</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s3:l6">lantshere</rhyme>.</l>
+        <l id="s3:l9" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m" corresp="#s3:l5">soelaes</rhyme>!</l>
+        <l id="s3:l10" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f" corresp="#s3:l6">begheren</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s3:l5">solaes</rhyme>,</l>
+        <l id="s3:l12" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s3:l6">lantsheeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu isser een lantsvrouwe <rhyme label="a" type="m">doot</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Bergonge, die jonghe <rhyme label="b" type="f">prinssessee</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">God help haer siel in Aberhams <rhyme label="a" type="m" corresp="#s4:l1">scoet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ende bescermse al voer der <rhyme label="b" type="f" corresp="#s4:l2">hellen</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m">soelaes</rhyme>!</l>
+        <l id="s4:l6" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f">begheren</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s4:l5">solaes</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s4:l6">lantsheeren</rhyme>.</l>
+        <l id="s4:l9" met="3" type="-+">Ou wy, ou wy <rhyme label="c" type="m" corresp="#s4:l5">soelaes</rhyme>!</l>
+        <l id="s4:l10" met="4" type="-+">Ende sij had also grote <rhyme label="d" type="f" corresp="#s4:l6">begheren</rhyme></l>
+        <l id="s4:l11" met="4" type="+-">Al om te spreken al hoeren <rhyme label="c" type="m" corresp="#s4:l5">solaes</rhyme>,</l>
+        <l id="s4:l12" met="4" type="-+">Haer prins, haer man, Haeren edel <rhyme label="d" type="f" corresp="#s4:l6">lantsheeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

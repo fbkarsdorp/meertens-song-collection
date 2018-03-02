@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27832</id>
+    <date>
+      <year-start>1581</year-start>
+      <year-end>1581</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>Chamber of rhetoric's song</tag>
+    </tags>
+    <melody>Hoe zalig zijn de landen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe salich sijn die <rhyme label="a" type="f">Landen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Daer die wijsheyt <rhyme label="b" type="m">regeert</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Alle cloecke van <rhyme label="a" type="f" corresp="#s1:l1">verstanden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hout sy <rhyme label="b" type="m" corresp="#s1:l2">onghecorrumpeert</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Daer om draecht sy de <rhyme label="c" type="f">croone</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Boven den goude <rhyme label="c" type="f" corresp="#s1:l5">schoone</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Al uut des Hemels <rhyme label="c" type="f" corresp="#s1:l5">troone</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Is sy <rhyme label="b" type="m" corresp="#s1:l2">ghedescendeert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sy was voor allen <rhyme label="a" type="f">tyden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met Godt sonder <rhyme label="b" type="m">beghin</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dafgronden om <rhyme label="a" type="f" corresp="#s2:l1">bevryden</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ley sy naer haren <rhyme label="b" type="m" corresp="#s2:l2">sin</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Uut Godt is sy <rhyme label="c" type="f">gheboren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Daerom heeft sy te <rhyme label="c" type="f" corresp="#s2:l5">voren</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die waerheyt <rhyme label="c" type="f" corresp="#s2:l5">uutvercoren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Ghebracht ter Werelt <rhyme label="b" type="m" corresp="#s2:l2">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghy Regeerders op der <rhyme label="a" type="f">eerden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Van God daer toe <rhyme label="b" type="m">ghestelt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Wilt die wijsheyt <rhyme label="a" type="f" corresp="#s3:l1">aenveerden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Schout Jonste ende <rhyme label="b" type="m" corresp="#s3:l2">ghewelt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Soo salse u <rhyme label="c" type="f">vercloeken</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dus wilt wel <rhyme label="c" type="f" corresp="#s3:l5">ondersoecken</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Haer Goddelijcke <rhyme label="c" type="f" corresp="#s3:l5">boecken</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Eer u die waerheyt <rhyme label="b" type="m" corresp="#s3:l2">melt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Nu dan ghy <rhyme label="a" type="f">ondersaten</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Leeft naer des Wijsheyts <rhyme label="b" type="m">vermaen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Want in quaey willighe <rhyme label="a" type="f" corresp="#s4:l1">vaten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">En sal sy niet <rhyme label="b" type="m" corresp="#s4:l2">ingaen</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">Dus wilt dan <rhyme label="c" type="f">obedieren</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Die u wel <rhyme label="c" type="f" corresp="#s4:l5">Gouverneren</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Soo suldy <rhyme label="c" type="f" corresp="#s4:l5">prospereren</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">En trijck sal blyven <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">O Wijsheyt edel <rhyme label="a" type="f">vrouwe</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Blijft in ons Princen <rhyme label="b" type="m">raet</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">Dat hy u is <rhyme label="a" type="f" corresp="#s5:l1">ghetrouwe</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Gherust blijft sijnen <rhyme label="b" type="m" corresp="#s5:l2">staet</rhyme>:</l>
+        <l id="s5:l5" met="3" type="-+">Maer en wiltse niet <rhyme label="c" type="f">ghelooven</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Die slants welvaert <rhyme label="c" type="f" corresp="#s5:l5">berooven</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Sy souden u <rhyme label="c" type="f" corresp="#s5:l5">verdooven</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">En al om eyghen <rhyme label="b" type="m" corresp="#s5:l2">baet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

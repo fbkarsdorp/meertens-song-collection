@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14978</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>La Dauphine</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De Vogel wert gelockt <rhyme label="a" type="m">gefluyt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Des Vangers pyp geeft soet <rhyme label="a" type="m" corresp="#s1:l1">geluyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Tot dat hy't dierken heeft int <rhyme label="b" type="m">net</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">'tWelck hy dan naer syn handen <rhyme label="b" type="m" corresp="#s1:l3">set</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En brengtet in alsulck <rhyme label="c" type="m">bedwang</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat 't pypen moet naar zynen <rhyme label="c" type="m" corresp="#s1:l5">sang</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Duc d'Alf/ dien ouden snooden <rhyme label="a" type="m">gast</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Fluyt mede nu seer soet al <rhyme label="a" type="m" corresp="#s2:l1">vast</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Op dat hy't Land soo inne <rhyme label="b" type="m">slick</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Het volck mocht krygen in syn <rhyme label="b" type="m" corresp="#s2:l3">strick</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Maer (vrienden) 'tis een lichte <rhyme label="c" type="m">vlieg</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Siet toe dat hy u niet <rhyme label="c" type="m" corresp="#s2:l5">bedrieg</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Com nestelt hem de broeck eens <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En smyt hem oock vry op de <rhyme label="a" type="m" corresp="#s3:l1">kop</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Slae dat hy pypt, en kirt, en <rhyme label="b" type="m">jangt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Syn steert als een hont-rekel <rhyme label="b" type="m" corresp="#s3:l3">hangt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Stryt vroom voor uwe goede <rhyme label="c" type="m">saeck</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Maeckt dat hy uyt het Lant <rhyme label="c" type="m" corresp="#s3:l5">geraeck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Veel liever stelt het alles <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En gord' het sweert aen uwe <rhyme label="a" type="m" corresp="#s4:l1">sy</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Slae vry, 'tis nu de rechte <rhyme label="b" type="m">tydt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dat ghy u maeckt den bloet-hont <rhyme label="b" type="m" corresp="#s4:l3">quijt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Hout goede wacht, vertrout hem <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Hy soeckt niet meer als u <rhyme label="c" type="m" corresp="#s4:l5">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Weg sweept hem met de lange <rhyme label="a" type="m">roe</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En dryft de guyt na Spanjen <rhyme label="a" type="m" corresp="#s5:l1">toe</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Wilt hem oock so om d'ooren <rhyme label="b" type="m">slaen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Gelyck hy and'ren heeft <rhyme label="b" type="m" corresp="#s5:l3">gedaen</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Voor alle werck bid God den <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Dat hy hem selver van u <rhyme label="c" type="m" corresp="#s5:l5">keer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

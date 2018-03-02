@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27022</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wie schonn bl ett vnß der <rhyme label="a" type="f">Meye</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Der Sommer fertt <rhyme label="b" type="m">dahin</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Mir ist ein fein J <rhyme label="c" type="f">nckfrewlein</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">gefallen jn meinenn <rhyme label="b" type="m" corresp="#s1:l2">Syn</rhyme>/</l>
+        <l id="s1:l5" met="4" type="-+">Offt sehenn th ett denn a genn <rhyme label="d" type="m">woll</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">wenn ich an sie <rhyme label="e" type="f">gedencke</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">mein hertz ist fre den <rhyme label="d" type="m" corresp="#s1:l5">voll</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wenn ich des nachtes th  <rhyme label="a" type="f">schlaffenn</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">So k mpt mir mein feines  lieb f <rhyme label="b" type="m">r</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Wen ich dan th e <rhyme label="c" type="f">erwachenn</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">So ist es alles <rhyme label="b" type="m" corresp="#s2:l2">nichtz</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">Aller irst hebtt sich ein grosse <rhyme label="d" type="m">clag</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">Wan ich von ir m s <rhyme label="e" type="f">scheidenn</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">Das machtt mich altzeitt <rhyme label="d" type="m" corresp="#s2:l5">graw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Zwei blomlein a ff groner <rhyme label="a" type="f">heidenn</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">Die heischen wolgem <rhyme label="b" type="m">itt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Laß vns der lieb <rhyme label="c" type="f">wachsenn</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">seindtt vns f r tra renn g <rhyme label="b" type="m" corresp="#s3:l2">ett</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">All vergiß nitt mein stehett a ch <rhyme label="d" type="m">darbei</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">gott gr ß sie mir jm <rhyme label="e" type="f">hertzenn</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">Die mir die liebste <rhyme label="d" type="m" corresp="#s3:l5">sei</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

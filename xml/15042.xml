@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15042</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>moralistic song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Allemande monsieur</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">T'is een groot en heerlijc <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat ons God den Heer al <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En als't volck een tyt <rhyme label="b" type="m">beleeft</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Dattet goe Regenten <rhyme label="b" type="m" corresp="#s1:l3">heeft</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die daer met een goet <rhyme label="c" type="m">beleyt</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Oeff'nen rechts <rhyme label="c" type="m" corresp="#s1:l5">gerechtigheyt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">'tVolck in deuchden voren <rhyme label="d" type="m">gaen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">End' 'sLands vyand tegen <rhyme label="d" type="m" corresp="#s1:l7">staen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer wanneer ons God de <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">'tVroome volck ontrecket <rhyme label="a" type="m" corresp="#s2:l1">weer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dat is onser sonden <rhyme label="b" type="m">schult</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daer het Land af is <rhyme label="b" type="m" corresp="#s2:l3">vervult</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En dan komen ons daer <rhyme label="c" type="m">af</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Slagen, plagen, groote <rhyme label="c" type="m" corresp="#s2:l5">straf</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Want als God wil plagen't <rhyme label="d" type="m">Land</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Neemt hy d'Heeren haer <rhyme label="d" type="m" corresp="#s2:l7">verstand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mensche wacht u van de <rhyme label="a" type="m">sond</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Bid den Heere t'aller <rhyme label="a" type="m" corresp="#s3:l1">stond</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dat van allerley <rhyme label="b" type="m">gevaer</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Hy ons lieve Land <rhyme label="b" type="m" corresp="#s3:l3">bewaer</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">End' ons sulcke Helden <rhyme label="c" type="m">geef</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Dat heel Spanjen daer van <rhyme label="c" type="m" corresp="#s3:l5">beef</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">T'r eeren van Gods <rhyme label="d" type="m">Majesteyt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">En tot onser <rhyme label="d" type="m" corresp="#s3:l7">saligheyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

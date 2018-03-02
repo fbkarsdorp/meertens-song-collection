@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24070</id>
+    <date>
+      <year-start>1518</year-start>
+      <year-end>1518</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Hoge vrouden zijn hier boven inder <rhyme label="a" type="m">ewicheit</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Daer jhesus sijn vercoren haer stede heeft <rhyme label="a" type="m" corresp="#s1:l1">bereyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Jhesus te behagen, dat is mijn <rhyme label="a" type="m">begeert</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Alle dagen daer om te sterven, dat is hi mi wel <rhyme label="a" type="m" corresp="#s2:l1">weert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Wie jhesus wil behagen, die si daer toe <rhyme label="a" type="m">bereyt</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Sijn herte ledich te maken van min der <rhyme label="a" type="m" corresp="#s3:l1">ydelheyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Wie met jhesus minne van binnen is <rhyme label="a" type="m">omvaen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Dye mach sijn lof wel singen: haer scult wert af <rhyme label="a" type="m" corresp="#s4:l1">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Die jhesus minne dragen, sijn wel gheheten <rhyme label="a" type="m">vroet</rhyme>:</l>
+        <l id="s5:l2" met="6" type="-+">Si hebben uutvercoren dat alre beste <rhyme label="a" type="m" corresp="#s5:l1">goet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Wie suver is van herten, na jhesus wil <rhyme label="a" type="m">bereit</rhyme>,</l>
+        <l id="s6:l2" met="6" type="-+">Die moet uut minnen dalen in diere <rhyme label="a" type="m" corresp="#s6:l1">oetmoedicheit</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="6" type="-+">Die haer eigen wille laten, Jhesus sijn <rhyme label="a" type="m">onderdaen</rhyme>,</l>
+        <l id="s7:l2" met="6" type="-+">Geen tonghe en mach uut spreken, wat si van hem <rhyme label="a" type="m" corresp="#s7:l1">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="6" type="-+">Die jhesus minne smaken, den alren besten <rhyme label="a" type="m">wijn</rhyme>,</l>
+        <l id="s8:l2" met="6" type="-+">Altijt is haer begeren, in sinen dyenst te <rhyme label="a" type="m" corresp="#s8:l1">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="6" type="-+">Jesus aen te scouwen in sijn hoghe <rhyme label="a" type="m">magesteyt</rhyme>,</l>
+        <l id="s9:l2" met="6" type="-+">Daer na is mijn verlangen. Och, waer mijn siel <rhyme label="a" type="m" corresp="#s9:l1">bereit</rhyme>!</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="6" type="-+">Wat vroude mach mi hier lusten in desen jammer <rhyme label="a" type="m">dael</rhyme>?</l>
+        <l id="s10:l2" met="6" type="-+">Mijn hert dat loopt van binnen tot Jhesus <rhyme label="a" type="m" corresp="#s10:l1">altemael</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

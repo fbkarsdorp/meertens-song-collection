@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26954</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sein fillen a ch sein schellen <rhyme label="a" type="m">ab</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">ich kans nitt wiedder <rhyme label="b" type="f">locken</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Den fl cht ehr jn ein ander ha <rhyme label="c" type="m">ß</rhyme> /</l>
+        <l id="s1:l4" met="4" type="-+">das deitt ehr mir zu <rhyme label="b" type="f" corresp="#s1:l2">speite</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Deß abentt wan ich bei ihr sitten <rhyme label="a" type="m">ghan</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">bei ihrenn schmalenn <rhyme label="b" type="f">seittenn</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">iß mir mein b ttel dan woll <rhyme label="c" type="m">gestaltt</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">So magh sei mich woll <rhyme label="b" type="f" corresp="#s2:l2">leidenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Deß morgens als ich fro a <rhyme label="a" type="m">ffstehe</rhyme> /</l>
+        <l id="s3:l2" met="4" type="-+">all von der wunder <rhyme label="b" type="f">schoner</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">So schleitt sie mir ein knipgenn <rhyme label="c" type="m">nach</rhyme> /</l>
+        <l id="s3:l4" met="4" type="-+">das gibtt sei mir zu <rhyme label="b" type="f" corresp="#s3:l2">lonhe</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Jch weiß mir ein seher schones ha <rhyme label="a" type="m">ß</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">Das wasser la fft dar <rhyme label="b" type="f">mb</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Gott geb meinem lieb so fill tha sentt g etter <rhyme label="c" type="m">Jair</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">so fill als ich jr g <rhyme label="b" type="f" corresp="#s4:l2">nnen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

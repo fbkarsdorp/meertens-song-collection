@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24937</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Das clagede ein reyne zelich <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Elendelichen iren <rhyme label="b" type="m">noet</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Och, was sal mer nu deser <rhyme label="a" type="m" corresp="#s1:l1">lijf</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Liever wer mir vil de <rhyme label="b" type="m" corresp="#s1:l2">doyt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Das ich moes gescheiden <rhyme label="c" type="m">zin</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Van hem, dar al min troest an <rhyme label="d" type="m">steit</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Queme das bi den sculden <rhyme label="c" type="m" corresp="#s1:l5">min</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Das wer mir ongemessen <rhyme label="d" type="m" corresp="#s1:l6">leyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Idoch sal men nicht <rhyme label="a" type="m">verstaen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Das onse moet gescheiden <rhyme label="b" type="m">zij</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Al wer zin hertz in <rhyme label="a" type="m" corresp="#s2:l1">Yndyaen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Min hertz moest hem wesen <rhyme label="b" type="m" corresp="#s2:l2">bi</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Want er gerne sulde <rhyme label="c" type="m">erwerven</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Mit dienst eer in vremden <rhyme label="d" type="m">lant</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Sulde zin gonst dan an mir <rhyme label="c" type="m" corresp="#s2:l5">sterven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">So wer mir trou gar <rhyme label="d" type="m" corresp="#s2:l6">onbekant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Neyn ich niet, ich wil hem <rhyme label="a" type="m">bliven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Want ich kennen so <rhyme label="b" type="m">bescheiden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat he mich mint vor allen <rhyme label="a" type="m" corresp="#s3:l1">wiven</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Der rijche god moes hem <rhyme label="b" type="m" corresp="#s3:l2">geleyden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ende mich zu lande <rhyme label="c" type="m">zenden</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Gezonds lives met nue <rhyme label="d" type="m">ere</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Den heelt, die nu is in <rhyme label="c" type="m" corresp="#s3:l5">elenden</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Des begert min hertz <rhyme label="d" type="m" corresp="#s3:l6">zere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

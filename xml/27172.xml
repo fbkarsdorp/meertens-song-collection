@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27172</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>praise</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Aanhoor geklaag o bloeiende jeugd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aensiet schoon lieff myn pyne <rhyme label="a" type="m">swaer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">en t'gheen ick nu lyde om v maecht <rhyme label="a" type="m" corresp="#s1:l1">eerbaer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">farst mit my <rhyme label="b" type="m">ontwyckt</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">so ghy <rhyme label="a" type="m" corresp="#s1:l1">beswyckt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">gheneucht noch vreucht my t'hert <rhyme label="a" type="m">verbeyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">hoort schoon lieff om dat ghy my apsent <rhyme label="a" type="m" corresp="#s2:l1">syt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">en v met envyn / ben ick in <rhyme label="b" type="m">pyn</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">noch om v <rhyme label="a" type="m" corresp="#s2:l1">altyt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Compt myte baet o schoon <rhyme label="a" type="m">kersou</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">laet uyt caritaet my genieten v <rhyme label="a" type="m" corresp="#s3:l1">trou</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">als dan sal ick <rhyme label="b" type="m">syn</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">verlicht van <rhyme label="a" type="m" corresp="#s3:l1">pyn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">eerst doen ick sach v aenschijen <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">sonder verdrach ick met der <rhyme label="a" type="m" corresp="#s4:l1">spoet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Viel in groot <rhyme label="b" type="m">torment</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">t'mocht v syn <rhyme label="a" type="m" corresp="#s4:l1">bekent</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">ay lief getrou  blyf ick v <rhyme label="a" type="m">altyt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">nu al ist dat ghy my apsent <rhyme label="a" type="m" corresp="#s5:l1">syt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ghy hout t'hert by <rhyme label="b" type="m">v</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">verstaet dit <rhyme label="a" type="m" corresp="#s5:l1">nu</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">hoe kan ick v lieff uyt myn <rhyme label="a" type="m">gedacht</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">immermeer stellen dach ofte <rhyme label="a" type="m" corresp="#s6:l1">nacht</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">bouen een <rhyme label="b" type="m">godin</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">staet ghy in myn <rhyme label="a" type="m" corresp="#s6:l1">sin</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Lof princes vol deucht aensiet het <rhyme label="a" type="m">torment</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">al t'gheen ick om v Jeucht ly in <rhyme label="a" type="m" corresp="#s7:l1">apsent</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">nu denckt op my als ick niet en <rhyme label="b" type="m">sy</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">t' by v <rhyme label="a" type="m" corresp="#s7:l1">onttrent</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

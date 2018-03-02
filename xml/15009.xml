@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15009</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>moralistic song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Het was een fraai rijk burgerskind</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Begeertens lust baert altyt <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In Goddeloose <rhyme label="b" type="f">menschen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Haer siel verkoopen sy alst <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hier slechts maer naer haer <rhyme label="b" type="f" corresp="#s1:l2">wenschen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Doch als des Heeren <rhyme label="c" type="f">plagen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">De siele sullen <rhyme label="c" type="f" corresp="#s1:l5">knagen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dan ist te laet,, Daer is geen <rhyme label="d" type="m">raet</rhyme>,,</l>
+        <l id="s1:l8" met="3" type="-+">Te doen berou der <rhyme label="d" type="m" corresp="#s1:l7">daet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gelyck een appel buyten <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wel schoon schynt, end' van <rhyme label="b" type="f">binnen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Gantsch niet en doogt; soo sietmen't <rhyme label="a" type="m" corresp="#s2:l1">gaen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Met dees fenyn'ge <rhyme label="b" type="f" corresp="#s2:l2">spinnen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Sy schynen wat van <rhyme label="c" type="f">buyten</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Van binnen zy niet <rhyme label="c" type="f" corresp="#s2:l5">stuyten</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Doortrapt, doornaeyt,, Syns' en daer <rhyme label="d" type="m">leyt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Int hert geen <rhyme label="d" type="m" corresp="#s2:l7">heyligheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Bedriegt u niet, siet toe, siet <rhyme label="a" type="m">toe</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Schyn-heylige <rhyme label="b" type="f">gesoorden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ghy zyt nu Gods-gesalfde <rhyme label="a" type="m" corresp="#s3:l1">moe</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">End' hebt soo gaen <rhyme label="b" type="f" corresp="#s3:l2">vermoorden</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Den vader uwer <rhyme label="c" type="f">landen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Met uwe eygen <rhyme label="c" type="f" corresp="#s3:l5">handen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Doch wat u daer,, Voor naeckt hier <rhyme label="d" type="m">naer</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Sult ghy wel worden <rhyme label="d" type="m" corresp="#s3:l7">waer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

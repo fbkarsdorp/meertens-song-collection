@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24778</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>Adieu adieu solaas van dij ik moet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Adieu adieu <rhyme label="a" type="m">solaes</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van dir ic sceiden <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Me rekent mi een <rhyme label="a" type="m" corresp="#s1:l1">dwaes</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In adde gelt of <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Adieu adieu <rhyme label="c" type="m">adieu</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Adieu ic wil gaen wesen <rhyme label="b" type="m" corresp="#s1:l2">vroet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Hebbic niet men ghevet <rhyme label="d" type="m">niet</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dat doet mi dickent <rhyme label="e" type="f">zorghen</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Mijn ghelt es clein ghebreict mi <rhyme label="d" type="m" corresp="#s1:l7">yet</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Sone wil men mi niet <rhyme label="e" type="f" corresp="#s1:l8">boorghen</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Here God verleent mi goeden <rhyme label="e" type="f" corresp="#s1:l8">morghen</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Te ghelde so anich cranken <rhyme label="b" type="m" corresp="#s1:l2">spoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Adieu adieu <rhyme label="a" type="m">solaes</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van dir ic sceiden <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Me rekent mi een <rhyme label="a" type="m" corresp="#s2:l1">dwaes</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">In adde gelt of <rhyme label="b" type="m" corresp="#s2:l2">goet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Adieu adieu <rhyme label="c" type="m">adieu</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Adieu ic wil gaen wesen <rhyme label="b" type="m" corresp="#s2:l2">vroet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Solaes het moet ghesceiden <rhyme label="d" type="m">zijn</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Wat vroomt mi langhe <rhyme label="e" type="f">beiden</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Het doet mi pijn int hertze <rhyme label="d" type="m" corresp="#s2:l7">mijn</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Dat ic mi van u <rhyme label="e" type="f" corresp="#s2:l8">sceide</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Adieu mi ne sciedic nie so <rhyme label="e" type="f" corresp="#s2:l8">leide</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Ghebrec mi van u sceiden <rhyme label="b" type="m" corresp="#s2:l2">doet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Adieu adieu <rhyme label="a" type="m">solaes</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Van dir ic sceiden <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Me rekent mi een <rhyme label="a" type="m" corresp="#s3:l1">dwaes</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In adde gelt of <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Adieu adieu <rhyme label="c" type="m">adieu</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Adieu ic wil gaen wesen <rhyme label="b" type="m" corresp="#s3:l2">vroet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Gave ons god des ghelts <rhyme label="d" type="m">ghenouch</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">So mocht wi vroilic <rhyme label="e" type="f">zinghen</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Met vruechden staen na ons <rhyme label="d" type="m" corresp="#s3:l7">ghevouch</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Ende zorgen laten <rhyme label="e" type="f" corresp="#s3:l8">springhen</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Nu moet ic mi met zorghen <rhyme label="e" type="f" corresp="#s3:l8">minghen</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">In hebbe gheen ghelt in mijn <rhyme label="b" type="m" corresp="#s3:l2">behoet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

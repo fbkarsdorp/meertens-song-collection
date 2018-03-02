@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31233</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Wer toure ufer heringe sezt. der het de szale <rhyme label="a" type="f">verloren</rhyme>.</l>
+        <l id="s1:l2" met="7" type="-+">dye schaif de werdent sigelois hait in der wolf <rhyme label="a" type="f" corresp="#s1:l1">gesvoren</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">dye snere moissen brechin <rhyme label="b" type="m">wol</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">so wa der esil clinkit gigen <rhyme label="a" type="f" corresp="#s1:l1">tone</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">ym is der moit verirt wer stummen sprechin lerin <rhyme label="c" type="m">wil</rhyme>.</l>
+        <l id="s1:l6" met="7" type="-+">dye moissen beyde struglin e das si kumin zuo denm <rhyme label="c" type="m" corresp="#s1:l5">zil</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">wa blinde den blindin leydin <rhyme label="b" type="m" corresp="#s1:l3">sol</rhyme>.</l>
+        <l id="s1:l8" met="5" type="-+">unsteder moit der erenkit wibis <rhyme label="d" type="f">schone</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">so wa der apt de worfil <rhyme label="e" type="m">dreyt</rhyme>.</l>
+        <l id="s1:l10" met="6" type="+-">spilint da de muonge das ist niet eyn <rhyme label="f" type="f">wonder</rhyme>.</l>
+        <l id="s1:l11" met="3" type="+-">is ist verloren <rhyme label="e" type="m" corresp="#s1:l9">arbeit</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">wer vuor inzundin wil mit eime nasme <rhyme label="f" type="f" corresp="#s1:l10">zunder</rhyme>.</l>
+        <l id="s1:l13" met="7" type="-+">dis vijspil ich geligin wol. vil mangin edilin <rhyme label="g" type="m">man</rhyme>.</l>
+        <l id="s1:l14" met="8" type="-+">der lant unt lude berechten sol. und sich selver berechtin niet in <rhyme label="g" type="m" corresp="#s1:l13">kan</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

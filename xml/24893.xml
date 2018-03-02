@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24893</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>reflective song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Mijn hart is zonder knoop geletst</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn herte es sonder cnoop <rhyme label="a" type="m">gheletst</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Nochtan en can soes niet <rhyme label="b" type="m">ongaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Daer toe me drijft mi ende <rhyme label="a" type="m" corresp="#s1:l1">ketst</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ende in can gheene ghenaden <rhyme label="b" type="m" corresp="#s1:l2">ontfaen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Up wankel gront eist quaet <rhyme label="a" type="m" corresp="#s1:l1">ghemetst</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Des sal mijn werc onlanghe <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Bezie dijn spel eer dattu <rhyme label="a" type="m" corresp="#s1:l1">wetst</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn herte es sonder cnoop <rhyme label="a" type="m">gheletst</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Nochtan en can soes niet <rhyme label="b" type="m">ontgaen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Daer toe me drijft mi ende <rhyme label="a" type="m" corresp="#s2:l1">ketst</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Mijn tor die valt wacht wie hem <rhyme label="b" type="m" corresp="#s2:l2">quetst</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gaet van onder hets wel <rhyme label="a" type="m" corresp="#s2:l1">ghedaen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Daer sal die sulcke sijn <rhyme label="b" type="m" corresp="#s2:l2">bedretst</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Hine saelt niet connen of <rhyme label="a" type="m" corresp="#s2:l1">ghedwaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

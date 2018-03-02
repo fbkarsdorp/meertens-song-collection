@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27232</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Allemande Schak</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O lieflyck <rhyme label="a" type="m">gesicht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">ghy doot myn trueren en <rhyme label="b" type="f">verblyden</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">alst hert hem eens <rhyme label="a" type="m" corresp="#s1:l1">verlicht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">zo doet ghyt weederom <rhyme label="b" type="f" corresp="#s1:l2">lyden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Ochg hoe lange salt nochg <rhyme label="c" type="m">syn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">dat ghy sult quellen <rhyme label="c" type="m" corresp="#s1:l5">myn</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">in wreetheyt meerder <rhyme label="a" type="m" corresp="#s1:l1">[.]ticht</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Lieff ken kans niet langer <rhyme label="b" type="f" corresp="#s1:l2">lyden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V fieren <rhyme label="a" type="m">gang</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">V fris u vrolyck <rhyme label="b" type="f">weesen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">v armkens <rhyme label="a" type="m" corresp="#s2:l1">blanck</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">die waerdichg zyn om <rhyme label="b" type="f" corresp="#s2:l2">prysen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">wilt myn in dien <rhyme label="c" type="m">ontfaen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">myn trueren sal zyn <rhyme label="c" type="m" corresp="#s2:l5">gedaen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">ic salt v weeten <rhyme label="a" type="m" corresp="#s2:l1">danck</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">lieff ghy kunt my wel <rhyme label="b" type="f" corresp="#s2:l2">geneesen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">V mondelyn <rhyme label="a" type="m">root</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">die waerdichg is <rhyme label="b" type="f">vulprysen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">v borskens <rhyme label="a" type="m" corresp="#s3:l1">bloot</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">die doen myn ver <rhyme label="b" type="f" corresp="#s3:l2">jolysen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">die die eens tasten <rhyme label="c" type="m">mocht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">jae doen al wat hem <rhyme label="c" type="m" corresp="#s3:l5">docht</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">en waer hy halliff <rhyme label="a" type="m" corresp="#s3:l1">doot</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">hy zou wel weer <rhyme label="b" type="f" corresp="#s3:l2">verrysen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Prinsesse <rhyme label="a" type="m">exelent</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">dien ic altyt zal <rhyme label="b" type="f">eren</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">mocht ic v coomen <rhyme label="a" type="m" corresp="#s4:l1">omtrent</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">jae doen nae myn <rhyme label="b" type="f" corresp="#s4:l2">beegeren</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">als dan zoo zout ghy <rhyme label="c" type="m">sien</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">wat duech gden v zou <rhyme label="c" type="m" corresp="#s4:l5">gheschien</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">van een die ghy wel <rhyme label="a" type="m" corresp="#s4:l1">kent</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">wyns lyffde liefde nyet sal <rhyme label="b" type="f" corresp="#s4:l2">sesseeren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

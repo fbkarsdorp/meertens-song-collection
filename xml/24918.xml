@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24918</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Neemt mij dan twijfel dijn genade</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Neimt mir dan tzwifel dijn <rhyme label="a" type="f">ghenede</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">So sinc ic aerm man <rhyme label="a" type="f" corresp="#s1:l1">ghestede</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Waer tzo es mir dat leven <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ich aen mich eighin gheil <rhyme label="c" type="f">ghegheven</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Der liefster die ic ye <rhyme label="d" type="m">ghesach</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ende ich en can niet anders <rhyme label="c" type="f" corresp="#s1:l4">leven</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Dan huer ghenoucht die mijns <rhyme label="d" type="m" corresp="#s1:l5">vermach</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Dat bistu vrauwe die nacht ende <rhyme label="d" type="m" corresp="#s1:l5">dach</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Alleyn bist vast in minen <rhyme label="b" type="m" corresp="#s1:l3">moet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al ware die werelt mijn <rhyme label="a" type="f">alleine</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ende niet dijn gonst wat haddich <rhyme label="a" type="f" corresp="#s2:l1">dan</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Mi ware veul liever liefste <rhyme label="b" type="m">reyne</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Das du mir gons das ich di <rhyme label="c" type="f">gan</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende in wil nummer noch en <rhyme label="d" type="m">can</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat anders si wes ghi mi <rhyme label="c" type="f" corresp="#s2:l4">doet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Neimt mir dan tzwifel dijn <rhyme label="d" type="m" corresp="#s2:l5">ghenede</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">So sinc ic aerm man <rhyme label="d" type="m" corresp="#s2:l5">ghestede</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Waer tzo es mir dat leven <rhyme label="b" type="m" corresp="#s2:l3">goet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">No hier no daer waer ich <rhyme label="a" type="f">belende</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ne vindic vruecht no troost no <rhyme label="a" type="f" corresp="#s3:l1">heil</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ach ware des tzwivels vrou een <rhyme label="b" type="m">hende</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ende ich der hofen creighe een <rhyme label="c" type="f">deil</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">So ware mijn hertze in vruechden <rhyme label="d" type="m">gheil</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Wes ich nu doe dats jeghen <rhyme label="c" type="f" corresp="#s3:l4">spoet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Neimt mir dan tzwifel dijn <rhyme label="d" type="m" corresp="#s3:l5">ghenede</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">So sinc ic aerm man <rhyme label="d" type="m" corresp="#s3:l5">ghestede</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Waer tzo es mir dat leven <rhyme label="b" type="m" corresp="#s3:l3">goet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Minlich lieflich uut <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Vor al dat of de weerelt <rhyme label="a" type="f" corresp="#s4:l1">leift</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">So lieve een wijf was nie <rhyme label="b" type="m">gheboren</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Nochtan mi tzwifel danc <rhyme label="c" type="f">ontgheift</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Hope mi al vergheten <rhyme label="d" type="m">heift</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Ic roupe ghenaden beilde <rhyme label="c" type="f" corresp="#s4:l4">zoet</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Neimt mir dan tzwifel dijn <rhyme label="d" type="m" corresp="#s4:l5">ghenede</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">So sinc ic aerm man <rhyme label="d" type="m" corresp="#s4:l5">ghestede</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Waer tzo es mir dat leven <rhyme label="b" type="m" corresp="#s4:l3">goet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25084</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>spiritual song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Nu laat ons zingen het is tijd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nv laet ons singen het es <rhyme label="a" type="m">tijt</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Die ons allen heeft <rhyme label="a" type="m" corresp="#s1:l1">verblijt</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s1:l2">crimine</rhyme>.</l>
+        <l id="s1:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s1:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die vader inder <rhyme label="a" type="m">eewicheit</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Est puer natus natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ontfermde onser <rhyme label="a" type="m" corresp="#s2:l1">allindicheit</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s2:l2">crimine</rhyme>.</l>
+        <l id="s2:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s2:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dat adam inden appel <rhyme label="a" type="m">beet</rhyme>.</l>
+        <l id="s3:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Dat mocht ons allen wesen <rhyme label="a" type="m" corresp="#s3:l1">leet</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s3:l2">crimine</rhyme>.</l>
+        <l id="s3:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s3:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want wi daer om hier te <rhyme label="a" type="m">voren</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Moesten alle sijn <rhyme label="a" type="m" corresp="#s4:l1">verloren</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s4:l2">crimine</rhyme>.</l>
+        <l id="s4:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s4:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die gods sone van <rhyme label="a" type="m">hemelrike</rhyme>.</l>
+        <l id="s5:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Woude werden ons <rhyme label="a" type="m" corresp="#s5:l1">gelike</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s5:l2">crimine</rhyme>.</l>
+        <l id="s5:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s5:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Daer om es hi hier neder <rhyme label="a" type="m">comen</rhyme>.</l>
+        <l id="s6:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Ende heeft menscheit aen <rhyme label="a" type="m" corresp="#s6:l1">genomen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s6:l2">crimine</rhyme>.</l>
+        <l id="s6:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s6:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Tot eender maget alte <rhyme label="a" type="m">hant</rhyme>.</l>
+        <l id="s7:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Heeft hi sinen ingel <rhyme label="a" type="m" corresp="#s7:l1">gesant</rhyme>.</l>
+        <l id="s7:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s7:l2">crimine</rhyme>.</l>
+        <l id="s7:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s7:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">God gruetu. sprac die ingel <rhyme label="a" type="m">saen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s8:l3" met="4" type="-+">Van gode doe ic v <rhyme label="a" type="m" corresp="#s8:l1">verstaen</rhyme>.</l>
+        <l id="s8:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s8:l2">crimine</rhyme>.</l>
+        <l id="s8:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s8:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Ghi sijt vol gracien sonder <rhyme label="a" type="m">waen</rhyme>.</l>
+        <l id="s9:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Want ghi den gods sone selt <rhyme label="a" type="m" corresp="#s9:l1">ontfaen</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s9:l2">crimine</rhyme>.</l>
+        <l id="s9:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s9:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Want hi v daer toe heeft <rhyme label="a" type="m">vercoren</rhyme>.</l>
+        <l id="s10:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s10:l3" met="4" type="-+">Dat hi van v wilt sijn <rhyme label="a" type="m" corresp="#s10:l1">geboren</rhyme>.</l>
+        <l id="s10:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s10:l2">crimine</rhyme>.</l>
+        <l id="s10:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s10:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Als maria dat <rhyme label="a" type="m">verstoet</rhyme>.</l>
+        <l id="s11:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s11:l3" met="4" type="-+">Wert si veruaert in haren <rhyme label="a" type="m" corresp="#s11:l1">moet</rhyme>.</l>
+        <l id="s11:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s11:l2">crimine</rhyme>.</l>
+        <l id="s11:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s11:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Met vreesen sprac si den ingel <rhyme label="a" type="m">an</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s12:l3" met="4" type="-+">Hoe sal dat sijn en kinde noyt <rhyme label="a" type="m" corresp="#s12:l1">man</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s12:l2">crimine</rhyme>.</l>
+        <l id="s12:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s12:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Die ingel sprac haer toe <rhyme label="a" type="m">mettien</rhyme>.</l>
+        <l id="s13:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s13:l3" met="4" type="-+">Maria en wilt v niet <rhyme label="a" type="m" corresp="#s13:l1">ontsien</rhyme>.</l>
+        <l id="s13:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s13:l2">crimine</rhyme>.</l>
+        <l id="s13:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s13:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Die heilege geest sal v <rhyme label="a" type="m">omvaen</rhyme>.</l>
+        <l id="s14:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s14:l3" met="4" type="-+">Met sijnder cracht seldine <rhyme label="a" type="m" corresp="#s14:l1">ontfaen</rhyme>.</l>
+        <l id="s14:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s14:l2">crimine</rhyme>.</l>
+        <l id="s14:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s14:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">In v sal groot wonder <rhyme label="a" type="m">gescien</rhyme>.</l>
+        <l id="s15:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s15:l3" met="4" type="-+">Van gode dat noit en was <rhyme label="a" type="m" corresp="#s15:l1">gesien</rhyme>.</l>
+        <l id="s15:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s15:l2">crimine</rhyme>.</l>
+        <l id="s15:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s15:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="-+">Noch nemmermeer en sal <rhyme label="a" type="m">gescien</rhyme>.</l>
+        <l id="s16:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s16:l3" met="4" type="-+">Want ghi sult moeder ende maget <rhyme label="a" type="m" corresp="#s16:l1">sijn</rhyme></l>
+        <l id="s16:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s16:l2">crimine</rhyme>.</l>
+        <l id="s16:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s16:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="4" type="-+">Als maria dat <rhyme label="a" type="m">verhoerde</rhyme>.</l>
+        <l id="s17:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s17:l3" met="4" type="-+">Her ingel sprac si mettien <rhyme label="a" type="m" corresp="#s17:l1">woerde</rhyme></l>
+        <l id="s17:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s17:l2">crimine</rhyme>.</l>
+        <l id="s17:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s17:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="4" type="-+">Soe moet my hier inne <rhyme label="a" type="m">gescien</rhyme>.</l>
+        <l id="s18:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s18:l3" met="4" type="-+">Die deerne gods soe willic <rhyme label="a" type="m" corresp="#s18:l1">sijn</rhyme></l>
+        <l id="s18:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s18:l2">crimine</rhyme>.</l>
+        <l id="s18:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s18:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="4" type="-+">Doen si dat sprac <rhyme label="a" type="m">oetmoedelike</rhyme></l>
+        <l id="s19:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s19:l3" met="4" type="-+">Ontfinc si gode van <rhyme label="a" type="m" corresp="#s19:l1">hemelrike</rhyme></l>
+        <l id="s19:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s19:l2">crimine</rhyme>.</l>
+        <l id="s19:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s19:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="4" type="-+">Sonder pine ende sonder <rhyme label="a" type="m">vaer</rhyme>.</l>
+        <l id="s20:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s20:l3" met="4" type="-+">Ruste hi ix. maent in <rhyme label="a" type="m" corresp="#s20:l1">haer</rhyme>.</l>
+        <l id="s20:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s20:l2">crimine</rhyme>.</l>
+        <l id="s20:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s20:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s21" type="stanza">
+        <l id="s21:l1" met="4" type="-+">Inder nacht dat si <rhyme label="a" type="m">gelach</rhyme>.</l>
+        <l id="s21:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s21:l3" met="4" type="-+">Van rouwe en was daer geen <rhyme label="a" type="m" corresp="#s21:l1">gewach</rhyme></l>
+        <l id="s21:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s21:l2">crimine</rhyme>.</l>
+        <l id="s21:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s21:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s22" type="stanza">
+        <l id="s22:l1" met="4" type="-+">Die ingelen gods van <rhyme label="a" type="m">hemelrike</rhyme></l>
+        <l id="s22:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s22:l3" met="4" type="-+">Si songen alle <rhyme label="a" type="m" corresp="#s22:l1">blidelike</rhyme>.</l>
+        <l id="s22:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s22:l2">crimine</rhyme>.</l>
+        <l id="s22:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s22:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s23" type="stanza">
+        <l id="s23:l1" met="4" type="-+">Gloria inder <rhyme label="a" type="m">eewicheit</rhyme>.</l>
+        <l id="s23:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s23:l3" met="4" type="-+">Si der heileger <rhyme label="a" type="m" corresp="#s23:l1">triniteit</rhyme>.</l>
+        <l id="s23:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s23:l2">crimine</rhyme>.</l>
+        <l id="s23:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s23:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s24" type="stanza">
+        <l id="s24:l1" met="4" type="-+">Die herden op der velden <rhyme label="a" type="m">lagen</rhyme>.</l>
+        <l id="s24:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s24:l3" met="4" type="-+">Groote claerheit dat si <rhyme label="a" type="m" corresp="#s24:l1">sagen</rhyme>.</l>
+        <l id="s24:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s24:l2">crimine</rhyme>.</l>
+        <l id="s24:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s24:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s25" type="stanza">
+        <l id="s25:l1" met="4" type="-+">Met vreesen soe waren si <rhyme label="a" type="m">beuaen</rhyme>.</l>
+        <l id="s25:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s25:l3" met="4" type="-+">Die ingelen quamen bi hem <rhyme label="a" type="m" corresp="#s25:l1">staen</rhyme>.</l>
+        <l id="s25:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s25:l2">crimine</rhyme>.</l>
+        <l id="s25:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s25:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s26" type="stanza">
+        <l id="s26:l1" met="4" type="-+">Ghi herden en wilt v niet <rhyme label="a" type="m">veruaren</rhyme></l>
+        <l id="s26:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s26:l3" met="4" type="-+">Van gode bringen wi v <rhyme label="a" type="m" corresp="#s26:l1">niemare</rhyme>.</l>
+        <l id="s26:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s26:l2">crimine</rhyme>.</l>
+        <l id="s26:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s26:l2">glorie</rhyme>.</l>
+      </lg>
+      <lg id="s27" type="stanza">
+        <l id="s27:l1" met="4" type="-+">Want ons es een kint <rhyme label="a" type="m">geboren</rhyme>.</l>
+        <l id="s27:l2" met="4" type="-+">Est puer natus <rhyme label="b" type="m">hodie</rhyme>.</l>
+        <l id="s27:l3" met="4" type="-+">Van eender maget <rhyme label="a" type="m" corresp="#s27:l1">vutuercoren</rhyme>.</l>
+        <l id="s27:l4" met="3" type="-+">Pro nostrorum <rhyme label="b" type="m" corresp="#s27:l2">crimine</rhyme>.</l>
+        <l id="s27:l5" met="8" type="+-">hodie hodie natus est rex <rhyme label="b" type="m" corresp="#s27:l2">glorie</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

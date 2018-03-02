@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11192</id>
+    <date>
+      <year-start>1570</year-start>
+      <year-end>1570</year-end>
+    </date>
+    <location>
+      <orginal-name>emden?]</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scriptural song</tag>
+      <tag>martyr's song</tag>
+      <tag>narrative song</tag>
+    </tags>
+    <melody>Mijn God waar zal ik heengaan</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">TOt lof des vaders, soons, heyligen <rhyme label="a" type="m">geest</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">O Christen wilt met ons <rhyme label="b" type="f">beghinnen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Van vijf broeders, die sochten <rhyme label="a" type="m" corresp="#s1:l1">aldermeest</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat lant van beloften te <rhyme label="b" type="f" corresp="#s1:l2">winnen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Self had die goedertieren <rhyme label="c" type="m">Godt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Haer al voorsien tot een goet <rhyme label="c" type="m" corresp="#s1:l5">lot</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Dies waren sy ter werelt eenen <rhyme label="c" type="m" corresp="#s1:l5">spot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Eerst almense geuangen vuerden <rhyme label="a" type="m">heen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met geen druck waren sy <rhyme label="b" type="f">beladen</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Maer groote blijschap hadden sy met <rhyme label="a" type="m" corresp="#s2:l1">een</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Danckende Godt van zijn <rhyme label="b" type="f" corresp="#s2:l2">ghenaden</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Wiens cracht sy voelden tot dier <rhyme label="c" type="m">stont</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Het lof Gods, gaende wt haren <rhyme label="c" type="m" corresp="#s2:l5">mont</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Met singen en spreecken maecten zijt <rhyme label="c" type="m" corresp="#s2:l5">cont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Een schoon belijding hebben sy <rhyme label="a" type="m">gedaen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wt die schrift, naer Christen <rhyme label="b" type="f">betamen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Die helder waerheyt betuygende <rhyme label="a" type="m" corresp="#s3:l1">plaen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Voor die Sophisten die daer <rhyme label="b" type="f" corresp="#s3:l2">quamen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Dat sy haer mochten schamen <rhyme label="c" type="m">wel</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Van haer bedriechelijck <rhyme label="c" type="m" corresp="#s3:l5">opstel</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Waer mede sy de vromen doen <rhyme label="c" type="m" corresp="#s3:l5">gequel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Als een geuraecht was van die Roomsche <rhyme label="a" type="m">Kerck</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sprac hij: ick daer af niet en <rhyme label="b" type="f">houwe</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Maer Christus gemeente beleedt hy <rhyme label="a" type="m" corresp="#s4:l1">sterck</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Voor een goet ende weert <rhyme label="b" type="f" corresp="#s4:l2">gebouwe</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Tbroot zijnde in des priesters <rhyme label="c" type="m">hant</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">En is dat niet het costel <rhyme label="c" type="m" corresp="#s4:l5">pant</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">Te weten vleysch en bloet Christi <rhyme label="c" type="m" corresp="#s4:l5">valiant</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Neent (sprac hi) want dEuangelist <rhyme label="a" type="m">verclaert</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dat Christus wederom sal <rhyme label="b" type="f">comen</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">So hy geuaren is ten <rhyme label="a" type="m" corresp="#s5:l1">Hemelwaert</rhyme> //</l>
+        <l id="s5:l4" met="4" type="-+">Wat hout ghy van de Paus van <rhyme label="b" type="f" corresp="#s5:l2">Romen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Ick houd hem voor den <rhyme label="c" type="m">Antechrist</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Die tegen Christum heeft <rhyme label="c" type="m" corresp="#s5:l5">gemist</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">Want al zijn planting is vol <rhyme label="c" type="m" corresp="#s5:l5">argelist</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">De Marcgraef met zijn Sophisten <rhyme label="a" type="m">gelijc</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Hebbent versocht <rhyme label="b" type="f">menigerhande</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">Met sware tormenten en valsch <rhyme label="a" type="m" corresp="#s6:l1">practijck</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Maer sy quamen daer mee te <rhyme label="b" type="f" corresp="#s6:l2">schande</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Die Papen hebben veel <rhyme label="c" type="m">gerelt</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Ende die Christenen seer <rhyme label="c" type="m" corresp="#s6:l5">ghequelt</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">En int sluyten zijn sy ter doot <rhyme label="c" type="m" corresp="#s6:l5">ghestelt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Dus worden sy voort gheschict alle <rhyme label="a" type="m">vijf</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Maer sy songen oft spraken langs die <rhyme label="b" type="f">straten</rhyme></l>
+        <l id="s7:l3" met="5" type="-+">Genuecht ende vruechde was haer <rhyme label="a" type="m" corresp="#s7:l1">bedrijf</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Hoe wel sy naer sKeysers <rhyme label="b" type="f" corresp="#s7:l2">placcaten</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Nv souden steruen <rhyme label="c" type="m">rechteuoort</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">So bleuen sy noch <rhyme label="c" type="m" corresp="#s7:l5">ongestoort</rhyme></l>
+        <l id="s7:l7" met="5" type="-+">Want sy hadden van God de nieu <rhyme label="c" type="m" corresp="#s7:l5">herboort</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="-+">Wanneer ter werelt gestelt was het <rhyme label="a" type="m">getal</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Duysent, en daer toe noch <rhyme label="b" type="f">vijfhondert</rhyme></l>
+        <l id="s8:l3" met="5" type="-+">En mede eenenvijftich ouer <rhyme label="a" type="m" corresp="#s8:l1">al</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Doen heeftmen van dees vijf <rhyme label="b" type="f" corresp="#s8:l2">verwondert</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Sy hebben malcander <rhyme label="c" type="m">gecust</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">De liefde wert niet <rhyme label="c" type="m" corresp="#s8:l5">wtgeblust</rhyme></l>
+        <l id="s8:l7" met="5" type="-+">En aen die palen storuen sy <rhyme label="c" type="m" corresp="#s8:l5">gerust</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="5" type="-+">O vriendekens Christi hout goeden <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Laet liefde in v niet <rhyme label="b" type="f">vercouwen</rhyme></l>
+        <l id="s9:l3" met="5" type="-+">Verbeydende lijdtsaem den Heere <rhyme label="a" type="m" corresp="#s9:l1">goet</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Die v can stercken int <rhyme label="b" type="f" corresp="#s9:l2">benouwen</rhyme></l>
+        <l id="s9:l5" met="4" type="-+">Christus den trouwen Herder <rhyme label="c" type="m">fijn</rhyme></l>
+        <l id="s9:l6" met="4" type="-+">Die helpt zijn schapen door <rhyme label="c" type="m" corresp="#s9:l5">tgepijn</rhyme></l>
+        <l id="s9:l7" met="5" type="-+">Brengtse tot vette weyden <rhyme label="c" type="m" corresp="#s9:l5">Celestijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

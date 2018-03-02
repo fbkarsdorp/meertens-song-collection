@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35074</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoon een maeght als een <rhyme label="a" type="f">godinne</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">praelt op haere <rhyme label="b" type="m">schoonigheijt</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">als s'op hoop van <rhyme label="a" type="f" corresp="#s1:l1">wederminne</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">veel in haere stricken <rhyme label="b" type="m" corresp="#s1:l2">leijt</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">schoonheijt moet door tijdt <rhyme label="c" type="f">verflouwen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">waer sij nogh soo schoon en <rhyme label="d" type="m">zoet</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">dies wil ick t' met bacchus <rhyme label="c" type="f" corresp="#s1:l5">houwen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">want den wijn is altijdt <rhyme label="d" type="m" corresp="#s1:l6">goet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schoon een schoonheijt mij kan <rhyme label="a" type="f">geven</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">hondert kusjes voor een <rhyme label="b" type="m">soen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Bacchus kan noch beter <rhyme label="a" type="f" corresp="#s2:l1">leven</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">en mijn lusten best <rhyme label="b" type="m" corresp="#s2:l2">voldoen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">schoon de vrouwtjes gants <rhyme label="c" type="f">gerieflick</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">en heel zoet in t'minnen <rhyme label="d" type="m">sijn</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Bacchus is noch eens soo <rhyme label="c" type="f" corresp="#s2:l5">lijeflick</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">als hij schijnckt den koelen <rhyme label="d" type="m" corresp="#s2:l6">wijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

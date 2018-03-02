@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34376</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">SChon Amaril,, En sullen noyt u bruyne <rhyme label="a" type="f">ooghen</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Hun eens boogen,, Tot mijn droeve <rhyme label="b" type="m">clacht</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Toeft, staet wat <rhyme label="c" type="m">stil</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Want naer u comst heb ick <rhyme label="b" type="m" corresp="#s1:l2">ghewacht</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hier met mijn schapen gansch den <rhyme label="b" type="m" corresp="#s1:l2">nacht</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Vertroost doch mijn suchten,, En wilt niet meer <rhyme label="d" type="f">vluchten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Maer aensiet de trouwheyt van u <rhyme label="e" type="m">vrint</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Die u soo <rhyme label="e" type="m" corresp="#s1:l7">mint</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dat hy onmog'lijck <rhyme label="f" type="m">van</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">U schoon Goddin ghescheyden <rhyme label="f" type="m" corresp="#s1:l9">can</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Wel Hemels-belt, Zeyl-steen van mijn veyl <rhyme label="a" type="f">ghedachten</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Al mijn crachten,, Treckt ghy van my <rhyme label="b" type="m">af</rhyme>:</l>
+        <l id="s2:l3" met="2" type="-+">Ach die my <rhyme label="c" type="m">stelt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dees banghe ziel vol droeve <rhyme label="b" type="m" corresp="#s2:l2">straf</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Goddin ghy dwinght my tot het <rhyme label="b" type="m" corresp="#s2:l2">graf</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Ach moet ick dan sterven,, En u liefde <rhyme label="d" type="f">derven</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">In de groene lente van mijn <rhyme label="e" type="m">Ieught</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Mijn hooghste <rhyme label="e" type="m" corresp="#s2:l7">vreught</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Ist dat u heught mijn <rhyme label="f" type="m">pijn</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Soo laet my eerst begraven <rhyme label="f" type="m" corresp="#s2:l9">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Neen Amaril,, Wilt dees vreetheyt van u <rhyme label="a" type="f">jagen</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Stilt de plagen,, Siet wie u <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Verbant <rhyme label="c" type="m">t'gheschiel</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En denckt maer selfs eens wie ghy <rhyme label="b" type="m" corresp="#s3:l2">vint</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Die u met rechte liefde <rhyme label="b" type="m" corresp="#s3:l2">dient</rhyme>;</l>
+        <l id="s3:l6" met="4" type="-+">Mijn lieve Princersse,, Hertse <rhyme label="d" type="f">vertroostersse</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Hout toch op, want t'is genoch <rhyme label="e" type="m">gheplaeght</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">Beminde <rhyme label="e" type="m" corresp="#s3:l7">Maeght</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Ke laet dit quellen <rhyme label="f" type="m">staen</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Soo sal mijn lijden sijn <rhyme label="f" type="m" corresp="#s3:l9">ghedaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

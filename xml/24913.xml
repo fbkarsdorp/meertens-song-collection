@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24913</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>De hoogste staat der vrolijkheid</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De hoochste staet der <rhyme label="a" type="m">vroylicheit</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Om jolizelijc te <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dats minne vul der <rhyme label="a" type="m" corresp="#s1:l1">reinicheit</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wat minne gheift eist lief of <rhyme label="a" type="m" corresp="#s1:l1">leit</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Ghenouchlic gonst die maket <rhyme label="b" type="f" corresp="#s1:l2">even</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

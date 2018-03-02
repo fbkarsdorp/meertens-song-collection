@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25157</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Wa wiplich wip lieplich tougin lebin <rhyme label="a" type="m">man</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">geblickit <rhyme label="a" type="m" corresp="#s1:l1">an</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">unde he si wider <rhyme label="b" type="f">blickit</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">die minne sich <rhyme label="b" type="f" corresp="#s1:l3">verstrickit</rhyme></l>
+        <l id="s1:l5" met="7" type="+-">in minnen stric al sunder wanc werdent si <rhyme label="b" type="f" corresp="#s1:l3">verzuickit</rhyme></l>
+        <l id="s1:l6" met="7" type="-+">ir herze ir sinne ir beyder moyt stilt minne sam minnen <rhyme label="c" type="f">diebe</rhyme>.</l>
+        <l id="s1:l7" met="6" type="-+">wa sulche lieve is da wirt eyn unbe <rhyme label="d" type="m">vanc</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">mit armen <rhyme label="d" type="m" corresp="#s1:l7">blanc</rhyme>.</l>
+        <l id="s1:l9" met="3" type="-+">wa lyp an lyebe <rhyme label="e" type="f">intnuckit</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">munt an munt <rhyme label="e" type="f" corresp="#s1:l9">gedruckit</rhyme>.</l>
+        <l id="s1:l11" met="7" type="+-">alsus die minne mit gewalt szuei zu samin me <rhyme label="e" type="f" corresp="#s1:l9">smuckit</rhyme>.</l>
+        <l id="s1:l12" met="7" type="-+">ich wene dat eman lebe so cluch der sulge minne cer <rhyme label="c" type="f" corresp="#s1:l6">clebe</rhyme>.</l>
+        <l id="s1:l13" met="4" type="-+">piramus leit durch tisbe <rhyme label="f" type="m">noyt</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">eyn swert he kene deme herzin <rhyme label="f" type="m" corresp="#s1:l13">boit</rhyme></l>
+        <l id="s1:l15" met="2" type="-+">van blude <rhyme label="f" type="m" corresp="#s1:l13">royt</rhyme></l>
+        <l id="s1:l16" met="3" type="-+">ver wede he sich <rhyme label="f" type="m" corresp="#s1:l13">doyt</rhyme>.</l>
+        <l id="s1:l17" met="4" type="-+">dat wach gen lievin nicht eyn <rhyme label="f" type="m" corresp="#s1:l13">loyt</rhyme>.</l>
+        <l id="s1:l18" met="7" type="-+">als dede vrauwe tisbe uch na yme daz geszach durch minne <rhyme label="c" type="f" corresp="#s1:l6">lebe</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

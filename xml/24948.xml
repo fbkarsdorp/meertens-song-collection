@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24948</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Zwen ich zi alle <rhyme label="a" type="f">scouwe</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dey mir van sculden wal <rhyme label="b" type="f">behaghen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Zo bystu eyne <rhyme label="a" type="f" corresp="#s1:l1">vrouwe</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Das dar ich wal aen roemen <rhyme label="b" type="f" corresp="#s1:l2">saghen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Edel unde rijche zynt zi <rhyme label="c" type="f">zummelijche</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Darzu traghent zi hohen <rhyme label="c" type="f" corresp="#s1:l5">mut</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Lichte sint zi <rhyme label="d" type="m">besser</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">du bist aber <rhyme label="d" type="m" corresp="#s1:l7">gut</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vrouwe sol das zin din <rhyme label="a" type="f">hute</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Das din ouge so zelden an mich <rhyme label="b" type="f">sicht</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Tust tu't mir tzu <rhyme label="a" type="f" corresp="#s2:l1">gute</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">So ne wys ich dir darunb <rhyme label="b" type="f" corresp="#s2:l2">nicht</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">So mide mir das houbet, daz zi dir <rhyme label="c" type="f">erloubet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Und zich mich nider an den <rhyme label="c" type="f" corresp="#s2:l5">voz</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Uff du nicht bas en <rhyme label="d" type="m">machs</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">daz zij din <rhyme label="d" type="m" corresp="#s2:l7">groz</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Vrouwe, dich des <rhyme label="a" type="f">versinne</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Of ich dir zu ychte meere <rhyme label="b" type="f">zy</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Eynes vrundes <rhyme label="a" type="f" corresp="#s3:l1">minne</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ist nicht, dar ne zy ein ander <rhyme label="b" type="f" corresp="#s3:l2">by</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Minne in tocht nicht <rhyme label="c" type="f">eyne</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Si sal zin <rhyme label="c" type="f" corresp="#s3:l5">gemeyne</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Is so gemeyne daz si <rhyme label="d" type="m">gee</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Dorch zwer hertz und keynz <rhyme label="d" type="m" corresp="#s3:l7">mee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

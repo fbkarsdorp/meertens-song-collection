@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25171</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Ich han durch varen wide lant. und sugte doch inder <rhyme label="a" type="f">kunde</rhyme>.</l>
+        <l id="s1:l2" met="6" type="-+">of ich der szonin ir gelige erin vinden <rhyme label="a" type="f" corresp="#s1:l1">kunde</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Diese mere ich <rhyme label="a" type="f" corresp="#s1:l1">kunde</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">wer reyner hoer eren <rhyme label="b" type="m">gert</rhyme>.</l>
+        <l id="s1:l5" met="7" type="+-">wat of wir dye wnderliche mere furbas <rhyme label="c" type="f">burgin</rhyme>.</l>
+        <l id="s1:l6" met="6" type="-+">Ich han gesuocht in dorfin in stieden und up <rhyme label="c" type="f" corresp="#s1:l5">burgin</rhyme>.</l>
+        <l id="s1:l7" met="3" type="+-">ich be darf niet <rhyme label="c" type="f" corresp="#s1:l5">burgin</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">sint mich die wareyt selver <rhyme label="b" type="m" corresp="#s1:l4">wert</rhyme>.</l>
+        <l id="s1:l9" met="8" type="+-">dat so szonis niet in liept. da von darph ich niet furbas <rhyme label="d" type="f">varin</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">het ich sanim van deme <rhyme label="d" type="f" corresp="#s1:l9">varn</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">den wrfe ich dar den <rhyme label="e" type="f">szeydin</rhyme></l>
+        <l id="s1:l12" met="6" type="+-">das si in verslundin e min dyenst van ir solde <rhyme label="e" type="f" corresp="#s1:l11">szeidin</rhyme>.</l>
+        <l id="s1:l13" met="7" type="-+">Ich hain der szoner wil gedyent mit suerten bar der <rhyme label="e" type="f" corresp="#s1:l11">szeiden</rhyme>.</l>
+        <l id="s1:l14" met="3" type="-+">durch si wolde ich <rhyme label="e" type="f" corresp="#s1:l11">szeiden</rhyme>.</l>
+        <l id="s1:l15" met="5" type="-+">spene al die wile min levin <rhyme label="b" type="m" corresp="#s1:l4">wert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="7" type="-+">Ich bin wnt gevangen in geslozsin mit wil <rhyme label="a" type="f">ringin</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">dye minne dreit die slussille. des mois ich in sorgen <rhyme label="a" type="f" corresp="#s2:l1">ringin</rhyme>.</l>
+        <l id="s2:l3" met="3" type="+-">si in wil niet <rhyme label="a" type="f" corresp="#s2:l1">ringin</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">mir alle mine sende <rhyme label="b" type="m">leit</rhyme>.</l>
+        <l id="s2:l5" met="7" type="+-">si verszeide mir mine bant e ber mit siner <rhyme label="c" type="f">clingin</rhyme>.</l>
+        <l id="s2:l6" met="6" type="-+">ich horte der vogeline sanc so soysse nie <rhyme label="c" type="f" corresp="#s2:l5">erclingen</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">up bergen inde in <rhyme label="c" type="f" corresp="#s2:l5">clingen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">die mir benemen mine <rhyme label="b" type="m" corresp="#s2:l4">leyt</rhyme>.</l>
+        <l id="s2:l9" met="8" type="+-">minne unt dye  vil minnecliche muoste machin mich <rhyme label="d" type="f">gemeyt</rhyme>.</l>
+        <l id="s2:l10" met="4" type="+-">suoisser groys der mich ie <rhyme label="d" type="f" corresp="#s2:l9">meyt</rhyme>.</l>
+        <l id="s2:l11" met="3" type="+-">unt kunde ich den <rhyme label="e" type="f">verdingin</rhyme>.</l>
+        <l id="s2:l12" met="6" type="+-">so wide ich hoys gemoutes sin. in vreuden zallin <rhyme label="e" type="f" corresp="#s2:l11">dingin</rhyme>.</l>
+        <l id="s2:l13" met="7" type="-+">Nu is mir ir wipiliche truwe vor besloissen sam <rhyme label="e" type="f" corresp="#s2:l11">edingin</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">ich han gar mine <rhyme label="e" type="f" corresp="#s2:l11">dingin</rhyme></l>
+        <l id="s2:l15" met="5" type="-+">an dich wil selich wip <rhyme label="b" type="m" corresp="#s2:l4">geleyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

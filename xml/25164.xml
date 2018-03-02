@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25164</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat eman sayt wat minne <rhyme label="a" type="m">si</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">da ist underwilen conterfeyt <rhyme label="a" type="m" corresp="#s1:l1">bi</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">sunder alleyne dat is <rhyme label="b" type="f">minne</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">szuei herzen in eyme <rhyme label="b" type="f" corresp="#s1:l3">sinne</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">zuei lijf unt dat <rhyme label="c" type="m">also</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">dat si irs geluckis byde sint <rhyme label="c" type="m" corresp="#s1:l5">vro</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">zuei leit eyn <rhyme label="d" type="m">leit</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">da intussinne keyn under <rhyme label="d" type="m" corresp="#s1:l7">szeit</rhyme>.</l>
+        <l id="s1:l9" met="3" type="-+">wa man dat mach <rhyme label="e" type="f">erkennin</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">da mach man gerechte minne <rhyme label="e" type="f" corresp="#s1:l9">nennin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

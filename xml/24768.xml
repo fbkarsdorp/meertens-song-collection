@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24768</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Vriend noch vriend en is zo goed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Vrient no vrient ne es so <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Bi dat ic mi <rhyme label="b" type="f">bevinde</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Wil elc niet wachten anders <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ghelijc den jonghen <rhyme label="b" type="f" corresp="#s1:l2">kinde</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">De jonst en neimt zaen <rhyme label="b" type="f" corresp="#s1:l2">inde</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Daer deen vrient duer den andren <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Up dat elc wel <rhyme label="b" type="f" corresp="#s1:l2">verzinde</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Sone heift daer vreemtheit ghenen <rhyme label="a" type="m" corresp="#s1:l1">spoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vrient no vrient ne es so <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Bi dat ic mi <rhyme label="b" type="f">bevinde</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wil elc niet wachten anders <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Steidich ende onsteidich <rhyme label="b" type="f" corresp="#s2:l2">bloet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Staet vaste als riet in <rhyme label="b" type="f" corresp="#s2:l2">winde</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Als nu eist ebbe als nu eist <rhyme label="a" type="m" corresp="#s2:l1">vloet</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die onstede eerst <rhyme label="b" type="f" corresp="#s2:l2">beghinde</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Ic wane hi noit ne <rhyme label="a" type="m" corresp="#s2:l1">minde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

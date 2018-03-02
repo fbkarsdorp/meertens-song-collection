@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29471</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>maas-rijngebied</orginal-name>
+      <standard-name>Maastricht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>50.8512438</lon>
+        <lat>5.6909768</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Alzo heilig is de dag</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Also heylich ist der <rhyme label="a" type="m">dag</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">daz &lt;-yn] nymant myt lobe erfullen nicht en <rhyme label="a" type="m" corresp="#s1:l1">mach</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Wan der enige gots son der dy helle <rhyme label="a" type="m" corresp="#s1:l1">zebrach</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ende den leydighen tufel dat yn &lt;-bant&gt; <rhyme label="b" type="m">bant</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

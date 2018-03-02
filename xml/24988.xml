@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24988</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>ballet</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sint ich in truwen vonden <rhyme label="a" type="m">byn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">So ne wil ich achten meer no <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Oph der nider <rhyme label="b" type="f">claffen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Al bringet mir groys liden <rhyme label="a" type="m" corresp="#s1:l1">in</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Nochtan laes ich't varen <rhyme label="a" type="m" corresp="#s1:l1">hin</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Het steyt vaste in minen <rhyme label="a" type="m" corresp="#s1:l1">sin</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dat ich langhe sonder <rhyme label="a" type="m" corresp="#s1:l1">ghewin</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Mach ieghen eenen hoven <rhyme label="b" type="f" corresp="#s1:l3">gaffen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

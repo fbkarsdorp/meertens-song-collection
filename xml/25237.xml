@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25237</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Der menschen scepper god <rhyme label="a" type="m">geeert</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">diet alleen al <rhyme label="a" type="m" corresp="#s1:l1">ordineert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">door v gebot brengt die aert <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">cruijpend gediert, en wreet <rhyme label="b" type="m" corresp="#s1:l3">gesoert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die door v woort lichamen <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">maect leuendt, en den mensch <rhyme label="a" type="m" corresp="#s2:l1">vroet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">subiect, soo dat <rhyme label="b" type="m">bekentelijk</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">sij dienen mensch <rhyme label="b" type="m" corresp="#s2:l3">ordentelijk</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Van v dienaers veriaecht o <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">al wat doer vuijlicheijts <rhyme label="a" type="m" corresp="#s3:l1">oneer</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">hem opgeeft in ons vleijsch off <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">oock in ons handel <rhyme label="b" type="m" corresp="#s3:l3">aldermeest</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Geef loen van blijschap ende <rhyme label="a" type="m">vroecht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">geeft gratij, giften en <rhyme label="a" type="m" corresp="#s4:l1">genoecht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">onbindt die banden van <rhyme label="b" type="m">gescil</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">maeck vast den bandt van vrede <rhyme label="b" type="m" corresp="#s4:l3">stil</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24844</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Geef mij minnelijk beeld zoet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ghef mi minlic beilde <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dijn hertze dijn zin ende ooc dijn <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Want wat ic aen es eighin <rhyme label="b" type="m">dijn</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Mi ghelieft wat ghi mi <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Prouft an mi so sidijs <rhyme label="a" type="m" corresp="#s1:l1">vroet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Nu ghevic mi in u <rhyme label="a" type="m">behoet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Want du best in mijns hertzen <rhyme label="a" type="m" corresp="#s2:l1">bloet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Laet mi dan lief ende liefste <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Ghef mi minlic beilde <rhyme label="a" type="m" corresp="#s2:l1">zoet</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Dijn hertze dijn zin ende ooc dijn <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

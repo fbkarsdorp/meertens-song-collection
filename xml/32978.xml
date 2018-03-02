@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32978</id>
+    <date>
+      <year-start>1695</year-start>
+      <year-end>1695</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>scenic song</tag>
+      <tag>secular song</tag>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ick was lest in een <rhyme label="a" type="m">droom</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">By eenen <rhyme label="a" type="m" corresp="#s1:l1">water-stroom</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En vondt een <rhyme label="b" type="m">Herderin</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Daer claegen van haer <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sy suchte en sy <rhyme label="c" type="m">kreet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Sy wass'er van in 't <rhyme label="c" type="m" corresp="#s1:l5">sweet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">En ick en ick en <rhyme label="c" type="m" corresp="#s1:l5">weet</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Niet, of 't was koudt, of <rhyme label="c" type="m" corresp="#s1:l5">heet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Maer 't dée my selver <rhyme label="c" type="m" corresp="#s1:l5">leet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

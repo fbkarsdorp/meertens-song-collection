@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27668</id>
+    <date>
+      <year-start>1562</year-start>
+      <year-end>1599</year-end>
+    </date>
+    <location>
+      <orginal-name>vlaanderen (gent?)</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody>O roosje rood o parel jent</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Roosken root / o paerle <rhyme label="a" type="m">Ient</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">myn Lieff mynioot / om v Lydt ick <rhyme label="a" type="m" corresp="#s1:l1">torment</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">o schoon goddinne Ick blijff <rhyme label="a" type="m" corresp="#s1:l1">geschent</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">want myn lijden is sonder <rhyme label="a" type="m" corresp="#s1:l1">ent</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">nacht ende dach / maeck ic gheclach / <rhyme label="b" type="m">voorwaer</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">dat ick moet scheyden van v maecht <rhyme label="b" type="m" corresp="#s1:l5">eerbaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Moet ick dan scheyden / ist nu den <rhyme label="a" type="m">tyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">sonder verbeyden / [- ...] ofte geen <rhyme label="a" type="m" corresp="#s2:l1">Respyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">mijn hart van drouffheyt int Lichaem <rhyme label="a" type="m" corresp="#s2:l1">splyt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">myn oogen ick aen stucken <rhyme label="a" type="m" corresp="#s2:l1">cryt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">o scheyden fel / die my gequel / doet <rhyme label="b" type="m">Aen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">ick en weet hoe dat ickt sal <rhyme label="b" type="m" corresp="#s2:l5">wederstaen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O wreeden dach / ongeluckigh <rhyme label="a" type="m">vuyr</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">die ick oyt sach / en valt my soo <rhyme label="a" type="m" corresp="#s3:l1">suyr</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">het dunckt my weesen teghen <rhyme label="a" type="m" corresp="#s3:l1">natuyr</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">dat ick van v maechdeken <rhyme label="a" type="m" corresp="#s3:l1">puyr</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">moet seggen adieu op een nieu Van <rhyme label="b" type="m">u</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">o bitter doot waer naer soo beydy <rhyme label="b" type="m" corresp="#s3:l5">nu</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse schoon dit wel <rhyme label="a" type="m">versindt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">20ghy spant de croon / ghy blyft <rhyme label="a" type="m" corresp="#s4:l1">bemindt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">want ick en ben niet gelyck een <rhyme label="a" type="m" corresp="#s4:l1">wint</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">altyt staet ghy in myn herte <rhyme label="a" type="m" corresp="#s4:l1">geprint</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">ick sal getrou / o schoon carsouw / nu <rhyme label="b" type="m">syn</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">24al is het scheyden nu soo bitter <rhyme label="b" type="m" corresp="#s4:l5">pyn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

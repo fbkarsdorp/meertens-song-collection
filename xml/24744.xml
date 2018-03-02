@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24744</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Een wijflijk wijf vol reinigheden</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een wijflic wijf vul <rhyme label="a" type="f">reinicheden</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Heift die hertze mijn dor <rhyme label="a" type="f" corresp="#s1:l1">sneden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Int up sien harer zoeter <rhyme label="b" type="f">figure</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat mi dor gaen heift al die <rhyme label="a" type="f" corresp="#s1:l1">leden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Des ic moet leven in <rhyme label="a" type="f" corresp="#s1:l1">onvreden</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Om hare minne die ic <rhyme label="b" type="f" corresp="#s1:l3">pure</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Draghen wille in elker <rhyme label="b" type="f" corresp="#s1:l3">ure</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Wat holpt al haddic haer <rhyme label="a" type="f" corresp="#s1:l1">ghebeden</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Sone acht up mi in gheenre <rhyme label="a" type="f" corresp="#s1:l1">steden</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Want jeghen mi es soe te <rhyme label="b" type="f" corresp="#s1:l3">sture</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Dies es mi hope ende troost <rhyme label="a" type="f" corresp="#s1:l1">ontgleden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Uut alre vruecht bem ic <rhyme label="a" type="f">ghetreden</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Want mijn hertze heift mi <rhyme label="a" type="f" corresp="#s2:l1">onstreden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ene die zoetste <rhyme label="b" type="f">creature</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In wil an niemen el <rhyme label="a" type="f" corresp="#s2:l1">besteden</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Want edelic zijn al haer <rhyme label="a" type="f" corresp="#s2:l1">zeden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Wie vonde een wijf van beter <rhyme label="b" type="f" corresp="#s2:l3">nature</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Al ghinge een man de werelt <rhyme label="b" type="f" corresp="#s2:l3">dure</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Een wijflic wijf vul <rhyme label="a" type="f" corresp="#s2:l1">reinicheden</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Heift die hertze mijn dor <rhyme label="a" type="f" corresp="#s2:l1">sneden</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Int up sien harer zoeter <rhyme label="b" type="f" corresp="#s2:l3">figure</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Dat mi dor gaen heift al die <rhyme label="a" type="f" corresp="#s2:l1">leden</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

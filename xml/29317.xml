@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29317</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>christmas song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ihesus kerst marien <rhyme label="a" type="m">kint</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die nv was <rhyme label="b" type="f">geboren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hy heeftse bouen al <rhyme label="a" type="m" corresp="#s1:l1">gemint</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Daer toe essi <rhyme label="b" type="f" corresp="#s1:l2">vercoren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy nam raste in haren <rhyme label="a" type="m">scoot</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hy soegh der maget <rhyme label="b" type="f">borste</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Die selue was dat leuende <rhyme label="a" type="m" corresp="#s2:l1">broet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ende alder weerelt <rhyme label="b" type="f" corresp="#s2:l2">vorste</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Noch beter noch scoender noch sueter en <rhyme label="a" type="m">quam</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Nie in deser weerelt <rhyme label="b" type="f">wijt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dan ihesus dat hemelsce <rhyme label="a" type="m" corresp="#s3:l1">lam</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die ons van sonden heeft <rhyme label="b" type="f" corresp="#s3:l2">gevrijt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy quam wt sijns vaders <rhyme label="a" type="m">herte</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">liggen inder <rhyme label="b" type="f">cribben</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Daer hy coude ende groote <rhyme label="a" type="m" corresp="#s4:l1">smertte</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van armoeden wouden <rhyme label="b" type="f" corresp="#s4:l2">hebben</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Noch bedde noch pueluwe. stoel noch <rhyme label="a" type="m">banc</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">En waren in desen armen <rhyme label="b" type="f">stal</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Mer der heyliger ingelen <rhyme label="a" type="m" corresp="#s5:l1">sanc</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Was gehoort al ouer <rhyme label="b" type="f" corresp="#s5:l2">al</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die stomme beesten dat is <rhyme label="a" type="m">waer</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Knielden voer onsen <rhyme label="b" type="f">heere</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Sy bekinden dat god was <rhyme label="a" type="m" corresp="#s6:l1">daer</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ende boden hem lof ende <rhyme label="b" type="f" corresp="#s6:l2">eere</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">In deser hoger <rhyme label="a" type="m">nacht</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Heeft die maget <rhyme label="b" type="f">pure</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">God ende mensce ter weerelt <rhyme label="a" type="m" corresp="#s7:l1">bracht</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Daer af vereyst <rhyme label="b" type="f" corresp="#s7:l2">natuere</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">In deser nacht dat groote <rhyme label="a" type="m">licht</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Dat niemen en tan <rhyme label="b" type="f">begripen</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Die sonne ende mane heeft <rhyme label="a" type="m" corresp="#s8:l1">gesticht</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Hy woude hier neder <rhyme label="b" type="f" corresp="#s8:l2">blijken</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">In deser nacht es op <rhyme label="a" type="m">gedaen</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Fonteyne der <rhyme label="b" type="f">genaden</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Die dorstich sijt gaet drincken <rhyme label="a" type="m" corresp="#s9:l1">saen</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">God saelt noch al <rhyme label="b" type="f" corresp="#s9:l2">beraden</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Die scone wijngaert es <rhyme label="a" type="m">volvloeyt</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Die druue es <rhyme label="b" type="f">gesneden</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Daeden gracien wijn wt <rhyme label="a" type="m" corresp="#s10:l1">vloeyt</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Op den dach van <rhyme label="b" type="f" corresp="#s10:l2">heden</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">O o o o o et <rhyme label="a" type="m">o</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Allen meghden <rhyme label="b" type="f">vrode</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Benedicant <rhyme label="a" type="m" corresp="#s11:l1">domino</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Van allen sinen <rhyme label="b" type="f" corresp="#s11:l2">goede</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">O o o o o et <rhyme label="a" type="m">o</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">Die gode willen <rhyme label="b" type="f">minnen</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Sy selen altoos wesen <rhyme label="a" type="m" corresp="#s12:l1">vroe</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Ende dragenen int herte <rhyme label="b" type="f" corresp="#s12:l2">binnen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

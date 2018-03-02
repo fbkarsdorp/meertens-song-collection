@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38928</id>
+    <date>
+      <year-start>1700</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <location>
+      <orginal-name>lier</orginal-name>
+      <standard-name>Lier, Belgium</standard-name>
+      <coordinates>
+        <lon>51.131069</lon>
+        <lat>4.5696516</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>scenic song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O wonder langh verwachten <rhyme label="a" type="m">nacht</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Die ons hier in dit arme dal der <rhyme label="b" type="f">tranen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Comt door u licht tot deught <rhyme label="b" type="f" corresp="#s1:l2">vermanen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En thoont t'geluck dat ghy hebt med' <rhyme label="a" type="m" corresp="#s1:l1">gebracht</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">O nacht veel claerder als den <rhyme label="c" type="m">dach</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Die meerder siet als oyt de Sonne <rhyme label="c" type="m" corresp="#s1:l5">sach</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wanneer den mensch, verblint door <rhyme label="d" type="f">sonden</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Moest den Hemel <rhyme label="e" type="m">vlien</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">En heeft het licht <rhyme label="d" type="f" corresp="#s1:l7">gevonden</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">En desen nacht <rhyme label="e" type="m" corresp="#s1:l8">gesien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den Schepper is ter aert <rhyme label="a" type="m">gedaelt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">In't koutste van des winters vrange <rhyme label="b" type="f">tijden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die hier de menschen comt <rhyme label="b" type="f" corresp="#s2:l2">verblijden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En Adams schuldt door sijne comst <rhyme label="a" type="m" corresp="#s2:l1">betaelt</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Siet uwen Godt wort een cleyn <rhyme label="c" type="m">Kindt</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Diemen in een verworpen stalleken <rhyme label="c" type="m" corresp="#s2:l5">vindt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Gewonden in seer arme <rhyme label="d" type="f">doecken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">In een crib' <rhyme label="e" type="m">gheleyt</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Wy comen hem <rhyme label="d" type="f" corresp="#s2:l7">besoecken</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Als ons was <rhyme label="e" type="m" corresp="#s2:l8">gheseyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

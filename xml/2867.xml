@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2867</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Laatstmaal ging ik spanseren</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Met veenes straelen fel ben Ick <rhyme label="a" type="m">duerwont</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Altoos lijdt Ick gequel, In sersen <rhyme label="a" type="m" corresp="#s1:l1">gront</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Cuibydoes vier, (oc)h maechdeken <rhyme label="b" type="m">fier</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">heeft mijn vleis heel <rhyme label="c" type="m">voorteert</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Toont schoon saphier genaeden <rhyme label="b" type="m" corresp="#s1:l3">hier</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">eens pijn in vruecht <rhyme label="c" type="m" corresp="#s1:l4">voorkeert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Lyeff u kooraele mont, och u tis <rhyme label="a" type="m">klaer</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Twee witte borstekens ront duen mijn <rhyme label="a" type="m" corresp="#s2:l1">voerwaer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">voorwaer veel smers en pijn u armkens <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Als snee evooren <rhyme label="c" type="m">blanck</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">noch u aenschin dat herte <rhyme label="b" type="m" corresp="#s2:l3">mijn</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">hout lief In u <rhyme label="c" type="m" corresp="#s2:l4">bedwanck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">U graesy mindelick geen soe <rhyme label="a" type="m">volmaeckt</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">u oochkens vriendelick och thart mijn <rhyme label="a" type="m" corresp="#s3:l1">blaeckt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En aesem soet Doen dat Ick <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Rust derven talder <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Eens lijden boedt, en pijne <rhyme label="b" type="m" corresp="#s3:l3">soet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">nu maeckt mijn droetheit <rhyme label="c" type="m" corresp="#s3:l4">quit</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wilt niet Prinsesse Idoon laten <rhyme label="a" type="m">voorgaen</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Te n s di eu blomkens schoon niet af kan <rhyme label="a" type="m" corresp="#s4:l1">gaen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">laet niet met hem voorsmoort die u <rhyme label="b" type="m">behoort</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">In u en om u <rhyme label="c" type="m">leeft</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Sijn klacht verhoort geeft <rhyme label="b" type="m" corresp="#s4:l3">komfoort</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Veel drucks hem Dan <rhyme label="c" type="m" corresp="#s4:l4">begeeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

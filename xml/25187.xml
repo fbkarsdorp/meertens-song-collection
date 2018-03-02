@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25187</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich geven uch vrauwen eynen <rhyme label="a" type="m">rait</rhyme></l>
+        <l id="s1:l2" met="7" type="+-">der ho gemuode brengit. inde och loveliche <rhyme label="a" type="m" corresp="#s1:l1">stait</rhyme>.</l>
+        <l id="s1:l3" met="8" type="-+">nu mirket vil evene. inde volgit mir it wirt uch vil liechte <rhyme label="b" type="m">guot</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">ir sult mit zuochten sin <rhyme label="c" type="m">gemeit</rhyme>.</l>
+        <l id="s1:l5" met="8" type="-+">durch mannis leve dragin herzin leve. inde herzin <rhyme label="c" type="m" corresp="#s1:l4">leit</rhyme>.</l>
+        <l id="s1:l6" met="8" type="+-">beltlichen vreude miden. siet so wir ur wirdicheit <rhyme label="b" type="m" corresp="#s1:l3">behuot</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">is vre ezzilliche de da wille <rhyme label="d" type="f">minnen</rhyme>.</l>
+        <l id="s1:l8" met="5" type="-+">de sal mit stedicheide sich wail <rhyme label="d" type="f" corresp="#s1:l7">versinnen</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">an wen si wende ir wives <rhyme label="e" type="f">truwe</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">also dat die gelutert <rhyme label="f" type="m">si</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">Is druo ver valsch dem herzen <rhyme label="f" type="m" corresp="#s1:l10">bi</rhyme>.</l>
+        <l id="s1:l12" met="5" type="-+">de huode sich. vil ver deit achter <rhyme label="e" type="f" corresp="#s1:l9">ruwe</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

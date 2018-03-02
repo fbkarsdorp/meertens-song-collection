@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25180</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Was sal eyn keiser ane recht. eyn pais ane <rhyme label="a" type="f">barremunge</rhyme>.</l>
+        <l id="s1:l2" met="7" type="-+">was sal eyn kuninc ane vrijen mut. was sal eyn furste an <rhyme label="b" type="m">szam</rhyme>.</l>
+        <l id="s1:l3" met="7" type="-+">was sal eyn munt gar ungeslacht dar in eyn velze <rhyme label="a" type="f" corresp="#s1:l1">zunge</rhyme></l>
+        <l id="s1:l4" met="7" type="-+">dye mangme dicke szaden dut si macht gesundin <rhyme label="b" type="m" corresp="#s1:l2">lam</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">was sal eyn grave der niet duginde kan <rhyme label="c" type="f">walden</rhyme>.</l>
+        <l id="s1:l6" met="6" type="-+">was sal eyn vrie der sine truwe nicht in kan <rhyme label="c" type="f" corresp="#s1:l5">behaldin</rhyme>.</l>
+        <l id="s1:l7" met="7" type="-+">was sal eyn richer denistman der sich niet szandin in <rhyme label="d" type="m">wert</rhyme>.</l>
+        <l id="s1:l8" met="7" type="-+">was sal eyn ritter der sine dage mit laster hye <rhyme label="d" type="m" corresp="#s1:l7">vercert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29422</id>
+    <date>
+      <year-start>1585</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>zuidelijke nederlanden</orginal-name>
+      <standard-name>Southern Netherlands</standard-name>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Och hoe vindich my <rhyme label="a" type="m">ghestelt</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">en <rhyme label="a" type="m" corresp="#s1:l1">ghequelt</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">met cupidoos schichten <rhyme label="b" type="f">vierych</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">die dwinghen my met <rhyme label="a" type="m" corresp="#s1:l1">ghewelt</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">tsy v <rhyme label="a" type="m" corresp="#s1:l1">vertelt</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">naer die liefde seer <rhyme label="b" type="f" corresp="#s1:l3">manierych</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zy heeft twee bruyn ooskens <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">het is <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">en seer gratyeus <rhyme label="b" type="f">beseuen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">mocht ick met vruechden menich <rhyme label="a" type="m" corresp="#s2:l1">jaer</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">syn met <rhyme label="a" type="m" corresp="#s2:l1">haer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">soo sauden wy met vruchden <rhyme label="b" type="f" corresp="#s2:l3">leuen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">schoon maechdeken <rhyme label="a" type="m">onuersaecht</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Ick <rhyme label="a" type="m" corresp="#s3:l1">beclaecht</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Och v dus langhe te <rhyme label="b" type="f">deruen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">want ghy my bouen al <rhyme label="a" type="m" corresp="#s3:l1">behaecht</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">schoone <rhyme label="a" type="m" corresp="#s3:l1">maecht</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Laet my toch eens troost <rhyme label="b" type="f" corresp="#s3:l3">verweruen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Amoureus mondeken <rhyme label="a" type="m">root</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">het is <rhyme label="a" type="m" corresp="#s4:l1">noot</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">wilt u lief commen ter <rhyme label="b" type="f">baten</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">die om u is in lyden <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">lief <rhyme label="a" type="m" corresp="#s4:l1">mingoot</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">en wilt hem nimmermeer <rhyme label="b" type="f" corresp="#s4:l3">laten</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">want wat isser meerder <rhyme label="a" type="m">vreucht</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">suver <rhyme label="a" type="m" corresp="#s5:l1">ieucht</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">dan met syn soete lief te <rhyme label="b" type="f">paeren</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">daeromme doet hem toch <rhyme label="a" type="m" corresp="#s5:l1">deucht</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">want ghy <rhyme label="a" type="m" corresp="#s5:l1">muecht</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">wilt blidelyc met hem <rhyme label="b" type="f" corresp="#s5:l3">vergaeren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Schoon lief of ghy waert <rhyme label="a" type="m">vergaert</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">en <rhyme label="a" type="m" corresp="#s6:l1">ghepaert</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">en met een andere <rhyme label="b" type="f">verheuen</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">ghy sout dicmaels syn <rhyme label="a" type="m" corresp="#s6:l1">beswaert</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">tsy u <rhyme label="a" type="m" corresp="#s6:l1">verclaert</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">o v soete lief te <rhyme label="b" type="f" corresp="#s6:l3">ancleuen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">schuudt qua nyders tonghens <rhyme label="a" type="m">raet</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">sy zyn <rhyme label="a" type="m" corresp="#s7:l1">quat</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">en wilt u alderliefste <rhyme label="b" type="f">trauwen</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">die u best te synnen <rhyme label="a" type="m" corresp="#s7:l1">staet</rhyme></l>
+        <l id="s7:l5" met="2" type="+-">lief <rhyme label="a" type="m" corresp="#s7:l1">delicaet</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">voorwaer ten sal u v ! niet <rhyme label="b" type="f" corresp="#s7:l3">berauwen</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Oorlof liefste lief <rhyme label="a" type="m">eerbaer</rhyme></l>
+        <l id="s8:l2" met="2" type="+-">nempt dit <rhyme label="a" type="m" corresp="#s8:l1">naer</rhyme></l>
+        <l id="s8:l3" met="4" type="+-">en wilt op gheen ander <rhyme label="b" type="f">dincken</rhyme></l>
+        <l id="s8:l4" met="4" type="+-">dan op v liefste lief een <rhyme label="a" type="m" corresp="#s8:l1">paer</rhyme></l>
+        <l id="s8:l5" met="2" type="+-">sonder <rhyme label="a" type="m" corresp="#s8:l1">vaer</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">en wilt hem u traucken <rhyme label="b" type="f" corresp="#s8:l3">schincken</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

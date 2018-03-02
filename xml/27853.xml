@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27853</id>
+    <date>
+      <year-start>1592</year-start>
+      <year-end>1592</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Psalm 068 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hy merckt nu claer,, die heeft <rhyme label="a" type="m">verstant</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wat leyder maer,, voor <rhyme label="a" type="m" corresp="#s1:l1">tNederlant</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Uut Spangien is <rhyme label="b" type="f">ghecomen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">sDuyvels dienaer,, des Paus <rhyme label="a" type="m" corresp="#s1:l1">trawant</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Der Monicken vaer,, der Papen <rhyme label="a" type="m" corresp="#s1:l1">sant</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Machmen Duc Dalf wel <rhyme label="b" type="f" corresp="#s1:l3">nomen</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Van wat Tyrannen datmen <rhyme label="c" type="m">leest</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Daer heeft noyt sijns ghelijck <rhyme label="c" type="m" corresp="#s1:l7">gheweest</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Soo boos, soo wreedt van <rhyme label="d" type="f">zeden</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">De Roode Hoer opt croonde <rhyme label="c" type="m" corresp="#s1:l7">Beest</rhyme></l>
+        <l id="s1:l11" met="4" type="-+">Wert nu opentlick <rhyme label="c" type="m" corresp="#s1:l7">onbevreest</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Van Coninghen <rhyme label="d" type="f" corresp="#s1:l9">aenghebeden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dit Caims ghebroet,, fel ende <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Heeft nu voorspoet,, haer boose <rhyme label="a" type="m" corresp="#s2:l1">daet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Door den Tyran <rhyme label="b" type="f">moordadigh</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Snel is haer voet,, vroech ende <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Om storten tbloet,, door nijdt en <rhyme label="a" type="m" corresp="#s2:l1">haet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Van Abel <rhyme label="b" type="f" corresp="#s2:l3">onghenadich</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Om dat die offerhandt <rhyme label="c" type="m">bequaem</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Voor Godt de Heer was <rhyme label="c" type="m" corresp="#s2:l7">aenghenaem</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Sy mochte niet <rhyme label="d" type="f">verdraghen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Dat men Gods woort reyn sonder <rhyme label="c" type="m" corresp="#s2:l7">blaem</rhyme>,</l>
+        <l id="s2:l11" met="4" type="-+">Sou preecken tot Gods lof <rhyme label="c" type="m" corresp="#s2:l7">eersaem</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Dat was haer een <rhyme label="d" type="f" corresp="#s2:l9">mishaghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Joabs geslacht,, zijn boosen <rhyme label="a" type="m">aert</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Is hooch gheacht,, lief ende <rhyme label="a" type="m" corresp="#s3:l1">waert</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">By den Tyran, den <rhyme label="b" type="f">boosen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Sijt wijs bedacht,, broeders <rhyme label="a" type="m" corresp="#s3:l1">vergaert</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">U selven wacht,, u leven <rhyme label="a" type="m" corresp="#s3:l1">spaert</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Schoudt altijt den <rhyme label="b" type="f" corresp="#s3:l3">godloosen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Wie meest verraet,, ende <rhyme label="c" type="m">verstoort</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Amasan in sijn bloet <rhyme label="c" type="m" corresp="#s3:l7">versmoort</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Die wort nu meest <rhyme label="d" type="f">ghepresen</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Al had ghy Abner rechte <rhyme label="c" type="m" corresp="#s3:l7">voort</rhyme>,</l>
+        <l id="s3:l11" met="4" type="-+">Ja oock u eyghen vaer <rhyme label="c" type="m" corresp="#s3:l7">vermoort</rhyme>,</l>
+        <l id="s3:l12" met="3" type="-+">Ten sou gheen sonde <rhyme label="d" type="f" corresp="#s3:l9">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tot sulcken feyt,, als Judas <rhyme label="a" type="m">dee</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Is nu bereyt,, tot elcker <rhyme label="a" type="m" corresp="#s4:l1">stee</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Elck van des Paus <rhyme label="b" type="f">gheschoren</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Autoriteyt,, commissi <rhyme label="a" type="m" corresp="#s4:l1">mee</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Is haer bescheyt,, na doude <rhyme label="a" type="m" corresp="#s4:l1">see</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Om Gods woort te <rhyme label="b" type="f" corresp="#s4:l3">versmooren</rhyme>:</l>
+        <l id="s4:l7" met="4" type="+-">Want soude tvolck schriftuer <rhyme label="c" type="m">verstaen</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">So waer haer neering gants <rhyme label="c" type="m" corresp="#s4:l7">ghedaen</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Daer op sy hoeren <rhyme label="d" type="f">houwen</rhyme>,</l>
+        <l id="s4:l10" met="4" type="-+">Elck soud haer afgodry <rhyme label="c" type="m" corresp="#s4:l7">versmaen</rhyme></l>
+        <l id="s4:l11" met="4" type="-+">Jan melis in die halve <rhyme label="c" type="m" corresp="#s4:l7">maen</rhyme></l>
+        <l id="s4:l12" met="3" type="-+">Voor gheen Godt meer <rhyme label="d" type="f" corresp="#s4:l9">aenschouwen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dees drie voornoemt,, 't is lanck <rhyme label="a" type="m">gheleen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Haer aert wel coemt,, recht over <rhyme label="a" type="m" corresp="#s5:l1">een</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Met dese <rhyme label="b" type="f">Potentaten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Niemant en schroomt,, voor tfeyt <rhyme label="a" type="m" corresp="#s5:l1">ghemeen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Maer elck beroomt,, hem groot en <rhyme label="a" type="m" corresp="#s5:l1">cleen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Des Tyrans <rhyme label="b" type="f" corresp="#s5:l3">ondersaten</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Sy obedieren zijn <rhyme label="c" type="m">ghebodt</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Om dat sy dEgyptische <rhyme label="c" type="m" corresp="#s5:l7">vleyschpot</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">Te bet moghen <rhyme label="d" type="f">verwerven</rhyme></l>
+        <l id="s5:l10" met="4" type="-+">Met Mammon haren besten <rhyme label="c" type="m" corresp="#s5:l7">godt</rhyme>,</l>
+        <l id="s5:l11" met="4" type="-+">Wie met Heliam sulcx <rhyme label="c" type="m" corresp="#s5:l7">bespot</rhyme></l>
+        <l id="s5:l12" met="3" type="-+">Als Ketter moet hy <rhyme label="d" type="f" corresp="#s5:l9">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Tis voor de wint,, met den <rhyme label="a" type="m">Tyran</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Uut vrees bemint,, hem wijf en <rhyme label="a" type="m" corresp="#s6:l1">man</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Veel bloets doet hy <rhyme label="b" type="f">verghieten</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Wat hy beghint,, elck hout hem <rhyme label="a" type="m" corresp="#s6:l1">an</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Dus hy verslint,, al wat hy <rhyme label="a" type="m" corresp="#s6:l1">kan</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Tot het Godt sal <rhyme label="b" type="f" corresp="#s6:l3">verdrieten</rhyme>:</l>
+        <l id="s6:l7" met="4" type="+-">Ghy Christen Broeders groot en <rhyme label="c" type="m">smal</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">Vervult moet zijn sHeeren <rhyme label="c" type="m" corresp="#s6:l7">ghetal</rhyme></l>
+        <l id="s6:l9" met="3" type="-+">Naer Joannis <rhyme label="d" type="f">narreren</rhyme>,</l>
+        <l id="s6:l10" met="4" type="-+">En oock moetet gheschieden <rhyme label="c" type="m" corresp="#s6:l7">al</rhyme>,</l>
+        <l id="s6:l11" met="4" type="-+">Den Antechrist sijn swaren <rhyme label="c" type="m" corresp="#s6:l7">val</rhyme>,</l>
+        <l id="s6:l12" met="3" type="-+">Ten sal hem niet <rhyme label="d" type="f" corresp="#s6:l9">faelgeeren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Princen doch dit,, <rhyme label="a" type="m">incorporeert</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ghy die nu sit,, ende <rhyme label="a" type="m" corresp="#s7:l1">regeert</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Betracht wel u <rhyme label="b" type="f">Offici</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Maect niet besmit,, met bloet <rhyme label="a" type="m" corresp="#s7:l1">besmeert</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">U handen wit,, in root <rhyme label="a" type="m" corresp="#s7:l1">verkeert</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Noemt moort doch gheen <rhyme label="b" type="f" corresp="#s7:l3">justici</rhyme>:</l>
+        <l id="s7:l7" met="4" type="+-">Want als ghy coemt voor Gods <rhyme label="c" type="m">aenschijn</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">Daer elck moet houden sijn <rhyme label="c" type="m" corresp="#s7:l7">termijn</rhyme></l>
+        <l id="s7:l9" met="3" type="-+">Op de sentencie <rhyme label="d" type="f">passen</rhyme>:</l>
+        <l id="s7:l10" met="4" type="-+">Al hadt ghy twater vanden <rhyme label="c" type="m" corresp="#s7:l7">Rijn</rhyme>,</l>
+        <l id="s7:l11" met="4" type="-+">Met al dat inde Zee mach <rhyme label="c" type="m" corresp="#s7:l7">zijn</rhyme>,</l>
+        <l id="s7:l12" met="3" type="-+">Ghy sult het niet <rhyme label="d" type="f" corresp="#s7:l9">afwasschen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

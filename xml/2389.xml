@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2389</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>biblical history song</tag>
+    </tags>
+    <melody>Allemande Jolie</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daer was een gebot <rhyme label="a" type="m">gedaen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van Augusto Keyser <rhyme label="b" type="f">gecoren</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Dat elck mensch sou moeten <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ter Stadt daer hij was <rhyme label="b" type="f" corresp="#s1:l2">gheboren</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Om te geven het <rhyme label="c" type="m">tribuyt</rhyme> /</l>
+        <l id="s1:l6" met="4" type="-+">Dwelck den Keyser hebben <rhyme label="d" type="f">wilde</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">Dat hij dede roepen <rhyme label="c" type="m" corresp="#s1:l5">uut</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Met trompetten <rhyme label="c" type="m" corresp="#s1:l5">overluyt</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s1:l10" met="4" type="+-">Looft den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s1:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s1:l9">zyt</rhyme> /</l>
+        <l id="s1:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s1:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">loseph en Maria <rhyme label="a" type="m">me</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hebben dit ghebot <rhyme label="b" type="f">vernomen</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Zy gingen nae Nazareth haere <rhyme label="a" type="m" corresp="#s2:l1">ste</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">Daer zy tsamen zyn <rhyme label="b" type="f" corresp="#s2:l2">ghecomen</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">Zy wilden ghehoorsaem <rhyme label="c" type="m">zyn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Het ghebot des Keysers <rhyme label="d" type="f">verheven</rhyme>/</l>
+        <l id="s2:l7" met="4" type="-+">Dat zy alle menschen <rhyme label="c" type="m" corresp="#s2:l5">fyn</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Souden een goet exempel <rhyme label="c" type="m" corresp="#s2:l5">zyn</rhyme>.</l>
+        <l id="s2:l9" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s2:l10" met="4" type="+-">Looft den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s2:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s2:l9">zyt</rhyme> /</l>
+        <l id="s2:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s2:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maria die suyver <rhyme label="a" type="m">maecht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wesende bevrucht met <rhyme label="b" type="f">kinde</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Heeft naer een herberge <rhyme label="a" type="m" corresp="#s3:l1">gevraecht</rhyme> /</l>
+        <l id="s3:l4" met="4" type="-+">Want haren tyt die was op <rhyme label="b" type="f" corresp="#s3:l2">dinde</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Daer en was niemant <rhyme label="c" type="m">voorwaer</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Die haer herberge wilde <rhyme label="d" type="f">geven</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Heymelyck noch <rhyme label="c" type="m" corresp="#s3:l5">openbaer</rhyme>/</l>
+        <l id="s3:l8" met="4" type="-+">Zy en vont geen plaets voor <rhyme label="c" type="m" corresp="#s3:l5">haer</rhyme>.</l>
+        <l id="s3:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s3:l10" met="4" type="+-">Looft den Heere / doet hem <rhyme label="f" type="f">eere</rhyme></l>
+        <l id="s3:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s3:l9">zyt</rhyme> /</l>
+        <l id="s3:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s3:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dit was Joseph een groot <rhyme label="a" type="m">cruys</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">Want hy Mariam zeer <rhyme label="b" type="f">beminde</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Hy leydense in een verlaeten <rhyme label="a" type="m" corresp="#s4:l1">huys</rhyme>/</l>
+        <l id="s4:l4" met="4" type="-+">Daer wert zy moeder van haren <rhyme label="b" type="f" corresp="#s4:l2">kinde</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">Godt almachtich boven <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Heere van hemel en aerde <rhyme label="d" type="f">gepresen</rhyme>/</l>
+        <l id="s4:l7" met="4" type="-+">Worde gheboren in eenen <rhyme label="c" type="m" corresp="#s4:l5">stal</rhyme>.</l>
+        <l id="s4:l8" met="4" type="-+">Wie hoorde oyt sulck <rhyme label="c" type="m" corresp="#s4:l5">gheval</rhyme>.</l>
+        <l id="s4:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s4:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s4:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s4:l9">zyt</rhyme> /</l>
+        <l id="s4:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s4:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Van couwe weende dat kindeken <rhyme label="a" type="m">teer</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Den tyt die was soo int <rhyme label="b" type="f">saisoene</rhyme> /</l>
+        <l id="s5:l3" met="4" type="-+">Het waidde cout / het vroos doen <rhyme label="a" type="m" corresp="#s5:l1">zeer</rhyme> /</l>
+        <l id="s5:l4" met="4" type="-+">Zij hadden ooc van als van <rhyme label="b" type="f" corresp="#s5:l2">doene</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Want helaes de maeget <rhyme label="c" type="m">reyn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">En hadde geen ghevoederde <rhyme label="d" type="f">cleeren</rhyme> /</l>
+        <l id="s5:l7" met="4" type="-+">Om te decken skints ledekens <rhyme label="c" type="m" corresp="#s5:l5">cleyn</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Die hem deden wee <rhyme label="c" type="m" corresp="#s5:l5">certeyn</rhyme>.</l>
+        <l id="s5:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s5:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s5:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s5:l9">zyt</rhyme> /</l>
+        <l id="s5:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s5:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maria viel op haer <rhyme label="a" type="m">knien</rhyme> /</l>
+        <l id="s6:l2" met="4" type="-+">Sij aenbadt haer kindeken <rhyme label="b" type="f">cleyne</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Och wat vreucht moest haer <rhyme label="a" type="m" corresp="#s6:l1">gheschien</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Als zij sach die menscheyt <rhyme label="b" type="f" corresp="#s6:l2">reyne</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Dit misterie <rhyme label="c" type="m">contempleert</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Menschen inden gheest van <rhyme label="d" type="f">binnen</rhyme>.</l>
+        <l id="s6:l7" met="4" type="-+">U hooverdije nu <rhyme label="c" type="m" corresp="#s6:l5">verneert</rhyme> /</l>
+        <l id="s6:l8" met="4" type="-+">Int schoon kindeken <rhyme label="c" type="m" corresp="#s6:l5">iubileert</rhyme> /</l>
+        <l id="s6:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s6:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s6:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s6:l9">zyt</rhyme> /</l>
+        <l id="s6:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s6:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Sy nam haer kint <rhyme label="a" type="m">gebenedyt</rhyme> /</l>
+        <l id="s7:l2" met="4" type="-+">In doeckelkens heeft zyt <rhyme label="b" type="f">ghewonden</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Sy leyt int crebbeken met <rhyme label="a" type="m" corresp="#s7:l1">iolyt</rhyme> /</l>
+        <l id="s7:l4" met="4" type="-+">Dwelc zy inden stal <rhyme label="b" type="f" corresp="#s7:l2">vonden</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">Die stomme beesten deden hem <rhyme label="c" type="m">eer</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Die doen aender cribben <rhyme label="d" type="f">stonden</rhyme> /</l>
+        <l id="s7:l7" met="4" type="-+">Sy verwermden zyn ledekens <rhyme label="c" type="m" corresp="#s7:l5">teer</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">En bekenden haeren <rhyme label="c" type="m" corresp="#s7:l5">heer</rhyme>.</l>
+        <l id="s7:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s7:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s7:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s7:l9">zyt</rhyme> /</l>
+        <l id="s7:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s7:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Dingelkens waeren zeer <rhyme label="a" type="m">verblyt</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Boven in shemels <rhyme label="b" type="f">troone</rhyme> /</l>
+        <l id="s8:l3" met="4" type="-+">Sy loofden Godt <rhyme label="a" type="m" corresp="#s8:l1">gebenedyt</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Van zynder menscheyt <rhyme label="b" type="f" corresp="#s8:l2">schoone</rhyme>.</l>
+        <l id="s8:l5" met="4" type="-+">Sij songen peys op dat <rhyme label="c" type="m">termijn</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Salder wesen opder <rhyme label="d" type="f">aerden</rhyme></l>
+        <l id="s8:l7" met="4" type="-+">Alle Christen menschen <rhyme label="c" type="m" corresp="#s8:l5">fyn</rhyme></l>
+        <l id="s8:l8" met="4" type="-+">Die van goeden wille <rhyme label="c" type="m" corresp="#s8:l5">zyn</rhyme>.</l>
+        <l id="s8:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s8:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s8:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s8:l9">zyt</rhyme> /</l>
+        <l id="s8:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s8:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">De herderkens die daer lagen <rhyme label="a" type="m">bij</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Wachtende haere <rhyme label="b" type="f">schaepen</rhyme> /</l>
+        <l id="s9:l3" met="4" type="-+">Sij ontsprongen met herten <rhyme label="a" type="m" corresp="#s9:l1">blij</rhyme> /</l>
+        <l id="s9:l4" met="4" type="-+">Soo zy hadden liggen <rhyme label="b" type="f" corresp="#s9:l2">slaepen</rhyme>.</l>
+        <l id="s9:l5" met="4" type="-+">Sy liepen al naer Bethleem <rhyme label="c" type="m">voort</rhyme> /</l>
+        <l id="s9:l6" met="4" type="-+">En zy songen en zy <rhyme label="d" type="f">sprongen</rhyme> /</l>
+        <l id="s9:l7" met="4" type="-+">Om taenbidden dat eewich <rhyme label="c" type="m" corresp="#s9:l5">woort</rhyme> /</l>
+        <l id="s9:l8" met="4" type="-+">Lovende Godt met een <rhyme label="c" type="m" corresp="#s9:l5">accoort</rhyme></l>
+        <l id="s9:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s9:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s9:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s9:l9">zyt</rhyme> /</l>
+        <l id="s9:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s9:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Verblyt al inden <rhyme label="a" type="m">Heere</rhyme> /</l>
+        <l id="s10:l2" met="4" type="-+">Wilt uut den slaep <rhyme label="b" type="f">ontspringen</rhyme> /</l>
+        <l id="s10:l3" met="4" type="-+">Prijst Godt en doet hem <rhyme label="a" type="m" corresp="#s10:l1">eere</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Met herten en met <rhyme label="b" type="f" corresp="#s10:l2">zinnen</rhyme>.</l>
+        <l id="s10:l5" met="4" type="-+">Gaet tot Bethleem eenen <rhyme label="c" type="m">keer</rhyme></l>
+        <l id="s10:l6" met="4" type="-+">Inwendich inden gheest van <rhyme label="d" type="f">binnen</rhyme>.</l>
+        <l id="s10:l7" met="4" type="-+">Doet den nieuwen Coninck <rhyme label="c" type="m" corresp="#s10:l5">eer</rhyme> /</l>
+        <l id="s10:l8" met="4" type="-+">Cust dat proper kindeken <rhyme label="c" type="m" corresp="#s10:l5">teer</rhyme> /.</l>
+        <l id="s10:l9" met="4" type="-+">Singt altsamen wie ghy <rhyme label="e" type="m">zyt</rhyme> /</l>
+        <l id="s10:l10" met="4" type="+-">Danckt den Heere / doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s10:l11" met="4" type="-+">Singt altsamen wie ghij <rhyme label="e" type="m" corresp="#s10:l9">zyt</rhyme> /</l>
+        <l id="s10:l12" met="4" type="-+">Danct den Heere <rhyme label="e" type="m" corresp="#s10:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Laet ons toch dancbaer <rhyme label="a" type="m">zyn</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Van alle Godts groote <rhyme label="b" type="f">gaeven</rhyme> /</l>
+        <l id="s11:l3" met="4" type="-+">Die ons verlost heeft uutter <rhyme label="a" type="m" corresp="#s11:l1">pijn</rhyme> /</l>
+        <l id="s11:l4" met="4" type="-+">Als wij al waren <rhyme label="b" type="f" corresp="#s11:l2">slaven</rhyme> /</l>
+        <l id="s11:l5" met="4" type="-+">Door zyn zoete menscheyt <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s11:l6" met="4" type="-+">Is den Heere by ons <rhyme label="d" type="f">gecomen</rhyme></l>
+        <l id="s11:l7" met="4" type="-+">In warachtich vleesch en <rhyme label="c" type="m" corresp="#s11:l5">bloet</rhyme> /</l>
+        <l id="s11:l8" met="4" type="-+">Laet ons hierop draegen <rhyme label="c" type="m" corresp="#s11:l5">moet</rhyme> /</l>
+        <l id="s11:l9" met="4" type="-+">Singt altsaemen wie ghij <rhyme label="e" type="m">zijt</rhyme> /</l>
+        <l id="s11:l10" met="4" type="+-">Looft den Heere doet hem <rhyme label="f" type="f">eere</rhyme> /</l>
+        <l id="s11:l11" met="4" type="-+">Singt altsaemen wie ghij <rhyme label="e" type="m" corresp="#s11:l9">zijt</rhyme> /</l>
+        <l id="s11:l12" met="4" type="-+">Danct den Heer <rhyme label="e" type="m" corresp="#s11:l9">ghebenedijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

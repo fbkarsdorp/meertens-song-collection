@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30557</id>
+    <date>
+      <year-start>1720</year-start>
+      <year-end>1720</year-end>
+    </date>
+    <tags>
+      <tag>scenic song</tag>
+      <tag>drinking song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">HOe geneug'lyk valt den <rhyme label="a" type="m">tap</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Met een <rhyme label="a" type="m" corresp="#s1:l1">snap</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Veegt den Boer een heelen <rhyme label="a" type="m" corresp="#s1:l1">flap</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Schel en glasen hoort men <rhyme label="b" type="f">klinken</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Onder 't <rhyme label="b" type="f" corresp="#s1:l4">drinken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Bier en wynkan gaan klip, <rhyme label="a" type="m" corresp="#s1:l1">klap</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Raakt den drank dan in den <rhyme label="a" type="m">kop</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Is 't pas <rhyme label="a" type="m" corresp="#s2:l1">op</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Want dan valt 'er rondom <rhyme label="a" type="m" corresp="#s2:l1">klop</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Tang en knuppel moet met <rhyme label="b" type="f">vechten</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">'t Schil <rhyme label="b" type="f" corresp="#s2:l4">beslechten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dat 'er rees uit <rhyme label="a" type="m" corresp="#s2:l1">druivensop</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Zal de Boer naêr huis <rhyme label="a" type="m">toegaan</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Vol <rhyme label="a" type="m" corresp="#s3:l1">gelaên</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Moet de schulddebeurs daar <rhyme label="a" type="m" corresp="#s3:l1">aan</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Laat het wyf vry zitten <rhyme label="b" type="f">pruilen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Kinders <rhyme label="b" type="f" corresp="#s3:l4">huilen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Tappery moet zo <rhyme label="a" type="m" corresp="#s3:l1">bestaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

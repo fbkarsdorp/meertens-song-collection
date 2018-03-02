@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24991</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">God hiet siin moeder <rhyme label="a" type="m">wijf</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Daerom is wijf een bloeyende <rhyme label="b" type="m">stam</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Wijf ist mannes <rhyme label="a" type="m" corresp="#s1:l1">leytverdrijf</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">God selve van wiven <rhyme label="b" type="m" corresp="#s1:l2">quam</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Wijf ist besser vil dan <rhyme label="c" type="m">golt</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">Wives naem unde wives <rhyme label="a" type="m" corresp="#s1:l1">lijf</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Die siin mannes <rhyme label="a" type="m" corresp="#s1:l1">leytverdrijf</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Ir werde manne siit vrouwen <rhyme label="c" type="m" corresp="#s1:l5">holt</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vrouwe yst eyn werde naem <rhyme label="a" type="m">gehure</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Vrouwen vrysschen mengen <rhyme label="b" type="m">moet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Vrouwe machen sorge <rhyme label="a" type="m" corresp="#s2:l1">dure</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Vrouwe siin voer trueren <rhyme label="b" type="m" corresp="#s2:l2">goet</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Nu eert de vrouwen, dat's mijn <rhyme label="c" type="m">raet</rhyme>!</l>
+        <l id="s2:l6" met="4" type="+-">Yr werde man, daeraen <rhyme label="a" type="m" corresp="#s2:l1">gedenchen</rhyme>!</l>
+        <l id="s2:l7" met="4" type="+-">Ghir solt nicht reyne vrouwen <rhyme label="a" type="m" corresp="#s2:l1">crenchen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Sint mannes vreude an vrouwe <rhyme label="c" type="m" corresp="#s2:l5">staet</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maget yst eyn reyne naem <rhyme label="a" type="m">gehure</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Wal dich(e), minnentlijche <rhyme label="b" type="m">maghet</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Zich vrouwet alle <rhyme label="a" type="m" corresp="#s3:l1">creature(n</rhyme>)</l>
+        <l id="s3:l4" met="4" type="+-">Ere maget, so men <rhyme label="b" type="m" corresp="#s3:l2">saghet</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Crist wert van eere maget <rhyme label="c" type="m">geboren</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Nu eert die maget, yr stolte <rhyme label="a" type="m" corresp="#s3:l1">werden</rhyme>!</l>
+        <l id="s3:l7" met="4" type="+-">So is geweldich hemel ende <rhyme label="a" type="m" corresp="#s3:l1">eerde</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">So ne blijft he niemmerme <rhyme label="c" type="m" corresp="#s3:l5">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maget, vrouwe ende <rhyme label="a" type="m">wijf</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die drie sich vluchten in <rhyme label="b" type="m">eyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Nu halt met eeren dinen <rhyme label="a" type="m" corresp="#s4:l1">lijf</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dou vrouwes dan <rhyme label="b" type="m" corresp="#s4:l2">edelsteyn</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Unde al das golt, daz Grieken <rhyme label="c" type="m">haet</rhyme>.</l>
+        <l id="s4:l6" met="4" type="+-">Des coninx scat van <rhyme label="a" type="m" corresp="#s4:l1">Vrankerike</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">Mach dich, vrou, nicht <rhyme label="a" type="m" corresp="#s4:l1">gelijchen</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Heuestu dich(e) voer <rhyme label="c" type="m" corresp="#s4:l5">misdaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

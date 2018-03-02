@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24752</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dance song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Wel aan wel aan met harten gaai</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel an wel an met hertzen <rhyme label="a" type="m">gay</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die der minnen knechten <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In deere van der minnen <rhyme label="a" type="m" corresp="#s1:l1">vray</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">God groete haer lievelijc <rhyme label="b" type="m" corresp="#s1:l2">anschijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Willic ons <rhyme label="b" type="m" corresp="#s1:l2">zinghiedekijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Elc groete tsijn ic groete <rhyme label="b" type="m" corresp="#s1:l2">tmijn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Nu wilwi trueren <rhyme label="c" type="m">avelaen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Wel of wel of met drouven <rhyme label="d" type="f">zinne</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Die niet ne draghen reine <rhyme label="d" type="f" corresp="#s1:l8">minne</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Die moeten bachten danse <rhyme label="c" type="m" corresp="#s1:l7">staen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Here god nu geift hem <rhyme label="a" type="m">hemelrijch</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die ghestade bliven <rhyme label="b" type="m">sal</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met rechten trauwen <rhyme label="a" type="m" corresp="#s2:l1">minnentlijch</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Heift hi gheluc of <rhyme label="b" type="m" corresp="#s2:l2">ongheval</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mijn lopen es sonder <rhyme label="b" type="m" corresp="#s2:l2">ghetal</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dies es mijn hertze in vruechden <rhyme label="b" type="m" corresp="#s2:l2">al</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ic wille haer bliven <rhyme label="c" type="m">onderdaen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Wel of wel of met drouven <rhyme label="d" type="f">zinne</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Die niet ne draghen reine <rhyme label="d" type="f" corresp="#s2:l8">minne</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Die moeten bachten danse <rhyme label="c" type="m" corresp="#s2:l7">staen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Here god hoet ons vor de <rhyme label="a" type="m">vileine</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die aergher clappen dan si <rhyme label="b" type="m">zien</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Sine hebben niet met ons <rhyme label="a" type="m" corresp="#s3:l1">ghemeine</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Soe si ons jonnen moet hem <rhyme label="b" type="m" corresp="#s3:l2">ghescien</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Met boser list si na ons <rhyme label="b" type="m" corresp="#s3:l2">spien</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Hoe nauwe dat wi van hem <rhyme label="b" type="m" corresp="#s3:l2">vlien</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Haer niden wil ons vruecht <rhyme label="c" type="m">verslaen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Wel of wel of met drouven <rhyme label="d" type="f">zinne</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Die niet ne draghen reine <rhyme label="d" type="f" corresp="#s3:l8">minne</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Die moeten bachten danse <rhyme label="c" type="m" corresp="#s3:l7">staen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

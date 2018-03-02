@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24900</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>God groet u lieflijk beeld zoet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">God groetu lieflic beilde <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">An deser zuetzer morghin <rhyme label="b" type="m">stont</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ende also menich minlijc <rhyme label="a" type="m" corresp="#s1:l1">groet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Als di mach weinschen eenich <rhyme label="b" type="m" corresp="#s1:l2">mont</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Daer toe so es mijns hertzen <rhyme label="b" type="m" corresp="#s1:l2">gront</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dijn eighin woonst so waer ich <rhyme label="c" type="m">bin</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ontdoe dijn hertze ende laet mir <rhyme label="c" type="m" corresp="#s1:l6">in</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sluutstu vor mi die hertze <rhyme label="a" type="m">dijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So es mi alle woonst tze <rhyme label="b" type="m">clein</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Want du best vrauwe alleine int <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Daer in mach comen anders <rhyme label="b" type="m" corresp="#s2:l2">gein</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Nu laet ons bliven dan <rhyme label="b" type="m" corresp="#s2:l2">gemein</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Minlic elc in anders <rhyme label="c" type="m">zin</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ontdoe dijn hertze ende laet mir <rhyme label="c" type="m" corresp="#s2:l6">in</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al ware mijn cracht sampsoens <rhyme label="a" type="m">ghelijc</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Mijn scoonheit als was <rhyme label="b" type="m">abseloen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Vor alexandre van machten <rhyme label="a" type="m" corresp="#s3:l1">rijc</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ende wiser ooc dan <rhyme label="b" type="m" corresp="#s3:l2">salemoen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Sone condic vrauwe niet anders <rhyme label="b" type="m" corresp="#s3:l2">doen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dan dijn begher vor al <rhyme label="c" type="m">ghewin</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ontdoe dijn hertze ende laes mir <rhyme label="c" type="m" corresp="#s3:l6">in</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sin hertze ende moet ziele ende <rhyme label="a" type="m">lijf</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Es eighin dijn hoet mir <rhyme label="b" type="m">vergheit</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Vergheitstu mijns troutzalich <rhyme label="a" type="m" corresp="#s4:l1">wijf</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">So es mi alle vruecht <rhyme label="b" type="m" corresp="#s4:l2">ontzeit</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Een groete dijnre <rhyme label="b" type="m" corresp="#s4:l2">goetlijcheit</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Ghef mir doch vrauwe in mach niet <rhyme label="c" type="m">min</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Dan sluut dijn hertze ende mi daer <rhyme label="c" type="m" corresp="#s4:l6">in</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

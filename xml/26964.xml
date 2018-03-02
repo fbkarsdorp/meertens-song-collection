@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26964</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">L stlich so hab ich mich a <rhyme label="a" type="m">ßerweltt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">meins hertzen ein ewigenn <rhyme label="b" type="m">kron</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Die mir jn meinem hertzenn <rhyme label="a" type="m" corresp="#s1:l1">gefeltt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">bo enn andern J nckfrawenn <rhyme label="b" type="m" corresp="#s1:l2">schon</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">mitt th gdenn ist sei sehr <rhyme label="c" type="f">gezierett</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">das h bsche J nckfrewlein <rhyme label="d" type="m">fein</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">Des ist stetz z  ir <rhyme label="c" type="f" corresp="#s1:l5">gekertt</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">Das fr m junge hertze <rhyme label="d" type="m" corresp="#s1:l6">mein</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Jch sagens nhu z  dieser <rhyme label="a" type="m">zeitt</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">all a ß meins hertzenn gr <rhyme label="b" type="m">nd</rhyme>  /</l>
+        <l id="s2:l3" met="4" type="-+">mein herze steitt steitt mitt gantzenn <rhyme label="a" type="m" corresp="#s2:l1">fleiß</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">nach ihrem roter m <rhyme label="b" type="m" corresp="#s2:l2">ndt</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">So sall sie stetz die liebste <rhyme label="c" type="f">sein</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">vnnd sein mein a <rhyme label="d" type="m">ßerkorenn</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">Sie gefellt mir jn dem hertzenn <rhyme label="c" type="f" corresp="#s2:l5">mein</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">meinen  dienst will ich nichtt <rhyme label="d" type="m" corresp="#s2:l6">sparenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sie lest eß mich <rhyme label="a" type="m">geniesen</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">meines hertzen einiges <rhyme label="b" type="m">trost</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Wan sie das krichtt z  <rhyme label="a" type="m" corresp="#s3:l1">wissenn</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Das ich nh  sein <rhyme label="b" type="m" corresp="#s3:l2">verlost</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">von m gh vnnd auch vonn <rhyme label="c" type="f">sorgenn</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">mein Syn a ff jr <rhyme label="d" type="m">gestaltt</rhyme> /</l>
+        <l id="s3:l7" met="4" type="-+">Daß redt ich vn <rhyme label="c" type="f" corresp="#s3:l5">erborgenn</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">Sie mir allein <rhyme label="d" type="m" corresp="#s3:l6">gefeltt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Jhr eigenn will ich <rhyme label="a" type="m">sterbenn</rhyme> /</l>
+        <l id="s4:l2" met="3" type="-+">Das redde ich ir f <rhyme label="b" type="m">rwar</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">ir traw will ich <rhyme label="a" type="m" corresp="#s4:l1">erwerben</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die liebde sall werden <rhyme label="b" type="m" corresp="#s4:l2">claer</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">die ich z  ihr hab <rhyme label="c" type="f">getragenn</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">So manniche st ndt vnnd <rhyme label="d" type="m">tagh</rhyme> /</l>
+        <l id="s4:l7" met="4" type="-+">Nh n will ich offentlich <rhyme label="c" type="f" corresp="#s4:l5">sagen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Das machett Ven s <rhyme label="d" type="m" corresp="#s4:l6">macht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24779</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Hoe mocht mij vreugde komen aan</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe mocht mi vruechde comen <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mijns hertsen troost <rhyme label="b" type="f">alleine</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Es mi in vreimder wijs <rhyme label="a" type="m" corresp="#s1:l1">ontgaen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Des zijn mijn vruechden <rhyme label="b" type="f" corresp="#s1:l2">cleine</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Haddic ye vruecht nu nanich <rhyme label="b" type="f" corresp="#s1:l2">gheine</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Des moet ic liden lidens <rhyme label="c" type="m">pijn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Alst mir gheluct salt anders <rhyme label="c" type="m" corresp="#s1:l6">zijn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn hoochste ger mijns vruechts <rhyme label="a" type="m">ghewin</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Es mi al of <rhyme label="b" type="f">ghesceiden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Des moet ic voughen herte ende <rhyme label="a" type="m" corresp="#s2:l1">zin</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Up hopen ende <rhyme label="b" type="f" corresp="#s2:l2">verbeiden</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mijn waken doet mi vruecht <rhyme label="b" type="f" corresp="#s2:l2">verleiden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Int slapen staen de vruechden <rhyme label="c" type="m">mijn</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Alst mir gheluct salt anders <rhyme label="c" type="m" corresp="#s2:l6">zijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghenoughelic slaep ghenougelic <rhyme label="a" type="m">droom</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Hier in ic mi <rhyme label="b" type="f">verblide</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Int waken roeyic jeghen <rhyme label="a" type="m" corresp="#s3:l1">stroom</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Daer ic mi toe <rhyme label="b" type="f" corresp="#s3:l2">vertide</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Mijn droom bewijst mi weder <rhyme label="b" type="f" corresp="#s3:l2">zide</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dat mi verblijt haer wijflic <rhyme label="c" type="m">scijn</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Alst mir gheluct salt anders <rhyme label="c" type="m" corresp="#s3:l6">zijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu willic emmer slapen <rhyme label="a" type="m">vast</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mi droomt so <rhyme label="b" type="f">minnentlijch</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Waer ic int waken so <rhyme label="a" type="m" corresp="#s4:l1">gherast</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">So waric vruechden <rhyme label="b" type="f" corresp="#s4:l2">rijch</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Here god doet mi daer toe <rhyme label="b" type="f" corresp="#s4:l2">ghecrijch</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Want ic wil bliven haer <rhyme label="c" type="m">eighijn</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Alst mir gheluct salt anders <rhyme label="c" type="m" corresp="#s4:l6">zijn</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O droom die mi ghenoucht so <rhyme label="a" type="m">wael</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Hier daer sijt waer int <rhyme label="b" type="f">ende</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Du best mir vruechden <rhyme label="a" type="m" corresp="#s5:l1">principael</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">So waer ic mi <rhyme label="b" type="f" corresp="#s5:l2">belende</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Die u te mi in slape <rhyme label="b" type="f" corresp="#s5:l2">zende</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Ic blive haer stede in trouwen <rhyme label="c" type="m">fijn</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Alst mir gheluct salt anders <rhyme label="c" type="m" corresp="#s5:l6">zijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

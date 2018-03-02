@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23512</id>
+    <date>
+      <year-start>1550</year-start>
+      <year-end>1550</year-end>
+    </date>
+    <location>
+      <orginal-name>kampen</orginal-name>
+      <standard-name>Kampen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.5559484</lon>
+        <lat>5.9033303</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>Ik heb de wereld zeer bemind</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ick heb die Werldt seer <rhyme label="a" type="m">bemint</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Sy heft my heel van Godt <rhyme label="b" type="f">getoge</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Nv heb icket oock al <rhyme label="a" type="m" corresp="#s1:l1">versint</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hoe my die werldt heeft <rhyme label="b" type="f" corresp="#s1:l2">bedroghen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">O Godt het is in v <rhyme label="c" type="f">vermoeghen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Wilt my nv ontfermen <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">O valsche Werlt ghi hebt my al <rhyme label="c" type="f" corresp="#s1:l5">gelogen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">In v en is niet dan <rhyme label="d" type="m" corresp="#s1:l6">bedroch</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Werldt ghi zijt toch een <rhyme label="a" type="m">partije</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Tegen Godt het is claer <rhyme label="b" type="f">beseuen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Want nijdicheyt ende <rhyme label="a" type="m" corresp="#s2:l1">houerdije</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Zijn ter werlt al <rhyme label="b" type="f" corresp="#s2:l2">verheuen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Nyemant en soeckt dat eeuwich <rhyme label="c" type="f">leuen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat mach ick wel segghen <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">O valsche werlt ick heb v al <rhyme label="c" type="f" corresp="#s2:l5">beseuen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">In v is niet dan <rhyme label="d" type="m" corresp="#s2:l6">bedroch</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gulsicheyt ende <rhyme label="a" type="m">ouerdaet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En zijn ter Werldt nv al ghien <rhyme label="b" type="f">sonden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ouerspeel seer <rhyme label="a" type="m" corresp="#s3:l1">fornicaet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Al zijn sy oock ouer al <rhyme label="b" type="f" corresp="#s3:l2">gheuonden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Dit en achtmen voer ghien <rhyme label="c" type="f">sonden</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dat mach ick wel segghen <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">O valsche Werlt/ als ic v wel <rhyme label="c" type="f" corresp="#s3:l5">doergronde</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">In v en is niet dan <rhyme label="d" type="m" corresp="#s3:l6">bedroch</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als ick die Werldt wel <rhyme label="a" type="m">besie</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En bekenne haer <rhyme label="b" type="f">ghebreken</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Laet ons dan tot Christum <rhyme label="a" type="m" corresp="#s4:l1">vlien</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ende die werldt heel <rhyme label="b" type="f" corresp="#s4:l2">versteken</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">In hem en sals ons niet <rhyme label="c" type="f">ghebreken</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Want hy is der menschen <rhyme label="d" type="m">soch</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">O valsche werldt ick heb v al <rhyme label="c" type="f" corresp="#s4:l5">doerkeken</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">In v en is niet dan <rhyme label="d" type="m" corresp="#s4:l6">bedroch</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O hemelsche Vader <rhyme label="a" type="m">ghebenedijt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wilt my van dit vleysch <rhyme label="b" type="f">verlaten</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Dat wy doer Christum worden <rhyme label="a" type="m" corresp="#s5:l1">beuriet</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Want wy zijn al broesche <rhyme label="b" type="f" corresp="#s5:l2">vaten</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Die Werldt mit haren <rhyme label="c" type="f">ondersaten</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Heft my beuanghen <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">O valsche werldt ten mach v niet <rhyme label="c" type="f" corresp="#s5:l5">baten</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">In v en is niet dan <rhyme label="d" type="m" corresp="#s5:l6">bedroch</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O Vader inder <rhyme label="a" type="m">eewicheyt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Wilt my uwen ghyest in <rhyme label="b" type="f">gheuen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Die werldt heeft my heel <rhyme label="a" type="m" corresp="#s6:l1">verleyt</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Sy doet my na den vleysche <rhyme label="b" type="f" corresp="#s6:l2">leuen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Het welcke brengt die siele int <rhyme label="c" type="f">sneuen</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Verloren inder hellen <rhyme label="d" type="m">crocht</rhyme></l>
+        <l id="s6:l7" met="5" type="-+">O valsche Werldt ick heb v claer <rhyme label="c" type="f" corresp="#s6:l5">beseuen</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">In v en is niet dan <rhyme label="d" type="m" corresp="#s6:l6">bedroch</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

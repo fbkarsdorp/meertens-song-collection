@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24963</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>God geve ons een blijde waard</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">God gheve ons eenen blide <rhyme label="a" type="m">wert</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">So sijn de gasten vroilic <rhyme label="b" type="m">jo</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die altoos blidelic <rhyme label="a" type="m" corresp="#s1:l1">ghebert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">So moochwi ganslijch wesen <rhyme label="b" type="m" corresp="#s1:l2">vro</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ach lieve her wert nu doe <rhyme label="b" type="m" corresp="#s1:l2">also</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Waer dranc nye man so goet <rhyme label="c" type="m">ghelach</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Up dat die wert es zorghen <rhyme label="d" type="m">quijt</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">So wilwi comen alden <rhyme label="c" type="m" corresp="#s1:l6">dach</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Van nuchtens toter <rhyme label="d" type="m" corresp="#s1:l7">vespertijt</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Dese wert moet sijn <rhyme label="d" type="m" corresp="#s1:l7">ghebenedijt</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Hine acht des truerens niet een <rhyme label="b" type="m" corresp="#s1:l2">stro</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wael op laet ons dan vroilic <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Want ons die wert veil vruechden <rhyme label="b" type="m">gan</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wi drinken hier so goeden <rhyme label="a" type="m" corresp="#s2:l1">wijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Wat souden wi noch besceiden <rhyme label="b" type="m" corresp="#s2:l2">dan</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">God gheve hem heil diet ons <rhyme label="b" type="m" corresp="#s2:l2">vorwan</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Sijn leven lanc met vruechden <rhyme label="c" type="m">ho</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">God gheve ons eenen blide <rhyme label="d" type="m">wert</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">So sijn de gasten vroilic <rhyme label="c" type="m" corresp="#s2:l6">jo</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Die altoos blidelic <rhyme label="d" type="m" corresp="#s2:l7">ghebert</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">So moochwi ganslijch wesen <rhyme label="d" type="m" corresp="#s2:l7">vro</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Ach lieve her wert nu doe <rhyme label="b" type="m" corresp="#s2:l2">also</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Scinc in scinc in den duutscen <rhyme label="a" type="m">traen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die luden doet so suetzen <rhyme label="b" type="m">clanc</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wi willen truerens <rhyme label="a" type="m" corresp="#s3:l1">avelaen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ach vruechden nemmermeer <rhyme label="b" type="m" corresp="#s3:l2">verganc</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Die ons benijdt hi hebbe <rhyme label="b" type="m" corresp="#s3:l2">ondanc</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ic wilde hi zate in <rhyme label="c" type="m">jerico</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">God gheve ons eenen blide <rhyme label="d" type="m">wert</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">So sijn de gasten vroilic <rhyme label="c" type="m" corresp="#s3:l6">jo</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Die altoos blidelic <rhyme label="d" type="m" corresp="#s3:l7">ghebert</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">So moochwi ganslijch wesen <rhyme label="d" type="m" corresp="#s3:l7">vro</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Ach lieve her wert nu doe <rhyme label="b" type="m" corresp="#s3:l2">also</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

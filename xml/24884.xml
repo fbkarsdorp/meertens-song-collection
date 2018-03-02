@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24884</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody>Binnen in mijn hartenkas</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Binnen in mir hertzen <rhyme label="a" type="m">cas</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer staet een bloume die lieft mir <rhyme label="a" type="m" corresp="#s1:l1">bas</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dan wes ich anders doen <rhyme label="b" type="m">begrijf</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Robijn carbonkel no <rhyme label="a" type="m" corresp="#s1:l1">topas</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ne sijn te prisene niet een <rhyme label="a" type="m" corresp="#s1:l1">vlas</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Voor haer die zoent der zonden <rhyme label="b" type="m" corresp="#s1:l3">kijf</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Dijnre roke en dooch gheen <rhyme label="b" type="m" corresp="#s1:l3">blijf</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Roze vul van tsemels <rhyme label="c" type="f">dauwe</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Du best onse hope beware ons <rhyme label="b" type="m" corresp="#s1:l3">stijf</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">De wech es ons te <rhyme label="c" type="f" corresp="#s1:l8">nauwe</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Werde <rhyme label="c" type="f" corresp="#s1:l8">vrauwe</rhyme></l>
+        <l id="s1:l12" met="2" type="+-">Doe ons <rhyme label="c" type="f" corresp="#s1:l8">trauwe</rhyme></l>
+        <l id="s1:l13" met="2" type="+-">Quijt onsen <rhyme label="c" type="f" corresp="#s1:l8">rauwe</rhyme></l>
+        <l id="s1:l14" met="2" type="-+">Ende ons <rhyme label="c" type="f" corresp="#s1:l8">bescauwe</rhyme></l>
+        <l id="s1:l15" met="2" type="-+">Als therte <rhyme label="c" type="f" corresp="#s1:l8">flauwe</rhyme></l>
+        <l id="s1:l16" met="2" type="-+">Eer ons <rhyme label="c" type="f" corresp="#s1:l8">ghelauwe</rhyme></l>
+        <l id="s1:l17" met="2" type="-+">Die helsche <rhyme label="c" type="f" corresp="#s1:l8">cauwe</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Du steis ghegroyt in eenre <rhyme label="a" type="m">stas</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Int wortel dies de planter <rhyme label="a" type="m" corresp="#s2:l1">was</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">U kint u vader maecht moeder ende <rhyme label="b" type="m">wijf</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Eva leedde ons int <rhyme label="a" type="m" corresp="#s2:l1">maras</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ave weder ons <rhyme label="a" type="m" corresp="#s2:l1">ghenas</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Om dijn omoediche zuver <rhyme label="b" type="m" corresp="#s2:l3">lijf</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Dijnre roke en dooch gheen <rhyme label="b" type="m" corresp="#s2:l3">blijf</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Roze vul van tsemels <rhyme label="c" type="f">dauwe</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Du best onse hope beware ons <rhyme label="b" type="m" corresp="#s2:l3">stijf</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">De wech es ons te <rhyme label="c" type="f" corresp="#s2:l8">nauwe</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Werde <rhyme label="c" type="f" corresp="#s2:l8">vrauwe</rhyme></l>
+        <l id="s2:l12" met="2" type="+-">Doe ons <rhyme label="c" type="f" corresp="#s2:l8">trauwe</rhyme></l>
+        <l id="s2:l13" met="2" type="+-">Quijt onsen <rhyme label="c" type="f" corresp="#s2:l8">rauwe</rhyme></l>
+        <l id="s2:l14" met="2" type="-+">Ende ons <rhyme label="c" type="f" corresp="#s2:l8">bescauwe</rhyme></l>
+        <l id="s2:l15" met="2" type="-+">Als therte <rhyme label="c" type="f" corresp="#s2:l8">flauwe</rhyme></l>
+        <l id="s2:l16" met="2" type="-+">Eer ons <rhyme label="c" type="f" corresp="#s2:l8">ghelauwe</rhyme></l>
+        <l id="s2:l17" met="2" type="-+">Die helsche <rhyme label="c" type="f" corresp="#s2:l8">cauwe</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Also de zonne dorscijnt een <rhyme label="a" type="m">glas</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ende bi der rayen groyet <rhyme label="a" type="m" corresp="#s3:l1">gras</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">So dede de vader een neder <rhyme label="b" type="m">drijf</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Drie rayen endede in eenen <rhyme label="a" type="m" corresp="#s3:l1">pas</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Bescenen die roze die zuver <rhyme label="a" type="m" corresp="#s3:l1">ras</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ontfijnc dat zaet om ons <rhyme label="b" type="m" corresp="#s3:l3">beclijf</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Dijnre roke en dooch gheen <rhyme label="b" type="m" corresp="#s3:l3">blijf</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Roze vul van tsemels <rhyme label="c" type="f">dauwe</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Du best onse hope beware ons <rhyme label="b" type="m" corresp="#s3:l3">stijf</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">De wech es ons te <rhyme label="c" type="f" corresp="#s3:l8">nauwe</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">Werde <rhyme label="c" type="f" corresp="#s3:l8">vrauwe</rhyme></l>
+        <l id="s3:l12" met="2" type="+-">Doe ons <rhyme label="c" type="f" corresp="#s3:l8">trauwe</rhyme></l>
+        <l id="s3:l13" met="2" type="+-">Quijt onsen <rhyme label="c" type="f" corresp="#s3:l8">rauwe</rhyme></l>
+        <l id="s3:l14" met="2" type="-+">Ende ons <rhyme label="c" type="f" corresp="#s3:l8">bescauwe</rhyme></l>
+        <l id="s3:l15" met="2" type="-+">Als therte <rhyme label="c" type="f" corresp="#s3:l8">flauwe</rhyme></l>
+        <l id="s3:l16" met="2" type="-+">Eer ons <rhyme label="c" type="f" corresp="#s3:l8">ghelauwe</rhyme></l>
+        <l id="s3:l17" met="2" type="-+">Die helsche <rhyme label="c" type="f" corresp="#s3:l8">cauwe</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

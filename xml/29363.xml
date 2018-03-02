@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29363</id>
+    <date>
+      <year-start>1301</year-start>
+      <year-end>1325</year-end>
+    </date>
+    <location>
+      <orginal-name>konstanz</orginal-name>
+      <standard-name>Constance, Germany</standard-name>
+      <coordinates>
+        <lon>47.659216</lon>
+        <lat>9.1750718</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die mich darumbe wellen <rhyme label="a" type="f">niden</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">das mir laides iht <rhyme label="b" type="m">beschiht</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">das mag ich vil sanfte <rhyme label="a" type="f" corresp="#s1:l1">liden</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">unde wil darumbe <rhyme label="a" type="f" corresp="#s1:l1">niht</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">mine blitschaft <rhyme label="b" type="m" corresp="#s1:l2">vermiden</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">noch gevolgen den <rhyme label="a" type="f" corresp="#s1:l1">unbliden</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">da nach das si mich gerne <rhyme label="b" type="m" corresp="#s1:l2">siht</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">du mich dur die rehten <rhyme label="c" type="f">minne</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">lange pine dolen <rhyme label="b" type="m" corresp="#s1:l2">liet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ich wil vro sin durch ir <rhyme label="a" type="f">ere</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">du mir das hat <rhyme label="b" type="m">getan</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">das ich von der riuwe <rhyme label="a" type="f" corresp="#s2:l1">kere</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">diu mich wilent ierte <rhyme label="a" type="f" corresp="#s2:l1">sere</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">das ich mich nu so <rhyme label="b" type="m" corresp="#s2:l2">vergan</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">das ich bin rich unde gros <rhyme label="a" type="f" corresp="#s2:l1">here</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">sit ich si muoste alumbe <rhyme label="b" type="m" corresp="#s2:l2">van</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">diu mir gap rehte <rhyme label="c" type="f">minne</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">sunder wich unde <rhyme label="b" type="m" corresp="#s2:l2">wan</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

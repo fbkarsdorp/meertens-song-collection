@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30416</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>tongeren</orginal-name>
+      <standard-name>Tongeren, Belgium</standard-name>
+      <coordinates>
+        <lon>50.7810151</lon>
+        <lat>5.4648131</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>O Venus der minne godin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Venus <rhyme label="a" type="f">goddinne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wat hebdij inden <rhyme label="a" type="f" corresp="#s1:l1">sinne</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">dat ick die ick <rhyme label="a" type="f" corresp="#s1:l1">beminne</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">niet en <rhyme label="a" type="f" corresp="#s1:l1">gewinne</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Cupido <rhyme label="a" type="f">noyale</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">haest v met uwen minnen <rhyme label="a" type="f" corresp="#s2:l1">strale</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">soe ben ic tenen <rhyme label="a" type="f" corresp="#s2:l1">male</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">beurijt van <rhyme label="a" type="f" corresp="#s2:l1">quale</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Hy hout my <rhyme label="a" type="f">beuanghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">na haer staet mijn <rhyme label="a" type="f" corresp="#s3:l1">verlangen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">dus singhe ic drouuen <rhyme label="a" type="f" corresp="#s3:l1">sangen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">betraent van <rhyme label="a" type="f" corresp="#s3:l1">wanghen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">wilt my <rhyme label="a" type="f">bedouwen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">op v staet myn <rhyme label="a" type="f" corresp="#s4:l1">betrouwen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">ghy syt die fleur van <rhyme label="a" type="f" corresp="#s4:l1">vrouwen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">schoen int <rhyme label="a" type="f" corresp="#s4:l1">aenschouwen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

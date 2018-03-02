@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25220</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Cultor Dei memento</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Goods dijenar zijt <rhyme label="a" type="f">gedachtich</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">dat ghij deurt doopsel <rhyme label="a" type="f" corresp="#s1:l1">crachtich</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">En t'chrisma bij v <rhyme label="b" type="m">ontfaen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">vernijeut hebt Christum <rhyme label="b" type="m" corresp="#s1:l3">aengedaen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">In cuijsheijt gaende <rhyme label="a" type="f">slapen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">druct in des heeren <rhyme label="a" type="f" corresp="#s2:l1">wapen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">T'cruijs teecken sijnder <rhyme label="b" type="m">smarte</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">opt voorhoeft, end' opt <rhyme label="b" type="m" corresp="#s2:l3">harte</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">T'quaet wert deurt cruijs <rhyme label="a" type="f">verdreuen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">de duijsterheijt moet <rhyme label="a" type="f" corresp="#s3:l1">sneuen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">T'cruijs moet v hart <rhyme label="b" type="m">betallen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">om tot geen sond' te <rhyme label="b" type="m" corresp="#s3:l3">vallen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wech, wech, laet hijer niet <rhyme label="a" type="f">comen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">wech vremdicheijt der <rhyme label="a" type="f" corresp="#s4:l1">dromen</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">wech schalck der loser <rhyme label="b" type="m">vonden</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">om te trecken tot <rhyme label="b" type="m" corresp="#s4:l3">sonden</rhyme>:</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ghij omgecromde <rhyme label="a" type="f">slangen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">die met v crommen <rhyme label="a" type="f" corresp="#s5:l1">gangen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">deur duijsent arger <rhyme label="b" type="m">listen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">tgerustich hart doet <rhyme label="b" type="m" corresp="#s5:l3">twisten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">ijct Christus is hier <rhyme label="a" type="f">binnen</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Christus blijft in mijn <rhyme label="a" type="f" corresp="#s6:l1">sinnen</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Smelt deurt ? teijcken v <rhyme label="b" type="m">bekent</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">twelck al v crachten heeft <rhyme label="b" type="m" corresp="#s6:l3">geschent</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Alst lichaem leijt te <rhyme label="a" type="f">rusten</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">sullen mijns hartzen <rhyme label="a" type="f" corresp="#s7:l1">lusten</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">int slapen <rhyme label="b" type="m">mediteren</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">op v o heer der <rhyme label="b" type="m" corresp="#s7:l3">heren</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Loff vader, loff soon <rhyme label="a" type="f">almachtich</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Loff heijlige gheest <rhyme label="a" type="f" corresp="#s8:l1">warachtich</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Aen God; inder <rhyme label="b" type="m">eewicheijt</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Loff heijlige <rhyme label="b" type="m" corresp="#s8:l3">drijevuldicheijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15036</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>thanks song</tag>
+      <tag>spiritual song</tag>
+      <tag>beggar song</tag>
+      <tag>triumph song</tag>
+    </tags>
+    <melody>Questa dolce sirena</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Heer! als ick denck aen't <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dat ghy ons menschen <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Sonderling,, Dan ontspringen myn <rhyme label="b" type="f">leden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Met een verheugt <rhyme label="a" type="m" corresp="#s1:l1">gemoet</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Merckt eens o menschen <rhyme label="c" type="m">aen</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Wat God al heeft <rhyme label="c" type="m" corresp="#s1:l5">gedaen</rhyme></l>
+        <l id="s1:l7" met="6" type="+-">Voor een werck,, Aen syn <rhyme label="b" type="f" corresp="#s1:l3">Kerck</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Om met vreden Hier t'zynen dienst te <rhyme label="c" type="m" corresp="#s1:l5">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De kleyne maeckt God <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">De groote hy <rhyme label="a" type="m" corresp="#s2:l1">verstoot</rhyme>,</l>
+        <l id="s2:l3" met="6" type="+-">End' hy maeckt,, Dat weer raeckt,, in het <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die daer by na was <rhyme label="a" type="m" corresp="#s2:l1">doot</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Sijn oog op alles <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Hy lijd den trotsen <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme></l>
+        <l id="s2:l7" met="6" type="+-">Oock hoe seer,, Hy in eer,, Is <rhyme label="b" type="f" corresp="#s2:l3">verheven</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">'tStaet al in sijn <rhyme label="c" type="m" corresp="#s2:l5">gebiet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Geluckig is de <rhyme label="a" type="m">man</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die dit al mercket <rhyme label="a" type="m" corresp="#s3:l1">an</rhyme>,</l>
+        <l id="s3:l3" met="6" type="+-">End' in druck,, End' geluck,, t'Allen <rhyme label="b" type="f">dagen</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Sich Christ'lyck laet blyven <rhyme label="a" type="m" corresp="#s3:l1">kan</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">End' stedig <rhyme label="c" type="m">overlegt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Des Alderhoogsten <rhyme label="c" type="m" corresp="#s3:l5">recht</rhyme>;</l>
+        <l id="s3:l7" met="6" type="+-">End' sich voort,, Naer Gods woort,, Soeckt te <rhyme label="b" type="f" corresp="#s3:l3">dragen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Als een getrouwen <rhyme label="c" type="m" corresp="#s3:l5">knecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

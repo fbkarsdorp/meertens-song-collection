@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27205</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody>Engelse fortuin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Eylaes ick ly / in myn hert swaer <rhyme label="a" type="m">tourment</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">om dat ick zy / van myn herts lieff <rhyme label="a" type="m" corresp="#s1:l1">absent</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">die gheen die heeft / myn hert tot alder <rhyme label="b" type="m">stont</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">soo lang ick leeff / blyff ick in haer <rhyme label="b" type="m" corresp="#s1:l3">verbont</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Mocht ick dan sacht / gebruycken t'mynder <rhyme label="a" type="m">baet</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">daedalus macht / ick sou vroech en <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">nemen de vlucht / tot dat ick waer <rhyme label="b" type="m">ontrent</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">zonder gerucht / by myn schoon lieffken <rhyme label="b" type="m" corresp="#s2:l3">jent</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Off kost ick expaert Jupiters konst <rhyme label="a" type="m">vermaert</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">die als een swaen by venus quam <rhyme label="a" type="m" corresp="#s3:l1">vergaert</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">daer sy lach en sliep heeft hyse in haer <rhyme label="b" type="m">rust</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">wt lieffde siet zeer vriendelyck <rhyme label="b" type="m" corresp="#s3:l3">gekust</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Hoe soude ick vry / bruycken tot een <rhyme label="a" type="m">playsir</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">tgunt ick bely / het fraiste venus <rhyme label="a" type="m" corresp="#s4:l1">dier</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">die ick oyt sach / in mynen sin <rhyme label="b" type="m">voorwaer</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">nacht en dach / soud ick blyuen by <rhyme label="b" type="m" corresp="#s4:l3">haer</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Maer nv wat raet / dewyl ick deruen <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">de schoonste Agaet / in swerelts eruen <rhyme label="a" type="m" corresp="#s5:l1">soet</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">gheen steen soo schoon / saphier noch <rhyme label="b" type="m">diamant</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">die spant de croon / bouen d'agaet <rhyme label="b" type="m" corresp="#s5:l3">playsant</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Want haere cracht / is wonderlycke <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">en can seer sacht / genesen dit <rhyme label="a" type="m" corresp="#s6:l1">bevroet</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">hertzweer en pyn / tourment en <rhyme label="b" type="m">ongenucht</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">in cort termyn / maeckt zy v heel <rhyme label="b" type="m" corresp="#s6:l3">verheucht</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Mocht ick expert / verkrygen t'mynder <rhyme label="a" type="m">loon</rhyme></l>
+        <l id="s7:l2" met="5" type="-+">het goede hert / van dees agata <rhyme label="a" type="m" corresp="#s7:l1">schoon</rhyme></l>
+        <l id="s7:l3" met="5" type="-+">zoo sou ick siet / met haer leuen in <rhyme label="b" type="m">vreucht</rhyme></l>
+        <l id="s7:l4" met="5" type="-+">sonder verdriet / altyt in eer en <rhyme label="b" type="m" corresp="#s7:l3">deucht</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="-+">Princes aensiet / de lieffde die ick v <rhyme label="a" type="m">draech</rhyme></l>
+        <l id="s8:l2" met="5" type="-+">want niemant niet / daer ick anders nae <rhyme label="a" type="m" corresp="#s8:l1">vraech</rhyme></l>
+        <l id="s8:l3" met="5" type="-+">dan v persoon / die t'hert beuangen <rhyme label="b" type="m">heeft</rhyme></l>
+        <l id="s8:l4" met="5" type="-+">dat nv ydoon / in groot verlangen <rhyme label="b" type="m" corresp="#s8:l3">leeft</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

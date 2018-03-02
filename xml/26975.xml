@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26975</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Jch lag der <rhyme label="a" type="m">schwenck</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">so ich <rhyme label="a" type="m" corresp="#s1:l1">gedenck</rhyme> /</l>
+        <l id="s1:l3" met="2" type="-+">das jn ein <rhyme label="b" type="m">jair</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">vergessenn <rhyme label="b" type="m" corresp="#s1:l3">gar</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">iß worden <rhyme label="c" type="m">mein</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">es ist woll <rhyme label="c" type="m" corresp="#s1:l5">schein</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">das der weltt <rhyme label="d" type="m">sitt</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">will han kein <rhyme label="d" type="m" corresp="#s1:l7">bitt</rhyme> /</l>
+        <l id="s1:l9" met="4" type="-+">Dr mb lest die katz irs mausens <rhyme label="d" type="m" corresp="#s1:l7">nitt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Vor zeitenn ich s <rhyme label="a" type="m">chtt</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">auch die <rhyme label="a" type="m" corresp="#s2:l1">streig</rhyme>/</l>
+        <l id="s2:l3" met="2" type="-+">vnnd hett g itt <rhyme label="b" type="m">werdtt</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">nu ist <rhyme label="b" type="m" corresp="#s2:l3">vmbkertt</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">als vur <rhyme label="c" type="m">was</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">n  merck ich <rhyme label="c" type="m" corresp="#s2:l5">das</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">man meiner nitt en <rhyme label="d" type="m">achtt</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">f rwitz das <rhyme label="d" type="m" corresp="#s2:l7">magtt</rhyme> /</l>
+        <l id="s2:l9" met="4" type="-+">dar mb die katz nach ma senn <rhyme label="d" type="m" corresp="#s2:l7">trachtt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Noch hoff ich <rhyme label="a" type="m">des</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">sei nitt <rhyme label="a" type="m" corresp="#s3:l1">vergeß</rhyme> /</l>
+        <l id="s3:l3" met="2" type="-+">der alter <rhyme label="b" type="m">trew</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">vnnd mich nitt <rhyme label="b" type="m" corresp="#s3:l3">schew</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">Jn rechter <rhyme label="c" type="m">lieb</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">die ich z  dir <rhyme label="c" type="m" corresp="#s3:l5">ieb</rhyme> /</l>
+        <l id="s3:l7" met="2" type="-+">all tagh vnnd st <rhyme label="d" type="m">ndt</rhyme> /</l>
+        <l id="s3:l8" met="2" type="-+">a ß hertzenn gr <rhyme label="d" type="m" corresp="#s3:l7">ndt</rhyme> /</l>
+        <l id="s3:l9" met="4" type="-+">Darmitt ich mich zu massen f <rhyme label="d" type="m" corresp="#s3:l7">ndt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

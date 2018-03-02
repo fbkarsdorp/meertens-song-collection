@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25224</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Der dachs boeij, het geuogelt <rhyme label="a" type="m">fris</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">singt dat tlicht ons genakende <rhyme label="a" type="m" corresp="#s1:l1">is</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">der harten wecker christus <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">roept tot het leuen ons <rhyme label="b" type="m" corresp="#s1:l3">gemoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hij roept neemt wech v bedden <rhyme label="a" type="m">laech</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">krancken die sijn van slaepen <rhyme label="a" type="m" corresp="#s2:l1">traech</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">waeck reijn, oprecht en sober <rhyme label="b" type="m">blij</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">als nu ben ick v naeste <rhyme label="b" type="m" corresp="#s2:l3">bij</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laet ons Jesum met reen <rhyme label="a" type="m">aengaen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">suchten, wenen, sober <rhyme label="a" type="m" corresp="#s3:l1">beraen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Aendacht, gebet en laet niet <rhyme label="b" type="m">toe</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">een suijuert hart sou worden <rhyme label="b" type="m" corresp="#s3:l3">moe</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Beneempt Christe den slaep sijn <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En breeck de banden vanden <rhyme label="a" type="m" corresp="#s4:l1">nacht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Den ouden scult ombindt ghij <rhyme label="b" type="m">die</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">maeck dat nieu lust in ons <rhyme label="b" type="m" corresp="#s4:l3">gedie</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

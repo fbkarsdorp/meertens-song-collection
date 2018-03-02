@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27219</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+      <tag>beggar song</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody>Schoon jonkheertje heus en trouw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Compt seigneur en laet v <rhyme label="a" type="f">schencken</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Van myn dranck en maeckt wat <rhyme label="b" type="m">moets</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">oCrygsman v cruyt mocht my <rhyme label="a" type="f" corresp="#s1:l1">crencken</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">oIck verwacht van v niet <rhyme label="b" type="m" corresp="#s1:l2">goets</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Wel seigneur waer wt comt <rhyme label="c" type="m">dat</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">oIck weet wat wtgeeft v <rhyme label="c" type="m" corresp="#s1:l5">vat</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">Wt wat <rhyme label="d" type="m">saeck</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">oDoor die <rhyme label="d" type="m" corresp="#s1:l7">smaeck</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Tuwen <rhyme label="e" type="f">besten</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">oNaer v schencken ick niet <rhyme label="d" type="m" corresp="#s1:l7">haeck</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wilt ghy v niet schencken <rhyme label="a" type="f">laten</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Danst seigneur op onsen <rhyme label="b" type="m">trom</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">oBomlaer al schynt ghy soet <rhyme label="a" type="f" corresp="#s2:l1">praten</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">oMyn lust niet na v <rhyme label="b" type="m" corresp="#s2:l2">gebom</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Waerom spreeckt so vwen <rhyme label="c" type="m">mont</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">oOm dat ick heel anders <rhyme label="c" type="m" corresp="#s2:l5">vont</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">Dan ghy <rhyme label="d" type="m">dacht</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">oDats de <rhyme label="d" type="m" corresp="#s2:l7">clacht</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Seght de <rhyme label="e" type="f">reden</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">oTwas ons heel anders <rhyme label="d" type="m" corresp="#s2:l7">gesacht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Seght seigneur ter goeder <rhyme label="a" type="f">trouwen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Wat gafmen v te <rhyme label="b" type="m">verstaen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">oDousburch wy haest winnen <rhyme label="a" type="f" corresp="#s3:l1">souwen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">oSchencken schans dan voort op <rhyme label="b" type="m" corresp="#s3:l2">slaen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Nu de rest ons toch <rhyme label="c" type="m">verclaert</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">oMen sou gaen in bomlaer <rhyme label="c" type="m" corresp="#s3:l5">waert</rhyme></l>
+        <l id="s3:l7" met="2" type="+-">En die <rhyme label="d" type="m">stat</rhyme></l>
+        <l id="s3:l8" met="2" type="+-">oSchieten <rhyme label="d" type="m" corresp="#s3:l7">plat</rhyme></l>
+        <l id="s3:l9" met="2" type="+-">T ginck v <rhyme label="e" type="f">falen</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">oDaeom was ick seer haest <rhyme label="d" type="m" corresp="#s3:l7">sat</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Waerom seigneur bleeft ghy <rhyme label="a" type="f">leggen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Daer v transcel was <rhyme label="b" type="m">gestelt</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">oBomlaer ghy hebt nu goet <rhyme label="a" type="f" corresp="#s4:l1">segghen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">oDaer toe dwongh ons v <rhyme label="b" type="m" corresp="#s4:l2">gewelt</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Geen approche ghy en <rhyme label="c" type="m">deet</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">oV geschut was ons te <rhyme label="c" type="m" corresp="#s4:l5">heet</rhyme></l>
+        <l id="s4:l7" met="2" type="+-"><rhyme label="d" type="m">T'garnisoen</rhyme></l>
+        <l id="s4:l8" met="2" type="+-">oWas seer <rhyme label="d" type="m" corresp="#s4:l7">coen</rhyme></l>
+        <l id="s4:l9" met="2" type="+-">Quamt v <rhyme label="e" type="f">wecken</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">oVroeger dan wy hadden <rhyme label="d" type="m" corresp="#s4:l7">vermoen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Dousburch sou syn te <rhyme label="a" type="f">ontbyten</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">En die rest het <rhyme label="b" type="m">middachmael</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">oSchencker gaet ghy my <rhyme label="a" type="f" corresp="#s5:l1">verwyten</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">oTwoort van onsen <rhyme label="b" type="m" corresp="#s5:l2">admirael</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Heel stil ghy van bommel <rhyme label="c" type="m">vloot</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">oCryghsman twas gedaen seer <rhyme label="c" type="m" corresp="#s5:l5">noot</rhyme></l>
+        <l id="s5:l7" met="2" type="+-">Al v <rhyme label="d" type="m">room</rhyme></l>
+        <l id="s5:l8" met="2" type="+-">oIs in <rhyme label="d" type="m" corresp="#s5:l7">schroom</rhyme></l>
+        <l id="s5:l9" met="2" type="+-">Nu <rhyme label="e" type="f">verandert</rhyme></l>
+        <l id="s5:l10" met="4" type="+-">oV geluck hout ons in <rhyme label="d" type="m" corresp="#s5:l7">toom</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Waerom gaet ghy dan niet <rhyme label="a" type="f">keeren</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Na v vaderlant <rhyme label="b" type="m">seigneur</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">oDe fortuyn wy noch <rhyme label="a" type="f" corresp="#s6:l1">temteren</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">oOff sy ons mocht doen <rhyme label="b" type="m" corresp="#s6:l2">faueur</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">T'ouercomen ghy noch <rhyme label="c" type="m">meent</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">oLuckt het so tsal syn <rhyme label="c" type="m" corresp="#s6:l5">beweent</rhyme></l>
+        <l id="s6:l7" met="2" type="+-">K'hoop ten <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s6:l8" met="2" type="+-">oIck hoop <rhyme label="d" type="m" corresp="#s6:l7">al</rhyme></l>
+        <l id="s6:l9" met="2" type="+-">Schickt v <rhyme label="e" type="f">tschepe</rhyme></l>
+        <l id="s6:l10" met="4" type="+-">oWy gaen caetsen wacht de <rhyme label="d" type="m" corresp="#s6:l7">bal</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Prince onse godt <rhyme label="a" type="f">verheuen</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Neemt ons saeke by der <rhyme label="b" type="m">hant</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">oO nostra seignera <rhyme label="a" type="f" corresp="#s7:l1">eeuen</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">oHelpt ons op het tielsche <rhyme label="b" type="m" corresp="#s7:l2">lant</rhyme></l>
+        <l id="s7:l5" met="4" type="+-">Vryt ons heer vant spaens <rhyme label="c" type="m">gebroet</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">oO sant Jago ons <rhyme label="c" type="m" corresp="#s7:l5">behoet</rhyme></l>
+        <l id="s7:l7" met="2" type="+-">Godt wy <rhyme label="d" type="m">dan</rhyme></l>
+        <l id="s7:l8" met="2" type="+-">oWy sint <rhyme label="d" type="m" corresp="#s7:l7">An</rhyme></l>
+        <l id="s7:l9" met="2" type="+-">Deere <rhyme label="e" type="f">geuen</rhyme></l>
+        <l id="s7:l10" met="4" type="+-">oHelpt ons al wat helpen <rhyme label="d" type="m" corresp="#s7:l7">can</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Schencker wilt ghy dat <rhyme label="a" type="f">gestadich</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Godt v saeke ionstich <rhyme label="b" type="m">blyft</rhyme></l>
+        <l id="s8:l3" met="4" type="+-">Bomlaer tracht ghy dat <rhyme label="a" type="f" corresp="#s8:l1">genadich</rhyme></l>
+        <l id="s8:l4" met="4" type="+-">Slants vyant die heer <rhyme label="b" type="m" corresp="#s8:l2">verdryft</rhyme></l>
+        <l id="s8:l5" met="4" type="+-">Vreest den heer verbreyt syn <rhyme label="c" type="m">eer</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">Steunt niet seer . op v cracht <rhyme label="c" type="m" corresp="#s8:l5">teer</rhyme></l>
+        <l id="s8:l7" met="2" type="+-">Al <rhyme label="d" type="m">t'verdriet</rhyme></l>
+        <l id="s8:l8" met="2" type="+-">Datmen <rhyme label="d" type="m" corresp="#s8:l7">siet</rhyme></l>
+        <l id="s8:l9" met="2" type="+-">Torloch <rhyme label="e" type="f">baren</rhyme></l>
+        <l id="s8:l10" met="4" type="+-">Dan door vrede van v <rhyme label="d" type="m" corresp="#s8:l7">vliet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34356</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>May song</tag>
+      <tag>welcoming song</tag>
+    </tags>
+    <melody>Un jour la plus aimable dame</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">COmt Nimphkens wilt de droefheyt <rhyme label="a" type="f">staeken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den liefelijcken Mey comt <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghy moet u hertjens nu <rhyme label="a" type="f" corresp="#s1:l1">vermaecken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Den winter is voor by <rhyme label="b" type="m" corresp="#s1:l2">ghegaen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Het haghel-clettren en het <rhyme label="c" type="f">raesen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Van Boreas uyt-sinnigh <rhyme label="c" type="f" corresp="#s1:l5">blaesen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Heeft Zephirus door hit en <rhyme label="d" type="m">vocht</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Ghedreven uyt de coude <rhyme label="d" type="m" corresp="#s1:l7">locht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy siet hoe dat de Boomkens <rhyme label="a" type="f">groeyen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met groene blaederkens <rhyme label="b" type="m">bedeckt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De blommekens die staen en <rhyme label="a" type="f" corresp="#s2:l1">bloeyen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">t'Welck u het hert tot vreught <rhyme label="b" type="m" corresp="#s2:l2">verweckt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">De aerd' herschept een nieuwe <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wanneer haer Phebus heeft <rhyme label="c" type="f" corresp="#s2:l5">ghegheven</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Sulck een tapijt van geurich <rhyme label="d" type="m">cruyt</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Dat op haer schoot comt spruyten <rhyme label="d" type="m" corresp="#s2:l7">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hier sietmen staen aen alle <rhyme label="a" type="f">canten</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Den soeten Hiacint, <rhyme label="b" type="m">Tourkoos</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Apatica en <rhyme label="a" type="f" corresp="#s3:l1">Tulipanten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Narcissen, Crocus met de <rhyme label="b" type="m" corresp="#s3:l2">Roos</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Der Violette soete <rhyme label="c" type="f">geuren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ramonculus van veel <rhyme label="c" type="f" corresp="#s3:l5">couleuren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Met d'Animonien sijn <rhyme label="d" type="m">ghestelt</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Tot ciersels van het naeckte <rhyme label="d" type="m" corresp="#s3:l7">velt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sa com dan Nimphkens vlicht weer <rhyme label="a" type="f">cransen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Van t'lieflijck groen der coelen <rhyme label="b" type="m">Mey</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Vergheet niet uwe ronde <rhyme label="a" type="f" corresp="#s4:l1">dansen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Lancx d'uyt-ghesprote <rhyme label="b" type="m" corresp="#s4:l2">Claver-wey</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dus wilt u cleerders niet meer <rhyme label="c" type="f">scheuren</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Als ghy den Nachtegael hoort <rhyme label="c" type="f" corresp="#s4:l5">treuren</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Leeuwercker, Kneuter en de <rhyme label="d" type="m">Mees</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Die hun van vreucht schier singhen <rhyme label="d" type="m" corresp="#s4:l7">hees</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Cupido comt sijn boogh oock <rhyme label="a" type="f">voeren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Op ons verijsde-coude <rhyme label="b" type="m">borst</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Het minne-vier moet sich <rhyme label="a" type="f" corresp="#s5:l1">beroeren</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Als ieder een naer liefde <rhyme label="b" type="m" corresp="#s5:l2">dorst</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Comt Herderinnen druck laet <rhyme label="c" type="f">vaeren</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Met uwe Herders moet ghy <rhyme label="c" type="f" corresp="#s5:l5">paeren</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Want met den Somer-siecken <rhyme label="d" type="m">Mey</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Heeft al t'ghevogelt jonck oft <rhyme label="d" type="m" corresp="#s5:l7">ey</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Prins Mey naer wie wy altijt <rhyme label="a" type="f">trachten</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Int' wenschen dat ghy ons comt <rhyme label="b" type="m">by</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Wy willecomen u by <rhyme label="a" type="f" corresp="#s6:l1">nachten</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Met vreught-geclanck, want wy sijn <rhyme label="b" type="m" corresp="#s6:l2">bly</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Dat ghy den winter hebt <rhyme label="c" type="f">verdreven</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Op dat ghy ons een lief sout <rhyme label="c" type="f" corresp="#s6:l5">gheven</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Soo roepen wy met bly <rhyme label="d" type="m">gheschrey</rhyme></l>
+        <l id="s6:l8" met="4" type="-+">Zijt wilcom, wilcom soeten <rhyme label="d" type="m" corresp="#s6:l7">Mey</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

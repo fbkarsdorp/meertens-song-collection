@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15024</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>patriotic song</tag>
+      <tag>political song</tag>
+    </tags>
+    <melody>Engels prins Daphne</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Verstandige, Handige, Dappere voochden vol <rhyme label="a" type="m">trouw</rhyme>,</l>
+        <l id="s1:l2" met="8" type="+-">Die als Goden zyt gestelt, Om te breken al't <rhyme label="b" type="m">geweld</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Dat ons lant verheeren <rhyme label="a" type="m" corresp="#s1:l1">wou</rhyme>,</l>
+        <l id="s1:l4" met="8" type="+-">U zy lof, u zy danck, U sy eer also <rhyme label="c" type="m">lanck</rhyme></l>
+        <l id="s1:l5" met="8" type="+-">Als de Sonne schynen sal, Als de Maen het aertsche <rhyme label="d" type="m">dal</rhyme></l>
+        <l id="s1:l6" met="8" type="+-">'s Nachts haer licht sal deelen <rhyme label="e" type="m">uyt</rhyme>,,</l>
+        <l id="s1:l7" met="4" type="+-">End' so lang het groene kruyt,, Uyt de swarte aerde <rhyme label="e" type="m" corresp="#s1:l6">spruyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wat quaet het Spaensch,, Wreed Maraensch,, Boos gedrocht,, Oyt had <rhyme label="a" type="m">bedocht</rhyme></l>
+        <l id="s2:l2" met="8" type="+-">Tegens u uyt louter trots,, 'tLiep als tegens eene <rhyme label="b" type="m">Rots</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">'tWas te klimmen aen de <rhyme label="a" type="m" corresp="#s2:l1">locht</rhyme>:</l>
+        <l id="s2:l4" met="8" type="+-">Want g'en past,, Op de gast,, Niet so seer,, Langer <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s2:l5" met="8" type="+-">End' ghy biet hem soo het hooft,, Dat't hem schier int midden <rhyme label="d" type="m">klooft</rhyme>:</l>
+        <l id="s2:l6" met="8" type="+-">Daerom komt de loose Vos, Om hier met des Treves <rhyme label="e" type="m">glos</rhyme>,,</l>
+        <l id="s2:l7" met="4" type="+-">Onsen staet te maken <rhyme label="e" type="m" corresp="#s2:l6">los</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Godvruchtige, tuchtige, moedige, vry <rhyme label="a" type="m">Batavier</rhyme>!</l>
+        <l id="s3:l2" met="8" type="+-">Gaet ghy uyt de wapens niet,, Schoon den Speck u vrede <rhyme label="b" type="m">biet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Want zyn herte brant als <rhyme label="a" type="m" corresp="#s3:l1">vyer</rhyme>,</l>
+        <l id="s3:l4" met="8" type="+-">Om door twist,, End' met list,, End' bedroch,, looslyck <rhyme label="c" type="m">noch</rhyme></l>
+        <l id="s3:l5" met="8" type="+-">V te vangen in zyn net,, Dat hy altydt open <rhyme label="d" type="m">set</rhyme>;</l>
+        <l id="s3:l6" met="8" type="+-">Daerom hout toch goede wacht, Wilt ghy wesen wel <rhyme label="e" type="m">bedacht</rhyme>,,</l>
+        <l id="s3:l7" met="4" type="+-">End' bid God voor al om <rhyme label="e" type="m" corresp="#s3:l6">kracht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

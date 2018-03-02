@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4010</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Maagdje wilt gij geestelijk wezen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEn tijt is comen / den tijt is <rhyme label="a" type="f">leden</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Och niet so edel als den <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mer wee hem die sijn ionghe <rhyme label="a" type="f" corresp="#s1:l1">leden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Mer wee hem die sijn ionghe <rhyme label="a" type="f" corresp="#s1:l1">leden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Qualijc besteet ende ouer <rhyme label="b" type="m" corresp="#s1:l2">lijt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Naect ende arm quam ick ter <rhyme label="a" type="f">aerden</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Nature verhief dat leuen <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Nu moet ick weder ter aerden <rhyme label="a" type="f" corresp="#s2:l1">neder</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Nu moet ick weder ter aerden <rhyme label="a" type="f" corresp="#s2:l1">neder</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende volgende na die voer mi <rhyme label="b" type="m" corresp="#s2:l2">sijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het gaet met mi ten auonde <rhyme label="a" type="f">waert</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">De sonne die daelt so <rhyme label="b" type="m">seere</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ick heb den wech al qualijck <rhyme label="a" type="f" corresp="#s3:l1">ghegaen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ick heb den wech al qualijck <rhyme label="a" type="f" corresp="#s3:l1">ghegaen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Tis tijt dat ic weder om <rhyme label="b" type="m" corresp="#s3:l2">keere</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Het gaet met my ten auont <rhyme label="a" type="f">waert</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Als ick my seluen wel <rhyme label="b" type="m">besie</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ick heb den wech al qualijck <rhyme label="a" type="f" corresp="#s4:l1">ghegaen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ick heb den wech al qualijck <rhyme label="a" type="f" corresp="#s4:l1">ghegaen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Och lacy dat mach wel rouwen <rhyme label="b" type="m" corresp="#s4:l2">mi</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wee den kinderen van tsestich <rhyme label="a" type="f">iaren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die leuen naden lusten <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Sij moghen wel leuen in grooter <rhyme label="a" type="f" corresp="#s5:l1">varen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Sij moghen wel leuen in grooter <rhyme label="a" type="f" corresp="#s5:l1">varen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Cort salt met hen te rekenen <rhyme label="b" type="m" corresp="#s5:l2">sijn</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Nu bid ic alle ionghe <rhyme label="a" type="f">herten</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Dat si henseluen nemen <rhyme label="b" type="m">waer</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Ende blidelijc nemen op haer <rhyme label="a" type="f" corresp="#s6:l1">liden</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Ende blidelijc nemen op haer <rhyme label="a" type="f" corresp="#s6:l1">liden</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Ende volgen trouwelijc Ihesum <rhyme label="b" type="m" corresp="#s6:l2">na</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

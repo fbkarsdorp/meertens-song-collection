@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38622</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Echo wil ik tergen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Wel hoe soetste <rhyme label="a" type="f">Flora</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Sijdy met <rhyme label="a" type="f" corresp="#s1:l1">Aurora</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Soo vroegh <rhyme label="b" type="m">op-ghestaen</rhyme>?</l>
+        <l id="s1:l4" met="3" type="+-">O mijn schoon <rhyme label="b" type="m" corresp="#s1:l3">Diaen</rhyme>!</l>
+        <l id="s1:l5" met="2" type="-+">Goddinne, van <rhyme label="c" type="f">binne</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Brant mijn hert door <rhyme label="c" type="f" corresp="#s1:l5">minne</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Met een droef <rhyme label="d" type="m">ghetraen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Sal ick <rhyme label="c" type="f" corresp="#s1:l5">Herderinne</rhyme>?</l>
+        <l id="s1:l9" met="3" type="+-">In u vier <rhyme label="d" type="m" corresp="#s1:l7">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Eer de Son haer <rhyme label="a" type="f">stralen</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Hier laet <rhyme label="a" type="f" corresp="#s2:l1">nederdalen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Kan u soet <rhyme label="b" type="m">aenschijn</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Dat ick schier <rhyme label="b" type="m" corresp="#s2:l3">verdwijn</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Met loncken,, doen <rhyme label="c" type="f">voncken</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">En maeckt my schier <rhyme label="c" type="f" corresp="#s2:l5">droncken</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Inde <rhyme label="d" type="m">minne-pijn</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Wiens ooghen <rhyme label="c" type="f" corresp="#s2:l5">bloncken</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Helder dan <rhyme label="d" type="m" corresp="#s2:l7">Robijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Noyt aen u ô! <rhyme label="a" type="f">Dido</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Heeft het Kint <rhyme label="a" type="f" corresp="#s3:l1">Cupido</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Valsche trouw <rhyme label="b" type="m">ghesien</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Dies ick buygh mijn <rhyme label="b" type="m" corresp="#s3:l3">knien</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Mijn schoone,, een <rhyme label="c" type="f">Croone</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Vlicht ick, voor dijn <rhyme label="c" type="f" corresp="#s3:l5">troone</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Laet het doch <rhyme label="d" type="m">gheschien</rhyme>?</l>
+        <l id="s3:l8" met="3" type="+-">Trouw staet te <rhyme label="c" type="f" corresp="#s3:l5">beloonen</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Waerom wildy <rhyme label="d" type="m" corresp="#s3:l7">vlien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25104</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody> te Brussel"</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Soe wie dat creaturen <rhyme label="a" type="m">gelooft</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hy dunct my sijn al buten <rhyme label="b" type="f">keere</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ende dien edelen brudegom <rhyme label="c" type="m">laet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die heere is bouen alle <rhyme label="b" type="f" corresp="#s1:l2">heeren</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ic hebbe een lief in minen sin <rhyme label="d" type="m">gedaen</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Ic wilder my aen <rhyme label="d" type="m" corresp="#s1:l5">houden</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ende die valsce werken wt my <rhyme label="e" type="m">sluten</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Want sy es loos ende <rhyme label="f" type="f">ongetrouwe</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Heer god nv staet ons allen <rhyme label="e" type="m" corresp="#s1:l7">by</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Ende maect ons herte van allen sonden <rhyme label="f" type="f" corresp="#s1:l8">vri</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soe wie dat dwingen wilt sijn <rhyme label="a" type="m">nature</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Het sal hem costen vleesch ende <rhyme label="b" type="f">bloet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Het is den menigen worden <rhyme label="c" type="m">tsuere</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Eer hise heeft bracht al onder <rhyme label="b" type="f" corresp="#s2:l2">voet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ic hebbe een lief in minen sin <rhyme label="d" type="m">gedaen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Ic wilder my aen <rhyme label="d" type="m" corresp="#s2:l5">houden</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ende die valsce werken wt my <rhyme label="e" type="m">sluten</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Want sy es loos ende <rhyme label="f" type="f">ongetrouwe</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Heer god nv staet ons allen <rhyme label="e" type="m" corresp="#s2:l7">by</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Ende maect ons herte van allen sonden <rhyme label="f" type="f" corresp="#s2:l8">vri</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soe wie dat xpristus minne wilt <rhyme label="a" type="m">hebben</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ende hem wilt houden <rhyme label="b" type="f">trouwe</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Soe sie dat hy die valsce <rhyme label="c" type="m">weerelt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Want hy es loes ende <rhyme label="b" type="f" corresp="#s3:l2">ongetrouwe</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Ic hebbe een lief in minen sin <rhyme label="d" type="m">gedaen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Ic wilder my aen <rhyme label="d" type="m" corresp="#s3:l5">houden</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ende die valsce werken wt my <rhyme label="e" type="m">sluten</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Want sy es loos ende <rhyme label="f" type="f">ongetrouwe</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Heer god nv staet ons allen <rhyme label="e" type="m" corresp="#s3:l7">by</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Ende maect ons herte van allen sonden vri,",Sint-Clara-klooster van de Clarissen-Urbanisten van <rhyme label="f" type="f" corresp="#s3:l8">Obbrussel</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

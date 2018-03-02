@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2828</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Wilhelmus</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoert broeders uit <rhyme label="a" type="f">voerkoeren</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ick bidt Jonck ende <rhyme label="b" type="m">out</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Wilt dit beklach <rhyme label="a" type="f" corresp="#s1:l1">aenhooren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hoe dat de graeue van <rhyme label="b" type="m" corresp="#s1:l2">mansuelt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Sijn krysen ende <rhyme label="c" type="f">karmen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dat wert u hier <rhyme label="d" type="m">vertelt</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hoe dat de graeue van s <rhyme label="c" type="f" corresp="#s1:l5">mansuelt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">nu deerlick roeup om <rhyme label="d" type="m" corresp="#s1:l6">gelt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">0 paus myn godt al <rhyme label="a" type="f">machtich</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">van roemen seer <rhyme label="b" type="m">tryomiant</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">aen hoert myn kermen <rhyme label="a" type="f" corresp="#s2:l1">klachtich</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">en doet my nu <rhyme label="b" type="m" corresp="#s2:l2">bystant</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">sent gelt goudt en <rhyme label="c" type="f">dukaeken</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">ruters soldaeten <rhyme label="d" type="m">mee</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">of Ick moet het lant <rhyme label="c" type="f" corresp="#s2:l5">voorlaeten</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">gelick de prinse van parma <rhyme label="d" type="m" corresp="#s2:l6">dee</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hoe en sou ick my niet <rhyme label="a" type="f">voorstoeren</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">sutueen die stee <rhyme label="b" type="m">vaeliant</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">die sleutel heeft hy <rhyme label="a" type="f" corresp="#s3:l1">voorlooren</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">vant gansche Geler <rhyme label="b" type="m" corresp="#s3:l2">lant</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">en deventer daer <rhyme label="c" type="f">naere</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">myn docht in mynen <rhyme label="d" type="m">sin</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">dat de stat onwinbaer <rhyme label="c" type="f" corresp="#s3:l5">waere</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Sy hebbense oock al <rhyme label="d" type="m" corresp="#s3:l6">in</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Doe quamen sy met <rhyme label="a" type="f">verrasse</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">In groeningerlant <rhyme label="b" type="m">sityt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">myn sterckte en <rhyme label="a" type="f" corresp="#s4:l1">fortresse</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">ben Ick geworden <rhyme label="b" type="m" corresp="#s4:l2">quit</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">al van delff syl de <rhyme label="c" type="f">vriese</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">maekense nu een <rhyme label="d" type="m">stee</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">sal Ick Groeninge oock <rhyme label="c" type="f" corresp="#s4:l5">voorliesen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Daer speelt de duiuel <rhyme label="d" type="m" corresp="#s4:l6">mee</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hoe qualick hy hem <rhyme label="a" type="f">bedochte</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">van sinnen heel <rhyme label="b" type="m">ontsteld</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Dathy geertruiten berch <rhyme label="a" type="f" corresp="#s5:l1">koechte</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">En gaf soe groeten <rhyme label="b" type="m" corresp="#s5:l2">gelt</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">nu is de gues <rhyme label="c" type="f">gekoemen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">een korten tyt daer <rhyme label="d" type="m">nae</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">met een turf schip in <rhyme label="c" type="f" corresp="#s5:l5">genoemen</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">die schoene stadt <rhyme label="d" type="m" corresp="#s5:l6">breedae</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Hemert sonder <rhyme label="a" type="f">letten</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">maeckte hy hem eerst <rhyme label="b" type="m">lof</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">daer meede hy <rhyme label="a" type="f" corresp="#s6:l1">ontsetten</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Huesden al by den <rhyme label="b" type="m" corresp="#s6:l2">bof</rhyme>  .</l>
+        <l id="s6:l5" met="3" type="-+">steen bergen roesen <rhyme label="c" type="f">daele</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">ter heyden de sterke <rhyme label="d" type="m">schans</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">hebben sy <rhyme label="c" type="f" corresp="#s6:l5">altemaele</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">geestreeken teender <rhyme label="d" type="m" corresp="#s6:l6">kans</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ist met een stout <rhyme label="a" type="f">beginne</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">van sulken jongen <rhyme label="b" type="m">quant</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">te koemen vallen <rhyme label="a" type="f" corresp="#s7:l1">inne</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">soe diep in <rhyme label="b" type="m" corresp="#s7:l2">vlaenderlant</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">ick sie dat sy niet en <rhyme label="c" type="f">schroeme</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">en sy hebben <rhyme label="d" type="m">ongeuraeckt</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">die stat huest in <rhyme label="c" type="f" corresp="#s7:l5">genoemen</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">my volck daer uit <rhyme label="d" type="m" corresp="#s7:l6">geuaecht</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">En dat Ick dat moet <rhyme label="a" type="f">lyden</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">myn Prinsen hart dat <rhyme label="b" type="m">schuert</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">men sietse daegelicks <rhyme label="a" type="f" corresp="#s8:l1">ryden</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">te gent al voer de <rhyme label="b" type="m" corresp="#s8:l2">poort</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">te dueren onder de <rhyme label="c" type="f">mueren</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">heel vlaenderen is <rhyme label="d" type="m">geschent</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Daer mach niet een koopman <rhyme label="c" type="f" corresp="#s8:l5">passere</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">van antwerpen nae <rhyme label="d" type="m" corresp="#s8:l6">gent</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Al wat hy plecht te <rhyme label="a" type="f">wensen</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">al won hyt metter <rhyme label="b" type="m">veert</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">hy was bij <rhyme label="a" type="f" corresp="#s9:l1">allemenschen</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">geacht en oeck <rhyme label="b" type="m" corresp="#s9:l2">geeert</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">in braebant hoerdemen <rhyme label="c" type="f">roupen</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">parmen seer <rhyme label="d" type="m">faeliant</rhyme></l>
+        <l id="s9:l7" met="3" type="-+">die kans is nu <rhyme label="c" type="f" corresp="#s9:l5">voerloepen</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">duis aes komt op de <rhyme label="d" type="m" corresp="#s9:l6">hant</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Koeninck pfilipes hoech <rhyme label="a" type="f">geseeten</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">heeft myn sin trou <rhyme label="b" type="m">dienaer</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">nu ganschelick <rhyme label="a" type="f" corresp="#s10:l1">voergeten</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Dat wort ick wel <rhyme label="b" type="m" corresp="#s10:l2">outwaer</rhyme></l>
+        <l id="s10:l5" met="3" type="-+">Ouer sijn ruiters en <rhyme label="c" type="f">knechten</rhyme></l>
+        <l id="s10:l6" met="3" type="-+">en hadde hy geen <rhyme label="d" type="m">gewelt</rhyme></l>
+        <l id="s10:l7" met="3" type="-+">Alsmen voer immaegen sou <rhyme label="c" type="f" corresp="#s10:l5">vechten</rhyme></l>
+        <l id="s10:l8" met="3" type="-+">soe riepen sij al om <rhyme label="d" type="m" corresp="#s10:l6">gelt</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Al doer Gebreck van <rhyme label="a" type="f">schyven</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Ist uit te denken <rhyme label="b" type="m">nu</rhyme></l>
+        <l id="s11:l3" met="3" type="-+">sal hy hem noch <rhyme label="a" type="f" corresp="#s11:l1">voerdryven</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">die graef al van <rhyme label="b" type="m" corresp="#s11:l2">naesou</rhyme></l>
+        <l id="s11:l5" met="3" type="-+">dus sal ick moeten <rhyme label="c" type="f">wyken</rhyme></l>
+        <l id="s11:l6" met="3" type="-+">en ruimen hem de <rhyme label="d" type="m">laen</rhyme></l>
+        <l id="s11:l7" met="3" type="-+">wie sach oeit dies <rhyme label="c" type="f" corresp="#s11:l5">gelyke</rhyme></l>
+        <l id="s11:l8" met="3" type="-+">hy moest scheiden van <rhyme label="d" type="m" corresp="#s11:l6">daer</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="-+">Ist niet swaer te <rhyme label="a" type="f">voordraegen</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">dat hem nu is <rhyme label="b" type="m">gebuert</rhyme></l>
+        <l id="s12:l3" met="3" type="-+">Ick machs myn wel <rhyme label="a" type="f" corresp="#s12:l1">beklagen</rhyme></l>
+        <l id="s12:l4" met="3" type="-+">Want my myn herte <rhyme label="b" type="m" corresp="#s12:l2">schuert</rhyme></l>
+        <l id="s12:l5" met="3" type="-+">Steenwick hebben sy al <rhyme label="c" type="f">gewonnen</rhyme></l>
+        <l id="s12:l6" met="3" type="-+">en kouuerden strecks daer <rhyme label="d" type="m">nae</rhyme></l>
+        <l id="s12:l7" met="3" type="-+">en Ick bent oeck <rhyme label="c" type="f" corresp="#s12:l5">ontkoemen</rhyme></l>
+        <l id="s12:l8" met="3" type="-+">uit vranckryck met groeten <rhyme label="d" type="m" corresp="#s12:l6">vaer</rhyme></l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="3" type="-+">Wilt gy my nu <rhyme label="a" type="f">voerlaeten</rhyme></l>
+        <l id="s13:l2" met="3" type="-+">soe wort ick gans <rhyme label="b" type="m">voorplet</rhyme></l>
+        <l id="s13:l3" met="3" type="-+">op weegen en op <rhyme label="a" type="f" corresp="#s13:l1">straeten</rhyme></l>
+        <l id="s13:l4" met="3" type="-+">en vint Ick geen <rhyme label="b" type="m" corresp="#s13:l2">ontset</rhyme></l>
+        <l id="s13:l5" met="3" type="-+">sent gelt met volle <rhyme label="c" type="f">kisten</rhyme></l>
+        <l id="s13:l6" met="3" type="-+">o koeninck fillipus <rhyme label="d" type="m">saen</rhyme></l>
+        <l id="s13:l7" met="3" type="-+">dat Ick die <rhyme label="c" type="f" corresp="#s13:l5">kaluinisten</rhyme></l>
+        <l id="s13:l8" met="3" type="-+">noch eens mach weeder <rhyme label="d" type="m" corresp="#s13:l6">staen</rhyme></l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="3" type="-+">O prinse van <rhyme label="a" type="f">Almanje</rhyme></l>
+        <l id="s14:l2" met="3" type="-+">pfilipus mynen <rhyme label="b" type="m">heer</rhyme></l>
+        <l id="s14:l3" met="3" type="-+">O koeninck van <rhyme label="a" type="f" corresp="#s14:l1">hispanien</rhyme></l>
+        <l id="s14:l4" met="3" type="-+">Ick ben in groet <rhyme label="b" type="m" corresp="#s14:l2">verseer</rhyme></l>
+        <l id="s14:l5" met="3" type="-+">Ick moet het nu <rhyme label="c" type="f">verloopen</rhyme></l>
+        <l id="s14:l6" met="3" type="-+">Haes op is nu de <rhyme label="d" type="m">lues</rhyme></l>
+        <l id="s14:l7" met="3" type="-+">Sent gelt met groete <rhyme label="c" type="f" corresp="#s14:l5">hoepen</rhyme></l>
+        <l id="s14:l8" met="3" type="-+">of mansvelt die wort <rhyme label="d" type="m" corresp="#s14:l6">gues</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

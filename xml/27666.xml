@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27666</id>
+    <date>
+      <year-start>1562</year-start>
+      <year-end>1599</year-end>
+    </date>
+    <location>
+      <orginal-name>vlaanderen (gent?)</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>Schoon jonkheertje heus en trouw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoon Ionckheerken hups en <rhyme label="a" type="f">trouwe</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Deesen beecker compt tot <rhyme label="b" type="m">dy</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Ick danck v edel schoon <rhyme label="a" type="f" corresp="#s1:l1">Ionckvrouwe</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Wasser maer v vriendtschap <rhyme label="b" type="m" corresp="#s1:l2">by</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Schoon Ionckheer hoe meendt ghy <rhyme label="c" type="m">dat</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">~Maer dat Ick v lieuer <rhyme label="c" type="m" corresp="#s1:l5">had</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Dan de wyn. mocht het <rhyme label="d" type="m">syn</rhyme>.</l>
+        <l id="s1:l8" met="2" type="+-">Tsoldt u <rhyme label="a" type="f" corresp="#s1:l1">Rouwen</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Nimmermeer v Liefste <rhyme label="d" type="m" corresp="#s1:l7">myn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Knaepken ghy syt soet ter <rhyme label="a" type="f">talen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Maer v hart is al te <rhyme label="b" type="m">loos</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Schoon Ionckvrou ten mach niet <rhyme label="a" type="f" corresp="#s2:l1">faelen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">tHart leyt op de tonge <rhyme label="b" type="m" corresp="#s2:l2">alttoos</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Ghy vrijt wel en meent het <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Schoon Ionckvrou dat waer my <rhyme label="c" type="m" corresp="#s2:l5">leet</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Wie ist greyn. ghy <rhyme label="d" type="m">alleyn</rhyme>.</l>
+        <l id="s2:l8" met="2" type="+-">tSal v <rhyme label="a" type="f" corresp="#s2:l1">faelen</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Dat en hoop ick niet <rhyme label="d" type="m" corresp="#s2:l7">certeyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Oft men v met <rhyme label="a" type="f">danckbaerheeden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">eenige courtosy <rhyme label="b" type="m">deed</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Alle mijnen tijdt soud ick <rhyme label="a" type="f" corresp="#s3:l1">besteeden</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Ofter yet mocht volgen <rhyme label="b" type="m" corresp="#s3:l2">meed</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Maer ghy soud v Roemen <rhyme label="c" type="m">seer</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Dat en doe ick <rhyme label="c" type="m" corresp="#s3:l5">nimmermeer</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">tWert gedaen . vande <rhyme label="d" type="m">quaen</rhyme>. ~</l>
+        <l id="s3:l8" met="2" type="+-">Sonder <rhyme label="a" type="f" corresp="#s3:l1">Reden</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Lieftken siet myn daer voor niet <rhyme label="d" type="m" corresp="#s3:l7">aen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Prinse wilt desen croes <rhyme label="a" type="f">aenvaten</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">En geeft altyt vroukens <rhyme label="b" type="m">prijs</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Ick danck v princes bouen <rhyme label="a" type="f" corresp="#s4:l1">maette</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">En sal volgen dyn <rhyme label="b" type="m" corresp="#s4:l2">aduys</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Drinckt dat wt ende blyft <rhyme label="c" type="m">gesondt</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Troest myn lieft ick ben <rhyme label="c" type="m" corresp="#s4:l5">doorwondt</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">Tis geen noott och tis <rhyme label="d" type="m">groot</rhyme></l>
+        <l id="s4:l8" met="2" type="+-">Watt cant <rhyme label="a" type="f" corresp="#s4:l1">baeten</rhyme></l>
+        <l id="s4:l9" met="4" type="+-">Een cusken voor v mondeling <rhyme label="d" type="m" corresp="#s4:l7">Root</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

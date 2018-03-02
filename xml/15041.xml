@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15041</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>thanks song</tag>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>De mei die komt ons bij zeer blij</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De Heer in zynen Throon,, seer <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Is groot in hoogheyt en in <rhyme label="b" type="m">Majesteyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En wonderlyck in macht,, en <rhyme label="c" type="m">kracht</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En cier'lyck toegerust met <rhyme label="b" type="m" corresp="#s1:l2">heerlyckheyt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Bedeckt en <rhyme label="d" type="m">toegereet</rhyme>,,</l>
+        <l id="s1:l6" met="3" type="-+">Met licht als met een <rhyme label="d" type="m" corresp="#s1:l5">kleet</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Hy heeft den Hemel <rhyme label="e" type="m">uytgereckt</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Als een gordyn So wyd die <rhyme label="f" type="m">zyn</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Mach <rhyme label="e" type="m" corresp="#s1:l7">uytgestreckt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die zyner salen boog,, <rhyme label="a" type="m">omhoog</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Met water welft; End' als een wagen <rhyme label="b" type="m">mend</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">De wolcken; End' de wind,, <rhyme label="c" type="m">geswind</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Bestuert, en vluchtig op haer vleugels <rhyme label="b" type="m" corresp="#s2:l2">rend</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">De wat'ren al te <rhyme label="d" type="m">mael</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Geset heeft eene <rhyme label="d" type="m" corresp="#s2:l5">pael</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Daer over zy niet mogen <rhyme label="e" type="m">gaen</rhyme>;</l>
+        <l id="s2:l8" met="4" type="+-">En daer op d'aerd',, seer vast <rhyme label="f" type="m">bewaerd</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Doet grondig <rhyme label="e" type="m" corresp="#s2:l7">staen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy heeft het gantsche jaer,, <rhyme label="a" type="m">voorwaer</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Tot dienst van zyne schepsel wel <rhyme label="b" type="m">geschickt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Want als de mensch vermuft,, <rhyme label="c" type="m">versuft</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Des Winters heeft  geseten als <rhyme label="b" type="m" corresp="#s3:l2">verstrickt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Naer't soete Lenten <rhyme label="d" type="m">gras</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Volgt't Somers soet <rhyme label="d" type="m" corresp="#s3:l5">gewas</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Aerd (seyd God) brengt u vruchten <rhyme label="e" type="m">voort</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Dat yder leef,, End' d'eere <rhyme label="f" type="m">geef</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">My so't <rhyme label="e" type="m" corresp="#s3:l7">behoort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den Herfst/ naer veel geducht, de <rhyme label="a" type="m">vrucht</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">In zyne schueren neerstiglyck op <rhyme label="b" type="m">gaerd</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die Godes milde hand,, het <rhyme label="c" type="m">Land</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Dan heeft gegeven elck na zynen <rhyme label="b" type="m" corresp="#s4:l2">aerd</rhyme>;</l>
+        <l id="s4:l5" met="3" type="-+">God segent d'hooge <rhyme label="d" type="m">locht</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Met warmt' en regens <rhyme label="d" type="m" corresp="#s4:l5">vocht</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">De locht weer d'aerd, en d'aerd den <rhyme label="e" type="m">mensch</rhyme>.</l>
+        <l id="s4:l8" met="4" type="+-">Och dat elck daer,, Voor danckbaer <rhyme label="f" type="m">waer</rhyme>,</l>
+        <l id="s4:l9" met="2" type="-+">'tGing ons naer <rhyme label="e" type="m" corresp="#s4:l7">wensch</rhyme>!</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">d'Ondanckbaerheyt die is,, <rhyme label="a" type="m">gewis</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">De oorsaeck waerom dat wy zyn <rhyme label="b" type="m">geplaegt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">End' dat de locht ons slaet,, met <rhyme label="c" type="m">quaet</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">End' d'aerd haer dampen na den Hemel <rhyme label="b" type="m" corresp="#s5:l2">jaegt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Die ongetempert <rhyme label="d" type="m">zyn</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Vol pest en vol <rhyme label="d" type="m" corresp="#s5:l5">fenyn</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Daer door men licht raeckt aen een <rhyme label="e" type="m">quael</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">Waer van,, men dan,, Niet komen <rhyme label="f" type="m">kan</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">Tot sijn <rhyme label="e" type="m" corresp="#s5:l7">verhael</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25113</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>Adieu mijn vreugde adieu solaas</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hed es natuere met v <rhyme label="a" type="m">solaes</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wijs listich es v <rhyme label="b" type="f">leere</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Al heb ic v wijs noch <rhyme label="c" type="m">gedient</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Tot god wil ic my <rhyme label="b" type="f" corresp="#s1:l2">keeren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ic heb gemint ic was <rhyme label="a" type="m">verblint</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Natuere en wouts niet <rhyme label="b" type="f">laten</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Doen ic tot minen gronde <rhyme label="c" type="m">quam</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Doe moest ict varen <rhyme label="b" type="f" corresp="#s2:l2">laten</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een knagen een wroegen ginc my <rhyme label="a" type="m">an</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Als ic mijns gronts neme <rhyme label="b" type="f">ware</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dat ic met herten heb <rhyme label="c" type="m">gemint</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat wil ic laten <rhyme label="b" type="f" corresp="#s3:l2">varen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och dat ic van hem ye <rhyme label="a" type="m">sciet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die my soe seere <rhyme label="b" type="f">minde</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">En heb gedaen natueren <rhyme label="c" type="m">raet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Geuolcht mier dommer <rhyme label="b" type="f" corresp="#s4:l2">sinne</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Soe waric ga soe waric <rhyme label="a" type="m">ben</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Altoes soe moetic <rhyme label="b" type="f">dinckcn</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Die god met al sier herten <rhyme label="c" type="m">mint</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Hem seluen hy hem moet <rhyme label="b" type="f" corresp="#s5:l2">scincken</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ic hebbe gemint den eertscen <rhyme label="a" type="m">troost</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Daer op gerust met <rhyme label="b" type="f">minnen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Geuolcht al mijnre <rhyme label="c" type="m">sinlicheit</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Hoe soudic god <rhyme label="b" type="f" corresp="#s6:l2">bekinnen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Och ihesus alder liefste <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Ic en wil v niet <rhyme label="b" type="f">verliesen</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Voer al dat in die weerelt <rhyme label="c" type="m">es</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Wil ic v wt <rhyme label="b" type="f" corresp="#s7:l2">uerkiesen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

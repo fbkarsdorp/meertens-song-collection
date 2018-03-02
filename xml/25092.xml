@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25092</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>holy song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ghi sijt daert alle tijt es <rhyme label="a" type="m">mey</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">O minnere der drie <rhyme label="b" type="f">persone</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Verheuen inder yngelen <rhyme label="a" type="m" corresp="#s1:l1">rey</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Met sonderlingen <rhyme label="b" type="f" corresp="#s1:l2">lone</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ic aensie vore ende <rhyme label="a" type="m">nae</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Alder heilegen <rhyme label="b" type="f">leuen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Soe en quam nie geen soe hogen <rhyme label="a" type="m" corresp="#s2:l1">stae</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Daer ic af vinde <rhyme label="b" type="f" corresp="#s2:l2">bescreuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die ewangelist scrift <rhyme label="a" type="m">openbaer</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Als wi lesen en <rhyme label="b" type="f">singen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Dat hi dach inder sonnen <rhyme label="a" type="m" corresp="#s3:l1">claer</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Neer comen dan anderen <rhyme label="b" type="f" corresp="#s3:l2">ingel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En quam nie heilich <rhyme label="a" type="m">ouerwaer</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Tot soe grooter <rhyme label="b" type="f">eeren</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Dat hi heymelic oft <rhyme label="a" type="m" corresp="#s4:l1">openbaer</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Die .v. wonden droech ons <rhyme label="b" type="f" corresp="#s4:l2">heeren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dan alleen die ingelsche <rhyme label="a" type="m">man</rhyme>.</l>
+        <l id="s5:l2" met="3" type="-+">Franciscus als ic <rhyme label="b" type="f">bekinne</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Vut den seraph die tot hem <rhyme label="a" type="m" corresp="#s5:l1">quam</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Dat dede sijn groote <rhyme label="b" type="f" corresp="#s5:l2">minne</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die minne was seker <rhyme label="a" type="m">groot</rhyme>.</l>
+        <l id="s6:l2" met="3" type="-+">Dat hi droech ten cruce ons <rhyme label="b" type="f">heren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Daer om twee iaer vor sine <rhyme label="a" type="m" corresp="#s6:l1">doot</rhyme>.</l>
+        <l id="s6:l4" met="3" type="-+">Wouden god hier met <rhyme label="b" type="f" corresp="#s6:l2">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O rose roet geeft ons v <rhyme label="a" type="m">hant</rhyme>.</l>
+        <l id="s7:l2" met="3" type="-+">O ingel der <rhyme label="b" type="f">genaden</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Trect ons in dat hemels <rhyme label="a" type="m" corresp="#s7:l1">lant</rhyme>.</l>
+        <l id="s7:l4" met="3" type="-+">En wilt ons niet <rhyme label="b" type="f" corresp="#s7:l2">versmaden</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">O lielie wit o claer <rhyme label="a" type="m">fonteyne</rhyme>.</l>
+        <l id="s8:l2" met="3" type="-+">Ghi vloeyt tallen <rhyme label="b" type="f">boerden</rhyme>.</l>
+        <l id="s8:l3" met="4" type="-+">Ghi sijt suuer ende <rhyme label="a" type="m" corresp="#s8:l1">reyne</rhyme>.</l>
+        <l id="s8:l4" met="3" type="-+">Vol godliker <rhyme label="b" type="f" corresp="#s8:l2">woerden</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">O violette doer v <rhyme label="a" type="m">oetmoet</rhyme>.</l>
+        <l id="s9:l2" met="3" type="-+">In v soe staet mijn <rhyme label="b" type="f">hopen</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Wi souden alle waren wi <rhyme label="a" type="m" corresp="#s9:l1">vroet</rhyme>.</l>
+        <l id="s9:l4" met="3" type="-+">Tot uwer genaden <rhyme label="b" type="f" corresp="#s9:l2">lopen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Al ons couent beuelic <rhyme label="a" type="m">v</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">O bloeme scoen van <rhyme label="b" type="f">goude</rhyme>.</l>
+        <l id="s10:l3" met="4" type="-+">En can v niet vollouen <rhyme label="a" type="m" corresp="#s10:l1">nv</rhyme>.</l>
+        <l id="s10:l4" met="3" type="-+">U doget staet <rhyme label="b" type="f" corresp="#s10:l2">menichfoude</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

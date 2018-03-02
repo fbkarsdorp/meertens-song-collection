@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26945</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Mijn zinnetjes zijn mij doortogen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Meins synnekens seintt mir d <rhyme label="a" type="f">rchtogenn</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">von einer so schoner J nckfraw <rhyme label="b" type="m">fein</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Sei th itt mir pein jn den a <rhyme label="a" type="f" corresp="#s1:l1">gen</rhyme> /</l>
+        <l id="s1:l4" met="4" type="-+">Sie ist die allerliebste <rhyme label="b" type="m" corresp="#s1:l2">mein</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">Vmb jhr so will ich <rhyme label="c" type="f">wagenn</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">mein leib vnnd a ch mein g <rhyme label="d" type="m">ett</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">Vnnd laten fr ndt vnnd <rhyme label="c" type="f" corresp="#s1:l5">magenn</rhyme> /</l>
+        <l id="s1:l8" met="4" type="-+">vnnd schencken jhr meins hertzenn <rhyme label="d" type="m" corresp="#s1:l6">bloitt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die liebste mag ich wol <rhyme label="a" type="f">schreiben</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">d rch v bilde <rhyme label="b" type="m">schon</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">wantt bo en allenn <rhyme label="a" type="f" corresp="#s2:l1">weibenn</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">Spandtt jr jm hertzen der mynnenn <rhyme label="b" type="m" corresp="#s2:l2">kron</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">Sei steitt jn mein <rhyme label="c" type="f">behagenn</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">Vff ir so r st mein <rhyme label="d" type="m">moitt</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">Des will ich ir liebde <rhyme label="c" type="f" corresp="#s2:l5">dragenn</rhyme> /</l>
+        <l id="s2:l8" met="4" type="-+">Vnnd schencken ihr meins hertzen <rhyme label="d" type="m" corresp="#s2:l6">bloitt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Zweiffell gibtt mir die <rhyme label="a" type="f">nopen</rhyme> /</l>
+        <l id="s3:l2" met="4" type="-+">angst vnnd s chten ist my <rhyme label="b" type="m">bei</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">Nach ihr steitt all mein <rhyme label="a" type="f" corresp="#s3:l1">hopen</rhyme> /</l>
+        <l id="s3:l4" met="4" type="-+">Des moß ich sein von hertzen <rhyme label="b" type="m" corresp="#s3:l2">bly</rhyme> /</l>
+        <l id="s3:l5" met="3" type="-+">mein sinne kanstsei  hieher <rhyme label="c" type="f">jagen</rhyme>  /</l>
+        <l id="s3:l6" met="3" type="-+">Die mich s chten th <rhyme label="d" type="m">itt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">All soltt sei mich d ck <rhyme label="c" type="f" corresp="#s3:l5">plagen</rhyme> /</l>
+        <l id="s3:l8" met="4" type="-+">Jch mos ir schencken meins hertzen <rhyme label="d" type="m" corresp="#s3:l6">bloitt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25240</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>O salutaris hostia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Woort comende van bouen <rhyme label="a" type="m">neer</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">vuijt den vader gecomen <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">die den werelt door v <rhyme label="b" type="m">geboort</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">in haer verloopen geeft <rhyme label="b" type="m" corresp="#s1:l3">confoort</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Verlicht ons herten van <rhyme label="a" type="m">binnen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">en doet branden met v <rhyme label="a" type="m" corresp="#s2:l1">minnen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">op, als sij hooren uwen <rhyme label="b" type="m">loff</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">van haer verdrijuen swerels <rhyme label="b" type="m" corresp="#s2:l3">stoff</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als ghij sult comen rechter <rhyme label="a" type="m">straff</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">te ondersoecken werelts <rhyme label="a" type="m" corresp="#s3:l1">caff</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">en nae de werken geuen <rhyme label="b" type="m">loen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">oock den goeden de ewich <rhyme label="b" type="m" corresp="#s3:l3">croen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dan wij met quaet niet zijn <rhyme label="a" type="m">belaen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">noch met ons sonden dreck <rhyme label="a" type="m" corresp="#s4:l1">begaen</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">maer v heijligen wel <rhyme label="b" type="m">gelijck</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">mogen salich sijn <rhyme label="b" type="m" corresp="#s4:l3">ewelijck</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Loff, glorij, eer, danckbaerheijt <rhyme label="a" type="m">groet</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">sij godt den vader, oock soen <rhyme label="a" type="m" corresp="#s5:l1">vroet</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">met den heijligen geest <rhyme label="b" type="m">geree</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">die ons wil gunnen ewich <rhyme label="b" type="m" corresp="#s5:l3">vree</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

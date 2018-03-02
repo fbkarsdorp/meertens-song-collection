@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27012</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Schonn bin ich nitt mein hochster <rhyme label="a" type="m">hortt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Laß mich des nitt <rhyme label="b" type="f">entgeltenn</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Lieb geitt f r schonn / an mannichem <rhyme label="a" type="m" corresp="#s1:l1">ortt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">Dar mb will ich nitt <rhyme label="b" type="f" corresp="#s1:l2">scheltenn</rhyme> /</l>
+        <l id="s1:l5" met="2" type="-+">Lieb <rhyme label="c" type="m">vberwintt</rhyme> /</l>
+        <l id="s1:l6" met="2" type="-+">mannich fre ndtlich <rhyme label="c" type="m" corresp="#s1:l5">kindtt</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">Th itt nach der lieb nitt <rhyme label="d" type="f">fragenn</rhyme> /</l>
+        <l id="s1:l8" met="2" type="-+">Lieb machtt groß fre <rhyme label="e" type="m">dtt</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">Hor ich <rhyme label="e" type="m" corresp="#s1:l8">altzeitt</rhyme> /</l>
+        <l id="s1:l10" met="3" type="-+">Bei allenn meinen <rhyme label="d" type="f" corresp="#s1:l7">tagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Schonn bin ich nitt achtt daß gar <rhyme label="a" type="m">klein</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">Lieb th ett all dinck <rhyme label="b" type="f">bezwingenn</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">wo lieb nitt ist / mitt trewem <rhyme label="a" type="m" corresp="#s2:l1">schein</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Dar th itt die lieb <rhyme label="b" type="f" corresp="#s2:l2">mißlingenn</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">Dan lieb <rhyme label="c" type="m">bogertt</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">sein <rhyme label="c" type="m" corresp="#s2:l5">vnnerkertt</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">Daß magst  woll <rhyme label="d" type="f">ermessenn</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">Lieb machtt gr ß g <rhyme label="e" type="m">nst</rhyme> /</l>
+        <l id="s2:l9" met="2" type="-+">a ß hertzenn br <rhyme label="e" type="m" corresp="#s2:l8">nst</rhyme> /</l>
+        <l id="s2:l10" met="3" type="-+">hastu mein hertz <rhyme label="d" type="f" corresp="#s2:l7">besessenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Schonn bin ich nitt / hor das gar <rhyme label="a" type="m">vill</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">daran ist nitt <rhyme label="b" type="f">gelegenn</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Lieb holtsehelich / das machtt g ett  <rhyme label="a" type="m" corresp="#s3:l1">spill</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Der heimlich mag lieb <rhyme label="b" type="f" corresp="#s3:l2">pflegenn</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">Jn diesser <rhyme label="c" type="m">weltt</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">Das selden <rhyme label="c" type="m" corresp="#s3:l5">feltt</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">Lieb th itt der schonn <rhyme label="d" type="f">vergessenn</rhyme> /</l>
+        <l id="s3:l8" met="2" type="-+">des trost ich <rhyme label="e" type="m">mich</rhyme> /</l>
+        <l id="s3:l9" met="2" type="-+">bin dir fre <rhyme label="e" type="m" corresp="#s3:l8">ndtlich</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">d  werdest das <rhyme label="d" type="f" corresp="#s3:l7">ermessenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

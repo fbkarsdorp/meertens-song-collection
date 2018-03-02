@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35532</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>passing song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Tantum ergo Sacramentum</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Of treckt tot u al mijn <rhyme label="a" type="f">sinnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Macht, en wil, en <rhyme label="b" type="m">verstandt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Dat ick overdenck de <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die u heeft aen't Cruys <rhyme label="b" type="m" corresp="#s1:l2">gheplant</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">En mach voelen eens van <rhyme label="a" type="f" corresp="#s1:l1">binnen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hoe uw' liefde heeft <rhyme label="b" type="m" corresp="#s1:l2">ghebrant</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

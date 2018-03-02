@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29978</id>
+    <date>
+      <year-start>1451</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden?</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Hoe lustelijk is ons de koele mei gedaan</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hoe lustelick is ons die cole mey <rhyme label="a" type="m">ontdaen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">het spruten uut die blomen <rhyme label="b" type="f">mennigerley</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">soe wie mit druck mit liden is <rhyme label="a" type="m" corresp="#s1:l1">bevaen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">in jhesus wonden mach hi hem gaen <rhyme label="b" type="f" corresp="#s1:l2">vermeyen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Nu  synt des meye telgen <rhyme label="a" type="m">uutgespreit</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">ende bloyen schoen gelyc den rode <rhyme label="b" type="f">rosen</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">soe wie syn sunden hier <rhyme label="a" type="m" corresp="#s2:l1">bescreit</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">onder desen boem sal hi hem gaen <rhyme label="b" type="f" corresp="#s2:l2">vercoelen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Die edel nachtegael des cruces boem <rhyme label="a" type="m">opvloch</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">ende hevet syn vederen alsoe wide <rhyme label="b" type="f">opgelaken</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">hi sanck soe lude die soeven noten <rhyme label="a" type="m" corresp="#s3:l1">hoege</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">soe dat syn suete harte is <rhyme label="b" type="f" corresp="#s3:l2">gebraken</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Soe wie dat in desen onstadigen <rhyme label="a" type="m">dale</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">syn liefte set in <rhyme label="b" type="f">creatueren</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">die merke an desen <rhyme label="a" type="m" corresp="#s4:l1">nachtegael</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">hoe hi den doet om onse wille wolde <rhyme label="b" type="f" corresp="#s4:l2">lijden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Hy henck  gespreit mit syne arme <rhyme label="a" type="m">tot</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">om vrintlick omme te <rhyme label="b" type="f">bevangen</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">die edel ziele syn alre liefte <rhyme label="a" type="m" corresp="#s5:l1">bruut</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">och lacy en wolde sie hem niet <rhyme label="b" type="f" corresp="#s5:l2">ontgangen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

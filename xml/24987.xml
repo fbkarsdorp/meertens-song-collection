@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24987</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>moralistic song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Mich ervruyt eyne reyne <rhyme label="a" type="m">vrucht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die ich in gansen truwe <rhyme label="b" type="f">meyne</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Mit haren bliden <rhyme label="c" type="m">aenghesicht</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Heb ich anxt, vrese ofte <rhyme label="a" type="m" corresp="#s1:l1">ducht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Das betzert ze <rhyme label="b" type="f" corresp="#s1:l2">alleyne</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wye vyl dueghens is in <rhyme label="c" type="m" corresp="#s1:l3">mich</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Wan si wille, is verre <rhyme label="c" type="m" corresp="#s1:l3">wijch</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Bernende staen yr oghen <rhyme label="a" type="m">claer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Lachende yr tsarte <rhyme label="b" type="f">mont</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wael voecht haer yr wijflijch <rhyme label="c" type="m">aert</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Die doghet, die haer volget <rhyme label="a" type="m" corresp="#s2:l1">naer</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Kan ich uch niet machen <rhyme label="b" type="f" corresp="#s2:l2">kont</rhyme>;</l>
+        <l id="s2:l6" met="4" type="+-">Sy is mi in dem moyt so <rhyme label="c" type="m" corresp="#s2:l3">haert</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Wie men si loeft, si duncts mi <rhyme label="c" type="m" corresp="#s2:l3">waert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Haer wijflijch bilde hayt mit <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Besessen al mijns zinnes <rhyme label="b" type="f">pas</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Helf mir, troyst, want an dyr <rhyme label="c" type="m">staet</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">Ondaet nedert si mit <rhyme label="a" type="m" corresp="#s3:l1">macht</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Haer wijflich duegt, die in yr <rhyme label="b" type="f" corresp="#s3:l2">is</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Die mach mich wal geven <rhyme label="c" type="m" corresp="#s3:l3">baet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Wie truerentlijche dat mir <rhyme label="c" type="m" corresp="#s3:l3">gayt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Venus vrouw, der minnen <rhyme label="a" type="m">slot</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Want du dem menneghen haes <rhyme label="b" type="f">ontladen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Unde gebracht uus commer <rhyme label="c" type="m">zwaer</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Met vrien wil doen ich dijn <rhyme label="a" type="m" corresp="#s4:l1">bot</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Helf mir, das ich werde <rhyme label="b" type="f" corresp="#s4:l2">beraden</rhyme>!</l>
+        <l id="s4:l6" met="4" type="+-">'t Ertz mijn das leget in <rhyme label="c" type="m" corresp="#s4:l3">zwere</rhyme>;</l>
+        <l id="s4:l7" met="4" type="+-">Nu troest mich cort mit diner <rhyme label="c" type="m" corresp="#s4:l3">mere</rhyme>!</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Moyt, siin, ziel unde <rhyme label="a" type="m">lijf</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">So wes mir yst besceert van <rhyme label="b" type="f">gode</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Kerich aen dich, werde <rhyme label="c" type="m">guede</rhyme>!</l>
+        <l id="s5:l4" met="4" type="-+">Bedenche das, vri edel <rhyme label="a" type="m" corresp="#s5:l1">wijf</rhyme>!</l>
+        <l id="s5:l5" met="4" type="-+">Du byst mijn troest in weelde, in <rhyme label="b" type="f" corresp="#s5:l2">noede</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Unde also haert in minen <rhyme label="c" type="m" corresp="#s5:l3">muede</rhyme>.</l>
+        <l id="s5:l7" met="4" type="+-">Och, oft alzo mittyr <rhyme label="c" type="m" corresp="#s5:l3">stuede</rhyme>!</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Venus sprach: la dyr <rhyme label="a" type="m">ghenoegen</rhyme>!</l>
+        <l id="s6:l2" met="4" type="-+">Wie minre is van rechter <rhyme label="b" type="f">aert</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ich byn altoes t'sinen <rhyme label="c" type="m">besten</rhyme>.</l>
+        <l id="s6:l4" met="4" type="-+">Gestedich, reyn sulder uch <rhyme label="a" type="m" corresp="#s6:l1">voegen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Mitter daet; hijrmet <rhyme label="b" type="f" corresp="#s6:l2">volvaert</rhyme>!</l>
+        <l id="s6:l6" met="4" type="+-">Pijnt uch alle duecht te <rhyme label="c" type="m" corresp="#s6:l3">vesten</rhyme>,</l>
+        <l id="s6:l7" met="4" type="+-">Werct hierna, ets baet te <rhyme label="c" type="m" corresp="#s6:l3">lesten</rhyme>!</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Sijt ghetruwe unde <rhyme label="a" type="m">warachtich</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Unde hout uwe woerde <rhyme label="b" type="f">ghestade</rhyme>!</l>
+        <l id="s7:l3" met="4" type="-+">Dat sint punte van gueter <rhyme label="c" type="m">eeren</rhyme>;</l>
+        <l id="s7:l4" met="4" type="-+">Uwer sinnen suldir wesen <rhyme label="a" type="m" corresp="#s7:l1">mechtich</rhyme>!</l>
+        <l id="s7:l5" met="4" type="-+">Ets wijsheyt, das ich uch <rhyme label="b" type="f" corresp="#s7:l2">rade</rhyme>.</l>
+        <l id="s7:l6" met="4" type="+-">Wye si siin, diegene die't <rhyme label="c" type="m" corresp="#s7:l3">leren</rhyme>,</l>
+        <l id="s7:l7" met="4" type="+-">In duegden sullen sij <rhyme label="c" type="m" corresp="#s7:l3">meren</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Hier comdi mede in hoger <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">U lof das sal in eeren <rhyme label="b" type="f">risen</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Daer men uch kant onder die <rhyme label="c" type="m">guede</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Om das, dat ghyr minen <rhyme label="a" type="m" corresp="#s8:l1">raet</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Gheloeft, ic sal u d'beste <rhyme label="b" type="f" corresp="#s8:l2">wesen</rhyme>.</l>
+        <l id="s8:l6" met="4" type="+-">Hayt voer groys beroemen <rhyme label="c" type="m" corresp="#s8:l3">hoede</rhyme>,</l>
+        <l id="s8:l7" met="4" type="+-">Wantet nie mensch wol en <rhyme label="c" type="m" corresp="#s8:l3">stoede</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

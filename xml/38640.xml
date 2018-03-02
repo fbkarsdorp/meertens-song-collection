@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38640</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Van Rosalia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Nymphjens van de groene <rhyme label="a" type="f">hoven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wilt met my de Roosiens <rhyme label="a" type="f" corresp="#s1:l1">loven</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Noyt men schoonder planten <rhyme label="b" type="m">vond'</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Flora de goddin der <rhyme label="c" type="f">bloemen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Comt den roem der Roosen <rhyme label="c" type="f" corresp="#s1:l4">roemen</rhyme>?</l>
+        <l id="s1:l6" met="4" type="+-">'K meen mijn schoone <rhyme label="b" type="m" corresp="#s1:l3">Rosamond'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Rosamont heeft roode <rhyme label="a" type="f">rosen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die op witte kaecken <rhyme label="a" type="f" corresp="#s2:l1">blosen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Van Natura haer <rhyme label="b" type="m">ghejont</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Gheen ghewas en kan my <rhyme label="c" type="f">dinen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Soet is den reuck van <rhyme label="c" type="f" corresp="#s2:l4">Iesaminen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Soeter geur heeft <rhyme label="b" type="m" corresp="#s2:l3">Rosamont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Om haer hooft als stralen, <rhyme label="a" type="f">rollen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Blonde hairen goude <rhyme label="a" type="f" corresp="#s3:l1">crollen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Blancke borstjens <rhyme label="b" type="m">poesel-ront</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Praxcetiles heeft noyt <rhyme label="c" type="f">leden</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Vyt yvoir soo schoon <rhyme label="c" type="f" corresp="#s3:l4">besneden</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Als mijn weerde <rhyme label="b" type="m" corresp="#s3:l3">Rosamont</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Cond' Apelles wel <rhyme label="a" type="f">afmalen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Vruchten, daer natuer haer <rhyme label="a" type="f" corresp="#s4:l1">palen</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Noyt soo diep had <rhyme label="b" type="m">inghegront</rhyme>.</l>
+        <l id="s4:l4" met="4" type="+-">Even-wel noyt const ten toon,, <rhyme label="c" type="f">leyt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Die uyt-munten sulcken schoon,, <rhyme label="c" type="f" corresp="#s4:l4">heyt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Als de schoone <rhyme label="b" type="m" corresp="#s4:l3">Rosamont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Vrindelijcke <rhyme label="a" type="f">maeghde-wanghen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Die het hertjen doen <rhyme label="a" type="f" corresp="#s5:l1">verlanghen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Van die stets in liefde <rhyme label="b" type="m">gloyt</rhyme>.</l>
+        <l id="s5:l4" met="4" type="+-">Noyt vol-presen hemels <rhyme label="c" type="f">wesen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Wilt my van de min <rhyme label="c" type="f" corresp="#s5:l4">ghenesen'</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Daer mijn jeught wort mé <rhyme label="b" type="m" corresp="#s5:l3">gheboyt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Rust mijn lammers lieve <rhyme label="a" type="f">schaepen</rhyme>?</l>
+        <l id="s6:l2" met="4" type="+-">Die gaen met de Roosiens <rhyme label="a" type="f" corresp="#s6:l1">slapen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Daer ick slaep noch rust <rhyme label="b" type="m">gheniet</rhyme>.</l>
+        <l id="s6:l4" met="4" type="+-">Herderin aenhoort mijn <rhyme label="c" type="f">clachten</rhyme>?</l>
+        <l id="s6:l5" met="4" type="+-">Waer ick mé vol-eynd' mijn <rhyme label="c" type="f" corresp="#s6:l4">nachten</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Dat om uwen't wil <rhyme label="b" type="m" corresp="#s6:l3">gheschiet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

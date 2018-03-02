@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32982</id>
+    <date>
+      <year-start>1695</year-start>
+      <year-end>1695</year-end>
+    </date>
+    <location>
+      <orginal-name>[antwerpen]</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>scenic song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gehult, gebult, van alle <rhyme label="a" type="f">kanten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Krom en slom, van 't hooft tot de <rhyme label="b" type="m">voet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Teene, beene, knien, en <rhyme label="a" type="f" corresp="#s1:l1">wanten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Een aensicht dat my schricken <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Neus, en oogen, mont, en <rhyme label="c" type="f">ooren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Druypendt, leependt, sijn <rhyme label="d" type="m">gesmert</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Heel mismaeckt van achter en <rhyme label="c" type="f" corresp="#s1:l5">voren</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Is desen quant geen liefde <rhyme label="d" type="m" corresp="#s1:l6">wert</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

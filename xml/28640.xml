@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28640</id>
+    <date>
+      <year-start>1560</year-start>
+      <year-end>1560</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>battle song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ia christum heeft hij nv vast <rhyme label="a" type="m">gheleijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In ijseren slooten soo men <rhyme label="a" type="m" corresp="#s1:l1">seijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Als men hem ghelt gheeft met <rhyme label="b" type="f">hoopen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Moet chistus altijt sijn <rhyme label="a" type="m" corresp="#s1:l1">bereijt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Die sielen te laeten <rhyme label="b" type="f" corresp="#s1:l3">loopen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hij seijt god heeft gemaect die <rhyme label="a" type="m">oorbiecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daer hij [-d..] doch valschelijck aen <rhyme label="a" type="m" corresp="#s2:l1">liecht</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Hij heeftse self <rhyme label="b" type="f">geuonden</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Want hij die menschen daer doer <rhyme label="a" type="m" corresp="#s2:l1">bedriecht</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En om dat ghelt vergheeft haer <rhyme label="b" type="f" corresp="#s2:l3">sonden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sijn boosheijt heeft hij daer doer <rhyme label="a" type="m">gewrocht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En menighe vrouwe ter schanden <rhyme label="a" type="m" corresp="#s3:l1">ghebrocht</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Want sij clagen haer <rhyme label="b" type="f">ghebreken</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Och dochter Ick heb mij alsoe <rhyme label="a" type="m" corresp="#s3:l1">bedacht</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Ick moet v alleen wat <rhyme label="b" type="f" corresp="#s3:l3">spreken</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dese sonden acht die paus soe <rhyme label="a" type="m">slecht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Daer om verbiet hij sijn geschoren <rhyme label="a" type="m" corresp="#s4:l1">decht</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Die es die mensche der <rhyme label="b" type="f">sonden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Daer sinte pauwels af heeft <rhyme label="a" type="m" corresp="#s4:l1">gesecht</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dat wordt nv wel <rhyme label="b" type="f" corresp="#s4:l3">beuonden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit es den rechten <rhyme label="a" type="m">antekerst</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die sweet en bloet den armen <rhyme label="a" type="m" corresp="#s5:l1">vuijtperst</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Met bannen ende met <rhyme label="b" type="f">Iaghen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Nv Is hij ghevallen dat hij <rhyme label="a" type="m" corresp="#s5:l1">berst</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">God dij wil hem niet langer <rhyme label="b" type="f" corresp="#s5:l3">verdragen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ick bid v vader <rhyme label="a" type="m">ghebenedijt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Dat ghij hem doch genadich <rhyme label="a" type="m" corresp="#s6:l1">zijt</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">En wilt hem gracie <rhyme label="b" type="f">gheuen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Op dat hij sijn sonden eens <rhyme label="a" type="m" corresp="#s6:l1">belijt</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">En eeuwich met v mach <rhyme label="b" type="f" corresp="#s6:l3">leuen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

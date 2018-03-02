@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23040</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hi is, en Hi is, die appel al van <rhyme label="a" type="f">garnaten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die gaende is boven alle <rhyme label="a" type="f" corresp="#s1:l1">smaken</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Hij is die soete <rhyme label="b" type="m">eghelentier</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Och lieflijc lief, ghedenct mijns al bin <rhyme label="b" type="m" corresp="#s1:l3">hier</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hi is, en Hi is, die soete <rhyme label="a" type="f">notemusscaet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hi is daer ic my selven om <rhyme label="a" type="f" corresp="#s2:l1">laet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die werelt ende al haer <rhyme label="b" type="m">toebehoeren</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Hij is mijn Lief, mijn <rhyme label="b" type="m" corresp="#s2:l3">Uitvercoren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

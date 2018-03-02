@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38701</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Amaryllis je renonce à vos charmes</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ick staen verstelt mijn hert is schier <rhyme label="a" type="f">besweken</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Als ick u weerde trouw heb <rhyme label="b" type="m">overdacht</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Wat wil ick meer van u AEnea <rhyme label="a" type="f" corresp="#s1:l1">spreken</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Dat ghy u Vaer hebt uyt het vier <rhyme label="b" type="m" corresp="#s1:l2">ghebracht</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Mijn lief die draeght my <rhyme label="c" type="m">schier</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Door all' <rhyme label="d" type="f">ellenden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Wanneer het nijders <rhyme label="c" type="m" corresp="#s1:l5">vier</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Mijn eer wilt <rhyme label="d" type="f" corresp="#s1:l6">schenden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Sy is de ziel, den adem van mijn <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Den blijden gheest van mijn verdruckt <rhyme label="b" type="m">ghemoet</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Kon ick u loon naer u verdiensten <rhyme label="a" type="f" corresp="#s2:l1">gheven</rhyme>?</l>
+        <l id="s2:l4" met="5" type="-+">Maer peyst eens wat de liefde niet en <rhyme label="b" type="m" corresp="#s2:l2">doet</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Want dit betoonden <rhyme label="c" type="m">wel</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Orphei <rhyme label="d" type="f">dalen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Die in de droeve <rhyme label="c" type="m" corresp="#s2:l5">hel</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Sijn Bruydt quam <rhyme label="d" type="f" corresp="#s2:l6">halen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

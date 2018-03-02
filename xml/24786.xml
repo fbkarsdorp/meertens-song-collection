@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24786</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>dialog song</tag>
+    </tags>
+    <melody>Een wijf van reine zeden</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een wijf van reinen <rhyme label="a" type="f">zeden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Vulmaect van allen <rhyme label="a" type="f" corresp="#s1:l1">leden</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hovesch ende <rhyme label="b" type="m">vroet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die heift mi <rhyme label="a" type="f" corresp="#s1:l1">ghebeiden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">In <rhyme label="a" type="f" corresp="#s1:l1">ghestadicheiden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Te vougene hertze ende <rhyme label="b" type="m" corresp="#s1:l3">moet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Quaet aeste es al <rhyme label="b" type="m" corresp="#s1:l3">ontspoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doe seidic werde <rhyme label="a" type="f">vrouwe</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghestadich ende <rhyme label="a" type="f" corresp="#s2:l1">ghetrauwe</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">So willic emmer <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Up dat ic trauwe <rhyme label="a" type="f" corresp="#s2:l1">gelauwe</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Nu blivic in den <rhyme label="a" type="f" corresp="#s2:l1">rauwe</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Men doet mi geene <rhyme label="b" type="m" corresp="#s2:l3">anscijn</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Verlangen doet mi <rhyme label="b" type="m" corresp="#s2:l3">pijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dat wijf van herten <rhyme label="a" type="f">reine</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die sprac die minne es <rhyme label="a" type="f" corresp="#s3:l1">cleine</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Die verlangen <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mindi anders <rhyme label="a" type="f" corresp="#s3:l1">geine</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">So blijft met haer <rhyme label="a" type="f" corresp="#s3:l1">ghemeine</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Gheift u in haer <rhyme label="b" type="m" corresp="#s3:l3">behoet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Quaet aeste es al <rhyme label="b" type="m" corresp="#s3:l3">onspoet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Vrauwe in caent <rhyme label="a" type="f">gelaten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Als soudser mi omme <rhyme label="a" type="f" corresp="#s4:l1">haten</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">So heift de hertze <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ic truere boven <rhyme label="a" type="f" corresp="#s4:l1">maten</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Ic claghe en mach mi <rhyme label="a" type="f" corresp="#s4:l1">baten</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Niet een <rhyme label="b" type="m" corresp="#s4:l3">vingerlijn</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Verlangen doet mi <rhyme label="b" type="m" corresp="#s4:l3">pijn</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Si sprac ghi sult u <rhyme label="a" type="f">houden</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Vroilic ende <rhyme label="a" type="f" corresp="#s5:l1">verbouden</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Inder minnen <rhyme label="b" type="m">gloet</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al souddi u <rhyme label="a" type="f" corresp="#s5:l1">bescouden</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ne latet niet <rhyme label="a" type="f" corresp="#s5:l1">vercouden</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Na tzuere comet <rhyme label="b" type="m" corresp="#s5:l3">tzoet</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Quaet aeste es al <rhyme label="b" type="m" corresp="#s5:l3">ontspoet</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Doe andwordic <rhyme label="a" type="f">hare</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Bi den goeden <rhyme label="a" type="f" corresp="#s6:l1">jare</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Ic ben een arem <rhyme label="b" type="m">swijn</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">So waer ic henen <rhyme label="a" type="f" corresp="#s6:l1">vare</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">In werde niet <rhyme label="a" type="f" corresp="#s6:l1">geware</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">An haer alsulken <rhyme label="b" type="m" corresp="#s6:l3">fijn</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Verlangen doet mi <rhyme label="b" type="m" corresp="#s6:l3">pijn</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Hi sprac die wil <rhyme label="a" type="f">becliven</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">In te minnene <rhyme label="a" type="f" corresp="#s7:l1">wiven</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Die wachte na de <rhyme label="b" type="m">vloet</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Ende doe sijn sceipkin <rhyme label="a" type="f" corresp="#s7:l1">driven</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Laettijt te lange <rhyme label="a" type="f" corresp="#s7:l1">bliven</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">En doet hem nummer <rhyme label="b" type="m" corresp="#s7:l3">goet</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Quaet aeste es al <rhyme label="b" type="m" corresp="#s7:l3">ontspoet</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Nu laet ons wachten <rhyme label="a" type="f">alle</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Als ons de tijt <rhyme label="a" type="f" corresp="#s8:l1">gevalle</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">So wilwi wacker <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Dat men ons niet <rhyme label="a" type="f" corresp="#s8:l1">vergalle</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">Die tpaert heift binden <rhyme label="a" type="f" corresp="#s8:l1">stalle</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Verware sijn <rhyme label="b" type="m" corresp="#s8:l3">slotelkijn</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Verlangen doet mi <rhyme label="b" type="m" corresp="#s8:l3">pijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

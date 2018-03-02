@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38707</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>shepherd's song</tag>
+      <tag>love complaint</tag>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Amaryllis je renonce à vos charmes</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Tis wel verdritich nu een maeght te <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Het Cupidoken van de Lentsche <rhyme label="b" type="m">tijdt</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Dat staet en suft, met pijl en boogh en <rhyme label="a" type="f" corresp="#s1:l1">pesen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Het is ghebonden, blindt, en vleughels <rhyme label="b" type="m" corresp="#s1:l2">quijt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sijn schichten sijn <rhyme label="c" type="m">verstroyt</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">In veele <rhyme label="d" type="f">ellenden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ach oft ick Venus <rhyme label="c" type="m" corresp="#s1:l5">noyt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Haer liefd' en <rhyme label="d" type="f" corresp="#s1:l6">kenden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ey weest gherust ghy'n sijt noch niet <rhyme label="a" type="f">vergeten</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Want ghy noch jonck ghenoech van jaren <rhyme label="b" type="m">sijt</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Waerom ghesucht oft eenen traen <rhyme label="a" type="f" corresp="#s2:l1">ghekreten</rhyme>?</l>
+        <l id="s2:l4" met="5" type="-+">De liefde baert oock smeert en grooten <rhyme label="b" type="m" corresp="#s2:l2">strijt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Fy onbedachte <rhyme label="c" type="m">maeght</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Soo licht van <rhyme label="d" type="f">sinnen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Die haere jeucht <rhyme label="c" type="m" corresp="#s2:l5">mishaeght</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Om't dertel <rhyme label="d" type="f" corresp="#s2:l6">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Waer toe moeght ghy mijn liefde soo <rhyme label="a" type="f">verachten</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">En gheeft Natuer ons dit ghevoelen <rhyme label="b" type="m">niet</rhyme>?</l>
+        <l id="s3:l3" met="5" type="-+">En mach een maeght niet naer het paeren <rhyme label="a" type="f" corresp="#s3:l1">trachten</rhyme>?</l>
+        <l id="s3:l4" met="5" type="-+">Al keert Siringa liever in het <rhyme label="b" type="m" corresp="#s3:l2">riet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Ey dwase <rhyme label="c" type="m">clapperny</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Daer selfs de <rhyme label="d" type="f">dieren</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Vol dertelheydt soo <rhyme label="c" type="m" corresp="#s3:l5">bly</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Hun driften <rhyme label="d" type="f" corresp="#s3:l6">vieren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wech stoute cleter met 'tlichtveerdich <rhyme label="a" type="f">spreken</rhyme>?</l>
+        <l id="s4:l2" met="5" type="-+">Ghy sult (ghelijck den voghel in het <rhyme label="b" type="m">riet</rhyme>)</l>
+        <l id="s4:l3" met="5" type="-+">Gheraecken, want de jonghmans loose <rhyme label="a" type="f" corresp="#s4:l1">treken</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Die hebben menich kuysche blom <rhyme label="b" type="m" corresp="#s4:l2">gheplet</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Want die sijn domme <rhyme label="c" type="m">jeught</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Hier laet <rhyme label="d" type="f">verblinden</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Sal noyt in trauwe <rhyme label="c" type="m" corresp="#s4:l5">vreught</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Ghenoeghen <rhyme label="d" type="f" corresp="#s4:l6">vinden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175218</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+    </tags>
+    <melody>Met een droeve zang is het dat ik u klagen moet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Tsijn ydel <rhyme label="a" type="f">Menschen</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">die wenschen ,, om te <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">als de doot comt cloopen <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">t'moet toch al <rhyme label="d" type="f">sterven</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Om erven ,, t hooch <rhyme label="b" type="f" corresp="#s1:l2">verheven</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">zo belooften doen <rhyme label="c" type="m" corresp="#s1:l3">vermaen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">de werelt zal <rhyme label="c" type="m" corresp="#s1:l3">vergaen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Maer gods woort blijft eewelick <rhyme label="c" type="m" corresp="#s1:l3">staen</rhyme></l>
+        <l id="s1:l9" met="5" type="+-">godt is Barmhartich om sonden te <rhyme label="b" type="f" corresp="#s1:l2">vergeven</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Dus leert sterven <rhyme label="c" type="m" corresp="#s1:l3">onbelaen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Voor wel <rhyme label="a" type="f">bereyden</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">can t scheyden ,, nijet <rhyme label="b" type="f">besmetten</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">tot de vreuchden <rhyme label="c" type="m">ongehoort</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Om tvleesch <rhyme label="d" type="f">verrijsen</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">wilt prijzen ,, godes <rhyme label="b" type="f" corresp="#s2:l2">wetten</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">en vertroosten, deur zyn <rhyme label="c" type="m" corresp="#s2:l3">woort</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Bereyt huijs en ziel <rhyme label="c" type="m" corresp="#s2:l3">voort</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Om na In vreed lieffd en <rhyme label="c" type="m" corresp="#s2:l3">accoort</rhyme></l>
+        <l id="s2:l9" met="5" type="+-">Te rusten eeuwich en behoet voor <rhyme label="b" type="f" corresp="#s2:l2">t'beletten</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Dat In sonden nijet <rhyme label="c" type="m" corresp="#s2:l3">versmoort</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Rijck hoe <rhyme label="a" type="f">vercregen</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">moet tegen ,, laetste <rhyme label="b" type="f">dagen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">recht bekennen schulden <rhyme label="c" type="m">out</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">hoe groot In <rhyme label="d" type="f">sonden</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">Bevonden ,, deur <rhyme label="b" type="f" corresp="#s3:l2">t'mishagen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">T hoont leed weesen god <rhyme label="c" type="m" corresp="#s3:l3">betrout</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Doet d'arm mensch <rhyme label="c" type="m" corresp="#s3:l3">onderhout</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">eerde Doot u schrickelyck <rhyme label="c" type="m" corresp="#s3:l3">aenschout</rhyme></l>
+        <l id="s3:l9" met="5" type="+-">De voortijt neemt waer, om naer nijet te <rhyme label="b" type="f" corresp="#s3:l2">beclagen</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">van t'misbruijcken In goet <rhyme label="c" type="m" corresp="#s3:l3">zout</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Prins Die zal <rhyme label="a" type="f">coomen</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Om vromen te <rhyme label="b" type="f">verwecken</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Die bij namen zijn <rhyme label="c" type="m">bekent</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">zal <rhyme label="d" type="f">hijpocrijten</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Doen slijten ,, en <rhyme label="b" type="f" corresp="#s4:l2">vertrecken</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Om t'verdommen <rhyme label="c" type="m" corresp="#s4:l3">voorgewent</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Daer lieffd'was <rhyme label="c" type="m" corresp="#s4:l3">t'Fondament</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Twist tweedracht gebrocht <rhyme label="c" type="m" corresp="#s4:l3">omtrent</rhyme></l>
+        <l id="s4:l9" met="5" type="+-">Bidt god genadich om schande te <rhyme label="b" type="f" corresp="#s4:l2">bedecken</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">eer cort recht zal nemen <rhyme label="c" type="m" corresp="#s4:l3">endt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

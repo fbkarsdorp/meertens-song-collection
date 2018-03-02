@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26933</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>Och hoe mag hem zijn leven lusten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wo mach ein man sein leben  l <rhyme label="a" type="f">sten</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">der hefft verlarenn sein sote <rhyme label="b" type="m">lieff</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Sein sinnekens Ieigenn jn schwarenn s <rhyme label="a" type="f" corresp="#s1:l1">chten</rhyme> /</l>
+        <l id="s1:l4" met="4" type="-+">wantt dan sein sein hertz keinen trost mehr <rhyme label="b" type="m" corresp="#s1:l2">hatt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">N  ist das lott ob my <rhyme label="a" type="f">gefallen</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">Das ich das sa r a ßdrinckenn <rhyme label="b" type="m">moß</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Jch weiß vnd hab kein z  <rhyme label="a" type="f" corresp="#s2:l1">erlaß</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">Dan vngenochtt vnnd <rhyme label="b" type="m" corresp="#s2:l2">widderspott</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Jch haff ich sall den tag noch <rhyme label="a" type="f">leben</rhyme>  /</l>
+        <l id="s3:l2" met="4" type="-+">Das sei mich batt vnnd ich jr <rhyme label="b" type="m">nitt</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">so sall mein hertz jn freudenn <rhyme label="a" type="f" corresp="#s3:l1">lebenn</rhyme>  /</l>
+        <l id="s3:l4" met="4" type="-+">O lace ich leig jn schwer <rhyme label="b" type="m" corresp="#s3:l2">verdreis</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Jch habenn gelertt ich soltt <rhyme label="a" type="f">enthaltenn</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">hab ich he tt anders woll <rhyme label="b" type="m">verstandenn</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">das grose liebde magh woll <rhyme label="a" type="f" corresp="#s4:l1">verkalden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">dan rechte lieffte mag nitt <rhyme label="b" type="m" corresp="#s4:l2">vergahenn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

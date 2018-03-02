@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2814</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody>De tijd is hier</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Den tyt is hier, Datmen sal vroelyck <rhyme label="a" type="f">weesen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Want In elck quartier, den mey seer lustich <rhyme label="b" type="m">steet</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">sonder dantgier kan veenes ons <rhyme label="a" type="f" corresp="#s1:l1">geeneesen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">met Kuibydoe fier, die sal ons geeuen <rhyme label="b" type="m" corresp="#s1:l2">raet</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Om te voer stoeren, dees niders tongen <rhyme label="b" type="m" corresp="#s1:l2">quaet</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">want sy daer <rhyme label="c" type="m">beniden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">eer dat niemant kan <rhyme label="c" type="m" corresp="#s1:l6">voorblyden</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">want selfs sy besyden <rhyme label="c" type="m" corresp="#s1:l6">eer</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">vallen sy In <rhyme label="b" type="m" corresp="#s1:l2">misdaet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wy synse quiet, die ons hier deede <rhyme label="a" type="f">smerte</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Die wy met Ioelyt brochten die mey <rhyme label="b" type="m">plaesant</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">om met appetyt gebruick elck vruecht Int <rhyme label="a" type="f" corresp="#s2:l1">herte</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">om dat haet en nit soe vast leit Inden <rhyme label="b" type="m" corresp="#s2:l2">bant</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Dus wert den alder liefste, Den lauwerier <rhyme label="b" type="m" corresp="#s2:l2">geplant</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Want uit een reinder liefde <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">pieraemes tysbee briefde <rhyme label="c" type="m" corresp="#s2:l6">vroet</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">twelck hem doer griefJe <rhyme label="c" type="m" corresp="#s2:l6">goedt</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">als hy haer niet en <rhyme label="b" type="m" corresp="#s2:l2">vant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Hier woent de schoen laet ons den mey hier draegen <rhyme label="a" type="f">selfs</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">In persoen als minnaers toe <rhyme label="b" type="m">behoert</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">of sy Idoen In die mey schiep <rhyme label="a" type="f" corresp="#s3:l1">behaegen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">veel vruecht te loen krygen wy doer haer <rhyme label="b" type="m" corresp="#s3:l2">woert</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">want haer soete spraeke die geeft ons nu <rhyme label="b" type="m" corresp="#s3:l2">konfoort</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">want alsmen t ontsluiten <rhyme label="c" type="m">placht</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Den geest In swaerder <rhyme label="c" type="m" corresp="#s3:l6">muiten</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">lach selfs men daer uit <rhyme label="c" type="m" corresp="#s3:l6">spruiten</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">sach reyne liefde met <rhyme label="b" type="m" corresp="#s3:l2">ackoort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

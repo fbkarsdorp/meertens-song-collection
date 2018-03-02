@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2883</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ick ben bedroeft, en heel <rhyme label="a" type="m">onstelt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">onlustich onrustich, mijn, vruechden <rhyme label="a" type="m" corresp="#s1:l1">smelt</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">als snee opt <rhyme label="a" type="m" corresp="#s1:l1">velt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Troest mijn behoet, lief waerom <rhyme label="a" type="m" corresp="#s1:l1">quelt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">gij mij touft, mijn hart dat <rhyme label="b" type="m">prouft</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">als doots <rhyme label="a" type="m" corresp="#s1:l1">gewelt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Om u allein/ lief, <rhyme label="a" type="m">Deelykaet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">mijn sinnen van binnen sijn <rhyme label="a" type="m" corresp="#s2:l1">desperaet</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">/ en heel <rhyme label="a" type="m" corresp="#s2:l1">versmaet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">-  mijn oech sertein doer niders <rhyme label="a" type="m" corresp="#s2:l1">raet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Die seer vylein In veenes <rhyme label="b" type="m">pleyn</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Saeyen haer <rhyme label="a" type="m" corresp="#s2:l1">saet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">neemt lief Doch acht opt swaer <rhyme label="a" type="m">voordriet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dies truer en doeluer mijn hart <rhyme label="a" type="m" corresp="#s3:l1">duerschiet</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">hoe lange ast <rhyme label="a" type="m" corresp="#s3:l1">iet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Och al mijn kracht heel van mijn <rhyme label="a" type="m" corresp="#s3:l1">vliet</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ick blif voorsmacht door druck <rhyme label="b" type="m">onsacht</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">troest gij mijn <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prinsesse puere schoen maecht <rhyme label="a" type="m">eerbaer</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">stelt heeden te vreeden Ick u <rhyme label="a" type="m" corresp="#s4:l1">dienaer</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">In dit lijden <rhyme label="a" type="m" corresp="#s4:l1">swaer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Twelck Ick besuere om u <rhyme label="a" type="m" corresp="#s4:l1">voorwaer</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">noeit wreeder kuer wrocht veenes <rhyme label="b" type="m">fier</rhyme></l>
+        <l id="s4:l6" met="2" type="+-">als in u dat(s) <rhyme label="a" type="m" corresp="#s4:l1">klaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24894</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Neem dat voor goed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Neemt das vor <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Lief beilde <rhyme label="a" type="m" corresp="#s1:l1">zoet</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Das ich dir <rhyme label="b" type="f">gheve</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Sin hertze ende <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">In dijn <rhyme label="a" type="m" corresp="#s1:l1">behoet</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">De wile ic <rhyme label="b" type="f" corresp="#s1:l3">leve</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">In dijn <rhyme label="a" type="m">bedwanc</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Mine rouc wiens <rhyme label="a" type="m" corresp="#s2:l1">danc</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">So moetic <rhyme label="b" type="f">bliven</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Mijn leven <rhyme label="a" type="m" corresp="#s2:l1">lanc</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Mijn hoochste <rhyme label="a" type="m" corresp="#s2:l1">aenvanc</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Vor alle <rhyme label="b" type="f" corresp="#s2:l3">wiven</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Een troostelic <rhyme label="a" type="m">meein</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Van dir <rhyme label="a" type="m" corresp="#s3:l1">allein</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Maect mi <rhyme label="b" type="f">verhueghet</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Dinc anders <rhyme label="a" type="m" corresp="#s3:l1">ghein</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">No groot no <rhyme label="a" type="m" corresp="#s3:l1">clein</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Mich els <rhyme label="b" type="f" corresp="#s3:l3">ghenueghet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Troutvrauwe <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Doet mir <rhyme label="a" type="m" corresp="#s4:l1">anscijn</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Din gonst met <rhyme label="b" type="f">trauwen</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Vor alle <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Es <rhyme label="a" type="m" corresp="#s4:l1">medicijn</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Dijn lieflijc <rhyme label="b" type="f" corresp="#s4:l3">scauwen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">El gheen <rhyme label="a" type="m">ghedacht</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">No dach no <rhyme label="a" type="m" corresp="#s5:l1">nacht</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Dan di <rhyme label="b" type="f">alleine</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Met ganser <rhyme label="a" type="m" corresp="#s5:l1">macht</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Mijn liden <rhyme label="a" type="m" corresp="#s5:l1">zacht</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Troutzaerte <rhyme label="b" type="f" corresp="#s5:l3">reine</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

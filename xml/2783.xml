@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2783</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody>In Babylon met onverstand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gy woerse vryers als gy wilt <rhyme label="a" type="f">vryen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">so muecht gy wel eerst nae spanien <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">en met de dochters te <rhyme label="a" type="f" corresp="#s1:l1">komferseeren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">en laet het u kosten soe meenigen <rhyme label="b" type="m" corresp="#s1:l2">vaen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">al syt gy met weinich goedts <rhyme label="b" type="m" corresp="#s1:l2">belaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">met schoen praeten cuent gy <rhyme label="c" type="f">bedyen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">het isser wel kunst te leuren <rhyme label="c" type="f" corresp="#s1:l6">vryen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Daer duer kuent gy eens troest <rhyme label="b" type="m" corresp="#s1:l2">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Veel goedts kuent gy daer oeuer <rhyme label="a" type="f">bouwen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">met eer of schaent u niet een <rhyme label="b" type="m">haer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">goekoep kricht gy daer schoenne <rhyme label="a" type="f" corresp="#s2:l1">woerde</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">gy sulter oock weesen geenen <rhyme label="b" type="m" corresp="#s2:l2">vaer</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">wye komter oeek soe veer van <rhyme label="b" type="m" corresp="#s2:l2">daer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Die dit dan sou willen <rhyme label="c" type="f">klappen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">al hebt gy geuaelen van sint Jops <rhyme label="c" type="f" corresp="#s2:l6">trappen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">wye sonder loeuen sulken <rhyme label="b" type="m" corresp="#s2:l2">maer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Brenck vry wat mee van die spaense <rhyme label="a" type="f">vyge</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">sy smaeken die dochters alsoe <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sy en syn hier soe goedt niet te <rhyme label="a" type="f" corresp="#s3:l1">krygen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dus haester u naerstich op de <rhyme label="b" type="m" corresp="#s3:l2">voet</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">(En) sou men niet loepen by <rhyme label="b" type="m" corresp="#s3:l2">gloet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">om te koepen van die <rhyme label="c" type="f">gramgatten</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">sy synder geuoert met velle van de <rhyme label="c" type="f" corresp="#s3:l6">katte</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Daer men de meeste vrienschap mee <rhyme label="b" type="m" corresp="#s3:l2">doet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu dus loept vry by vieren en <rhyme label="a" type="f">vyuen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">het Isser voerwaer een groete <rhyme label="b" type="m">saeck</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">om de vreemde vryers te <rhyme label="a" type="f" corresp="#s4:l1">voerdryuen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dus schickter u haestich op de <rhyme label="b" type="m" corresp="#s4:l2">waeck</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">het Isser te spytich by gans <rhyme label="b" type="m" corresp="#s4:l2">kraeck</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dat sy hier koemen uit andere <rhyme label="c" type="f">steede</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Die die dochters nae die <rhyme label="c" type="f" corresp="#s4:l6">treede</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">noch sellefs te koemen onder haer <rhyme label="b" type="m" corresp="#s4:l2">dack</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

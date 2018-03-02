@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24919</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Voor al een beeld aan onderscheid</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vor al ein beilt aen <rhyme label="a" type="m">ondersceit</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Vercoren in dat hertze <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Huer sach ich minnentlijch <rhyme label="a" type="m" corresp="#s1:l1">bereit</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">In heilgher stat om inghelic <rhyme label="b" type="m" corresp="#s1:l2">scijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Doe dachtich waer dat bidden <rhyme label="b" type="m" corresp="#s1:l2">dijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ich weis vor waer gheen <rhyme label="b" type="m" corresp="#s1:l2">minnerlijn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Nie hogher loon up erde en <rhyme label="c" type="m">wan</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Mi quam eyn hope in mijn <rhyme label="d" type="f">ghedachte</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Waert zo als mir mijn zien tzoe <rhyme label="d" type="f" corresp="#s1:l8">brachte</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">So blide up erden leift ghein <rhyme label="c" type="m" corresp="#s1:l7">man</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ich wilde mir god ghehingde <rhyme label="a" type="m">das</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Vuer al den loon mir goeder <rhyme label="b" type="m">daet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Das ich in haer ghedacht doe <rhyme label="a" type="m" corresp="#s2:l1">was</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Helf god wes worde mijns levens <rhyme label="b" type="m" corresp="#s2:l2">raet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mijn troost mijn heil mijn <rhyme label="b" type="m" corresp="#s2:l2">tzoeverlaet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ware vast maer nu in tzwivele <rhyme label="b" type="m" corresp="#s2:l2">staet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Daer omme ich niet verbliden <rhyme label="c" type="m">can</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Mi quam ein hope in mijn <rhyme label="d" type="f">ghedachte</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Waert so als mir mijn waen tzoe <rhyme label="d" type="f" corresp="#s2:l8">brachte</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">So blide up erde en leift gheen <rhyme label="c" type="m" corresp="#s2:l7">man</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach wijflic beild hoort hertzen <rhyme label="a" type="m">wein</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Si roupt vast om ghenede an <rhyme label="b" type="m">dijch</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wat mijns is groos ende daer tzoe <rhyme label="a" type="m" corresp="#s3:l1">clein</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Es eighin dir <rhyme label="b" type="m" corresp="#s3:l2">ghewillentlijch</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Dijn scauwen es mijn <rhyme label="b" type="m" corresp="#s3:l2">hemelrijch</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Das mir dwinct also <rhyme label="b" type="m" corresp="#s3:l2">truwelich</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Dor gheinen noot sceidich der <rhyme label="c" type="m">van</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Mi quam ein hope in mijn <rhyme label="d" type="f">ghedachte</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Waert so als mir mijn waen tzoe <rhyme label="d" type="f" corresp="#s3:l8">brachte</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">So blide up erde en leift gheen <rhyme label="c" type="m" corresp="#s3:l7">man</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

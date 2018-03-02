@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29713</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1602</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Om een nieuw jaar zij haar man bad</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een vrouwlyckx beelde <rhyme label="a" type="m">amoureus</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Pigmalions <rhyme label="b" type="f">geleeken</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Een conterfeytssel <rhyme label="a" type="m" corresp="#s1:l1">graetieus</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Venery claer <rhyme label="b" type="f" corresp="#s1:l2">gebleeken</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wtspreecken Mercurius <rhyme label="c" type="m">vrient</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Helpet my haer <rhyme label="d" type="f">laudaty</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Reen <rhyme label="c" type="m" corresp="#s1:l5">gheingient</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">V scienty tot <rhyme label="d" type="f" corresp="#s1:l6">confortacy</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">My oock wel <rhyme label="c" type="m" corresp="#s1:l5">dient</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Calysto Sy te bouen <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">In Schoenheyt dees <rhyme label="b" type="f">Image</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Helena Semele <rhyme label="a" type="m" corresp="#s2:l1">ornaet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Iupeters lieff <rhyme label="b" type="f" corresp="#s2:l2">boelagie</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Reen van coragie gent <rhyme label="c" type="m">eerbaer</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Als Cranis <rhyme label="d" type="f">elegantich</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Diana <rhyme label="c" type="m" corresp="#s2:l5">haer</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Sere beroyft seer <rhyme label="d" type="f" corresp="#s2:l6">triumphantich</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Als mede <rhyme label="c" type="m" corresp="#s2:l5">paer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Des siringa <rhyme label="a" type="m">Philomela</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Tereus Pans <rhyme label="b" type="f">vriendinne</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Europa schoon en <rhyme label="a" type="m" corresp="#s3:l1">Minerva</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die eerbaerheyt <rhyme label="b" type="f" corresp="#s3:l2">beminnen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Goddinnen geen reyn <rhyme label="c" type="m">gemaniert</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Die dees maeght <rhyme label="d" type="f">suckcederen</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Met deucht <rhyme label="c" type="m" corresp="#s3:l5">versiert</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Als Daephne eerbaerlyck vol <rhyme label="d" type="f" corresp="#s3:l6">eeren</rhyme></l>
+        <l id="s3:l9" met="2" type="-+"><rhyme label="c" type="m" corresp="#s3:l5">Ghelauweriert</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Aenmerck van die heeft laes ter <rhyme label="a" type="m">stont</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Cupido heel <rhyme label="b" type="f">gespeten</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Met synen schicht heeft hy <rhyme label="a" type="m" corresp="#s4:l1">deurwont</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Myn jonck hert heel <rhyme label="b" type="f" corresp="#s4:l2">deurreeten</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Vermeeten stout dit heeft <rhyme label="c" type="m">bestaen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">En wilt lieft geen sins <rhyme label="d" type="f">dencken</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Dus laet eel <rhyme label="c" type="m" corresp="#s4:l5">graen</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">My met Icarus niet <rhyme label="d" type="f" corresp="#s4:l6">verdrencken</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">In see <rhyme label="c" type="m" corresp="#s4:l5">vergaen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Princesse schoon Ixions  <rhyme label="a" type="m">radt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Laet my niet langer <rhyme label="b" type="f">draeyen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Hymene maeghdelycke <rhyme label="a" type="m" corresp="#s5:l1">vadt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Laet u herte deur <rhyme label="b" type="f" corresp="#s5:l2">raeyen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Verfraeyen can sy door haer <rhyme label="c" type="m">deucht</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">En minlycken <rhyme label="d" type="f">beloven</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Ons jonghe <rhyme label="c" type="m" corresp="#s5:l5">jeucht</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">En eerbare reyn liefde <rhyme label="d" type="f" corresp="#s5:l6">croonen</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">met reyn <rhyme label="c" type="m" corresp="#s5:l5">geneucht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24910</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Mijn hart aan stade orde blijft</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Mijn herte aen steiden orden <rhyme label="a" type="m">blijft</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Up hope leven leert mijn <rhyme label="b" type="m">zin</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Want tswivel zwaert des minres <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Wat men zinghet seicht of <rhyme label="a" type="m" corresp="#s1:l1">scrijft</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Onsteiden hende es leits <rhyme label="b" type="m" corresp="#s1:l2">ghewin</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mijn herte aen steiden orden <rhyme label="a" type="m">blijft</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Up hopen leven leert mijn <rhyme label="b" type="m">zin</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">So wie dat jeghen steide <rhyme label="c" type="m">kijft</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Sijn hende es zuer hoe zoet <rhyme label="a" type="m" corresp="#s2:l1">tbeghin</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Onsteide noit menschen wel ne <rhyme label="b" type="m" corresp="#s2:l2">stoet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31625</id>
+    <date>
+      <year-start>1584</year-start>
+      <year-end>1584</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>Chantons buvons soyons</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wilt vrolyck sijn en maeckt goet <rhyme label="a" type="m">chier</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Verheucht maeckt vreucht laet droefheyt <rhyme label="b" type="f">drijven</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ic brengt u eens edel ghilde <rhyme label="a" type="m" corresp="#s1:l1">fier</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Laet ons te samen vreucht <rhyme label="b" type="f" corresp="#s1:l2">bedrijven</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In spijt des nyders quaet <rhyme label="a" type="m">bestier</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dit drinc ic wt om vreucht <rhyme label="b" type="f">beclyven</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Veel liever drinck ick wijn dan <rhyme label="a" type="m" corresp="#s2:l1">bier</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Non foral cost hy gulde <rhyme label="b" type="f" corresp="#s2:l2">schijven</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gheen hondert jaer en sijn wij <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Drinckt wt laet die weerdinne <rhyme label="b" type="f">scryven</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Eyst ons de weerdin ghelt oft <rhyme label="a" type="m" corresp="#s3:l1">schier</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Men sach noyt man om schult <rhyme label="b" type="f" corresp="#s3:l2">ontlijven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

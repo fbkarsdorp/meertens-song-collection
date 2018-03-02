@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5203</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>history song</tag>
+    </tags>
+    <melody>Es ist das Heil uns kommen her</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aenhoort een liet ghy christen <rhyme label="a" type="m">schaer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wat sich heeft <rhyme label="b" type="f">toeghedraghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Al in dat vijfentseventichste <rhyme label="a" type="m" corresp="#s1:l1">Jaer</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Men mach het wel <rhyme label="b" type="f" corresp="#s1:l2">beclaghen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den thienden October wert Zierczee <rhyme label="c" type="m">beleyt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Van de Spangiaerts benaut aen allen <rhyme label="c" type="m" corresp="#s1:l5">zijt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Gheen Victaly condense <rhyme label="b" type="f" corresp="#s1:l2">becomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy hebben de stadt ghehouden langhen <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met ghewelt sonder <rhyme label="b" type="f">vertsaghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Geusen deden de Spangiaert groot <rhyme label="a" type="m" corresp="#s2:l1">spijt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met haer schepen alle <rhyme label="b" type="f" corresp="#s2:l2">daghe</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Daer bleef so menighen Spangiaert <rhyme label="c" type="m">doot</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Al waren de Geusen in grooten <rhyme label="c" type="m" corresp="#s2:l5">noot</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Zierickzee dede van hongher <rhyme label="b" type="f" corresp="#s2:l2">claghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Prins als een ghetrouwe <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Heeft dickwils begheert te <rhyme label="b" type="f">ontsetten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ziericzee die daer was benouwet <rhyme label="a" type="m" corresp="#s3:l1">seer</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maer die Spangiaerts hebbent altijt <rhyme label="b" type="f" corresp="#s3:l2">belettet</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Sy schoten de schepen al inden <rhyme label="c" type="m">gront</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Van de Geusen, die so menighe listen <rhyme label="c" type="m" corresp="#s3:l5">vondt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dan twas al te seer <rhyme label="b" type="f" corresp="#s3:l2">besettet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daer was gheen diepte verstaet wel <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Om met groote schepen daer by te <rhyme label="b" type="f">comen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Dus hebben sy de stadt ghemaeckt <rhyme label="a" type="m" corresp="#s4:l1">vry</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">De Geusen met veel daden <rhyme label="b" type="f" corresp="#s4:l2">vroome</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Maer God en heeftet niet <rhyme label="c" type="m">gheconsenteert</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Hy moet nochtans altijdt zijn <rhyme label="c" type="m" corresp="#s4:l5">ghe-eert</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Op ons selfs laet ons niet <rhyme label="b" type="f" corresp="#s4:l2">steunen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Daer was soo groote diere <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Binnen Zierickzee onder de <rhyme label="b" type="f">ghemeente</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Menich vroom herte veel hongher <rhyme label="a" type="m" corresp="#s5:l1">lijdt</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ghelijck gheschiet is binnen Haerlem <rhyme label="b" type="f" corresp="#s5:l2">mede</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Hoe macht eene vleesch dus quellenden <rhyme label="c" type="m">zijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Het ander, en aendoet soo grooten <rhyme label="c" type="m" corresp="#s5:l5">pijn</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Daer wy zijn van een hooft eene <rhyme label="b" type="f" corresp="#s5:l2">leden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dat doet altijt het ghecroonde <rhyme label="a" type="m">beest</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ende des Antechrists <rhyme label="b" type="f">dienaren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Die altijt met een bloetdorstighe <rhyme label="a" type="m" corresp="#s6:l1">gheest</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Donnoosele end gheloovighe <rhyme label="b" type="f" corresp="#s6:l2">beswaren</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Sy achten ons Ketters <rhyme label="c" type="m">obstinaet</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Om uyt te roeyen toncruyt <rhyme label="c" type="m" corresp="#s6:l5">quaet</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Teghen Gods wille na tschrifts <rhyme label="b" type="f" corresp="#s6:l2">verclaren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Inden Mey den thienden <rhyme label="a" type="m">dach</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Worde Zierickzee de stadt <rhyme label="b" type="f">opghegheven</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Met eene also goeden <rhyme label="a" type="m" corresp="#s7:l1">verdrach</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Behouden goet, Lijf en <rhyme label="b" type="f" corresp="#s7:l2">leven</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Monseur Dragon heeftse in ghenade <rhyme label="c" type="m">ontfaen</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Hy heeft beter als Duckdalf <rhyme label="c" type="m" corresp="#s7:l5">ghedaen</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">Doen Haerlem worde <rhyme label="b" type="f" corresp="#s7:l2">opghegheven</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Prince ghy Papouwen verblijt u <rhyme label="a" type="m">nu</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Dat ghy Zierickzee hebt <rhyme label="b" type="f">ghewonnen</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">De gantsche Zee sal voortaen wesen <rhyme label="a" type="m" corresp="#s8:l1">u</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Maer ghy sulter seer vals aen <rhyme label="b" type="f" corresp="#s8:l2">flouwen</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Zierickzee zal weder onse <rhyme label="c" type="m">zijn</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Papou moochdy leven een cort <rhyme label="c" type="m" corresp="#s8:l5">termijn</rhyme>,</l>
+        <l id="s8:l7" met="3" type="-+">Ghy sult wonder <rhyme label="b" type="f" corresp="#s8:l2">aenschouwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

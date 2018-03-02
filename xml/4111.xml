@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4111</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Die God <rhyme label="a" type="m">behaecht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Maria is / ende <rhyme label="b" type="m">was</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Moeder ende <rhyme label="a" type="m" corresp="#s1:l1">maecht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Si van haer kint <rhyme label="b" type="m" corresp="#s1:l2">ghenas</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Ghelijc doer een <rhyme label="b" type="m" corresp="#s1:l2">glas</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">die clare sonne <rhyme label="c" type="m">schijnt</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Voort baerde <rhyme label="d" type="m">net</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Int baren sonder <rhyme label="e" type="m">wee</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Oock <rhyme label="d" type="m" corresp="#s1:l7">onbesmet</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Nae tbaren schoon als <rhyme label="e" type="m" corresp="#s1:l8">snee</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Int hoy bi beestkens <rhyme label="e" type="m" corresp="#s1:l8">twee</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">Heeft si gheleyt haer <rhyme label="c" type="m" corresp="#s1:l6">kijnt</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">Eylacy het weent <rhyme label="e" type="m" corresp="#s1:l8">alree</rhyme></l>
+        <l id="s1:l14" met="3" type="-+">Want hem die coude <rhyme label="c" type="m" corresp="#s1:l6">pijnt</rhyme></l>
+        <l id="s1:l15" met="2" type="-+">Lof al wt <rhyme label="f" type="f">minnen</rhyme></l>
+        <l id="s1:l16" met="2" type="+-">Met bliden <rhyme label="f" type="f" corresp="#s1:l15">sinnen</rhyme></l>
+        <l id="s1:l17" met="2" type="-+">Maria <rhyme label="g" type="m">reyn</rhyme></l>
+        <l id="s1:l18" met="2" type="-+">Gods liefste <rhyme label="g" type="m" corresp="#s1:l17">greyn</rhyme></l>
+        <l id="s1:l19" met="2" type="-+">Die <rhyme label="f" type="f" corresp="#s1:l15">Seraphinnen</rhyme></l>
+        <l id="s1:l20" met="2" type="-+">Ende <rhyme label="f" type="f" corresp="#s1:l15">Cherubinnen</rhyme></l>
+        <l id="s1:l21" met="2" type="-+">Louen v <rhyme label="g" type="m" corresp="#s1:l17">certeyn</rhyme></l>
+        <l id="s1:l22" met="4" type="+-">Bouen alle vrouwen int shemels <rhyme label="g" type="m" corresp="#s1:l17">pleyn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">God schiep <rhyme label="a" type="m">Adam</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sonder vrouwelijck <rhyme label="b" type="m">saet</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Sghelijcx soe <rhyme label="a" type="m" corresp="#s2:l1">quam</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Oock sonder mannelijck <rhyme label="b" type="m" corresp="#s2:l2">daet</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Int smenschen <rhyme label="b" type="m" corresp="#s2:l2">staet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Gods sone <rhyme label="c" type="m">ghebenedijt</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Maria in <rhyme label="d" type="m">wien</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Suyuerheyt vloeyt <rhyme label="e" type="m">eenpaer</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Sy was <rhyme label="d" type="m" corresp="#s2:l7">voersien</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Van God / tot dien <rhyme label="e" type="m" corresp="#s2:l8">vruchtbaer</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Als spieghel net en <rhyme label="e" type="m" corresp="#s2:l8">claer</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Die ons heeft al <rhyme label="c" type="m" corresp="#s2:l6">verblijt</rhyme></l>
+        <l id="s2:l13" met="3" type="-+">Gheen smette en is in <rhyme label="e" type="m" corresp="#s2:l8">haer</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">Noch was in gheender <rhyme label="c" type="m" corresp="#s2:l6">tijt</rhyme>.</l>
+        <l id="s2:l15" met="2" type="-+">Lof al wt <rhyme label="f" type="f">minnen</rhyme></l>
+        <l id="s2:l16" met="2" type="+-">Met bliden <rhyme label="f" type="f" corresp="#s2:l15">sinnen</rhyme></l>
+        <l id="s2:l17" met="2" type="-+">Maria <rhyme label="g" type="m">reyn</rhyme></l>
+        <l id="s2:l18" met="2" type="-+">Gods liefste <rhyme label="g" type="m" corresp="#s2:l17">greyn</rhyme></l>
+        <l id="s2:l19" met="2" type="-+">Die <rhyme label="f" type="f" corresp="#s2:l15">Seraphinnen</rhyme></l>
+        <l id="s2:l20" met="2" type="-+">Ende <rhyme label="f" type="f" corresp="#s2:l15">Cherubinnen</rhyme></l>
+        <l id="s2:l21" met="2" type="-+">Louen v <rhyme label="g" type="m" corresp="#s2:l17">certeyn</rhyme></l>
+        <l id="s2:l22" met="4" type="+-">Bouen alle vrouwen int shemels <rhyme label="g" type="m" corresp="#s2:l17">pleyn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+"><rhyme label="a" type="m">Ezechiel</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Een poorte sach / si <rhyme label="b" type="m">sloot</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Die sijt ghi <rhyme label="a" type="m" corresp="#s3:l1">wel</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Maria schoon roose <rhyme label="b" type="m" corresp="#s3:l2">root</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Ende Aarons rijs <rhyme label="b" type="m" corresp="#s3:l2">mingioot</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">V oock <rhyme label="c" type="m">prefigureert</rhyme>.</l>
+        <l id="s3:l7" met="2" type="-+">Dwelck heeft <rhyme label="d" type="m">ghebloeyt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Teghens natueren <rhyme label="e" type="m">cracht</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Dies is <rhyme label="d" type="m" corresp="#s3:l7">ghegroeyt</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Een schoon amandel <rhyme label="e" type="m" corresp="#s3:l8">dracht</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Tsghelijcx ooc God <rhyme label="e" type="m" corresp="#s3:l8">voersacht</rhyme></l>
+        <l id="s3:l12" met="3" type="-+">In v <rhyme label="c" type="m" corresp="#s3:l6">ghepropheteert</rhyme></l>
+        <l id="s3:l13" met="3" type="-+">Dies nu dijn vruchtbaer <rhyme label="e" type="m" corresp="#s3:l8">macht</rhyme></l>
+        <l id="s3:l14" met="3" type="-+">Oock bouen al <rhyme label="c" type="m" corresp="#s3:l6">passeert</rhyme></l>
+        <l id="s3:l15" met="2" type="-+">Lof al wt <rhyme label="f" type="f">minnen</rhyme></l>
+        <l id="s3:l16" met="2" type="+-">Met bliden <rhyme label="f" type="f" corresp="#s3:l15">sinnen</rhyme></l>
+        <l id="s3:l17" met="2" type="-+">Maria <rhyme label="g" type="m">reyn</rhyme></l>
+        <l id="s3:l18" met="2" type="-+">Gods liefste <rhyme label="g" type="m" corresp="#s3:l17">greyn</rhyme></l>
+        <l id="s3:l19" met="2" type="-+">Die <rhyme label="f" type="f" corresp="#s3:l15">Seraphinnen</rhyme></l>
+        <l id="s3:l20" met="2" type="-+">Ende <rhyme label="f" type="f" corresp="#s3:l15">Cherubinnen</rhyme></l>
+        <l id="s3:l21" met="2" type="-+">Louen v <rhyme label="g" type="m" corresp="#s3:l17">certeyn</rhyme></l>
+        <l id="s3:l22" met="4" type="+-">Bouen alle vrouwen int shemels <rhyme label="g" type="m" corresp="#s3:l17">pleyn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Princesse <rhyme label="a" type="m">yent</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Vruchtbaer Cedar <rhyme label="b" type="m">gheplant</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Libanus <rhyme label="a" type="m" corresp="#s4:l1">ontrent</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Schoon olijfboom <rhyme label="b" type="m" corresp="#s4:l2">playsant</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Ghi staet soe <rhyme label="b" type="m" corresp="#s4:l2">triumphant</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Al in des hemels <rhyme label="c" type="m">velt</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Ghelijck <rhyme label="d" type="m">Cypres</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Seer vruchtbaer inden <rhyme label="e" type="m">berch</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Van Syon <rhyme label="d" type="m" corresp="#s4:l7">es</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Soe sijt ghi sonder <rhyme label="e" type="m" corresp="#s4:l8">erch</rhyme></l>
+        <l id="s4:l11" met="3" type="+-">Onser alder vruchtbaer <rhyme label="e" type="m" corresp="#s4:l8">merch</rhyme></l>
+        <l id="s4:l12" met="3" type="-+">Alsoe scriftuere <rhyme label="c" type="m" corresp="#s4:l6">vertelt</rhyme></l>
+        <l id="s4:l13" met="3" type="-+">My arm sondich <rhyme label="e" type="m" corresp="#s4:l8">dwerch</rhyme></l>
+        <l id="s4:l14" met="3" type="-+">In uwer gratien <rhyme label="c" type="m" corresp="#s4:l6">stelt</rhyme>.</l>
+        <l id="s4:l15" met="2" type="-+">Lof al wt <rhyme label="f" type="f">minnen</rhyme></l>
+        <l id="s4:l16" met="2" type="+-">Met bliden <rhyme label="f" type="f" corresp="#s4:l15">sinnen</rhyme></l>
+        <l id="s4:l17" met="2" type="-+">Maria <rhyme label="g" type="m">reyn</rhyme></l>
+        <l id="s4:l18" met="2" type="-+">Gods liefste <rhyme label="g" type="m" corresp="#s4:l17">greyn</rhyme></l>
+        <l id="s4:l19" met="2" type="-+">Die <rhyme label="f" type="f" corresp="#s4:l15">Seraphinnen</rhyme></l>
+        <l id="s4:l20" met="2" type="-+">Ende <rhyme label="f" type="f" corresp="#s4:l15">Cherubinnen</rhyme></l>
+        <l id="s4:l21" met="2" type="-+">Louen v <rhyme label="g" type="m" corresp="#s4:l17">certeyn</rhyme></l>
+        <l id="s4:l22" met="4" type="+-">Bouen alle vrouwen int shemels <rhyme label="g" type="m" corresp="#s4:l17">pleyn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

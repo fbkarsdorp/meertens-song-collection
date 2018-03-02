@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2338</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Boven alle <rhyme label="a" type="f">deuchden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wort die Liefde Godts <rhyme label="b" type="m">gestelt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">Zy stort int herte dusent <rhyme label="a" type="f" corresp="#s1:l1">vreuchden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dat hem selven hier doet <rhyme label="b" type="m" corresp="#s1:l2">ghewelt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Int versmaeden der aertscher <rhyme label="c" type="f">saeken</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Temptatien ende <rhyme label="d" type="m">tegenheyt</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">Die tot Godts liefde wilt <rhyme label="c" type="f" corresp="#s1:l5">geraeken</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Maecke zyn ziele daertoe <rhyme label="d" type="m" corresp="#s1:l6">bereyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Liefde doet weenen ende <rhyme label="a" type="f">suchten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Door berou van sonden <rhyme label="b" type="m">groot</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Sy doet die ziele <rhyme label="a" type="f" corresp="#s2:l1">vluchten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">In Jesus wonden <rhyme label="b" type="m" corresp="#s2:l2">root</rhyme> /</l>
+        <l id="s2:l5" met="3" type="-+">Sy neempt daer in haer <rhyme label="c" type="f">ruste</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">Daer maeckt zy haeren <rhyme label="d" type="m">nest</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">Met sulken virigen <rhyme label="c" type="f" corresp="#s2:l5">luste</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Wort Godts Liefde in therte <rhyme label="d" type="m" corresp="#s2:l6">ghevest</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En wilt niet <rhyme label="a" type="f">presumeren</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Maer altyt oitmoedich <rhyme label="b" type="m">zyn</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">Al die hen hier <rhyme label="a" type="f" corresp="#s3:l1">verneren</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Vercrygen Godts Liefde <rhyme label="b" type="m" corresp="#s3:l2">fyn</rhyme> /</l>
+        <l id="s3:l5" met="3" type="-+">Want int herte <rhyme label="c" type="f">opgeblasen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dat op hem selven <rhyme label="d" type="m">stoont</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Die laet Godt ijdel als <rhyme label="c" type="f" corresp="#s3:l5">dwasen</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">Zijn liefde daer niet en <rhyme label="d" type="m" corresp="#s3:l6">woont</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O Jesus lief <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die zelve die liefde <rhyme label="b" type="m">zijt</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">En laet ons niet <rhyme label="a" type="f" corresp="#s4:l1">verloren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">In desen bedroefden <rhyme label="b" type="m" corresp="#s4:l2">tijt</rhyme> /</l>
+        <l id="s4:l5" met="3" type="-+">Wilt alle herten <rhyme label="c" type="f">stercken</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">Die benaut zijn inder <rhyme label="d" type="m">noot</rhyme> /</l>
+        <l id="s4:l7" met="3" type="-+">Laet u liefde in ons <rhyme label="c" type="f" corresp="#s4:l5">wercken</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Tot in dure van onser <rhyme label="d" type="m" corresp="#s4:l6">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

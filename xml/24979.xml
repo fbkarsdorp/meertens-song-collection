@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24979</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich weys vyl wal eyn bluxndes <rhyme label="a" type="m">rijs</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Gar zuverlich <rhyme label="b" type="f">gestellet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Der ozenynch zwaer in keyner <rhyme label="a" type="m" corresp="#s1:l1">wys</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mir nicht so wal <rhyme label="b" type="f" corresp="#s1:l2">bevellet</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Zucht uus dem rise <rhyme label="c" type="f">spruzit</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Daerzu vil <rhyme label="d" type="m">werdicheyt</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Ondaet dem rijs <rhyme label="c" type="f" corresp="#s1:l5">verdruzit</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Des yst siin lof so <rhyme label="d" type="m" corresp="#s1:l6">breyt</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Daervan mijn hertz ervruwet <rhyme label="e" type="m">wyrt</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Wan ich des rijs <rhyme label="f" type="f">ghedencken</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Mijn sin, mijn moyt vyl sorgen <rhyme label="e" type="m" corresp="#s1:l9">umbyrt</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Daermit ich leyt <rhyme label="f" type="f" corresp="#s1:l10">versinke</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ich meyne eyns wibes <rhyme label="a" type="m">jughent</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gar alles wandels <rhyme label="b" type="f">vri</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Men zayt van yr vyl <rhyme label="a" type="m" corresp="#s2:l1">tugent</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Daer yst die waerheyt <rhyme label="b" type="f" corresp="#s2:l2">bi</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Das weys ich wol oph minen <rhyme label="c" type="f">eyt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Daeran ich zwifel <rhyme label="d" type="m">nummer</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Miin bluynder walt die crone <rhyme label="c" type="f" corresp="#s2:l5">dreyt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Der tugeden werlich <rhyme label="d" type="m" corresp="#s2:l6">ummer</rhyme>!</l>
+        <l id="s2:l9" met="4" type="-+">Ich weys vyl wal eyn bluxndes <rhyme label="e" type="m">rijs</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Gar zuverlich <rhyme label="f" type="f">gestellet</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">Der ozenynch zwaer in keyner <rhyme label="e" type="m" corresp="#s2:l9">wys</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Mir nicht so wal <rhyme label="f" type="f" corresp="#s2:l10">bevellet</rhyme>;</l>
+      </lg>
+    </lg>
+  </text>
+</song>

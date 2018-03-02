@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26784</id>
+    <date>
+      <year-start>1558</year-start>
+      <year-end>1558</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>Psalm 050 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Dijn aertrijck Heer ghenade hebstu <rhyme label="a" type="m">ghedaen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Du hebst Jacob van den banden <rhyme label="a" type="m" corresp="#s1:l1">ontslaen</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Du hebst dijns volcks boosheyt ghenomen <rhyme label="b" type="m">wech</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Sijn sonden al wt ghenaden hebst <rhyme label="b" type="m" corresp="#s1:l3">bedeckt</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">dijn gramschap groot, hebstu versoet ten <rhyme label="c" type="f">eynde</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">End dynen thoorn daervan oock willen <rhyme label="c" type="f" corresp="#s1:l5">wenden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Keert dy tot ons God onses <rhyme label="a" type="m">salicheyts</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Went van ons af den brant dijns <rhyme label="a" type="m" corresp="#s2:l1">toornicheyts</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Wilstu alwech teghen ons zijn <rhyme label="b" type="m">verstoort</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Of dynen toorn vertrecken van nu <rhyme label="b" type="m" corresp="#s2:l3">voort</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Bistu niet die, ons ten leuen wilt <rhyme label="c" type="f">bringhen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">waer voor dijn volck in dy sick sal <rhyme label="c" type="f" corresp="#s2:l5">ontspringen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Thoont doch O Heer ons dijn <rhyme label="a" type="m">barmherticheyt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">ghenadelick gheeft ons dijn <rhyme label="a" type="m" corresp="#s3:l1">salicheyt</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Hooren wil ick wat God de Heere <rhyme label="b" type="m">mildt</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Spreeckt, want tot zijn volck vrede spreken <rhyme label="b" type="m" corresp="#s3:l3">wilt</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Ende oock daertoe weldadich zijn tot <rhyme label="c" type="f">allen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Op dat sy niet tot sotticheyt <rhyme label="c" type="f" corresp="#s3:l5">veruallen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">T'heyl is voorwaer den godureesenden <rhyme label="a" type="m">by</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Op dat by ons d'heerlickheyt ware <rhyme label="a" type="m" corresp="#s4:l1">vrij</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">ghenade en waerheyt komen sick in't <rhyme label="b" type="m">gemoet</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Rechticheyt en vreed sullen sick kussen <rhyme label="b" type="m" corresp="#s4:l3">soet</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">T'ghelooue sal vast spruyten wt der <rhyme label="c" type="f">aerden</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">gherechticheyt sal wt den Hemel gheschout <rhyme label="c" type="f" corresp="#s4:l5">werden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">De Heere sal oock zijn <rhyme label="a" type="m">goedertierenheyt</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Gheuen seer mildt en storten ouer <rhyme label="a" type="m" corresp="#s5:l1">breyt</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Ons aerdtrijck sal zijn vrucht brengen <rhyme label="b" type="m">voort</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">In oueruloedt al na des Heeren <rhyme label="b" type="m" corresp="#s5:l3">woort</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Gherechticheyt sal voor den vromen <rhyme label="c" type="f">treden</rhyme></l>
+        <l id="s5:l6" met="5" type="-+">En ouer wech sal hy fijn gaen in <rhyme label="c" type="f" corresp="#s5:l5">vreden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

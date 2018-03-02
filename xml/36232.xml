@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36232</id>
+    <date>
+      <year-start>1684</year-start>
+      <year-end>1684</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Neemt in d'handt dit <rhyme label="a" type="m">Nachtegaeltjen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">'T zal u gheven eeu nieuw <rhyme label="a" type="m" corresp="#s1:l1">straeltjen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En leeren daer in uwe <rhyme label="b" type="f">strijden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Alles met vroylijckheyt <rhyme label="b" type="f" corresp="#s1:l3">uyt-lijden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Als uwen vader heeft <rhyme label="c" type="m">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'K en weet niet wat het wilt <rhyme label="a" type="m">bedien</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat dit bly beestjen (soo ick <rhyme label="a" type="m" corresp="#s2:l1">sien</rhyme>)</l>
+        <l id="s2:l3" met="4" type="-+">Tot u soo vlytigh komt <rhyme label="b" type="f">ghevloghen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als gheraviert, en <rhyme label="b" type="f" corresp="#s2:l3">op-ghetoghen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Daer moet jet zijn dat hem <rhyme label="c" type="m">behaegt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ha! 't siet hier volck al van syn <rhyme label="a" type="m">soort</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En die 't al dickmaels heeft <rhyme label="a" type="m" corresp="#s3:l1">ghehoort</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ter eeren van onsen <rhyme label="b" type="f">Beminden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ser v:oylijck Lof-sanghen <rhyme label="b" type="f" corresp="#s3:l3">vinden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">In synen lof heel <rhyme label="c" type="m">onvermoeyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Weerde Moeder, ghesondert <rhyme label="a" type="m">uyt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Des Bruydegoms ghetrauwe <rhyme label="a" type="m" corresp="#s4:l1">Bruyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Die u noyt en hebt willen <rhyme label="b" type="f">spaeren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Met al de uwe, nu veel <rhyme label="b" type="f" corresp="#s4:l3">jaeren</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">(Soo ordinair den Nachtgael <rhyme label="c" type="m">doet</rhyme>.)</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy zijt, die 't Nachtegaeltjen <rhyme label="a" type="m">mindt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Die door u sangh sijn liefde <rhyme label="a" type="m" corresp="#s5:l1">windt</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Ontfanght dan dat u wort <rhyme label="b" type="f">ghesonden</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En weest met u Susters <rhyme label="b" type="f" corresp="#s5:l3">verbonden</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Godts lof te synghen <rhyme label="c" type="m">eeuwelijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

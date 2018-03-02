@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3884</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>battle song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Een ridder en een meisje jong</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">COemt ons te hulpen lief van <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Want wi sijn in groter <rhyme label="b" type="m">noot</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Sullen wi den strijt <rhyme label="a" type="f" corresp="#s1:l1">verwinnen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wij moeten steruen menighen <rhyme label="b" type="m" corresp="#s1:l2">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De werelt / duuel / ende <rhyme label="a" type="f">vleesch</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Die sijn te mael op ons <rhyme label="b" type="m">gheset</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Sij hadden gaerne haren <rhyme label="a" type="f" corresp="#s2:l1">eesch</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Om ons te brengen in haer <rhyme label="b" type="m" corresp="#s2:l2">net</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Si gaen ons aen tot allen <rhyme label="a" type="f">siden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Ons behoeft wel goeden <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Sullen wi haer scutten <rhyme label="a" type="f" corresp="#s3:l1">ontuliden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Het moet ons costen vleesch en <rhyme label="b" type="m" corresp="#s3:l2">bloet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die op sijn hoede niet en <rhyme label="a" type="f">steet</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">En sijn huys laet <rhyme label="b" type="m">onbeurijt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hi wort verwonnen eer hijt <rhyme label="a" type="f" corresp="#s4:l1">weet</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Want hem die vyant niet en <rhyme label="b" type="m" corresp="#s4:l2">mijt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ten mach niet sijn <rhyme label="a" type="f">ghespaert</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Strijt vromelijc tot alder <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">V herte / v sinnen wel <rhyme label="a" type="f" corresp="#s5:l1">bewaert</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Oft ghi werdt der heelder seghen <rhyme label="b" type="m" corresp="#s5:l2">quijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Want hier en is gheen <rhyme label="a" type="f">sekerhede</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Mer te striden tot alder <rhyme label="b" type="m">vre</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Want wij sijn in sulcke <rhyme label="a" type="f" corresp="#s6:l1">stede</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Wi moeten striden al wordet <rhyme label="b" type="m" corresp="#s6:l2">suere</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wat wi wenschen of <rhyme label="a" type="f">begeren</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Het moet ymmer costen <rhyme label="b" type="m">meer</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Al soumen vlees en bloet <rhyme label="a" type="f" corresp="#s7:l1">verteren</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Natuer moet liden menigen <rhyme label="b" type="m" corresp="#s7:l2">seer</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Niemant en ontsie hem der <rhyme label="a" type="f">pinen</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Want het moet sijn <rhyme label="b" type="m">geauontuert</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Ten baet niet dat wij heylich <rhyme label="a" type="f" corresp="#s8:l1">schinen</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Eest metten wercken niet <rhyme label="b" type="m" corresp="#s8:l2">besuert</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Aldus wilt vromelijc <rhyme label="a" type="f">striden</rhyme></l>
+        <l id="s9:l2" met="4" type="+-">God die heere salt <rhyme label="b" type="m">voersien</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Voer den strijt die ghi moet <rhyme label="a" type="f" corresp="#s9:l1">liden</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Sal v noch grote vruecht <rhyme label="b" type="m" corresp="#s9:l2">gheschien</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Maria suyuer maget <rhyme label="a" type="f">puere</rhyme></l>
+        <l id="s10:l2" met="4" type="+-">Wilt hen doch in staden <rhyme label="b" type="m">staen</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Die striden tegen haer <rhyme label="a" type="f" corresp="#s10:l1">natuere</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Dat si die eewige vruecht <rhyme label="b" type="m" corresp="#s10:l2">ontfaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

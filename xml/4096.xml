@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4096</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Dies est laetitiae nam processit hodie</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Dies est <rhyme label="a" type="m">leticie</rhyme> /</l>
+        <l id="s1:l2" met="4" type="+-">nam processit <rhyme label="a" type="m" corresp="#s1:l1">hodie</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Christus rex de <rhyme label="a" type="m" corresp="#s1:l1">virgine</rhyme> /</l>
+        <l id="s1:l4" met="2" type="+-">sine <rhyme label="b" type="f">viro</rhyme> /</l>
+        <l id="s1:l5" met="5" type="+-">virgula de flore modo <rhyme label="b" type="f" corresp="#s1:l4">miro</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Res miranda <rhyme label="a" type="m">creditur</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Virgo nondum <rhyme label="a" type="m" corresp="#s2:l1">leditur</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Verbum hanc <rhyme label="a" type="m" corresp="#s2:l1">ingreditur</rhyme></l>
+        <l id="s2:l4" met="2" type="+-">Sine <rhyme label="b" type="f">viro</rhyme></l>
+        <l id="s2:l5" met="5" type="+-">Sed saluo pudore / modo <rhyme label="b" type="f" corresp="#s2:l4">miro</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Castitatis <rhyme label="a" type="m">lilium</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Profert virgo <rhyme label="a" type="m" corresp="#s3:l1">filium</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Christum regem <rhyme label="a" type="m" corresp="#s3:l1">dominum</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">Sine <rhyme label="b" type="f">viro</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Ut vellus sub rore / modo <rhyme label="b" type="f" corresp="#s3:l4">miro</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Virgo mater <rhyme label="a" type="m">nescia</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Corruptele / <rhyme label="a" type="m" corresp="#s4:l1">gratia</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Spiritus fit <rhyme label="a" type="m" corresp="#s4:l1">grauida</rhyme></l>
+        <l id="s4:l4" met="2" type="+-">Sine <rhyme label="b" type="f">viro</rhyme></l>
+        <l id="s4:l5" met="5" type="+-">Rubus in ardore / Modo <rhyme label="b" type="f" corresp="#s4:l4">miro</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Natus est in <rhyme label="a" type="m">Bethleem</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Passus in <rhyme label="a" type="m" corresp="#s5:l1">Ierusalem</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Sustulit <rhyme label="a" type="m" corresp="#s5:l1">pauperiem</rhyme></l>
+        <l id="s5:l4" met="2" type="+-">Modo <rhyme label="b" type="f">miro</rhyme></l>
+        <l id="s5:l5" met="5" type="+-">Paruulus amore / Sine <rhyme label="b" type="f" corresp="#s5:l4">viro</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

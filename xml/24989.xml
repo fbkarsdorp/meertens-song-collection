@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24989</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mir lieft een wijf van hoyr <rhyme label="a" type="f">weyrde</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mit vruden in dem hertse <rhyme label="b" type="m">mijn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Onde yst mijn hoyst zalde oph <rhyme label="a" type="f" corresp="#s1:l1">eyrden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Se mach mir nicht liever <rhyme label="b" type="m" corresp="#s1:l2">siin</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ir guede chan mich vruede <rhyme label="c" type="f">geven</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bas dan alle die werelt <rhyme label="d" type="m">gemeyn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Voer alle vrouwen, die nu <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Is si die liefste, unde anders <rhyme label="d" type="m" corresp="#s1:l6">gheyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Das sal mijn dienst yr siin <rhyme label="a" type="f">bereyt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dir vil minnentlijche <rhyme label="b" type="m">suesen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nacht unde dach op minen <rhyme label="a" type="f" corresp="#s2:l1">eyt</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Want se kan mijn trueren <rhyme label="b" type="m" corresp="#s2:l2">buesyn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ummermeer tso allen <rhyme label="c" type="f">tiden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Onde vrouwen mich in menger <rhyme label="d" type="m">kon</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Des wil ich stede bi yr <rhyme label="c" type="f" corresp="#s2:l5">bliven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">So yst mijns hertzen hoyste <rhyme label="d" type="m" corresp="#s2:l6">won</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Onde mer hoyster zalden <rhyme label="a" type="f">oert</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Der ich ye ghewan oph <rhyme label="b" type="m">erden</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Mucht mir doch eyn lieflijch <rhyme label="a" type="f" corresp="#s3:l1">woert</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van der minnentlijcher <rhyme label="b" type="m" corresp="#s3:l2">werden</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Das se met gansen trouwen <rhyme label="c" type="f">wolde</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die vil minnentlijche <rhyme label="d" type="m">guete</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Mich ontfaen in yrmen <rhyme label="c" type="f" corresp="#s3:l5">solde</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">So vruyt sich mijn <rhyme label="d" type="m" corresp="#s3:l6">ghemuete</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ja so wil das hophen <rhyme label="a" type="f">ich</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Zint se mir tso alle <rhyme label="b" type="m">tsiden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mit gansen truwen <rhyme label="a" type="f" corresp="#s4:l1">entelijch</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Bereyt tso yrmen dienst sal <rhyme label="b" type="m" corresp="#s4:l2">vinden</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Das ich yr diene(n), das wol <rhyme label="c" type="f">recht</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Zent mir ghene(n) kan <rhyme label="d" type="m">ervruyn</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Dan ze, dir ich stede <rhyme label="c" type="f" corresp="#s4:l5">knecht</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Ewich bliven in gansen <rhyme label="d" type="m" corresp="#s4:l6">trouwen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Das wil ich tso mir yr <rhyme label="a" type="f">verlasen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Boven alle, dey siin oph <rhyme label="b" type="m">eyrden</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Onde tso yrem dienst mich <rhyme label="a" type="f" corresp="#s5:l1">zaysyn</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">In dem ghelove <rhyme label="b" type="m" corresp="#s5:l2">heyrdyn</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Das ze mijn dienst ontfeng hel <rhyme label="c" type="f">sal</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Unde troesten mijn elende <rhyme label="d" type="m">lijf</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Unde gheven vruden sonder <rhyme label="c" type="f" corresp="#s5:l5">getal</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Das hoogheboren reyne <rhyme label="d" type="m" corresp="#s5:l6">wijf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34703</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>history song</tag>
+      <tag>political song</tag>
+    </tags>
+    <melody>Hebben ze dat gedaan doen ze</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">De Geusen, de <rhyme label="a" type="f">Geusen</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">En die boose Fransen, boose <rhyme label="b" type="f">Fransen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sy quamen met veel Schepen <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Om in Calloy te <rhyme label="d" type="f">dansen</rhyme>.</l>
+        <l id="s1:l5" met="5" type="+-">Hebbense dat ghedaen, doense, <rhyme label="e" type="f">doense</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Hebbense dat ghedaen, Geus neef comt <rhyme label="c" type="m" corresp="#s1:l3">aen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24958</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich hayn eyn hertz, das mich <rhyme label="a" type="m">zol</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Vyl [...] scaden oder vromen <rhyme label="b" type="f">machen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Eyn varendes loen erworwe ich <rhyme label="a" type="m" corresp="#s1:l1">wol</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Davan ich eenen zomer muechte <rhyme label="b" type="f" corresp="#s1:l2">lachen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Wie dan, of ich das <rhyme label="c" type="f">erworve</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Das weer onstede zam der <rhyme label="d" type="m">cle</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Mitten bluemen et's <rhyme label="c" type="f" corresp="#s1:l5">verdorven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">So muest ich werven aber als <rhyme label="d" type="m" corresp="#s1:l6">e</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Tsu heile mues yt mich <rhyme label="e" type="m">ergan</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">In wil des armes lones <rhyme label="f" type="m">nicht</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Mer duet noch bas eyn rijcher <rhyme label="e" type="m" corresp="#s1:l9">wan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

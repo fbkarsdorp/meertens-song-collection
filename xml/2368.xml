@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2368</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Een ridder en een meisje jong</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt almachtich vader <rhyme label="a" type="m">goet</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Mijn memorie wil ick u <rhyme label="b" type="f">schinken</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Laet my u goddelyck wesen <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Altyt ootmoedelyck <rhyme label="b" type="f" corresp="#s1:l2">ghedinken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Godt sone des vaders <rhyme label="a" type="m">woordt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Mijn verstant wil ick u <rhyme label="b" type="f">gheven</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Doet alle myn zinnen met een <rhyme label="a" type="m" corresp="#s2:l1">accoordt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Naer uwen wille hier <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Godt der liefden heyligen <rhyme label="a" type="m">gheest</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wilt mijnen wille <rhyme label="b" type="f">stercken</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met u gave der liefden <rhyme label="a" type="m" corresp="#s3:l1">aldermeest</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Vervult ghij alle myn <rhyme label="b" type="f" corresp="#s3:l2">wercken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O weirdige heylige <rhyme label="a" type="m">Drijvuldicheyt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wilt alle myn crachten <rhyme label="b" type="f">regeren</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Dat ick in mynder zielen <rhyme label="a" type="m" corresp="#s4:l1">affscheyt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">In u mach <rhyme label="b" type="f" corresp="#s4:l2">iubileren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O alder hoochste <rhyme label="a" type="m">Maiesteyt</rhyme> /</l>
+        <l id="s5:l2" met="3" type="-+">Vernielt in my u <rhyme label="b" type="f">beelde</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Maeckt myn herteken nu <rhyme label="a" type="m" corresp="#s5:l1">bereyt</rhyme> /</l>
+        <l id="s5:l4" met="3" type="-+">Dat ick mach smaeken u <rhyme label="b" type="f" corresp="#s5:l2">weelde</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O drij persoonen nochtans maer <rhyme label="a" type="m">een</rhyme> /</l>
+        <l id="s6:l2" met="3" type="-+">Warachtich Godt <rhyme label="b" type="f">ghepresen</rhyme> /</l>
+        <l id="s6:l3" met="4" type="-+">En wilt uut mynder zielen niet <rhyme label="a" type="m" corresp="#s6:l1">scheen</rhyme> /</l>
+        <l id="s6:l4" met="3" type="-+">Maer altyt myn trooster <rhyme label="b" type="f" corresp="#s6:l2">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Bidt voor die dit heeft <rhyme label="a" type="m">ghedicht</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Ter eeren van haer lief daer <rhyme label="b" type="f">boven</rhyme> /</l>
+        <l id="s7:l3" met="4" type="-+">Dat zy dat ongheschapen <rhyme label="a" type="m" corresp="#s7:l1">licht</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Altijt mach dancken en <rhyme label="b" type="f" corresp="#s7:l2">loven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38639</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Laes waer sijn de goede <rhyme label="a" type="f">vrouwen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Nu te vinden in het <rhyme label="b" type="m">landt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die hun stellen tot het <rhyme label="a" type="f" corresp="#s1:l1">trouwen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Sijn berooft van hun <rhyme label="b" type="m" corresp="#s1:l2">verstandt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Cleynen Ian,, als een <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Heeft gheseyt te <rhyme label="d" type="f">voren</rhyme>,</l>
+        <l id="s1:l7" met="6" type="+-">Dat de goede vrouwe noch moet sijn <rhyme label="d" type="f" corresp="#s1:l6">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sy sijn vol van quay <rhyme label="a" type="f">ghebreken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">D'een is meester vanden <rhyme label="b" type="m">huys</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">D'ander habbich in het <rhyme label="a" type="f" corresp="#s2:l1">spreken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Voor de mans een lastich <rhyme label="b" type="m" corresp="#s2:l2">cruys</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Cleynen Ian,, als een <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Heeft gheseyt te <rhyme label="d" type="f">voren</rhyme>,</l>
+        <l id="s2:l7" met="6" type="+-">Dat de goede vrouwe noch moet sijn <rhyme label="d" type="f" corresp="#s2:l6">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'Tmoet al naer hun pijpen <rhyme label="a" type="f">springhen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Hunnen wil moet sijn <rhyme label="b" type="m">volbracht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'Tsy van cleeren goude <rhyme label="a" type="f" corresp="#s3:l1">ringhen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Dat sy droomen inden <rhyme label="b" type="m" corresp="#s3:l2">nacht</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Cleynen Ian,, als een <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Heeft gheseyt te <rhyme label="d" type="f">voren</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">Dat de goede vrouwe noch moet sijn <rhyme label="d" type="f" corresp="#s3:l6">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Wildy daer iet teghen <rhyme label="a" type="f">snabben</rhyme>?</l>
+        <l id="s4:l2" met="4" type="+-">Fluckx soo sal sy (als een <rhyme label="b" type="m">kat</rhyme>)</l>
+        <l id="s4:l3" met="4" type="+-">Gheven u ghesicht vol <rhyme label="a" type="f" corresp="#s4:l1">krabben</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Tot een opspraeck van de <rhyme label="b" type="m" corresp="#s4:l2">stat</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Cleynen Ian,, als een <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">Heeft gheseyt te <rhyme label="d" type="f">voren</rhyme>,</l>
+        <l id="s4:l7" met="6" type="+-">Dat de goede vrouwe noch moet sijn <rhyme label="d" type="f" corresp="#s4:l6">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Wildy cleynen Ian eens <rhyme label="a" type="f">vraeghen</rhyme>?</l>
+        <l id="s5:l2" met="4" type="+-">Om hier van ontlast te <rhyme label="b" type="m">sijn</rhyme>?</l>
+        <l id="s5:l3" met="4" type="+-">Schout (seght hy) hun boose <rhyme label="a" type="f" corresp="#s5:l1">plaghen</rhyme>?</l>
+        <l id="s5:l4" met="4" type="+-">Laet de vrouwen, vrouwen <rhyme label="b" type="m" corresp="#s5:l2">sijn</rhyme>.</l>
+        <l id="s5:l5" met="4" type="+-">Cleynen Ian,, als een <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s5:l6" met="3" type="+-">Heeft gheseyt te <rhyme label="d" type="f">voren</rhyme>,</l>
+        <l id="s5:l7" met="6" type="+-">Dat de goede vrouwe noch moet sijn <rhyme label="d" type="f" corresp="#s5:l6">gheboren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

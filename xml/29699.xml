@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29699</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1602</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">O blom playsant / aenhoort myn swaer <rhyme label="a" type="m">torment</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">in liefde abondant / sal ick v sonder <rhyme label="a" type="m" corresp="#s1:l1">ent</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">ghestadich wesen / O blomme <rhyme label="b" type="m">minioot</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">O u myn uutgelesen / getrou tot inder <rhyme label="b" type="m" corresp="#s1:l3">doot</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Ontbint mynen bant / ghy lyt myn lieff <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">myn haer dat leyt en brant / om v en ander <rhyme label="a" type="m" corresp="#s2:l1">geen</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">pyn en groot elende / heb ick om u <rhyme label="b" type="m">ontfaen</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">wilt u van my toch wenden / en met troosten by <rhyme label="b" type="m" corresp="#s2:l3">staen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Hoe sou ick kuenen van v myn <rhyme label="a" type="m">afgewent</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">die ick beminne boven alle blomme <rhyme label="a" type="m" corresp="#s3:l1">gent</rhyme></l>
+        <l id="s3:l3" met="6" type="-+">noyt isser gheen gebooren frayer in mynen <rhyme label="b" type="m">sin</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">dat ghy myn uutvercooren die ick alleen <rhyme label="b" type="m" corresp="#s3:l3">bemin</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">U soete tale singhen en myn <rhyme label="a" type="m">bevel</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">geen nachtegalen singhen schoonder in dat <rhyme label="a" type="m" corresp="#s4:l1">velt</rhyme></l>
+        <l id="s4:l3" met="6" type="-+">dan v soete melodye van u o schoon <rhyme label="b" type="m">fyguer</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">maeckt myn hert gans blyde verander myn <rhyme label="b" type="m" corresp="#s4:l3">natuer</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Als ick peynse om u woordekens <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s5:l2" met="6" type="-+">soo mennich reyse verandert myn <rhyme label="a" type="m" corresp="#s5:l1">gemoet</rhyme></l>
+        <l id="s5:l3" met="6" type="-+">sware melancolye dat is myn <rhyme label="b" type="m">medesyn</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">nummermeer soo ben ick blyde verlost myn wt dese <rhyme label="b" type="m" corresp="#s5:l3">pyn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

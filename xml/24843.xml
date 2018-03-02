@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24843</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>O vrouwe mijn eeuwelijk bestier</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O vrouwe mijn ewelic <rhyme label="a" type="m">bestier</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Nu bestu daer ende ic ben <rhyme label="a" type="m" corresp="#s1:l1">hier</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Nochtan zijn wi te <rhyme label="b" type="f">zamen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Mijn herte es eewelike <rhyme label="a" type="m" corresp="#s1:l1">ghier</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Om dijn troostelic <rhyme label="a" type="m" corresp="#s1:l1">verchier</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Alsic aenzie dijn scoon <rhyme label="a" type="m">manier</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So moetic vruecht ghewinnen <rhyme label="a" type="m" corresp="#s2:l1">scier</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Lief god verde u van <rhyme label="b" type="f">blamen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">O vrouwe mijn ewelic <rhyme label="a" type="m" corresp="#s2:l1">bestier</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Nu bestu daer ende ic ben <rhyme label="a" type="m" corresp="#s2:l1">hier</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

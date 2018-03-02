@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3939</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Aanhoor toch mijn geklaag gij ruiters</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAet staen toch v <rhyme label="a" type="m">gheclach</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghi kerstenen fray van <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Laet trueren nacht ende <rhyme label="a" type="m" corresp="#s1:l1">dach</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dat God niet hooren en <rhyme label="a" type="m" corresp="#s1:l1">mach</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Noch sijn woort met <rhyme label="a" type="m" corresp="#s1:l1">verdrach</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Als Cristus ons eerst <rhyme label="a" type="m" corresp="#s1:l1">aensach</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Bestraelde hi ons hert met <rhyme label="b" type="f" corresp="#s1:l2">minnen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Daerom hoort hem <rhyme label="a" type="m">naer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wilt ghi hem sijn <rhyme label="b" type="f">gheleken</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ghi siet die waerheyt <rhyme label="a" type="m" corresp="#s2:l1">daer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Spreect vrolijck teghen <rhyme label="a" type="m" corresp="#s2:l1">haer</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Haren last en is niet <rhyme label="a" type="m" corresp="#s2:l1">swaer</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Maer licht om dragen <rhyme label="a" type="m" corresp="#s2:l1">voerwaer</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Want si doet alle last <rhyme label="b" type="f" corresp="#s2:l2">breken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Alle ons leet met sijn <rhyme label="a" type="m">bloet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Heeft hi willen <rhyme label="b" type="f">bedwinghen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat deede sijn gratie <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die alle herten <rhyme label="a" type="m" corresp="#s3:l1">voet</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Met trouwe vol liefden <rhyme label="a" type="m" corresp="#s3:l1">goet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Alle sijn bloet nam sinen <rhyme label="a" type="m" corresp="#s3:l1">vloet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Het moste ten wonden wt <rhyme label="b" type="f" corresp="#s3:l2">springen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Die nacht viel ons te <rhyme label="a" type="m">lanck</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wi en conden niet langer <rhyme label="b" type="f">ghedueren</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Wij laghen int <rhyme label="a" type="m" corresp="#s4:l1">bedwanck</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Des viants banden <rhyme label="a" type="m" corresp="#s4:l1">stranck</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">In duysternissen <rhyme label="a" type="m" corresp="#s4:l1">cranck</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Wij wetens hem groten <rhyme label="a" type="m" corresp="#s4:l1">danc</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Die ons dlicht heeft laten <rhyme label="b" type="f" corresp="#s4:l2">gebueren</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Noch salt eens anders <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Den tijt die sal noch <rhyme label="b" type="f">keeren</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Dat wij worden <rhyme label="a" type="m" corresp="#s5:l1">beuaen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Met blischap sonder <rhyme label="a" type="m" corresp="#s5:l1">traen</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Om Cristum dat minnelijc <rhyme label="a" type="m" corresp="#s5:l1">graen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Laet ons alle druck <rhyme label="a" type="m" corresp="#s5:l1">versmaen</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Hi sal ons vruecht <rhyme label="b" type="f" corresp="#s5:l2">vermeeren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Elck die dit liedeken <rhyme label="a" type="m">sinct</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Mint Cristum tot allen <rhyme label="b" type="f">tiden</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Die wter scalen <rhyme label="a" type="m" corresp="#s6:l1">drinct</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Die ons heer Iesus <rhyme label="a" type="m" corresp="#s6:l1">schinct</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Sijn liden <rhyme label="a" type="m" corresp="#s6:l1">ouerdinct</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Eer ghi in sijn rijck <rhyme label="a" type="m" corresp="#s6:l1">sprinct</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Certeyn ghi moet wat <rhyme label="b" type="f" corresp="#s6:l2">liden</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

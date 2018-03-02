@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14992</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>political song</tag>
+    </tags>
+    <melody>Zoet Robbertje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Prijst God ons aller Heer,, Die diepe Meyr <rhyme label="a" type="m">verdroogt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Die daer tot synen eer,, Het water weer <rhyme label="a" type="m" corresp="#s1:l1">verhoogt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">End' leyden doet,, Na synen <rhyme label="b" type="m">wensch</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Door Ebb' en vloet,, Dat menich <rhyme label="b" type="m" corresp="#s1:l3">mensch</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Van sulcken daet, Meer als verwondert <rhyme label="c" type="m">staet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Die't Land met moort en brand,, So seer vervullet <rhyme label="a" type="m">heeft</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Met't volck aen elcken kant,, So schendig heeft <rhyme label="a" type="m" corresp="#s2:l1">geleeft</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat heeft gepluckt,, En <rhyme label="b" type="m">onderdruckt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Sal self gebuckt,, Om vard' <rhyme label="b" type="m" corresp="#s2:l3">geruckt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Nu gaen, ende oock,, Verdwynen als de <rhyme label="c" type="m">roock</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Singt Gode lof en danck,, Zeelanders! en dees <rhyme label="a" type="m">deucht</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">U aerdsche leven lanck,, Ter eeren Gods <rhyme label="a" type="m" corresp="#s3:l1">geheugt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Syt vrolyck t'saem,, En u <rhyme label="b" type="m">verblyt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">In 's Heeren naem,, Dat ghy syt <rhyme label="b" type="m" corresp="#s3:l3">quyt</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Het Spaensch gebroet,, Met haren trotsen <rhyme label="c" type="m">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

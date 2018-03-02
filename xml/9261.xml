@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9261</id>
+    <date>
+      <year-start>1593</year-start>
+      <year-end>1593</year-end>
+    </date>
+    <location>
+      <orginal-name>[haarlem]</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>farewell song</tag>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>De oude Hillebrand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wy sijn een sober <rhyme label="a" type="f">Bende</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wy hebben pant noch <rhyme label="b" type="m">gelt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Wy comen van broods <rhyme label="a" type="f" corresp="#s1:l1">ende</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Al ouer <rhyme label="b" type="m" corresp="#s1:l2">Bijsterveldt</rhyme>/</l>
+        <l id="s1:l5" met="3" type="-+">Ons Brieuen houden van <rhyme label="c" type="f">gebreken</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">om dat wy het wercken <rhyme label="d" type="m">vlien</rhyme>/</l>
+        <l id="s1:l7" met="3" type="-+">wy vieren die ganse <rhyme label="c" type="f" corresp="#s1:l5">weke</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Wy sullen niet <rhyme label="d" type="m" corresp="#s1:l6">bedyen</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Dat seggen ons de <rhyme label="d" type="m" corresp="#s1:l6">Lien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wy sijn Jan t achters <rhyme label="a" type="f">kinderen</rhyme>/</l>
+        <l id="s2:l2" met="3" type="-+">Wy hebben gheen <rhyme label="b" type="m">tribuyt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Die dus haer goetken <rhyme label="a" type="f" corresp="#s2:l1">minderen</rhyme>/</l>
+        <l id="s2:l4" met="3" type="-+">Die willen nae sinte Reyn <rhyme label="b" type="m" corresp="#s2:l2">uyt</rhyme>/</l>
+        <l id="s2:l5" met="3" type="-+">Daer isser veele <rhyme label="c" type="f">vooren</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Wy sullen volghen <rhyme label="d" type="m">naer</rhyme>/</l>
+        <l id="s2:l7" met="3" type="-+">Ghy sulter noch meer <rhyme label="c" type="f" corresp="#s2:l5">affhooren</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Leeft ghy noch seuen <rhyme label="d" type="m" corresp="#s2:l6">Jaer</rhyme>/</l>
+        <l id="s2:l9" met="3" type="-+">Dat segghe ick u <rhyme label="d" type="m" corresp="#s2:l6">voorwaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Laet ons met blijden <rhyme label="a" type="f">Geeste</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Die Pot houden byder <rhyme label="b" type="m">handt</rhyme>/</l>
+        <l id="s3:l3" met="3" type="-+">Weerdinne tapt ons <rhyme label="a" type="f" corresp="#s3:l1">teerste</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En schrijft het an de <rhyme label="b" type="m" corresp="#s3:l2">wandt</rhyme>/</l>
+        <l id="s3:l5" met="3" type="-+">Al sijn wy wat <rhyme label="c" type="f">verdoruen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Wy en sijn noch niet <rhyme label="d" type="m">verdwaelt</rhyme>/</l>
+        <l id="s3:l7" met="3" type="-+">Waer ons goet thoe <rhyme label="c" type="f" corresp="#s3:l5">verstorven</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">So wordt ghy wel <rhyme label="d" type="m" corresp="#s3:l6">betaelt</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">In dien dat niet en <rhyme label="d" type="m" corresp="#s3:l6">faelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wy en willen noch niet <rhyme label="a" type="f">trueren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Op dat ons falen/ <rhyme label="b" type="m">sal</rhyme>/</l>
+        <l id="s4:l3" met="3" type="-+">Daer vallen veel <rhyme label="a" type="f" corresp="#s4:l1">auontueren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Wie dat betalen/ <rhyme label="b" type="m" corresp="#s4:l2">sal</rhyme>/</l>
+        <l id="s4:l5" met="3" type="-+">Wil ons die weerdt niet <rhyme label="c" type="f">borghen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">So weeten wy daer toe <rhyme label="d" type="m">raet</rhyme>/</l>
+        <l id="s4:l7" met="3" type="-+">Wy drincken dan tot <rhyme label="c" type="f" corresp="#s4:l5">morghen</rhyme>/</l>
+        <l id="s4:l8" met="3" type="-+">Al spreeckt de vrouwe <rhyme label="d" type="m" corresp="#s4:l6">quaet</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">Wy naeyen onsen <rhyme label="d" type="m" corresp="#s4:l6">naet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Laet ons al int <rhyme label="a" type="f">ghemeyne</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Bidden den goeden <rhyme label="b" type="m">Sant</rhyme>/</l>
+        <l id="s5:l3" met="3" type="-+">Dat hy ons wil <rhyme label="a" type="f" corresp="#s5:l1">verleenen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Sijn hulp en sijn <rhyme label="b" type="m" corresp="#s5:l2">bystandt</rhyme>/</l>
+        <l id="s5:l5" met="3" type="-+">Wy waeren naeckt <rhyme label="c" type="f">gheboren</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Wy scheyden naeckt van <rhyme label="d" type="m">hier</rhyme>/</l>
+        <l id="s5:l7" met="3" type="-+">Wy waren noyt te <rhyme label="c" type="f" corresp="#s5:l5">voren</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Al sijn wy nu <rhyme label="d" type="m" corresp="#s5:l6">bystier</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">Weerdinne haelt ons een <rhyme label="d" type="m" corresp="#s5:l6">bier</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Wy bidden onsen <rhyme label="a" type="f">Heere</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Al door sijn gratie <rhyme label="b" type="m">soet</rhyme>/</l>
+        <l id="s6:l3" met="3" type="-+">Dat hy sijn Jonste <rhyme label="a" type="f" corresp="#s6:l1">keere</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Op sinte reynuyts <rhyme label="b" type="m" corresp="#s6:l2">bloet</rhyme>/</l>
+        <l id="s6:l5" met="3" type="-+">En dat hy sie <rhyme label="c" type="f">verlichte</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Met duysent Nobelen <rhyme label="d" type="m">roodt</rhyme>/</l>
+        <l id="s6:l7" met="3" type="-+">Wandt die dit Liedeken <rhyme label="c" type="f" corresp="#s6:l5">dichte</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Certeyn hy haddes <rhyme label="d" type="m" corresp="#s6:l6">noodt</rhyme>/</l>
+        <l id="s6:l9" met="3" type="-+">Van gelde so was hy <rhyme label="d" type="m" corresp="#s6:l6">bloodt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ghy Princelijcke <rhyme label="a" type="f">Geesten</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Die geerne drinckt en <rhyme label="b" type="m">poydt</rhyme>/</l>
+        <l id="s7:l3" met="3" type="-+">Die minsten met den <rhyme label="a" type="f" corresp="#s7:l1">meesten</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Al sijt ghy wel <rhyme label="b" type="m" corresp="#s7:l2">beroyt</rhyme>/</l>
+        <l id="s7:l5" met="3" type="-+">wil altijdt <rhyme label="c" type="f">triumpheren</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Op sinte Reynuyts <rhyme label="d" type="m">dach</rhyme>/</l>
+        <l id="s7:l7" met="3" type="-+">Want Calis moet <rhyme label="c" type="f" corresp="#s7:l5">floreren</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Ende blijven by <rhyme label="d" type="m" corresp="#s7:l6">tghelach</rhyme>/</l>
+        <l id="s7:l9" met="3" type="-+">So lang als hijt <rhyme label="d" type="m" corresp="#s7:l6">vermach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

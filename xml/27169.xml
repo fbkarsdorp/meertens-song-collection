@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27169</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Allemande de Spiers</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Cupido heere / <rhyme label="a" type="m">fell</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">wie can v schichten / <rhyme label="b" type="f">swichten</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">niemant hoe seere / <rhyme label="a" type="m" corresp="#s1:l1">well</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">doet die gesichten / <rhyme label="b" type="f" corresp="#s1:l2">stichten</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">dichten / plichten wie dat <rhyme label="c" type="m">can</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">van alsulck bedryuen / <rhyme label="d" type="f">schryuen</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">blyuen hier by wyf en <rhyme label="c" type="m" corresp="#s1:l5">man</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">out en Jonck in dit <rhyme label="c" type="m" corresp="#s1:l5">gespan</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Liefde v grote <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">can al myn sinnen / <rhyme label="b" type="f">winnen</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">want als ick v mercke <rhyme label="a" type="m" corresp="#s2:l1">lacht</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">therte van minnen / <rhyme label="b" type="f" corresp="#s2:l2">binnen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">versinnen meucht ghy dat <rhyme label="c" type="m">wilt</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">mildt zyt v dienaere / <rhyme label="d" type="f">caere</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">waere claere toont geen <rhyme label="c" type="m" corresp="#s2:l5">schilt</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">want ick v voor die liefste <rhyme label="c" type="m" corresp="#s2:l5">hilt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">D]en geest in Jeuchden / <rhyme label="a" type="m">bloeyt</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">door v nature <rhyme label="b" type="f">pure</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">therte vol deuchden / <rhyme label="a" type="m" corresp="#s3:l1">groyt</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">eedel fygeure <rhyme label="b" type="f" corresp="#s3:l2">fleure</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">seur noch steurren weest op <rhyme label="c" type="m">my</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">ick die v alleene / <rhyme label="d" type="f">meene</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">geene / reene meer dan <rhyme label="c" type="m" corresp="#s3:l5">dy</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">en bemin ick waer dat <rhyme label="c" type="m" corresp="#s3:l5">zy</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Eedel Princesse <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">met reyn besneden / <rhyme label="b" type="f">leden</rhyme></l>
+        <l id="s4:l3" met="3" type="+-">venus dyesse <rhyme label="a" type="m" corresp="#s4:l1">vroet</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">t welck vwe seden <rhyme label="b" type="f" corresp="#s4:l2">deden</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">heden / reden toch <rhyme label="c" type="m">betoont</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">loont therte getrouwe / <rhyme label="d" type="f">vrouwe</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">rouwe flouwe loont <rhyme label="c" type="m" corresp="#s4:l5">gecroont</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">liefde met liefde <rhyme label="c" type="m" corresp="#s4:l5">verschoont</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

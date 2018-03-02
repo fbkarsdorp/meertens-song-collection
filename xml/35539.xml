@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35539</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>new year song</tag>
+    </tags>
+    <melody>Ecce tandem sempiternus</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Comt verwondert u hier, <rhyme label="a" type="f">menschen</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">Siet, hoe dat u Godt <rhyme label="b" type="m">bemindt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Siet vervult der zielen <rhyme label="a" type="f" corresp="#s1:l1">wenschen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Siet dit nieu gheboren <rhyme label="b" type="m" corresp="#s1:l2">kindt</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Siet, die't Woordt is, sonder <rhyme label="c" type="f">spreken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Siet, die Vorst is, sonder <rhyme label="d" type="m">pracht</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Siet, die't Al is, in <rhyme label="c" type="f" corresp="#s1:l5">ghebreken</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Siet, die't Licht is, is inder <rhyme label="d" type="m" corresp="#s1:l6">nacht</rhyme>:</l>
+        <l id="s1:l9" met="4" type="+-">Siet, die't goet is,, dat soo soet <rhyme label="e" type="m">is</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Wort verstooten, wort <rhyme label="d" type="m" corresp="#s1:l6">veracht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet, hoe datmen met hem <rhyme label="a" type="f">handelt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hoemen hem in doecxkens <rhyme label="b" type="m">bindt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die met sijne Godtheydt <rhyme label="a" type="f" corresp="#s2:l1">wandelt</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Op de vleughels vanden <rhyme label="b" type="m" corresp="#s2:l2">windt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Siet, hoe light hy hier in <rhyme label="c" type="f">lijden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Sonder teecken van <rhyme label="d" type="m">verstant</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Die den Hemel moet <rhyme label="c" type="f" corresp="#s2:l5">verblijden</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Die de Croon der wijsheyt <rhyme label="d" type="m" corresp="#s2:l6">spant</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">Siet, hoe teere,, is den <rhyme label="e" type="m">Heere</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Diet al draecht in sijne <rhyme label="d" type="m" corresp="#s2:l6">hant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Die den Hemel heeft <rhyme label="a" type="f">gheschapen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die verciert het <rhyme label="b" type="m">Firmament</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Moet hier in een cribbe <rhyme label="a" type="f" corresp="#s3:l1">slapen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Wort in hoy en stroy <rhyme label="b" type="m" corresp="#s3:l2">ghewent</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Die de schoone <rhyme label="c" type="f">Seraphienen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Altijdt heeft tot sijn <rhyme label="d" type="m">ghebodt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Laet hem hier van beesten <rhyme label="c" type="f" corresp="#s3:l5">dienen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Laet hem steken in dit <rhyme label="d" type="m" corresp="#s3:l6">kot</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">In dees' hoecxkens,, in dees' <rhyme label="e" type="m">doecxkens</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">In dit huysken sonder <rhyme label="d" type="m" corresp="#s3:l6">slot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O Heer Iesu, Godt en <rhyme label="a" type="f">mensche</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die aenveert hebt desen <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Gheeft my, dat ick door u <rhyme label="a" type="f" corresp="#s4:l1">wensche</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Gheeft my door u kindtsheyt <rhyme label="b" type="m" corresp="#s4:l2">raet</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Sterckt my door u teere <rhyme label="c" type="f">handen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Maeckt my door u kleynheydt <rhyme label="d" type="m">groot</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Maeckt my vry door uwe <rhyme label="c" type="f" corresp="#s4:l5">banden</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Maeckt my rijck door uwen <rhyme label="d" type="m" corresp="#s4:l6">noot</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Maeckt my blijde,, door <rhyme label="e" type="m">u-lijden</rhyme>,</l>
+        <l id="s4:l10" met="4" type="+-">Maeckt my levend' door u <rhyme label="d" type="m" corresp="#s4:l6">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

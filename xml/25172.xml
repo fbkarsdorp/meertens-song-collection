@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25172</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ich quam da mit vreuden <rhyme label="a" type="f">saissen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Ritter nuone sunder <rhyme label="b" type="m">pin</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Reynre wibe lof si <rhyme label="a" type="f" corresp="#s1:l1">maissen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Sprach der eirste dye vrauwe <rhyme label="b" type="m" corresp="#s1:l2">min</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Is eyn erin huos <rhyme label="c" type="f">geruste</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Minis herzen muot <rhyme label="c" type="f" corresp="#s1:l5">geluste</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Hait mir got an ir <rhyme label="b" type="m" corresp="#s1:l2">gegebin</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Wer des ie zuo den eyrstme <rhyme label="d" type="f">gedachte</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Der si mir zuo huse <rhyme label="d" type="f" corresp="#s1:l8">brachte</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Den laisse got mit sieldin <rhyme label="b" type="m" corresp="#s1:l2">lebin</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Miner vrauwen minnen <rhyme label="a" type="f">szunder</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Hait dat herze min <rhyme label="b" type="m">verbrant</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Sijt den male sprach der <rhyme label="a" type="f" corresp="#s2:l1">ander</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Ich der leber stiede <rhyme label="b" type="m" corresp="#s2:l2">ervant</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">An den minnecliche <rhyme label="c" type="f">vibe</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Nuo gienc miner sielden <rhyme label="c" type="f" corresp="#s2:l5">sibe</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Rechte als ich is wnsin <rhyme label="b" type="m" corresp="#s2:l2">wolt</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Die mir liebit vor allin <rhyme label="d" type="f">wibin</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Bi der ich nu moys <rhyme label="d" type="f" corresp="#s2:l8">verlibin</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Solde ich der niet wesin <rhyme label="b" type="m" corresp="#s2:l2">holt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25518</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (jülich?)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aen dich kan ich niet freuwen <rhyme label="a" type="m">mich</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">synt du mich hais <rhyme label="b" type="f">vmfangen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">streng fast behafft vnd all myn <rhyme label="c" type="m">krafft</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">hertz moit ind syn durch <rhyme label="b" type="f" corresp="#s1:l2">hangen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">myt steder lieffd dat ich dich <rhyme label="d" type="m">biede</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">myt flysz zo dyr zo <rhyme label="e" type="f">komen</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">dat mir mach syn der wylle <rhyme label="f" type="m">dyn</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">hais du gar waell <rhyme label="e" type="f" corresp="#s1:l6">vernomen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O[.]dell frucht verlanges <rhyme label="a" type="m">zucht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">nym hyn ind do ydt <rhyme label="b" type="f">behende</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">aen dich alleyne lust anders <rhyme label="c" type="m">geyne</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">ich bydden mir mynen smecken <rhyme label="b" type="f" corresp="#s2:l2">wende</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">want ich dienen dyr mit gantzer <rhyme label="d" type="m">begyr</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">dyr alle tzyt zo <rhyme label="e" type="f">gefallen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">yn steder treuw ewich aen allen <rhyme label="f" type="m">eeuw</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">schyff ich dyn gued vur <rhyme label="e" type="f" corresp="#s2:l6">allen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

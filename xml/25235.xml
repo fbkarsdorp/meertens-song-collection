@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25235</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hemels alderheijlichste <rhyme label="a" type="m">godt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">die hebt den son deur v <rhyme label="a" type="m" corresp="#s1:l1">gebot</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">cierlijck gemaect met vueruch <rhyme label="b" type="m">strael</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">sijn cracht vermeert met licht te <rhyme label="b" type="m" corresp="#s1:l3">mael</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die op den vierden dach oeck <rhyme label="a" type="m">stelt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">een vlammich rinck welck ons <rhyme label="a" type="m" corresp="#s2:l1">vermelt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">den maen sijn loop en sterren <rhyme label="b" type="m">duers</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">alle planeten ganck <rhyme label="b" type="m" corresp="#s2:l3">diuers</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Op dat soe wel tlichts als nachts <rhyme label="a" type="m">endt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">soude werden op aert <rhyme label="a" type="m" corresp="#s3:l1">bekent</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">sulcx der maenden beginsel <rhyme label="b" type="m">claer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">heft elck sijn teecken <rhyme label="b" type="m" corresp="#s3:l3">openbaer</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Verlicht des menschen hart eer <rhyme label="a" type="m">lang</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">wijt aff des harten smarte <rhyme label="a" type="m" corresp="#s4:l1">bang</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">ombind die banden van ons <rhyme label="b" type="m">schult</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">roijt vuijt het quaet en geeft <rhyme label="b" type="m" corresp="#s4:l3">verdult</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

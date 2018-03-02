@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40821</id>
+    <date>
+      <year-start>1614</year-start>
+      <year-end>1614</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hollant en Zeelant <rhyme label="a" type="f">getrouwe</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Eert toch al met herten <rhyme label="b" type="m">seer</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">God die geeft tot s´Lands <rhyme label="a" type="f" corresp="#s1:l1">behouwe</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Groote victorij en <rhyme label="b" type="m" corresp="#s1:l2">eer</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Onsen Prins Edel <rhyme label="c" type="f">gebooren</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van Nassau trouw en <rhyme label="d" type="m">vaillant</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Als Davidt is hy <rhyme label="c" type="f" corresp="#s1:l5">vercooren</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Al door Gods mogende <rhyme label="d" type="m" corresp="#s1:l6">handt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Want met een Christelijck <rhyme label="a" type="f">opmercken</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Dees Prins zijn zaken <rhyme label="b" type="m">begint</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Sijn aenslagen en zijn <rhyme label="a" type="f" corresp="#s2:l1">wercken</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Daer deur den vyandt <rhyme label="b" type="m" corresp="#s2:l2">verwindt</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Die daer soecken s´Landts  <rhyme label="c" type="f">verderven</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">En rasen altijt <rhyme label="d" type="m">verwoet</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Om ons deur vreemden <rhyme label="c" type="f" corresp="#s2:l5">t´onterven</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Van doude vryheyt en <rhyme label="d" type="m" corresp="#s2:l6">goet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als de heer Landen en <rhyme label="a" type="f">Steden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Door haer sonden Straff <rhyme label="b" type="m">bereyt</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Berooft hy <rhyme label="a" type="f" corresp="#s3:l1">d´overicheden</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Altoos eerst van haer <rhyme label="b" type="m" corresp="#s3:l2">wijsheyt</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Dat sy geen waerheyt <rhyme label="c" type="f">geloven</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Dan alleen flatteerders <rhyme label="d" type="m">quaet</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Die s´Landts welvaren <rhyme label="c" type="f" corresp="#s3:l5">beroven</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">En dat om haer eygen <rhyme label="d" type="m" corresp="#s3:l6">haet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Alssulck sietmen nu <rhyme label="a" type="f">hanteren</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Dagelijcx by den rijcken <rhyme label="b" type="m">bloot</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Die Vlaenderen gaet <rhyme label="a" type="f" corresp="#s4:l1">ruyneren</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Dat door cracht van hongers <rhyme label="b" type="m" corresp="#s4:l2">noot</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">De stadt Sluys selfs compt in <rhyme label="c" type="f">handen</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Des vyants meeste <rhyme label="d" type="m">gewelt</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">De boosen compt ons tot <rhyme label="c" type="f" corresp="#s4:l5">schanden</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Om dat hy den vromen <rhyme label="d" type="m" corresp="#s4:l6">quelt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Looft/prijst /danckt/vreest Godt <rhyme label="a" type="f">almachtich</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Hem alleen de glory <rhyme label="b" type="m">geeft</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Want door hem ons Prins <rhyme label="a" type="f" corresp="#s5:l1">doordachtich</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Dees en meer victory <rhyme label="b" type="m" corresp="#s5:l2">heeft</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Ter Zee t´maect een vry <rhyme label="c" type="f">passagie</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">En t´lant tot nering en <rhyme label="d" type="m">vreucht</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">Om tlants welvaert maect <rhyme label="c" type="f" corresp="#s5:l5">coragie</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">En leeft al met <rhyme label="d" type="m" corresp="#s5:l6">geneucht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

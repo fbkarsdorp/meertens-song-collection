@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29703</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>virelai ballad</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Si hait an ir so vil der <rhyme label="a" type="f">gute</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Se wende bas min <rhyme label="b" type="m">zoverzicht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Mee wan alles wassers <rhyme label="a" type="f" corresp="#s1:l1">vlute</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Anders troestes in hain <rhyme label="b" type="m" corresp="#s1:l2">nicht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Daz ir min liden wurdt <rhyme label="c" type="f">erkundet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Und ich troest erwurbe <rhyme label="d" type="m">dan</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">Nemmer wyrt yts ir <rhyme label="c" type="f" corresp="#s1:l5">volgrundet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Des trure ich vil zender <rhyme label="d" type="m" corresp="#s1:l6">man</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Raets gedete mir nye so <rhyme label="a" type="f">noyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van dage zu dage, ye zo <rhyme label="b" type="m">mee</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Venus, werder minnen <rhyme label="a" type="f" corresp="#s2:l1">voyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Nu raet ir, daz si mich <rhyme label="b" type="m" corresp="#s2:l2">verste</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Zint alle dugent ir wol <rhyme label="c" type="f">zemet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Und eere mit yr ist <rhyme label="d" type="m">husgenoys</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Ja, weyt, of in mich recht <rhyme label="c" type="f" corresp="#s2:l5">vernemet</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Sulche liebe mich nye <rhyme label="d" type="m" corresp="#s2:l6">verdroys</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ich wil ir bis in min <rhyme label="a" type="f">ende</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ummer ondertenich <rhyme label="b" type="m">zin</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Min hoeffen ist, daz si mir <rhyme label="a" type="f" corresp="#s3:l1">zende</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Troest, of er wil wenden <rhyme label="b" type="m" corresp="#s3:l2">pin</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Ghesche mir das, so wer mir <rhyme label="c" type="f">wol</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">Das leyt alles gar an <rhyme label="d" type="m">ir</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">Troestlich (s)ich doch leben <rhyme label="c" type="f" corresp="#s3:l5">sol</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Is ist beschert, so wirtz <rhyme label="d" type="m" corresp="#s3:l6">mir</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

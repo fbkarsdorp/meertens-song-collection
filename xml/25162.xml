@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25162</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Eyn man der niet erwindin <rhyme label="a" type="m">wil</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">he neme eyn wip zu der e durch sinis herzin <rhyme label="a" type="m" corresp="#s1:l1">spil</rhyme>.</l>
+        <l id="s1:l3" met="7" type="-+">deme wil ich eyne radin. dye yme der pays niet verbedin in <rhyme label="b" type="m">mach</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">he minne ere als sin <rhyme label="c" type="m">wip</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">he halse si und trute si. lege si na bi sinen <rhyme label="c" type="m" corresp="#s1:l4">lip</rhyme>.</l>
+        <l id="s1:l6" met="7" type="-+">und lie he in mitten. ich wene ye keyser nie so wol <rhyme label="b" type="m" corresp="#s1:l3">gelach</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">ver duse szuei nu hayt bi siner <rhyme label="d" type="f">siten</rhyme>.</l>
+        <l id="s1:l8" met="5" type="-+">der mach der hoer sunnen wol <rhyme label="d" type="f" corresp="#s1:l7">erbyetin</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">eyn reyne wip. und da bi <rhyme label="e" type="f">ere</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">dye szuei die mint mit rechte eyn <rhyme label="f" type="m">man</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">duse dru neman geszeyden in <rhyme label="f" type="m" corresp="#s1:l10">kan</rhyme>.</l>
+        <l id="s1:l12" met="4" type="-+">is du der doyt. of dummis herzen <rhyme label="e" type="f" corresp="#s1:l9">lere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

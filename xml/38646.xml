@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38646</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Wie kan het licht van uw gezicht</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wie kan het licht,, van u ghesicht,, <rhyme label="a" type="f">verdraghen</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Dat (als een Son) in onse ooghen <rhyme label="b" type="m">blinght</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Aenhoort de stem die van u wreetheydt <rhyme label="b" type="m" corresp="#s1:l2">singht</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Mits sijnen dienst u niet en kan <rhyme label="a" type="f" corresp="#s1:l1">behaghen</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Mits sijnen dienst u niet en kan <rhyme label="a" type="f" corresp="#s1:l1">behaghen</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">O! maeght,, die plaeght,, en jaeght,, my in <rhyme label="a" type="f">ellenden</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Want ghy mijn jeught,, van vreught,, ontrooven <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Door uwe schoont',, die woont,, in't stuer <rhyme label="b" type="m" corresp="#s2:l2">ghemoet</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">Ach! oft ick noyt soo trotse maeght en <rhyme label="a" type="f" corresp="#s2:l1">kenden</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Ach! oft ick noyt soo trotse maeght en <rhyme label="a" type="f" corresp="#s2:l1">kenden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Hoe langh sult ghy mijn hert door't vier <rhyme label="a" type="f">versenghen</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">Hoe langh sult ghy goddin? my sijn soo <rhyme label="b" type="m">straf</rhyme>?</l>
+        <l id="s3:l3" met="5" type="-+">Misschin,, tot dat my Libitin',, in't <rhyme label="b" type="m" corresp="#s3:l2">graf</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">En Charon sal in Plutos weerelt <rhyme label="a" type="f" corresp="#s3:l1">brenghen</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">En Charon sal in Plutos weerelt <rhyme label="a" type="f" corresp="#s3:l1">brenghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Adieu dan wreede ooghen,, die <rhyme label="a" type="f">medooghen</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Verachten,, trachte maer,, naer mijn <rhyme label="b" type="m">verdriet</rhyme>?</l>
+        <l id="s4:l3" met="5" type="-+">Soo sal ick singhen, tot u schand' dit <rhyme label="b" type="m" corresp="#s4:l2">liedt</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Dat ghy hebt aen een tygerin <rhyme label="a" type="f" corresp="#s4:l1">ghesooghen</rhyme>.</l>
+        <l id="s4:l5" met="5" type="-+">Dat ghy hebt aen een tygerin <rhyme label="a" type="f" corresp="#s4:l1">ghesooghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Ay sus? gheen maeght,, en draeght,, soo bitsen <rhyme label="a" type="f">thoren</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Want sy is saecht van aert, en noyt soo <rhyme label="b" type="m">stuer</rhyme>!</l>
+        <l id="s5:l3" met="5" type="-+">Ach alderschoonste schepsel van <rhyme label="b" type="m" corresp="#s5:l2">natuer</rhyme>!</l>
+        <l id="s5:l4" met="5" type="-+">Laet dan mijn hop' van u niet gaen <rhyme label="a" type="f" corresp="#s5:l1">verloren</rhyme>!</l>
+        <l id="s5:l5" met="5" type="-+">Laet dan mijn hop' van u niet gaen <rhyme label="a" type="f" corresp="#s5:l1">verloren</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

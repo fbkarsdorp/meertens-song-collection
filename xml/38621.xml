@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38621</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Belle Iris</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Venus voester vande <rhyme label="a" type="m">min</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Ach! waer blijft u dertel <rhyme label="b" type="f">wichtjen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat het met sijn gulde <rhyme label="b" type="f" corresp="#s1:l2">schichtjen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Raeckt het hert van mijn <rhyme label="a" type="m" corresp="#s1:l1">Goddin</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Waer de ziel wort <rhyme label="c" type="f">toeghedreven</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">S'is een Phoenix vande <rhyme label="d" type="m">jeught</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">S'is den adem van mijn <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">S'is mijn wellust en mijn <rhyme label="d" type="m" corresp="#s1:l6">vreught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">S'is den roem van mijn <rhyme label="a" type="m">ghesangh</rhyme>:</l>
+        <l id="s2:l2" met="4" type="+-">S'is den glinster van mijn <rhyme label="b" type="f">ooghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Schier een lonckxken van <rhyme label="b" type="f" corresp="#s2:l2">medooghen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Dat de hop' mijn hert <rhyme label="a" type="m" corresp="#s2:l1">bevangh</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Waer in leydt het vier <rhyme label="c" type="f">ghekoffert</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Vande alder-hooghste <rhyme label="d" type="m">trouw</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Siet mijn ziel wort u <rhyme label="c" type="f" corresp="#s2:l5">gheoffert</rhyme>?</l>
+        <l id="s2:l8" met="4" type="+-">Sijt my een Roem-weerde <rhyme label="d" type="m" corresp="#s2:l6">vrouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O Princes! Voor uwen <rhyme label="a" type="m">Troon</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Light u dienaer <rhyme label="b" type="f">neergheboghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Laet hem wesen <rhyme label="b" type="f" corresp="#s3:l2">op-ghetoghen</rhyme>?</l>
+        <l id="s3:l4" met="4" type="+-">Inde glorie van u <rhyme label="a" type="m" corresp="#s3:l1">woon</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Want mijn sinnen en <rhyme label="c" type="f">ghedachten</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Woelen inde <rhyme label="d" type="m">minne-pijn</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">'K strij by daghen en by <rhyme label="c" type="f" corresp="#s3:l5">nachten</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Laet u minnaer, winnaer <rhyme label="d" type="m" corresp="#s3:l6">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22574</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Hoe luid zong de leraar op de tinnen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hoe luydt so sanc die geest uut rechter <rhyme label="a" type="f">minnen</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">'Soe wye in grooten sonden <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die mach hem wel <rhyme label="a" type="f" corresp="#s1:l1">versinnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat hy in tijts die werelt <rhyme label="c" type="m">ofgaet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">In set in God sijn <rhyme label="c" type="m" corresp="#s1:l4">toevaerlaet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hy is wijs, diet can <rhyme label="a" type="f" corresp="#s1:l1">versinnen</rhyme>!'</l>
+        <l id="s1:l7" met="4" type="-+">Dat hy in tijts die werelt <rhyme label="c" type="m" corresp="#s1:l4">ofgaet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">In set in God sijn <rhyme label="c" type="m" corresp="#s1:l4">toevaerlaet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Hy is wijs, diet can <rhyme label="a" type="f" corresp="#s1:l1">versinnen</rhyme>!'</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">En dat verhoerde een sielen riep: 'Och <rhyme label="a" type="f">ermee</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">Nu segt my, edel lichaem <rhyme label="b" type="m">guet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dijn leeven laet my <rhyme label="a" type="f" corresp="#s2:l1">ontfermmen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Tewil dat wy sijn hier <rhyme label="c" type="m">beneden</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Want als die doot coemt Soe moet ic rede <rhyme label="c" type="m" corresp="#s2:l4">gheven</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Soe wilt daer nu om <rhyme label="a" type="f" corresp="#s2:l1">dencken</rhyme>!'</l>
+        <l id="s2:l7" met="4" type="-+">Tewil dat wy sijn hier <rhyme label="c" type="m" corresp="#s2:l4">beneden</rhyme>;</l>
+        <l id="s2:l8" met="4" type="-+">Want als die doot coemt Soe moet ic rede <rhyme label="c" type="m" corresp="#s2:l4">gheven</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Soe wilt daer nu om <rhyme label="a" type="f" corresp="#s2:l1">dencken</rhyme>!'</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Och, rijck Heer God, hoemach ic my <rhyme label="a" type="f">verblijden</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Och, werwaert dat ic <rhyme label="b" type="m">heenengaen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Overal soe moet ic <rhyme label="a" type="f" corresp="#s3:l1">strijden</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">En bin ic dan ghewapent <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Soe lydt ic wonder ende menich swaer <rhyme label="c" type="m" corresp="#s3:l4">verdriet</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Heer God, helpt my nu <rhyme label="a" type="f" corresp="#s3:l1">strijden</rhyme>!</l>
+        <l id="s3:l7" met="4" type="-+">En bin ic dan ghewapent <rhyme label="c" type="m" corresp="#s3:l4">niet</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Soe lydt ic wonder ende menich swaer <rhyme label="c" type="m" corresp="#s3:l4">verdriet</rhyme>.</l>
+        <l id="s3:l9" met="3" type="-+">Heer God, helpt my nu <rhyme label="a" type="f" corresp="#s3:l1">strijden</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Mijn eyghee sinnen willen my <rhyme label="a" type="f">verderven</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Sy kijken alsoe gaeren <rhyme label="b" type="m">uut</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Sy willen soe noede <rhyme label="a" type="f" corresp="#s4:l1">sterven</rhyme>!</l>
+        <l id="s4:l4" met="4" type="-+">Nochtans soe moettet ghestoerven <rhyme label="c" type="m">sijn</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Selt rijck Gods noch verworfven <rhyme label="c" type="m" corresp="#s4:l4">sijn</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Soe moet natuer <rhyme label="a" type="f" corresp="#s4:l1">sterven</rhyme>.</l>
+        <l id="s4:l7" met="4" type="-+">Nochtans soe moettet ghestoerven <rhyme label="c" type="m" corresp="#s4:l4">sijn</rhyme>.</l>
+        <l id="s4:l8" met="4" type="-+">Selt rijck Gods noch verworfven <rhyme label="c" type="m" corresp="#s4:l4">sijn</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Soe moet natuer <rhyme label="a" type="f" corresp="#s4:l1">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Mijn eyghe sinnen willic gaen <rhyme label="a" type="f">bedwinnen</rhyme>:</l>
+        <l id="s5:l2" met="4" type="-+">Daertoe datsy gheneyghet <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Sij en sellens niet <rhyme label="a" type="f" corresp="#s5:l1">volbrenghen</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Al soudt my costen mijn vleische ende <rhyme label="c" type="m">bloet</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Het sel der sielen wesen <rhyme label="c" type="m" corresp="#s5:l4">guet</rhyme>.</l>
+        <l id="s5:l6" met="3" type="-+">Rick God, help my nu <rhyme label="a" type="f" corresp="#s5:l1">strijden</rhyme>!</l>
+        <l id="s5:l7" met="4" type="-+">Al soudt my costen mijn vleische ende <rhyme label="c" type="m" corresp="#s5:l4">bloet</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Het sel der sielen wesen <rhyme label="c" type="m" corresp="#s5:l4">guet</rhyme>.</l>
+        <l id="s5:l9" met="3" type="-+">Rick God, help my nu <rhyme label="a" type="f" corresp="#s5:l1">strijden</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

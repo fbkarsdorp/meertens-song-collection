@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2851</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Jeugd en deugd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Met woerden goedt spraeken sij <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Doen werden sij In <rhyme label="b" type="f">gelaetden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">O venes goddin ons toch <rhyme label="a" type="m" corresp="#s1:l1">behoet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">en quaemen vrij daer men <rhyme label="b" type="f" corresp="#s1:l2">aten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">doen waeren sij daer wel <rhyme label="c" type="m">bekent</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">aldus Ist met spijt In als <rhyme label="c" type="m" corresp="#s1:l5">gewent</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">en seyde wij sullen haestelijck <rhyme label="d" type="m">gaen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">maer beyden tot den dach quam <rhyme label="d" type="m" corresp="#s1:l7">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doen sprack daer een al van haer <rhyme label="a" type="m">twee</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Komt laet ons gaen <rhyme label="b" type="f">voertrecken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">die liefde Is hier niet <rhyme label="a" type="m" corresp="#s2:l1">gesien</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">maer beginnen met ons te <rhyme label="b" type="f" corresp="#s2:l2">gecken</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">daer quaemen soe veel roever <rhyme label="c" type="m">voer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">die klapper man clopte aen die <rhyme label="c" type="m" corresp="#s2:l5">duer</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Wilt gij mijn niet In laeten <rhyme label="d" type="m">dan</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Want ick ben pieter de klapper <rhyme label="d" type="m" corresp="#s2:l7">man</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Veel dronke ruyers quamen daer <rhyme label="a" type="m">In</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ick secht u plaen tis waer <rhyme label="b" type="f">gebuert</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">veel koluers brochten sij daer <rhyme label="a" type="m" corresp="#s3:l1">In</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">en hebben de vellen aen sticken <rhyme label="b" type="f" corresp="#s3:l2">geschuert</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">noch dansende met een dochter <rhyme label="c" type="m">schoen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">wat kreech sij daer tot haeren <rhyme label="c" type="m" corresp="#s3:l5">loen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Een gadt Int hoeft hier wel op <rhyme label="d" type="m">let</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">dat hadt sij van de ruyers <rhyme label="d" type="m" corresp="#s3:l7">loen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prinse hier wel op <rhyme label="a" type="m">let</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">let op sulcken <rhyme label="b" type="f">saeken</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">die gaen te bier met ringen <rhyme label="a" type="m" corresp="#s4:l1">vier</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">nae veenes werck sij <rhyme label="b" type="f" corresp="#s4:l2">haeken</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">maer sij voerlaeten op dit <rhyme label="c" type="m">pas</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">gelijck dydoe vaen <rhyme label="c" type="m" corresp="#s4:l5">eeneas</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">en hebben soe groete schande <rhyme label="d" type="m">gedaen</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">met de speelman niet meer uit ruyen te <rhyme label="d" type="m" corresp="#s4:l7">gaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

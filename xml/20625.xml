@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20625</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scenic song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O Hoe saligh zijn de <rhyme label="a" type="f">lieden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Daer het houw’lijck magh <rhyme label="a" type="f" corresp="#s1:l1">gheschieden</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Om Gods eer te sijn <rhyme label="b" type="m">verbreyt</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Ende Kercke Godts tot <rhyme label="a" type="f" corresp="#s1:l1">stichtingh</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Tot gheselschap en <rhyme label="a" type="f" corresp="#s1:l1">verlichtingh</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Vande dorre <rhyme label="b" type="m" corresp="#s1:l3">Eensaemheydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">O Geluck, die Godes <rhyme label="a" type="f">zeghen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Soo ten Rechten heeft <rhyme label="a" type="f" corresp="#s2:l1">verkreghen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Met een tijtelijcken <rhyme label="b" type="m">schat</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Huys en goet comt van den <rhyme label="a" type="f" corresp="#s2:l1">Heere</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Maer een fijne Vrouw met <rhyme label="a" type="f" corresp="#s2:l1">Eere</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Gaet noch veer te boven <rhyme label="b" type="m" corresp="#s2:l3">dat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maer ’tgheluck komt dan noch <rhyme label="a" type="f">nader</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Soo wanneer ons Godt den <rhyme label="a" type="f" corresp="#s3:l1">Vader</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Vruchten gheeft van onsen <rhyme label="b" type="m">stam</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Als de oorsaeck is Godts <rhyme label="a" type="f" corresp="#s3:l1">werckingh</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Want dat dient dan tot <rhyme label="a" type="f" corresp="#s3:l1">versterckingh</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Daer s’haer oorspronck eerst van <rhyme label="b" type="m" corresp="#s3:l3">nam</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Seghenrijck wort thuys <rhyme label="a" type="f">bevonden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Daer d’eendracht vast hout <rhyme label="a" type="f" corresp="#s4:l1">ghebonden</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Vrede deur der Liefden <rhyme label="b" type="m">bant</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Om de spruyten soo te <rhyme label="a" type="f" corresp="#s4:l1">hand’len</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Met goet leven voor te <rhyme label="a" type="f" corresp="#s4:l1">wand’len</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Dats den alderbesten <rhyme label="b" type="m" corresp="#s4:l3">stant</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Latet Godt dan soo <rhyme label="a" type="f">gheschieden</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Dat ghy dienstboon te <rhyme label="a" type="f" corresp="#s5:l1">ghebieden</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Hebt, hout altijt sulcken <rhyme label="b" type="m">maet</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">Dats u lieven en oock <rhyme label="a" type="f" corresp="#s5:l1">vreesen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Doet soo ghy gheboon wilt <rhyme label="a" type="f" corresp="#s5:l1">weesen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Soo bevestight ghy u <rhyme label="b" type="m" corresp="#s5:l3">staet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Als de spruyten dan soo <rhyme label="a" type="f">groeyen</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Dats in Godes wetten <rhyme label="a" type="f" corresp="#s6:l1">bloeyen</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">Als ghy siet uyt uwen <rhyme label="b" type="m">zaedt</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">V Kints kinderen <rhyme label="a" type="f" corresp="#s6:l1">mennighvuldigh</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Die daer achten te zijn <rhyme label="a" type="f" corresp="#s6:l1">schuldigh</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">Steets te volghen Godes <rhyme label="b" type="m" corresp="#s6:l3">Raedt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">O gheluckighe <rhyme label="a" type="f">Huys-houdingh</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Daer de Iaren met <rhyme label="a" type="f" corresp="#s7:l1">veroudingh</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Zijn met Lieffd’ gesleten <rhyme label="b" type="m">af</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Om dan met sijn grijse <rhyme label="a" type="f" corresp="#s7:l1">haren</rhyme></l>
+        <l id="s7:l5" met="4" type="+-">Met gherustheyt heen te <rhyme label="a" type="f" corresp="#s7:l1">varen</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">In sijn ouders duyster <rhyme label="b" type="m" corresp="#s7:l3">graf</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

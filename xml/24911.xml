@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24911</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Trouw en stade schaamte ootmoed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Trauwe ende steide scaemte <rhyme label="a" type="m">ootmoet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wetentheit ende <rhyme label="b" type="f">eere</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ghezedich edel wijs ende <rhyme label="a" type="m" corresp="#s1:l1">vroet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Noch haet si duechden <rhyme label="b" type="f" corresp="#s1:l2">meere</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Simpel meinder scone ende <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dus ickse kennen <rhyme label="b" type="f" corresp="#s1:l2">leere</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Lief uutvercoren beilde <rhyme label="a" type="m" corresp="#s1:l1">zoet</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Tuwaert ic mi <rhyme label="b" type="f" corresp="#s1:l2">keere</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So lanc so meer wat si mi <rhyme label="a" type="m">doet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ich huer tze dienen <rhyme label="b" type="f">ghere</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ghelijc der hebben enter <rhyme label="a" type="m" corresp="#s2:l1">vloet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gheift si mi zacht ende <rhyme label="b" type="f" corresp="#s2:l2">zere</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Daer toe dwinct soe mijns hertzen <rhyme label="a" type="m" corresp="#s2:l1">bloet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Das ich mi dus <rhyme label="b" type="f" corresp="#s2:l2">ghenere</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Lief uutvercoren beilde <rhyme label="a" type="m" corresp="#s2:l1">zoet</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Tuwaert ic mi <rhyme label="b" type="f" corresp="#s2:l2">keere</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nu nem mi vrauwe in dijn <rhyme label="a" type="m">behoet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Want ich das node <rhyme label="b" type="f">onbeere</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Onstede onzede al aerch <rhyme label="a" type="m" corresp="#s3:l1">ghebroet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ich al tzijt van mi <rhyme label="b" type="f" corresp="#s3:l2">weere</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Gheift mi te dijnre hulden <rhyme label="a" type="m" corresp="#s3:l1">spoet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">So ganstu al mijn <rhyme label="b" type="f" corresp="#s3:l2">dere</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Lief uutvercoren beilde <rhyme label="a" type="m" corresp="#s3:l1">zoet</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Tuwaert ic mi <rhyme label="b" type="f" corresp="#s3:l2">keere</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24682</id>
+    <date>
+      <year-start>1473</year-start>
+      <year-end>1473</year-end>
+    </date>
+    <location>
+      <orginal-name>vlaanderen?</orginal-name>
+      <standard-name>Flanders, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0962462</lon>
+        <lat>4.17985128926016</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Nicolai solemnia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Jhesus Cristus marien <rhyme label="a" type="m">zoen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Verleene den levenden wel te <rhyme label="a" type="m" corresp="#s1:l1">doene</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die zijn versceeden van <rhyme label="a" type="m">eerterijk</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">ruste vrueghde bi hem in <rhyme label="a" type="m" corresp="#s2:l1">hemelrijcke</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ende vrede die helighe kerke <rhyme label="a" type="m">ghemeen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ende alle kerstenen onder <rhyme label="a" type="m" corresp="#s3:l1">een</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ende als ons tijt hier es <rhyme label="a" type="m">ghedaen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Den ewighen troen van hem <rhyme label="a" type="m" corresp="#s4:l1">ontfaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

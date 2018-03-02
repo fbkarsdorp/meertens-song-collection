@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5104</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>proverb</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Pater grijpt doch eenen <rhyme label="a" type="m">moet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En kust eens u <rhyme label="b" type="f">Abdisse</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Al ligghen wy nu onder de <rhyme label="a" type="m" corresp="#s1:l1">voet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wy hooren noch daghelijcks <rhyme label="b" type="f" corresp="#s1:l2">Misse</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Wy hopen wy <rhyme label="c" type="f">sullen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Ons Buycxken noch <rhyme label="c" type="f" corresp="#s1:l5">vullen</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Wat leckers doen <rhyme label="c" type="f" corresp="#s1:l5">smullen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Deur brieven, deur <rhyme label="c" type="f" corresp="#s1:l5">Bullen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Al zijn wy nu <rhyme label="d" type="m">verjaecht</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">U Kappers, <rhyme label="e" type="f">Lamoenen</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">U Kiecxkens, <rhyme label="e" type="f" corresp="#s1:l10">Cappoenen</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">En zijn niet al <rhyme label="d" type="m" corresp="#s1:l9">gheknaecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">U Viskens oock seer net <rhyme label="a" type="m">ghebraen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met Sauskens <rhyme label="b" type="f">overgoten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Annijs, Succaden wel <rhyme label="a" type="m" corresp="#s2:l1">ghedaen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Teghens den Windt <rhyme label="b" type="f" corresp="#s2:l2">besloten</rhyme>::</l>
+        <l id="s2:l5" met="2" type="-+">U kocchen, u <rhyme label="c" type="f">kuymen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">U hoesten u <rhyme label="c" type="f" corresp="#s2:l5">Fluymen</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Sal ick u doen <rhyme label="c" type="f" corresp="#s2:l5">ruymen</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Door Suycker end <rhyme label="c" type="f" corresp="#s2:l5">Pruymen</rhyme>;</l>
+        <l id="s2:l9" met="3" type="-+">Dus suldt ghy zijn <rhyme label="d" type="m">ghetoeft</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Een Beddeken <rhyme label="e" type="f">sachte</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Om slaepen by <rhyme label="e" type="f" corresp="#s2:l10">Nachte</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">End dat daer toe <rhyme label="d" type="m" corresp="#s2:l9">behoeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Koecxkens, Vyghen, end <rhyme label="a" type="m">Rozijnen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Om soberlijcken te <rhyme label="b" type="f">Vasten</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">U Zuypen soet van Rinsche <rhyme label="a" type="m" corresp="#s3:l1">Wijnen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die 'tHarteken niet <rhyme label="b" type="f" corresp="#s3:l2">belasten</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Die zal ick u <rhyme label="c" type="f">maecken</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">End lustich doen <rhyme label="c" type="f" corresp="#s3:l5">smaecken</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">U Lipkens, u <rhyme label="c" type="f" corresp="#s3:l5">Kaecken</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Zal icker doen <rhyme label="c" type="f" corresp="#s3:l5">blaecken</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Dus Paterken weest <rhyme label="d" type="m">gherust</rhyme>,</l>
+        <l id="s3:l10" met="2" type="-+">Van zwaerheydt end <rhyme label="e" type="f">smarten</rhyme>,</l>
+        <l id="s3:l11" met="2" type="+-">Off druck vander <rhyme label="e" type="f" corresp="#s3:l10">harten</rhyme>,</l>
+        <l id="s3:l12" met="3" type="-+">End doet al wat u <rhyme label="d" type="m" corresp="#s3:l9">lust</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">U Lenden-Kusken wel <rhyme label="a" type="m">gheheet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Een Stooffken onder u <rhyme label="b" type="f">voeten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'Smorghens vroech eer ghy u <rhyme label="a" type="m" corresp="#s4:l1">kleet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Zal ick u comen <rhyme label="b" type="f" corresp="#s4:l2">groeten</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">End segghen als <rhyme label="c" type="f">Mater</rhyme>:</l>
+        <l id="s4:l6" met="2" type="-+">Goeden dach lieve <rhyme label="c" type="f" corresp="#s4:l5">Pater</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Belieft u wat <rhyme label="c" type="f" corresp="#s4:l5">Water</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Te wasschen uwe <rhyme label="c" type="f" corresp="#s4:l5">Frater</rhyme>?</l>
+        <l id="s4:l9" met="3" type="-+">Wat dienter dan meer <rhyme label="d" type="m">gheseydt</rhyme>:</l>
+        <l id="s4:l10" met="2" type="-+">Te segghen met <rhyme label="e" type="f">stuypen</rhyme>,</l>
+        <l id="s4:l11" met="2" type="+-">Belieft u te <rhyme label="e" type="f" corresp="#s4:l10">suypen</rhyme></l>
+        <l id="s4:l12" met="3" type="-+">Een Eyken, versch <rhyme label="d" type="m" corresp="#s4:l9">geleydt</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Princelijcken Pater <rhyme label="a" type="m">Fraey</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Al moeten wy <rhyme label="b" type="f">sobereeren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Ons rolleken krijght noch eenen <rhyme label="a" type="m" corresp="#s5:l1">draey</rhyme>,:</l>
+        <l id="s5:l4" met="3" type="-+">Wy zullen noch <rhyme label="b" type="f" corresp="#s5:l2">domineeren</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">Want Princen end <rhyme label="c" type="f">Graven</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Die ryden en <rhyme label="c" type="f" corresp="#s5:l5">draven</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Deur ghiften end <rhyme label="c" type="f" corresp="#s5:l5">gaven</rhyme>,,</l>
+        <l id="s5:l8" met="2" type="-+">Als knechten end <rhyme label="c" type="f" corresp="#s5:l5">slaven</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">Voor ons al inden <rhyme label="d" type="m">Strijdt</rhyme>,</l>
+        <l id="s5:l10" met="2" type="-+">Wij hopen de <rhyme label="e" type="f">Renten</rhyme>,</l>
+        <l id="s5:l11" met="2" type="+-">Van onse <rhyme label="e" type="f" corresp="#s5:l10">Conventen</rhyme></l>
+        <l id="s5:l12" met="3" type="-+">t'Ontfanghen in korten <rhyme label="d" type="m" corresp="#s5:l9">tijdt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

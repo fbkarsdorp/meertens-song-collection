@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30160</id>
+    <date>
+      <year-start>1570</year-start>
+      <year-end>1570</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">comt iesus lief der sielen <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">mijn hart ontsteck met vuer <rhyme label="b" type="m">min</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">verdrijft daer wt al beeldelijck <rhyme label="a" type="m" corresp="#s1:l1">scijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">en coemt daer seluen wonen <rhyme label="b" type="m" corresp="#s1:l2">in</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">an v staet al mijn <rhyme label="a" type="m">toeuerlaet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">ghij sijt die geen die <rhyme label="b" type="m">ick</rhyme> [-...]</l>
+        <l id="s2:l3" met="4" type="-+">mijn troest mijn hoep en al mijn <rhyme label="a" type="m" corresp="#s2:l1">raet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">soeck ick lijef aen v <rhyme label="b" type="m" corresp="#s2:l2">alleeen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">tot v soe ist verlanghen <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">ick such ick ween nach ende <rhyme label="b" type="m">dach</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">[...] mijn mijn lijef v claer aen <rhyme label="a" type="m" corresp="#s3:l1">scijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">ick bid v offet wesen <rhyme label="b" type="m" corresp="#s3:l2">mach</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">sal ick noch langher moeten <rhyme label="a" type="m">deruen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">v soeten tegen <rhyme label="b" type="m">woerdichheit</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">[.......] ick moettet <rhyme label="a" type="m" corresp="#s4:l1">besteruen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">blijft ick in deser <rhyme label="b" type="m" corresp="#s4:l2">droeuijchheit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

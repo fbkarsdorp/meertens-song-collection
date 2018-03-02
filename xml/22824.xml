@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22824</id>
+    <date>
+      <year-start>1600</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Hoe of Susannetje zuur ziet</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Den Graef die heeft <rhyme label="a" type="f">gheschreven</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Met ghesonden Brieven <rhyme label="b" type="m">claer</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Na s'Hertoghen-bos <rhyme label="a" type="f" corresp="#s1:l1">verheven</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Aen Grobbendonck <rhyme label="b" type="m" corresp="#s1:l2">voorwaer</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Hoe lustelijck sy <rhyme label="c" type="f">streden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Teghen den Graef <rhyme label="b" type="m" corresp="#s1:l2">aldaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Grobbendonck hoogh van <rhyme label="a" type="f">moede</rhyme>/</l>
+        <l id="s2:l2" met="3" type="-+">Die schreef wederom eenen <rhyme label="b" type="m">Brief</rhyme>/</l>
+        <l id="s2:l3" met="3" type="-+">Dat hy hem soude <rhyme label="a" type="f" corresp="#s2:l1">seynden</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Aen sijnen <rhyme label="b" type="m" corresp="#s2:l2">Luytenant</rhyme>/</l>
+        <l id="s2:l5" met="3" type="-+">Hy sout hem wel leeren <rhyme label="c" type="f">schrijven</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Quam hy hem by der <rhyme label="b" type="m" corresp="#s2:l2">handt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Graef Maurus quam <rhyme label="a" type="f">ghetreden</rhyme>/</l>
+        <l id="s3:l2" met="3" type="-+">Sprack teghen den Graef <rhyme label="b" type="m">valliant</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Stelt u jonck hert te <rhyme label="a" type="f" corresp="#s3:l1">vreden</rhyme>/</l>
+        <l id="s3:l4" met="3" type="-+">Sy zijn seer <rhyme label="b" type="m" corresp="#s3:l2">valliant</rhyme>/</l>
+        <l id="s3:l5" met="3" type="-+">t' Sijn Ruyters <rhyme label="c" type="f">uyt-ghelesen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Sy  zijn seer <rhyme label="b" type="m" corresp="#s3:l2">triumphant</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Laet my daer me <rhyme label="a" type="f">betijden</rhyme>/</l>
+        <l id="s4:l2" met="3" type="-+">Sprack den Graef was wel <rhyme label="b" type="m">ghemoet</rhyme>/</l>
+        <l id="s4:l3" met="3" type="-+">Ick sal haer leeren <rhyme label="a" type="f" corresp="#s4:l1">schrijven</rhyme>/</l>
+        <l id="s4:l4" met="3" type="-+">En draghen haren <rhyme label="b" type="m" corresp="#s4:l2">moet</rhyme>/</l>
+        <l id="s4:l5" met="3" type="-+">Dat sy sullen <rhyme label="c" type="f">beschrijven</rhyme>/</l>
+        <l id="s4:l6" met="3" type="-+">In traenen van roodt <rhyme label="b" type="m" corresp="#s4:l2">bloedt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Toens is den Graef <rhyme label="a" type="f">ghereden</rhyme>/</l>
+        <l id="s5:l2" met="3" type="-+">Met sijn Ruyters <rhyme label="b" type="m">al-te-mael</rhyme>/</l>
+        <l id="s5:l3" met="3" type="-+">Naer s'Hertoghenbos <rhyme label="a" type="f" corresp="#s5:l1">verheven</rhyme>/</l>
+        <l id="s5:l4" met="3" type="-+">Op't galghe-velt <rhyme label="b" type="m" corresp="#s5:l2">voorwaer</rhyme>/</l>
+        <l id="s5:l5" met="3" type="-+">Hoe lustelijck sy <rhyme label="c" type="f">streden</rhyme>/</l>
+        <l id="s5:l6" met="3" type="-+">Teghen den Graef <rhyme label="b" type="m" corresp="#s5:l2">aldaer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Snoenens ten elf <rhyme label="a" type="f">uren</rhyme>/</l>
+        <l id="s6:l2" met="3" type="-+">Reet Lacker-beetken <rhyme label="b" type="m">uyt</rhyme>/</l>
+        <l id="s6:l3" met="3" type="-+">Met een soo fraeyen <rhyme label="a" type="f" corresp="#s6:l1">Armeye</rhyme>/</l>
+        <l id="s6:l4" met="3" type="-+">Die niet en was <rhyme label="b" type="m" corresp="#s6:l2">verveert</rhyme>/</l>
+        <l id="s6:l5" met="3" type="-+">Teghen haer <rhyme label="c" type="f">weder-parteye</rhyme>/</l>
+        <l id="s6:l6" met="3" type="-+">Soo cloeckelijck te <rhyme label="b" type="m" corresp="#s6:l2">peert</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Weert u kloeck sonder <rhyme label="a" type="f">falen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Sprack Grobbendonck <rhyme label="b" type="m">voorwaer</rhyme>/</l>
+        <l id="s7:l3" met="3" type="-+">Dat ghy mooght prijs <rhyme label="a" type="f" corresp="#s7:l1">behalen</rhyme>/</l>
+        <l id="s7:l4" met="3" type="-+">Teghen den Graef <rhyme label="b" type="m" corresp="#s7:l2">aldaer</rhyme>/</l>
+        <l id="s7:l5" met="3" type="-+">Dat sal ick oock wel <rhyme label="c" type="f">doen</rhyme>/</l>
+        <l id="s7:l6" met="3" type="-+">Sprack Lackerbeetken <rhyme label="b" type="m" corresp="#s7:l2">claer</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Men sagh Lackerbeetken <rhyme label="a" type="f">rijden</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Met sesthien Ruyters <rhyme label="b" type="m">claer</rhyme>/</l>
+        <l id="s8:l3" met="3" type="-+">By s'Hertoghen-bos <rhyme label="a" type="f" corresp="#s8:l1">verheven</rhyme>/</l>
+        <l id="s8:l4" met="3" type="-+">Op't galghe-velt <rhyme label="b" type="m" corresp="#s8:l2">voorwaer</rhyme>/</l>
+        <l id="s8:l5" met="3" type="-+">Hoe lustigh sy <rhyme label="c" type="f">streden</rhyme>/</l>
+        <l id="s8:l6" met="3" type="-+">Teghen den Graef <rhyme label="b" type="m" corresp="#s8:l2">aldaer</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Hoe lustelijck sy <rhyme label="a" type="f">schoten</rhyme>/</l>
+        <l id="s9:l2" met="3" type="-+">Als sy quamen <rhyme label="b" type="m">aen-boort</rhyme>/</l>
+        <l id="s9:l3" met="3" type="-+">Ten heeft hun oock niet <rhyme label="a" type="f" corresp="#s9:l1">verdroten</rhyme>/</l>
+        <l id="s9:l4" met="3" type="-+">De eerste Battalie <rhyme label="b" type="m" corresp="#s9:l2">groot</rhyme>/</l>
+        <l id="s9:l5" met="3" type="-+">Den eersten scheut die sy <rhyme label="c" type="f">schoten</rhyme>/</l>
+        <l id="s9:l6" met="3" type="-+">Bleef Lackerbeetken <rhyme label="b" type="m" corresp="#s9:l2">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Waer is Lackerbeetken <rhyme label="a" type="f">ghebleven</rhyme>/</l>
+        <l id="s10:l2" met="3" type="-+">Sprack den Graef was seer <rhyme label="b" type="m">valliant</rhyme>/</l>
+        <l id="s10:l3" met="3" type="-+">Ick heb hem doodt <rhyme label="a" type="f" corresp="#s10:l1">geschoten</rhyme>/</l>
+        <l id="s10:l4" met="3" type="-+">Hy leet nu oock in't <rhyme label="b" type="m" corresp="#s10:l2">sant</rhyme>/</l>
+        <l id="s10:l5" met="3" type="-+">Ick sal u oock soo <rhyme label="c" type="f">hebben</rhyme>/</l>
+        <l id="s10:l6" met="3" type="-+">Comt ghy my by der <rhyme label="b" type="m" corresp="#s10:l2">handt</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Den Graef setten dry <rhyme label="a" type="f">Lackerbeetken</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Seffens aen sijnen <rhyme label="b" type="m">mondt</rhyme>/</l>
+        <l id="s11:l3" met="3" type="-+">Lackerbeetken is doodt <rhyme label="a" type="f" corresp="#s11:l1">gheschoten</rhyme>/</l>
+        <l id="s11:l4" met="3" type="-+">Sijnen xxx wiert seer <rhyme label="b" type="m" corresp="#s11:l2">door-wondt</rhyme>/</l>
+        <l id="s11:l5" met="3" type="-+">Sijnen Broeder en ginck niet <rhyme label="c" type="f">loopen</rhyme></l>
+        <l id="s11:l6" met="3" type="-+">Daer blevender dry <rhyme label="b" type="m" corresp="#s11:l2">terstondt</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="-+">Noch en lieten sy haren moet niet <rhyme label="a" type="f">sincken</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">Al wast daer soo <rhyme label="b" type="m">vergaen</rhyme>/</l>
+        <l id="s12:l3" met="3" type="-+">Men hoorden de sweerdekens <rhyme label="a" type="f" corresp="#s12:l1">klincken</rhyme>/</l>
+        <l id="s12:l4" met="3" type="-+">En teghen malcanderen <rhyme label="b" type="m" corresp="#s12:l2">slaen</rhyme>/</l>
+        <l id="s12:l5" met="3" type="-+">Men sacher daer sesthien <rhyme label="c" type="f">sincken</rhyme>/</l>
+        <l id="s12:l6" met="3" type="-+">Van die Hollandsche <rhyme label="b" type="m" corresp="#s12:l2">Vaen</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="3" type="-+">Sy zijn al doodt <rhyme label="a" type="f">ghebleven</rhyme>/</l>
+        <l id="s13:l2" met="3" type="-+">Behalven den Graef <rhyme label="b" type="m">aldaer</rhyme>/</l>
+        <l id="s13:l3" met="3" type="-+">Die hebben sy ghevanghen <rhyme label="a" type="f" corresp="#s13:l1">ghenomen</rhyme>/</l>
+        <l id="s13:l4" met="3" type="-+">Het was voor hem een groot <rhyme label="b" type="m" corresp="#s13:l2">beswaer</rhyme>/</l>
+        <l id="s13:l5" met="3" type="-+">Maer het costen hem oock sijn <rhyme label="c" type="f">leven</rhyme>/</l>
+        <l id="s13:l6" met="3" type="-+">Eer hy scheyden van <rhyme label="b" type="m" corresp="#s13:l2">daer</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="3" type="-+">Den Graef sprack laet my <rhyme label="a" type="f">leven</rhyme>/</l>
+        <l id="s14:l2" met="3" type="-+">Teghen hun <rhyme label="b" type="m">al-te-mael</rhyme>/</l>
+        <l id="s14:l3" met="3" type="-+">Goedts ghenogh sal ick u <rhyme label="a" type="f" corresp="#s14:l1">gheven</rhyme>/</l>
+        <l id="s14:l4" met="3" type="-+">Voor u leven <rhyme label="b" type="m" corresp="#s14:l2">al-te-mael</rhyme>/</l>
+        <l id="s14:l5" met="3" type="-+">Het costen hem oock sijn <rhyme label="c" type="f">leven</rhyme>/</l>
+        <l id="s14:l6" met="3" type="-+">Eer hy scheyden van <rhyme label="b" type="m" corresp="#s14:l2">daer</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="3" type="-+">Een van Grobbendockx <rhyme label="a" type="f">knechten</rhyme>/</l>
+        <l id="s15:l2" met="3" type="-+">Dit aenhoort nam sijn <rhyme label="b" type="m">sweert</rhyme>/</l>
+        <l id="s15:l3" met="3" type="-+">Hy heeft hem het hooft <rhyme label="a" type="f" corresp="#s15:l1">ghecloven</rhyme>/</l>
+        <l id="s15:l4" met="3" type="-+">Dat hy viel door ter <rhyme label="b" type="m" corresp="#s15:l2">eert</rhyme>/</l>
+        <l id="s15:l5" met="3" type="-+">Het costen hem oock zijn <rhyme label="c" type="f">leven</rhyme>/</l>
+        <l id="s15:l6" met="3" type="-+">Eer hy scheyden van <rhyme label="b" type="m" corresp="#s15:l2">daer</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="3" type="-+">Dus reden sy alle <rhyme label="a" type="f">ghelijcken</rhyme>/</l>
+        <l id="s16:l2" met="3" type="-+">Met groote blijschap <rhyme label="b" type="m">claer</rhyme>/</l>
+        <l id="s16:l3" met="3" type="-+">Naer s'Hertoghen-bos <rhyme label="a" type="f" corresp="#s16:l1">verheven</rhyme>/</l>
+        <l id="s16:l4" met="3" type="-+">Aen Grobbendock daer <rhyme label="b" type="m" corresp="#s16:l2">claer</rhyme></l>
+        <l id="s16:l5" met="3" type="-+">Waer is Lacker-beetken <rhyme label="c" type="f">ghebleven</rhyme>/</l>
+        <l id="s16:l6" met="3" type="-+">Vraeghden Grobbendonck <rhyme label="b" type="m" corresp="#s16:l2">voorwaer</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="3" type="-+">Ghy Geuskens alle <rhyme label="a" type="f">ghelijcke</rhyme>/</l>
+        <l id="s17:l2" met="3" type="-+">Neemt hier een exempel <rhyme label="b" type="m">aen</rhyme>/</l>
+        <l id="s17:l3" met="3" type="-+">Al zijt ghy schoon van <rhyme label="a" type="f" corresp="#s17:l1">practijcke</rhyme>/</l>
+        <l id="s17:l4" met="3" type="-+">Ghy moest oock houden <rhyme label="b" type="m" corresp="#s17:l2">aen</rhyme>/</l>
+        <l id="s17:l5" met="3" type="-+">Wacht u van Grabbendonckx <rhyme label="c" type="f">Ruyters</rhyme></l>
+        <l id="s17:l6" met="3" type="-+">Want sy comen te dapperlijck <rhyme label="b" type="m" corresp="#s17:l2">aen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27772</id>
+    <date>
+      <year-start>1578</year-start>
+      <year-end>1578</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht]</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>O rad van avontuur</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wat Nieus sal ick u <rhyme label="a" type="f">verclaren</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wilt hooren een droeffelijck <rhyme label="b" type="m">Liet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Tot Maestricht, wat leyder <rhyme label="a" type="f" corresp="#s1:l1">maren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Vande Moort die daer is <rhyme label="b" type="m" corresp="#s1:l2">gheschiet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Men mach het wel <rhyme label="c" type="f">beweenen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Aende Spaengiaerts wreet en <rhyme label="d" type="m">quaet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Zijn dit trouwe Conincx <rhyme label="e" type="f">dienaren</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Die de Landen soo <rhyme label="e" type="f" corresp="#s1:l7">vernielen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Als zy tot Maestricht hebben <rhyme label="d" type="m" corresp="#s1:l6">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoort wat de Spaengiaerts <rhyme label="a" type="f">deden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Aende cleyne Kinderkens <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zy stakense aende <rhyme label="a" type="f" corresp="#s2:l1">spiessen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Doorhieuwense met zweerden <rhyme label="b" type="m" corresp="#s2:l2">aldaer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En toghense levendich van <rhyme label="c" type="f">malcanderen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Soo deden zy die groote <rhyme label="d" type="m">Moort</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Sy moeten ruymen met <rhyme label="e" type="f">schanden</rhyme>:</l>
+        <l id="s2:l8" met="3" type="-+">Al uut der <rhyme label="e" type="f" corresp="#s2:l7">Nederlanden</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Sy willen ons doch alle slaen <rhyme label="d" type="m" corresp="#s2:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Vrouwen gaende zwanger van <rhyme label="a" type="f">kinde</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die namense levendich byden <rhyme label="b" type="m">haer</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En bondense aen eenen <rhyme label="a" type="f" corresp="#s3:l1">Linde</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Was dat niet groot <rhyme label="b" type="m" corresp="#s3:l2">misbaer</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Mijn hart dat is in <rhyme label="c" type="f">sorghen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Van rouwe soo blijff ick <rhyme label="d" type="m">doot</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Zy gingense de straten langs <rhyme label="e" type="f">slepen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Ende hebbense int water <rhyme label="e" type="f" corresp="#s3:l7">ghesmeten</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">t'Kint sterf aen des moeders lichaem <rhyme label="d" type="m" corresp="#s3:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Noch ginghen zijt dus <rhyme label="a" type="f">aenstellen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Al binnen der selver <rhyme label="b" type="m">Steed</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">De Mans die ginghen sy <rhyme label="a" type="f" corresp="#s4:l1">quellen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Alsmen de Vrouwen te voren <rhyme label="b" type="m" corresp="#s4:l2">deed</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Haer lichaem hebben sy <rhyme label="c" type="f">opghesneden</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">De straten waren van bloede <rhyme label="d" type="m">root</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">End ginghen van binnen <rhyme label="e" type="f">besoecken</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Oft sy hadden t'gout op gaen <rhyme label="e" type="f" corresp="#s4:l7">sloecken</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Om het ghelt deden sy die <rhyme label="d" type="m" corresp="#s4:l6">moort</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Men hoorde schreyen end <rhyme label="a" type="f">karmen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Roepend' om ghenade cleyn end <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Och Vrienden laetet u <rhyme label="a" type="f" corresp="#s5:l1">arbarmen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Wat ghy aen ons doch <rhyme label="b" type="m" corresp="#s5:l2">doet</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Gheen ghenade en mach u <rhyme label="c" type="f">ghebeuren</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Ghy moet lyden die groote <rhyme label="d" type="m">pijn</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Hierom soo moet ghy <rhyme label="e" type="f">treuren</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Voor Maestricht binnen der <rhyme label="e" type="f" corresp="#s5:l7">mueren</rhyme></l>
+        <l id="s5:l9" met="3" type="-+">Ghy en wolt ons niet laten <rhyme label="d" type="m" corresp="#s5:l6">in</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Och is daer dan geen <rhyme label="a" type="f">ghenade</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Riepen die arme Jonckvrouwen <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Hanghen ende te <rhyme label="a" type="f" corresp="#s6:l1">branden</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dat zal u ghenade <rhyme label="b" type="m" corresp="#s6:l2">zijn</rhyme>:</l>
+        <l id="s6:l5" met="3" type="-+">Een steenen hart mochtet <rhyme label="c" type="f">arbarmen</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Och wy en hebben doch niet <rhyme label="d" type="m">misdaen</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Het en baet kryten noch <rhyme label="e" type="f">karmen</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">Ghy moet sterven Rijck ende <rhyme label="e" type="f" corresp="#s6:l7">Armen</rhyme>,</l>
+        <l id="s6:l9" met="3" type="-+">Ghy wilt ons Spaengiaerts al <rhyme label="d" type="m" corresp="#s6:l6">dootslaen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Doe hoordemen de Burghers <rhyme label="a" type="f">spreken</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Sulcks en hebben wy niet <rhyme label="b" type="m">verdient</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Doe gingense haer met zwaerden <rhyme label="a" type="f" corresp="#s7:l1">doorsteken</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Alsulcks soo zal u <rhyme label="b" type="m" corresp="#s7:l2">gheschien</rhyme>,</l>
+        <l id="s7:l5" met="3" type="-+">Wistet die Coninck van <rhyme label="c" type="f">Spaengien</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Spraken die Borghers <rhyme label="d" type="m">goet</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">Wistet die Coninck in zijnen <rhyme label="e" type="f">Lande</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Dat ghy ons doet sulcke <rhyme label="e" type="f" corresp="#s7:l7">schande</rhyme>,</l>
+        <l id="s7:l9" met="3" type="-+">Ghy soudet betalen met uwe <rhyme label="d" type="m" corresp="#s7:l6">bloet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Op eender nacht hebben zy <rhyme label="a" type="f">begonnen</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Doe het quam aen den lichten <rhyme label="b" type="m">dach</rhyme>:</l>
+        <l id="s8:l3" met="3" type="-+">By 400 Borghers en Duytsche <rhyme label="a" type="f" corresp="#s8:l1">knechten</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Vermoort al op de straten <rhyme label="b" type="m" corresp="#s8:l2">lach</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Behalven Vrouwen en cleyne <rhyme label="c" type="f">Kinderkens</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Dese waren beschreven <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s8:l7" met="3" type="-+">Daer laghen zy als <rhyme label="e" type="f">Honden</rhyme>,</l>
+        <l id="s8:l8" met="3" type="-+">Als off sy de Wolven hadden <rhyme label="e" type="f" corresp="#s8:l7">verslonden</rhyme>,</l>
+        <l id="s8:l9" met="3" type="-+">Sulcke moort is nu <rhyme label="d" type="m" corresp="#s8:l6">gheschiet</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Zy sullent noch <rhyme label="a" type="f">beclaghen</rhyme>,</l>
+        <l id="s9:l2" met="3" type="-+">Die de poorten op hebben <rhyme label="b" type="m">ghedaen</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Zy worden selver doot <rhyme label="a" type="f" corresp="#s9:l1">gheslaghen</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Dat was den danck, die zy hadden <rhyme label="b" type="m" corresp="#s9:l2">ontfaen</rhyme>,</l>
+        <l id="s9:l5" met="3" type="-+">Een Vendel Duytsche <rhyme label="c" type="f">knechten</rhyme>,,</l>
+        <l id="s9:l6" met="3" type="-+">Stonden die borghers trouwelijck <rhyme label="d" type="m">by</rhyme>,</l>
+        <l id="s9:l7" met="3" type="-+">Wy willen met u <rhyme label="e" type="f">vechten</rhyme>,</l>
+        <l id="s9:l8" met="3" type="-+">Al teghen die spaensche <rhyme label="e" type="f" corresp="#s9:l7">knechten</rhyme></l>
+        <l id="s9:l9" met="3" type="-+">Vyfhondert bleven aende spaengiaerts <rhyme label="d" type="m" corresp="#s9:l6">sy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

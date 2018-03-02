@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24767</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Violette zuiver wit</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Violette zuver <rhyme label="a" type="m">wit</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Juechdich soete ende <rhyme label="b" type="m">amoreus</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Omoedich simpel <rhyme label="a" type="m" corresp="#s1:l1">onbesmit</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Lievelic scone <rhyme label="b" type="m" corresp="#s1:l2">gracieus</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Edel reine <rhyme label="b" type="m" corresp="#s1:l2">glorieus</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Trouwe ende stede ghi <rhyme label="a" type="m" corresp="#s1:l1">bezit</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Troost hem dien ghi maect <rhyme label="b" type="m" corresp="#s1:l2">penseus</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Ende u wil dienen in al <rhyme label="a" type="m" corresp="#s1:l1">dit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

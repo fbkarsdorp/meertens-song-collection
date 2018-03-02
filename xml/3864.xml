@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3864</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Solaas wil ik hanteren</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHi mannen ende <rhyme label="a" type="f">vrouwen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die op der werelt <rhyme label="b" type="m">sijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Wildy v siele <rhyme label="a" type="f" corresp="#s1:l1">behouwen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ende beteren uwen <rhyme label="b" type="m" corresp="#s1:l2">tijt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Wildy den viant <rhyme label="c" type="f">mincken</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die ons altoos volcht <rhyme label="d" type="m">na</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hebt altijt in v <rhyme label="c" type="f" corresp="#s1:l5">ghedincken</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Den naem van <rhyme label="d" type="m" corresp="#s1:l6">Maria</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maria is so <rhyme label="a" type="f">soete</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Ende so wel <rhyme label="b" type="m">ghenaemt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Datse die enghelen <rhyme label="a" type="f" corresp="#s2:l1">groeten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Also haer wel <rhyme label="b" type="m" corresp="#s2:l2">betaemt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Het is die <rhyme label="c" type="f">Coninghinne</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die God sijn bootschap <rhyme label="d" type="m">sant</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Vol gracien ende vol <rhyme label="c" type="f" corresp="#s2:l5">minnen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Maria is sy <rhyme label="d" type="m" corresp="#s2:l6">bekannt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Des heylighen <rhyme label="a" type="f">kersnachte</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wilde hy gheboren <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van haer die ons <rhyme label="a" type="f" corresp="#s3:l1">brachte</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Den hemelschen Coninc <rhyme label="b" type="m" corresp="#s3:l2">sijn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Sonder wee oft <rhyme label="c" type="f">smerte</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">In maechdelijcker <rhyme label="d" type="m">vruecht</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Nv louen wi met <rhyme label="c" type="f" corresp="#s3:l5">herte</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Maria die suyuer <rhyme label="d" type="m" corresp="#s3:l6">iuecht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Bi des enghels <rhyme label="a" type="f">saluyten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat sy Iesum <rhyme label="b" type="m">ontfinck</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Wert die viant te <rhyme label="a" type="f" corresp="#s4:l1">buyten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van ons die ons <rhyme label="b" type="m" corresp="#s4:l2">beuinck</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Het sant hem God die <rhyme label="c" type="f">vader</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Al in Marien <rhyme label="d" type="m">lijf</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Wi dancken alle <rhyme label="c" type="f" corresp="#s4:l5">gader</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Maria dat reyne <rhyme label="d" type="m" corresp="#s4:l6">wijf</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Die negen engelsce <rhyme label="a" type="f">chooren</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die salighe <rhyme label="b" type="m">Seraphin</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Altoos sonder <rhyme label="a" type="f" corresp="#s5:l1">verhooren</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Louen met herten <rhyme label="b" type="m" corresp="#s5:l2">fijn</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Die soete suyuer <rhyme label="c" type="f">name</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Die elc met herten <rhyme label="d" type="m">dient</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Die Gode wel is <rhyme label="c" type="f" corresp="#s5:l5">bequame</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Maria des menschen <rhyme label="d" type="m" corresp="#s5:l6">vrient</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Maria is die <rhyme label="a" type="f">vlamme</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Diet Paradijs <rhyme label="b" type="m">verlicht</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Maria sonder <rhyme label="a" type="f" corresp="#s6:l1">blame</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Vol gracien is <rhyme label="b" type="m" corresp="#s6:l2">ghesticht</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Si is die <rhyme label="c" type="f">tresoriere</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Van gracien dats <rhyme label="d" type="m">certeyn</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Met loue willen wy <rhyme label="c" type="f" corresp="#s6:l5">vercieren</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Maria alle <rhyme label="d" type="m" corresp="#s6:l6">ghemeyn</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">So wie dat in dit <rhyme label="a" type="f">leuen</rhyme>.</l>
+        <l id="s7:l2" met="3" type="-+">Mariam eere <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Si en sal hem niet <rhyme label="a" type="f" corresp="#s7:l1">begheuen</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Al yst dat hi <rhyme label="b" type="m" corresp="#s7:l2">misdoet</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">Gracie salhi <rhyme label="c" type="f">vercrighen</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Als dede <rhyme label="d" type="m">Theophylus</rhyme>.</l>
+        <l id="s7:l7" met="3" type="-+">Hi en wilde dat lof niet <rhyme label="c" type="f" corresp="#s7:l5">swighen</rhyme>.</l>
+        <l id="s7:l8" met="3" type="-+">Marie der moeder van <rhyme label="d" type="m" corresp="#s7:l6">Iesus</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Die Mariam can <rhyme label="a" type="f">eeren</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Ende dienen met herten <rhyme label="b" type="m">geheel</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Si sal hem <rhyme label="a" type="f" corresp="#s8:l1">impetreren</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Van gracien sulck <rhyme label="b" type="m" corresp="#s8:l2">ghedeel</rhyme>.</l>
+        <l id="s8:l5" met="3" type="-+">Dat hi niet en sal <rhyme label="c" type="f">moghen</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Verdoemt sijn na sijn <rhyme label="d" type="m">doot</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Nv laat ons allen <rhyme label="c" type="f" corresp="#s8:l5">louen</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Mariam wi hebbens <rhyme label="d" type="m" corresp="#s8:l6">noot</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Maria draecht die <rhyme label="a" type="f">croone</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Na Iesus haer lieue <rhyme label="b" type="m">kint</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Si salt hem waerlijcx <rhyme label="a" type="f" corresp="#s9:l1">loonen</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Die haer met herten <rhyme label="b" type="m" corresp="#s9:l2">mint</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">Nv bidden wi alle <rhyme label="c" type="f">ghemeene</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">Mariam die suyver <rhyme label="d" type="m">iuecht</rhyme></l>
+        <l id="s9:l7" met="3" type="-+">Dat sy ons <rhyme label="c" type="f" corresp="#s9:l5">verleene</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">Haer gracie ende haer <rhyme label="d" type="m" corresp="#s9:l6">duecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27009</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Hett ich vill <rhyme label="a" type="m">geltt</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">so wehr ich wertt <rhyme label="b" type="f">gehaltenn</rhyme> /</l>
+        <l id="s1:l3" met="2" type="-+">So mir das <rhyme label="a" type="m" corresp="#s1:l1">feltt</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">so ist die liebtt <rhyme label="b" type="f" corresp="#s1:l2">zerspaltenn</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">fraw zwischen mir vnnd <rhyme label="c" type="m">dir</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">die lieb erhub sich <rhyme label="c" type="m" corresp="#s1:l5">schier</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">sie ist a ch baltt z <rhyme label="d" type="m">trennett</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">Jch hett einen eidtt <rhyme label="e" type="f">geschworenn</rhyme> /</l>
+        <l id="s1:l9" met="3" type="-+">d  hets mich a <rhyme label="e" type="f" corresp="#s1:l8">ßerkorenn</rhyme> /</l>
+        <l id="s1:l10" met="4" type="-+">ehe ich so rechtt dich <rhyme label="d" type="m" corresp="#s1:l7">kendtt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Daß ist dein l <rhyme label="a" type="m">st</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">das d  kanst narren <rhyme label="b" type="f">machen</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Eß ist vmbs <rhyme label="a" type="m" corresp="#s2:l1">nst</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">ich m s dein altzeitt <rhyme label="b" type="f" corresp="#s2:l2">lachen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">wan ich an dich <rhyme label="c" type="m">gedenck</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">d  kans die rechte <rhyme label="c" type="m" corresp="#s2:l5">schwenck</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">D  kanst die Narren kappen <rhyme label="d" type="m">machen</rhyme>.</l>
+        <l id="s2:l8" met="3" type="-+">die hast  mir <rhyme label="e" type="f">geschenckt</rhyme> /</l>
+        <l id="s2:l9" met="3" type="-+">ahn mein haltz <rhyme label="e" type="f" corresp="#s2:l8">gehenckt</rhyme> /</l>
+        <l id="s2:l10" met="4" type="-+">daß kan ich nitt <rhyme label="d" type="m" corresp="#s2:l7">vergessen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Jr seint noch <rhyme label="a" type="m">vill</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">wollent mir mein kap <rhyme label="b" type="f">zerrissenn</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Je doeg so <rhyme label="a" type="m" corresp="#s3:l1">will</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Jch mitt jn dr m <rhyme label="b" type="f" corresp="#s3:l2">beissen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">wir sei mir dan vnst <rhyme label="c" type="m">ckell</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">von meinem haltz ger <rhyme label="c" type="m" corresp="#s3:l5">ckett</rhyme>  /</l>
+        <l id="s3:l7" met="4" type="-+">so moeß lassen <rhyme label="d" type="m">farenn</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">Jch mein eß sei ein <rhyme label="e" type="f">plag</rhyme> /</l>
+        <l id="s3:l9" met="3" type="-+">daß alle meine <rhyme label="e" type="f" corresp="#s3:l8">tag</rhyme> /</l>
+        <l id="s3:l10" met="4" type="-+">mich f r narren nitt kan <rhyme label="d" type="m" corresp="#s3:l7">bewaren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

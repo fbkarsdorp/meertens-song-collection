@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22579</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>passing song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Toen Hanselijn over de heide reed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Jhesus, seker <rhyme label="a" type="m">toeverlaet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Daer geender, die sijn in <rhyme label="b" type="f">liden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ic sie, dat Ghi ellendich <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ic en cans my niet verbliden, <rhyme label="b" type="f" corresp="#s1:l2">verbliden</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ic sie, dat Ghi ellendich <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ic en cans my niet verbliden, <rhyme label="b" type="f" corresp="#s1:l2">verbliden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Uu ermen sijn u <rhyme label="a" type="m">uutgherecht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">U handen sijn <rhyme label="b" type="f">doerslagen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">U min heeft my mijn hert <rhyme label="a" type="m" corresp="#s2:l1">doerstect</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ic en can des niet <rhyme label="b" type="f" corresp="#s2:l2">verdragen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">U min heeft my mijn hert <rhyme label="a" type="m" corresp="#s2:l1">doerstect</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ic en can des niet <rhyme label="b" type="f" corresp="#s2:l2">verdragen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">U voeten sijn U <rhyme label="a" type="m">daertoemee</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Soe jammerlijck <rhyme label="b" type="f">doerhouwen</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">U doot maect alle menschen <rhyme label="a" type="m" corresp="#s3:l1">vrij</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Men mach op U betrouwen, <rhyme label="b" type="f" corresp="#s3:l2">betro</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">U doot maect alle menschen <rhyme label="a" type="m" corresp="#s3:l1">vrij</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Men mach op U betrouwen, <rhyme label="b" type="f" corresp="#s3:l2">betro</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">U hoeft, dat neicht teraerden <rhyme label="a" type="m">waert</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">U bloet loept over U <rhyme label="b" type="f">wanghen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">U myn maect my so seer <rhyme label="a" type="m" corresp="#s4:l1">versachten</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Si doet mijn hert <rhyme label="b" type="f" corresp="#s4:l2">verlanghen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">U myn maect my so seer <rhyme label="a" type="m" corresp="#s4:l1">versachten</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Si doet mijn hert <rhyme label="b" type="f" corresp="#s4:l2">verlanghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">U syde is soe wijde <rhyme label="a" type="m">ondaen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Met eenen speer <rhyme label="b" type="f">dorsteken</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Die wil, die machter ghenaden <rhyme label="a" type="m" corresp="#s5:l1">ontfaen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Van alle sine <rhyme label="b" type="f" corresp="#s5:l2">gebreken</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Die wil, die machter ghenaden <rhyme label="a" type="m" corresp="#s5:l1">ontfaen</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Van alle sine <rhyme label="b" type="f" corresp="#s5:l2">gebreken</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hadieu, hadieu, der werelt <rhyme label="a" type="m">mijn</rhyme>!</l>
+        <l id="s6:l2" met="3" type="-+">Ic wil u leren <rhyme label="b" type="f">derven</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Ende bliven inder minnen <rhyme label="a" type="m" corresp="#s6:l1">Sijn</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Die om my aldus woude <rhyme label="b" type="f" corresp="#s6:l2">sterve</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Ende bliven inder minnen <rhyme label="a" type="m" corresp="#s6:l1">Sijn</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Die om my aldus woude <rhyme label="b" type="f" corresp="#s6:l2">sterve</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

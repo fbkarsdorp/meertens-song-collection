@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22001</id>
+    <date>
+      <year-start>1562</year-start>
+      <year-end>1562</year-end>
+    </date>
+    <location>
+      <orginal-name>groessen]</orginal-name>
+      <standard-name>Groessen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9320994</lon>
+        <lat>6.02892</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scriptural song</tag>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Huw huw gezelletjes huw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die met Rhetorijcke <rhyme label="a" type="f">moeyen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Constenaers oft die consten <rhyme label="b" type="m">mint</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">En segt, laet den boomgaert <rhyme label="a" type="f" corresp="#s1:l1">bloeyen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Maer blijft vleeschelijck <rhyme label="b" type="m" corresp="#s1:l2">ghesint</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ja des vleeschs begeert en <rhyme label="c" type="f">lusten</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Volgt ghy na, met veel <rhyme label="c" type="f" corresp="#s1:l5">onrusten</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s1:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy ijdel <rhyme label="a" type="f">Rethorisienen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die tvleesch lusten niet en <rhyme label="b" type="m">velt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Maer om swerelts prijs <rhyme label="a" type="f" corresp="#s2:l1">verdienen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Spelen en Refereynen <rhyme label="b" type="m" corresp="#s2:l2">stelt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ghy prijst Rethorijcke <rhyme label="c" type="f">seere</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En doet haer met twerck <rhyme label="c" type="f" corresp="#s2:l5">oneere</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s2:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Twerck van dijdel <rhyme label="a" type="f">Rethorijcke</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En is niet dan <rhyme label="b" type="m">duysterheyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die svyants loose <rhyme label="a" type="f" corresp="#s3:l1">practijcken</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Heeft in de werelt <rhyme label="b" type="m" corresp="#s3:l2">verbreyt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Dit machmen voor waerheyt <rhyme label="c" type="f">pluchten</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Want sy baert niet dan tvleesch <rhyme label="c" type="f" corresp="#s3:l5">vruchten</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s3:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Componisten oft <rhyme label="a" type="f">Facteuren</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sijn besmet met <rhyme label="b" type="m">hoovaerdye</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Onder henlien nieu <rhyme label="a" type="f" corresp="#s4:l1">ghebeuren</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Siet, diversche <rhyme label="b" type="m" corresp="#s4:l2">boeverye</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Wie best spreect, so tvolck wil <rhyme label="c" type="f">hooren</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Die heeft meest het drincken <rhyme label="c" type="f" corresp="#s4:l5">vooren</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s4:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wat zijnder al vreemde <rhyme label="a" type="f">gheesten</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">In Rethoricams <rhyme label="b" type="m">boomgaert</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Vanden minsten totten <rhyme label="a" type="f" corresp="#s5:l1">meesten</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Volghen sy meest Sathans <rhyme label="b" type="m" corresp="#s5:l2">aert</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Tbloeyssel datmen daer mach <rhyme label="c" type="f">schouwen</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Is een goddeloos <rhyme label="c" type="f" corresp="#s5:l5">betrouwen</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s5:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O Rethoricams <rhyme label="a" type="f">Artisten</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Door spel, Refereynen, oft <rhyme label="b" type="m">Liet</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Als de <rhyme label="a" type="f" corresp="#s6:l1">Comedianisten</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Een anders caf ghy wel <rhyme label="b" type="m" corresp="#s6:l2">siet</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Maer de balcke in in u <rhyme label="c" type="f">ooghen</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Wilt ghy niet te weeren <rhyme label="c" type="f" corresp="#s6:l5">pooghen</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s6:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s6:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dickwils spreect ghylien <rhyme label="a" type="f">lichtveerdich</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Van Gods woorden <rhyme label="b" type="m">delicaet</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Hoe wel Gods Rijck <rhyme label="a" type="f" corresp="#s7:l1">eerweerdich</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Niet alleene in woorden <rhyme label="b" type="m" corresp="#s7:l2">staet</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Maer tis inder cracht <rhyme label="c" type="f">gheleghen</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Dwelck van ulien wert <rhyme label="c" type="f" corresp="#s7:l5">versweghen</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s7:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s7:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">De lieden schijnt ghy te <rhyme label="a" type="f">leeren</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">En uselven leert ghy <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Dat ghy een ander <rhyme label="a" type="f" corresp="#s8:l1">blameren</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Wilt, men u selve doen <rhyme label="b" type="m" corresp="#s8:l2">siet</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Lieghen, sweren, vloecken <rhyme label="c" type="f">mede</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Stwlt ghy vry, na des vleesch <rhyme label="c" type="f" corresp="#s8:l5">zede</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s8:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s8:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Dus Rethorizienen <rhyme label="a" type="f">coene</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Ordeelt u selven <rhyme label="b" type="m">voortaen</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Oft uwe boomen (hoe <rhyme label="a" type="f" corresp="#s9:l1">groene</rhyme>)</l>
+        <l id="s9:l4" met="4" type="-+">Meer hebben dan bladers <rhyme label="b" type="m" corresp="#s9:l2">aen</rhyme></l>
+        <l id="s9:l5" met="4" type="-+">Dat zijn woorden, oft veel <rhyme label="c" type="f">praten</rhyme></l>
+        <l id="s9:l6" met="4" type="-+">Tquaede doen, en tgoede <rhyme label="c" type="f" corresp="#s9:l5">laten</rhyme></l>
+        <l id="s9:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s9:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s9:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Soument oock al <rhyme label="a" type="f">Overleggen</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Wat Rethorizienen <rhyme label="b" type="m">doen</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Tware schandelijck te <rhyme label="a" type="f" corresp="#s10:l1">segghen</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Diet besocht heeft, macht <rhyme label="b" type="m" corresp="#s10:l2">ghevroen</rhyme></l>
+        <l id="s10:l5" met="4" type="-+">Alle ydelheyt <rhyme label="c" type="f">hantieren</rhyme></l>
+        <l id="s10:l6" met="4" type="-+">Sijn Rethoricains <rhyme label="c" type="f" corresp="#s10:l5">manieren</rhyme></l>
+        <l id="s10:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s10:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s10:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Wt een fonteyn can niet <rhyme label="a" type="f">loopen</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Bitter ende water <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Maer Rethoricams <rhyme label="a" type="f" corresp="#s11:l1">ontknoopen</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Inden schijn contrary <rhyme label="b" type="m" corresp="#s11:l2">doet</rhyme></l>
+        <l id="s11:l5" met="4" type="-+">Hierom, hoe sy wert <rhyme label="c" type="f">gepresen</rhyme></l>
+        <l id="s11:l6" met="4" type="-+">En cant maer een vuyl cuyl <rhyme label="c" type="f" corresp="#s11:l5">wesen</rhyme></l>
+        <l id="s11:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s11:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s11:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Hoe sult ghy ontgaen Gods <rhyme label="a" type="f">handen</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">O ghy boomen <rhyme label="b" type="m">vruchteloos</rhyme>?</l>
+        <l id="s12:l3" met="4" type="-+">Elck boom wert ghevelt om <rhyme label="a" type="f" corresp="#s12:l1">branden</rhyme></l>
+        <l id="s12:l4" met="4" type="-+">Die onvruchtbaer blijft <rhyme label="b" type="m" corresp="#s12:l2">altoos</rhyme></l>
+        <l id="s12:l5" met="4" type="-+">Dus doet ghy geen rechte <rhyme label="c" type="f">boete</rhyme></l>
+        <l id="s12:l6" met="4" type="-+">En gelooft Gods woorden <rhyme label="c" type="f" corresp="#s12:l5">soete</rhyme></l>
+        <l id="s12:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s12:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s12:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Tware tijt dat groot en <rhyme label="a" type="f">cleyne</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Recht en slecht leefden <rhyme label="b" type="m">eenpaer</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">O Rethorizijns <rhyme label="a" type="f" corresp="#s13:l1">ghemeyne</rhyme></l>
+        <l id="s13:l4" met="4" type="-+">Overdenckt dees woorden <rhyme label="b" type="m" corresp="#s13:l2">claer</rhyme></l>
+        <l id="s13:l5" met="4" type="-+">Na Gods raet wilt u doch <rhyme label="c" type="f">voeghen</rhyme></l>
+        <l id="s13:l6" met="4" type="-+">Want wilt ghy dacker niet <rhyme label="c" type="f" corresp="#s13:l5">ploegen</rhyme></l>
+        <l id="s13:l7" met="3" type="-+">Wat hier af comen <rhyme label="d" type="m">sal</rhyme></l>
+        <l id="s13:l8" met="4" type="+-">Christus oogskens doorsient <rhyme label="d" type="m" corresp="#s13:l7">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

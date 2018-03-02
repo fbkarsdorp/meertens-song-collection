@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25165</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Eyn minnen dyef der lieflich <rhyme label="a" type="m">stilt</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">lief und dat lief wal dyeflich <rhyme label="a" type="m" corresp="#s1:l1">hilt</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">deme kunt sin lyef zu <rhyme label="b" type="f">lebe</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">kan uch der dyef dat lyeflich lyef <rhyme label="c" type="f">helin</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">sam eyn dyef <rhyme label="c" type="f" corresp="#s1:l4">stelin</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">der dyef so deylt lief mit <rhyme label="b" type="f" corresp="#s1:l3">lebe</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">und dyef mit diebe. ir minnin <rhyme label="d" type="m">gelt</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">dat lever is dan al die <rhyme label="d" type="m" corresp="#s1:l7">werilt</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">dye lieplich minne git <rhyme label="e" type="m">in</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">dyeplichin mangin lyplichin <rhyme label="f" type="m">rayt</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">der dyeplichin under in zueyn umbe <rhyme label="f" type="m" corresp="#s1:l10">gayt</rhyme>.</l>
+        <l id="s1:l12" met="4" type="-+">dye liebe zugt is allis <rhyme label="e" type="m" corresp="#s1:l9">hyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

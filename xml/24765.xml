@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24765</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Blij en vro uit zorgen last</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Blide ende vro uut zorghen <rhyme label="a" type="f">laste</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ende nummer onghesteide <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hier in vint men der vruechden <rhyme label="a" type="f" corresp="#s1:l1">raste</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dats ombekent int hertze <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ghenouchte es lidens <rhyme label="b" type="m" corresp="#s1:l2">medicijn</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Daer hope in <rhyme label="c" type="m">steit</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ghenouchte voucht leit ter <rhyme label="c" type="m" corresp="#s1:l6">vroilicheit</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hi zeilt mi enen zekren <rhyme label="a" type="f">maste</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die vroilic scuwet der zoorghen <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wanneer ic bem in hopen <rhyme label="a" type="f" corresp="#s2:l1">vaste</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">So levic in een vroylic <rhyme label="b" type="m" corresp="#s2:l2">scijn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Bestu ghesteidich <rhyme label="b" type="m" corresp="#s2:l2">minnerlijn</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Hoop ende <rhyme label="c" type="m">verbeit</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ghenoucht voucht leit ter <rhyme label="c" type="m" corresp="#s2:l6">vroilicheit</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Waen ende twifel sijn mijn <rhyme label="a" type="f">gaste</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Trouwe es mijn wert tot in den <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">In vinde niet daer ic na <rhyme label="a" type="f" corresp="#s3:l1">taste</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Doch mijn gheluc dan es niet <rhyme label="b" type="m" corresp="#s3:l2">dijn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Die nie ne smaecte goeden <rhyme label="b" type="m" corresp="#s3:l2">wijn</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Te biere hi <rhyme label="c" type="m">gheit</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ghenoucht voucht leit ter <rhyme label="c" type="m" corresp="#s3:l6">vroilicheit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22543</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Jhesus, mijn alre liefste <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mijn hart dat is tot U <rhyme label="b" type="m">altoes</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Och, dat ic my tot U toe niet en <rhyme label="a" type="m" corresp="#s1:l1">ker</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat doen mijn sonden en die werlt <rhyme label="b" type="m" corresp="#s1:l2">boes</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">'Vaergheeftet my, schoen Lief, des bidic <rhyme label="c" type="m">Dij</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Soelaesselijck Heer, schoen <rhyme label="c" type="m" corresp="#s1:l5">Liefkijn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">waer Ghi <rhyme label="d" type="m">sijt</rhyme>!</l>
+        <l id="s1:l8" met="4" type="-+">Ghi hout mijn hartkijn in <rhyme label="c" type="m" corresp="#s1:l5">vroechdenal</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Vaergheeftet my, schoen Lief, des bid ic <rhyme label="c" type="m" corresp="#s1:l5">Di</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Soelaesselijck <rhyme label="d" type="m" corresp="#s1:l7">Heer'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ic was in <rhyme label="a" type="m">druyck</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">ic en vant gheen <rhyme label="b" type="m">troest</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Doen ic ovaer sach veel <rhyme label="a" type="m" corresp="#s2:l1">ongheval</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ende doe ic my wel <rhyme label="b" type="m" corresp="#s2:l2">overdocht</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dat het ommer dus weesen <rhyme label="c" type="m">sal</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">'Troest mijn, schoen Lief, in alre <rhyme label="c" type="m" corresp="#s2:l5">tijt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Soelaesselijc Heer, schoen <rhyme label="d" type="m">Liefkijn</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">waer Ghi <rhyme label="c" type="m" corresp="#s2:l5">sijt</rhyme>!</l>
+        <l id="s2:l9" met="4" type="-+">Ghi hout mijn harteken in <rhyme label="c" type="m" corresp="#s2:l5">vroechdenal</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">Troest mijn, <rhyme label="d" type="m" corresp="#s2:l7">schoen'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Des smoersghens als den dach <rhyme label="a" type="m">opgaet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">So wil ic dencke dat ic sterven <rhyme label="b" type="m">sel</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Soe en weet ic ghenen <rhyme label="a" type="m" corresp="#s3:l1">beterenraet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dan een guede consiency te hebben <rhyme label="b" type="m" corresp="#s3:l2">wel</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">'Troest mijn, schoen Lief, in alre <rhyme label="c" type="m">tijt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Soelaesselijc Heer, schoen Liefken,waer Ghij <rhyme label="c" type="m" corresp="#s3:l5">sijt</rhyme>!</l>
+        <l id="s3:l7" met="4" type="-+">Ghi hout mijn hartken in vroechden <rhyme label="d" type="m">al</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">'Troest mijn, schoen Lief, in alre <rhyme label="c" type="m" corresp="#s3:l5">tijt</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Soelaesselijc Heer, schoen Liefken,waer Ghij <rhyme label="c" type="m" corresp="#s3:l5">sijt</rhyme>!</l>
+        <l id="s3:l10" met="4" type="-+">Ghi hout mijn hartken in vroechden <rhyme label="d" type="m" corresp="#s3:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die doot, die coemt so <rhyme label="a" type="m">onvoersiens</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Soe datmen niet en weet <rhyme label="b" type="m">wanneer</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Soe denck ic dan in minnen <rhyme label="a" type="m" corresp="#s4:l1">sin</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat ic leef alsoe ic sterven <rhyme label="b" type="m" corresp="#s4:l2">wil</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">'Troest mijn, schoen Lief, in alre <rhyme label="c" type="m">tijt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Soelaesselijc Heer, schoen Liefkijn,waer Ghi <rhyme label="c" type="m" corresp="#s4:l5">sijt</rhyme>!</l>
+        <l id="s4:l7" met="4" type="-+">Ghi hout mijn hartken in vroechden <rhyme label="d" type="m">al'</rhyme>.</l>
+        <l id="s4:l8" met="4" type="-+">'Troest mijn, schoen Lief, in alre <rhyme label="c" type="m" corresp="#s4:l5">tijt</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Soelaesselijc Heer, schoen Liefkijn,waer Ghi <rhyme label="c" type="m" corresp="#s4:l5">sijt</rhyme>!</l>
+        <l id="s4:l10" met="4" type="-+">Ghi hout mijn hartken in vroechden <rhyme label="d" type="m" corresp="#s4:l7">al'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25249</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>bisdom utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>A solis ortus cardine</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vande sons eersten <rhyme label="a" type="m">opgaen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">tot endt des werels <rhyme label="b" type="m">onuersaecht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">wij louen christum prins <rhyme label="a" type="m" corresp="#s1:l1">bequaem</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">geboren van Maria <rhyme label="b" type="m" corresp="#s1:l2">maecht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Salich scepper van werels <rhyme label="a" type="m">breet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">om te verlossen t'vleijs met <rhyme label="b" type="m">vleijschs</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">heft aengedaen der slauen <rhyme label="a" type="m" corresp="#s2:l1">cleet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">bewarende sijn scepsels <rhyme label="b" type="m" corresp="#s2:l2">eijscht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">In maechs leden suijuer <rhyme label="a" type="m">reijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">daelt die hemelsche gratij <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">des maechs lichaem draecht toch <rhyme label="a" type="m" corresp="#s3:l1">certeijn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">een ombekent verburgen <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Des maechdelicks hart, suijuer <rhyme label="a" type="m">huijs</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">voort onuersiens goeds tempel <rhyme label="b" type="m">scoen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Reijn bliuende van mans <rhyme label="a" type="m" corresp="#s4:l1">gedruijs</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">door Engels woort ontfanck een <rhyme label="b" type="m" corresp="#s4:l2">soen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sij heeft gebaert moeder een <rhyme label="a" type="m">struijck</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">dien Gabriel hadde <rhyme label="b" type="m">voorseijt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">wiens eer, noch in sijn mooders <rhyme label="a" type="m" corresp="#s5:l1">buijck</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">sint Jan geslooten heeft <rhyme label="b" type="m" corresp="#s5:l2">verbreijt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Leggen int hoij heeft sij <rhyme label="a" type="m">gewilt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">oeck den cribbe heeft niet <rhyme label="b" type="m">versmaet</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">is met wenich mellick <rhyme label="a" type="m" corresp="#s6:l1">gestilt</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">ende geuoet, diet al <rhyme label="b" type="m" corresp="#s6:l2">versaet</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Die hemelsche choren sijn <rhyme label="a" type="m">blij</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">de engelen loouen den <rhyme label="b" type="m">heer</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">den herderkens bekent wort <rhyme label="a" type="m" corresp="#s7:l1">hij</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">die is herder en scepper, <rhyme label="b" type="m" corresp="#s7:l2">meer</rhyme>,</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Glorij sij v heer <rhyme label="a" type="m">ombeureest</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">die van een maecht gebooren <rhyme label="b" type="m">sijt</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">met vader ende heijligen <rhyme label="a" type="m" corresp="#s8:l1">geest</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">in ewicheijt tot allen <rhyme label="b" type="m" corresp="#s8:l2">tijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

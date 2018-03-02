@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22575</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Ik zie de morgenster</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">In alder werelt en is ghen <rhyme label="a" type="m">troest</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Daer is ghenoech te <rhyme label="b" type="f">lijden</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Soe wiet oeckwat gheluckelic <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die heeft ghenoech <rhyme label="b" type="f" corresp="#s1:l2">benyders</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Soe wiet oeckwat gheluckelic <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die heeft ghenoech <rhyme label="b" type="f" corresp="#s1:l2">benyders</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die nyders, die sijn also <rhyme label="a" type="m">fel</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">Wilstusee leree <rhyme label="b" type="f">kennen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soe houdge blyende hebge <rhyme label="a" type="m" corresp="#s2:l1">wel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Daermee moechstuse <rhyme label="b" type="f" corresp="#s2:l2">quellen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Soe houdge blyende hebge <rhyme label="a" type="m" corresp="#s2:l1">wel</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Daermee moechstuse <rhyme label="b" type="f" corresp="#s2:l2">quellen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Si sijn daer boesheit also <rhyme label="a" type="m">vol</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Sy en koenens niet <rhyme label="b" type="f">gheelijden</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Ghesciet ymment gheluck buten haeren <rhyme label="a" type="m" corresp="#s3:l1">cost</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Nochtans moeten sijdt <rhyme label="b" type="f" corresp="#s3:l2">benyden</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Ghesciet ymment gheluck buten haeren <rhyme label="a" type="m" corresp="#s3:l1">cost</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Nochtans moeten sijdt <rhyme label="b" type="f" corresp="#s3:l2">benyden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och, leide moet hem allen <rhyme label="a" type="m">ghescye</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Die dusdanyghe dinghe <rhyme label="b" type="f">pleeghen</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Sy benyden so menich vry edel <rhyme label="a" type="m" corresp="#s4:l1">hert</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ende corten hem haer <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Sy benyden so menich vry edel <rhyme label="a" type="m" corresp="#s4:l1">hert</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ende corten hem haer <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

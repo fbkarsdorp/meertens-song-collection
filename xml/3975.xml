@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3975</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Tandernaken al op de Rijn</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAet liden dat v nyet aen en <rhyme label="a" type="f">gaet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ende en neemt v niemants dinck te <rhyme label="b" type="m">naer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ende ordeelt na ws selfs <rhyme label="a" type="f" corresp="#s1:l1">quaet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ende neemt voort v seluen <rhyme label="b" type="m" corresp="#s1:l2">waer</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Onse oogen dicwils elders <rhyme label="b" type="m" corresp="#s1:l2">sijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ende in haer seluen seer <rhyme label="c" type="m">onbekint</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Daer om seg ic elcken int <rhyme label="b" type="m" corresp="#s1:l2">openbaer</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Weest horende doof en siende <rhyme label="c" type="m" corresp="#s1:l6">blint</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In dit sterflijc corte <rhyme label="a" type="f">leuen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Verkiest altijt die nederste <rhyme label="b" type="m">stede</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Versmaet te sijn / ende niet <rhyme label="a" type="f" corresp="#s2:l1">gepresen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dat is der ootmoedigen grote <rhyme label="b" type="m" corresp="#s2:l2">vrede</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Versmaet v yemant / versmaet v <rhyme label="b" type="m" corresp="#s2:l2">mede</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ende laet God dat ordeel <rhyme label="c" type="m">onbekint</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ende cruypt altijt in <rhyme label="b" type="m" corresp="#s2:l2">simpelheden</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Weest horende doof en siende <rhyme label="c" type="m" corresp="#s2:l6">blint</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wi willen ander daer toe <rhyme label="a" type="f">driuen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat si hemseluen laten <rhyme label="b" type="m">sullen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wi en connen ons seluen daer niet toe <rhyme label="a" type="f" corresp="#s3:l1">crighen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Om wt te gaen onsen eyghen <rhyme label="b" type="m" corresp="#s3:l2">wille</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">O lieue mensche swijcht al <rhyme label="b" type="m" corresp="#s3:l2">stille</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ende en weest niet dus <rhyme label="c" type="m">onbekint</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Mer wilt eerst v quaetheyt <rhyme label="b" type="m" corresp="#s3:l2">villen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Weest horende doof en siende <rhyme label="c" type="m" corresp="#s3:l6">blint</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al den onurede die wi <rhyme label="a" type="f">beseffen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die coemt wt <rhyme label="b" type="m">ongestoruenheyt</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Dat wi die dingen te seer <rhyme label="a" type="f" corresp="#s4:l1">opheffen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ende volgen der <rhyme label="b" type="m" corresp="#s4:l2">onredelicheyt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Het is nature en <rhyme label="b" type="m" corresp="#s4:l2">sinnelicheyt</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Die ons dus verre van God <rhyme label="c" type="m">verureemt</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Dus seg ic so ic heb <rhyme label="b" type="m" corresp="#s4:l2">gheseyt</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Weest horende doof en siende <rhyme label="c" type="m" corresp="#s4:l6">blint</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Oft alle menschen volmaect <rhyme label="a" type="f">waren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ende ons niet en worde op <rhyme label="b" type="m">gheleyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Waer mede haer dan soude <rhyme label="a" type="f" corresp="#s5:l1">openbaren</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ons selfs <rhyme label="b" type="m" corresp="#s5:l2">ongestoruenheyt</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Dus seg ick so ic hebbe <rhyme label="b" type="m" corresp="#s5:l2">gheseyt</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Als ons die dingen sijn <rhyme label="c" type="m">onbekint</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">So sijn si best in die beste vouwe <rhyme label="b" type="m" corresp="#s5:l2">gheleyt</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Weest hoorende doof en siende <rhyme label="c" type="m" corresp="#s5:l6">blint</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

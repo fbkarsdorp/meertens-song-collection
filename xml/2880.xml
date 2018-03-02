@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2880</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Era di maggio</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Met swaer voorsuchten, en Inwendich <rhyme label="a" type="f">trueren</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">moet Ick nu vluchten, eylaes veenes <rhyme label="a" type="f" corresp="#s1:l1">besueren</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">O gewelt dat mijn geschiet, doet mijn <rhyme label="a" type="f" corresp="#s1:l1">schueren</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">En brenckt mijn Int voerdriet tot alder <rhyme label="a" type="f" corresp="#s1:l1">ueren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wij Die beminnen malkander boeven <rhyme label="a" type="f">maeten</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">moeten beginnen den een den ander te <rhyme label="a" type="f" corresp="#s2:l1">laeten</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">door hinderlick fenin waerdich <rhyme label="a" type="f" corresp="#s2:l1">voorvaetet</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Dat sij sseyende sin die liefde <rhyme label="a" type="f" corresp="#s2:l1">haeten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Mijn selfs wille mach Ick niet <rhyme label="a" type="f">volbrengen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Doer haer geschille die niet willen <rhyme label="a" type="f" corresp="#s3:l1">hengen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">nochtans hoep Ick Int ent lief met <rhyme label="a" type="f" corresp="#s3:l1">voerlengen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">en u In liefde Jent noch te <rhyme label="a" type="f" corresp="#s3:l1">voorlangen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Ick bent ontschuldich, dus lief wilt mijn niet <rhyme label="a" type="f">wijten</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">hart sorfuldich sal zijn beloften <rhyme label="a" type="f" corresp="#s4:l1">quiten</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">tot sijnder tijt voorwaer al sout hem <rhyme label="a" type="f" corresp="#s4:l1">spijten</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Dus laet lief eerbaer daar door niet <rhyme label="a" type="f" corresp="#s4:l1">slijten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Liefde wserachtich en sal Dat niet <rhyme label="a" type="f">gedoogen</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Dat Iemant krachtich mijn hert sal steelen <rhyme label="a" type="f" corresp="#s5:l1">moegen</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Dat tot u lief alleen heel is <rhyme label="a" type="f" corresp="#s5:l1">geboegen</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Dus ducht niet liefken rein te sijn <rhyme label="a" type="f" corresp="#s5:l1">bedroegen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Schoene kersouwe prinsesse lief vol <rhyme label="a" type="f">eeren</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">Wienst gunst en trouwe mijn hart oeyt <rhyme label="a" type="f" corresp="#s6:l1">ginck</rhyme> [...]</l>
+        <l id="s6:l3" met="5" type="-+">begeeren voerbeyt met uwen knecht <rhyme label="a" type="f" corresp="#s6:l1">wilt</rhyme> [...]</l>
+        <l id="s6:l4" met="5" type="-+">Dit bidt Ick oprecht den tijt sal [...] <rhyme label="a" type="f" corresp="#s6:l1">eeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

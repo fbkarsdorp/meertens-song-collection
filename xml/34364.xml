@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34364</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>consolation song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Bourrée royale</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">SOete Nimph waerom ghy vluchten <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Keert u ooghskens eens naer <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Al het treuren en het suchten <rhyme label="a" type="m" corresp="#s1:l1">laet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Stelt de droefheyt aen d'een <rhyme label="b" type="m" corresp="#s1:l2">sy</rhyme>:</l>
+        <l id="s1:l5" met="6" type="+-">Siet u dienaer aen,, Wilt u wesen <rhyme label="c" type="m">slaen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Op de liefde die hy <rhyme label="d" type="m">draeght</rhyme>,</l>
+        <l id="s1:l7" met="6" type="+-">Weest toch Nimph verblijt,, Met die u Soo <rhyme label="e" type="m">vrijt</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">En sucht niet meer mistrooste <rhyme label="d" type="m" corresp="#s1:l6">Maeght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wilt hem in u hert stantvastich <rhyme label="a" type="m">sijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Want ghy weet hoe ick u <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Al de pijnen die u lastich <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Sijn my lastich me <rhyme label="b" type="m" corresp="#s2:l2">Goddin</rhyme>,</l>
+        <l id="s2:l5" met="6" type="+-">Uwen tegenspoet,, Teert mijn vlees en <rhyme label="c" type="m">bloet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">U suchten is my dobbel <rhyme label="d" type="m">smert</rhyme>:</l>
+        <l id="s2:l7" met="6" type="+-">Sucht dan nimmermeer,, Want ghy sijt te <rhyme label="e" type="m">seer</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Ghewortelt binnen in mijn <rhyme label="d" type="m" corresp="#s2:l6">hert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Cost ick maer den sleutel geven <rhyme label="a" type="m">u</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van mijn hertse <rhyme label="b" type="m">min-gedacht</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">k'Weet dat ghy een vreughder leven <rhyme label="a" type="m" corresp="#s3:l1">nu</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Soudt herscheppen voor dees <rhyme label="b" type="m" corresp="#s3:l2">clacht</rhyme>:</l>
+        <l id="s3:l5" met="6" type="+-">Want in mijnen droom,, Hebt gy uwen <rhyme label="c" type="m">thoom</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Die my gedurich treckt den <rhyme label="d" type="m">lust</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">U gesicht alleen,, Heeft my tot het <rhyme label="e" type="m">been</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Ghequetst, sijt ghy noch <rhyme label="d" type="m" corresp="#s3:l6">ongerust</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Schoon Princers ke vaeght de traenen <rhyme label="a" type="m">af</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Weest met uwen dienaer <rhyme label="b" type="m">bly</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Ghy sout aen mijn Ziel bebanen <rhyme label="a" type="m" corresp="#s4:l1">t'graf</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Soo ghy langer bleeft in <rhyme label="b" type="m" corresp="#s4:l2">ly</rhyme>:</l>
+        <l id="s4:l5" met="6" type="+-">Is u vader doot,, Ghy en hebt geen <rhyme label="c" type="m">noot</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Die oorsaeck van u suchten <rhyme label="d" type="m">geeft</rhyme>,</l>
+        <l id="s4:l7" met="6" type="+-">Want ghy hebt een man,, Die u helpen <rhyme label="e" type="m">can</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">en met u in den vrede <rhyme label="d" type="m" corresp="#s4:l6">leeft</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

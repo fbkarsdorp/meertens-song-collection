@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25106</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>christmas song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een kindeken es <rhyme label="a" type="f">geboren</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Een volle <rhyme label="b" type="m">vloet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Die van hem es <rhyme label="a" type="f" corresp="#s1:l1">vercoren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hy mach wel dragen hoogen <rhyme label="b" type="m" corresp="#s1:l2">moet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dit kint compt ons nv <rhyme label="a" type="f">coopen</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Met grooter <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Het was hem al <rhyme label="a" type="f" corresp="#s2:l1">ontloopen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Hij heeft ons weder <rhyme label="b" type="m" corresp="#s2:l2">bracht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En wien mach nv <rhyme label="a" type="f">ontbliuen</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Dese vulle <rhyme label="b" type="m">vloet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Hy liet hem doch <rhyme label="a" type="f" corresp="#s3:l1">ontliuen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dees hoge minneer <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Nv es hy neder <rhyme label="a" type="f">comen</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Ende seere <rhyme label="b" type="m">gebeet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Dit wonder es <rhyme label="a" type="f" corresp="#s4:l1">vernomen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die gods sone is met ons <rhyme label="b" type="m" corresp="#s4:l2">gecleedt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Een kint es ons <rhyme label="a" type="f">gegeuen</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Dat aensach onsen <rhyme label="b" type="m">noet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Van sinen volke <rhyme label="a" type="f" corresp="#s5:l1">verdreuen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Dat dunct my iammer <rhyme label="b" type="m" corresp="#s5:l2">groot</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Nv leit hy <rhyme label="a" type="f">gebonden</rhyme></l>
+        <l id="s6:l2" met="2" type="-+">En weynet <rhyme label="b" type="m">seere</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">In arme doexken <rhyme label="a" type="f" corresp="#s6:l1">gewonden</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Genedich god geweldich <rhyme label="b" type="m" corresp="#s6:l2">heere</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

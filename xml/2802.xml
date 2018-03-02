@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2802</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Engels Schoenlappertje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vrou veenes kaeren <rhyme label="a" type="m">exsoelent</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">die in <rhyme label="b" type="m">tgeenerael</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">nn met beswaeren syn <rhyme label="a" type="m" corresp="#s1:l1">doerprent</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">al met kuibydoes <rhyme label="b" type="m" corresp="#s1:l2">strael</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">wilt vryielick paelast vraegen <rhyme label="c" type="m">raet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">sy die goddin der wysheit <rhyme label="d" type="m">is</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">bidt haer <rhyme label="d" type="m" corresp="#s1:l6">gewis</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">tsal syn tot uwer <rhyme label="c" type="m" corresp="#s1:l5">baet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als gy bit syt <rhyme label="a" type="m">geconfoorseert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">al doer haer wys <rhyme label="b" type="m">voerstant</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">u dan daer wel nae <rhyme label="a" type="m" corresp="#s2:l1">regueleert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">met een gemoet <rhyme label="b" type="m" corresp="#s2:l2">faeliant</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">soo wilt tot u schoen liefken <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">vermaenen haer met reeden <rhyme label="d" type="m">blooet</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">u liefde <rhyme label="d" type="m" corresp="#s2:l6">grooet</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Daer gy mee syt <rhyme label="c" type="m" corresp="#s2:l5">belaen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Cricht gy Int eerst geen goedt <rhyme label="a" type="m">antwoert</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">versaecht u niet te <rhyme label="b" type="m">seer</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">haer eerbaerheit sulcks toe <rhyme label="a" type="m" corresp="#s3:l1">behoert</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Daer om versouckt vry <rhyme label="b" type="m" corresp="#s3:l2">weer</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">hoe een dochter haer trotser <rhyme label="c" type="m">hout</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">hoe die liefde in therte <rhyme label="d" type="m">bloeit</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">te meerder <rhyme label="d" type="m" corresp="#s3:l6">groeit</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">want die niet haest <rhyme label="c" type="m" corresp="#s3:l5">vooerkout</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gy Prinse al hier wel op <rhyme label="a" type="m">let</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">u altoos eerelick <rhyme label="b" type="m">draecht</rhyme>  |</l>
+        <l id="s4:l3" met="4" type="-+">als gy u liefie spreeckt te <rhyme label="a" type="m" corresp="#s4:l1">met</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Doet toch dat haer <rhyme label="b" type="m" corresp="#s4:l2">behaecht</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">sooe doende sult gy troest <rhyme label="c" type="m">ontfaen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">als dan soe mach u swaer <rhyme label="d" type="m">torment</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">haest syn ten <rhyme label="d" type="m" corresp="#s4:l6">ent</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">soo leeft in vruecht <rhyme label="c" type="m" corresp="#s4:l5">voortaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

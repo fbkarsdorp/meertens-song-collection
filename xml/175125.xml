@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175125</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+    </tags>
+    <melody>De tijd is hier</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Langh Vorst en Meij ,, connen nyet <rhyme label="a" type="f">accorderen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Om kale weij ,, en dorricheyt van <rhyme label="b" type="m">gras</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">dossen geley ,, veel hooffden staech doet <rhyme label="a" type="f" corresp="#s1:l1">zweeren</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">In dees contreij ,, zidt pover noch In <rhyme label="b" type="m" corresp="#s1:l2">das</rhyme></l>
+        <l id="s1:l5" met="5" type="+-">voor wel betalen, verhuijst de leghe <rhyme label="b" type="m" corresp="#s1:l2">cas</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">want huijshuijr noch te soucken ,, <rhyme label="c" type="m">is</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">den weyer mee ,, aent vloecken ,, <rhyme label="c" type="m" corresp="#s1:l6">wis</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">T'gelt valt oock In veel boecken ,, <rhyme label="c" type="m" corresp="#s1:l6">mis</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">De schult is t'quaet <rhyme label="b" type="m" corresp="#s1:l2">gewas</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">O heer meerder last ,, voor die zeer garen <rhyme label="a" type="f">borgen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">dan t'houden vast ,, persoon ende <rhyme label="b" type="m">huysraet</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">als t'groen cruijt wast ,, behoort men dan te <rhyme label="a" type="f" corresp="#s2:l1">sorgen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">t guut is verbrast ,, Is om te genen <rhyme label="b" type="m" corresp="#s2:l2">quaet</rhyme></l>
+        <l id="s2:l5" met="5" type="+-">Laet lichte herten ,, die zijn In sulcken <rhyme label="b" type="m" corresp="#s2:l2">staet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Nae Leyderdorp, toch varen <rhyme label="c" type="m">voort</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">off wandlen deur de Maren ,, <rhyme label="c" type="m" corresp="#s2:l6">poort</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Vrou Venus zulck spel garen ,, <rhyme label="c" type="m" corresp="#s2:l6">hoort</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Om plucken, bloem en <rhyme label="b" type="m" corresp="#s2:l2">zaet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Des Paus gebroet ,, hoort men oock mee <rhyme label="a" type="f">beclagen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">wat vrughten doet ,, de nieuwen meyen <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">huijscoop tans moet ,, verschelen net tien <rhyme label="a" type="f" corresp="#s3:l1">dagen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">een nieuwen hoet ,, Intrest voor cleyn <rhyme label="b" type="m" corresp="#s3:l2">profyt</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Transoen gegeven, den wyncoop oock mee <rhyme label="b" type="m" corresp="#s3:l2">quijt</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">treedt gelt en is voor hande ,, <rhyme label="c" type="m">nyet</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Om wijcken waer groot schande ,, <rhyme label="c" type="m" corresp="#s3:l6">ziet</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">zoo wie nae vlaenderlande ,, <rhyme label="c" type="m" corresp="#s3:l6">vliet</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">en hoort hier geen <rhyme label="b" type="m" corresp="#s3:l2">verwyt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Prins, van reyn uijt ,, plant toch de meij met <rhyme label="a" type="f">geest</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">die t'goet geluijt ,, doet locken byden <rhyme label="b" type="m">dranck</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Vrou Lors de bruyt ,, gaet oock garen ter <rhyme label="a" type="f" corresp="#s4:l1">feesten</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">off nyet beduijt ,, elck prijst den <rhyme label="b" type="m" corresp="#s4:l2">ommeganck</rhyme></l>
+        <l id="s4:l5" met="5" type="+-">om Loy en lecker te singen minne <rhyme label="b" type="m" corresp="#s4:l2">sanck</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">wilt zoo de bloemkens plucken ,, <rhyme label="c" type="m">root</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">T'geweer, oock nijet ontstucken ,, <rhyme label="c" type="m" corresp="#s4:l6">stoot</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Om winnen met twee crucken ,, <rhyme label="c" type="m" corresp="#s4:l6">t'broot</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">hier al d leven <rhyme label="b" type="m" corresp="#s4:l2">lanck</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

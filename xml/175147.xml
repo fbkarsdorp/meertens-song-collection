@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175147</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wij Dancken t'eedele goutblomken <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">waer door wij hebben <rhyme label="b" type="m">gebancketeert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">wij dancken de wet vry sonder <rhyme label="a" type="f" corresp="#s1:l1">sneven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die ons zo heerlick hebben <rhyme label="b" type="m" corresp="#s1:l2">gevestiveert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Onswaert die moeten wy oock eer <rhyme label="a" type="f">toeschrijven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die ons alle vrientschap hier heeft <rhyme label="b" type="m">getoont</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">De heer die laet hem In eeren <rhyme label="a" type="f" corresp="#s2:l1">blyven</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">en al dat binnen zyn huyse <rhyme label="b" type="m" corresp="#s2:l2">woont</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghij burgers blyft den heer <rhyme label="a" type="f">bevolen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">wij moeten schyden tis nu den <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">bewaert gods woort ghy en meucht niet <rhyme label="a" type="f" corresp="#s3:l1">dolen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Mer euwich met hem werden <rhyme label="b" type="m" corresp="#s3:l2">verblijt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princen oorloff mannen en <rhyme label="a" type="f">vrouwen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">minst ende meest groot ende <rhyme label="b" type="m">smal</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">den geest des heeren moet u <rhyme label="a" type="f" corresp="#s4:l1">bedouwen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">twert u geJont door de genuecht ist <rhyme label="b" type="m" corresp="#s4:l2">al</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

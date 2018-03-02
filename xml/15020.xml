@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15020</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>praise</tag>
+    </tags>
+    <melody>L'Orangère</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Den mensche, Godes handen <rhyme label="a" type="m">werck</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Geschapen om syn waerde <rhyme label="a" type="m" corresp="#s1:l1">Kerck</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Te rechten op tot prys en <rhyme label="b" type="m">lof</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van die daer is den Schepper <rhyme label="b" type="m" corresp="#s1:l3">of</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Liet boos'lyck,, Sich <rhyme label="c" type="f">loos'lyck</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">In sulck <rhyme label="d" type="m">ellend</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Verleyden van't <rhyme label="d" type="m" corresp="#s1:l6">Serpent</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dat daer door al,, Wy totten <rhyme label="e" type="m">val</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Gekomen syn en gantsch <rhyme label="d" type="m" corresp="#s1:l6">geschent</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gelijck des menschs <rhyme label="a" type="m">verderffenis</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Door eenen mensch gekomen <rhyme label="a" type="m" corresp="#s2:l1">is</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">So is de mensch (God hebbe <rhyme label="b" type="m">d'eer</rhyme>!)</l>
+        <l id="s2:l4" met="4" type="-+">Door eenen mensch behouden <rhyme label="b" type="m" corresp="#s2:l3">weer</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">'sDoots banden,, met <rhyme label="c" type="f">schanden</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">In droeven <rhyme label="d" type="m">schyn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Heeft Christus door veel <rhyme label="d" type="m" corresp="#s2:l6">pyn</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Voor ons gesmaeckt,, End' oock <rhyme label="e" type="m">gemaeckt</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Dat wy des doots vry mochten <rhyme label="d" type="m" corresp="#s2:l6">syn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O mensch! weest danckbaer uwen <rhyme label="a" type="m">God</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En houdet altyt syn <rhyme label="a" type="m" corresp="#s3:l1">gebod</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Weest danckbaer die u so veel <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Uyt loutere genade <rhyme label="b" type="m" corresp="#s3:l3">doet</rhyme>;</l>
+        <l id="s3:l5" met="2" type="-+">Wilt vreesen,, end' <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Hem <rhyme label="d" type="m">onderdaen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Syn woord toch nemen <rhyme label="d" type="m" corresp="#s3:l6">aen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Op dat ghy moogt,, Hier na <rhyme label="e" type="m">verhoogt</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Die eeuwig-lange doot <rhyme label="d" type="m" corresp="#s3:l6">ontgaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26870</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Saart schone vrouw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Zartt schone <rhyme label="a" type="m">fraw</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">gedenck vnnd <rhyme label="a" type="m" corresp="#s1:l1">schaw</rhyme> /</l>
+        <l id="s1:l3" met="2" type="-+">wie mich dein <rhyme label="b" type="m">lieb</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">jn stettiger <rhyme label="b" type="m" corresp="#s1:l3">yeb</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">hertzlichenn sehr th itt <rhyme label="c" type="f">krenckenn</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Kein row hab <rhyme label="d" type="m">ich</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">so lang als <rhyme label="d" type="m" corresp="#s1:l6">mich</rhyme> /</l>
+        <l id="s1:l8" met="2" type="-+">dein e glein <rhyme label="e" type="m">fein</rhyme> /</l>
+        <l id="s1:l9" met="2" type="-+">mitt lichttem <rhyme label="e" type="m" corresp="#s1:l8">schein</rhyme> /</l>
+        <l id="s1:l10" met="3" type="-+">gegenn mich fr ndtlich th n <rhyme label="c" type="f" corresp="#s1:l5">wenckenn</rhyme> /</l>
+        <l id="s1:l11" met="2" type="+-">Die habenn <rhyme label="f" type="m">mich</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">so <rhyme label="f" type="m" corresp="#s1:l11">hertzelich</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">mitt deiner liebt <rhyme label="g" type="f">besessenn</rhyme> /</l>
+        <l id="s1:l14" met="2" type="-+">dar mb schaw <rhyme label="h" type="m">ahn</rhyme> /</l>
+        <l id="s1:l15" met="2" type="-+">waß ich dir <rhyme label="h" type="m" corresp="#s1:l14">gan</rhyme> /</l>
+        <l id="s1:l16" met="3" type="-+">dein kan ich nitt <rhyme label="g" type="f" corresp="#s1:l13">vergessenn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Dein roter m <rhyme label="a" type="m">ndt</rhyme> /</l>
+        <l id="s2:l2" met="2" type="-+">z  aller st <rhyme label="a" type="m" corresp="#s2:l1">ndt</rhyme> /</l>
+        <l id="s2:l3" met="2" type="-+">mich sehr <rhyme label="b" type="m">anfichtt</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">mein hertz das <rhyme label="b" type="m" corresp="#s2:l3">dichtt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">taglich mit dir z  <rhyme label="c" type="f">schertzenn</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">F rwar gla b <rhyme label="d" type="m">mir</rhyme> /</l>
+        <l id="s2:l7" met="2" type="-+">Fre ndtliche <rhyme label="d" type="m" corresp="#s2:l6">zir</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">das d  f r <rhyme label="e" type="m">all</rhyme> /</l>
+        <l id="s2:l9" met="2" type="-+">jn diesem <rhyme label="e" type="m" corresp="#s2:l8">thall</rhyme> /</l>
+        <l id="s2:l10" met="3" type="-+">mir liebest jn meinem <rhyme label="c" type="f" corresp="#s2:l5">hertzenn</rhyme> /</l>
+        <l id="s2:l11" met="2" type="+-">Kerweider  <rhyme label="f" type="m">schertz</rhyme> /</l>
+        <l id="s2:l12" met="2" type="-+">begertt mein <rhyme label="f" type="m" corresp="#s2:l11">hertz</rhyme></l>
+        <l id="s2:l13" met="3" type="-+">jn fre den / vnnd lust <rhyme label="g" type="f">taglichenn</rhyme> /</l>
+        <l id="s2:l14" met="2" type="-+">d  aller schonstes <rhyme label="h" type="m">bildtt</rhyme> /</l>
+        <l id="s2:l15" met="2" type="-+">so th gentlich vnnd <rhyme label="h" type="m" corresp="#s2:l14">mildtt</rhyme> /</l>
+        <l id="s2:l16" met="3" type="-+">vonn dir will ich nytt  <rhyme label="g" type="f" corresp="#s2:l13">weichenn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Hertzlieb ich <rhyme label="a" type="m">sprich</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">dein traw nitt <rhyme label="a" type="m" corresp="#s3:l1">brich</rhyme> /</l>
+        <l id="s3:l3" met="2" type="-+">ahn mir mitt <rhyme label="b" type="m">gwaltt</rhyme> /</l>
+        <l id="s3:l4" met="2" type="-+">ihn sulcher <rhyme label="b" type="m" corresp="#s3:l3">gestaltt</rhyme> /</l>
+        <l id="s3:l5" met="3" type="-+">groß zuchtt wirtt dir <rhyme label="c" type="f">zugemessenn</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">A ch schon vnnd <rhyme label="d" type="m">werdtt</rhyme> /</l>
+        <l id="s3:l7" met="2" type="-+">mitt weiß vnnd <rhyme label="d" type="m" corresp="#s3:l6">geberdtt</rhyme> /</l>
+        <l id="s3:l8" met="2" type="-+">hast  das <rhyme label="e" type="m">lob</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Jn sulcher <rhyme label="e" type="m" corresp="#s3:l8">prob</rhyme> /</l>
+        <l id="s3:l10" met="3" type="-+">an dir ist nichtz <rhyme label="c" type="f" corresp="#s3:l5">vergessenn</rhyme> /</l>
+        <l id="s3:l11" met="2" type="+-">Wiewoll du <rhyme label="f" type="m">hast</rhyme></l>
+        <l id="s3:l12" met="2" type="-+">mich hartt vnnd <rhyme label="f" type="m" corresp="#s3:l11">fast</rhyme> /</l>
+        <l id="s3:l13" met="3" type="-+">so hertzelich <rhyme label="g" type="f">gefanngenn</rhyme> /</l>
+        <l id="s3:l14" met="2" type="-+">all weill vnnd <rhyme label="h" type="m">stundt</rhyme> /</l>
+        <l id="s3:l15" met="2" type="-+">a ß hertzenn gr <rhyme label="h" type="m" corresp="#s3:l14">ndt</rhyme> /</l>
+        <l id="s3:l16" met="3" type="-+">nach dir hab ich groß <rhyme label="g" type="f" corresp="#s3:l13">verlangenn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

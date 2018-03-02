@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31302</id>
+    <date>
+      <year-start>1584</year-start>
+      <year-end>1584</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Lijntjes oven is bestoven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Tsou een meisken gaen om <rhyme label="a" type="m">wijn</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">savons inde <rhyme label="a" type="m" corresp="#s1:l1">maneschijn</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s1:l2">nachte</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">hout u canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s1:l2">vaste</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wat vants in hare weghen <rhyme label="a" type="m">staen</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Een fijn gesel en dat was <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s2:l2">nachte</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Hout v canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s2:l2">vaste</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Den ruyter sprac dat meysken <rhyme label="a" type="m">toe</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Oft sij sijnen wille wou <rhyme label="a" type="m" corresp="#s3:l1">doen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s3:l2">nachte</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">hout u canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s3:l2">vaste</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hoe weygerich dat dat meysken <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Hy swanckse neder int groene <rhyme label="a" type="m" corresp="#s4:l1">gras</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s4:l2">nachte</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Hout v canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s4:l2">vaste</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Doen hy sijn willeken hadde <rhyme label="a" type="m">gedaen</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Schoon lief ghij moecht wel thuyswaerts <rhyme label="a" type="m" corresp="#s5:l1">gaen</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s5:l2">nachte</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">hout u canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s5:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s5:l2">vaste</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Die ons dit lideken eerstmael <rhyme label="a" type="m">sanck</rhyme></l>
+        <l id="s6:l2" met="3" type="+-">hout u canneken <rhyme label="b" type="f">vaste</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Syn bellekens en gaven geen <rhyme label="a" type="m" corresp="#s6:l1">geclanck</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">by nachte by <rhyme label="b" type="f" corresp="#s6:l2">nachte</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">hout u canneken proper <rhyme label="c" type="f">Dianneken</rhyme></l>
+        <l id="s6:l6" met="3" type="+-">hout u canneken <rhyme label="b" type="f" corresp="#s6:l2">vaste</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

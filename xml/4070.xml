@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4070</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Och hoe mag hem zijn leven lusten</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een edel fonteyn is ons <rhyme label="a" type="f">ontsloten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die lange heuet stille <rhyme label="b" type="m">ghestaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Den brant der minnen is wt <rhyme label="a" type="f" corresp="#s1:l1">gheuloten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Daer alle sondaren mogen <rhyme label="b" type="m" corresp="#s1:l2">toegaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die riuieren vloeyen / die aderen <rhyme label="a" type="f">springhen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die beke leyt so diep int <rhyme label="b" type="m">dal</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Die ghenade en can engel noch mensche <rhyme label="a" type="f" corresp="#s2:l1">bekinnen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die daer wt vloeyt ouer <rhyme label="b" type="m" corresp="#s2:l2">al</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">In dese fonteyn laet ons <rhyme label="a" type="f">hopen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Hoe vele dat wij hebben <rhyme label="b" type="m">misdaen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Iesus wonden staen altijt <rhyme label="a" type="f" corresp="#s3:l1">open</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">So wie daer coemt sal ghenade <rhyme label="b" type="m" corresp="#s3:l2">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wie hier in heeft sijn <rhyme label="a" type="f">woonstede</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die blijft altoos <rhyme label="b" type="m">onuersaecht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Want hy heeft daer ghewarighen <rhyme label="a" type="f" corresp="#s4:l1">vrede</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Anders nemmermeer so wat hi <rhyme label="b" type="m" corresp="#s4:l2">iaecht</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Want wat wij soecken tot eenighen <rhyme label="a" type="f">stonden</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghewarighen vrede en vinden wij <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Dan alleen in Iesus <rhyme label="a" type="f" corresp="#s5:l1">wonden</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Daer crighen wij troost van alle <rhyme label="b" type="m" corresp="#s5:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Och conden wi dit te rechte <rhyme label="a" type="f">beginnen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Hoe alle vruechde hier in <rhyme label="b" type="m">steet</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">So en soude ons gheen dinck mogen <rhyme label="a" type="f" corresp="#s6:l1">verwinnen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Engel / noch mensche / noch vyant <rhyme label="b" type="m" corresp="#s6:l2">wreet</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wij sullent beclaghen noch al soe <rhyme label="a" type="f">seere</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Als ons die leste vre aen <rhyme label="b" type="m">staet</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Dat wij in Iesus wonden niet <rhyme label="a" type="f" corresp="#s7:l1">eere</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">En hebben gheset ons <rhyme label="b" type="m" corresp="#s7:l2">toeuerlaet</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Maer nemmermeers en ist te <rhyme label="a" type="f">spade</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Soe langhe als leuen in ons <rhyme label="b" type="m">es</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Altijt staet open Gods <rhyme label="a" type="f" corresp="#s8:l1">ghenade</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Tot elcken sondaer sijt seker <rhyme label="b" type="m" corresp="#s8:l2">des</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Wie nu beswaert is met swaren <rhyme label="a" type="f">sonden</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Ende in corten stonden verlost wil <rhyme label="b" type="m">wesen</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Die gae met betrouwe tot Ihesus <rhyme label="a" type="f" corresp="#s9:l1">wonden</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Hi sal volcomelijck al <rhyme label="b" type="m" corresp="#s9:l2">ghenesen</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Vliet totter fontenen sonder <rhyme label="a" type="f">gront</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Die den dorstighen laeft <rhyme label="b" type="m">altoos</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Noyt mensche en is tot eenigher <rhyme label="a" type="f" corresp="#s10:l1">stont</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Van daer ghesceyden <rhyme label="b" type="m" corresp="#s10:l2">troosteloos</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Maect alle daghe hier v <rhyme label="a" type="f">ghelaghe</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Weest niet verslaghen om der sonden <rhyme label="b" type="m">ghetal</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Versaedt uwen lost / vraecht niet wat <rhyme label="a" type="f" corresp="#s11:l1">cost</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Want het is so diere vergouden <rhyme label="b" type="m" corresp="#s11:l2">al</rhyme></l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Met siluer noch met rooden <rhyme label="a" type="f">goude</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">En is ons ghecoft dese ghenade <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Diese ons van minnen gheuen <rhyme label="a" type="f" corresp="#s12:l1">woude</rhyme></l>
+        <l id="s12:l4" met="4" type="-+">Die heeftse betaelt met sijnder <rhyme label="b" type="m" corresp="#s12:l2">doot</rhyme></l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Och laet ons hopen met diepen <rhyme label="a" type="f">verlangen</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Tot deser fonteynen / waer willen wi <rhyme label="b" type="m">bat</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Daer ontfangen wij ghenade hoe dick wij <rhyme label="a" type="f" corresp="#s13:l1">vallen</rhyme></l>
+        <l id="s13:l4" met="4" type="-+">Want si is der amer sondaren <rhyme label="b" type="m" corresp="#s13:l2">schat</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Iesus doot / sijn bitter <rhyme label="a" type="f">liden</rhyme></l>
+        <l id="s14:l2" met="4" type="-+">Sijn open herte / sijn wonden <rhyme label="b" type="m">root</rhyme>:</l>
+        <l id="s14:l3" met="4" type="-+">Dat watere ende bloet wt sinder <rhyme label="a" type="f" corresp="#s14:l1">siden</rhyme></l>
+        <l id="s14:l4" met="4" type="-+">Moet ons staen in staden ter laetster <rhyme label="b" type="m" corresp="#s14:l2">noot</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Die dit liedeken heeft gheset in <rhyme label="a" type="f">dichte</rhyme></l>
+        <l id="s15:l2" met="4" type="-+">Die is beswaert metter sonden <rhyme label="b" type="m">last</rhyme></l>
+        <l id="s15:l3" met="4" type="-+">Die wonden Iesu moeten hem <rhyme label="a" type="f" corresp="#s15:l1">verlichten</rhyme></l>
+        <l id="s15:l4" met="4" type="-+">Daer op sijn betrouwen <rhyme label="b" type="m" corresp="#s15:l2">vast</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

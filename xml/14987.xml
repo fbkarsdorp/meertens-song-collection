@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14987</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Wanneer ik slaap</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Almachtig God! ghy die ons met u <rhyme label="a" type="m">hand</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Geplant hebt tot u volc hier in dit <rhyme label="a" type="m" corresp="#s1:l1">land</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Help! help! ons toch eer lang Uyt Spanjaerts <rhyme label="b" type="m">dwang</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Die u lieve <rhyme label="c" type="m">kerc</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Machtig synd' en <rhyme label="c" type="m" corresp="#s1:l4">sterc</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die u lieve kerc so <rhyme label="d" type="f">plaget</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En langer nergens meer na <rhyme label="d" type="f" corresp="#s1:l6">vraget</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Merck Heer! hoe seer,, U volck nu tot u <rhyme label="a" type="m">schreyt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Wilt t'uwer eer,, En onser <rhyme label="a" type="m" corresp="#s2:l1">saligheyt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Eens maken toch een end',, Van ons <rhyme label="b" type="m">ellend</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Soo sal elck, <rhyme label="c" type="m">bevryt</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Synde, gantsch <rhyme label="c" type="m" corresp="#s2:l4">verblyt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Soo sal elck, bevryt van <rhyme label="d" type="f">smerten</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">U singen lof en danck van <rhyme label="d" type="f" corresp="#s2:l6">herten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">'Tis waer, ons sond,, Heeft wel verdiend dees <rhyme label="a" type="m">straf</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ons hert en mond,, is overtuygt daer <rhyme label="a" type="m" corresp="#s3:l1">af</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Maer Heere wilt toch niet,, in dit <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Gaen in u <rhyme label="c" type="m">gerecht</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Met u armen <rhyme label="c" type="m" corresp="#s3:l4">knecht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Gaen in u gerecht <rhyme label="d" type="f">gestadig</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">En zijt u kind'ren, Heer, <rhyme label="d" type="f" corresp="#s3:l6">genadig</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

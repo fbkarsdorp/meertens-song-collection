@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24897</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>O stade deugdelijk minnelijk oord</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O stede duechdelic minlic <rhyme label="a" type="m">ort</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">God haet verchiert dijn edel <rhyme label="b" type="f">name</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Bi dir elc menscelich <rhyme label="a" type="m" corresp="#s1:l1">ghebort</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Mach vroylic leven sonder <rhyme label="b" type="f" corresp="#s1:l2">blame</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Dijn gheer is eere dijn wesen <rhyme label="b" type="f" corresp="#s1:l2">scame</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Du best vul duechden <rhyme label="c" type="m">zekerlijch</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ich danx der minnen <rhyme label="c" type="m" corresp="#s1:l6">minnentlijch</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">An steiden orden blivic <rhyme label="a" type="m">vort</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Mijn leven lanc want het <rhyme label="b" type="f">betame</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Der minnen die mi gheift <rhyme label="a" type="m" corresp="#s2:l1">confoort</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Van soeter rusteliker <rhyme label="b" type="f" corresp="#s2:l2">vrame</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mine was nie ruste so <rhyme label="b" type="f" corresp="#s2:l2">bequame</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Alstu mi gheifs vrauwe <rhyme label="c" type="m">duechdenrijch</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ich danx der minnen <rhyme label="c" type="m" corresp="#s2:l6">minnentlijch</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Bi dir so ben ich <rhyme label="a" type="m">onghestoort</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ondanc der bozer niders <rhyme label="b" type="f">game</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dijn woort dijn mein es recht <rhyme label="a" type="m" corresp="#s3:l1">acoort</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Met rechte ich vro met dir <rhyme label="b" type="f" corresp="#s3:l2">verzame</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ghenouchlic snijt der minnen <rhyme label="b" type="f" corresp="#s3:l2">brame</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Niet meer ne werd gheprouft van <rhyme label="c" type="m">mich</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ic danx der minnen <rhyme label="c" type="m" corresp="#s3:l6">minnentlijch</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

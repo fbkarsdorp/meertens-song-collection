@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25973</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>gorinchem</orginal-name>
+      <standard-name>Gorinchem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.8296133</lon>
+        <lat>4.9738743</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scenic song</tag>
+    </tags>
+    <melody>Willen onze koeien dan niet stilstaan</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Koe staat stille, of de moort die moetje <rhyme label="a" type="m">slaen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Of ghy sult onghemolcken aen der heyde,, so <rhyme label="b" type="f">heyde</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Of ghy sult onghemolcken aen der heyde <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">Ghy sulter van al den nacht niet slapen, gy duyvel, gy <rhyme label="c" type="f">duyvel</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Ghy sulter van al den nacht niet slapen, ghy <rhyme label="d" type="m">duyvelken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

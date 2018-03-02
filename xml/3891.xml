@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3891</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Een ridder en een meisje jong</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt staet een casteel een rijc <rhyme label="a" type="m">casteel</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Een casteelken op hooger <rhyme label="b" type="f">tinnen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Daer singhen die engelen so soeten <rhyme label="c" type="m">lof</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Heer Iesus woont daer <rhyme label="b" type="f" corresp="#s1:l2">binnen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tot desen casteele quamen wi <rhyme label="a" type="m">gaerne</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Conden wi daer toe <rhyme label="b" type="f">gheraecken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Het blinct daer al van pueren <rhyme label="c" type="m">gouwe</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die mueren en oock die <rhyme label="b" type="f" corresp="#s2:l2">daken</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tot desen casteele en comen wij <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wi moeten vromelijck <rhyme label="b" type="f">striden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die wilde zee vlack en <rhyme label="c" type="m">diep</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die moeten wij ouer <rhyme label="b" type="f" corresp="#s3:l2">liden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die boose gheesten comen ons <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met temptacien willen si ons <rhyme label="b" type="f">verladen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Sij hebben daer so menigen te gronde <rhyme label="c" type="m">gheseylt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Met hare valsce <rhyme label="b" type="f" corresp="#s4:l2">raden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sij wenschen ons dicke inden <rhyme label="a" type="m">gront</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Sij souden ons gherne <rhyme label="b" type="f">verdrincken</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Wij anckeren ons herte in Iesus <rhyme label="c" type="m">wonden</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Wij latent daer inne <rhyme label="b" type="f" corresp="#s5:l2">sincken</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Laet ons die wilde zee ouer <rhyme label="a" type="m">varen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Met also blide <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">God die heere wil ons <rhyme label="c" type="m">ghesparen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dat wi dat casteel mogen <rhyme label="b" type="f" corresp="#s6:l2">winnen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

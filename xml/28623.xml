@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28623</id>
+    <date>
+      <year-start>1572</year-start>
+      <year-end>1579</year-end>
+    </date>
+    <tags>
+      <tag>proverb</tag>
+    </tags>
+    <melody>Amsterdam en Montfoort</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Chistus is <rhyme label="a" type="f">opgestanden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Amsterdam hebben wij in ons <rhyme label="a" type="f" corresp="#s1:l1">handen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Amersfoert weetet die <rhyme label="b" type="m">loos</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Tot Utrecht singt men: Vive la <rhyme label="c" type="m">goos</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

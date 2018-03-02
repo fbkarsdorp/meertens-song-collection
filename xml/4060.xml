@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4060</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>spiritual song</tag>
+      <tag>mystical song</tag>
+      <tag>morning song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ik zie de morgenster</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ick sie die morghen <rhyme label="a" type="f">sterre</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Heer Iesus claer <rhyme label="b" type="m">aenschijn</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ick groet v sonder <rhyme label="a" type="f" corresp="#s1:l1">merren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met alder herten <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Och wat mach ic daer <rhyme label="a" type="f">hooren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Maken so groten <rhyme label="b" type="m">ghebare</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Het luyt in minen <rhyme label="a" type="f" corresp="#s2:l1">ooren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Oft gulden herpen <rhyme label="b" type="m" corresp="#s2:l2">waren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O siele wildy mi <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ende mi bekennen <rhyme label="b" type="m">bat</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Ende mi daer mede <rhyme label="a" type="f" corresp="#s3:l1">ghewinnen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ick ben dijns herten <rhyme label="b" type="m" corresp="#s3:l2">schat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Och Iesu lief <rhyme label="a" type="f">vercoren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mijn troost mijn <rhyme label="b" type="m">toeuerlaet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Verleent mi als te <rhyme label="a" type="f" corresp="#s4:l1">voren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Te volghen uwen <rhyme label="b" type="m" corresp="#s4:l2">raet</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wildy bi rade <rhyme label="a" type="f">leuen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">So laet dijns selfs <rhyme label="b" type="m">raet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Ende willet al <rhyme label="a" type="f" corresp="#s5:l1">begheuen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Daer uwen sin toe <rhyme label="b" type="m" corresp="#s5:l2">staet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Sijn dit die naeste <rhyme label="a" type="f">weghen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Soe ben ick seer <rhyme label="b" type="m">veruaert</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Nature en wilts niet <rhyme label="a" type="f" corresp="#s6:l1">pleghen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">This haren rechten <rhyme label="b" type="m" corresp="#s6:l2">aert</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">O siele slaet op v <rhyme label="a" type="f">ooghen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Siet aen mijn bitter <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Mijn edel bloet <rhyme label="a" type="f" corresp="#s7:l1">verdrooghen</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Wildy mijn beter <rhyme label="b" type="m" corresp="#s7:l2">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Wildy mi niet <rhyme label="a" type="f">begheuen</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Ihesu mijn gulden <rhyme label="b" type="m">pont</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Soe wil ic alle mijn <rhyme label="a" type="f" corresp="#s8:l1">leuen</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">V draghen in minen <rhyme label="b" type="m" corresp="#s8:l2">gront</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">O siele soude ick v <rhyme label="a" type="f">laten</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Neen ick in gheender <rhyme label="b" type="m">stont</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Ick ben om uwer <rhyme label="a" type="f" corresp="#s9:l1">baten</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Ter doot toe seer <rhyme label="b" type="m" corresp="#s9:l2">ghewont</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">O heere bedructe <rhyme label="a" type="f">tranen</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Gheeft mi doer v <rhyme label="b" type="m">ootmoet</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">Dat ick mids v <rhyme label="a" type="f" corresp="#s10:l1">vermanen</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Vercrighe dat eewighe <rhyme label="b" type="m" corresp="#s10:l2">goet</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">O siele ontfangt die <rhyme label="a" type="f">croone</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Mijn trouwe gheue ick <rhyme label="b" type="m">di</rhyme></l>
+        <l id="s11:l3" met="3" type="-+">Mi suldy hebben te <rhyme label="a" type="f" corresp="#s11:l1">loone</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">En scheyt v niet van <rhyme label="b" type="m" corresp="#s11:l2">mi</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

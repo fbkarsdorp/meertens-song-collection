@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24799</id>
+    <date>
+      <year-start>1451</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <location>
+      <orginal-name>westfaals-nederrijngebied (helmstedt?)</orginal-name>
+      <standard-name>Helmstedt, Germany</standard-name>
+      <coordinates>
+        <lon>52.2277037</lon>
+        <lat>11.0104702</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>christmas song</tag>
+    </tags>
+    <melody>Es kommt ein Schiff geladen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ons kompt een schep, <rhyme label="a" type="f">geladen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hent an dat hoochste <rhyme label="b" type="m">boirt</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Id brengt den soon des <rhyme label="a" type="f" corresp="#s1:l1">Vaders</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat ewentlike <rhyme label="b" type="m" corresp="#s1:l2">wort</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s1:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dat schepken dat kompt <rhyme label="a" type="f">gestreken</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Id brengt ons rijken <rhyme label="b" type="m">last</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die mynne is dat <rhyme label="a" type="f" corresp="#s2:l1">seyle</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die Heilige Geest die <rhyme label="b" type="m" corresp="#s2:l2">mast</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s2:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die ancker is <rhyme label="a" type="f">uutgeschaten</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat schep moet an dat <rhyme label="b" type="m">lant</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die hemel is <rhyme label="a" type="f" corresp="#s3:l1">opgeslaten</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Gaids soon is ons <rhyme label="b" type="m" corresp="#s3:l2">gesant</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s3:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Doe spraken die <rhyme label="a" type="f">propheten</rhyme>:</l>
+        <l id="s4:l2" met="3" type="-+">Dat hebn wy langh <rhyme label="b" type="m">begheert</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Dat Got den hemel <rhyme label="a" type="f" corresp="#s4:l1">ontsloete</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ind queem hijr <rhyme label="b" type="m" corresp="#s4:l2">nederwert</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s4:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hij leecht daer yn der <rhyme label="a" type="f">cribben</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Dat suete <rhyme label="b" type="m">kijndekijn</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Id lucht recht als die <rhyme label="a" type="f" corresp="#s5:l1">sonne</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Root is sijn <rhyme label="b" type="m" corresp="#s5:l2">mondekijn</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s5:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Dit dat kyndeken mocht <rhyme label="a" type="f">kussen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Voer syner roder <rhyme label="b" type="m">mont</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Dat brocht hem grote <rhyme label="a" type="f" corresp="#s6:l1">laste</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">All yn sijns hertens <rhyme label="b" type="m" corresp="#s6:l2">gront</rhyme>.</l>
+        <l id="s6:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s6:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Die herdkens op den <rhyme label="a" type="f">velde</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Den deden die engele <rhyme label="b" type="m">kont</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Woe God gebaren <rhyme label="a" type="f" corresp="#s7:l1">were</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Van eenre maiget <rhyme label="b" type="m" corresp="#s7:l2">yonck</rhyme>.</l>
+        <l id="s7:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s7:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Sy droech on yn den <rhyme label="a" type="f">tempel</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Dat sute <rhyme label="b" type="m">kijndeken</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Sy offerde op den <rhyme label="a" type="f" corresp="#s8:l1">alter</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Twee <rhyme label="b" type="m" corresp="#s8:l2">tortelduveken</rhyme>.</l>
+        <l id="s8:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s8:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s8:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Wij is des kijndes <rhyme label="a" type="f">moder</rhyme>?</l>
+        <l id="s9:l2" met="3" type="-+">Die dochter van <rhyme label="b" type="m">Jesse</rhyme>!</l>
+        <l id="s9:l3" met="3" type="-+">Sy wordt een kreftlike <rhyme label="a" type="f" corresp="#s9:l1">roder</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Sy vuert ons aver <rhyme label="b" type="m" corresp="#s9:l2">see</rhyme>.</l>
+        <l id="s9:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s9:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s9:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s9:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Men sal Marien <rhyme label="a" type="f">dyenen</rhyme>,</l>
+        <l id="s10:l2" met="3" type="-+">Oer loff is also <rhyme label="b" type="m">breet</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Ten kan gheen mynsch <rhyme label="a" type="f" corresp="#s10:l1">volschryven</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Oer grote <rhyme label="b" type="m" corresp="#s10:l2">eerwerdicheit</rhyme>.</l>
+        <l id="s10:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s10:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s10:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s10:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s10:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">In den hogen <rhyme label="a" type="f">hemel</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Daer schyncket men guden <rhyme label="b" type="m">wijn</rhyme>,</l>
+        <l id="s11:l3" met="3" type="-+">Daer sullen die edele <rhyme label="a" type="f" corresp="#s11:l1">sielen</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Van mynnen droncken <rhyme label="b" type="m" corresp="#s11:l2">sijn</rhyme>.</l>
+        <l id="s11:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s11:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s11:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s11:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s11:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="-+">Weer ic nu een <rhyme label="a" type="f">voegeler</rhyme>,</l>
+        <l id="s12:l2" met="3" type="-+">Een netken wold ic <rhyme label="b" type="m">slaen</rhyme></l>
+        <l id="s12:l3" met="3" type="-+">Al voer die hemelsche <rhyme label="a" type="f" corresp="#s12:l1">poorten</rhyme>,</l>
+        <l id="s12:l4" met="3" type="-+">Heer Jhesus wold ic <rhyme label="b" type="m" corresp="#s12:l2">vaen</rhyme>.</l>
+        <l id="s12:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s12:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s12:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s12:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s12:l6">kyndekijn</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="3" type="-+">Als ic Jhesum <rhyme label="a" type="f">hedde</rhyme>,</l>
+        <l id="s13:l2" met="3" type="-+">Wat wold ic mit on <rhyme label="b" type="m">doen</rhyme>?</l>
+        <l id="s13:l3" met="3" type="-+">Ic sloet on yn mijn <rhyme label="a" type="f" corresp="#s13:l1">herte</rhyme></l>
+        <l id="s13:l4" met="3" type="-+">Ende deed id vaste <rhyme label="b" type="m" corresp="#s13:l2">toe</rhyme>.</l>
+        <l id="s13:l5" met="3" type="-+">Maria, Gades <rhyme label="c" type="f">moder</rhyme>,</l>
+        <l id="s13:l6" met="3" type="-+">Gelavet moet dy <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s13:l7" met="3" type="-+">Dat du ye <rhyme label="e" type="f">gedrogest</rhyme></l>
+        <l id="s13:l8" met="3" type="-+">Dat werde <rhyme label="d" type="m" corresp="#s13:l6">kyndekijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

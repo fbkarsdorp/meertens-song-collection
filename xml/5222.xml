@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5222</id>
+    <date>
+      <year-start>1924</year-start>
+      <year-end>1925</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>lamentation</tag>
+      <tag>dialog song</tag>
+    </tags>
+    <melody>Psalm 009 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O ghy Nederlanden seer <rhyme label="a" type="m">fel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Waerom valt ghy my dus <rhyme label="a" type="m" corresp="#s1:l1">rebel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En teghen my alsoo <rhyme label="b" type="f">weerspandich</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Voert ghy den Crijch seer <rhyme label="b" type="f" corresp="#s1:l3">onverstandich</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Coninck wy weten seer <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat ghy altoos, hoort mijn <rhyme label="a" type="m" corresp="#s2:l1">vermel</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Neerstich uutspreyt al met <rhyme label="b" type="f">verlanghen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">U net om ons daerin te <rhyme label="b" type="f" corresp="#s2:l3">vanghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick heb u in het <rhyme label="a" type="m">Nederlant</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Mijn Gouverneurs tot troost <rhyme label="a" type="m" corresp="#s3:l1">ghesant</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die ghy altsamen hebt <rhyme label="b" type="f">verstooten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En hielt met s'Princen <rhyme label="b" type="f" corresp="#s3:l3">bontghenooten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Duckdalf dat was een ouden <rhyme label="a" type="m">Boef</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die niet en quam tot ons <rhyme label="a" type="m" corresp="#s4:l1">behoef</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy was soo vol van <rhyme label="b" type="f">onghenaden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Met bloed kond' hy hem niet <rhyme label="b" type="f" corresp="#s4:l3">versaden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wat docht u dan van Don <rhyme label="a" type="m">Lowies</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Was dit niet uus Conincks <rhyme label="a" type="m" corresp="#s5:l1">Commies</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Van my ghesonden in dees <rhyme label="b" type="f">Landen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Maer gaeft u niet in zijnen <rhyme label="b" type="f" corresp="#s5:l3">handen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Zijn leven oock en was niet <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">God nam hem wech uut d'aertsche <rhyme label="a" type="m" corresp="#s6:l1">pleyn</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Hy was oock bitter ende <rhyme label="b" type="f">nydich</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Op ons arm volck oock seer <rhyme label="b" type="f" corresp="#s6:l3">partydich</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ghy zijt wel weert wat u <rhyme label="a" type="m">gheschiet</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Dat ghy u niet wel en <rhyme label="a" type="m" corresp="#s7:l1">beriet</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Doen ick u sant ander <rhyme label="b" type="f">Vassallen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Daer ghy af hielt oock niet met <rhyme label="b" type="f" corresp="#s7:l3">allen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Don Jan die hebben wy <rhyme label="a" type="m">ontfaen</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Maer had een Schaepsvel <rhyme label="a" type="m" corresp="#s8:l1">aenghedaen</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">En doe hy ons begon te <rhyme label="b" type="f">wieghen</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Sachmen dat hy ons wou <rhyme label="b" type="f" corresp="#s8:l3">bedrieghen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Millos Diablos moeten <rhyme label="a" type="m">saen</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">U wech-voeren uut deser <rhyme label="a" type="m" corresp="#s9:l1">baen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Daerom salt uwe Prins <rhyme label="b" type="f">becoopen</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">De doot sal hem haest <rhyme label="b" type="f" corresp="#s9:l3">overloopen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Ons Prins en is maer eenen <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Veel helpen hy ons niet en <rhyme label="a" type="m" corresp="#s10:l1">kan</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Maer soo ghy hem brenght om het <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Daer sal noch menich Paep om <rhyme label="b" type="f" corresp="#s10:l3">sneven</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Soo menich Starre siet alsser <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Soo menich Ruyter end <rhyme label="a" type="m" corresp="#s11:l1">Soldaet</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Sal ick int Landt hier neder <rhyme label="b" type="f">sinden</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Om u altsamen te <rhyme label="b" type="f" corresp="#s11:l3">verslinden</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">O Coninck ghy lastert den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s12:l2" met="4" type="-+">Want ghy en hebt doch gheen macht <rhyme label="a" type="m" corresp="#s12:l1">meer</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Dan u van Godt en is <rhyme label="b" type="f">ghegheven</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">Die u voor ons noch sal doen <rhyme label="b" type="f" corresp="#s12:l3">beven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

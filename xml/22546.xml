@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22546</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu wel heen, ende dat <rhyme label="a" type="m">moetsijn</rhyme>:</l>
+        <l id="s1:l2" met="3" type="-+">Vander werelt soe moet ic <rhyme label="b" type="f">scheyden</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Jhesus is dat harte <rhyme label="a" type="m" corresp="#s1:l1">mijn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Na Hem soe wilic <rhyme label="b" type="f" corresp="#s1:l2">beyden</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Jhesus is dat harte <rhyme label="a" type="m" corresp="#s1:l1">mijn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Na Hem soe wilic <rhyme label="b" type="f" corresp="#s1:l2">beyden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Betaniën is soe gueden <rhyme label="a" type="m">stat</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Van doechdenis sij <rhyme label="b" type="f">rijke</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Jherusalem,dat daer boven <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Waer vint men sijns <rhyme label="b" type="f" corresp="#s2:l2">ghelijke</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Jherusalem,dat daer boven <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Waer vint men sijns <rhyme label="b" type="f" corresp="#s2:l2">ghelijke</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ic sach Mijn Heer van <rhyme label="a" type="m">Hemelrijck</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Op eenen ezel <rhyme label="b" type="f">uutrijden</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Die cleideren worden hem onder <rhyme label="a" type="m" corresp="#s3:l1">ghespreit</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Daer toe die groene <rhyme label="b" type="f" corresp="#s3:l2">rijse</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Die cleideren worden hem onder <rhyme label="a" type="m" corresp="#s3:l1">ghespreit</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Daer toe die groene <rhyme label="b" type="f" corresp="#s3:l2">rijse</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Doe Hij binnen <rhyme label="a" type="m">Jherusalemquam</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Hoe lude dat sij <rhyme label="b" type="f">songhen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">'Osanna <rhyme label="a" type="m" corresp="#s4:l1">filio</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Vergif ons onse <rhyme label="b" type="f" corresp="#s4:l2">sonden</rhyme>!'</l>
+        <l id="s4:l5" met="4" type="-+">'Osanna <rhyme label="a" type="m" corresp="#s4:l1">filio</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Vergif ons onse <rhyme label="b" type="f" corresp="#s4:l2">sonden</rhyme>!'</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Daer Hij anden cruce <rhyme label="a" type="m">hinc</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Mit Sinen roder <rhyme label="b" type="f">wonden</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat bloet dat uut Sijn wonden <rhyme label="a" type="m" corresp="#s5:l1">liep</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Waschet of al onse <rhyme label="b" type="f" corresp="#s5:l2">sonden</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Dat bloet dat uut Sijn wonden <rhyme label="a" type="m" corresp="#s5:l1">liep</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Waschet of al onse <rhyme label="b" type="f" corresp="#s5:l2">sonden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die wonden waren alsoe <rhyme label="a" type="m">diep</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Si waren al <rhyme label="b" type="f">doerghesteken</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Jhesus leit int herte <rhyme label="a" type="m" corresp="#s6:l1">mijn</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Ic wil hem niet <rhyme label="b" type="f" corresp="#s6:l2">vaergheten</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Jhesus leit int herte <rhyme label="a" type="m" corresp="#s6:l1">mijn</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Ic wil hem niet <rhyme label="b" type="f" corresp="#s6:l2">vaergheten</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wij willen  onder dat cruce gaen <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Ende helpen Jhesum <rhyme label="b" type="f">troeren</rhyme>;</l>
+        <l id="s7:l3" met="4" type="-+">Hij heeft soeveel gheleden om <rhyme label="a" type="m" corresp="#s7:l1">ons</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Het wort Hem veel te <rhyme label="b" type="f" corresp="#s7:l2">suere</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">Hij heeft soeveel gheleden om <rhyme label="a" type="m" corresp="#s7:l1">ons</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Het wort Hem veel te <rhyme label="b" type="f" corresp="#s7:l2">suere</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">O siel, ende dat moet ummeer <rhyme label="a" type="m">sijn</rhyme>!</l>
+        <l id="s8:l2" met="3" type="-+">Het gaet nae onsen <rhyme label="b" type="f">begheren</rhyme>:</l>
+        <l id="s8:l3" met="4" type="-+">Wil Jhesus onse helper <rhyme label="a" type="m" corresp="#s8:l1">sijn</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Soe en mach ons niemant <rhyme label="b" type="f" corresp="#s8:l2">deren</rhyme>.</l>
+        <l id="s8:l5" met="4" type="-+">Wil Jhesus onse helper <rhyme label="a" type="m" corresp="#s8:l1">sijn</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">Soe en mach ons niemant <rhyme label="b" type="f" corresp="#s8:l2">deren</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Ic danck u, Heer van <rhyme label="a" type="m">Hemelrijck</rhyme>,</l>
+        <l id="s9:l2" met="3" type="-+">Ende ic danck U met allen <rhyme label="b" type="f">goeden</rhyme>;</l>
+        <l id="s9:l3" met="4" type="-+">Ghij hebt mij alsoe duer <rhyme label="a" type="m" corresp="#s9:l1">ghecoft</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Mit Uwen duerbaer <rhyme label="b" type="f" corresp="#s9:l2">bloeden</rhyme>.</l>
+        <l id="s9:l5" met="4" type="-+">Ghij hebt mij alsoe duer <rhyme label="a" type="m" corresp="#s9:l1">ghecoft</rhyme>,</l>
+        <l id="s9:l6" met="3" type="-+">Mit Uwen duerbaer <rhyme label="b" type="f" corresp="#s9:l2">bloeden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

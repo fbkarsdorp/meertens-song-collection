@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14985</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>moralistic song</tag>
+    </tags>
+    <melody>Engels Schoenlappertje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie dat sich selfs verheft te <rhyme label="a" type="m">met</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wert wel een arme <rhyme label="b" type="f">sleter</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Duc d'Alf u beeld, tot spyt <rhyme label="a" type="m" corresp="#s1:l1">geset</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Waer afgebroken <rhyme label="b" type="f" corresp="#s1:l2">beter</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">U boose daed,, Die ghy <rhyme label="c" type="m">begaet</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">By allen toch onlydig is,, En strydig <rhyme label="d" type="m">is</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Met onser Landen <rhyme label="c" type="m" corresp="#s1:l5">staet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doch 'tschijnt dat nergens ghy nae <rhyme label="a" type="m">vraegt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ghy wilt het al <rhyme label="b" type="f">verscheuren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maer die daer doet wat God <rhyme label="a" type="m" corresp="#s2:l1">mishaegt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Sal 't eynde noch <rhyme label="b" type="f" corresp="#s2:l2">betreuren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Als hy vol noot,, Sal naeckt en <rhyme label="c" type="m">bloot</rhyme></l>
+        <l id="s2:l6" met="6" type="-+">Voor Godes oordeel schuldig staen,, Onduldig <rhyme label="d" type="m">gaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Verwesen totter <rhyme label="c" type="m" corresp="#s2:l5">dood</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Godloos groeyt een wyl seer <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Doch 'teynde staet te <rhyme label="b" type="f">vreesen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Siet Lucifer quam in de <rhyme label="a" type="m" corresp="#s3:l1">hel</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Door zijn hoveerdig <rhyme label="b" type="f" corresp="#s3:l2">wesen</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Daer't volck sich al,, aen spieg'len <rhyme label="c" type="m">sal</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">Indiense soecken goeden spoet,, Want hogen <rhyme label="d" type="m">moet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Gaet altydt voor den <rhyme label="c" type="m" corresp="#s3:l5">val</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25017</id>
+    <date>
+      <year-start>1300</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>zürich</orginal-name>
+      <standard-name>Zürich, Swiss</standard-name>
+      <coordinates>
+        <lon>47.3723957</lon>
+        <lat>8.5423216</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Cuusche smale, haer bruun <rhyme label="a" type="f">ogen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die haent mi dat <rhyme label="b" type="m">gedaen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat ic minne moete <rhyme label="a" type="f" corresp="#s1:l1">dogen</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Ic valle, in cans <rhyme label="b" type="m" corresp="#s1:l2">gestaen</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Geft si mi troest, so waere mi wel <rhyme label="c" type="m">besciet</rhyme>.</l>
+        <l id="s1:l6" met="5" type="-+">Wacharme, ic pense sine willes doen <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Die mi haet dus <rhyme label="b" type="m" corresp="#s1:l2">bevaen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">In haer prisoen <rhyme label="b" type="m" corresp="#s1:l2">gedaen</rhyme>,</l>
+        <l id="s1:l9" met="5" type="-+">Ensi mi troeste, ic ben doet, sonder <rhyme label="b" type="m" corresp="#s1:l2">waen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

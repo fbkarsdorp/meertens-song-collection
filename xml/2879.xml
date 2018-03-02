@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2879</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Gelijk als de witte zwaan</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Waerom secht oe lief <rhyme label="a" type="f">gepreesen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">voert gij mijn In dit <rhyme label="b" type="m">gequel</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Och hoe lanck salt noch <rhyme label="a" type="f" corresp="#s1:l1">weesen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Dat gij Doer u fel <rhyme label="b" type="m" corresp="#s1:l2">opstel</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">mij door pracht uws schoenheits <rhyme label="c" type="m">sacht</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Laes sult <rhyme label="d" type="m">voorsmaen</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Ofte mijn klacht aen u <rhyme label="c" type="m" corresp="#s1:l5">verpacht</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">niet sult <rhyme label="d" type="m" corresp="#s1:l6">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sult gij niet eens slaen u <rhyme label="a" type="f">oegen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">op mijn Jeucht seer <rhyme label="b" type="m">onbedacht</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Die eylaes nu moet <rhyme label="a" type="f" corresp="#s2:l1">gedoegen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">swaere pijn nacht ende <rhyme label="b" type="m" corresp="#s2:l2">Dach</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Door u weesen uit <rhyme label="c" type="m">geleesen</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Twelck oeck <rhyme label="d" type="m">klaer</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">mijn van vreesen can <rhyme label="c" type="m" corresp="#s2:l5">geneesen</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Lief <rhyme label="d" type="m" corresp="#s2:l6">eerbaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Salt u niet eens <rhyme label="a" type="f">voordrieten</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Dat Ick lief vleysen <rhyme label="b" type="m">bloet</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Om u sou moeten <rhyme label="a" type="f" corresp="#s3:l1">voorgieten</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Door oorsaeck van u <rhyme label="b" type="m" corresp="#s3:l2">hoechmoet</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Want mijn leeven mach <rhyme label="c" type="m">voorheeven</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">mij <rhyme label="d" type="m">mishaecht</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Soe gijt geven u trous <rhyme label="c" type="m" corresp="#s3:l5">beneeven</rhyme></l>
+        <l id="s3:l8" met="2" type="+-">mij <rhyme label="d" type="m" corresp="#s3:l6">ontdraecht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ick waer liever <rhyme label="a" type="f">ongeboeren</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Eer Ick u lief derven <rhyme label="b" type="m">sou</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Dus wilt een mael uit <rhyme label="a" type="f" corresp="#s4:l1">voorkoeren</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Den voorslaegen troest en <rhyme label="b" type="m" corresp="#s4:l2">rou</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Doen genaeken hij sal grot <rhyme label="c" type="m">maeken</rhyme></l>
+        <l id="s4:l6" met="2" type="+-">Uwe <rhyme label="d" type="m">Duecht</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">en Druck staeken, en <rhyme label="c" type="m" corresp="#s4:l5">voorsaeken</rhyme></l>
+        <l id="s4:l8" met="2" type="+-"><rhyme label="d" type="m" corresp="#s4:l6">Ongenuecht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">U lieft en al u <rhyme label="a" type="f">begeeren</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Sal u noeyt <rhyme label="b" type="m">faelieeren</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Dus wilt u tot mij <rhyme label="a" type="f" corresp="#s5:l1">voorreeren</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">helpt mij doch uit dit <rhyme label="b" type="m" corresp="#s5:l2">voordriet</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Och uit voorkoeren wilt <rhyme label="c" type="m">voorhoeren</rhyme></l>
+        <l id="s5:l6" met="2" type="+-">mijn <rhyme label="d" type="m">geklach</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">Eer Ick voerloeren moet <rhyme label="c" type="m" corresp="#s5:l5">voorsmoeren</rhyme></l>
+        <l id="s5:l8" met="2" type="+-">Door Lieffs <rhyme label="d" type="m" corresp="#s5:l6">kracht</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Indien o prinses <rhyme label="a" type="f">sucadich</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">sulcks u hoocheit <rhyme label="b" type="m">refuseert</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Alsdan mocht mijn hart <rhyme label="a" type="f" corresp="#s6:l1">moordadich</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">aen mijn sin <rhyme label="b" type="m" corresp="#s6:l2">gevyoeleert</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">komt daerom goedich en geeft u <rhyme label="c" type="m">spoedich</rhyme></l>
+        <l id="s6:l6" met="2" type="+-">Door <rhyme label="d" type="m">goetheit</rhyme></l>
+        <l id="s6:l7" met="4" type="+-">troest die lanckmoedich, In liefden <rhyme label="c" type="m" corresp="#s6:l5">goedich</rhyme></l>
+        <l id="s6:l8" met="2" type="+-">Sulcks <rhyme label="d" type="m" corresp="#s6:l6">voorbey(t</rhyme>).</l>
+      </lg>
+    </lg>
+  </text>
+</song>

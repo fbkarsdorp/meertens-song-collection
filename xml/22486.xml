@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22486</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1510</year-end>
+    </date>
+    <location>
+      <orginal-name>noordelijke nederlanden (holland?)</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>O Venus' band o vurige brand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">O iesus bant o vurich brant och waerstu in mijn hert <rhyme label="a" type="m">geplant</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">so war mijn siel onbonden van menigen druc van menigen <rhyme label="a" type="m" corresp="#s1:l1">bant</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">daer si meed is in viants hant <rhyme label="b" type="f">ghebonden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">dat doen mijn grote <rhyme label="b" type="f" corresp="#s1:l3">sonden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">Des vaders woort in mi confoort dat heeft nv strijt in mi <rhyme label="a" type="m">ghestoort</rhyme></l>
+        <l id="s2:l2" met="7" type="-+">mijn siel en cans vereenen och hert hout mit den mont <rhyme label="a" type="m" corresp="#s2:l1">accoort</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">ghi sijt die mi mijn siel doorboort <rhyme label="b" type="f">alteenen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">lief wilt mi troost <rhyme label="b" type="f" corresp="#s2:l3">verleenen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">O iesus raet is delicaet so wie hem mint ende niet <rhyme label="a" type="m">versmaet</rhyme></l>
+        <l id="s3:l2" met="7" type="-+">dat sijn seer abel seden hi is dar al ons troost <rhyme label="a" type="m" corresp="#s3:l1">aenstaet</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">in dat woort ende inden daet <rhyme label="b" type="f">besneden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">lief set mijn siel in <rhyme label="b" type="f" corresp="#s3:l3">vreden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">Die reden singt al dat mi dwingt die doot diet al te nyete <rhyme label="a" type="m">bringt</rhyme></l>
+        <l id="s4:l2" met="7" type="-+">die doet mi dicwil troeren och dat ic aldus bin <rhyme label="a" type="m" corresp="#s4:l1">verblint</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">dat ic des niet en heb versint te <rhyme label="b" type="f">voren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">dat mi doch mocht <rhyme label="b" type="f" corresp="#s4:l3">gheboren</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="8" type="-+">O mintlic aert o rose gaert hoe seer so sijdi louens <rhyme label="a" type="m">waert</rhyme></l>
+        <l id="s5:l2" met="7" type="-+">dat ghi mi so dier cochte v lijf en hebdi niet <rhyme label="a" type="m" corresp="#s5:l1">ghespaert</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">mer dat v liden meer beswaert <rhyme label="b" type="f">ghesochte</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">nye starker min en <rhyme label="b" type="f" corresp="#s5:l3">wrochte</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="8" type="-+">Mijn liefste lief ic buych als riet ic gheer dat strenge ordel <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s6:l2" met="7" type="-+">mer altijt troosts begheren dat ghi v durbar bloet uut <rhyme label="a" type="m" corresp="#s6:l1">liet</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">dat doet mij vroechd sonder verdriet <rhyme label="b" type="f">vermeren</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">lief wilt mij steruen <rhyme label="b" type="f" corresp="#s6:l3">leren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

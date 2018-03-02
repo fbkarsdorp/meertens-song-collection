@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34385</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>Un jour la plus aimable dame</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SA wacker op die t'minnen <rhyme label="a" type="f">haeten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Comt hier in Bacchus <rhyme label="b" type="m">Cortegaer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Haes op steen-slypers vande <rhyme label="a" type="f" corresp="#s1:l1">straten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En luystert naer den <rhyme label="b" type="m" corresp="#s1:l2">trommelaer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Schud' uyt het vel van t'kittel <rhyme label="c" type="f">minnen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Verpant aen pot en can u <rhyme label="c" type="f" corresp="#s1:l5">sinnen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Treedt in ons wyck met vreughden <rhyme label="d" type="m">dan</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Men sal u maken <rhyme label="d" type="m" corresp="#s1:l7">Tindeman</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al die van ons het best can <rhyme label="a" type="f">suypen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Sal wesen onsen <rhyme label="b" type="m">Cappiteyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En die het lanckx de kin laet <rhyme label="a" type="f" corresp="#s2:l1">druypen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Sal syn Alpheris vanden <rhyme label="b" type="m" corresp="#s2:l2">treyn</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Maer die het best sal connen <rhyme label="c" type="f">smooren</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Gelyck de indiaensche <rhyme label="c" type="f" corresp="#s2:l5">mooren</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Die salmen maecken <rhyme label="d" type="m">Luytenant</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">En die can neusen wort <rhyme label="d" type="m" corresp="#s2:l7">Sergiant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Aen den Brasiliaen te <rhyme label="a" type="f">knouwen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Soo kentmen onsen <rhyme label="b" type="m">Corporael</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Mits hy het meeste vocht sal <rhyme label="a" type="f" corresp="#s3:l1">spouwen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En overteffen s'al te <rhyme label="b" type="m" corresp="#s3:l2">mael</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Maer die het best sal connen <rhyme label="c" type="f">snuyven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat door den neus en keel sal <rhyme label="c" type="f" corresp="#s3:l5">stuyven</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Sal Meester wesen vande <rhyme label="d" type="m">wijck</rhyme>:</l>
+        <l id="s3:l8" met="4" type="-+">Sa trecken wy dan op <rhyme label="d" type="m" corresp="#s3:l7">ghelijck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu brengh ick t'u dan eens <rhyme label="a" type="f">Confrater</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Want dat is gagis op de <rhyme label="b" type="m">hant</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Het smaeckt my beter als schoon <rhyme label="a" type="f" corresp="#s4:l1">water</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Als wast' noch ievers van een <rhyme label="b" type="m" corresp="#s4:l2">cant</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Ick gaen dit vocht door t'keeltjen <rhyme label="c" type="f">swelgen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Want niemant sal het hem hier <rhyme label="c" type="f" corresp="#s4:l5">belghen</rhyme>:</l>
+        <l id="s4:l7" met="4" type="-+">A vous Compeer, a vous <rhyme label="d" type="m">Compaer</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">En volght my al-te-mael soo <rhyme label="d" type="m" corresp="#s4:l7">naer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

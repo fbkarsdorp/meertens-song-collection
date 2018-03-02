@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24990</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>christmas song</tag>
+      <tag>Maria song</tag>
+    </tags>
+    <melody>Dies est laetitiae in ortu regali</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hets een dach van <rhyme label="a" type="m">vrolicheden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Kersdach in des coninx <rhyme label="b" type="f">hove</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want daer heeft ghewonnen <rhyme label="a" type="m" corresp="#s1:l1">heden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ene maget van groten <rhyme label="b" type="f" corresp="#s1:l2">love</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Een kint temael so <rhyme label="c" type="m">wonderlijch</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Onde daertoe <rhyme label="c" type="m" corresp="#s1:l5">ghenoechtelijch</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Na sire <rhyme label="d" type="f">menscelichede</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Wies wesen is <rhyme label="c" type="m" corresp="#s1:l5">ondenchlic</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Unde daertoe <rhyme label="c" type="m" corresp="#s1:l5">ombegripelic</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Na sire <rhyme label="d" type="f" corresp="#s1:l7">godlijchede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die moeder is dochter <rhyme label="a" type="m">wonderlijch</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haers soens, ende hi haer <rhyme label="b" type="f">vader</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Hoorde yeman das saghen des <rhyme label="a" type="m" corresp="#s2:l1">gelijc</rhyme>?</l>
+        <l id="s2:l4" met="3" type="-+">Hi es god ende mensce <rhyme label="b" type="f" corresp="#s2:l2">tegader</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Hi is knecht ende daertoe <rhyme label="c" type="m">heer</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Hi es over al, dats <rhyme label="c" type="m" corresp="#s2:l5">meer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ombegripelijc te <rhyme label="d" type="f">winnen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">[Hy is teghenwoordich ende <rhyme label="c" type="m" corresp="#s2:l5">veer</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">t'Is groot wonder ende <rhyme label="c" type="m" corresp="#s2:l5">meer</rhyme>]</l>
+        <l id="s2:l10" met="3" type="-+">Noch kan gheen man <rhyme label="d" type="f" corresp="#s2:l7">besinnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">In den donckeren wan die <rhyme label="a" type="m">maghet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Der sonnen <rhyme label="b" type="f">verlichter</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Die prence wert in den stal <rhyme label="a" type="m" corresp="#s3:l1">geleget</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Alder werelt <rhyme label="b" type="f" corresp="#s3:l2">stichter</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Men bant ziin hendeken mit <rhyme label="c" type="m">sletten</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die die sterre <rhyme label="c" type="m" corresp="#s3:l5">anesetten</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Doe hi den hemel <rhyme label="d" type="f">wrachte</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">Hi weende oec als een kindekin <rhyme label="c" type="m" corresp="#s3:l5">mede</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Die donren in den wolken <rhyme label="c" type="m" corresp="#s3:l5">dede</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Doe hi opvoer mit <rhyme label="d" type="f" corresp="#s3:l7">crachten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus quam die gods sone <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Van der maget <rhyme label="b" type="f">pure</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ghelijc der lileyen bloeme <rhyme label="a" type="m" corresp="#s4:l1">soet</rhyme>;</l>
+        <l id="s4:l4" met="3" type="-+">Het wonderde der <rhyme label="b" type="f" corresp="#s4:l2">naturen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Doe't ghewonne had die <rhyme label="c" type="m">maghet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Ende in der crebben was <rhyme label="c" type="m" corresp="#s4:l5">gelaget</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Mit doekelkine <rhyme label="d" type="f">bewonden</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Die was al der were(e)lt <rhyme label="c" type="m" corresp="#s4:l5">heer</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Ende van ghedaente scone vil <rhyme label="c" type="m" corresp="#s4:l5">meere</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Dan nye creature <rhyme label="d" type="f" corresp="#s4:l7">ghevonden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghelijc dat niet en quets dat <rhyme label="a" type="m">glas</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Daer die sonne scinet <rhyme label="b" type="f">dore</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Gheloven wi, dat die maget <rhyme label="a" type="m" corresp="#s5:l1">was</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Na reyn als <rhyme label="b" type="f" corresp="#s5:l2">tevoren</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Die moeder is <rhyme label="c" type="m">gebenedijt</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Dor wes besloten lichaem <rhyme label="c" type="m" corresp="#s5:l5">lijd</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Gods soen, mensce <rhyme label="d" type="f">geboren</rhyme>;</l>
+        <l id="s5:l8" met="4" type="-+">Die borsten oec wel salich <rhyme label="c" type="m" corresp="#s5:l5">weren</rhyme>,</l>
+        <l id="s5:l9" met="4" type="-+">Die god in sinen jongen <rhyme label="c" type="m" corresp="#s5:l5">jaren</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Te sughene had <rhyme label="d" type="f" corresp="#s5:l7">vercoren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

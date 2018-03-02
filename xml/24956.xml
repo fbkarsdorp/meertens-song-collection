@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24956</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ich heb Claren <rhyme label="a" type="f">opghegeven</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mijn lijf, mijn goyt, wes ich <rhyme label="b" type="m">vermach</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Van haer is mi nicht weder <rhyme label="a" type="f" corresp="#s1:l1">bleven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dan sorghe, toren, nacht ende <rhyme label="b" type="m" corresp="#s1:l2">dach</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Dorst ich, ich souts haer doen <rhyme label="b" type="m" corresp="#s1:l2">gewach</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hoe ich comen byn in <rhyme label="a" type="f" corresp="#s1:l1">sneven</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Ich moet betalen al 't <rhyme label="b" type="m" corresp="#s1:l2">gelach</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Om mi gaef si niet twe <rhyme label="a" type="f" corresp="#s1:l1">sceven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Clare, die alle dinc <rhyme label="a" type="f">verclaert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hir ond daer in alle <rhyme label="b" type="m">steden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Voer scande heeft zi god <rhyme label="a" type="f" corresp="#s2:l1">bewaert</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Soe waer dat si comt <rhyme label="b" type="m" corresp="#s2:l2">gereden</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Men vint niet opten dach van <rhyme label="b" type="m" corresp="#s2:l2">heden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Wijf van also goeder <rhyme label="a" type="f" corresp="#s2:l1">aert</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Noch so volmaecht, van so scone <rhyme label="b" type="m" corresp="#s2:l2">leden</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Ich moet zi prisen, waer si <rhyme label="a" type="f" corresp="#s2:l1">vaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dorst ich Claren noch (noch) wel <rhyme label="a" type="f">verclaren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hoe dat mi mit claren <rhyme label="b" type="m">steyt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ich soude noch claren <rhyme label="a" type="f" corresp="#s3:l1">openbaren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ende claghen haer mijns hertzen <rhyme label="b" type="m" corresp="#s3:l2">leyt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Si is die liefste, die ich <rhyme label="b" type="m" corresp="#s3:l2">weyt</rhyme>;</l>
+        <l id="s3:l6" met="4" type="-+">Gheen dienst mach mi aen haer <rhyme label="a" type="f" corresp="#s3:l1">verzwaren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Al deyt si mich cranc <rhyme label="b" type="m" corresp="#s3:l2">ontheyt</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">God moet haer lijf ende eere <rhyme label="a" type="f" corresp="#s3:l1">bewaren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

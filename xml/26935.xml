@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26935</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>O lustelijke mei gij zijt nu in seizoen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">N  noch nymmer so ra wett mein gem <rhyme label="a" type="m">th</rhyme> /</l>
+        <l id="s1:l2" met="2" type="-+">Ich thob vnnd w <rhyme label="a" type="m" corresp="#s1:l1">idtt</rhyme> /</l>
+        <l id="s1:l3" met="2" type="-+">bei dir z <rhyme label="b" type="m">sein</rhyme> /</l>
+        <l id="s1:l4" met="2" type="-+">dar hin all <rhyme label="b" type="m" corresp="#s1:l3">mein</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">gedanckenn ich <rhyme label="c" type="m">setz</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">trost vnnd <rhyme label="c" type="m" corresp="#s1:l5">ergetz</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">mitt trawen <rhyme label="d" type="m">mich</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">dar gegenn <rhyme label="d" type="m" corresp="#s1:l7">dich</rhyme> /</l>
+        <l id="s1:l9" met="4" type="-+">dweil ich lieb  mein traw <rhyme label="d" type="m" corresp="#s1:l7">versich</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Noch w nsch ich liebers nitt a ff <rhyme label="a" type="m">erden</rhyme> /</l>
+        <l id="s2:l2" met="2" type="-+">dan das mir w <rhyme label="a" type="m" corresp="#s2:l1">rdtt</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">dein genoitt z  <rhyme label="b" type="m">theill</rhyme> /</l>
+        <l id="s2:l4" met="2" type="-+">vnnd gl ck sein <rhyme label="b" type="m" corresp="#s2:l3">heill</rhyme> /</l>
+        <l id="s2:l5" met="2" type="-+">vnnß darz  <rhyme label="c" type="m">geiff</rhyme> /</l>
+        <l id="s2:l6" met="2" type="-+">das ich <rhyme label="c" type="m" corresp="#s2:l5">orloff</rhyme> /</l>
+        <l id="s2:l7" met="2" type="-+">dir wonen <rhyme label="d" type="m">bei</rhyme> /</l>
+        <l id="s2:l8" met="2" type="-+">stetz lieb dich <rhyme label="d" type="m" corresp="#s2:l7">sei</rhyme> /</l>
+        <l id="s2:l9" met="4" type="-+">darmitt ich war verlangens <rhyme label="d" type="m" corresp="#s2:l7">frei</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">N mmer kein lohn ich anders <rhyme label="a" type="m">boger</rhyme> /</l>
+        <l id="s3:l2" met="2" type="-+">vmb vergeß <rhyme label="a" type="m" corresp="#s3:l1">sehr</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">dein lieff nitt <rhyme label="b" type="m">endtt</rhyme> /</l>
+        <l id="s3:l4" met="2" type="-+">Jch bitt nitt <rhyme label="b" type="m" corresp="#s3:l3">wendt</rhyme> /</l>
+        <l id="s3:l5" met="2" type="-+">dein groß von <rhyme label="c" type="m">mir</rhyme> /</l>
+        <l id="s3:l6" met="2" type="-+">wantt ich jn <rhyme label="c" type="m" corresp="#s3:l5">dir</rhyme> /</l>
+        <l id="s3:l7" met="2" type="-+">bin <rhyme label="d" type="m">vnderthan</rhyme> /</l>
+        <l id="s3:l8" met="2" type="-+">biß zweiffels <rhyme label="d" type="m" corresp="#s3:l7">ohn</rhyme> /</l>
+        <l id="s3:l9" met="4" type="-+">ich will dich f r all wellt lieb <rhyme label="d" type="m" corresp="#s3:l7">han</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4025</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>O waarde mond</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O suuer <rhyme label="a" type="m">vat</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">O lelien <rhyme label="a" type="m" corresp="#s1:l1">blat</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">O dierbaer <rhyme label="a" type="m" corresp="#s1:l1">scat</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ick bid v dat ick bid v <rhyme label="a" type="m" corresp="#s1:l1">dat</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Wilt mi mijn herte <rhyme label="b" type="f">verbliden</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Als ick heb druck oft liden <rhyme label="b" type="f" corresp="#s1:l5">liden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">O maghet <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Reyn edel <rhyme label="a" type="m" corresp="#s2:l1">bloet</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Gheeft mi doch <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">In <rhyme label="a" type="m" corresp="#s2:l1">teghenspoet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ghi sijt onsen troost <rhyme label="b" type="f">alleyne</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Ioncfrou van sonden <rhyme label="b" type="f" corresp="#s2:l5">reyne</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">O maghet <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">O edel <rhyme label="a" type="m" corresp="#s3:l1">greyn</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Ghi sijt <rhyme label="a" type="m" corresp="#s3:l1">certeyn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Int shemels <rhyme label="a" type="m" corresp="#s3:l1">pleyn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Bi uwen sone <rhyme label="b" type="f">verheuen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Wilt ons v gratie <rhyme label="b" type="f" corresp="#s3:l5">gheuen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">O roose <rhyme label="a" type="m">root</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Mijn sonden <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Legghe ick al <rhyme label="a" type="m" corresp="#s4:l1">bloot</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">In uwen <rhyme label="a" type="m" corresp="#s4:l1">schoot</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Wilt mi doch troost <rhyme label="b" type="f">verweruen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Als ick sal moeten <rhyme label="b" type="f" corresp="#s4:l5">steruen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Staet mi dan <rhyme label="a" type="m">bi</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">In dyen <rhyme label="a" type="m" corresp="#s5:l1">ty</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Maecht edel <rhyme label="a" type="m" corresp="#s5:l1">vry</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Onsen troost <rhyme label="a" type="m" corresp="#s5:l1">sidy</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Nae dat wilt mi <rhyme label="b" type="f">verblyen</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Met hemelscher <rhyme label="b" type="f" corresp="#s5:l5">melodyen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

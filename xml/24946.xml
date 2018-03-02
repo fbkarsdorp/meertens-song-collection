@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24946</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Ik klaag dij zure winter koud</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Mich verlenget werlich <rhyme label="a" type="m">sere</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Nar ir wonnentliche <rhyme label="a" type="m" corresp="#s1:l1">gebere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Si die wenden kan min <rhyme label="a" type="m" corresp="#s1:l1">swere</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Und min troren <rhyme label="b" type="f">crenchen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Der doget is si <rhyme label="a" type="m" corresp="#s1:l1">lere</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Ir vrunt is Vrou <rhyme label="a" type="m" corresp="#s1:l1">Eere</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En huer ghein ander <rhyme label="a" type="m" corresp="#s1:l1">mere</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Des moys ich irs <rhyme label="b" type="f" corresp="#s1:l4">gedenchen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Si macht min gemuyte <rhyme label="a" type="m">ho</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Min hertz reyn, min sinne <rhyme label="a" type="m" corresp="#s2:l1">vro</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">In achte alles nicht ein <rhyme label="a" type="m" corresp="#s2:l1">stro</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wan si mir goedes <rhyme label="b" type="f">gunde</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Here god, gef ir die zinne <rhyme label="a" type="m" corresp="#s2:l1">zo</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Das ze zu mir spriche: <rhyme label="a" type="m" corresp="#s2:l1">jo</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Want ich nemmer <rhyme label="a" type="m" corresp="#s2:l1">auelo</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Wats mer ghebaten <rhyme label="b" type="f" corresp="#s2:l4">cunde</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wert mir ein vruntlich <rhyme label="a" type="m">have-danc</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van ir, daer ich nye nah <rhyme label="a" type="m" corresp="#s3:l1">ranch</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">So ist al min trouren <rhyme label="a" type="m" corresp="#s3:l1">cranch</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Und al min leyt <rhyme label="b" type="f">verzwonden</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Owee, dat ist leden <rhyme label="a" type="m" corresp="#s3:l1">lanch</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Das ich huerde das zues <rhyme label="a" type="m" corresp="#s3:l1">geclanch</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Dat us ir kelen <rhyme label="a" type="m" corresp="#s3:l1">dranch</rhyme>!</l>
+        <l id="s3:l8" met="3" type="-+">Yr guete halt mir <rhyme label="b" type="f" corresp="#s3:l4">gebonden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Suesse, reyne, zarte, <rhyme label="a" type="m">fin</rhyme>!</l>
+        <l id="s4:l2" met="4" type="+-">Sal ich an troest in sorgen <rhyme label="a" type="m" corresp="#s4:l1">zin</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Verdreven ist die vrude <rhyme label="a" type="m" corresp="#s4:l1">min</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daz sprech ich uf minen <rhyme label="b" type="f">eyd</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Min Vrou, doe mir genade <rhyme label="a" type="m" corresp="#s4:l1">anschin</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">So wil ich vryes moedes <rhyme label="a" type="m" corresp="#s4:l1">zin</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Swar ich bin vry eigen <rhyme label="a" type="m" corresp="#s4:l1">din</rhyme>;</l>
+        <l id="s4:l8" met="3" type="-+">Wers nicht, das wer mir <rhyme label="b" type="f" corresp="#s4:l4">leyde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

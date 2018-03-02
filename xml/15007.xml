@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15007</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>proverb</tag>
+    </tags>
+    <melody>La bourrée de France</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ghy die tot een <rhyme label="a" type="m">Opper-Held</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In den Lande syt <rhyme label="a" type="m" corresp="#s1:l1">gestelt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hoe komt dat u <rhyme label="b" type="m">weerdigheyt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Tegens recht en reden <rhyme label="b" type="m" corresp="#s1:l3">pleyt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Syt ghy vol? Ende <rhyme label="c" type="m">dol</rhyme>?</l>
+        <l id="s1:l6" met="4" type="+-">Of dom of blint? Dat ghy't <rhyme label="d" type="m">vint</rhyme>,,</l>
+        <l id="s1:l7" met="2" type="+-">Al voor <rhyme label="e" type="m">goet</rhyme>,,</l>
+        <l id="s1:l8" met="4" type="+-">Wat dat ghy drijft,, Ofte <rhyme label="f" type="m">schrijft</rhyme>,,</l>
+        <l id="s1:l9" met="2" type="+-">Ofte <rhyme label="e" type="m" corresp="#s1:l7">doet</rhyme>?</l>
+        <l id="s1:l10" met="4" type="+-">End' versiert u <rhyme label="e" type="m" corresp="#s1:l7">gemoet</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Denckt doch datter is noch <rhyme label="a" type="m">een</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Die de groote maecket <rhyme label="a" type="m" corresp="#s2:l1">kleen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wanneer dat hy tydt en <rhyme label="b" type="m">stont</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Acht bequaem, tot straf der <rhyme label="b" type="m" corresp="#s2:l3">sond</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Uwe daet,, uwen <rhyme label="c" type="m">staet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">End' uwen lof,, U <rhyme label="d" type="m">gepof</rhyme>,</l>
+        <l id="s2:l7" met="2" type="+-">Raeckt te <rhyme label="e" type="m">met</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Noch te gelyck,, In het <rhyme label="f" type="m">slyck</rhyme>:</l>
+        <l id="s2:l9" met="2" type="+-">Want g'u <rhyme label="e" type="m" corresp="#s2:l7">set</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Tegens God en syne <rhyme label="e" type="m" corresp="#s2:l7">Wet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ghy die sit in staet en <rhyme label="a" type="m">macht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En misbruyckt niet <rhyme label="a" type="m" corresp="#s3:l1">onbedacht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'tRecht van't rechts <rhyme label="b" type="m">gerechtigheyt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Noch al't geen dat daer op <rhyme label="b" type="m" corresp="#s3:l3">draeyt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">God toch siet,, Waer ghy <rhyme label="c" type="m">vliet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Loopt of gaet,, Ligt of <rhyme label="d" type="m">staet</rhyme>:</l>
+        <l id="s3:l7" met="2" type="+-">Want daer <rhyme label="e" type="m">is</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Niet so secreet,, Of God <rhyme label="f" type="m">weet</rhyme></l>
+        <l id="s3:l9" met="2" type="+-">Sonder <rhyme label="e" type="m" corresp="#s3:l7">mis</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">Alles seker en <rhyme label="e" type="m" corresp="#s3:l7">gewis</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

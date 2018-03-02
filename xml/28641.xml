@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28641</id>
+    <date>
+      <year-start>1560</year-start>
+      <year-end>1560</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>battle song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hem seluen heeft die paus <rhyme label="a" type="m">gestelt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Bouen alle Coningen met <rhyme label="a" type="m" corresp="#s1:l1">gewelt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hij draecht drie croonen vam <rhyme label="b" type="f">gouden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Veel kersten bloets stort hij Int <rhyme label="a" type="m" corresp="#s1:l1">velt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Dit moetmen voer heijlicheijt <rhyme label="b" type="f" corresp="#s1:l3">houden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijn leer ghelt meer dan gods <rhyme label="a" type="m">ghebot</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met christus woordt hout hij sijn <rhyme label="a" type="m" corresp="#s2:l1">spot</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Sijn doen en is niet dan <rhyme label="b" type="f">lieghen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Sijn Iongheren gaen geschoren ghelijck eenen <rhyme label="a" type="m" corresp="#s2:l1">sot</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Om een armen te <rhyme label="b" type="f" corresp="#s2:l3">bedriegen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

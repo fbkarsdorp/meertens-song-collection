@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2370</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Een / o Goddelyck <rhyme label="a" type="m">een</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">Dat Magdalena hadde <rhyme label="b" type="f">vercoren</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Rust o Jesus in myn herte <rhyme label="a" type="m" corresp="#s1:l1">alleen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En laet mijn ziel van u niet <rhyme label="a" type="m" corresp="#s1:l1">scheen</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Op dat zy niet en gae <rhyme label="b" type="f" corresp="#s1:l2">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Drijft uut my dat u <rhyme label="a" type="m">mishaecht</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">Maeckt my den mensch naer uwen <rhyme label="b" type="f">wille</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Uut liefden myn herteken naer u <rhyme label="a" type="m" corresp="#s2:l1">iaecht</rhyme> /</l>
+        <l id="s2:l4" met="4" type="-+">Myn sonden met u bloet uut <rhyme label="a" type="m" corresp="#s2:l1">vaecht</rhyme>/</l>
+        <l id="s2:l5" met="4" type="-+">Stort in my u gracie <rhyme label="b" type="f" corresp="#s2:l2">stille</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Heer, wanneer sal comen den <rhyme label="a" type="m">tyt</rhyme> /</l>
+        <l id="s3:l2" met="4" type="-+">Dat ick u sal <rhyme label="b" type="f">aenschouwen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Daer boven in u <rhyme label="a" type="m" corresp="#s3:l1">hemelrijck</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Daer altyt wesen sal <rhyme label="a" type="m" corresp="#s3:l1">iolyt</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">By u moeder ons lieve <rhyme label="b" type="f" corresp="#s3:l2">Vrouwe</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Groote blyschap sal wesen <rhyme label="a" type="m">daer</rhyme>/</l>
+        <l id="s4:l2" met="4" type="-+">Gheen verstant en canse <rhyme label="b" type="f">dincken</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Maer wij moeten dicwil peysen <rhyme label="a" type="m" corresp="#s4:l1">voorwaer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat moeten wesen sal zuyver en <rhyme label="a" type="m" corresp="#s4:l1">claer</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">Dwelck inder eewicheyt sal <rhyme label="b" type="f" corresp="#s4:l2">blincken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Op dese claerheyt ierst voor <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Behoort een sondich mensch te <rhyme label="b" type="f">letten</rhyme> /</l>
+        <l id="s5:l3" met="4" type="-+">Dat hij tot dese vreucht niet comen en <rhyme label="a" type="m" corresp="#s5:l1">sal</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Die hier beneden in dit aertsche <rhyme label="a" type="m" corresp="#s5:l1">dal</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Zyn ziele met sonden wilt <rhyme label="b" type="f" corresp="#s5:l2">besmetten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

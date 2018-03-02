@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38697</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>La duchesse royale</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waerhenen vliet ghy snellen <rhyme label="a" type="m">tijdt</rhyme>?</l>
+        <l id="s1:l2" met="1" type="-+">Die <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">Mijn teere jeught ontgaen in enckel <rhyme label="a" type="m" corresp="#s1:l1">dertelheyt</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">In overdaet, in geylheydts vuyl <rhyme label="b" type="f">ghenuchten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Swieren, en tieren en maecken <rhyme label="c" type="m">gheschal</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Profijt ghedaen en heb ick niet met <rhyme label="c" type="m" corresp="#s1:l5">al</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">Van smorghens <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Wanneer den <rhyme label="d" type="m" corresp="#s1:l7">haen</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Aurora komt <rhyme label="e" type="f">begroeten</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Tot s'avons <rhyme label="f" type="m">laet</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Komt my mijn <rhyme label="f" type="m" corresp="#s1:l10">quaet</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">Te voor in <rhyme label="a" type="m" corresp="#s1:l1">bitterheyt</rhyme>.</l>
+        <l id="s1:l13" met="5" type="-+">K'heb Venus en Cupido nu adieu <rhyme label="a" type="m" corresp="#s1:l1">gheseyt</rhyme>,</l>
+        <l id="s1:l14" met="2" type="-+">Wech loose <rhyme label="g" type="m">spin</rhyme>?</l>
+        <l id="s1:l15" met="2" type="-+">Wech <rhyme label="g" type="m" corresp="#s1:l14">Mairemin</rhyme>?</l>
+        <l id="s1:l16" met="2" type="-+">Vol <rhyme label="a" type="m" corresp="#s1:l1">listicheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Adieu ruwine van mijn <rhyme label="a" type="m">ziel</rhyme>?</l>
+        <l id="s2:l2" met="1" type="-+">Die <rhyme label="a" type="m" corresp="#s2:l1">hiel</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">My stadich vast verwert, aen u broos <rhyme label="a" type="m" corresp="#s2:l1">spinnewiel</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Daer ghy op draeyt ons herten, ende <rhyme label="b" type="f">sinnen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Nu tot schrick, nu tot vreught en soet <rhyme label="c" type="m">ghemal</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Maer (Elaes, ten lesten keert tot <rhyme label="c" type="m" corresp="#s2:l5">val</rhyme>.</l>
+        <l id="s2:l7" met="2" type="-+">Vrouw Venus <rhyme label="d" type="m">kindt</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Dat is <rhyme label="d" type="m" corresp="#s2:l7">verblint</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">En al de hier <rhyme label="e" type="f">beminnen</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Want yder <rhyme label="f" type="m">sot</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Prijst sijn <rhyme label="f" type="m" corresp="#s2:l10">marot</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Waer door hy is <rhyme label="a" type="m" corresp="#s2:l1">verleyt</rhyme>:</l>
+        <l id="s2:l13" met="5" type="-+">K'heb Venus en Cupido nu adieu <rhyme label="a" type="m" corresp="#s2:l1">gheseyt</rhyme>?</l>
+        <l id="s2:l14" met="2" type="-+">Wech losse <rhyme label="g" type="m">tuyt</rhyme>?</l>
+        <l id="s2:l15" met="2" type="-+">Wech lichte <rhyme label="g" type="m" corresp="#s2:l14">schuyt</rhyme>?</l>
+        <l id="s2:l16" met="2" type="-+">Vol <rhyme label="a" type="m" corresp="#s2:l1">ydelheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

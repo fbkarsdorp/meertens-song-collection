@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24760</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>proverb</tag>
+      <tag>narrative song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Het zou een schamele marsenier</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Het soude een scamel <rhyme label="a" type="m">mersenier</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Coopmansceipe <rhyme label="b" type="f">leren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hi hiet annin <rhyme label="a" type="m" corresp="#s1:l1">tutebier</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hi conste hem wel <rhyme label="b" type="f" corresp="#s1:l2">gheneren</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Daer hi sinen canis <rhyme label="c" type="m">drouch</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Een joncfrauwe riepen ende soe <rhyme label="c" type="m" corresp="#s1:l5">louch</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Comt hier na goet <rhyme label="d" type="m">meerseman</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Naelden spellen trompen <rhyme label="e" type="f">bellen</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Ic wil mijn merse hier neder <rhyme label="e" type="f" corresp="#s1:l8">stellen</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Laet zien of ic vercopen <rhyme label="d" type="m" corresp="#s1:l7">can</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als hi de scone vrauwe <rhyme label="a" type="m">anesach</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hi sprac ic wil mijn merse <rhyme label="b" type="f">ontslaen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ic hebbe ghetsantert al den <rhyme label="a" type="m" corresp="#s2:l1">dach</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">In hebbe ene mite niet <rhyme label="b" type="f" corresp="#s2:l2">ontfaen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Sinen canis hi <rhyme label="c" type="m">ontslouch</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Joncfrauwe nu souct al u <rhyme label="c" type="m" corresp="#s2:l5">ghevouch</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Want ic u wel der baten <rhyme label="d" type="m">jan</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Naelden spellen trompen <rhyme label="e" type="f">bellen</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Ic wil mijn merse hier neder <rhyme label="e" type="f" corresp="#s2:l8">stellen</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Laet zien of ic vercopen <rhyme label="d" type="m" corresp="#s2:l7">can</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Merseman seidse lieve <rhyme label="a" type="m">gheselle</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ic hebbe een cleine <rhyme label="b" type="f">cokerkijn</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">In vinde hier in no naelde no <rhyme label="a" type="m" corresp="#s3:l1">spelle</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die wel voughen soude daer <rhyme label="b" type="f" corresp="#s3:l2">in</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Hier sijn grote ende daer toe <rhyme label="c" type="m">cleine</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Maer ic ne vinde niet dat ic <rhyme label="c" type="m" corresp="#s3:l5">meine</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Joncfrauwe wat spellen wildi <rhyme label="d" type="m">dan</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Naelden spellen trompen <rhyme label="e" type="f">bellen</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Ic wil mijn merse hier neder <rhyme label="e" type="f" corresp="#s3:l8">stellen</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">Laet zien of ic vercopen <rhyme label="d" type="m" corresp="#s3:l7">can</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Joncfrauwe ic hebbe een <rhyme label="a" type="m">spellekijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dan es niet aldus <rhyme label="b" type="f">cleine</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Cnape wel moeti comen <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ghi weit wel wat ic <rhyme label="b" type="f" corresp="#s4:l2">meine</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Wildi de spelle vercopen <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">So leensce mi of ghijt <rhyme label="c" type="m" corresp="#s4:l5">ghebiet</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Ic salt u lone bi sinte <rhyme label="d" type="m">jan</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Naelden spellen trompen <rhyme label="e" type="f">bellen</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Ic wil mijn merse hier neder <rhyme label="e" type="f" corresp="#s4:l8">stellen</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">Laet zien of ic vercopen <rhyme label="d" type="m" corresp="#s4:l7">can</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hi nam de joncfrauwe bi der <rhyme label="a" type="m">hant</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Si gingen onder hem <rhyme label="b" type="f">beiden</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">De spelle dat zoe te pointe <rhyme label="a" type="m" corresp="#s5:l1">vant</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Soene wilder niet of <rhyme label="b" type="f" corresp="#s5:l2">sceiden</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Cnape hout mi dit <rhyme label="c" type="m">spellekijn</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Het sal u wel vergouden <rhyme label="c" type="m" corresp="#s5:l5">zijn</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Want beter spelle ic nie <rhyme label="d" type="m">ghewan</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">Naelden spellen trompen <rhyme label="e" type="f">bellen</rhyme></l>
+        <l id="s5:l9" met="4" type="-+">Ic wil mijn merse hier neder <rhyme label="e" type="f" corresp="#s5:l8">stellen</rhyme></l>
+        <l id="s5:l10" met="4" type="+-">Laet zien of ic vercopen <rhyme label="d" type="m" corresp="#s5:l7">can</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25190</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Mir is als ich niet levende si. wan ich intnucken <rhyme label="a" type="f">sere</rhyme>.</l>
+        <l id="s1:l2" met="7" type="-+">da bi bewiset mich der slaif. den doit mit sinre <rhyme label="a" type="f" corresp="#s1:l1">lere</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">an der sunden <rhyme label="a" type="f" corresp="#s1:l1">kere</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">bezeichint mir den szaden <rhyme label="b" type="m">min</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">dat zegenclich is min levin. so werdich bi der <rhyme label="c" type="f">hizze</rhyme>.</l>
+        <l id="s1:l6" met="7" type="-+">der hellen ermanet. wan ich in eyne batstuve <rhyme label="c" type="f" corresp="#s1:l5">sizze</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">an der blomen <rhyme label="c" type="f" corresp="#s1:l5">glizze</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">spuor ich unsteder wnnen <rhyme label="b" type="m" corresp="#s1:l4">szijn</rhyme>.</l>
+        <l id="s1:l9" met="8" type="+-">In dem spegil er kennich wol. dat ich eyn esche bin als <rhyme label="d" type="m">hie</rhyme>.</l>
+        <l id="s1:l10" met="3" type="-+">So kan mir der <rhyme label="d" type="m" corresp="#s1:l9">kerinter</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">mit deme gebeine <rhyme label="e" type="f">kunde</rhyme>.</l>
+        <l id="s1:l12" met="7" type="-+">dat mich die wrme suollen knagen mit iren unreinen <rhyme label="e" type="f" corresp="#s1:l11">munden</rhyme>.</l>
+        <l id="s1:l13" met="7" type="-+">wil ich mich zelver huoden niet. wuor grosen heuvit <rhyme label="e" type="f" corresp="#s1:l11">sunden</rhyme>.</l>
+        <l id="s1:l14" met="3" type="+-">In der hellin <rhyme label="e" type="f" corresp="#s1:l11">grunden</rhyme></l>
+        <l id="s1:l15" met="4" type="-+">muois ich ain ende quelende <rhyme label="b" type="m" corresp="#s1:l4">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="7" type="-+">So we mir dumbir.dat mich ymmer langir dage <rhyme label="a" type="f">irdruozsit</rhyme>.</l>
+        <l id="s2:l2" met="7" type="-+">sint dat mine kurte zijt. so snellich van mir <rhyme label="a" type="f" corresp="#s2:l1">vluozsit</rhyme>.</l>
+        <l id="s2:l3" met="3" type="+-">dat eyne bach niet <rhyme label="a" type="f" corresp="#s2:l1">schuoszit</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">so drait uz vielse noch uoz <rhyme label="b" type="m">hage</rhyme>.</l>
+        <l id="s2:l5" met="7" type="-+">Ich wunsen dicke dat mir mine stunde wird <rhyme label="c" type="f">gekuorzit</rhyme>.</l>
+        <l id="s2:l6" met="7" type="-+">die sich doch up so hoin loif so ga hait <rhyme label="c" type="f" corresp="#s2:l5">geschuorzit</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">dat dar inne <rhyme label="c" type="f" corresp="#s2:l5">irsturzit</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">vil schere mine lieve <rhyme label="b" type="m" corresp="#s2:l4">dage</rhyme>.</l>
+        <l id="s2:l9" met="8" type="+-">so clagen ich min <rhyme label="d" type="m">zijt</rhyme>.</l>
+        <l id="s2:l10" met="3" type="-+">die mir neman wider <rhyme label="d" type="m" corresp="#s2:l9">ingijt</rhyme>.</l>
+        <l id="s2:l11" met="3" type="+-">wan ich die <rhyme label="e" type="f">verluore</rhyme>.</l>
+        <l id="s2:l12" met="7" type="-+">verdient ich verent gelt. ich mach gewinnen andert <rhyme label="e" type="f" corresp="#s2:l11">huore</rhyme>.</l>
+        <l id="s2:l13" met="7" type="-+">versuenden ich ever mine jaeir. de sint mir ymmer <rhyme label="e" type="f" corresp="#s2:l11">duore</rhyme>.</l>
+        <l id="s2:l14" met="3" type="+-">van die gein <rhyme label="e" type="f" corresp="#s2:l11">stuore</rhyme>.</l>
+        <l id="s2:l15" met="4" type="-+">verlorne zijt ich e weder <rhyme label="b" type="m" corresp="#s2:l4">bejage</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

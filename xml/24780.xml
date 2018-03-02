@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24780</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Nacht en dag zo waar ik ben</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Nacht ende dach so waer ic <rhyme label="a" type="m">bin</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Anich u minlic in den <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Nu ende tallen <rhyme label="b" type="f">tiden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">No weinsch no ger no geen <rhyme label="a" type="m" corresp="#s1:l1">ghewin</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">En mach mi el <rhyme label="b" type="f" corresp="#s1:l3">verbliden</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

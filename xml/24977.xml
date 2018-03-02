@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24977</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Bilde! milde bys teghen <rhyme label="a" type="m">myr</rhyme>;</l>
+        <l id="s1:l2" met="5" type="+-">Dir bin ich holt vur alle <rhyme label="b" type="m">wijb</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Blib an mir arman <rhyme label="c" type="f">stete</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Sint tu bist al mijn <rhyme label="d" type="m">toeversicht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Unde mues zich ziin an <rhyme label="e" type="f">ende</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Zo hayn ich gantz zu dir <rhyme label="d" type="m" corresp="#s1:l4">gheplicht</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Dinen lieben gruetz myr <rhyme label="e" type="f" corresp="#s1:l5">sende</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zuze! gruetze bistu <rhyme label="a" type="m">rijch</rhyme>.</l>
+        <l id="s2:l2" met="5" type="+-">Mich troeste, zarte reyne <rhyme label="b" type="m">vrucht</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Zucht du nie <rhyme label="c" type="f">versmede</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Alle vrouwen hant der <rhyme label="d" type="m">eere</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dey mijn hertz haet <rhyme label="e" type="f">ercoren</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Liebes lief, van zwifel <rhyme label="d" type="m" corresp="#s2:l4">keere</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Anders bin ich gaer <rhyme label="e" type="f" corresp="#s2:l5">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Blicke scycke wol <rhyme label="a" type="m">behut</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Gut is its vur der nider <rhyme label="b" type="m">scal</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Val neyt an yr <rhyme label="c" type="f">gherede</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Zint das yst mir eyn teyl <rhyme label="d" type="m">gedaen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Das ich eyns wibes eyghen <rhyme label="e" type="f">byn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Zo ne wulde ich vur zi gheyne <rhyme label="d" type="m" corresp="#s3:l4">hayn</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">So ervrouwet mir den <rhyme label="e" type="f" corresp="#s3:l5">sin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

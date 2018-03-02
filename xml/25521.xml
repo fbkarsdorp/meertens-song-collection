@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25521</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (jülich?)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+      <tag>evening song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Christe du byst dach vnd dat <rhyme label="a" type="m">lycht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">vur dyr en ys verborgen <rhyme label="a" type="m" corresp="#s1:l1">nycht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">dyns vaders licht vnd clair <rhyme label="b" type="m">gelantz</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">leer vns den wech der wairheit <rhyme label="b" type="m" corresp="#s1:l3">gantz</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wir bydden hyllige here <rhyme label="a" type="m">dich</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">in dieser nacht behuede <rhyme label="a" type="m" corresp="#s2:l1">mich</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">yn dir so sy die raiste <rhyme label="b" type="m">myn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">lais vns diese nacht in vreden <rhyme label="b" type="m" corresp="#s2:l3">syn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verdryff des swaeren slaiffes <rhyme label="a" type="m">fryst</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">dat vns nyet bedriege des vyants <rhyme label="a" type="m" corresp="#s3:l1">lyst</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">dat dat fleysch yn duegden reyne <rhyme label="b" type="m">sy</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">so staent wyr van swaren sunden <rhyme label="b" type="m" corresp="#s3:l3">fry</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu slaeffet ougen sonder <rhyme label="a" type="m">leydt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">nw wach du hertz yn <rhyme label="a" type="m" corresp="#s4:l1">steducheit</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">vnd beschyrme vns godes rechte <rhyme label="b" type="m">hant</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">vnd verloiss vns van der sunden <rhyme label="b" type="m" corresp="#s4:l3">bandt</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Beschirmer aller <rhyme label="a" type="m">Christenheit</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">dyn hulpe starck sy vns <rhyme label="a" type="m" corresp="#s5:l1">bereyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">nw helff vns here vys aller <rhyme label="b" type="m">noyt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">durch dyrre hylge funff wonden <rhyme label="b" type="m" corresp="#s5:l3">roit</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Bedenck lieff here der swaerrer <rhyme label="a" type="m">tzyt</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">der pynen die an dym lyff vergangen <rhyme label="a" type="m" corresp="#s6:l1">ys</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">die selen die dw hais <rhyme label="b" type="m">verloist</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">den gyff lieff here dynen ewygen <rhyme label="b" type="m" corresp="#s6:l3">troist</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Des vaders krafft vnd sones <rhyme label="a" type="m">kunst</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">des hylgen geistes goide <rhyme label="a" type="m" corresp="#s7:l1">gunst</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">nw  haue loff ere ind <rhyme label="b" type="m">wirdicheit</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">der hoigeloyffte hylge <rhyme label="b" type="m" corresp="#s7:l3">dryueldicheit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

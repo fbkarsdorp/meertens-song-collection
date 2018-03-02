@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2791</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>secular song</tag>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Ik lijd in het hart pijn ongewoon</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Belast belaen met druck <rhyme label="a" type="m">bevaen</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Wert Ick <rhyme label="b" type="f">beuonden</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">tot allen <rhyme label="b" type="f" corresp="#s1:l2">stonden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat ick quae paen hebbe <rhyme label="a" type="m" corresp="#s1:l1">gegaen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">hoert mijn <rhyme label="b" type="f" corresp="#s1:l2">voermonde</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">geleeft in <rhyme label="b" type="f" corresp="#s1:l2">sonde</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Sonder leit met <rhyme label="c" type="m">vroelickheit</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">veel vruecht <rhyme label="d" type="f">genietich</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">maer doer mijn <rhyme label="c" type="m" corresp="#s1:l7">onseedicheit</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">hier int tuchthuis <rhyme label="c" type="m" corresp="#s1:l7">geleit</rhyme></l>
+        <l id="s1:l11" met="2" type="-+">Yst niet <rhyme label="d" type="f" corresp="#s1:l8">voerdrietich</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doet nu gij Juaecht ter wijl gij <rhyme label="a" type="m">meucht</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Wilt naerstich <rhyme label="b" type="f">schouwen</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Oneerbaer <rhyme label="b" type="f" corresp="#s2:l2">vrouwen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Want gij en muecht ncoh eer ncoh <rhyme label="a" type="m" corresp="#s2:l1">duecht</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Een haer <rhyme label="b" type="f" corresp="#s2:l2">behouwen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Maer meer <rhyme label="b" type="f" corresp="#s2:l2">benouwen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">hoe wel sij soet alst Duifken <rhyme label="c" type="m">doet</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">liefelick <rhyme label="d" type="f">treckbecken</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Maer als voergaen is den <rhyme label="c" type="m" corresp="#s2:l7">vloet</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">van u gelt ende <rhyme label="c" type="m" corresp="#s2:l7">goet</rhyme></l>
+        <l id="s2:l11" met="2" type="-+">sy met u <rhyme label="d" type="f" corresp="#s2:l8">gecken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Prinse drinck vrij met goedt geselschap <rhyme label="a" type="m">blij</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">In vroelick <rhyme label="b" type="f">heede</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">een kan met <rhyme label="b" type="f" corresp="#s3:l2">vreede</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">maer dat gij doert lanck weesen <rhyme label="a" type="m" corresp="#s3:l1">bij</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">niet en wort <rhyme label="b" type="f" corresp="#s3:l2">beestreede</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">van quaede <rhyme label="b" type="f" corresp="#s3:l2">seede</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">maer oeverdaet schout nae mijn <rhyme label="c" type="m">raet</rhyme></l>
+        <l id="s3:l8" met="2" type="+-">tot allen <rhyme label="d" type="f">stonde</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Dat gij doer u leeuen <rhyme label="c" type="m" corresp="#s3:l7">quaet</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Int tuchthuis van den <rhyme label="c" type="m" corresp="#s3:l7">raet</rhyme></l>
+        <l id="s3:l11" met="2" type="-+">Niet en wort <rhyme label="d" type="f" corresp="#s3:l8">gesonde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

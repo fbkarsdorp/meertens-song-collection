@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27945</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1590</year-end>
+    </date>
+    <location>
+      <orginal-name>eekwerd (bij loppersum)</orginal-name>
+      <standard-name>Eekwerd, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.3261085</lon>
+        <lat>6.7886633</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Wilhelmus</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wilhelmus van <rhyme label="a" type="f">Nassauwe</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ben yck van duytschen <rhyme label="b" type="m">bloedt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Den vaderlant <rhyme label="a" type="f" corresp="#s1:l1">getrauu</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Blyff ick tot in den <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Een prince van <rhyme label="c" type="f">orancgien</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Blyff ick vry <rhyme label="d" type="m">onverveert</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Den koninck van <rhyme label="c" type="f" corresp="#s1:l5">Spanien</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Hebbe ick altydt <rhyme label="d" type="m" corresp="#s1:l6">gheeert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

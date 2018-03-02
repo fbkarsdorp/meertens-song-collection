@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29454</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>holland?</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>scriptural song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ontwaak van slaap wie dat gij zijt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Men leest in esdras vanden <rhyme label="a" type="m">wijn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">ende vanden conijnck <rhyme label="a" type="m" corresp="#s1:l1">ffijn</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Maer dat de vrowen vromer <rhyme label="a" type="m" corresp="#s1:l1">sijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">en excellenter zijn <rhyme label="b" type="f">beseuen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">si verblijden den man door haren <rhyme label="a" type="m" corresp="#s1:l1">ansschijn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">en si brengt hem wt <rhyme label="a" type="m" corresp="#s1:l1">ghepijn</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">verstaet de worden <rhyme label="a" type="m" corresp="#s1:l1">mijn</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">en vrou ijs bouen al <rhyme label="b" type="f" corresp="#s1:l4">verheuen</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">een wijse vrouwe <rhyme label="c" type="f">goet</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">verhoecht haer mans <rhyme label="c" type="f" corresp="#s1:l9">gemoet</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">haer woorden <rhyme label="d" type="f">deuijne</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">si sijn den man een <rhyme label="d" type="f" corresp="#s1:l11">medecijne</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">wije solde nijet prijsen der vrouwen <rhyme label="a" type="m">aert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">des morgens vroe <rhyme label="a" type="m" corresp="#s2:l1">verclaert</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">en heeft een goet <rhyme label="a" type="m" corresp="#s2:l1">aert</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">sij doet dat huijs gheheel <rhyme label="b" type="f">verlichten</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">de vrou al met dije man <rhyme label="a" type="m" corresp="#s2:l1">ghepaert</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">het huijuelijck <rhyme label="a" type="m" corresp="#s2:l1">vergaert</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">laetet v oock sijn <rhyme label="a" type="m" corresp="#s2:l1">verclaert</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">al moet sij onderdaenijch den man <rhyme label="b" type="f" corresp="#s2:l4">wesen</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">vresen ende <rhyme label="c" type="f">wederbaer</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">is van een goede vrou <rhyme label="c" type="f" corresp="#s2:l9">voorwaer</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">is van godt <rhyme label="d" type="f">gegheuen</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">ijn onderdaenijcheijt te <rhyme label="d" type="f" corresp="#s2:l11">leuen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

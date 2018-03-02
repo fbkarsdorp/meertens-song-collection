@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25112</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>Advent song</tag>
+      <tag>christmas song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O eeuwige wijsheit daer menich <rhyme label="a" type="m">iaer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die oude vaders <rhyme label="a" type="m" corresp="#s1:l1">openbaer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Om riepen met penitencien <rhyme label="a" type="m" corresp="#s1:l1">swaer</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ghy sijt ons nv <rhyme label="b" type="f">gegeuen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O adonay o heere <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ghy hebt aensien ons groote <rhyme label="a" type="m" corresp="#s2:l1">noot</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En sijt in eender maget <rhyme label="a" type="m" corresp="#s2:l1">scoot</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Als een cleyn kint <rhyme label="b" type="f">gelegen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O wortel van yesse want ghy <rhyme label="a" type="m">sijt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die suete weerde <rhyme label="a" type="m" corresp="#s3:l1">gebenedijt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Daer god af woude in deser <rhyme label="a" type="m" corresp="#s3:l1">tijt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mensceliker natueren <rhyme label="b" type="f">leuen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O sloetel heer dauids ewich <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En ghy hebbet uwen grammen <rhyme label="a" type="m" corresp="#s4:l1">moet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Al gewandelt in <rhyme label="a" type="m" corresp="#s4:l1">oetmoet</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">En onsen val <rhyme label="b" type="f">vergeuen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O blickende raey des hemels <rhyme label="a" type="m">troon</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghy sijt die eeuwige sonne <rhyme label="a" type="m" corresp="#s5:l1">scoen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ende eender puerder maget <rhyme label="a" type="m" corresp="#s5:l1">soen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Daer hemel ende eerde voer <rhyme label="b" type="f">beuen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O coninc des volcx gelooft sy <rhyme label="a" type="m">dy</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Dat ghy ballinge maket <rhyme label="a" type="m" corresp="#s6:l1">vri</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Des moet v een yegelijc wie hy <rhyme label="a" type="m" corresp="#s6:l1">sy</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">ewige glorie <rhyme label="b" type="f">gheuen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O edel coninc <rhyme label="a" type="m">emanuel</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Wy weten alle gader <rhyme label="a" type="m" corresp="#s7:l1">wel</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Dat ghy ons moecht ende niement <rhyme label="a" type="m" corresp="#s7:l1">el</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Die ewige glorie <rhyme label="b" type="f">geuen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24769</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Hoe zou ik iemand vreugde geven</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe soudic yemen vruechden <rhyme label="a" type="f">geven</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Of ic selve ghene en <rhyme label="b" type="m">aen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Sorghen peinsen es mijn <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Des moet ic lust ten vruechden <rhyme label="b" type="m" corresp="#s1:l2">laen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Al wildic nu om vruechden <rhyme label="b" type="m" corresp="#s1:l2">gaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Si sijn mi verre ende <rhyme label="c" type="m">onghereit</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Gheen dinc vor lust ende <rhyme label="c" type="m" corresp="#s1:l6">vroilicheit</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dus es mijn hertze in zorghen <rhyme label="a" type="f">bleven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Mijn beste zeker es een <rhyme label="b" type="m">waen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Mijn hope es al een twifel <rhyme label="a" type="f" corresp="#s2:l1">sneven</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dus moet mijn vruecht aen wanckel <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Mochtic met zorghen leit <rhyme label="b" type="m" corresp="#s2:l2">verslaen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">So ware mi allen rouwe <rhyme label="c" type="m">ontseit</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Gheen dinc vor lust ende <rhyme label="c" type="m" corresp="#s2:l6">vroilicheit</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een ordine hevet mijn herte up <rhyme label="a" type="f">heven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dats zwart dat heift soe an <rhyme label="b" type="m">ghedaen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Een graeu doet soe daer binnen <rhyme label="a" type="f" corresp="#s3:l1">cleven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dit heift zoe ervelic <rhyme label="b" type="m" corresp="#s3:l2">ontfaen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Hoe salsi dan haer van zorghen <rhyme label="b" type="m" corresp="#s3:l2">dwaen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Want zwart es rauwe ende graeu <rhyme label="c" type="m">arbeit</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Dus heift zoe lust no <rhyme label="c" type="m" corresp="#s3:l6">vroylicheit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

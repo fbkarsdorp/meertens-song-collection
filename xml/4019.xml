@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4019</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Hoort allen naar mij</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Hoort al na <rhyme label="a" type="m">mi</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">verstaget wel mijn <rhyme label="b" type="f">reden</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Weest vrolijck ende <rhyme label="a" type="m" corresp="#s1:l1">bli</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">scout nijt tot allen <rhyme label="b" type="f" corresp="#s1:l2">steden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Want die wil staen in <rhyme label="c" type="m">nijt</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">die wort veel vruechden <rhyme label="c" type="m" corresp="#s1:l5">quijt</rhyme> /</l>
+        <l id="s1:l7" met="2" type="-+">tot alder <rhyme label="c" type="m" corresp="#s1:l5">tijt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dus teghen v sinnekens <rhyme label="c" type="m" corresp="#s1:l5">strijt</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">ende stelt v herte in <rhyme label="b" type="f" corresp="#s1:l2">vrede</rhyme> /</l>
+        <l id="s1:l10" met="3" type="-+">in vreden / in vreden / in <rhyme label="b" type="f" corresp="#s1:l2">vreden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Nu sietmen <rhyme label="a" type="m">veracht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Al op den dach van <rhyme label="b" type="f">heden</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Die wijsheyt <rhyme label="a" type="m" corresp="#s2:l1">verpacht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die wort nu af <rhyme label="b" type="f" corresp="#s2:l2">ghesneden</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Sij hebben hier dat <rhyme label="c" type="m">regiment</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die in sonden sijn <rhyme label="c" type="m" corresp="#s2:l5">verblent</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">This wel <rhyme label="c" type="m" corresp="#s2:l5">bekent</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Maer weest ghi <rhyme label="c" type="m" corresp="#s2:l5">diligent</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">ende stelt v herte in <rhyme label="b" type="f" corresp="#s2:l2">vrede</rhyme> /</l>
+        <l id="s2:l10" met="3" type="-+">in vreden / in vreden / in <rhyme label="b" type="f" corresp="#s2:l2">vreden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Al siet ghi <rhyme label="a" type="m">nu</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die sommighe rustich <rhyme label="b" type="f">treden</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Soe denct ende peyst bi <rhyme label="a" type="m" corresp="#s3:l1">v</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Het is hier haest <rhyme label="b" type="f" corresp="#s3:l2">gheleden</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Sij triumpheren <rhyme label="c" type="m">hier</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Sij maken blide <rhyme label="c" type="m" corresp="#s3:l5">chier</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">In wijn oft in <rhyme label="c" type="m" corresp="#s3:l5">bier</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Schout altijt quaet <rhyme label="c" type="m" corresp="#s3:l5">bestier</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">ende stelt v herte in <rhyme label="b" type="f" corresp="#s3:l2">vrede</rhyme> /</l>
+        <l id="s3:l10" met="3" type="-+">in vreden / in vreden / in <rhyme label="b" type="f" corresp="#s3:l2">vreden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">This al <rhyme label="a" type="m">confuys</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Van boven tot <rhyme label="b" type="f">beneden</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Een yeghelijck weet sijn <rhyme label="a" type="m" corresp="#s4:l1">cruys</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">God laet hem wel met <rhyme label="b" type="f" corresp="#s4:l2">treden</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Die nu wat hier <rhyme label="c" type="m">lijdt</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Hier namaels hem <rhyme label="c" type="m" corresp="#s4:l5">verblijt</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Ende wort <rhyme label="c" type="m" corresp="#s4:l5">beurijdt</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dus teghen v sinnekens <rhyme label="c" type="m" corresp="#s4:l5">strijt</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">ende stelt v herte in <rhyme label="b" type="f" corresp="#s4:l2">vrede</rhyme> /</l>
+        <l id="s4:l10" met="3" type="-+">in vreden / in vreden / in <rhyme label="b" type="f" corresp="#s4:l2">vreden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Princesse / al watmen <rhyme label="a" type="m">seyt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">van desen nieuwen <rhyme label="b" type="f">seden</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">En wert doch niet <rhyme label="a" type="m" corresp="#s5:l1">verleyt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al wort ghi seer <rhyme label="b" type="f" corresp="#s5:l2">ghebeden</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ondersoect die gheesten <rhyme label="c" type="m">wel</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Oft sij sijn God <rhyme label="c" type="m" corresp="#s5:l5">rebel</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">In haer <rhyme label="c" type="m" corresp="#s5:l5">voorstel</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Ende schout alle leeringhe <rhyme label="c" type="m" corresp="#s5:l5">fel</rhyme>.</l>
+        <l id="s5:l9" met="3" type="-+">ende stelt v herte in <rhyme label="b" type="f" corresp="#s5:l2">vrede</rhyme> /</l>
+        <l id="s5:l10" met="3" type="-+">in vreden / in vreden / in <rhyme label="b" type="f" corresp="#s5:l2">vreden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

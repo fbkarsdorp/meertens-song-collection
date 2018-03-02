@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24944</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Was gheit vor werde wive <rhyme label="a" type="m">groys</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mit lieflich <rhyme label="b" type="f">ogenbliche</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ein man sich billich vruden <rhyme label="a" type="m" corresp="#s1:l1">moys</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dem si gewerden <rhyme label="b" type="f" corresp="#s1:l2">diche</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Du salt den vruden, werden <rhyme label="c" type="m">man</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Der guetlich des verdienen <rhyme label="c" type="m" corresp="#s1:l5">kan</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Das dich ein goet wijf heiles <rhyme label="c" type="m" corresp="#s1:l5">gan</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">So wert dich billich sorgen <rhyme label="a" type="m" corresp="#s1:l1">boys</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Und allre sweren <rhyme label="b" type="f" corresp="#s1:l2">strijche</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Was mach men zagen me van <rhyme label="a" type="m">wiven</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Si sint alles loves <rhyme label="b" type="f">wert</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ir lovelich lof zu vollen <rhyme label="a" type="m" corresp="#s2:l1">scriven</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Worde alle meysteren zu <rhyme label="b" type="f" corresp="#s2:l2">hart</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Du minnentliche reyne <rhyme label="c" type="m">vrucht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Bis wol behuet in eren <rhyme label="c" type="m" corresp="#s2:l5">tzucht</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Och god, of ich verwerven <rhyme label="c" type="m" corresp="#s2:l5">mucht</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Das du mich woldes leyt <rhyme label="a" type="m" corresp="#s2:l1">verdriven</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">So wer mich vruden vil <rhyme label="b" type="f" corresp="#s2:l2">bescert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

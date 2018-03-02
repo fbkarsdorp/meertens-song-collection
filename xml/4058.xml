@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4058</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OCh dus en heeft mijn herte gheen <rhyme label="a" type="m">vruecht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Voer dat ick Gods aenschijn mach <rhyme label="b" type="f">aenscouwen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Hi heeft twee schoon bruyn oogen <rhyme label="a" type="m" corresp="#s1:l1">claer</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hem wil ic altijt sijn <rhyme label="b" type="f" corresp="#s1:l2">getrouwe</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat mi altoos te liden <rhyme label="a" type="m">staet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wil ic altijt minnelijc <rhyme label="b" type="f">verdragen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ick en weet mijns leuens gheenen <rhyme label="a" type="m" corresp="#s2:l1">raet</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Heere God wilt mijnre <rhyme label="b" type="f" corresp="#s2:l2">ontfermen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och veel lieuer hadde ick te steruen die <rhyme label="a" type="m">doot</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wildese mi God <rhyme label="b" type="f">gheuen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">So waer mijn trueren al <rhyme label="a" type="m" corresp="#s3:l1">gedaen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In vruechden soude ick <rhyme label="b" type="f" corresp="#s3:l2">leuen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat altijt met mi te liden <rhyme label="a" type="m">steet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Om Gode soe wil ict <rhyme label="b" type="f">liden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ende laten der werelt <rhyme label="a" type="m" corresp="#s4:l1">ydelheyt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende alle het onreyn <rhyme label="b" type="f" corresp="#s4:l2">beniden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Och edel mensche siet voer <rhyme label="a" type="m">v</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Wij moeten dese werelt <rhyme label="b" type="f">laten</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ic bid v allen bidt voer <rhyme label="a" type="m" corresp="#s5:l1">mi</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Mijn trueren mach mi niet <rhyme label="b" type="f" corresp="#s5:l2">baten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Lieue here god troost nu <rhyme label="a" type="m">mi</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ende gheeft mijn herte <rhyme label="b" type="f">rouwe</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Want ic en can niet blide <rhyme label="a" type="m" corresp="#s6:l1">ghesijn</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Here God mocht ic v <rhyme label="b" type="f" corresp="#s6:l2">aenscouwen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O minnelike God nu peyst om <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Mijn herte wil mi <rhyme label="b" type="f">ontsincken</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Ic soude so gaern daer bi v <rhyme label="a" type="m" corresp="#s7:l1">sijn</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Al in dat hemelsche <rhyme label="b" type="f" corresp="#s7:l2">rijck</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Mochte ick die minne Gods <rhyme label="a" type="m">ghebruycken</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Ende drincken van dyen edelen <rhyme label="b" type="f">wijn</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">So soude mijn herte in vruechden <rhyme label="a" type="m" corresp="#s8:l1">ontsluyten</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">En van minnen droncken <rhyme label="b" type="f" corresp="#s8:l2">sijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

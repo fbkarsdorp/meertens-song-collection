@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25170</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Der edil wise vri <rhyme label="a" type="m">adam</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">van eynis wibis szulde szade an siner wirde <rhyme label="a" type="m" corresp="#s1:l1">nam</rhyme></l>
+        <l id="s1:l3" met="8" type="-+">sine wiseyt wart verlistit sine urinit vyel in eyn menlich <rhyme label="b" type="m">joch</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">sampson ouch sine craft <rhyme label="c" type="m">verlois</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">van eynis wibis szulde dye he im zuo drute <rhyme label="c" type="m" corresp="#s1:l4">erkoys</rhyme>.</l>
+        <l id="s1:l6" met="8" type="-+">dye salemonis wiseit wie ganz die were eyn wip verzreit si <rhyme label="b" type="m" corresp="#s1:l3">och</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">wa wibis minne mannis dugint <rhyme label="d" type="f">merit</rhyme>.</l>
+        <l id="s1:l8" met="5" type="-+">da si wip und wibis minne ge <rhyme label="d" type="f" corresp="#s1:l7">erit</rhyme>.</l>
+        <l id="s1:l9" met="5" type="-+">wa aver eynin manne durch wibis <rhyme label="e" type="f">minne</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">an edilin muode weissit <rhyme label="f" type="f">ave</rhyme>.</l>
+        <l id="s1:l11" met="5" type="+-">der have yme allis das ich <rhyme label="f" type="f" corresp="#s1:l10">have</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">die minne in si gemissit mit <rhyme label="e" type="f" corresp="#s1:l9">unsinne</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So wa eyn adam eyne ave <rhyme label="a" type="m">hait</rhyme>.</l>
+        <l id="s2:l2" met="7" type="-+">das si yme mach gebiedon das he doyt durch si und <rhyme label="a" type="m" corresp="#s2:l1">lait</rhyme>.</l>
+        <l id="s2:l3" met="8" type="-+">der adam is der evin michilsme dan eva adams <rhyme label="b" type="m">si</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">eyn adam have sine eva <rhyme label="c" type="m">lyep</rhyme></l>
+        <l id="s2:l5" met="7" type="-+">in doch al so das sine eve yt werde siner eren <rhyme label="c" type="m" corresp="#s2:l4">dyep</rhyme></l>
+        <l id="s2:l6" met="8" type="-+">he macht mit siner evin wol das man sprichit <rhyme label="b" type="m" corresp="#s2:l3">fi</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">wye duot ir so her adam mit den <rhyme label="d" type="f">barte</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">ir volgit ure evin alze <rhyme label="d" type="f" corresp="#s2:l7">harte</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">ir sult mannin unt lant wrauwin <rhyme label="e" type="f">wibin</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">hait mannis rait uf hoe <rhyme label="f" type="f">dait</rhyme></l>
+        <l id="s2:l11" met="5" type="+-">mit ramwercke und mit speher <rhyme label="f" type="f" corresp="#s2:l10">nayt</rhyme></l>
+        <l id="s2:l12" met="5" type="-+">lait ure eve dye cijt da heyme <rhyme label="e" type="f" corresp="#s2:l9">verdriven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wa goit man hait eyn byderve <rhyme label="a" type="m">wip</rhyme></l>
+        <l id="s3:l2" met="7" type="-+">der slafe und have gemach ir wol gestalter bierve <rhyme label="a" type="m" corresp="#s3:l1">lip</rhyme></l>
+        <l id="s3:l3" met="8" type="-+">der er lyezt in manger muode des underwillin eyn man eyn <rhyme label="b" type="m">guot</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">wip niet in doyt. swa guot wip hait ouch beiruin <rhyme label="c" type="m">man</rhyme></l>
+        <l id="s3:l5" met="7" type="-+">die in zurnit niet ob he das lange mezser havit. <rhyme label="c" type="m" corresp="#s3:l4">an</rhyme></l>
+        <l id="s3:l6" met="8" type="-+">si lyezt in bierve sin unt is si da bi wiplich beirve unde <rhyme label="b" type="m" corresp="#s3:l3">guot</rhyme>.</l>
+        <l id="s3:l7" met="5" type="-+">Nu saint her gast zuo weme wilt ir <rhyme label="d" type="f">keren</rhyme>.</l>
+        <l id="s3:l8" met="5" type="-+">ader wedert halph versyent ir uch me <rhyme label="d" type="f" corresp="#s3:l7">eren</rhyme>.</l>
+        <l id="s3:l9" met="5" type="-+">hye bierve man bi guotin <rhyme label="e" type="f">wibe</rhyme>.</l>
+        <l id="s3:l10" met="4" type="-+">dort bierve wip bi guoten <rhyme label="f" type="f">man</rhyme>.</l>
+        <l id="s3:l11" met="5" type="+-">Nu meissint beydint halvin hye <rhyme label="f" type="f" corresp="#s3:l10">an</rhyme>.</l>
+        <l id="s3:l12" met="5" type="-+">und sait bi weme der wisin lop <rhyme label="e" type="f" corresp="#s3:l9">verlive</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24890</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>roundel</tag>
+    </tags>
+    <melody>Niemand meer dan dijn alleen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Niemens mee dan dijn <rhyme label="a" type="m">allein</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Lief uutvercoren wijflic <rhyme label="b" type="m">scijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Du bist de liefste ende liever <rhyme label="a" type="m" corresp="#s1:l1">ghein</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dijn gonst verdrivet alle <rhyme label="b" type="m" corresp="#s1:l2">pijn</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Das willich emmer vroylich <rhyme label="b" type="m" corresp="#s1:l2">zijn</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Der vruechden vrauwe edel <rhyme label="a" type="m" corresp="#s1:l1">plein</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Groen du verblijts de zinnen <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Saltu mir laetzen truwen <rhyme label="a" type="m" corresp="#s1:l1">nein</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Niemens mee dan dijn <rhyme label="a" type="m">allein</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Lief uutvercoren wijflic <rhyme label="b" type="m">scijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Du bist de liefste ende liever <rhyme label="a" type="m" corresp="#s2:l1">ghein</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Lieflic beilde in truwen <rhyme label="b" type="m" corresp="#s2:l2">rein</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">So willic emmer bliven <rhyme label="b" type="m" corresp="#s2:l2">dijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Alle vruecht es mire tze <rhyme label="a" type="m" corresp="#s2:l1">clein</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Cleitstu mir zwart groen es so <rhyme label="b" type="m" corresp="#s2:l2">fijn</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Sone condic nummer vroylic <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

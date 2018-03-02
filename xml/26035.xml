@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26035</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Lof si v heere van <rhyme label="a" type="m">Sabaoth</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Almachtich / ewich / heylich <rhyme label="a" type="m" corresp="#s1:l1">god</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Een wesen in drie <rhyme label="b" type="f">personen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

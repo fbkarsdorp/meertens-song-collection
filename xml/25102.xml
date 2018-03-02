@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25102</id>
+    <date>
+      <year-start>1500</year-start>
+      <year-end>1500</year-end>
+    </date>
+    <tags>
+      <tag>holy song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Barbara die clare sonne die doet <rhyme label="a" type="f">leuen</rhyme>.</l>
+        <l id="s1:l2" met="5" type="-+">Want si mach ons hitte en haer claerheit <rhyme label="a" type="f" corresp="#s1:l1">geuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Si es der werelt hope ende gewaregen <rhyme label="a" type="f">troest</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">Si heeft soe menege ziele vter hellen <rhyme label="a" type="f" corresp="#s2:l1">verloest</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Die leuende borne can si geuen ende <rhyme label="a" type="f">scincken</rhyme>.</l>
+        <l id="s3:l2" met="5" type="-+">Alsoe vele als sijs begeert soe mach sijs <rhyme label="a" type="f" corresp="#s3:l1">drincken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Dese ouer scone suete maecht es ons <rhyme label="a" type="f">gegeuen</rhyme>.</l>
+        <l id="s4:l2" met="5" type="-+">Dat si ons vercrige biechte ende eewich <rhyme label="a" type="f" corresp="#s4:l1">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Gewarich kinnesse ende rouwe sijn haer <rhyme label="a" type="f">giften</rhyme>.</l>
+        <l id="s5:l2" met="5" type="-+">Het es haer eygen dat si mach die ziele <rhyme label="a" type="f" corresp="#s5:l1">verlichten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Haer was die hoge triniteit hier <rhyme label="a" type="f">onuerholen</rhyme>.</l>
+        <l id="s6:l2" met="5" type="-+">Die eewege wijsheit was huer meester inder <rhyme label="a" type="f" corresp="#s6:l1">scolen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Dese reyne lilie es naest onser vrouwen <rhyme label="a" type="f">gelijc</rhyme>.</l>
+        <l id="s7:l2" met="5" type="-+">Want si doet den sondaren op dat <rhyme label="a" type="f" corresp="#s7:l1">hemelrijc</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="-+">O scone rose v verdiente es edel ende <rhyme label="a" type="f">groot</rhyme>.</l>
+        <l id="s8:l2" met="5" type="-+">Daer omme sijt daer iegenwoerdich in onser <rhyme label="a" type="f" corresp="#s8:l1">doot</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="5" type="-+">O scone sonne geeft dat wi v licht <rhyme label="a" type="f">ontfaen</rhyme>.</l>
+        <l id="s9:l2" met="5" type="-+">Want wi dolen wi en weten niet werwert dat wi <rhyme label="a" type="f" corresp="#s9:l1">gaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40937</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Van Helena</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Gy Mans en vrou persoons, men sal u singen <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">Van een Conings Dochter schoon, En van  haer <rhyme label="a" type="m" corresp="#s1:l1">avontuer</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Den Coningh haren Vaer, wildese brenghen te <rhyme label="b" type="f">schande</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Dus ginck sy twintigh Jaer, doolen achter <rhyme label="b" type="f" corresp="#s1:l3">lande</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Des Coninghs Vrouw geree, Op haer doot-bed eer sy <rhyme label="a" type="m">sterf</rhyme>,</l>
+        <l id="s2:l2" met="7" type="-+">Soo badt sy om een bee die sy van hem <rhyme label="a" type="m" corresp="#s2:l1">verwerf</rhyme>,</l>
+        <l id="s2:l3" met="6" type="+-">En trouwt geen ander vrou geris, Of sy is also <rhyme label="b" type="f">schoone</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Als onse dochter is, dat beloofden hy te <rhyme label="b" type="f" corresp="#s2:l3">doene</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Dees dochter schoon en fier, was Helena <rhyme label="a" type="m">genaemt</rhyme>,</l>
+        <l id="s3:l2" met="7" type="-+">Godvruchtigh goedertier, een Maget <rhyme label="a" type="m" corresp="#s3:l1">ongeblaemt</rhyme>.</l>
+        <l id="s3:l3" met="6" type="+-">Den Coningh heeft vermont, Hij sprac sijn dochter <rhyme label="b" type="f">touwe</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Dat hy geen schoonder vrou en vont, en soo woud hyse <rhyme label="b" type="f" corresp="#s3:l3">trouwen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Cy begon haer te weeren stijf, Vader hoe zijt ghy dus <rhyme label="a" type="m">verblint</rhyme>,</l>
+        <l id="s4:l2" met="7" type="-+">Hoe soud ick zijn dijn wijf, 'k Ben immers dijn eygen <rhyme label="a" type="m" corresp="#s4:l1">kint</rhyme></l>
+        <l id="s4:l3" met="6" type="+-">Al soud ghy my met verseer, sprac sy om 't leven <rhyme label="b" type="f">brengen</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">Nu noch nimmermeer, en sal ick dat <rhyme label="b" type="f" corresp="#s4:l3">gehengen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Och Helena mijn Lief, dat's al verloren <rhyme label="a" type="m">praet</rhyme>,</l>
+        <l id="s5:l2" met="7" type="-+">Hy toonde haer een brief, Siet daer is 's Paus <rhyme label="a" type="m" corresp="#s5:l1">Placcaet</rhyme></l>
+        <l id="s5:l3" met="6" type="+-">Den Paus is mijnen Broer, en uwen Oom <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">En sorght daer niet voor, hy hevet u al <rhyme label="b" type="f" corresp="#s5:l3">vergeven</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Als sy merckten vermelt, haers Vaders valsch <rhyme label="a" type="m">bedrijf</rhyme></l>
+        <l id="s6:l2" met="7" type="-+">Dat hyse met gewelt, wou trouwen tot sijn <rhyme label="a" type="m" corresp="#s6:l1">wijf</rhyme>,</l>
+        <l id="s6:l3" met="6" type="+-">Alsdoen is sy alleen, in haer Kamer <rhyme label="b" type="f">gestreken</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Daer wou sy met geween, haer selven 't hert <rhyme label="b" type="f" corresp="#s6:l3">af-steken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="6" type="-+">Haer Kamenier Clarisse vroet, die namse byder <rhyme label="a" type="m">hant</rhyme>,</l>
+        <l id="s7:l2" met="7" type="-+">Och liever dan gy 't doet, Treet heymelick uyten <rhyme label="a" type="m" corresp="#s7:l1">Lant</rhyme>,</l>
+        <l id="s7:l3" met="6" type="+-">Huert eenen Schipper vrij, die u voert in vremde <rhyme label="b" type="f">Lande</rhyme></l>
+        <l id="s7:l4" met="6" type="-+">'t Is alleens waer het zy, soo komt gy uyt syn <rhyme label="b" type="f" corresp="#s7:l3">handen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="6" type="-+">Eenen Schipper heeft gevraegt, om weg te vaer <rhyme label="a" type="m">koen</rhyme></l>
+        <l id="s8:l2" met="7" type="-+">Wel ed'le schoone Maeght, dat en derf ick niet <rhyme label="a" type="m" corresp="#s8:l1">doen</rhyme>,</l>
+        <l id="s8:l3" met="6" type="+-">Oft den Coninck vernam, uwen Vader met <rhyme label="b" type="f">verstrangen</rhyme>,</l>
+        <l id="s8:l4" met="6" type="-+">Als ick dan weder quam, soo soud' hy my doen <rhyme label="b" type="f" corresp="#s8:l3">hangen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="6" type="-+">Nochtans' nam hyse mee, hy heeft de reys <rhyme label="a" type="m">bestaen</rhyme>,</l>
+        <l id="s9:l2" met="7" type="-+">Hij voerdese over Zee, in Vlaend'ren quam sy <rhyme label="a" type="m" corresp="#s9:l1">aen</rhyme>,</l>
+        <l id="s9:l3" met="6" type="+-">Te Sluys na haer behaegh, quamen sy aen <rhyme label="b" type="f">laveren</rhyme>,</l>
+        <l id="s9:l4" met="6" type="-+">Zy gaf den schipper zijn leefdaeg, genoegh om te <rhyme label="b" type="f" corresp="#s9:l3">verteren</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="6" type="-+">Als nu den Coning fier, Zijn dochter niet en <rhyme label="a" type="m">vant</rhyme>,</l>
+        <l id="s10:l2" met="7" type="-+">Claris haer Kamenier, heeft hy levendigh <rhyme label="a" type="m" corresp="#s10:l1">verbrant</rhyme>,</l>
+        <l id="s10:l3" met="6" type="+-">Hy liet bereyden meed', veel Oorlogh-schepen <rhyme label="b" type="f">kloecken</rhyme>,</l>
+        <l id="s10:l4" met="6" type="-+">Hy swoer daer eenen eedt, zijn dochter te gaen <rhyme label="b" type="f" corresp="#s10:l3">soecken</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="6" type="-+">Als Helena confuys, op haer Vaders konste <rhyme label="a" type="m">dacht</rhyme>,</l>
+        <l id="s11:l2" met="7" type="-+">Soo is sy vander Sluys, op een ander schip <rhyme label="a" type="m" corresp="#s11:l1">gebracht</rhyme>,</l>
+        <l id="s11:l3" met="6" type="+-">Al onder Engelant, Quam haer een Zee-roover <rhyme label="b" type="f">tegen</rhyme>,</l>
+        <l id="s11:l4" met="6" type="-+">En heeft dat schip berant, dat sy't gevangen <rhyme label="b" type="f" corresp="#s11:l3">kregen</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="6" type="-+">Zy sloegen 't daer al doot, Schipper en Kooplien <rhyme label="a" type="m">dra</rhyme>,</l>
+        <l id="s12:l2" met="7" type="-+">Zy wierpen 't al over boort, Behalven <rhyme label="a" type="m" corresp="#s12:l1">Helena</rhyme>,</l>
+        <l id="s12:l3" met="6" type="+-">Die wou den Capiteyn, voor zijn Boelersse <rhyme label="b" type="f">houwen</rhyme>,</l>
+        <l id="s12:l4" met="6" type="-+">Geen schoonder Maghet reyn, en mochtmen noyt <rhyme label="b" type="f" corresp="#s12:l3">aenschouwen</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="6" type="-+">Eer hy noch zijnen wil, van's Conings dochter <rhyme label="a" type="m">had</rhyme>,</l>
+        <l id="s13:l2" met="7" type="-+">Helena heusch en stil, God den Heere sy <rhyme label="a" type="m" corresp="#s13:l1">aenbadt</rhyme>,</l>
+        <l id="s13:l3" met="6" type="+-">De baren vander zee, door storm en wint <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s13:l4" met="6" type="-+">Sloegen dat schip ontwee, dat zy daer henen <rhyme label="b" type="f" corresp="#s13:l3">dreven</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="6" type="-+">Helena door Gods macht, op een planck sitten <rhyme label="a" type="m">bleef</rhyme>,</l>
+        <l id="s14:l2" met="7" type="-+">Twee dagen en twee nacht, door de wilde zee sy <rhyme label="a" type="m" corresp="#s14:l1">dreef</rhyme>:</l>
+        <l id="s14:l3" met="6" type="+-">Door Gods mogende handt, soo quam sy noch te <rhyme label="b" type="f">lande</rhyme></l>
+        <l id="s14:l4" met="6" type="-+">Te Londen in Engelandt, in des Conings <rhyme label="b" type="f" corresp="#s14:l3">warande</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="6" type="-+">De Coninc van Engelant, quam daer ter selver <rhyme label="a" type="m">stont</rhyme></l>
+        <l id="s15:l2" met="7" type="-+">Spanceren in zijn warant, daer hy dees dochter <rhyme label="a" type="m" corresp="#s15:l1">vont</rhyme>,</l>
+        <l id="s15:l3" met="6" type="+-">Verwondert kleyn en groot, waren al zijn <rhyme label="b" type="f">Edel-liene</rhyme>,</l>
+        <l id="s15:l4" met="6" type="-+">Sy en hadden haer daghen noyt, soo schone Maeght <rhyme label="b" type="f" corresp="#s15:l3">gesiene</rhyme></l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="6" type="-+">Zy werden seer vertsaeght, en halvelling <rhyme label="a" type="m">bevreest</rhyme>,</l>
+        <l id="s16:l2" met="7" type="-+">Daer lagh de schoone Maeght, al hadse doot <rhyme label="a" type="m" corresp="#s16:l1">geweest</rhyme>,</l>
+        <l id="s16:l3" met="6" type="+-">Den Coninck sonder veys, die hiefse vander <rhyme label="b" type="f">eerden</rhyme>,</l>
+        <l id="s16:l4" met="6" type="-+">Te Londen op sijn paleys, gebracht met grooter <rhyme label="b" type="f" corresp="#s16:l3">weerden</rhyme>.</l>
+      </lg>
+      <lg id="s17" type="stanza">
+        <l id="s17:l1" met="6" type="-+">Coninck Henrick trou, die na sijn eygen <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s17:l2" met="7" type="-+">De schoone Helena wou, Trouwen voor sijn <rhyme label="a" type="m" corresp="#s17:l1">Coningin</rhyme>,</l>
+        <l id="s17:l3" met="6" type="+-">'sConings Moeder seer stout, sy sprack den Coninc <rhyme label="b" type="f">ane</rhyme></l>
+        <l id="s17:l4" met="6" type="-+">Ist dat ghy de Lantloopster trout, 'sal u te lee <rhyme label="b" type="f" corresp="#s17:l3">vergane</rhyme>.</l>
+      </lg>
+      <lg id="s18" type="stanza">
+        <l id="s18:l1" met="6" type="-+">Den Coninck ongestilt, die sprack met woorden <rhyme label="a" type="m">stijf</rhyme>,</l>
+        <l id="s18:l2" met="7" type="-+">Doet daer toe dat gy wilt, 'ksalse trouwen tot mijn <rhyme label="a" type="m" corresp="#s18:l1">wijf</rhyme></l>
+        <l id="s18:l3" met="6" type="+-">Sy sprack als onverdult, Trout ghyse daer <rhyme label="b" type="f">beneven</rhyme>,</l>
+        <l id="s18:l4" met="6" type="-+">Ick sweer u dat ghy 't sult Beklagen al u <rhyme label="b" type="f" corresp="#s18:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s19" type="stanza">
+        <l id="s19:l1" met="6" type="-+">Tegen sijns Moeders danc Troud' hysse <rhyme label="a" type="m">ongetruert</rhyme>,</l>
+        <l id="s19:l2" met="7" type="-+">Wel twintigh dagen lanck, heeft daer de Feest <rhyme label="a" type="m" corresp="#s19:l1">geduert</rhyme></l>
+        <l id="s19:l3" met="6" type="+-">Te Londen seer verheugt, saghmen de Bruyloft <rhyme label="b" type="f">houwen</rhyme></l>
+        <l id="s19:l4" met="6" type="-+">Blyschap noch meerder vreught, en mochtmen noyt <rhyme label="b" type="f" corresp="#s19:l3">aenschouwen</rhyme>.</l>
+      </lg>
+      <lg id="s20" type="stanza">
+        <l id="s20:l1" met="6" type="-+">Helena seer deughdelijck, by den Coningh <rhyme label="a" type="m">vermeert</rhyme>,</l>
+        <l id="s20:l2" met="7" type="-+">Door al het Coninckrijck hadden sy se lief en <rhyme label="a" type="m" corresp="#s20:l1">weert</rhyme>,</l>
+        <l id="s20:l3" met="6" type="+-">Des Conings Moer gering, had sulck verraet op <rhyme label="b" type="f">hande</rhyme></l>
+        <l id="s20:l4" met="6" type="-+">Dat noch de Coningin, ging dolen achter <rhyme label="b" type="f" corresp="#s20:l3">Landen</rhyme>.</l>
+      </lg>
+      <lg id="s21" type="stanza">
+        <l id="s21:l1" met="6" type="-+">Dat selve Jaer voorseyt, soo gluck Helena <rhyme label="a" type="m">swaer</rhyme>,</l>
+        <l id="s21:l2" met="7" type="-+">Doen wert Roomen beleyt, vande Sarazijnen <rhyme label="a" type="m" corresp="#s21:l1">daer</rhyme>,</l>
+        <l id="s21:l3" met="6" type="+-">So dat den Paus ontboot, den Coning met sijn <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s21:l4" met="6" type="-+">De Heydenen minjoot, wilden Roomen <rhyme label="b" type="f" corresp="#s21:l3">destrueren</rhyme>.</l>
+      </lg>
+      <lg id="s22" type="stanza">
+        <l id="s22:l1" met="6" type="-+">Den Coning met gewelt, hy trock na Roomen <rhyme label="a" type="m">toe</rhyme>,</l>
+        <l id="s22:l2" met="7" type="-+">En heeft daer gestelt Eenen Gouverneur <rhyme label="a" type="m" corresp="#s22:l1">getrou</rhyme>,</l>
+        <l id="s22:l3" met="6" type="+-">En beval hem onbeschroomt, Helena sonder <rhyme label="b" type="f">falen</rhyme>,</l>
+        <l id="s22:l4" met="6" type="-+">Soo haer yet overkoomt, Ick sal 't op u <rhyme label="b" type="f" corresp="#s22:l3">verhalen</rhyme>.</l>
+      </lg>
+      <lg id="s23" type="stanza">
+        <l id="s23:l1" met="6" type="-+">Al wat sy u ghebiet, dat sult ghy sonder <rhyme label="a" type="m">vaer</rhyme>,</l>
+        <l id="s23:l2" met="7" type="-+">Doen en laten 't niet, Als of ick 't selve <rhyme label="a" type="m" corresp="#s23:l1">waer</rhyme>,</l>
+        <l id="s23:l3" met="6" type="+-">Den Coning is gereyst, Met al sijn Macht na <rhyme label="b" type="f">Romen</rhyme>,</l>
+        <l id="s23:l4" met="6" type="-+">Sijn Moeder seer geveyst, is tot Helena <rhyme label="b" type="f" corresp="#s23:l3">gekomen</rhyme>.</l>
+      </lg>
+      <lg id="s24" type="stanza">
+        <l id="s24:l1" met="6" type="-+">De Coningin ydoon, sy baerden op den <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s24:l2" met="7" type="-+">Twee schoone Jonge Soon, Elck een was seer <rhyme label="a" type="m" corresp="#s24:l1">verblijt</rhyme></l>
+        <l id="s24:l3" met="6" type="+-">Doen sprongh den Gouverneur seer, Men sagh hem vreught <rhyme label="b" type="f">bedrijven</rhyme>,</l>
+        <l id="s24:l4" met="6" type="-+">'k Sal dit aen mijnen Heer, voor een bly mare <rhyme label="b" type="f" corresp="#s24:l3">schrijven</rhyme>.</l>
+      </lg>
+      <lg id="s25" type="stanza">
+        <l id="s25:l1" met="6" type="-+">Doen sprack des Coninghs Moer, stelt een Bode op de <rhyme label="a" type="m">reys</rhyme>,</l>
+        <l id="s25:l2" met="7" type="-+">En sy trock henen voor, te Doever op haar <rhyme label="a" type="m" corresp="#s25:l1">Palleys</rhyme>,</l>
+        <l id="s25:l3" met="6" type="+-">Sy nam den Bode waer, den wijn wert hem <rhyme label="b" type="f">geschoncken</rhyme></l>
+        <l id="s25:l4" met="6" type="-+">Soo lange dat hy daer, is geworden <rhyme label="b" type="f" corresp="#s25:l3">droncken</rhyme>.</l>
+      </lg>
+      <lg id="s26" type="stanza">
+        <l id="s26:l1" met="6" type="-+">Den Brief sy eerstmael leest, Des Conings Moeder <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s26:l2" met="7" type="-+">Een ander Brief sy schreef, Was dat niet groot <rhyme label="a" type="m" corresp="#s26:l1">verraet</rhyme></l>
+        <l id="s26:l3" met="6" type="+-">Dat de Coningin (o wach) Wast niet een swaer <rhyme label="b" type="f">vermonden</rhyme>,</l>
+        <l id="s26:l4" met="6" type="-+">Al in de Crame lagh, Al van twee jonge houden <rhyme label="b" type="f" corresp="#s26:l3">honden</rhyme>.</l>
+      </lg>
+      <lg id="s27" type="stanza">
+        <l id="s27:l1" met="6" type="-+">Helena de Coningin, schreef de Moeder metter <rhyme label="a" type="m">veert</rhyme>,</l>
+        <l id="s27:l2" met="7" type="-+">Gelijck een duyvelin, soo was haer schoonheyt <rhyme label="a" type="m" corresp="#s27:l1">verkeert</rhyme></l>
+        <l id="s27:l3" met="6" type="+-">Schrijft ons onbeschroomt, of mense doot sal <rhyme label="b" type="f">smijten</rhyme>,</l>
+        <l id="s27:l4" met="6" type="-+">Want wie by 't Bedde koomt, de honden willense <rhyme label="b" type="f" corresp="#s27:l3">bijten</rhyme>.</l>
+      </lg>
+      <lg id="s28" type="stanza">
+        <l id="s28:l1" met="6" type="-+">Den Bode na Roomen ging, Den Coning op dat <rhyme label="a" type="m">pas</rhyme></l>
+        <l id="s28:l2" met="7" type="-+">Den Brief seer blijd ontfing, Maer als hy hem deur <rhyme label="a" type="m" corresp="#s28:l1">las</rhyme></l>
+        <l id="s28:l3" met="6" type="+-">Dat Helena vermont, inde Crame was <rhyme label="b" type="f">gelegen</rhyme>,</l>
+        <l id="s28:l4" met="6" type="-+">Al van twee jonge hont, doen is sy neer <rhyme label="b" type="f" corresp="#s28:l3">gezegen</rhyme>.</l>
+      </lg>
+      <lg id="s29" type="stanza">
+        <l id="s29:l1" met="6" type="-+">Doen sprack den Paus minjoot, Wat tijding krijgh dy <rhyme label="a" type="m">hier</rhyme>?</l>
+        <l id="s29:l2" met="7" type="-+">Ghy siet al waert ghy doot: Och sprack den Coning <rhyme label="a" type="m" corresp="#s29:l1">fier</rhyme></l>
+        <l id="s29:l3" met="6" type="+-">Leest doch desen Brief, ick kans u niet <rhyme label="b" type="f">vermonden</rhyme>,</l>
+        <l id="s29:l4" met="6" type="-+">Als nu den Paus besies, van dees twee jonge <rhyme label="b" type="f" corresp="#s29:l3">honden</rhyme>.</l>
+      </lg>
+      <lg id="s30" type="stanza">
+        <l id="s30:l1" met="6" type="-+">Den Paus hem vraeghde vry, Van waer is dese Vrouwe <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s30:l2" met="7" type="-+">Dat en weet ick niet sprack hy, haer geslach en ken ic <rhyme label="a" type="m" corresp="#s30:l1">niet</rhyme></l>
+        <l id="s30:l3" met="6" type="+-">Dan ick hebbe verstaen, sprack den Coning vol <rhyme label="b" type="f">rouwen</rhyme></l>
+        <l id="s30:l4" met="6" type="-+">Datse haer Vader is ontgaen, om dat hyse wilde <rhyme label="b" type="f" corresp="#s30:l3">trouwen</rhyme></l>
+      </lg>
+      <lg id="s31" type="stanza">
+        <l id="s31:l1" met="6" type="-+">Hoe is dan haren naem, heeft doen de Paus <rhyme label="a" type="m">gevraegt</rhyme></l>
+        <l id="s31:l2" met="7" type="-+">Helena seer bequaem, ick sagh noyt schoonder <rhyme label="a" type="m" corresp="#s31:l1">Maeght</rhyme></l>
+        <l id="s31:l3" met="6" type="+-">Doen sprack den Paus seer stout, nu hoor ick wel <rhyme label="b" type="f">waerachtigh</rhyme>,</l>
+        <l id="s31:l4" met="6" type="-+">Ghy hebt mijn Nicht getrout, eens Coninghs dochter <rhyme label="b" type="f" corresp="#s31:l3">machtigh</rhyme>.</l>
+      </lg>
+      <lg id="s32" type="stanza">
+        <l id="s32:l1" met="6" type="-+">Dat houwelijck voorwaer, ick seer verblijt om <rhyme label="a" type="m">ben</rhyme>,</l>
+        <l id="s32:l2" met="7" type="-+">Den Coningh is haer Vaer, van <rhyme label="a" type="m" corresp="#s32:l1">Constantinopelen</rhyme>:</l>
+        <l id="s32:l3" met="6" type="+-">Desen Brieft ach ick niet, 't Zijn al verraders <rhyme label="b" type="f">maren</rhyme>,</l>
+        <l id="s32:l4" met="6" type="-+">Hoe sou een Coninghs dochter siet, twee jonghe Honden <rhyme label="b" type="f" corresp="#s32:l3">baren</rhyme>?</l>
+      </lg>
+      <lg id="s33" type="stanza">
+        <l id="s33:l1" met="6" type="-+">Den Coningh schreef geringh, Aen sijn Gouverneur <rhyme label="a" type="m">ghetrou</rhyme>,</l>
+        <l id="s33:l2" met="7" type="-+">Datmen de Coninghin, seer wel bewaren <rhyme label="a" type="m" corresp="#s33:l1">sou</rhyme>,</l>
+        <l id="s33:l3" met="6" type="+-">De hondekens by naem, dat haer niet en sou <rhyme label="b" type="f">misschiene</rhyme></l>
+        <l id="s33:l4" met="6" type="-+">Tot dat hy selver quaem: Want hy wildese <rhyme label="b" type="f" corresp="#s33:l3">siene</rhyme>.</l>
+      </lg>
+      <lg id="s34" type="stanza">
+        <l id="s34:l1" met="6" type="-+">' s Conings Moeder vol fenijn, den Bode nam sy <rhyme label="a" type="m">waer</rhyme></l>
+        <l id="s34:l2" met="7" type="-+">Sy schonck hem weer den Wijn, seer heymelicken <rhyme label="a" type="m" corresp="#s34:l1">daer</rhyme>,</l>
+        <l id="s34:l3" met="6" type="+-">'s Conings Zegel sy besies, heeft hem in tween <rhyme label="b" type="f">gereten</rhyme>,</l>
+        <l id="s34:l4" met="6" type="-+">En heeft des Conings Brief aldaer in 't vyer <rhyme label="b" type="f" corresp="#s34:l3">gesmeten</rhyme>.</l>
+      </lg>
+      <lg id="s35" type="stanza">
+        <l id="s35:l1" met="6" type="-+">Haer Schrijver sy ontboot, Op haer Camer <rhyme label="a" type="m">alleen</rhyme>,</l>
+        <l id="s35:l2" met="7" type="-+">Sy deed hem schrijven bloot, Wast niet een groot <rhyme label="a" type="m" corresp="#s35:l1">gheween</rhyme>?</l>
+        <l id="s35:l3" met="6" type="+-">Datmen Helena strack, Met haer kinders in <rhyme label="b" type="f">banden</rhyme>,</l>
+        <l id="s35:l4" met="6" type="-+">Levendigh aen een staeck, tot pulver sou <rhyme label="b" type="f" corresp="#s35:l3">verbranden</rhyme>.</l>
+      </lg>
+      <lg id="s36" type="stanza">
+        <l id="s36:l1" met="6" type="-+">Sy deed na haer belief, hem schrijven met <rhyme label="a" type="m">bedwangh</rhyme></l>
+        <l id="s36:l2" met="7" type="-+">Wel ses of seven Brief, Elck een al even <rhyme label="a" type="m" corresp="#s36:l1">strangh</rhyme>,</l>
+        <l id="s36:l3" met="6" type="+-">Haer Schrijver stackse doot, om datmen 't niet sou <rhyme label="b" type="f">weten</rhyme></l>
+        <l id="s36:l4" met="6" type="-+">S'heeft hem in't water snoot, ter Venster uyt <rhyme label="b" type="f" corresp="#s36:l3">gesmeten</rhyme>.</l>
+      </lg>
+      <lg id="s37" type="stanza">
+        <l id="s37:l1" met="6" type="-+">Als nu den Bode straf, te Londen sonder <rhyme label="a" type="m">truer</rhyme>,</l>
+        <l id="s37:l2" met="7" type="-+">Den Brief in handen gaf, des Conings <rhyme label="a" type="m" corresp="#s37:l1">Gouverneur</rhyme>,</l>
+        <l id="s37:l3" met="6" type="+-">Als hy verstont den sin, hy riep en wrongh sijn <rhyme label="b" type="f">handen</rhyme>,</l>
+        <l id="s37:l4" met="6" type="-+">Datmen de Coningin, met haer Kindren sou <rhyme label="b" type="f" corresp="#s37:l3">verbranden</rhyme>.</l>
+      </lg>
+      <lg id="s38" type="stanza">
+        <l id="s38:l1" met="6" type="-+">Des Conings Moeder gram, seyde na haer <rhyme label="a" type="m">belief</rhyme>,</l>
+        <l id="s38:l2" met="7" type="-+">Datter alle dagen quam van Roomen eenen <rhyme label="a" type="m" corresp="#s38:l1">Brief</rhyme>,</l>
+        <l id="s38:l3" met="6" type="+-">Datmen Helena stout, sou branden sonder <rhyme label="b" type="f">falen</rhyme>,</l>
+        <l id="s38:l4" met="6" type="-+">Ofte den Coningh sou't op den Gouverneur <rhyme label="b" type="f" corresp="#s38:l3">verhalen</rhyme>.</l>
+      </lg>
+      <lg id="s39" type="stanza">
+        <l id="s39:l1" met="6" type="-+">Als Helena sterven most, En sy sou ter doode -waert <rhyme label="a" type="m">gaen</rhyme>,</l>
+        <l id="s39:l2" met="7" type="-+">Eylaes is dit den troost, sprack sy van mijnen <rhyme label="a" type="m" corresp="#s39:l1">Man</rhyme>,</l>
+        <l id="s39:l3" met="6" type="+-">Die my dus heeft bemint, klaeghden sy menich <rhyme label="b" type="f">-werven</rhyme></l>
+        <l id="s39:l4" met="6" type="-+">Waer heb ick dit verdient, Met mijn twee kinderkens te <rhyme label="b" type="f" corresp="#s39:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s40" type="stanza">
+        <l id="s40:l1" met="6" type="-+">Den Gouverneur seer straf, Helenaes <rhyme label="a" type="m">rechter-handt</rhyme></l>
+        <l id="s40:l2" met="7" type="-+">Heeft hy doen houwen af, Als doen quam daer <rhyme label="a" type="m" corresp="#s40:l1">gerant</rhyme></l>
+        <l id="s40:l3" met="6" type="+-">Sijn eygen Nicht voorwaer, die riep soo menigh <rhyme label="b" type="f">werven</rhyme></l>
+        <l id="s40:l4" met="6" type="-+">Och brander my voor haer, 'k wil voor Helena <rhyme label="b" type="f" corresp="#s40:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s41" type="stanza">
+        <l id="s41:l1" met="6" type="-+">Doen sprack den Gouverneur, Conings gramschap is te <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s41:l2" met="7" type="-+">Soo sal ick dan in 't vuer, voor haer sterven den <rhyme label="a" type="m" corresp="#s41:l1">doot</rhyme>,</l>
+        <l id="s41:l3" met="6" type="+-">Het is beter sprack sy. datter een sterft dan <rhyme label="b" type="f">drye</rhyme>,</l>
+        <l id="s41:l4" met="6" type="-+">Dus laet Helena vry, sprack sy en brandet <rhyme label="b" type="f" corresp="#s41:l3">mye</rhyme>.</l>
+      </lg>
+      <lg id="s42" type="stanza">
+        <l id="s42:l1" met="6" type="-+">Hy bant Helenaes hant, Aen't eene Kindeken <rhyme label="a" type="m">daer</rhyme>,</l>
+        <l id="s42:l2" met="7" type="-+">Een schuyt daer lagh aen't lant, daer in setten hy <rhyme label="a" type="m" corresp="#s42:l1">haer</rhyme>,</l>
+        <l id="s42:l3" met="6" type="+-">Haer kinderkens gera, smorgens tusschen vier en <rhyme label="b" type="f">vijven</rhyme></l>
+        <l id="s42:l4" met="6" type="-+">Hy liets' op Gods gena Ter zeewaert inne <rhyme label="b" type="f" corresp="#s42:l3">drijven</rhyme>.</l>
+      </lg>
+      <lg id="s43" type="stanza">
+        <l id="s43:l1" met="6" type="-+">Den Gouverneru vailjant, heeft sijn eyghen Nicht <rhyme label="a" type="m">voorseyt</rhyme>,</l>
+        <l id="s43:l2" met="7" type="-+">Daer levendigh verbrant: de Coningin heeftse <rhyme label="a" type="m" corresp="#s43:l1">beschreyt</rhyme></l>
+        <l id="s43:l3" met="6" type="+-">Geen troost sy meer vernam, sy dreef in Godes <rhyme label="b" type="f">handen</rhyme>,</l>
+        <l id="s43:l4" met="6" type="-+">Soo lange dat sy quam, in een wildernis te <rhyme label="b" type="f" corresp="#s43:l3">landen</rhyme>.</l>
+      </lg>
+      <lg id="s44" type="stanza">
+        <l id="s44:l1" met="6" type="-+">Als sy quamen te Lant, in de Bosschagte <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s44:l2" met="7" type="-+">Alleen dat sy haer vant, bedroeft tot inder <rhyme label="a" type="m" corresp="#s44:l1">doot</rhyme>:</l>
+        <l id="s44:l3" met="6" type="+-">Sy is door groot beswaer, al inden slaep <rhyme label="b" type="f">gekomen</rhyme>,</l>
+        <l id="s44:l4" met="6" type="-+">De wolven hebbe daer, haer twee kinderkens <rhyme label="b" type="f" corresp="#s44:l3">genome</rhyme>.</l>
+      </lg>
+      <lg id="s45" type="stanza">
+        <l id="s45:l1" met="6" type="-+">Dit sagh een heremijt, hy heeft daer seer <rhyme label="a" type="m">onvertsaegt</rhyme>,</l>
+        <l id="s45:l2" met="7" type="-+">De Kinderen bevrijt, en de Wolven <rhyme label="a" type="m" corresp="#s45:l1">ontjaeght</rhyme>,</l>
+        <l id="s45:l3" met="6" type="+-">Hy brachtse beyde gaer In sijn Kluys met <rhyme label="b" type="f">vergrouwen</rhyme></l>
+        <l id="s45:l4" met="6" type="-+">Daer heeft hy sesthten Jae, de Kinderkens <rhyme label="b" type="f" corresp="#s45:l3">gehouwen</rhyme>.</l>
+      </lg>
+      <lg id="s46" type="stanza">
+        <l id="s46:l1" met="6" type="-+">Als sy ontwaeckten siet, Her kind'ren alle <rhyme label="a" type="m">bey</rhyme></l>
+        <l id="s46:l2" met="7" type="-+">Eylaes en vontse niet, En sy riep met <rhyme label="a" type="m" corresp="#s46:l1">geschrey</rhyme>,</l>
+        <l id="s46:l3" met="6" type="+-">Och de Wolven wreet, hebbense doot <rhyme label="b" type="f">gebeten</rhyme>,</l>
+        <l id="s46:l4" met="6" type="-+">Haddense my doch meed, Met mijn kindren <rhyme label="b" type="f" corresp="#s46:l3">op-gegeten</rhyme>.</l>
+      </lg>
+      <lg id="s47" type="stanza">
+        <l id="s47:l1" met="6" type="-+">Een schip quam door de zee, Om Gods wille sy <rhyme label="a" type="m">badt</rhyme></l>
+        <l id="s47:l2" met="7" type="-+">Sy namen Helena mee, te Nantes inde <rhyme label="a" type="m" corresp="#s47:l1">stadt</rhyme></l>
+        <l id="s47:l3" met="6" type="+-">Daer ginck sy bidden want, de Edele <rhyme label="b" type="f">Coninginne</rhyme>,</l>
+        <l id="s47:l4" met="6" type="-+">Sy had maer eene hant, sy en konde niet <rhyme label="b" type="f" corresp="#s47:l3">gewinne</rhyme>.</l>
+      </lg>
+      <lg id="s48" type="stanza">
+        <l id="s48:l1" met="6" type="-+">Maer als de Coning nou, van Roomen in Engelant <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s48:l2" met="7" type="-+">Hij vraeghde na sijn Vrou, Als hy de mare <rhyme label="a" type="m" corresp="#s48:l1">vernam</rhyme></l>
+        <l id="s48:l3" met="6" type="+-">Als dat sy was verbrant, sijn hert heeft hem <rhyme label="b" type="f">besweken</rhyme>,</l>
+        <l id="s48:l4" met="6" type="-+">Hij wilde seer vergramt, sijn Gouverneur <rhyme label="b" type="f" corresp="#s48:l3">deursteken</rhyme>.</l>
+      </lg>
+      <lg id="s49" type="stanza">
+        <l id="s49:l1" met="6" type="-+">Een Coning heeft vermont, O valsch verraders <rhyme label="a" type="m">aert</rhyme>,</l>
+        <l id="s49:l2" met="7" type="-+">Waer zijn nu doch die Hont, die mijn Vrou heeft <rhyme label="a" type="m" corresp="#s49:l1">gebaert</rhyme></l>
+        <l id="s49:l3" met="6" type="+-">Siet Heere desen Brief, heb ick ontfangen van <rhyme label="b" type="f">dye</rhyme>,</l>
+        <l id="s49:l4" met="6" type="-+">Waer in dat hy besies, sijns Moeders <rhyme label="b" type="f" corresp="#s49:l3">verraderye</rhyme>.</l>
+      </lg>
+      <lg id="s50" type="stanza">
+        <l id="s50:l1" met="6" type="-+">Sijn Moeder ongesneest, wert gevangen en <rhyme label="a" type="m">gepijnt</rhyme>,</l>
+        <l id="s50:l2" met="7" type="-+">Tot dat sy beleden heeft, haer verradery <rhyme label="a" type="m" corresp="#s50:l1">fenijn</rhyme>,</l>
+        <l id="s50:l3" met="6" type="+-">Den Coning met getroer, klaegden en wrong sijn <rhyme label="b" type="f">hande</rhyme></l>
+        <l id="s50:l4" met="6" type="-+">Hy heeft syn eygen Moer, tot pulver doen <rhyme label="b" type="f" corresp="#s50:l3">verbranden</rhyme>.</l>
+      </lg>
+      <lg id="s51" type="stanza">
+        <l id="s51:l1" met="6" type="-+">Den Coningh Anthonis, van <rhyme label="a" type="m">Constantinopelen</rhyme></l>
+        <l id="s51:l2" met="7" type="-+">Helenaes Vaer gewis, die quam daer tot <rhyme label="a" type="m" corresp="#s51:l1">Londen</rhyme>,</l>
+        <l id="s51:l3" met="6" type="+-">Hy liet vragen ongetoeft, Of hy mocht binnen <rhyme label="b" type="f">treden</rhyme>?</l>
+        <l id="s51:l4" met="6" type="-+">Den Coningh seer bedroeft, is hem te moet <rhyme label="b" type="f" corresp="#s51:l3">gereden</rhyme>.</l>
+      </lg>
+      <lg id="s52" type="stanza">
+        <l id="s52:l1" met="6" type="-+">De Coningh wel bedocht, vraegde met grooten <rhyme label="a" type="m">rou</rhyme>,</l>
+        <l id="s52:l2" met="7" type="-+">Wat hy te Londen socht, En waer hy henen <rhyme label="a" type="m" corresp="#s52:l1">wou</rhyme>?</l>
+        <l id="s52:l3" met="6" type="+-">Och sprack den Coningh doen, Ick soeck Helena de <rhyme label="b" type="f">beminde</rhyme>,</l>
+        <l id="s52:l4" met="6" type="-+">Mijn eygen dochter koen, en kan ick nergens <rhyme label="b" type="f" corresp="#s52:l3">vinde</rhyme>.</l>
+      </lg>
+      <lg id="s53" type="stanza">
+        <l id="s53:l1" met="6" type="-+">Soo ben ick oock benout, sprack doe den Coning <rhyme label="a" type="m">siet</rhyme></l>
+        <l id="s53:l2" met="7" type="-+">Ick hebber een getrout, die oock Helena <rhyme label="a" type="m" corresp="#s53:l1">hiet</rhyme></l>
+        <l id="s53:l3" met="6" type="+-">Die is ghebrant sprack hy, met twee kinderkens <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s53:l4" met="6" type="-+">Sulcken verradery, heeft mijn eygen Moer <rhyme label="b" type="f" corresp="#s53:l3">bedreven</rhyme>.</l>
+      </lg>
+      <lg id="s54" type="stanza">
+        <l id="s54:l1" met="6" type="-+">Och van waer was sy, sprack de Vaer en heeft <rhyme label="a" type="m">gheschreyt</rhyme>,</l>
+        <l id="s54:l2" met="7" type="-+">Dat en weet ic niet sprac hy, maer sy heeft my wel <rhyme label="a" type="m" corresp="#s54:l1">geseyt</rhyme></l>
+        <l id="s54:l3" met="6" type="+-">Dot sy was haren Vaer, ontgaen met groot <rhyme label="b" type="f">benouwen</rhyme></l>
+        <l id="s54:l4" met="6" type="-+">Alleen om dat hy haer, ten Wijve wilde <rhyme label="b" type="f" corresp="#s54:l3">trouwen</rhyme>.</l>
+      </lg>
+      <lg id="s55" type="stanza">
+        <l id="s55:l1" met="6" type="-+">Och dat's mijn eygen kint, sprack de Vaer en wrong sijn <rhyme label="a" type="m">handt</rhyme>,</l>
+        <l id="s55:l2" met="7" type="-+">Is mijn dochter bemint, soo jammerlijck <rhyme label="a" type="m" corresp="#s55:l1">verbrant</rhyme>?</l>
+        <l id="s55:l3" met="6" type="+-">Men sagh de Coningen voorseyt, van rouw haer hert <rhyme label="b" type="f">bewelven</rhyme>,</l>
+        <l id="s55:l4" met="6" type="-+">Datse bey van bangigheyt, daer lagen van haer <rhyme label="b" type="f" corresp="#s55:l3">selven</rhyme>.</l>
+      </lg>
+      <lg id="s56" type="stanza">
+        <l id="s56:l1" met="6" type="-+">Den Gouverneur geras, sprack tot den Coningh <rhyme label="a" type="m">geringh</rhyme>,</l>
+        <l id="s56:l2" met="7" type="-+">Datse noch in't leven was, Helena de <rhyme label="a" type="m" corresp="#s56:l1">Coniugin</rhyme>,</l>
+        <l id="s56:l3" met="6" type="+-">Mijn eygen Nicht sprack hy, badt my so menig <rhyme label="b" type="f">werven</rhyme></l>
+        <l id="s56:l4" met="6" type="-+">Dat ick Helena sou laten vry, sy wilde voor haer <rhyme label="b" type="f" corresp="#s56:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s57" type="stanza">
+        <l id="s57:l1" met="6" type="-+">Doe nam ick over af, Helenaes <rhyme label="a" type="m">rechter-handt</rhyme>,</l>
+        <l id="s57:l2" met="7" type="-+">Dien ick had doen houwen af, aen 't eene kindeken <rhyme label="a" type="m" corresp="#s57:l1">bant</rhyme>.</l>
+        <l id="s57:l3" met="6" type="+-">Soo leyde ickse dra, in een Bootjen <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s57:l4" met="6" type="-+">Daer sy mee op Gods gena, ter Zeewaert inne <rhyme label="b" type="f" corresp="#s57:l3">dreven</rhyme>.</l>
+      </lg>
+      <lg id="s58" type="stanza">
+        <l id="s58:l1" met="6" type="-+">Des waren sy verblijt, de twee Coningen <rhyme label="a" type="m">vailjant</rhyme>,</l>
+        <l id="s58:l2" met="7" type="-+">Sy reysden seer subijt, te Water en te <rhyme label="a" type="m" corresp="#s58:l1">Lant</rhyme>,</l>
+        <l id="s58:l3" met="6" type="+-">Met malkanderen daer heen, haer selven sy <rhyme label="b" type="f">verbonden</rhyme>,</l>
+        <l id="s58:l4" met="6" type="-+">Te scheyden nimmermeer, voor dat sy Helena <rhyme label="b" type="f" corresp="#s58:l3">vonden</rhyme>.</l>
+      </lg>
+      <lg id="s59" type="stanza">
+        <l id="s59:l1" met="6" type="-+">Als dese Cluysenaer, inde Wildernisse <rhyme label="a" type="m">vroet</rhyme>,</l>
+        <l id="s59:l2" met="7" type="-+">Nu hadden sesthien Jaer, de kindren <rhyme label="a" type="m" corresp="#s59:l1">op-gevoedt</rhyme>,</l>
+        <l id="s59:l3" met="6" type="+-">Hebben wy gheen Moeder vry, vraeghden sy ten selven <rhyme label="b" type="f">stonden</rhyme>?</l>
+        <l id="s59:l4" met="6" type="-+">Dat en weet ick niet sprack hy, ick heb u in 't Bosch <rhyme label="b" type="f" corresp="#s59:l3">gevonden</rhyme>.</l>
+      </lg>
+      <lg id="s60" type="stanza">
+        <l id="s60:l1" met="6" type="-+">Zijt ghy dan niet onse Vaer, hebbense hem <rhyme label="a" type="m">gevraeght</rhyme></l>
+        <l id="s60:l2" met="7" type="-+">Neen sprack den Kluysenaer, 'k heb u de Wolven <rhyme label="a" type="m" corresp="#s60:l1">ontjaeght</rhyme>,</l>
+        <l id="s60:l3" met="6" type="+-">Wy willen seyden sy, gaen soecken aen allen <rhyme label="b" type="f">inden</rhyme>,</l>
+        <l id="s60:l4" met="6" type="-+">Soo lange tot dat wy, onsen rechten Vader <rhyme label="b" type="f" corresp="#s60:l3">vinden</rhyme>.</l>
+      </lg>
+      <lg id="s61" type="stanza">
+        <l id="s61:l1" met="6" type="-+">Doen ick u eerstmael vant, over sesthien Jaren <rhyme label="a" type="m">stijs</rhyme>,</l>
+        <l id="s61:l2" met="7" type="-+">Doen hadd ick dese handt, gebonden aen u <rhyme label="a" type="m" corresp="#s61:l1">Lijf</rhyme></l>
+        <l id="s61:l3" met="6" type="+-">Met Ringen ongesneest, 't verwonderde my <rhyme label="b" type="f">seerse</rhyme>,</l>
+        <l id="s61:l4" met="6" type="-+">Wat het te beduyden heeft, en dat weet God den <rhyme label="b" type="f" corresp="#s61:l3">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s62" type="stanza">
+        <l id="s62:l1" met="6" type="-+">De hant namen sy mee, sy scheyden met veel <rhyme label="a" type="m">geweens</rhyme></l>
+        <l id="s62:l2" met="7" type="-+">Sy voeren over Zee, sy quamen tot <rhyme label="a" type="m" corresp="#s62:l1">Amiens</rhyme>,</l>
+        <l id="s62:l3" met="6" type="+-">Aldaer den Bisschop was van Tours binnen der <rhyme label="b" type="f">Stede</rhyme></l>
+        <l id="s62:l4" met="6" type="-+">Die dese Broeders ras, beyde gaer eer aen <rhyme label="b" type="f" corresp="#s62:l3">dede</rhyme>.</l>
+      </lg>
+      <lg id="s63" type="stanza">
+        <l id="s63:l1" met="6" type="-+">Den eenen hiet Martijn, Britus sijnen <rhyme label="a" type="m">breur</rhyme>,</l>
+        <l id="s63:l2" met="7" type="-+">Helena de Coningin, Gingh bidden van deur tot <rhyme label="a" type="m" corresp="#s63:l1">deur</rhyme>,</l>
+        <l id="s63:l3" met="6" type="+-">Den Bisschop goedertier, hielt de kindren als twee <rhyme label="b" type="f">Graven</rhyme>,</l>
+        <l id="s63:l4" met="6" type="-+">Sy hadden de manier, datse geerne om Gods wille <rhyme label="b" type="f" corresp="#s63:l3">gaven</rhyme>.</l>
+      </lg>
+      <lg id="s64" type="stanza">
+        <l id="s64:l1" met="6" type="-+">Als nu Helena bloot, te Nantes soo menich <rhyme label="a" type="m">Jaer</rhyme></l>
+        <l id="s64:l2" met="7" type="-+">Hadde gaen bidden Broot, Soo quam de Coningh haren <rhyme label="a" type="m" corresp="#s64:l1">Vaer</rhyme>,</l>
+        <l id="s64:l3" met="6" type="+-">En haren Man bedocht, Sy hadden met <rhyme label="b" type="f">bezwaren</rhyme></l>
+        <l id="s64:l4" met="6" type="-+">De Coningin gesocht, wel by de twintigh <rhyme label="b" type="f" corresp="#s64:l3">Jaren</rhyme>.</l>
+      </lg>
+      <lg id="s65" type="stanza">
+        <l id="s65:l1" met="6" type="-+">Helena reden sy voorby, Sy docht al met <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s65:l2" met="7" type="-+">Dees Coningen soecken my Noch om te dooden <rhyme label="a" type="m" corresp="#s65:l1">siet</rhyme>,</l>
+        <l id="s65:l3" met="6" type="+-">De Coningin nam haer cours, En sy vertrock <rhyme label="b" type="f">geringe</rhyme>,</l>
+        <l id="s65:l4" met="6" type="-+">En sy quam binnen Tours, daer sy noch bidden <rhyme label="b" type="f" corresp="#s65:l3">ginge</rhyme>.</l>
+      </lg>
+      <lg id="s66" type="stanza">
+        <l id="s66:l1" met="6" type="-+">In 't Bisschops Hof divijn, quam sy dagelicx ten <rhyme label="a" type="m">teel</rhyme>,</l>
+        <l id="s66:l2" met="7" type="-+">Haer soons Britus en Martijn, hadden aldaer 't <rhyme label="a" type="m" corresp="#s66:l1">beveel</rhyme>.</l>
+        <l id="s66:l3" met="6" type="+-">De arme Luyden bloot, om Gods wille te <rhyme label="b" type="f">deelen</rhyme>,</l>
+        <l id="s66:l4" met="6" type="-+">Dan datter overschoot, van der Tafelen sonder <rhyme label="b" type="f" corresp="#s66:l3">seelen</rhyme>.</l>
+      </lg>
+      <lg id="s67" type="stanza">
+        <l id="s67:l1" met="6" type="-+">Haer eenen Soon Martijn, had aen sijn hals <rhyme label="a" type="m">vailjant</rhyme></l>
+        <l id="s67:l2" met="7" type="-+">Hangen een Cofferkijn, daer in lagh sijn Moeders <rhyme label="a" type="m" corresp="#s67:l1">hant</rhyme></l>
+        <l id="s67:l3" met="6" type="+-">Die twee ghebroeders goet, soo dick als sy Helena <rhyme label="b" type="f">saghen</rhyme>,</l>
+        <l id="s67:l4" met="6" type="-+">Veranderden haer bloedt, als sy haer om Gods wille <rhyme label="b" type="f" corresp="#s67:l3">gaven</rhyme>.</l>
+      </lg>
+      <lg id="s68" type="stanza">
+        <l id="s68:l1" met="6" type="-+">Daer na ontrent een Jaer, dat den Coningh haren <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s68:l2" met="7" type="-+">En den Coningh haren Vaer, daer quamen rijden <rhyme label="a" type="m" corresp="#s68:l1">an</rhyme>,</l>
+        <l id="s68:l3" met="6" type="+-">Den Bisschop wel bedacht, te Tours binnen der <rhyme label="b" type="f">Steden</rhyme>,</l>
+        <l id="s68:l4" met="6" type="-+">Is met alle sijn macht, de Coningen te moet <rhyme label="b" type="f" corresp="#s68:l3">gereden</rhyme>.</l>
+      </lg>
+      <lg id="s69" type="stanza">
+        <l id="s69:l1" met="6" type="-+">Coning Henrick wel bedocht, al dot den Bisschop <rhyme label="a" type="m">sey</rhyme></l>
+        <l id="s69:l2" met="7" type="-+">Dat hy sijn huysvrou socht, en sijn kindren alle <rhyme label="a" type="m" corresp="#s69:l1">bey</rhyme>,</l>
+        <l id="s69:l3" met="6" type="+-">Den Coningh vreaghde noch, En sprack doen sonder <rhyme label="b" type="f">mijden</rhyme>,</l>
+        <l id="s69:l4" met="6" type="-+">Dan waer zijn de Jonghers doch, die daer voor henen <rhyme label="b" type="f" corresp="#s69:l3">rijden</rhyme>.</l>
+      </lg>
+      <lg id="s70" type="stanza">
+        <l id="s70:l1" met="6" type="-+">Dat en weet ick niet gewis, van haer geslachte <rhyme label="a" type="m">vroet</rhyme>,</l>
+        <l id="s70:l2" met="7" type="-+">Dan inde Wildernis, daer zijnse <rhyme label="a" type="m" corresp="#s70:l1">opgevoedt</rhyme>,</l>
+        <l id="s70:l3" met="6" type="+-">Sy en waren noch gekerstent niet, ick hebbe laten <rhyme label="b" type="f">doopen</rhyme>,</l>
+        <l id="s70:l4" met="6" type="-+">En den Bisschop heeftse siet, alle bey tot hem <rhyme label="b" type="f" corresp="#s70:l3">geroepen</rhyme>.</l>
+      </lg>
+      <lg id="s71" type="stanza">
+        <l id="s71:l1" met="6" type="-+">Als sy quamen tot hem, den Coninck wild' het kisjen <rhyme label="a" type="m">sien</rhyme>,</l>
+        <l id="s71:l2" met="7" type="-+">Och lieve seyde hy tot hem, Wat hebdy doch hier <rhyme label="a" type="m" corresp="#s71:l1">in</rhyme>?</l>
+        <l id="s71:l3" met="6" type="+-">Martinus seer vailjant, ontsloot dat kisjen <rhyme label="b" type="f">sonderlingen</rhyme>,</l>
+        <l id="s71:l4" met="6" type="-+">Hij toonde hem de handt, doen kende hy de <rhyme label="b" type="f" corresp="#s71:l3">Ringen</rhyme>.</l>
+      </lg>
+      <lg id="s72" type="stanza">
+        <l id="s72:l1" met="6" type="-+">Den Coningh riepen sy, Helenaes Vaer <rhyme label="a" type="m">bekant</rhyme>,</l>
+        <l id="s72:l2" met="7" type="-+">Dit zijn mijn kindren alle bey, Siet hier u Dochters <rhyme label="a" type="m" corresp="#s72:l1">handt</rhyme>,</l>
+        <l id="s72:l3" met="6" type="+-">Sijn kindren hy ontfingh, hy riep met grooter <rhyme label="b" type="f">vrouden</rhyme>.</l>
+        <l id="s72:l4" met="6" type="-+">Dit is noch mijn eyghen Ringh, daer ick Helena mee <rhyme label="b" type="f" corresp="#s72:l3">trouden</rhyme>.</l>
+      </lg>
+      <lg id="s73" type="stanza">
+        <l id="s73:l1" met="6" type="-+">De vreught en blijdtschap groot, niet om te schrijven <rhyme label="a" type="m">waer</rhyme>,</l>
+        <l id="s73:l2" met="7" type="-+">De kinderen minjoot, die vonden soo haer <rhyme label="a" type="m" corresp="#s73:l1">Vaer</rhyme>,</l>
+        <l id="s73:l3" met="6" type="+-">Als doen riep daer ter tijt, en knecht ter Camer <rhyme label="b" type="f">inne</rhyme>,</l>
+        <l id="s73:l4" met="6" type="-+">Heer Coningh weest verblijt, 'k heb Helena <rhyme label="b" type="f" corresp="#s73:l3">gesiene</rhyme>.</l>
+      </lg>
+      <lg id="s74" type="stanza">
+        <l id="s74:l1" met="6" type="-+">Mijn Dienaer is het waer, 'ksal u maken een <rhyme label="a" type="m">Lantsheer</rhyme>,</l>
+        <l id="s74:l2" met="7" type="-+">Doen sprack Helena's Vaer, 'ksal u beschenken <rhyme label="a" type="m" corresp="#s74:l1">seer</rhyme>,</l>
+        <l id="s74:l3" met="6" type="+-">Hy gingh seer haestigh heen, daer hy Helena <rhyme label="b" type="f">vonde</rhyme>,</l>
+        <l id="s74:l4" met="6" type="-+">In een schamel Huysken kleen, daer sy om God will <rhyme label="b" type="f" corresp="#s74:l3">woonde</rhyme>.</l>
+      </lg>
+      <lg id="s75" type="stanza">
+        <l id="s75:l1" met="6" type="-+">Als desen knecht getrou, ging in't Huysken <rhyme label="a" type="m">vailjant</rhyme></l>
+        <l id="s75:l2" met="7" type="-+">Woont hier een arme Vrou, sprack hy met eene <rhyme label="a" type="m" corresp="#s75:l1">handt</rhyme>?</l>
+        <l id="s75:l3" met="6" type="+-">Doen viel Helena siet, op haer knien met <rhyme label="b" type="f">verbloden</rhyme>,</l>
+        <l id="s75:l4" met="6" type="-+">Och vriendt en melt my niet, Mijn Man sou my doen <rhyme label="b" type="f" corresp="#s75:l3">dooden</rhyme>.</l>
+      </lg>
+      <lg id="s76" type="stanza">
+        <l id="s76:l1" met="6" type="-+">Neen Vrouwe gaet met my, u en sal niet <rhyme label="a" type="m">misschien</rhyme>,</l>
+        <l id="s76:l2" met="7" type="-+">Uwen Vader isser by, Ghy sult u Kindren <rhyme label="a" type="m" corresp="#s76:l1">sien</rhyme>:</l>
+        <l id="s76:l3" met="6" type="+-">Hier is sulcken blijdtschap groot, Ick kan't u niet <rhyme label="b" type="f">vermonden</rhyme></l>
+        <l id="s76:l4" met="6" type="-+">In 't Bisschops hof minjoot, hebben sy u kindren <rhyme label="b" type="f" corresp="#s76:l3">ghevonden</rhyme>.</l>
+      </lg>
+      <lg id="s77" type="stanza">
+        <l id="s77:l1" met="6" type="-+">Als Helena beschreeyt, quam voor de Coningen <rhyme label="a" type="m">vroet</rhyme>,</l>
+        <l id="s77:l2" met="7" type="-+">De Coningen alle beyd' , die vielen haer te <rhyme label="a" type="m" corresp="#s77:l1">voet</rhyme>,</l>
+        <l id="s77:l3" met="6" type="+-">Staet op mijn lieve Man, en mijn Vader <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s77:l4" met="6" type="-+">Wat ghy my hebt misdaen, het is u al <rhyme label="b" type="f" corresp="#s77:l3">vergeven</rhyme>.</l>
+      </lg>
+      <lg id="s78" type="stanza">
+        <l id="s78:l1" met="6" type="-+">Den Coningh sonder troer, riep sijn kindren te <rhyme label="a" type="m">gaer</rhyme>,</l>
+        <l id="s78:l2" met="7" type="-+">Siet hier u lieve Moer: Denckt wat een vreught was <rhyme label="a" type="m" corresp="#s78:l1">daer</rhyme>!</l>
+        <l id="s78:l3" met="6" type="+-">Als sy haer kindren sagh, van blijtschap <rhyme label="b" type="f">ongemeten</rhyme>,</l>
+        <l id="s78:l4" met="6" type="-+">Al haer droevigen dagh, die waren al <rhyme label="b" type="f" corresp="#s78:l3">vergeten</rhyme>.</l>
+      </lg>
+      <lg id="s79" type="stanza">
+        <l id="s79:l1" met="6" type="-+">Als een Coningin, soo weet sy daer <rhyme label="a" type="m">gekleedt</rhyme>,</l>
+        <l id="s79:l2" met="7" type="-+">Een Bruyloft niet te min, seer kostelick <rhyme label="a" type="m" corresp="#s79:l1">bereet</rhyme>,</l>
+        <l id="s79:l3" met="6" type="+-">Ses weken min of meer, saghmen de feeste <rhyme label="b" type="f">dueren</rhyme>,</l>
+        <l id="s79:l4" met="6" type="-+">Een Mirakel vanden Heer, heeftmen daer sien <rhyme label="b" type="f" corresp="#s79:l3">gebeure</rhyme>.</l>
+      </lg>
+      <lg id="s80" type="stanza">
+        <l id="s80:l1" met="6" type="-+">Sijnen Engel heeft hy gesant, tot haren soon <rhyme label="a" type="m">getrou</rhyme>,</l>
+        <l id="s80:l2" met="7" type="-+">Dat hij sijn Moeders Handt, weder aen-setten <rhyme label="a" type="m" corresp="#s80:l1">sou</rhyme>:</l>
+        <l id="s80:l3" met="6" type="+-">Hy en roerde nauwelicx daer, aen haren Arm <rhyme label="b" type="f">gepresen</rhyme>,</l>
+        <l id="s80:l4" met="6" type="-+">Heel suyver ende klaer, soo was de handt <rhyme label="b" type="f" corresp="#s80:l3">genesen</rhyme>.</l>
+      </lg>
+      <lg id="s81" type="stanza">
+        <l id="s81:l1" met="6" type="-+">Christus de Medicijn, de hant als doen <rhyme label="a" type="m">genas</rhyme>,</l>
+        <l id="s81:l2" met="7" type="-+">Sonder weedoen of pijn, als sy te vooren <rhyme label="a" type="m" corresp="#s81:l1">was</rhyme>,</l>
+        <l id="s81:l3" met="6" type="+-">Doemense eerst wou doon, was wel twintig Jaer <rhyme label="b" type="f">geleden</rhyme></l>
+        <l id="s81:l4" met="6" type="-+">De handt was noch soo schoon, al waers'  eerst af <rhyme label="b" type="f" corresp="#s81:l3">ghesneden</rhyme>.</l>
+      </lg>
+      <lg id="s82" type="stanza">
+        <l id="s82:l1" met="6" type="-+">Met vreughden en jolijt, hebben sy <rhyme label="a" type="m">ongetoeft</rhyme>,</l>
+        <l id="s82:l2" met="7" type="-+">Den HEER gebenedijt, gedanckt ende <rhyme label="a" type="m" corresp="#s82:l1">gelooft</rhyme>,</l>
+        <l id="s82:l3" met="6" type="+-">Dese twee Coninghen bedocht, hadden (hoort mijn <rhyme label="b" type="f">vermonden</rhyme>)</l>
+        <l id="s82:l4" met="6" type="-+">Wel twintigh Jaer gesocht, eer sy Helena <rhyme label="b" type="f" corresp="#s82:l3">vonden</rhyme>.</l>
+      </lg>
+      <lg id="s83" type="stanza">
+        <l id="s83:l1" met="6" type="-+">Coning Anthonis voor heen, is getrocken op de <rhyme label="a" type="m">reys</rhyme>,</l>
+        <l id="s83:l2" met="7" type="-+">Na Constantinopel reen, op sijn Conincklick <rhyme label="a" type="m" corresp="#s83:l1">Palleys</rhyme>,</l>
+        <l id="s83:l3" met="6" type="+-">En Coningh Henrick verheught, na Londen hem <rhyme label="b" type="f">begeefden</rhyme>,</l>
+        <l id="s83:l4" met="6" type="-+">Waer hy met grooter vreught, met sijn Coninginne <rhyme label="b" type="f" corresp="#s83:l3">leefden</rhyme>.</l>
+      </lg>
+      <lg id="s84" type="stanza">
+        <l id="s84:l1" met="6" type="-+">Al die dit hoort en siet, oft dese Historie <rhyme label="a" type="m">leest</rhyme>,</l>
+        <l id="s84:l2" met="7" type="-+">Denckt in wat lijden en verdriet, heeft dese Coningin <rhyme label="a" type="m" corresp="#s84:l1">gheweest</rhyme>,</l>
+        <l id="s84:l3" met="6" type="+-">Soo datse met verseer, haer Broot gaen bidden <rhyme label="b" type="f">moste</rhyme>,</l>
+        <l id="s84:l4" met="6" type="-+">En hoe datse den Heer, in 't eynde noch <rhyme label="b" type="f" corresp="#s84:l3">vertrooste</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

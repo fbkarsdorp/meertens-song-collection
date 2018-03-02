@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>31514</id>
+    <date>
+      <year-start>1525</year-start>
+      <year-end>1525</year-end>
+    </date>
+    <location>
+      <orginal-name>zuid-holland (dordrecht?)</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>arcostic</tag>
+    </tags>
+    <melody>Mijn heer van Valkenstein</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Sy hebben <rhyme label="a" type="f">vromelijke</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die wech voerons <rhyme label="b" type="m">ghegaen</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Laet ons nu <rhyme label="a" type="f" corresp="#s1:l1">blijdelijcke</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hem volghen <rhyme label="b" type="m" corresp="#s1:l2">afteraen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Laet ons nu <rhyme label="a" type="f" corresp="#s1:l1">blijdelijcke</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Hem volghen <rhyme label="b" type="m" corresp="#s1:l2">afteraen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ten sel niet langhe <rhyme label="a" type="f">lijden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wij hopen meede te <rhyme label="b" type="m">sijn</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Ende ons mit Hem <rhyme label="a" type="f" corresp="#s2:l1">verblijden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ende sien Goods soete <rhyme label="b" type="m" corresp="#s2:l2">aenschijn</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Ende ons mit Hem <rhyme label="a" type="f" corresp="#s2:l1">verblijden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ende sien Goods soete <rhyme label="b" type="m" corresp="#s2:l2">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ende mit die maechden <rhyme label="a" type="f">singhen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Een vrolijc nuwe <rhyme label="b" type="m">sanc</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ende dansen ende <rhyme label="a" type="f" corresp="#s3:l1">springhen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Mit vrijheitsonder <rhyme label="b" type="m" corresp="#s3:l2">dwanc</rhyme>!</l>
+        <l id="s3:l5" met="3" type="-+">Ende dansen ende <rhyme label="a" type="f" corresp="#s3:l1">springhen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Mit vrijheitsonder <rhyme label="b" type="m" corresp="#s3:l2">dwanc</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Jhesus sel daer <rhyme label="a" type="f">leyden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mit Maria, Sijn lyef Moeder, den <rhyme label="b" type="m">dans</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Hij sel ons elc <rhyme label="a" type="f" corresp="#s4:l1">bereyden</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Een schone gulden <rhyme label="b" type="m" corresp="#s4:l2">crans</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Hij sel ons elc <rhyme label="a" type="f" corresp="#s4:l1">bereyden</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Een schone gulden <rhyme label="b" type="m" corresp="#s4:l2">crans</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Niet meer en sellen wy <rhyme label="a" type="f">lijden</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Noch hebben gheen <rhyme label="b" type="m">ellende</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Maer ewelijc daer <rhyme label="a" type="f" corresp="#s5:l1">verblijden</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">In vroechden sonder <rhyme label="b" type="m" corresp="#s5:l2">eynden</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Maer ewelijc daer <rhyme label="a" type="f" corresp="#s5:l1">verblijden</rhyme>.</l>
+        <l id="s5:l6" met="3" type="-+">In vroechden sonder <rhyme label="b" type="m" corresp="#s5:l2">eynden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

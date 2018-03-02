@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24985</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">God hat nach alle wensche <rhyme label="a" type="m">gezat</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Yr wijplich <rhyme label="b" type="f">ghebere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sy duncket mich wesen ane <rhyme label="a" type="m" corresp="#s1:l1">dat</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dey buzen mach mijn <rhyme label="b" type="f" corresp="#s1:l2">zwere</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Des willich yr zu dienste <rhyme label="c" type="m">stan</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Huer unde alle <rhyme label="d" type="f">stonde</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Der ich moyt wesen <rhyme label="c" type="m" corresp="#s1:l5">ondertan</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Van rechtes hertzen <rhyme label="d" type="f" corresp="#s1:l6">gronde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vreude mach zi mich geben <rhyme label="a" type="m">vyl</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mer dan alle die <rhyme label="b" type="f">leben</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zi yst mijns hertzen vreuden <rhyme label="a" type="m" corresp="#s2:l1">spyl</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Yr gute yst gar <rhyme label="b" type="f" corresp="#s2:l2">erheben</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">In minen hertzen also <rhyme label="c" type="m">ho</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Das nyeman kan <rhyme label="d" type="f">geloben</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Wer ich in yrme hertzen <rhyme label="c" type="m" corresp="#s2:l5">zo</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">In vrueden zulde ich <rhyme label="d" type="f" corresp="#s2:l6">hoben</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ich wil yr <rhyme label="a" type="m">besceydenheyt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ganzlich al <rhyme label="b" type="f">betruwen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Das yst tzarte <rhyme label="a" type="m" corresp="#s3:l1">wijplijcheyt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Miin vreude sal <rhyme label="b" type="f" corresp="#s3:l2">ernuwen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Vurbas alle taghe <rhyme label="c" type="m">mer</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Hulf god zu dem <rhyme label="d" type="f">gewinne</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Das ich erwerbe, das ich <rhyme label="c" type="m" corresp="#s3:l5">ger</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Van miner <rhyme label="d" type="f" corresp="#s3:l6">meesterynnen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

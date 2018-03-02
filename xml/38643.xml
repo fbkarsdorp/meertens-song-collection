@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38643</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Met bier, en <rhyme label="a" type="m">wijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Met spel, en met <rhyme label="b" type="m">sanck</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Veracht Venus <rhyme label="a" type="m" corresp="#s1:l1">aen-schijn</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Looft met Baccho den <rhyme label="b" type="m" corresp="#s1:l2">dranck</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">Want hy <rhyme label="c" type="m">verlicht</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Ons droeve <rhyme label="d" type="f">sinnen</rhyme>:</l>
+        <l id="s1:l7" met="2" type="-+">En Venus <rhyme label="c" type="m" corresp="#s1:l5">wicht</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Beswaert, en <rhyme label="c" type="m" corresp="#s1:l5">ontsticht</rhyme>:</l>
+        <l id="s1:l9" met="3" type="+-">Dies sal ick met <rhyme label="b" type="m" corresp="#s1:l2">sanck</rhyme>,,</l>
+        <l id="s1:l10" met="6" type="-+">Gaen bespotten de min, en verheffen den <rhyme label="b" type="m" corresp="#s1:l2">dranck</rhyme>:</l>
+        <l id="s1:l11" met="3" type="+-">Nu roem ick den <rhyme label="b" type="m" corresp="#s1:l2">dranck</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">Door den <rhyme label="b" type="m" corresp="#s1:l2">sanck</rhyme>,</l>
+        <l id="s1:l13" met="2" type="+-">Met <rhyme label="b" type="m" corresp="#s1:l2">gheklanck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

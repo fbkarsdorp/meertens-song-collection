@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12923</id>
+    <date>
+      <year-start>1618</year-start>
+      <year-end>1618</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>scenic song</tag>
+      <tag>lamentation</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Die de Vrouwens aerdt <rhyme label="a" type="m">beziet</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">'t Is al <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Al wat hoop ons ken <rhyme label="b" type="f">beloven</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Vrouwen woorden zijn maer <rhyme label="c" type="m">windt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Ick <rhyme label="c" type="m" corresp="#s1:l4">bevint</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Eerst ghelieft, en na <rhyme label="b" type="f" corresp="#s1:l3">verschoven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zo weer-hanich is 't <rhyme label="a" type="m">ghedacht</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Dat ick <rhyme label="a" type="m" corresp="#s2:l1">acht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Mits wy 't lacy zo <rhyme label="b" type="f">bevinnen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dat de laetste die zy <rhyme label="c" type="m">zien</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">'t Moet <rhyme label="c" type="m" corresp="#s2:l4">gheschien</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Is de eerst die zy <rhyme label="b" type="f" corresp="#s2:l3">beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Die op Vrouwen zich <rhyme label="a" type="m">betrouwt</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">'t Hem <rhyme label="a" type="m" corresp="#s3:l1">berouwt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Qualijck is 't woordt op de <rhyme label="b" type="f">lippen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Of het ander staet we'er <rhyme label="c" type="m">voor</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Aende <rhyme label="c" type="m" corresp="#s3:l4">door</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Om lichtvaerdich uyt te <rhyme label="b" type="f" corresp="#s3:l3">slippen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Palinghs-gladtheydt by de <rhyme label="a" type="m">staert</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">Is heur <rhyme label="a" type="m" corresp="#s4:l1">aerdt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dus zo plaghen zy de <rhyme label="b" type="f">herten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Want de Vrouwe licht <rhyme label="c" type="m">verkeert</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Wat zy <rhyme label="c" type="m" corresp="#s4:l4">zweert</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Rapen vreughd' in onze <rhyme label="b" type="f" corresp="#s4:l3">smerten</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Alle Vrouwen inde <rhyme label="a" type="m">schijn</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">Minn'lijck <rhyme label="a" type="m" corresp="#s5:l1">zijn</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Die te veel op hun <rhyme label="b" type="f">vertrouwen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Laes! zich zelven zeer <rhyme label="c" type="m">verrast</rhyme>:</l>
+        <l id="s5:l5" met="2" type="+-">Want in 't <rhyme label="c" type="m" corresp="#s5:l4">last</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Vindt men niet als druck, en <rhyme label="b" type="f" corresp="#s5:l3">rouwen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Leert van my die 't heeft <rhyme label="a" type="m">beproeft</rhyme>,</l>
+        <l id="s6:l2" met="2" type="+-">Ghy <rhyme label="a" type="m" corresp="#s6:l1">behoeft</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Verder niet te <rhyme label="b" type="f">onderzoecken</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Mannen leeft in <rhyme label="c" type="m">voor-beraedt</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">Dat ghy <rhyme label="c" type="m" corresp="#s6:l4">laet</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">U van Vrouwen niet <rhyme label="b" type="f" corresp="#s6:l3">verkloecken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Niet dat ick het <rhyme label="a" type="m">Vrouws-gheslacht</rhyme>,</l>
+        <l id="s7:l2" met="2" type="+-">Zo <rhyme label="a" type="m" corresp="#s7:l1">veracht</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Dat ick 't alles wil <rhyme label="b" type="f">versmaeden</rhyme>:</l>
+        <l id="s7:l4" met="4" type="+-">Maer dus zyn zy in't <rhyme label="c" type="m">ghemeen</rhyme>,</l>
+        <l id="s7:l5" met="2" type="+-">'k Spreeck <rhyme label="c" type="m" corresp="#s7:l4">alleen</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Vande boozen, en de <rhyme label="b" type="f" corresp="#s7:l3">quaden</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">d'Eerbaren men waerder <rhyme label="a" type="m">houdt</rhyme>,</l>
+        <l id="s8:l2" met="2" type="+-">Meer als 't <rhyme label="a" type="m" corresp="#s8:l1">goudt</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Want in hun verburghen <rhyme label="b" type="f">legghen</rhyme></l>
+        <l id="s8:l4" met="4" type="+-">Schatten, dus van zulcken <rhyme label="c" type="m">Vrouw</rhyme></l>
+        <l id="s8:l5" met="2" type="+-">Nimmer <rhyme label="c" type="m" corresp="#s8:l4">zou</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">Ick het lof volkomen <rhyme label="b" type="f" corresp="#s8:l3">zegghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

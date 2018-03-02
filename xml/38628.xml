@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38628</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Viva: Bacchus heeft <rhyme label="a" type="f">ghegheven</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Ons den vriendelijcken <rhyme label="b" type="m">wijn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Viva slemp Godt vrolijck <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Altijdt wel ghesint te <rhyme label="b" type="m" corresp="#s1:l2">zijn</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Selden treurder, slimmen <rhyme label="c" type="f">joncker</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hooft-verlichter, <rhyme label="d" type="m">wallevis</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Domineerder in het <rhyme label="c" type="f" corresp="#s1:l5">doncker</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Tijdt-verdrijver aen den <rhyme label="d" type="m" corresp="#s1:l6">dis</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Grooten Boeck-voet, wiens <rhyme label="a" type="f">buycxken</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Nimmermeer en is <rhyme label="b" type="m">vervult</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Geyten-baert, die menich <rhyme label="a" type="f" corresp="#s2:l1">kruyxken</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Hebt ghelost en <rhyme label="b" type="m" corresp="#s2:l2">uyt-ghesmult</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Horen-dragher, <rhyme label="c" type="f">hooft-verlichter</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Veyl-cop, altijdt even <rhyme label="d" type="m">groen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Ruyse muyser, <rhyme label="c" type="f" corresp="#s2:l5">vreughde-stichter</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Die ons met u sap komt <rhyme label="d" type="m" corresp="#s2:l6">voen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

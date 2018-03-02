@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25158</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+      <tag>love song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wa blic an blicke vint sin <rhyme label="a" type="m">art</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">szone unde <rhyme label="a" type="m" corresp="#s1:l1">bewart</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">zu hant der blic sich szo deme hercin <rhyme label="a" type="m" corresp="#s1:l1">szart</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">deme blic lait dye lebe <rhyme label="b" type="m">nach</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Dye wile die szuei sich vreuwint so kunt der minnen <rhyme label="b" type="m" corresp="#s1:l4">shach</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">intwalmis <rhyme label="a" type="m" corresp="#s1:l1">vart</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">den szuen wilt si an <rhyme label="c" type="f">gesigin</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">eyns reynen wibis muntlich <rhyme label="d" type="m">munt</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">wem der dut <rhyme label="d" type="m" corresp="#s1:l8">kunt</rhyme>.</l>
+        <l id="s1:l10" met="5" type="-+">gar lecherlicher lebe eyn kussis <rhyme label="d" type="m" corresp="#s1:l8">funt</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">sich daz gebaren is so <rhyme label="e" type="m">zart</rhyme></l>
+        <l id="s1:l12" met="6" type="-+">so wol unde we yme dem daz hongin wirt <rhyme label="e" type="m" corresp="#s1:l11">gespart</rhyme>.</l>
+        <l id="s1:l13" met="2" type="-+">herze is int <rhyme label="d" type="m" corresp="#s1:l8">zunt</rhyme></l>
+        <l id="s1:l14" met="3" type="-+">gelust is in <rhyme label="c" type="f" corresp="#s1:l7">gestigin</rhyme></l>
+        <l id="s1:l15" met="6" type="-+">so clait dat herze vuer sins selvis <rhyme label="f" type="f">blickin</rhyme>.</l>
+        <l id="s1:l16" met="4" type="-+">So clait dye lebe vuer der minnen <rhyme label="f" type="f" corresp="#s1:l15">stricken</rhyme>.</l>
+        <l id="s1:l17" met="3" type="-+">Lyep wil sich <rhyme label="f" type="f" corresp="#s1:l15">erquicken</rhyme>.</l>
+        <l id="s1:l18" met="4" type="-+">So clait vuer minne Amor der <rhyme label="g" type="m">vogt</rhyme></l>
+        <l id="s1:l19" met="2" type="+-">kumt in <rhyme label="g" type="m" corresp="#s1:l18">geszogt</rhyme></l>
+        <l id="s1:l20" met="2" type="+-">wa hin he <rhyme label="g" type="m" corresp="#s1:l18">brogt</rhyme></l>
+        <l id="s1:l21" met="3" type="+-">so moys sine craft <rhyme label="c" type="f" corresp="#s1:l7">geligin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

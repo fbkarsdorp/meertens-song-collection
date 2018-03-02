@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26971</id>
+    <date>
+      <year-start>1568</year-start>
+      <year-end>1568</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (nabij de duits-nederlandse grens)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Jtz w rtt mir kundt <rhyme label="a" type="f">verlangenn</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Jn meines hertzen gr <rhyme label="b" type="m">ndt</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">S chtenn tra renn <rhyme label="a" type="f" corresp="#s1:l1">langenn</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">D ck vnnd z  maniger st <rhyme label="b" type="m" corresp="#s1:l2">ndtt</rhyme> /</l>
+        <l id="s1:l5" met="3" type="-+">moß ich im hertzenn <rhyme label="c" type="f">dragenn</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">das ist ein leidenn <rhyme label="d" type="m">groß</rhyme> /</l>
+        <l id="s1:l7" met="3" type="-+">ich weiß es nemantz z  <rhyme label="c" type="f" corresp="#s1:l5">clagen</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">des stehenn ich fre denn <rhyme label="d" type="m" corresp="#s1:l6">bloß</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Jch mocht es deme <rhyme label="a" type="f">clagenn</rhyme> /</l>
+        <l id="s2:l2" met="3" type="-+">Ja lieber wer jme mein <rhyme label="b" type="m">leidt</rhyme> /</l>
+        <l id="s2:l3" met="3" type="-+">Dr mb m ß ichs alleine <rhyme label="a" type="f" corresp="#s2:l1">dragenn</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Das ist gar schwar <rhyme label="b" type="m" corresp="#s2:l2">arbeitt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Je doch so will ich <rhyme label="c" type="f">hoffenn</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">wehr weiß wie es <rhyme label="d" type="m">gefeldtt</rhyme> /</l>
+        <l id="s2:l7" met="3" type="-+">es mocht noch werden <rhyme label="c" type="f" corresp="#s2:l5">offen</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">ich werdt z  ir <rhyme label="d" type="m" corresp="#s2:l6">geseltt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mich will verlangenn <rhyme label="a" type="f">thottenn</rhyme> /</l>
+        <l id="s3:l2" met="3" type="-+">vnnd es mich hartt <rhyme label="b" type="m">erbrantt</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">ich liegenn jn grossenn <rhyme label="a" type="f" corresp="#s3:l1">nothenn</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">doch stett z  ir <rhyme label="b" type="m" corresp="#s3:l2">gewantt</rhyme> /</l>
+        <l id="s3:l5" met="3" type="-+">mein hertz ohn widder <rhyme label="c" type="f">kerenn</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">biß a ff mein <rhyme label="d" type="m">hinnefartt</rhyme> /</l>
+        <l id="s3:l7" met="3" type="-+">Jn fre den kan sie mich <rhyme label="c" type="f" corresp="#s3:l5">ernerenn</rhyme> /</l>
+        <l id="s3:l8" met="3" type="-+">wan sie nitt wesenn woltt z  <rhyme label="d" type="m" corresp="#s3:l6">hartt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

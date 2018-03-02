@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2351</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>lamentation</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Fortuin helaas</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Heere Jesus lief <rhyme label="a" type="m">vercoren</rhyme> /</l>
+        <l id="s1:l2" met="3" type="-+">Myn lyden moet ick u <rhyme label="b" type="f">clagen</rhyme> /</l>
+        <l id="s1:l3" met="3" type="-+">En laet my niet <rhyme label="a" type="m" corresp="#s1:l1">verloren</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">Helpt my myn cruysken <rhyme label="b" type="f" corresp="#s1:l2">dragen</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Myn quade nature en wilt versterven <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Des lydt myn herte een swaer <rhyme label="c" type="m" corresp="#s1:l5">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Compt lief inder <rhyme label="a" type="m">noot</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wilt myn cout herte <rhyme label="b" type="f">doorstraelen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Met uwer liefden <rhyme label="a" type="m" corresp="#s2:l1">groot</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Laet die in my <rhyme label="b" type="f" corresp="#s2:l2">daelen</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">Daernae verlangt die ziele <rhyme label="c" type="m">myn</rhyme> /</l>
+        <l id="s2:l6" met="4" type="-+">Dat gy mocht heer altyt die liefste <rhyme label="c" type="m" corresp="#s2:l5">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die u hier <rhyme label="a" type="m">bemint</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">In dit allendich <rhyme label="b" type="f">leven</rhyme> /</l>
+        <l id="s3:l3" met="3" type="-+">Die suldy diet <rhyme label="a" type="m" corresp="#s3:l1">versint</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Altyt u gratie <rhyme label="b" type="f" corresp="#s3:l2">geven</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">Daerom roep ick nacht ende <rhyme label="c" type="m">dach</rhyme> /</l>
+        <l id="s3:l6" met="4" type="-+">Dat ick heere die vercrygen <rhyme label="c" type="m" corresp="#s3:l5">mach</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ick wille sonter <rhyme label="a" type="m">respyt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">My selven leeren <rhyme label="b" type="f">sterven</rhyme> /</l>
+        <l id="s4:l3" met="3" type="-+">Dat ick in deser <rhyme label="a" type="m" corresp="#s4:l1">tyt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ghenaede mach <rhyme label="b" type="f" corresp="#s4:l2">verwerven</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Myn sonden sal ick laeten / en breken quay <rhyme label="c" type="m">natuer</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Heer compt my te baten / het valt my alsoo <rhyme label="c" type="m" corresp="#s4:l5">suer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ick bid u lieve <rhyme label="a" type="m">Heere</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Wilt my nu <rhyme label="b" type="f">verhooren</rhyme> /</l>
+        <l id="s5:l3" met="3" type="-+">Dat ick tot uwer <rhyme label="a" type="m" corresp="#s5:l1">eere</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Tot deuchden my mach <rhyme label="b" type="f" corresp="#s5:l2">spooren</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Laet my vercrijgen dit <rhyme label="c" type="m">ghewin</rhyme> /</l>
+        <l id="s5:l6" met="4" type="-+">Want daernae haect myn hert en mijnen <rhyme label="c" type="m" corresp="#s5:l5">zin</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Den strijt die is zeer <rhyme label="a" type="m">zwaer</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Die wij nu moeten <rhyme label="b" type="f">stryden</rhyme> /</l>
+        <l id="s6:l3" met="3" type="-+">Dat ghevoelen wij <rhyme label="a" type="m" corresp="#s6:l1">voorwaer</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">In dese droeve <rhyme label="b" type="f" corresp="#s6:l2">tyden</rhyme> /</l>
+        <l id="s6:l5" met="4" type="-+">Maer liefde die is altyt van zulken <rhyme label="c" type="m">aert</rhyme> /</l>
+        <l id="s6:l6" met="4" type="-+">Dat zy haer selven nemmermeer en <rhyme label="c" type="m" corresp="#s6:l5">spaert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3948</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>mystical song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ik weet nog een maagd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk weet een vrouken <rhyme label="a" type="m">ghebenedijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die mi also wel <rhyme label="b" type="m">behaecht</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Och bouen alle die werelt <rhyme label="a" type="m" corresp="#s1:l1">wijt</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Dat si die croone <rhyme label="b" type="m" corresp="#s1:l2">draecht</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Si rust bi haer lieue <rhyme label="c" type="m">kint</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Noch is dye vrouwe een suuer <rhyme label="b" type="m" corresp="#s1:l2">maecht</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die alle herten <rhyme label="c" type="m" corresp="#s1:l5">bemint</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die vrouwe die en sal ic niet <rhyme label="a" type="m">laten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Om schoonheyt noch om <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Als mijn aenschijn haer beelde <rhyme label="a" type="m" corresp="#s2:l1">aensiet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">So verhuecht si minen <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ick woude dat ic waer bi <rhyme label="c" type="m">haer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Hier bouen int eewighe <rhyme label="b" type="m" corresp="#s2:l2">leuen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">So waer al mijn trueren <rhyme label="c" type="m" corresp="#s2:l5">gedaen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die vrouwe is wt Iessen <rhyme label="a" type="m">rijs</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Gheboren als een <rhyme label="b" type="m">iuecht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Al in mijn herte draecht sy den <rhyme label="a" type="m" corresp="#s3:l1">prijs</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat doet haer groote <rhyme label="b" type="m" corresp="#s3:l2">duecht</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">En hadde dese vrouwe <rhyme label="c" type="m">ghedaen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Wij hadden alle int helsce <rhyme label="b" type="m" corresp="#s3:l2">vier</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Met droefheyt moeten <rhyme label="c" type="m" corresp="#s3:l5">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Haer mondeken root / haer oochskens <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Si verlichten dese werelt <rhyme label="b" type="m">ront</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mocht ic hier bouen bi haer <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">So waer mijn herte <rhyme label="b" type="m" corresp="#s4:l2">ghesont</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Aylacy ende mi is <rhyme label="c" type="m">leet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dat ick mi nu tot deser <rhyme label="b" type="m" corresp="#s4:l2">vren</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Aldus vol sonden <rhyme label="c" type="m" corresp="#s4:l5">weet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die dit lieken eerstwerf <rhyme label="a" type="m">sanc</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Hy sangt wt reynder <rhyme label="b" type="m">minnen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Al en heeft hijt nyet te puncte <rhyme label="a" type="m" corresp="#s5:l1">gheraect</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Men salt ten besten <rhyme label="b" type="m" corresp="#s5:l2">bringhen</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Want sijn memorie was <rhyme label="c" type="m">licht</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Ter eere van onse lieue <rhyme label="b" type="m" corresp="#s5:l2">vrouwe</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">So heeft hi dit lieken <rhyme label="c" type="m" corresp="#s5:l5">ghedicht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

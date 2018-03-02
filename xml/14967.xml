@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14967</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>new year song</tag>
+      <tag>school song</tag>
+      <tag>spiritual song</tag>
+      <tag>children's song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Rijke God wie zal ik klagen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ontwaeckt wilt wt den sleep <rhyme label="a" type="f">oprijsen</rhyme> /</l>
+        <l id="s1:l2" met="4" type="-+">Ghy Menschen in het aertsche <rhyme label="b" type="m">crijt</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">Looft den Heer en wilt hem <rhyme label="a" type="f" corresp="#s1:l1">prijsen</rhyme> /</l>
+        <l id="s1:l4" met="3" type="-+">In desen benauden <rhyme label="b" type="m" corresp="#s1:l2">tijt</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Want ons Messias is nu <rhyme label="c" type="f">gheboren</rhyme> /</l>
+        <l id="s1:l6" met="3" type="-+">Te Betlehem <rhyme label="d" type="m">aldaer</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">Van een reyn Maghet <rhyme label="c" type="f" corresp="#s1:l5">wtvercoren</rhyme> /</l>
+        <l id="s1:l8" met="3" type="-+">In desen nieuwen <rhyme label="d" type="m" corresp="#s1:l6">jeer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een soon is ons <rhyme label="a" type="f">ghegeven</rhyme> /</l>
+        <l id="s2:l2" met="4" type="-+">Van Godt den Vader wtten <rhyme label="b" type="m">troon</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Soo de Propheten hebben <rhyme label="a" type="f" corresp="#s2:l1">gheschreven</rhyme> /</l>
+        <l id="s2:l4" met="3" type="-+">Tis Jesus Christus Godes <rhyme label="b" type="m" corresp="#s2:l2">Soon</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">Hy sal ons salich <rhyme label="c" type="f">maken</rhyme> /</l>
+        <l id="s2:l6" met="3" type="-+">Verlossen Israel van sonde <rhyme label="d" type="m">swaer</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">O Syon wilt deer na <rhyme label="c" type="f" corresp="#s2:l5">haecken</rhyme> /</l>
+        <l id="s2:l8" met="3" type="-+">In desen nieuwen <rhyme label="d" type="m" corresp="#s2:l6">jeer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'Tserpenten hooft is nu <rhyme label="a" type="f">ghebroken</rhyme> /</l>
+        <l id="s3:l2" met="4" type="-+">Door dit beloofde <rhyme label="b" type="m">saet</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">So in Genesis wort <rhyme label="a" type="f" corresp="#s3:l1">ghesproken</rhyme> /</l>
+        <l id="s3:l4" met="3" type="-+">Hy is ons Burch / en <rhyme label="b" type="m" corresp="#s3:l2">Advocaet</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">Hel / doot / duyvel / heeft hy <rhyme label="c" type="f">ghevanghen</rhyme> /</l>
+        <l id="s3:l6" met="3" type="-+">En draecht ons sonden <rhyme label="d" type="m">allegaer</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">O Israel looft hem met <rhyme label="c" type="f" corresp="#s3:l5">sanghen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">In desen nieuwen <rhyme label="d" type="m" corresp="#s3:l6">Jaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De Herderkens met druck <rhyme label="a" type="f">bevanghen</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">Zijn verblijt door d' Enghels <rhyme label="b" type="m">stem</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Tot haer Heylant zijn sy <rhyme label="a" type="f" corresp="#s4:l1">ghegangen</rhyme> /</l>
+        <l id="s4:l4" met="3" type="-+">Inde Stadt van <rhyme label="b" type="m" corresp="#s4:l2">Betlehem</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">Vonden 't kint in doecken <rhyme label="c" type="f">ghewonden</rhyme> /</l>
+        <l id="s4:l6" met="3" type="-+">Godt en den Mensch <rhyme label="d" type="m">eenpaer</rhyme> /</l>
+        <l id="s4:l7" met="4" type="-+">De wijsen hebben hem daer <rhyme label="c" type="f" corresp="#s4:l5">ghevonden</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">In desen nieuwen <rhyme label="d" type="m" corresp="#s4:l6">jaer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Op desen Prins wilt <rhyme label="a" type="f">mercken</rhyme> /</l>
+        <l id="s5:l2" met="4" type="-+">Na den vleesch niet langer <rhyme label="b" type="m">leeft</rhyme> /</l>
+        <l id="s5:l3" met="4" type="-+">Verlaet v voose <rhyme label="a" type="f" corresp="#s5:l1">wercken</rhyme> /</l>
+        <l id="s5:l4" met="3" type="-+">Wee hem die deer in <rhyme label="b" type="m" corresp="#s5:l2">sneeft</rhyme> /</l>
+        <l id="s5:l5" met="4" type="-+">Zijn ghenade staet altijt <rhyme label="c" type="f">open</rhyme> /</l>
+        <l id="s5:l6" met="3" type="-+">Dus weest dit lammeken <rhyme label="d" type="m">danckbaer</rhyme> /</l>
+        <l id="s5:l7" met="4" type="-+">In zijn Barmherticheyt wilt <rhyme label="c" type="f" corresp="#s5:l5">hopen</rhyme> /</l>
+        <l id="s5:l8" met="3" type="-+">In desen nieuwen <rhyme label="d" type="m" corresp="#s5:l6">jeer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29491</id>
+    <date>
+      <year-start>1299</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>keulen of omgeving?</orginal-name>
+      <standard-name>Cologne, Germany</standard-name>
+      <coordinates>
+        <lon>50.938361</lon>
+        <lat>6.959974</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ver nemet von eime <rhyme label="a" type="f">hunde</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">waz im hie vorn <rhyme label="b" type="m">geschach</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">er truch an sinem <rhyme label="a" type="f" corresp="#s1:l1">munde</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ein vlesch unde gein over einen <rhyme label="b" type="m" corresp="#s1:l2">bach</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">da er selben an dem schine <rhyme label="b" type="m" corresp="#s1:l2">sach</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">so er ein hunt <rhyme label="c" type="f">were</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">unde trug ein vlesch so <rhyme label="c" type="f" corresp="#s1:l6">here</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">michel unde <rhyme label="c" type="f" corresp="#s1:l6">swere</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">er rucht an in mit grimmer <rhyme label="d" type="m">ger</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">inz wazer <rhyme label="d" type="m" corresp="#s1:l9">er</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">unde wolde im nemen daz <rhyme label="e" type="m">sin</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">do verlos er si beide daz was im <rhyme label="f" type="m">zorn</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">sinz jegen er sprach ich solde iz <rhyme label="f" type="m" corresp="#s1:l12">han</rhyme> [...]</l>
+      </lg>
+    </lg>
+  </text>
+</song>

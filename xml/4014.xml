@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4014</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het zouden drie gespeeltjes goed</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SIet wij moeten <rhyme label="a" type="f">veruaren</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van tijt ter <rhyme label="b" type="m">eewicheyt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Voerbij gaen onse <rhyme label="a" type="f" corresp="#s1:l1">iaren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Och waren wij <rhyme label="b" type="m" corresp="#s1:l2">bereyt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Seer cort is onse <rhyme label="a" type="f">leuen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Alle dinc moeten wi <rhyme label="b" type="m">begheuen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Die doot wil comen <rhyme label="a" type="f" corresp="#s2:l1">suere</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gheen merren en is ons <rhyme label="b" type="m" corresp="#s2:l2">hier</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Paus / coninc / ionc / ende <rhyme label="a" type="f">out</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Moeten ymmer <rhyme label="b" type="m">steruen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Macht / noch cracht / noch <rhyme label="a" type="f" corresp="#s3:l1">gout</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En moghen respijt <rhyme label="b" type="m" corresp="#s3:l2">verweruen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Waer sijn sij nu <rhyme label="a" type="f">gebleuen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die voer ons waren <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Van hen is hier niement <rhyme label="a" type="f" corresp="#s4:l1">bleuen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Sij sijn alle gader <rhyme label="b" type="m" corresp="#s4:l2">doot</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Al totter seluer <rhyme label="a" type="f">straten</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">So moeten wij alle <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Consten wij ons wel <rhyme label="a" type="f" corresp="#s5:l1">ghelaten</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die doot wil ons <rhyme label="b" type="m" corresp="#s5:l2">beuaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Daer om laet ons <rhyme label="a" type="f">bereyden</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Met neerste in onsen <rhyme label="b" type="m">leuen</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Op dat als wij van hier <rhyme label="a" type="f" corresp="#s6:l1">sceyden</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">God sijn rijcke ons wil <rhyme label="b" type="m" corresp="#s6:l2">gheuen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29420</id>
+    <date>
+      <year-start>1585</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>zuidelijke nederlanden</orginal-name>
+      <standard-name>Southern Netherlands</standard-name>
+    </location>
+    <tags>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+      <tag>dialog song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Ce petit enfant amour</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Cupido liep <rhyme label="a" type="m">alleijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Seer besich in een <rhyme label="a" type="m" corresp="#s1:l1">pleijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">om bloemkens te <rhyme label="b" type="f">vergaren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">omtrent, daer biekens <rhyme label="b" type="f" corresp="#s1:l3">waren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Een bieken heeft hem <rhyme label="a" type="m">ras</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">daert op een roosken <rhyme label="a" type="m" corresp="#s2:l1">las</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">honich, sijn hant <rhyme label="b" type="f">gesteken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Stralend, in het <rhyme label="b" type="f" corresp="#s2:l3">afbreken</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Door smerdt, hij luijde <rhyme label="a" type="m">riep</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">end' tot zijn moeder <rhyme label="a" type="m" corresp="#s3:l1">liep</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">al met schreijenden <rhyme label="b" type="f">ooghen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">om zijn leet haer te <rhyme label="b" type="f" corresp="#s3:l3">tooghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Och liefste moeder <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">moeder, merckt mijn <rhyme label="a" type="m" corresp="#s4:l1">verdriet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">siet, wat een heftich <rhyme label="b" type="f">swellen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">mijn hant begint te <rhyme label="b" type="f" corresp="#s4:l3">quellen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Venus lachende <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">versocht al metter <rhyme label="a" type="m" corresp="#s5:l1">spoet</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">met cussen end' met <rhyme label="b" type="f">wrijuen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">zijn smerte te <rhyme label="b" type="f" corresp="#s5:l3">verdrijuen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Nu wicht, laet mij <rhyme label="a" type="m">verstaen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Die v dit heeft <rhyme label="a" type="m" corresp="#s6:l1">gedaen</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">seght' sijnt mijn <rhyme label="b" type="f">Camerieren</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Seer dertel van <rhyme label="b" type="f" corresp="#s6:l3">manieren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Neen, het is een cleijn <rhyme label="a" type="m">dier</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">vliegende daer end' <rhyme label="a" type="m" corresp="#s7:l1">hier</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">op die ontloken <rhyme label="b" type="f">bloemen</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">In het meijs soet <rhyme label="b" type="f" corresp="#s7:l3">aencoemen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Ick kent, het is <rhyme label="a" type="m">genouch</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Sprack venus, end sij <rhyme label="a" type="m" corresp="#s8:l1">loech</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">hebb' ick het niet <rhyme label="b" type="f">vergeeten</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">een biecken ist <rhyme label="b" type="f" corresp="#s8:l3">geheeten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

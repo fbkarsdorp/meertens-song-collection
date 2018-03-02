@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36848</id>
+    <date>
+      <year-start>1666</year-start>
+      <year-end>1666</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">BErmhertigh, goet, is IESU <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als ghy de sonden wilt <rhyme label="b" type="f">beweenen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">En hem ootmoedigh, rauwigh valt te <rhyme label="a" type="m" corresp="#s1:l1">voet</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Hy zal u sijnen soeten troost <rhyme label="b" type="f" corresp="#s1:l2">verleenen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijn aremkens zijn seer wijt <rhyme label="a" type="m">ontaen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Om u daer lief'lijck in <rhyme label="b" type="f">t'ontfanghen</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Alsoo hy doet aen menigh <rhyme label="a" type="m" corresp="#s2:l1">Publicaen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Magdaleen ontfingh hy oock met <rhyme label="b" type="f" corresp="#s2:l2">verlangen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Petrus viel, Paulus had' <rhyme label="a" type="m">ghedwaelt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Guilielmus, Augustyn, <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En noch menigh duysent soomen <rhyme label="a" type="m" corresp="#s3:l1">verhaelt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Sy hebben al ghebetert hun quaet <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Keert weer met den verloren <rhyme label="a" type="m">Soon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Godt Vader heeft naer u <rhyme label="b" type="f">verlanghen</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Meer blijdschap zal dan zijn in 's Hemels <rhyme label="a" type="m" corresp="#s4:l1">Throon</rhyme>;</l>
+        <l id="s4:l4" met="5" type="-+">Dan alsser seven goeden zijn <rhyme label="b" type="f" corresp="#s4:l2">ontfanghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Godt roept tot u seer <rhyme label="a" type="m">minnelijck</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Comt al tot my die zijn <rhyme label="b" type="f">belaeden</rhyme>;</l>
+        <l id="s5:l3" met="5" type="-+">Hy soeckt verloren schaeps <rhyme label="a" type="m" corresp="#s5:l1">sorghvuldiglijck</rhyme>:</l>
+        <l id="s5:l4" met="5" type="-+">Hy gaet daer selfs me opden hals <rhyme label="b" type="f" corresp="#s5:l2">gelaeden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Al waer't quaet root, als <rhyme label="a" type="m">vermel'oen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Godt zal 't ras wit als wolle <rhyme label="b" type="f">maken</rhyme>:</l>
+        <l id="s6:l3" met="5" type="-+">Hy zal u vuyle vlecken al uyt <rhyme label="a" type="m" corresp="#s6:l1">doen</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Maken wit als sneeu, al waer't als <rhyme label="b" type="f" corresp="#s6:l2">scherlaken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Met Petrus staet op vanden <rhyme label="a" type="m">val</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Keert weer, keert weer, quae <rhyme label="b" type="f">Religieusen</rhyme>:</l>
+        <l id="s7:l3" met="5" type="-+">Ey om Godts liefde, comt in sijnen <rhyme label="a" type="m" corresp="#s7:l1">stal</rhyme>;</l>
+        <l id="s7:l4" met="5" type="-+">Verlaet 't gheselschap vande dwaese <rhyme label="b" type="f" corresp="#s7:l2">geusen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

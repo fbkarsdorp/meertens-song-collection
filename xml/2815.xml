@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2815</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>Een lied eerbaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">0 vaeder <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">heer boeuen alle <rhyme label="b" type="f">heere</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">u woert met <rhyme label="a" type="m" corresp="#s1:l1">spoet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Doet In myn <rhyme label="b" type="f" corresp="#s1:l2">Informeeren</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">geeft myn een <rhyme label="c" type="m">geest</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">die altoes u schrift <rhyme label="c" type="m" corresp="#s1:l5">leest</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">genaedich godt <rhyme label="d" type="f">almachtich</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">op dat my <rhyme label="c" type="m" corresp="#s1:l5">vreest</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">weerels daeden <rhyme label="d" type="f" corresp="#s1:l7">boosachtich</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">myn Heer <rhyme label="a" type="m">bewaert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">voer verleiders der <rhyme label="b" type="f">quaede</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">maer my doch <rhyme label="a" type="m" corresp="#s2:l1">paert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">In u huis wys van <rhyme label="b" type="f" corresp="#s2:l2">raede</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">daer Ick met <rhyme label="c" type="m">vlyt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">mach hebben u woert <rhyme label="c" type="m" corresp="#s2:l5">blyt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">voerstaen schrifts <rhyme label="d" type="f">Intensy</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">dat myn geest <rhyme label="c" type="m" corresp="#s2:l5">stryt</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">teegen het vleys <rhyme label="d" type="f" corresp="#s2:l7">preesensy</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Verhoert dit <rhyme label="a" type="m">liet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">goedertieryge <rhyme label="b" type="f">vaeder</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">als myn geest <rhyme label="a" type="m" corresp="#s3:l1">siet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">koomen toordeel te <rhyme label="b" type="f" corresp="#s3:l2">gaeder</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Daer Ick sal <rhyme label="c" type="m">staen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">met veel sonden <rhyme label="c" type="m" corresp="#s3:l5">belaen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">voor u aenschin met <rhyme label="d" type="f">beeuen</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">och heer <rhyme label="c" type="m" corresp="#s3:l5">voertaen</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">wilt myn sonden In tyts <rhyme label="d" type="f" corresp="#s3:l7">voergeeuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

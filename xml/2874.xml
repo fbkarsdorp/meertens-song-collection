@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2874</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Chi passa per questa strada</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Oe veenes Jent, een <rhyme label="a" type="m">swaertorment</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Een groet elent , lijdt Ick midts <rhyme label="b" type="f">deesen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Gij staet geprent, Int hert Ick <rhyme label="a" type="m" corresp="#s1:l1">kent</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Seer exsoelent schoen liefelijcke <rhyme label="b" type="f" corresp="#s1:l2">weesen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wilt gij mij niet voortroesten <rhyme label="c" type="m">siet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">al mijn voordriet en acht het <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Wat mijn geschiet schoen lief <rhyme label="b" type="f" corresp="#s1:l2">gepreesen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mocht Ick bij haer schoen aenschin <rhyme label="a" type="m">klaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">alsonder vaer eens troest <rhyme label="b" type="f">voorwerven</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">geen gout soe swaer sou achten <rhyme label="a" type="m" corresp="#s2:l1">klaer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Een liefelijck paer souden wij <rhyme label="b" type="f" corresp="#s2:l2">sterven</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Alle mijn joelijt, In lijden <rhyme label="c" type="m">siet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">mijn hert voorblijt In sweerels <rhyme label="c" type="m" corresp="#s2:l5">krijt</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Tis meer dan tijt soude Ick troest <rhyme label="b" type="f" corresp="#s2:l2">erven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Oe maechdelijck saet komt mijn te <rhyme label="a" type="m">baet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Eert valt te laet wilt druck <rhyme label="b" type="f">vooriaegen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">u fier gelaet seer <rhyme label="a" type="m" corresp="#s3:l1">deelijkaet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat veenes raet schout nijders <rhyme label="b" type="f" corresp="#s3:l2">plaegen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">gedenck toch mijn, die in lijden <rhyme label="c" type="m">sidn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">soe worde Ick blij, dat sech Ick <rhyme label="c" type="m" corresp="#s3:l5">vrij</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">niemant dan gij en derf Ick <rhyme label="b" type="f" corresp="#s3:l2">klaegen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prinsesse reyn gij sidt <rhyme label="a" type="m">alleyn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">lief die Ick mein schoen blom <rhyme label="b" type="f">voorheeven</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">dat weerdich grein sijt gij <rhyme label="a" type="m" corresp="#s4:l1">serteyn</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">In sweerels plein wilt mijn niet <rhyme label="b" type="f" corresp="#s4:l2">begeeven</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">geeft mijn konfoort een troestelijck <rhyme label="c" type="m">woert</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">ef rechtevoert, weest niet <rhyme label="c" type="m" corresp="#s4:l5">voorstoert</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">(mijn) beede aen hoort en laet mijn <rhyme label="b" type="f" corresp="#s4:l2">leeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

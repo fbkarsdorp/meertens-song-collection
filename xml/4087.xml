@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4087</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Ave maris stella</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Laet ons met hoogher <rhyme label="a" type="m">vrolijcheyt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Louen die maget der <rhyme label="a" type="m" corresp="#s1:l1">soeticheyt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Gods moeder <rhyme label="b" type="m">wtuercoren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Daer Iesus af wilde sijn <rhyme label="b" type="m" corresp="#s1:l3">gheboren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O suuer bloeme der <rhyme label="a" type="m">reynicheyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">O edel sale der <rhyme label="a" type="m" corresp="#s2:l1">triniteyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">O onbevlecte lichaem <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Daer god wt wilde geboren <rhyme label="b" type="m" corresp="#s2:l3">sijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Maria maget der <rhyme label="a" type="m">edelheyt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">O fonteyne der <rhyme label="a" type="m" corresp="#s3:l1">soeticheyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">O tempel alder <rhyme label="b" type="m">weerdicheyt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">O volle vloet der <rhyme label="b" type="m" corresp="#s3:l3">minnelicheyt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O edel rose wide <rhyme label="a" type="m">ontdaen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Den soeten dau hebdy <rhyme label="a" type="m" corresp="#s4:l1">ontfaen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Die van den hemel is neder <rhyme label="b" type="m">comen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Iesum Christum tot onser <rhyme label="b" type="m" corresp="#s4:l3">vromen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Lof / eere / hooge <rhyme label="a" type="m">werdicheyt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Moet sijn der hooger <rhyme label="a" type="m" corresp="#s5:l1">mogentheyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ende die moeder der <rhyme label="b" type="m">bermherticheyt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Moet gebenedijt sijn der <rhyme label="b" type="m" corresp="#s5:l3">eewicheyt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

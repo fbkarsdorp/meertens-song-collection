@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15029</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>beggar song</tag>
+      <tag>political song</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Sullen ons verbluffen <rhyme label="a" type="m">dees'</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Die door <rhyme label="a" type="m" corresp="#s1:l1">vrees'</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Eerst om Treves ons <rhyme label="b" type="f">versochten</rhyme>?</l>
+        <l id="s1:l4" met="4" type="+-">End' so liepen eer sy't <rhyme label="c" type="m">woord</rhyme>,,</l>
+        <l id="s1:l5" met="2" type="+-">Van <rhyme label="c" type="m" corresp="#s1:l4">accoord</rhyme>,,</l>
+        <l id="s1:l6" met="4" type="+-">Van ons Staten krygen <rhyme label="b" type="f" corresp="#s1:l3">mochten</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Die u doe o <rhyme label="a" type="m">Nederland</rhyme>!</l>
+        <l id="s2:l2" met="2" type="+-">Inde <rhyme label="a" type="m" corresp="#s2:l1">hand</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Selfs de penne quamen <rhyme label="b" type="f">dragen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ende seyden schryft <rhyme label="c" type="m">alsnu</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Al wat <rhyme label="c" type="m" corresp="#s2:l4">u</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Goet mach zyn en best <rhyme label="b" type="f" corresp="#s2:l3">behagen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Die, eer dat hy kreeg syn <rhyme label="a" type="m">wensch</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Snoode <rhyme label="a" type="m" corresp="#s3:l1">mensch</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Synen hoogmoet moste <rhyme label="b" type="f">breken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">End' ons Landen kennen <rhyme label="c" type="m">vry</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Daer op <rhyme label="c" type="m" corresp="#s3:l4">hy</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Nu niet meer en hadd' te <rhyme label="b" type="f" corresp="#s3:l3">spreken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Daer op 'sKonings groot <rhyme label="a" type="m">signet</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">Werd <rhyme label="a" type="m" corresp="#s4:l1">geset</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Als oock dat van haer <rhyme label="b" type="f">hoogheden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Op dat m'alles toch op <rhyme label="c" type="m">trou</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Houden <rhyme label="c" type="m" corresp="#s4:l4">sou</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Sonder eenig <rhyme label="b" type="f" corresp="#s4:l3">overtreden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Maer Maraen verdraeyt hier <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">Nu den <rhyme label="a" type="m" corresp="#s5:l1">sin</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Hy en vraegt na recht noch <rhyme label="b" type="f">reden</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Hy is, als van outs, soo <rhyme label="c" type="m">noch</rhyme>,</l>
+        <l id="s5:l5" met="2" type="+-">Vol <rhyme label="c" type="m" corresp="#s5:l4">bedrog</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">End' vol <rhyme label="b" type="f" corresp="#s5:l3">ongerechtigheden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Aen des Werelts ander <rhyme label="a" type="m">end</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">Is <rhyme label="a" type="m" corresp="#s6:l1">bekend</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Syn verkeerden snooden <rhyme label="b" type="f">wandel</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Syn beloft, zyn eed en <rhyme label="c" type="m">woord</rhyme>,</l>
+        <l id="s6:l5" met="2" type="+-">Ende <rhyme label="c" type="m" corresp="#s6:l4">voort</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">Synen boosen loosen <rhyme label="b" type="f" corresp="#s6:l3">handel</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Doch de Heer, die dit al <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s7:l2" met="2" type="+-">Sal hem <rhyme label="a" type="m" corresp="#s7:l1">niet</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Tot zyn voorgenomen <rhyme label="b" type="f">boosheyt</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Laten komen, maer hy <rhyme label="c" type="m">sal</rhyme></l>
+        <l id="s7:l5" met="2" type="+-">Hem noch <rhyme label="c" type="m" corresp="#s7:l4">al</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Eens vergelden zyn <rhyme label="b" type="f" corresp="#s7:l3">God'loosheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

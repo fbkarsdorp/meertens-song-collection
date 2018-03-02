@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24878</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>dialog song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Getrouwe gezel ik moet u klagen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ghetru gheselle ic moet u <rhyme label="a" type="f">claghen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mine es niet alze wael <rhyme label="b" type="m">ghesciet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Verloren anich vro <rhyme label="a" type="f" corresp="#s1:l1">bejaghen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">In can des nachts gheslapen <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Hoe comt das <rhyme label="c" type="m">tzoe</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">In weis nicht <rhyme label="c" type="m" corresp="#s1:l5">hoe</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Mijn oghen huer ghenouchte an <rhyme label="a" type="f" corresp="#s1:l1">zaghen</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">So sprec huer <rhyme label="d" type="m">an</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Ich wil in <rhyme label="d" type="m" corresp="#s1:l8">can</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Eer icse <rhyme label="e" type="m">zie</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">So hueghes <rhyme label="e" type="m" corresp="#s1:l10">mie</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Comicker bi mi vreeses <rhyme label="d" type="m" corresp="#s1:l8">dan</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In can niet meer met vruechden <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hertze ende zin ende ooc mijn <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Hanich tze male wech <rhyme label="a" type="f" corresp="#s2:l1">ghegeven</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Minen liefsten beilde <rhyme label="b" type="m" corresp="#s2:l2">zoet</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">So ti dan <rhyme label="c" type="m">dich</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Also doen <rhyme label="c" type="m" corresp="#s2:l5">ich</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Doch haddic gheerne troost <rhyme label="a" type="f" corresp="#s2:l1">bezeven</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">So sprec huer <rhyme label="d" type="m">an</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Ich wil in <rhyme label="d" type="m" corresp="#s2:l8">can</rhyme></l>
+        <l id="s2:l10" met="2" type="-+">Eer icse <rhyme label="e" type="m">zie</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">So hueghes <rhyme label="e" type="m" corresp="#s2:l10">mie</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Comicker bi mi vreeses <rhyme label="d" type="m" corresp="#s2:l8">dan</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Salsi mi aldus vreimde <rhyme label="a" type="f">bliven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In weet hoe ict gheliden <rhyme label="b" type="m">sal</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Salsi mi daer om van huer <rhyme label="a" type="f" corresp="#s3:l1">driven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Of ict haer durste zegghen <rhyme label="b" type="m" corresp="#s3:l2">al</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">So si dan <rhyme label="c" type="m">coen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">In dars niet <rhyme label="c" type="m" corresp="#s3:l5">doen</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Hoe sal mijn dienst an huer <rhyme label="a" type="f" corresp="#s3:l1">becliven</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">So sprec huer <rhyme label="d" type="m">an</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Ich wil in <rhyme label="d" type="m" corresp="#s3:l8">can</rhyme></l>
+        <l id="s3:l10" met="2" type="-+">Eer icse <rhyme label="e" type="m">zie</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">So hueghes <rhyme label="e" type="m" corresp="#s3:l10">mie</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Comicker bi mi vreeses <rhyme label="d" type="m" corresp="#s3:l8">dan</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hope dats een vroylic <rhyme label="a" type="f">cleit</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Dat willic draghen al mijn <rhyme label="b" type="m">jaer</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hoe nauwe het mi van vruechden <rhyme label="a" type="f" corresp="#s4:l1">steit</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Jan si mir bas ich werts <rhyme label="b" type="m" corresp="#s4:l2">ghewaer</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Blijf steide <rhyme label="c" type="m">alzo</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">So salic <rhyme label="c" type="m" corresp="#s4:l5">jo</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Maer emmer es mijn liden <rhyme label="a" type="f" corresp="#s4:l1">zwaer</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">So sprec huer <rhyme label="d" type="m">an</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Ich wil in <rhyme label="d" type="m" corresp="#s4:l8">can</rhyme></l>
+        <l id="s4:l10" met="2" type="-+">Eer icse <rhyme label="e" type="m">zie</rhyme></l>
+        <l id="s4:l11" met="2" type="+-">So hueghes <rhyme label="e" type="m" corresp="#s4:l10">mie</rhyme></l>
+        <l id="s4:l12" met="4" type="-+">Comicker bi mi vreeses <rhyme label="d" type="m" corresp="#s4:l8">dan</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

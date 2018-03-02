@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26779</id>
+    <date>
+      <year-start>1558</year-start>
+      <year-end>1558</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>psalm</tag>
+    </tags>
+    <melody>Psalm 114 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">God is ons een toeulucht en vaste <rhyme label="a" type="m">borcht</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">In teghenheyt bystandich <rhyme label="a" type="m" corresp="#s1:l1">onbesorcht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">dies sullen wy niet <rhyme label="b" type="f">schricken</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Al waert schoon dat d'aertrijcke sou <rhyme label="c" type="m">vergaen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Of die berghen in Zee sick souden <rhyme label="c" type="m" corresp="#s1:l4">slaen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">wy souden niet <rhyme label="b" type="f" corresp="#s1:l3">verschricken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Laet d'ruyschen t'meer en sick verheffen <rhyme label="a" type="m">op</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Laet die berghen met haren hooghen <rhyme label="a" type="m" corresp="#s2:l1">sop</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Sick roeren en <rhyme label="b" type="f">beweghen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Die beken schoon aller <rhyme label="c" type="m">ghenadicheyt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Sullen Gods stat verhoeghen <rhyme label="c" type="m" corresp="#s2:l4">ouerbreyt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">End s'Heeren woonst <rhyme label="b" type="f" corresp="#s2:l3">verheuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Midden in haer is God daerom sal <rhyme label="a" type="m">sy</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Niet wanckelen, want God sal se staen <rhyme label="a" type="m" corresp="#s3:l1">by</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Al voor des morghen <rhyme label="b" type="f">stonde</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Die volcken zijn seer oproerich <rhyme label="c" type="m">gheweest</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Die Rijcken zijn door oploop oock <rhyme label="c" type="m" corresp="#s3:l4">beweecht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">D'aerde is ghedroocht te <rhyme label="b" type="f" corresp="#s3:l3">gronde</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Maer voor ons is der heerscharen Heer <rhyme label="a" type="m">besorcht</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Die God Jacobs is ons een vaste <rhyme label="a" type="m" corresp="#s4:l1">borcht</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">In alle <rhyme label="b" type="f">teghenheden</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Komet doch al en willet mercken <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">Die wercken groot die de Heer heeft <rhyme label="c" type="m" corresp="#s4:l4">gedaen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Ende zijn <rhyme label="b" type="f" corresp="#s4:l3">wonderheden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Ghenadelick weert hy de krijghen <rhyme label="a" type="m">wreet</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Totten eynde des gantschen aertrijcks <rhyme label="a" type="m" corresp="#s5:l1">breet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Maeckt die boose ter <rhyme label="b" type="f">schanden</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Die bogen sterck breect hy met grooten <rhyme label="c" type="m">spoet</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">De spiesen scherp maeckt hy te niet, en <rhyme label="c" type="m" corresp="#s5:l4">verboet</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Die waghenen ten <rhyme label="b" type="f" corresp="#s5:l3">lande</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Staet doch af en my voor dijn God <rhyme label="a" type="m">bekent</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">Die daer groot ben in den wolcken <rhyme label="a" type="m" corresp="#s6:l1">bekent</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Ouer die gantsche <rhyme label="b" type="f">aerde</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">Met ons is der heerscharen Heer en <rhyme label="c" type="m">God</rhyme></l>
+        <l id="s6:l5" met="5" type="-+">Die God Jacobs sal ons een vaste <rhyme label="c" type="m" corresp="#s6:l4">slot</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">In noodt beuonden <rhyme label="b" type="f" corresp="#s6:l3">worden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

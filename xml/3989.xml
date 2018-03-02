@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3989</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+    </tags>
+    <melody>Treuren zo moet ik nacht en dag</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Och in wat lande dat ic <rhyme label="a" type="m">bin</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Si leyt in mijn <rhyme label="b" type="f">ghedachten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Daer en mach gheen ander comen <rhyme label="a" type="m" corresp="#s1:l1">in</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Bi daghe noch ooc bi <rhyme label="b" type="f" corresp="#s1:l2">nachten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Dat heeft haer claer aenschijn <rhyme label="c" type="m">ghedaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Och woude sy mi in haer herte <rhyme label="c" type="m" corresp="#s1:l5">ontfaen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Ick liet mijns lidens <rhyme label="b" type="f" corresp="#s1:l2">clachte</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In alle dese werelt <rhyme label="a" type="m">wijt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En weet ick gheen so <rhyme label="b" type="f">schoone</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">O suyuer maghet <rhyme label="a" type="m" corresp="#s2:l1">ghebenedijt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghedenct mijns inden <rhyme label="b" type="f" corresp="#s2:l2">throone</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ghi sijt mijn liefste op <rhyme label="c" type="m">aertrijc</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ic wil v dienen <rhyme label="c" type="m" corresp="#s2:l5">trouwelijck</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Gheeft mi v rijck te <rhyme label="b" type="f" corresp="#s2:l2">loone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och rijck God heere hoe wee is <rhyme label="a" type="m">mi</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat ic van haer moet <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Och waer ic doch van sonden <rhyme label="a" type="m" corresp="#s3:l1">vri</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">So waer mijn druck <rhyme label="b" type="f" corresp="#s3:l2">ghenesen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Sy brenghen den menighen in swaer <rhyme label="c" type="m">verdriet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Scout die sonden waer ghise <rhyme label="c" type="m" corresp="#s3:l5">siet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Si sijn so valsch <rhyme label="b" type="f" corresp="#s3:l2">ghepresen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De werlt moet de werlt <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Ick wilse laten <rhyme label="b" type="f">varen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">En bidden Maria Gods moeder <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dat si mi wil <rhyme label="b" type="f" corresp="#s4:l2">bewaren</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Al is mijn broossche nature soe <rhyme label="c" type="m">cranck</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Ick hope het sal beteren eer yet <rhyme label="c" type="m" corresp="#s4:l5">lanck</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">O god wilt mi <rhyme label="b" type="f" corresp="#s4:l2">ghesparen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

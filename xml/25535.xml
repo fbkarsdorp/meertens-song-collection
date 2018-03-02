@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25535</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (jülich?)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Heit jch mich wor <rhyme label="a" type="f">wersunen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">des ich mich na  <rhyme label="b" type="m">wersaen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">jch ein heid ne <rhyme label="a" type="f" corresp="#s1:l1">begonen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">des jch beg nen <rhyme label="b" type="m" corresp="#s1:l2">haen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Jch quaem geganen in eyn <rhyme label="a" type="f">lant</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">jch want gescrijven aen der <rhyme label="b" type="m">want</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">wait dich neit <rhyme label="a" type="f" corresp="#s2:l1">aennigeit</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">dat lae stan dae eit <rhyme label="b" type="m" corresp="#s2:l2">steit</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Weil geiaget jnd wenich ge <rhyme label="a" type="f">angen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">weil gehoyrt jnd weinych <rhyme label="b" type="m">werstantden</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">weil geseyn ind wenich <rhyme label="a" type="f" corresp="#s3:l1">meircket</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">dat seint ael werlaren <rhyme label="b" type="m" corresp="#s3:l2">wercken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

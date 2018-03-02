@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25161</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+      <tag>reflective song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Den reynen wibin sprechint <rhyme label="a" type="m">wol</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">vor megde man sich cronin <rhyme label="a" type="m" corresp="#s1:l1">sol</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">wrde uz der megden nicht eyn <rhyme label="b" type="m">wip</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">so wrde uch nummer mannis <rhyme label="b" type="m" corresp="#s1:l3">lip</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Geboren van keyner <rhyme label="c" type="f">megde</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">da von is wip der hoyste <rhyme label="d" type="f">nuoz</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">der megde. keyne sich des <rhyme label="d" type="f" corresp="#s1:l6">szame</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">van von sint si der manne <rhyme label="e" type="m">drut</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">wrde uz der megde niet eyn <rhyme label="e" type="m" corresp="#s1:l8">brut</rhyme>.</l>
+        <l id="s1:l10" met="3" type="-+">so were is cranc <rhyme label="c" type="f" corresp="#s1:l5">getregde</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">Got durch man und durch die <rhyme label="f" type="m">wip</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">von hy mille uf erden sin <rhyme label="f" type="m" corresp="#s1:l11">lyp</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">lies krencken unde <rhyme label="g" type="f">seren</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">durch wip szoif got den hymil <rhyme label="h" type="m">troyn</rhyme>.</l>
+        <l id="s1:l15" met="4" type="-+">den moyssen si er wllen <rhyme label="h" type="m" corresp="#s1:l14">szone</rhyme>.</l>
+        <l id="s1:l16" met="4" type="-+">durch wip szoif got der engil <rhyme label="g" type="f" corresp="#s1:l13">szar</rhyme>.</l>
+        <l id="s1:l17" met="5" type="-+">daz si einer denin moys des sal man si <rhyme label="g" type="f" corresp="#s1:l13">eren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

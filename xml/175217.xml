@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175217</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>triumph song</tag>
+    </tags>
+    <melody>Verheug in deugd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Mars wreet ,, nu weet ,, wat gelt aen hem <rhyme label="a" type="m">besteet</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">te water en te lant ,, tot moort, tot rooft, tot <rhyme label="b" type="m">brant</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">t'bloet sweet ,, versmeet ,, aen coper ijser <rhyme label="a" type="m" corresp="#s1:l1">heet</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">t'helsch vier ontsach niemant, t'was vrint of twas <rhyme label="b" type="m" corresp="#s1:l2">vijant</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">t'groff schut leijt nu Int sant ,, tswaert buspoer hout men <rhyme label="b" type="m" corresp="#s1:l2">stant</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">den roest compt Int geweer ,, den ruijter breeckt syn <rhyme label="c" type="m">speer</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">t'paert ploecht den acker <rhyme label="c" type="m" corresp="#s1:l6">zeer</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">loff eer ,, en meer ,, alleen comt godt den <rhyme label="c" type="m" corresp="#s1:l6">heer</rhyme></l>
+        <l id="s1:l9" met="6" type="+-">voor paijs van boven neer ,, Doet wel tis zijn <rhyme label="c" type="m" corresp="#s1:l6">begeer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wechuijt? ,, en strijt ,, verlopen is u <rhyme label="a" type="m">tyt</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">met heercracht en gewelt ,, een ist diet al <rhyme label="b" type="m">bestelt</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">de spijt ,, door snijt ,, het hart van die hem <rhyme label="a" type="m" corresp="#s2:l1">vlijt</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">nae storten t'bloet te velt ,, tquaet doen nijet meer en <rhyme label="b" type="m" corresp="#s2:l2">gelt</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">met paeys wort ghy gequelt ,, den rooff als sneeu nu <rhyme label="b" type="m" corresp="#s2:l2">smelt</rhyme></l>
+        <l id="s2:l6" met="6" type="-+">de lombaert crijcht het best ,, de beurs siet heeft de <rhyme label="c" type="m">pest</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">van wacht is vry de <rhyme label="c" type="m" corresp="#s2:l6">vest</rhyme> ,,</l>
+        <l id="s2:l8" met="5" type="-+">t'gunt lest noch rest ,, Dats Nichel opt <rhyme label="c" type="m" corresp="#s2:l6">request</rhyme></l>
+        <l id="s2:l9" met="6" type="+-">packt u nae t'roomsche nest ,, en hout u ooch nae <rhyme label="c" type="m" corresp="#s2:l6">twest</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Trompet ,, verset ,, gemaeckt van zilver <rhyme label="a" type="m">net</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">om Schuwen quaet vermoen ,, een copere salt wel <rhyme label="b" type="m">doen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Musquet ,, smeert vet ,, om schieten daert u <rhyme label="a" type="m" corresp="#s3:l1">let</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Den crych mach voort nyet voen ,, tot wijn haes, enca <rhyme label="b" type="m" corresp="#s3:l2">poen</rhyme>?</l>
+        <l id="s3:l5" met="6" type="-+">Ter zee nu wilt u spoen ,, off eet u coren <rhyme label="b" type="m" corresp="#s3:l2">groen</rhyme></l>
+        <l id="s3:l6" met="6" type="-+">paeys en eendrachticheyt ,, u schrijven doort <rhyme label="c" type="m">beleyt</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">van godt u lest <rhyme label="c" type="m" corresp="#s3:l6">affscheyt</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">ontseyt ,, verbeijt ,, hoe groff te voor <rhyme label="c" type="m" corresp="#s3:l6">geweyt</rhyme></l>
+        <l id="s3:l9" met="6" type="+-">Daer vrede nu ontspreyjt ,, tbelieff gods <rhyme label="c" type="m" corresp="#s3:l6">magesteijt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">T'besluijt ,, brengt uijt ,, hoe vrede In der <rhyme label="a" type="m">Muijt</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">hier sat nu veertich Iaer ,, en comt Int <rhyme label="b" type="m">openbaer</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">het fruijt ,, beduijt ,, te smaecken waert van <rhyme label="a" type="m" corresp="#s4:l1">spruijt</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">groot armoe hier en daer ,, de oorsaecke <rhyme label="b" type="m" corresp="#s4:l2">voorwaer</rhyme></l>
+        <l id="s4:l5" met="6" type="-+">Om tyrannije swaer ,, godt sout veel plagen <rhyme label="b" type="m" corresp="#s4:l2">naer</rhyme></l>
+        <l id="s4:l6" met="6" type="-+">en dwingt ons tot accoord ,, op dat zyn heylich <rhyme label="c" type="m">woort</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">Des werelts ringh aen <rhyme label="c" type="m" corresp="#s4:l6">hoort</rhyme></l>
+        <l id="s4:l8" met="5" type="-+">paeys voort ,, nae spoort ,, acht nijet tzij van wat <rhyme label="c" type="m" corresp="#s4:l6">oort</rhyme></l>
+        <l id="s4:l9" met="6" type="+-">t'licht lang ghenoech versmoort ,, dies nu t'saem vreucht <rhyme label="c" type="m" corresp="#s4:l6">oorboort</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Eendracht ,, maeckt macht ,, ziet vrede baert haer <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s5:l2" met="6" type="-+">met den Leeu In verbont ,, als pylen vast en <rhyme label="b" type="m">ront</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">veracht ,, betracht ,, vol standich Dach en <rhyme label="a" type="m" corresp="#s5:l1">nacht</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">met geen beveijnsden gront ,, maer Inde leer <rhyme label="b" type="m" corresp="#s5:l2">gesont</rhyme></l>
+        <l id="s5:l5" met="6" type="-+">Loff godt met hart en mont ,, Die ons t'bestant nu <rhyme label="b" type="m" corresp="#s5:l2">gont</rhyme></l>
+        <l id="s5:l6" met="6" type="-+">en maeckt alom bekent ,, Den honger <rhyme label="c" type="m">end'elent</rhyme></l>
+        <l id="s5:l7" met="3" type="+-">geleden hier <rhyme label="c" type="m" corresp="#s5:l6">omtrent</rhyme></l>
+        <l id="s5:l8" met="5" type="-+">present ,, verblent ,, u oogen daer <rhyme label="c" type="m" corresp="#s5:l6">toewent</rhyme></l>
+        <l id="s5:l9" met="6" type="+-">Dat d'accoleyen Ient ,, haer lieffd'es <rhyme label="c" type="m" corresp="#s5:l6">tFondament</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29510</id>
+    <date>
+      <year-start>1380</year-start>
+      <year-end>1380</year-end>
+    </date>
+    <location>
+      <orginal-name>brabant (wrsch. herne)</orginal-name>
+      <standard-name>Herne, Belgium</standard-name>
+      <coordinates>
+        <lon>50.72329555</lon>
+        <lat>4.02601156634966</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ic late hare gherne af slaen mijn <rhyme label="a" type="f">hovet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Indien datse doch mijnre noet <rhyme label="a" type="f" corresp="#s1:l1">ghelovet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Si die mi vanden sinne <rhyme label="a" type="f" corresp="#s1:l1">rovet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Metter treckender chiere die si mi <rhyme label="a" type="f" corresp="#s1:l1">toghet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waer omme toendi mi dat <rhyme label="a" type="f">ghelaet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daer ghi mi namaels met <rhyme label="a" type="f" corresp="#s2:l1">verslaet</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Want alst met mi ter noet wert <rhyme label="a" type="f" corresp="#s2:l1">gaet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">So drijfdi met mi uwe <rhyme label="a" type="f" corresp="#s2:l1">baraet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ay, minne, u treken sijn te <rhyme label="a" type="f">snel</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Alse ghi toent een, so meende .I. <rhyme label="a" type="f" corresp="#s3:l1">el</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Nu stappans suete, nu stappans <rhyme label="a" type="f" corresp="#s3:l1">fel</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Bleefdi op een, soe daedi <rhyme label="a" type="f" corresp="#s3:l1">wel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">U baraet dat es te <rhyme label="a" type="f">staerc</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Hen die dienen in uwe <rhyme label="a" type="f" corresp="#s4:l1">paerc</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ende altoe setten hare <rhyme label="a" type="f" corresp="#s4:l1">ghemarc</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Om te voldoene uus willen <rhyme label="a" type="f" corresp="#s4:l1">warc</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghi versouft wise ende <rhyme label="a" type="f">vroede</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ende settse in menechfoldeghen <rhyme label="a" type="f" corresp="#s5:l1">moede</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Alsi meest scinen buten <rhyme label="a" type="f" corresp="#s5:l1">spoede</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ghefdi hen uwe ghiften sonder <rhyme label="a" type="f" corresp="#s5:l1">hoede</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ghi sijt scalc ende <rhyme label="a" type="f">goedertieren</rhyme>;</l>
+        <l id="s6:l2" met="4" type="-+">Saecht alse een lam, ende <rhyme label="a" type="f" corresp="#s6:l1">onghehiere</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Alse onghetemde welde <rhyme label="a" type="f" corresp="#s6:l1">diere</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">In die woustine, sonder <rhyme label="a" type="f" corresp="#s6:l1">maniere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

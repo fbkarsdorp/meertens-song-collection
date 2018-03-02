@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34390</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Cecilia</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">PHilis wilt my raeden,, t'Pintien te <rhyme label="a" type="f">versmaeden</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">En niet te aenbidden dan haer <rhyme label="b" type="m">schoonicheyt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">My dunckt dese reden is niet wel <rhyme label="b" type="m" corresp="#s1:l2">beleyt</rhyme></l>
+        <l id="s1:l4" met="6" type="+-">Want ver' van mijn pijp ben ick vol <rhyme label="b" type="m" corresp="#s1:l2">swaericheyt</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Sy is meer te prijsen,, Want haer vlam can my <rhyme label="c" type="f">spijsen</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Daerom wil ick leven,, Met haer in deught en <rhyme label="d" type="m">eer</rhyme>,</l>
+        <l id="s1:l7" met="6" type="+-">Philis wilt vergeven,, Soo ick haer min wat <rhyme label="d" type="m" corresp="#s1:l6">meer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Soo ick stel mijn sinnen,, Om u schoont' te <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s2:l2" met="6" type="+-">Ick sien dat ick sekers naer het dul-huys  <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s2:l3" met="6" type="+-">Uwe soete treecken hebben nu <rhyme label="b" type="m" corresp="#s2:l2">ghedaen</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Bacchus sal ghedurich in mijn reden <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">k'Wil u niet becroone,, Oft dat ghy zijt de <rhyme label="c" type="f">schoone</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Want ver' van mijn pijpen,, Ghy my t'hert <rhyme label="d" type="m">ontstelt</rhyme>.</l>
+        <l id="s2:l7" met="6" type="+-">k'Sal de pint dan grijpen,, Soo blijf ick <rhyme label="d" type="m" corresp="#s2:l6">ongequelt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Ick neem van te vieren,, Bacchi wijn en <rhyme label="a" type="f">bieren</rhyme>,</l>
+        <l id="s3:l2" met="6" type="+-">Daermen af een rooden neus vol puysten <rhyme label="b" type="m">crijght</rhyme>;</l>
+        <l id="s3:l3" met="6" type="+-">Philis laet my rusten k'bid u dat ghy <rhyme label="b" type="m" corresp="#s3:l2">swijght</rhyme>,</l>
+        <l id="s3:l4" met="6" type="+-">Want in plaets van liefde t'hert na toebac <rhyme label="b" type="m" corresp="#s3:l2">neyght</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Adiu dan schoon Besie,, Ick gaen naer mijn <rhyme label="c" type="f">Collegie</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">By ons regulieren,, Naer t'Vosken wildy <rhyme label="d" type="m">me</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">Daer wy altijt swieren,, En leven inden <rhyme label="d" type="m" corresp="#s3:l6">vre</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

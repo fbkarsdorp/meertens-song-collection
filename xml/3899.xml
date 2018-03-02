@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3899</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>three-kings song</tag>
+    </tags>
+    <melody>Van de timmerman</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEt quamen drie coninghen <rhyme label="a" type="f">ghereden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wel verre wt orienten <rhyme label="b" type="m">lant</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Tot Bethleem der <rhyme label="a" type="f" corresp="#s1:l1">steden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Haers ghelijc men noyt en <rhyme label="b" type="m" corresp="#s1:l2">vant</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Te Ierusalem so wij <rhyme label="a" type="f">horen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Aldaer so wouden si <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Si vraechden waer is hi <rhyme label="a" type="f" corresp="#s2:l1">gheboren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Der ioden coninc <rhyme label="b" type="m" corresp="#s2:l2">fijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wij comen hem <rhyme label="a" type="f">aenbeden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wij hebben sijn sterre <rhyme label="b" type="m">ghesien</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Het is seer corts <rhyme label="a" type="f" corresp="#s3:l1">gheleden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Het moet wonder <rhyme label="b" type="m" corresp="#s3:l2">bedien</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Als Herodes dat <rhyme label="a" type="f">verhoorde</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wel seere ontsach hi <rhyme label="b" type="m">hem</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Van binnen hi hem <rhyme label="a" type="f" corresp="#s4:l1">verstoorde</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende alle <rhyme label="b" type="m" corresp="#s4:l2">Hierusalem</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hi beual hen te <rhyme label="a" type="f">gane</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Hi sprack gaet soect dat <rhyme label="b" type="m">kint</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Ick wilt oock beden <rhyme label="a" type="f" corresp="#s5:l1">ane</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Coemt segt mi als ghijt <rhyme label="b" type="m" corresp="#s5:l2">vint</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Als si buten Ierusalem <rhyme label="a" type="f">quamen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Op dyen seluen <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Haer sterre si weder <rhyme label="a" type="f" corresp="#s6:l1">vernamen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dies waren sij seer <rhyme label="b" type="m" corresp="#s6:l2">verblijt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Die sterre was hen voer <rhyme label="a" type="f">gaende</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Tot daer dat kindeken <rhyme label="b" type="m">was</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Ende daer bleef si <rhyme label="a" type="f" corresp="#s7:l1">staende</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Sij buychden neder int <rhyme label="b" type="m" corresp="#s7:l2">gras</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Een huysken sonder <rhyme label="a" type="f">doren</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Dat vonden sij daer <rhyme label="b" type="m">bi</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Ende dat kindeken <rhyme label="a" type="f" corresp="#s8:l1">gheboren</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Van Maria die maghet <rhyme label="b" type="m" corresp="#s8:l2">vry</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Sij vielen opter <rhyme label="a" type="f">eerden</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Voer tkindeken. xiij. dagen <rhyme label="b" type="m">out</rhyme></l>
+        <l id="s9:l3" met="3" type="-+">Sij offerden hem met <rhyme label="a" type="f" corresp="#s9:l1">weerden</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Wierooc / myrre / en <rhyme label="b" type="m" corresp="#s9:l2">gout</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Snachts als si slapen <rhyme label="a" type="f">wouden</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Heeft hen Gods engel <rhyme label="b" type="m">gheopenbaert</rhyme></l>
+        <l id="s10:l3" met="3" type="-+">Eenen anderen wech dat sij trecken <rhyme label="a" type="f" corresp="#s10:l1">souden</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Tot haren lande <rhyme label="b" type="m" corresp="#s10:l2">waert</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Nu louen wij <rhyme label="a" type="f">alteenen</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Dat kindeken <rhyme label="b" type="m">weerdelijck</rhyme></l>
+        <l id="s11:l3" met="3" type="-+">Dat hi ons wil <rhyme label="a" type="f" corresp="#s11:l1">verleenen</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Hier nae sijn eewich <rhyme label="b" type="m" corresp="#s11:l2">rijck</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

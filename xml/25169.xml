@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25169</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Rijt ader gayt eman gevangin ader <rhyme label="a" type="f">gebundin</rhyme>.</l>
+        <l id="s1:l2" met="6" type="-+">dreyt eman ganzen lip mit hundert dusint <rhyme label="a" type="f" corresp="#s1:l1">wndin</rhyme>.</l>
+        <l id="s1:l3" met="7" type="-+">Ist eman levindich unt doch doyt hayt eman dat <rhyme label="a" type="f" corresp="#s1:l1">befundin</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">Ja das gesziet van eyme unbeszeidine <rhyme label="b" type="f">wibe</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">wa sich eyn eren gerinder man zuo der gesellit <rhyme label="c" type="m">hait</rhyme>.</l>
+        <l id="s1:l6" met="6" type="-+">der is gavangin unde gebundin des is keyn <rhyme label="c" type="m" corresp="#s1:l5">rayt</rhyme>.</l>
+        <l id="s1:l7" met="6" type="-+">und is uoch wnt an sele und an deme <rhyme label="b" type="f" corresp="#s1:l4">libe</rhyme>.</l>
+        <l id="s1:l8" met="7" type="-+">Aver eyn selich man mach sich wol vreuwin <rhyme label="d" type="m">ummere</rhyme>.</l>
+        <l id="s1:l9" met="7" type="-+">deme got hait gegevin eyn reyne bierve wip zuo der <rhyme label="d" type="m" corresp="#s1:l8">e</rhyme></l>
+        <l id="s1:l10" met="8" type="-+">wan ir guotte und ir dugint lies yme geszien nemer keyn <rhyme label="d" type="m" corresp="#s1:l8">we</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

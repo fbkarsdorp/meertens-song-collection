@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>29448</id>
+    <date>
+      <year-start>1501</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <tags>
+      <tag>devout song</tag>
+      <tag>mystical song</tag>
+    </tags>
+    <melody>De oude Hillebrand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Mein hertz sol furher <rhyme label="a" type="f">bringen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">was de furgenomen <rhyme label="b" type="m">ist</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ich wethet nach den <rhyme label="a" type="f" corresp="#s1:l1">dingen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">die ietz in Jesu <rhyme label="b" type="m" corresp="#s1:l2">Christum</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">an seinem volck sich <rhyme label="c" type="f">zeygen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">wo sy bei ander <rhyme label="d" type="m">sein</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">begunde sich [...] hertze zu <rhyme label="c" type="f" corresp="#s1:l5">neigen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">vnd wolt sey scheu <rhyme label="d" type="m" corresp="#s1:l6">sein</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

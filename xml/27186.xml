@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27186</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Met gans bedrukt hart</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Qualick lieff kan ick v <rhyme label="a" type="f">houwen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Voor loyael in deese <rhyme label="b" type="m">scyn</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Want ick heb so cleen <rhyme label="a" type="f" corresp="#s1:l1">vertrouwen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Op v liefde teegens <rhyme label="b" type="m" corresp="#s1:l2">myn</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Sorch door <rhyme label="c" type="f">aenmercken</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Dat ghy nyders <rhyme label="c" type="f" corresp="#s1:l5">wercken</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Te veel ghelove <rhyme label="d" type="m">gheeft</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Die my <rhyme label="e" type="f">ontstercken</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Al hier in dese <rhyme label="e" type="f" corresp="#s1:l8">percken</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Waer door myn jonckheit <rhyme label="d" type="m" corresp="#s1:l7">beeft</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">H]oe sow my thert niet <rhyme label="a" type="f">breecken</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Want ghy meer tgheloue <rhyme label="b" type="m">gheeft</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Nyders clap en quaet <rhyme label="a" type="f" corresp="#s2:l1">spreeken</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Dan my die v bemint <rhyme label="b" type="m" corresp="#s2:l2">heeft</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">In deucht en <rhyme label="c" type="f">eeren</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Gaet ghy nu <rhyme label="c" type="f" corresp="#s2:l5">separreren</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">En kiest voor hem een <rhyme label="d" type="m">aer</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Wat kan ickt <rhyme label="e" type="f">keeren</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Ick soudt v wel <rhyme label="e" type="f" corresp="#s2:l8">begeren</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Begerde ghy my <rhyme label="d" type="m" corresp="#s2:l7">maer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Soo niet sowd ick moetten <rhyme label="a" type="f">nemen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Passgensy voor dese <rhyme label="b" type="m">tyt</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Nochtans sal ick niet <rhyme label="a" type="f" corresp="#s3:l1">verureemen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Van u lieff al so <rhyme label="b" type="m" corresp="#s3:l2">subyt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Maer ick wil <rhyme label="c" type="f">leuen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Op hoop dat ghy sult <rhyme label="c" type="f" corresp="#s3:l5">gheven</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Eens troost voor dit <rhyme label="d" type="m">verdriet</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">O lieff <rhyme label="e" type="f">verheuen</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Soo sal ick u aen <rhyme label="e" type="f" corresp="#s3:l8">cleven</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">En oock verlaten <rhyme label="d" type="m" corresp="#s3:l7">niet</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Prinsesse sal ick moeten <rhyme label="a" type="f">scheyden</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Van u al in dese <rhyme label="b" type="m">tyt</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Ick had liever u wat lang te <rhyme label="a" type="f" corresp="#s4:l1">beyden</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Dan van u te syn <rhyme label="b" type="m" corresp="#s4:l2">ontseyt</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Eer ick wou <rhyme label="c" type="f">deruen</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Dat een ander sou <rhyme label="c" type="f" corresp="#s4:l5">erven</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Al tot zynen <rhyme label="d" type="m">geval</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Och voor ick <rhyme label="e" type="f">sterue</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Hoop ick u te <rhyme label="e" type="f" corresp="#s4:l8">verwerven</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Hier in het aersche <rhyme label="d" type="m" corresp="#s4:l7">dal</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

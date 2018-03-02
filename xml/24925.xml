@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24925</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>virelai ballad</tag>
+    </tags>
+    <melody>Op mijn eed mijn hart gaar</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Up minen heit mijn hertzen <rhyme label="a" type="m">gaer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ich moet dijn eighin zijn <rhyme label="b" type="m">allein</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Al haddich wensch na willen <rhyme label="a" type="m" corresp="#s1:l1">tzwaer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Mijn hertze en core ooc anders <rhyme label="b" type="m" corresp="#s1:l2">ghein</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Das dar dijn tzwifel wesen <rhyme label="b" type="m" corresp="#s1:l2">clein</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Das ich en creech so lief nie <rhyme label="b" type="m" corresp="#s1:l2">ein</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">En das sal bliven <rhyme label="c" type="m">emmermeer</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Vor al dat leift so bem ich <rhyme label="d" type="m">dijn</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Bistu dan niet met trouwen <rhyme label="d" type="m" corresp="#s1:l8">mijn</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Dat doet mir hertzen al tze <rhyme label="c" type="m" corresp="#s1:l7">zeer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Bistu mir stede vrouwe <rhyme label="a" type="m">rein</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So drijf van mir den tzwifel <rhyme label="b" type="m">vaer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Woltu mit mir niet sijn <rhyme label="a" type="m" corresp="#s2:l1">ghemein</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Sone tooch mir nummer lief <rhyme label="b" type="m" corresp="#s2:l2">ghebaer</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Het wer tze liden mir tze <rhyme label="b" type="m" corresp="#s2:l2">zwaer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Soldich di dienen al mijn <rhyme label="b" type="m" corresp="#s2:l2">jaer</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">En dir dan liefde een ander <rhyme label="c" type="m">meer</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Vor al dat leift so bem ich <rhyme label="d" type="m">dijn</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Bistu dan niet met trouwen <rhyme label="d" type="m" corresp="#s2:l8">mijn</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Dat doet mir hertzen al tze <rhyme label="c" type="m" corresp="#s2:l7">zeer</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tooch mir dijn meinen nicht en <rhyme label="a" type="m">spaer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">De waerheit dats mijn <rhyme label="b" type="m">souverhein</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Bestu mir hald so lief een <rhyme label="a" type="m" corresp="#s3:l1">paer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Als du ende ich nie zonne <rhyme label="b" type="m" corresp="#s3:l2">besceyn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">So waer ghedaen mijn tzwifel <rhyme label="b" type="m" corresp="#s3:l2">wein</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Sone zanc so vroilic man nie <rhyme label="b" type="m" corresp="#s3:l2">ghein</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ach vrau nu mir das prouven <rhyme label="c" type="m">leer</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Vor al dat leift so bem ich <rhyme label="d" type="m">dijn</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Bistu dan niet met trouwen <rhyme label="d" type="m" corresp="#s3:l8">mijn</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Dat doet mir hertzen al tze <rhyme label="c" type="m" corresp="#s3:l7">zeer</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

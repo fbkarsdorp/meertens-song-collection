@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24294</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1575</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Chamber of rhetoric's song</tag>
+      <tag>spiritual song</tag>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Des eertschen rijckdoms <rhyme label="a" type="f">voncke</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En is noch niet <rhyme label="b" type="m">geblust</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Mids den begheerlicken <rhyme label="b" type="m" corresp="#s1:l2">lust</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hy maect elcken <rhyme label="a" type="f" corresp="#s1:l1">droncke</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">En als een zee <rhyme label="b" type="m" corresp="#s1:l2">ontrust</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die gheen tijt wert <rhyme label="b" type="m" corresp="#s1:l2">ghesust</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Den sin eenparich <rhyme label="c" type="m">draeft</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Om te sijne <rhyme label="c" type="m" corresp="#s1:l7">ghelaeft</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Van Mammons dranck hoogelick <rhyme label="d" type="f">wtuercoren</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Al wert hy wat <rhyme label="c" type="m" corresp="#s1:l7">beghaeft</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Die becommert <rhyme label="c" type="m" corresp="#s1:l7">slaeft</rhyme></l>
+        <l id="s1:l12" met="6" type="-+">En dickwils is versaeft// moet druck int thert <rhyme label="d" type="f" corresp="#s1:l9">oorboren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vrolicker in <rhyme label="a" type="f">solase</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Daerme van gheeste <rhyme label="b" type="m">leeft</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dan die veel rijcdoms <rhyme label="b" type="m" corresp="#s2:l2">heeft</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die alsulcken <rhyme label="a" type="f" corresp="#s2:l1">ase</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En der begheerten <rhyme label="b" type="m" corresp="#s2:l2">aencleeft</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Onrust in therte <rhyme label="b" type="m" corresp="#s2:l2">weeft</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Tis een Amoreus <rhyme label="c" type="m">sindael</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Deurwreuen met <rhyme label="c" type="m" corresp="#s2:l7">regael</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Hierom is den rijcdom by doornen <rhyme label="d" type="f">gheleken</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Met haren scherpen <rhyme label="c" type="m" corresp="#s2:l7">strael</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Verhert als tsijne <rhyme label="c" type="m" corresp="#s2:l7">stael</rhyme></l>
+        <l id="s2:l12" met="6" type="-+">Wordt het herte principael// gewont een <rhyme label="d" type="f" corresp="#s2:l9">deursteken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Tis den aert des <rhyme label="a" type="f">rijcken</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat hy naer hoocheyt <rhyme label="b" type="m">speurt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Daermet altijt <rhyme label="b" type="m" corresp="#s3:l2">bekeurt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Alexander doet <rhyme label="a" type="f" corresp="#s3:l1">blijcken</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Sijnen appetijt noch <rhyme label="b" type="m" corresp="#s3:l2">gheurt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Die menich hert <rhyme label="b" type="m" corresp="#s3:l2">bemeurt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Balaam d'oncruyt <rhyme label="c" type="m">saeyt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Dwelck Achior <rhyme label="c" type="m" corresp="#s3:l7">bespraeyt</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Den rijckdom can galle voor honich <rhyme label="d" type="f">schincken</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Des armen gheest sedich <rhyme label="c" type="m" corresp="#s3:l7">laeyt</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">En is beter <rhyme label="c" type="m" corresp="#s3:l7">ghepaeyt</rhyme></l>
+        <l id="s3:l12" met="6" type="-+">Dan des rijcken sin verdraeyt// die den gheest doet <rhyme label="d" type="f" corresp="#s3:l9">mincken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Aspidis <rhyme label="a" type="f">quetseure</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met dorste <rhyme label="b" type="m">inflammeert</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Die gheenen dranck <rhyme label="b" type="m" corresp="#s4:l2">restringeert</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dits oock srijckdoms <rhyme label="a" type="f" corresp="#s4:l1">nateure</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Antiochus <rhyme label="b" type="m" corresp="#s4:l2">spolieert</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Jason <rhyme label="b" type="m" corresp="#s4:l2">pericliteert</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Atalia volcht den <rhyme label="c" type="m">graet</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Van Abimelechs <rhyme label="c" type="m" corresp="#s4:l7">quaet</rhyme></l>
+        <l id="s4:l9" met="4" type="-+">Goet schat en hoocheyt hebben dit al <rhyme label="d" type="f">gebrouwen</rhyme></l>
+        <l id="s4:l10" met="3" type="-+">Cayphas boosen <rhyme label="c" type="m" corresp="#s4:l7">raet</rhyme></l>
+        <l id="s4:l11" met="3" type="+-">En Herode wreede <rhyme label="c" type="m" corresp="#s4:l7">daet</rhyme></l>
+        <l id="s4:l12" met="6" type="-+">Houden tvrolick ghelaet// int herte <rhyme label="d" type="f" corresp="#s4:l9">verdouwen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Begheerte der <rhyme label="a" type="f">ooghen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Doet verdwijnen die <rhyme label="b" type="m">ieucht</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Sy verslaet tsherten <rhyme label="b" type="m" corresp="#s5:l2">vreucht</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Tghebeente moet <rhyme label="a" type="f" corresp="#s5:l1">verdrooghen</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Tswaer bloet en doet gheen <rhyme label="b" type="m" corresp="#s5:l2">deucht</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Vrolicheyt den gheest <rhyme label="b" type="m" corresp="#s5:l2">verheucht</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Wt den vreedtsamen <rhyme label="c" type="m">keest</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Groeyt des armen <rhyme label="c" type="m" corresp="#s5:l7">gheest</rhyme></l>
+        <l id="s5:l9" met="4" type="-+">Die doet sijnen sin vrolicken <rhyme label="d" type="f">verstijuen</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Sijn hert lijdt gheen <rhyme label="c" type="m" corresp="#s5:l7">tempeest</rhyme></l>
+        <l id="s5:l11" met="3" type="+-">Aen tgoet hy treckt noch <rhyme label="c" type="m" corresp="#s5:l7">teest</rhyme></l>
+        <l id="s5:l12" met="6" type="-+">Dit doet den armen meest// in vreuchden <rhyme label="d" type="f" corresp="#s5:l9">beclijuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

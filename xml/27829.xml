@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27829</id>
+    <date>
+      <year-start>1581</year-start>
+      <year-end>1581</year-end>
+    </date>
+    <tags>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Slaet op den Trommele van <rhyme label="a" type="f">dirredomdeinne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Slaet op den Trommele van <rhyme label="b" type="m">dirredomdoes</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Slaet op den Trommele van <rhyme label="a" type="f" corresp="#s1:l1">dirredomdeine</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Vive le Geus, is nu de <rhyme label="b" type="m" corresp="#s1:l2">Loes</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De Spaensche pocken,, licht als sneeuw <rhyme label="a" type="f">vlocken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">De Spaensche pocken,, loos ende <rhyme label="b" type="m">boos</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">De Spaensche pocken,, onder sPaus <rhyme label="a" type="f" corresp="#s2:l1">rocken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">De Spaensche pocken,, groeyen <rhyme label="b" type="m" corresp="#s2:l2">altoos</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Spaensche Inquisitie,, voor Godt <rhyme label="a" type="f">malitie</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">De Spaensche Inquisitie,, als Draecx bloet <rhyme label="b" type="m">fel</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">De Spaensche Inquisitie,, ghevoelt <rhyme label="a" type="f" corresp="#s3:l1">punitie</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">De Spaensche Inquisitie,, ontvalt haer <rhyme label="b" type="m" corresp="#s3:l2">spel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Vive le Geus, wilt Christelick <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Vive le Geus, houdt fraye <rhyme label="b" type="m">moet</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Vive le Geus, Godt behoed u voor <rhyme label="a" type="f" corresp="#s4:l1">sneven</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Vive le Geus, edel Christen <rhyme label="b" type="m" corresp="#s4:l2">bloet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De Paus en Papisten, Godts handt doet <rhyme label="a" type="f">beven</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">De Paus en Papisten, zijn teynden haer <rhyme label="b" type="m">raet</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">De Paus en Papisten, wreet boven <rhyme label="a" type="f" corresp="#s5:l1">schreven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ghij Paus en Papisten, soect nu <rhyme label="b" type="m" corresp="#s5:l2">Oflaet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Oflaet in tijts noch,, Godts woort te <rhyme label="a" type="f">krencken</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Oflaet in tijdts noch,, u godtloos <rhyme label="b" type="m">spel</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Oflaet in tijts, och,, wilt u <rhyme label="a" type="f" corresp="#s6:l1">bedencken</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Oflaet in tijts, en valt Godt niet <rhyme label="b" type="m" corresp="#s6:l2">rebel</rhyme>.:</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Tswaert is getrocken, certeyn Gods wraec,, <rhyme label="a" type="f">naect</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Tswaert is ghetrocken, daer Joannes aff <rhyme label="b" type="m">schrijft</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Tswaert is getrocken, dat Apocalipsis maect,, <rhyme label="a" type="f" corresp="#s7:l1">naect</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Tswaert is ghetrocken, ghy wert nu <rhyme label="b" type="m" corresp="#s7:l2">ontlijft</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Tonschuldich bloet, dat ghy hebt <rhyme label="a" type="f">verghoten</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Tonschuldich bloet, roept over u <rhyme label="b" type="m">wraeck</rhyme>:</l>
+        <l id="s8:l3" met="4" type="-+">Tonschuldich bloet te storten heeft u niet <rhyme label="a" type="f" corresp="#s8:l1">verdrooten</rhyme>.</l>
+        <l id="s8:l4" met="4" type="-+">Tonschuldich bloet dat dronct ghy met den <rhyme label="b" type="m" corresp="#s8:l2">Draeck</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">U Vleyschen arm, daer ghy op <rhyme label="a" type="f">betroude</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">U vleyschen arm, beswijckt u <rhyme label="b" type="m">nu</rhyme>:</l>
+        <l id="s9:l3" met="4" type="-+">U vleyschen arm, die u huys <rhyme label="a" type="f" corresp="#s9:l1">boude</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">U vleyschen arm, wijckt van u <rhyme label="b" type="m" corresp="#s9:l2">schou</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Princen, der Princelijcker Geusen <rhyme label="a" type="f">Prince</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Princelick met u Gheest haer doch <rhyme label="b" type="m">regeert</rhyme>:</l>
+        <l id="s10:l3" met="4" type="-+">Princelick drijvense u Eer, aldus <rhyme label="a" type="f" corresp="#s10:l1">bemintse</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Princelick wert u Rijck alsdan <rhyme label="b" type="m" corresp="#s10:l2">vermeert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

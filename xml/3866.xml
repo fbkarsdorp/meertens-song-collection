@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3866</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>mystical song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>O Venus' band o vurige brand</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Iesus bant / o vierich <rhyme label="a" type="m">brant</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Hoe vast houdi mi in v <rhyme label="a" type="m" corresp="#s1:l1">bedwanc</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ghi sijt al mijn <rhyme label="b" type="f">meenen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Ten dede v troostelic <rhyme label="a" type="m" corresp="#s1:l1">onderstant</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Nemmermeer en leedic dit nauwe <rhyme label="a" type="m" corresp="#s1:l1">bedwanc</rhyme></l>
+        <l id="s1:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l3">alteenen</rhyme>.</l>
+        <l id="s1:l7" met="5" type="+-">O heer wilt mi troost verleenen ende <rhyme label="b" type="f" corresp="#s1:l3">verleenen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O roose gaert o minlijc <rhyme label="a" type="m">aert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ghi zijt alleen mijn <rhyme label="a" type="m" corresp="#s2:l1">toeuerlaet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">V wil ick en anders <rhyme label="b" type="f">gheene</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ghi sijt mijn troost mijn <rhyme label="a" type="m" corresp="#s2:l1">toeuerlaet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ghi weet wel dat sorgelijck met mi <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme></l>
+        <l id="s2:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">Alteenen</rhyme></l>
+        <l id="s2:l7" met="5" type="+-">O heer wilt mi troost <rhyme label="b" type="f" corresp="#s2:l3">verleenen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Der werelt raet is dicwils <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ic bid v dat ghijt <rhyme label="a" type="m" corresp="#s3:l1">verstaet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Altijt brengt si druc en <rhyme label="b" type="f">weenen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Nu mogende God moet ymmer <rhyme label="a" type="m" corresp="#s3:l1">sijn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Soe sette ict inden wille <rhyme label="a" type="m" corresp="#s3:l1">dijn</rhyme></l>
+        <l id="s3:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">Alteenen</rhyme></l>
+        <l id="s3:l7" met="5" type="+-">O God wilt mi troost <rhyme label="b" type="f" corresp="#s3:l3">verleenen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O vrient int schijn / en is niet te <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Hoe wee doet ghi dat herte <rhyme label="a" type="m" corresp="#s4:l1">mijn</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Het doet mi dickwils <rhyme label="b" type="f">weenen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Het doet mijn herte seer grote <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Het is al bedroch en valsch <rhyme label="a" type="m" corresp="#s4:l1">fenijn</rhyme></l>
+        <l id="s4:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l3">Alteenen</rhyme></l>
+        <l id="s4:l7" met="5" type="+-">O God wilt y troost <rhyme label="b" type="f" corresp="#s4:l3">verleenen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die swane singt / wanneer haer <rhyme label="a" type="m">dwingt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die doot diet al te niete <rhyme label="a" type="m" corresp="#s5:l1">bringt</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Dus volge ick haer <rhyme label="b" type="f">ghemeene</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Al is bedruct dat herte <rhyme label="a" type="m" corresp="#s5:l1">mijn</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Nochtans thoon ic een bly <rhyme label="a" type="m" corresp="#s5:l1">aenschijn</rhyme></l>
+        <l id="s5:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l3">Alteenen</rhyme></l>
+        <l id="s5:l7" met="5" type="+-">O God wilt mi troost <rhyme label="b" type="f" corresp="#s5:l3">verleenen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38690</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+      <tag>secular song</tag>
+      <tag>narrative song</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody>Un jour la plus aimable dame</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ghy geyle flincken loecht van <rhyme label="a" type="f">sinnen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Soo onbedacht in uwe <rhyme label="b" type="m">jeucht</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Lock-vincken tot het spel der <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat seecker toch niet veel en <rhyme label="b" type="m" corresp="#s1:l2">deucht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Hoe sal u vreucht ten lesten <rhyme label="c" type="f">enden</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">In groot verdriet, in swaer <rhyme label="c" type="f" corresp="#s1:l5">ellenden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Ghy simpel duyven sonder <rhyme label="d" type="m">gal</rhyme>?</l>
+        <l id="s1:l8" met="4" type="-+">Hoort eens wat ick u seggen <rhyme label="d" type="m" corresp="#s1:l7">sal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'Tis maer een maent oft twee <rhyme label="a" type="f">gheleden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat seecker Jouffrou aen haer <rhyme label="b" type="m">deur</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wiert van een Jonckheer seer <rhyme label="a" type="f" corresp="#s2:l1">ghebeden</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Om gonst van gratie en <rhyme label="b" type="m" corresp="#s2:l2">faveur</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">En siet door dit seer listigh <rhyme label="c" type="f">locken</rhyme>?</l>
+        <l id="s2:l6" met="4" type="-+">Heeft hy haer soo in 't net <rhyme label="c" type="f" corresp="#s2:l5">ghetrocken</rhyme>?</l>
+        <l id="s2:l7" met="4" type="-+">Dat zy noyt nacht een oogh en <rhyme label="d" type="m">sliep</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Sy gonck hem naer waer dat hy <rhyme label="d" type="m" corresp="#s2:l7">liep</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als hy dit meysken had <rhyme label="a" type="f">bedroghen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En steken wou sijn schuyt van <rhyme label="b" type="m">kant</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Is sy hem om den hals <rhyme label="a" type="f" corresp="#s3:l1">ghevloghen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En heeft gheroepen moort en <rhyme label="b" type="m" corresp="#s3:l2">brandt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Dit hoorden allen de <rhyme label="c" type="f">ghebueren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dies saghen dese dwase <rhyme label="c" type="f" corresp="#s3:l5">kueren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Van dese vuyl en stoute <rhyme label="d" type="m">bruydt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">En lachten 't suyver staeltjen <rhyme label="d" type="m" corresp="#s3:l7">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O meyskens hout u perten <rhyme label="a" type="f">binnen</rhyme>!</l>
+        <l id="s4:l2" met="4" type="-+">En spieghelt u aen dit <rhyme label="b" type="m">fatzoen</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Bedwinght u ooghen ende <rhyme label="a" type="f" corresp="#s4:l1">sinnen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">En wilt noyt sulcken kurkens <rhyme label="b" type="m" corresp="#s4:l2">doen</rhyme>?</l>
+        <l id="s4:l5" met="4" type="-+">Want die sijn hert eens laet <rhyme label="c" type="f">vervallen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Op't dertel jocken ende <rhyme label="c" type="f" corresp="#s4:l5">mallen</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Verr' buyten 'tspoor van echte <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Die proeft den na-smaeck van <rhyme label="d" type="m" corresp="#s4:l7">berouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24964</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>drinking song</tag>
+      <tag>new year song</tag>
+    </tags>
+    <melody>Laat ons de waard bedanken</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Laet ons den wert <rhyme label="a" type="f">bedanken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Der duecht die hi den gasten <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Al hadwi duzent <rhyme label="a" type="f" corresp="#s1:l1">vranken</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hi ne ghert van ons geen ander <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Dan dat wi maken frisschen <rhyme label="b" type="m" corresp="#s1:l2">moet</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">Wael <rhyme label="c" type="m">op</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">Wael <rhyme label="c" type="m" corresp="#s1:l6">op</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">So sinc wir <rhyme label="c" type="m" corresp="#s1:l6">jo</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Met vruechden <rhyme label="c" type="m" corresp="#s1:l6">ho</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">God gheve den wert dat hi <rhyme label="d" type="m">beghert</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Die aldus blidelijch <rhyme label="d" type="m" corresp="#s1:l10">ghebert</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Ich wenschem tallen vruechden <rhyme label="b" type="m" corresp="#s1:l2">spoet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gave ons God alle <rhyme label="a" type="f">morghen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dus goeden wert dus goeden <rhyme label="b" type="m">wijn</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">So ne woldic nummer <rhyme label="a" type="f" corresp="#s2:l1">zorghen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Want mir betuucht die hertze <rhyme label="b" type="m" corresp="#s2:l2">mijn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Nicht vor waeldoen ende vroilic <rhyme label="b" type="m" corresp="#s2:l2">sijn</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">Wael <rhyme label="c" type="m">op</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">Wael <rhyme label="c" type="m" corresp="#s2:l6">op</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">So sinc wir <rhyme label="c" type="m" corresp="#s2:l6">jo</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Met vruechden <rhyme label="c" type="m" corresp="#s2:l6">ho</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">God gheve den wert een vroilic <rhyme label="d" type="m">jaer</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Hi toocht so vruechdenrijch <rhyme label="d" type="m" corresp="#s2:l10">ghebaer</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">Ich wenschem heil vor alle <rhyme label="b" type="m" corresp="#s2:l2">pijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Nu scinc ons van den <rhyme label="a" type="f">wine</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ende ghef den wert gheluc ende <rhyme label="b" type="m">heil</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">God gheve der vrauwen <rhyme label="a" type="f" corresp="#s3:l1">zine</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Een vroilic jaer dat is huer <rhyme label="b" type="m" corresp="#s3:l2">deil</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Wi hebben hier gheweist so <rhyme label="b" type="m" corresp="#s3:l2">veil</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">Wael <rhyme label="c" type="m">op</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">Wael <rhyme label="c" type="m" corresp="#s3:l6">op</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Nu sinc wir <rhyme label="c" type="m" corresp="#s3:l6">jo</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Met vruechden <rhyme label="c" type="m" corresp="#s3:l6">ho</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Den wert waer quaet onrecht <rhyme label="d" type="m">ghedaen</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Die dus sijn gasten can <rhyme label="d" type="m" corresp="#s3:l10">ontfaen</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Ich weinschem heil met vruechden <rhyme label="b" type="m" corresp="#s3:l2">geil</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4050</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>admonishing song</tag>
+    </tags>
+    <melody>Och lig dij nu en slaapt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">BEreyt v huys ter <rhyme label="a" type="m">stont</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Niet langhe en moechdy <rhyme label="b" type="f">leuen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Al sidy nu <rhyme label="a" type="m" corresp="#s1:l1">ghesont</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Schoonheyt sal v <rhyme label="b" type="f" corresp="#s1:l2">begheuen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Al sidy schoon oft <rhyme label="c" type="m">rijck</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ten mach v niet langhe <rhyme label="d" type="f">dueren</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s1:l5">wanckelijck</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s1:l6">creatueren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Alst Gof den heere <rhyme label="a" type="m">belieft</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">So moeten wij van hier <rhyme label="b" type="f">sceyden</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">En sidy dan niet <rhyme label="a" type="m" corresp="#s2:l1">bereet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Men sal niet na v <rhyme label="b" type="f" corresp="#s2:l2">beyden</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Het is hier eenen corten <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Onseker is die <rhyme label="d" type="f">vre</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s2:l5">wanckelijck</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s2:l6">creatueren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Leest ende wilt <rhyme label="a" type="m">verstaen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ghi sullet vinden <rhyme label="b" type="f">bescreuen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Gheringe sal hier <rhyme label="a" type="m" corresp="#s3:l1">vergaen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Den tijt van onsen <rhyme label="b" type="f" corresp="#s3:l2">leuen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Iolijt in deser <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Verkert gheringe in <rhyme label="d" type="f">trueren</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s3:l5">wanckelijck</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s3:l6">creatueren</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Edel / proper / schoon / oft <rhyme label="a" type="m">rijck</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Hoe moechdy v <rhyme label="b" type="f">verbliden</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Ghi sult doch <rhyme label="a" type="m" corresp="#s4:l1">sekerlijck</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Tot sijnder eeren <rhyme label="b" type="f" corresp="#s4:l2">ghediden</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Dachte ghi dit hier <rhyme label="c" type="m">altijt</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Het wert soet dat nu is <rhyme label="d" type="f">suere</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s4:l5">wanckelijck</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s4:l6">creatueren</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Nu bid ick v reyne <rhyme label="a" type="m">maecht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Gods moeder <rhyme label="b" type="f">wtuercoren</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Dat ghi van my <rhyme label="a" type="m" corresp="#s5:l1">veriaecht</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Des vyants quaet <rhyme label="b" type="f" corresp="#s5:l2">becoren</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ende weest mi <rhyme label="c" type="m">troostelijck</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">In mijnder laetster <rhyme label="d" type="f">vren</rhyme>.</l>
+        <l id="s5:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s5:l5">wanckelijck</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s5:l6">creatueren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Diet liedeken is <rhyme label="a" type="m">ghemaect</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Tot machelen in die <rhyme label="b" type="f">stede</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Die hinck aent cruyce <rhyme label="a" type="m" corresp="#s6:l1">naect</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Verleene ons allen <rhyme label="b" type="f" corresp="#s6:l2">vrede</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Hi was noch inden <rhyme label="c" type="m">strijt</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Ende blide van <rhyme label="d" type="f">naturen</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Hi staet seer <rhyme label="c" type="m" corresp="#s6:l5">wanckelijck</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Die rust op <rhyme label="d" type="f" corresp="#s6:l6">creatueren</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

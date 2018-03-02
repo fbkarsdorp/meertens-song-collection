@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4036</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>reflective song</tag>
+      <tag>spiritual song</tag>
+      <tag>devout song</tag>
+    </tags>
+    <melody>Pange lingua</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu laet ons allen vrolijck <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wi hebben Iesum self <rhyme label="b" type="m">ontfaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dat hemels broot is ons <rhyme label="c" type="f">ghegeuen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Der minnen scat is ons <rhyme label="b" type="m" corresp="#s1:l2">ontdaen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Laet ons die spise met minnen <rhyme label="d" type="f">begheren</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">So mogen wi haren smaeck <rhyme label="b" type="m" corresp="#s1:l2">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O edel spise / o soete <rhyme label="a" type="f">rate</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In v is alle <rhyme label="b" type="m">weeldicheyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Sij wetent wel die v <rhyme label="c" type="f">smaken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dat ghi die ouerste weelde <rhyme label="b" type="m" corresp="#s2:l2">sijt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Wilt ons versaden met v <rhyme label="d" type="f">seluen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Want ghi alleen ons trooster <rhyme label="b" type="m" corresp="#s2:l2">sijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verblidende sullen wij ons <rhyme label="a" type="f">verbliden</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Als ons den troost wort af <rhyme label="b" type="m">ghedaen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ende wi na die hemelsche sale <rhyme label="c" type="f">treden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ende ter hooger tafelen <rhyme label="b" type="m" corresp="#s3:l2">gaen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Daer salmen eewelijc <rhyme label="d" type="f">verbliden</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Des en sal gheen eynde <rhyme label="b" type="m" corresp="#s3:l2">sijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al dat der sielen mach <rhyme label="a" type="f">lusten</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sal daer sijn <rhyme label="b" type="m">volcomelijck</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Men sal daer eewelijck <rhyme label="c" type="f">rusten</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Bliscap ghebruycken <rhyme label="b" type="m" corresp="#s4:l2">vriendelijc</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Ende sijin daer in groter <rhyme label="d" type="f">vruecht</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Daer af en sal gheen eynde <rhyme label="b" type="m" corresp="#s4:l2">fijn</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Nu laet ons bidden den heere der <rhyme label="a" type="f">heeren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dat hi ons brenge int soete <rhyme label="b" type="m">lant</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Daer hem die engelen altijt <rhyme label="c" type="f">louen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Ende singen so soeten <rhyme label="b" type="m" corresp="#s5:l2">sanck</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Want ic dat so seer <rhyme label="d" type="f">beheere</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">O Iesu dat is v <rhyme label="b" type="m" corresp="#s5:l2">bekant</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174575</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+    </tags>
+    <melody>Verheug u maak jolijt</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Verheucht u maeckt <rhyme label="a" type="m">Jolijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">al door dees meijen <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">die des winters <rhyme label="b" type="m">gewelt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">verdryft mit al haer <rhyme label="c" type="m">macht</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">des waters vloet <rhyme label="a" type="m" corresp="#s1:l1">subijt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">hagel en snee dat <rhyme label="a" type="m" corresp="#s1:l1">slijt</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">voor de son heel <rhyme label="b" type="m" corresp="#s1:l3">versmelt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">den tijt die baert haer <rhyme label="c" type="m" corresp="#s1:l4">cracht</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">De blomkens <rhyme label="d" type="m">menigerleij</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">al op de drooge <rhyme label="d" type="m" corresp="#s1:l9">heij</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">bloeyen zomen <rhyme label="e" type="m">aenschout</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">die de winter zeer <rhyme label="e" type="m" corresp="#s1:l11">cout</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">hielt bedwongen Inde <rhyme label="d" type="m" corresp="#s1:l9">weij</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">maer t'loff nu schoon <rhyme label="e" type="m" corresp="#s1:l11">bedout</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Daer hoort men de <rhyme label="a" type="m">nachtegael</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">mit noch meenich vogels <rhyme label="a" type="m" corresp="#s2:l1">tael</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">verciert met pluijmen <rhyme label="b" type="m">schoon</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">elck zyn natuijr brengt <rhyme label="c" type="m">voort</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">des tortelduijffs <rhyme label="a" type="m" corresp="#s2:l1">verhael</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">den leeuwerick <rhyme label="a" type="m" corresp="#s2:l1">generael</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">singt mit vreuchden zijn <rhyme label="b" type="m" corresp="#s2:l3">toon</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">met loff zeer soet <rhyme label="c" type="m" corresp="#s2:l4">accoort</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Boven der snaren <rhyme label="d" type="m">geclanck</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">elck singt sijn schepper <rhyme label="d" type="m" corresp="#s2:l9">danck</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">geen schoonder dinck men <rhyme label="e" type="m">vint</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">elck dier zijn tyt <rhyme label="e" type="m" corresp="#s2:l11">bemint</rhyme></l>
+        <l id="s2:l13" met="3" type="-+">Dan den mensch van sinnenn <rhyme label="d" type="m" corresp="#s2:l9">cranck</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">wert dickmaels over <rhyme label="e" type="m" corresp="#s2:l11">zint</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Looft god den Prince <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">hij is den wynstock <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">door hem comt al <rhyme label="b" type="m">t'cieraet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">dat nu voor d'oogen <rhyme label="c" type="m">blyckt</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">hij ist die ons <rhyme label="a" type="m" corresp="#s3:l1">behoet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">en al dat leeft hij <rhyme label="a" type="m" corresp="#s3:l1">voet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">een getrouwe <rhyme label="b" type="m" corresp="#s3:l3">toeverlaet</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">dees mey nijet aff en <rhyme label="c" type="m" corresp="#s3:l4">wyckt</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Wilt hem doch <rhyme label="d" type="m">eerebien</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">want hem buijgen alle <rhyme label="d" type="m" corresp="#s3:l9">knijen</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">stiert pays voor een <rhyme label="e" type="m">present</rhyme></l>
+        <l id="s3:l12" met="3" type="-+">dat elck u cracht <rhyme label="e" type="m" corresp="#s3:l11">kent</rhyme></l>
+        <l id="s3:l13" met="3" type="-+">u woort heer laet <rhyme label="d" type="m" corresp="#s3:l9">geschien</rhyme></l>
+        <l id="s3:l14" met="3" type="-+">Door Lieffd' es <rhyme label="e" type="m" corresp="#s3:l11">t'Fondament</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25186</id>
+    <date>
+      <year-start>1351</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>praise</tag>
+      <tag>secular song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wif was ie der hoiste <rhyme label="a" type="f">name</rhyme>.</l>
+        <l id="s1:l2" met="7" type="+-">inde prisit bas dan vrauwe. als ich it <rhyme label="b" type="f">erkenne</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">welich wif sich ir wifheit <rhyme label="a" type="f" corresp="#s1:l1">szame</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">die hore minen sanc. inde mirke <rhyme label="b" type="f" corresp="#s1:l2">denne</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">under vrauwen sint <rhyme label="c" type="m">unwijf</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">under wiven sint si <rhyme label="d" type="f">duore</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">wives name unde wives <rhyme label="c" type="m" corresp="#s1:l5">lijf</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">dat is vil <rhyme label="d" type="f" corresp="#s1:l6">gehuore</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">wie it umbe allen <rhyme label="e" type="f">vare</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">wip nimpt des hoesten lovis <rhyme label="e" type="f" corresp="#s1:l9">ware</rhyme>.</l>
+        <l id="s1:l11" met="3" type="+-">vrauwen lof dat <rhyme label="f" type="f">honit</rhyme>.</l>
+        <l id="s1:l12" met="5" type="-+">wif is eyn name dat si alle <rhyme label="f" type="f" corresp="#s1:l11">cronit</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

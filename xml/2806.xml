@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2806</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>In mijn hart ligt gesloten een bloempje delicaat</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">In myn hert leit <rhyme label="a" type="f">gesloeten</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">een blommetgen <rhyme label="b" type="m">delykaet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">met graesy oeuer <rhyme label="a" type="f" corresp="#s1:l1">goeten</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">als een wel ruikent <rhyme label="b" type="m" corresp="#s1:l2">gernaet</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">seer fraey ende soet van roeke <rhyme label="c" type="m">bedaent</rhyme></l>
+        <l id="s1:l6" met="6" type="+-">sy alleen die Ick meen anders <rhyme label="d" type="m">geen</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">soe faeliant geen schoender Int ganse <rhyme label="c" type="m" corresp="#s1:l5">lant</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Alle wel ruikende <rhyme label="a" type="f">blomme</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">sy daer te boeuen <rhyme label="b" type="m">gaet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">sy Is die blom der <rhyme label="a" type="f" corresp="#s2:l1">blomme</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">geen schoender Ins sweerels <rhyme label="b" type="m" corresp="#s2:l2">raet</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">sy Is alleen die Ick <rhyme label="c" type="m">meen</rhyme></l>
+        <l id="s2:l6" met="6" type="+-">anders geen soe <rhyme label="d" type="m">faeliant</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">en vintmen Int ganse <rhyme label="c" type="m" corresp="#s2:l5">lant</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Geen schoender en leeft op <rhyme label="a" type="f">aerde</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">noch fraeyer van <rhyme label="b" type="m">maenier</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">die daer perfeckt In <rhyme label="a" type="f" corresp="#s3:l1">waerde</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">als paerelee ofte <rhyme label="b" type="m" corresp="#s3:l2">gesteent</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">sy Is als turkoes ofte <rhyme label="c" type="m">dieaemant</rhyme></l>
+        <l id="s3:l6" met="6" type="+-">sy Is alleen die Ick meen anders <rhyme label="d" type="m">geen</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">soe faeliant en vintmen Int ganse <rhyme label="c" type="m" corresp="#s3:l5">lant</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Sy geeft alsulke <rhyme label="a" type="f">gloerye</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">als balsom ofte <rhyme label="b" type="m">gernaet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">want daer en Is geen <rhyme label="a" type="f" corresp="#s4:l1">schoender</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">In mynen sin voer <rhyme label="b" type="m" corresp="#s4:l2">waer</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">alle droefheit brenckt sy my vander <rhyme label="c" type="m">hant</rhyme></l>
+        <l id="s4:l6" met="6" type="+-">sy alleen die Ick meen anders <rhyme label="d" type="m">geen</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">soe faeliant en vintmen Int ganse <rhyme label="c" type="m" corresp="#s4:l5">lant</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Gy Prinse al hadt Ick de <rhyme label="a" type="f">kuere</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">van alle vrouwe <rhyme label="b" type="m">schoen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Ick en koeser geen voer <rhyme label="a" type="f" corresp="#s5:l1">huere</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die eedele blom <rhyme label="b" type="m" corresp="#s5:l2">Idoen</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Die schoen boeuen al sy Int herte <rhyme label="c" type="m">spant</rhyme></l>
+        <l id="s5:l6" met="6" type="+-">sy alleen sie Ick meen anders <rhyme label="d" type="m">geen</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">soe faeliant en vintmen Int ganse <rhyme label="c" type="m" corresp="#s5:l5">lant</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

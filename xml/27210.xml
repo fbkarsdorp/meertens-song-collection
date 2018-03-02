@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27210</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht?</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>Lavagotte</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wt die twe claere <rhyme label="a" type="f">lichten</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">V in t'aenschyn <rhyme label="b" type="m">geplant</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Schiet veenus kint syn <rhyme label="a" type="f" corresp="#s1:l1">schichten</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En steeckt my thert aen <rhyme label="b" type="m" corresp="#s1:l2">brant</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Alleene dees / geen cleene <rhyme label="c" type="m">vrees</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Aenjaeghen menich <rhyme label="b" type="m" corresp="#s1:l2">quant</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Heeft Paris drie <rhyme label="a" type="f">Goddinnen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Tot Ida moghen <rhyme label="b" type="m">sien</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">In v lieff is te <rhyme label="a" type="f" corresp="#s2:l1">winnen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die gaue van haer <rhyme label="b" type="m" corresp="#s2:l2">drien</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Die vryen van / myn lyen <rhyme label="c" type="m">can</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En alle druck <rhyme label="b" type="m" corresp="#s2:l2">verbien</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Als venus <rhyme label="a" type="f">wtgeleesen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">In schoonheyt hebt ghy <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">V wyse spraeck <rhyme label="a" type="f" corresp="#s3:l1">gepreesen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Doet dat ghy Pallas <rhyme label="b" type="m" corresp="#s3:l2">slacht</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ick slaeue cranck / v braue <rhyme label="c" type="m">ganck</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Bouen Juno ick <rhyme label="b" type="m" corresp="#s3:l2">acht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Princes wilt ier op <rhyme label="a" type="f">letten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">En wilt dees gaeue <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Van wreetheyt niet <rhyme label="a" type="f" corresp="#s4:l1">besmetten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Off anders blyff ick <rhyme label="b" type="m" corresp="#s4:l2">doot</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Die v bemindt niet schu <rhyme label="c" type="m">besint</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Maer helpt my wt den <rhyme label="b" type="m" corresp="#s4:l2">noot</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

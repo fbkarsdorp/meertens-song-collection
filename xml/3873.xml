@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3873</id>
+    <date>
+      <year-start>1539</year-start>
+      <year-end>1539</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>Maria song</tag>
+      <tag>praise</tag>
+      <tag>spiritual song</tag>
+    </tags>
+    <melody>Het viel een hemelse dauw</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GOd groet v <rhyme label="a" type="f">coninghinne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Maria soet <rhyme label="b" type="m">iolijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ghi sijt een vat vol <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Altijt <rhyme label="b" type="m" corresp="#s1:l2">ghebenedijt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">O weerde bruyt der <rhyme label="c" type="f">weelden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dijn lof is eewich <rhyme label="d" type="m">lanck</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Fonteyn vanden eewigen <rhyme label="c" type="f" corresp="#s1:l5">leuen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Schenct ons der minnen <rhyme label="d" type="m" corresp="#s1:l6">dranc</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">God groet v alder <rhyme label="a" type="f">claerste</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Diemen aenscouwen <rhyme label="b" type="m">mach</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Maria ons <rhyme label="a" type="f" corresp="#s2:l1">bewaerster</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghi sijt een eewich <rhyme label="b" type="m" corresp="#s2:l2">dach</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Wel schone sonder <rhyme label="c" type="f">verdrieten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Vol alder duechden <rhyme label="d" type="m">groot</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Och laet mi dijns <rhyme label="c" type="f" corresp="#s2:l5">ghenieten</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">O weerde roose <rhyme label="d" type="m" corresp="#s2:l6">root</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">God groet v <rhyme label="a" type="f">morgensterre</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Een spieghel sonder <rhyme label="b" type="m">smet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Die schoonste sonder <rhyme label="a" type="f" corresp="#s3:l1">merren</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Reyn lelie <rhyme label="b" type="m" corresp="#s3:l2">onbeulect</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Maria edel <rhyme label="c" type="f">sonne</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ick wil v gheuen <rhyme label="d" type="m">prijs</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Ghi sijt die suyuer <rhyme label="c" type="f" corresp="#s3:l5">bloeme</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Vercierende dat <rhyme label="d" type="m" corresp="#s3:l6">paradijs</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">God groet v <rhyme label="a" type="f">keyserinne</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Peerle der ioncfrouwen <rhyme label="b" type="m">schoon</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Ghi blinct ghelijck die <rhyme label="a" type="f" corresp="#s4:l1">sonne</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Al in des hemels <rhyme label="b" type="m" corresp="#s4:l2">throon</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Daer bisty <rhyme label="c" type="f">wtuercoren</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Die spieghel al <rhyme label="d" type="m">volmaect</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Als een verchierde <rhyme label="c" type="f" corresp="#s4:l5">roose</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Oock moeder ende <rhyme label="d" type="m" corresp="#s4:l6">maecht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">God groet v suyuer <rhyme label="a" type="f">maget</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">O soete <rhyme label="b" type="m">medecijn</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">O dach die eewich <rhyme label="a" type="f" corresp="#s5:l1">daghet</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Ick waer so gaerne bi <rhyme label="b" type="m" corresp="#s5:l2">dijn</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">En wilt mijns niet <rhyme label="c" type="f">vergheten</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Och edel honich <rhyme label="d" type="m">raet</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Als mi mijn herte sal <rhyme label="c" type="f" corresp="#s5:l5">breken</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">In die vre mijnder <rhyme label="d" type="m" corresp="#s5:l6">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15021</id>
+    <date>
+      <year-start>1626</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>patriotic song</tag>
+      <tag>beggar song</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Batavia ghy syt de <rhyme label="a" type="m">Bruyd</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer al de Werelt is om <rhyme label="a" type="m" corresp="#s1:l1">uyt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">De pronck van't heele <rhyme label="b" type="m">Christenrijck</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Veel landen eenen dam en <rhyme label="b" type="m" corresp="#s1:l3">dyck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">God doet veel wonders door u <rhyme label="a" type="m">hand</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">End' maeckt uw's Vyands doen ter <rhyme label="a" type="m" corresp="#s2:l1">schand</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoe wel hy luyde tiert en <rhyme label="b" type="m">baerd</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ghy syt niet van hem eens <rhyme label="b" type="m" corresp="#s2:l3">vervaerd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">So ghy maer by de waerheyt <rhyme label="a" type="m">blyft</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Het sondig wesen van u <rhyme label="a" type="m" corresp="#s3:l1">dryft</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">So sullen noch u palen <rhyme label="b" type="m">aen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Het eynde van de werelt <rhyme label="b" type="m" corresp="#s3:l3">staen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al pocht de snorcker noch so <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">End' acht syn stoffen gantsch niet <rhyme label="a" type="m" corresp="#s4:l1">meer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Syn Roomsche Spaensche groote <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Sal werden haest tot niet <rhyme label="b" type="m" corresp="#s4:l3">gebracht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy Batavier zyt niet so <rhyme label="a" type="m">sot</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dat g'ander roem draegt als in <rhyme label="a" type="m" corresp="#s5:l1">God</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">D'wyl d'overwinning en het <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Van God den Heer al komen <rhyme label="b" type="m" corresp="#s5:l3">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

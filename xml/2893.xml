@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2893</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>Engels Schoenlappertje</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een maeghet fier, met haer <rhyme label="a" type="m">maenier</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">heeft mijn Jonck hert doer <rhyme label="b" type="f">schoeten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">met groet dantgier, soe wort Ick <rhyme label="a" type="m" corresp="#s1:l1">schier</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Eylaes van haer <rhyme label="b" type="f" corresp="#s1:l2">verstoeten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Sij is Die mijn brenckt In <rhyme label="c" type="m">gepijn</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Peinst hier om gij Jonge <rhyme label="d" type="m">Jeucht</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Gij Jonge <rhyme label="d" type="m" corresp="#s1:l6">Jeucht</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">tminnen Is een klein <rhyme label="d" type="m" corresp="#s1:l6">genuecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wt al u macht toent vrij u <rhyme label="a" type="m">kracht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">om u lief te <rhyme label="b" type="f">behaegen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">te(r)wiel sij lacht toch naerstich <rhyme label="a" type="m" corresp="#s2:l1">tracht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">en xr. sechgen sonder <rhyme label="b" type="f" corresp="#s2:l2">voersaegen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">hout daer Jonck vrou, daer Is mijn <rhyme label="c" type="m">trou</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Int u belieft aenveerse <rhyme label="d" type="m">aen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">aenveerse <rhyme label="d" type="m" corresp="#s2:l6">aen</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">wat baet het lange <rhyme label="d" type="m" corresp="#s2:l6">gaen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

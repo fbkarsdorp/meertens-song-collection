@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2792</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1600</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>May song</tag>
+      <tag>Chamber of rhetoric's song</tag>
+    </tags>
+    <melody>De lustelijke mei is nu in de tijd</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Den soete mey brenckt sijnen <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">alsoe men siet voer <rhyme label="b" type="f">oegen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die blomkens staen soet met vruechden <rhyme label="a" type="m" corresp="#s1:l1">Joelijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">haer selleven gaen sij <rhyme label="b" type="f" corresp="#s1:l2">voertoegen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">met den oeranie leely <rhyme label="c" type="m">hier</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ende schoene witte <rhyme label="c" type="m" corresp="#s1:l5">angier</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">staen suiver Int <rhyme label="d" type="f">betoenen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">al onders scheemels <rhyme label="d" type="f" corresp="#s1:l7">troene</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Aemoeruesse geeste die hier sin <rhyme label="a" type="m">voergaert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wilt dit ten beste <rhyme label="b" type="f">neemen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Als elck met sijn liefken Is <rhyme label="a" type="m" corresp="#s2:l1">gepaert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">godt laet hem niet <rhyme label="b" type="f" corresp="#s2:l2">voervreemde</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gelijck alst aeker boemie <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">en den koerenaer diet al <rhyme label="c" type="m" corresp="#s2:l5">voet</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">alle menschen en <rhyme label="d" type="f">persoene</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">al onder scheemels <rhyme label="d" type="f" corresp="#s2:l7">troene</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Benieders der konst <rhyme label="a" type="m">alhier</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wilt Den sin <rhyme label="b" type="f">konsijdeereeren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Bemint u lief op duecht en <rhyme label="a" type="m" corresp="#s3:l1">eer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">en nae den wil des <rhyme label="b" type="f" corresp="#s3:l2">heeren</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">gelijck het goudt blommeken <rhyme label="c" type="m">doet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">en het fyoeletie metter <rhyme label="c" type="m" corresp="#s3:l5">spoet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">soe wilt gij spanne de <rhyme label="d" type="f">kroene</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">al onder des scheemels <rhyme label="d" type="f" corresp="#s3:l7">troene</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prinse neemt het toch in <rhyme label="a" type="m">danck</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">mijn sempel <rhyme label="b" type="f">gedichte</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Die voegelkens met haeren <rhyme label="a" type="m" corresp="#s4:l1">sanck</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die alle menschen <rhyme label="b" type="f" corresp="#s4:l2">voerlichten</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Geelijck doet die <rhyme label="c" type="m">pellykaen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">enden Wingaert ranck <rhyme label="c" type="m" corresp="#s4:l5">welgedean</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Staet net en <rhyme label="d" type="f">schoene</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Al onders scheemels <rhyme label="d" type="f" corresp="#s4:l7">troene</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

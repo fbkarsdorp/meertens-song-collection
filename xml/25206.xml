@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25206</id>
+    <date>
+      <year-start>1418</year-start>
+      <year-end>1419</year-end>
+    </date>
+    <tags>
+      <tag>drinking song</tag>
+    </tags>
+    <melody>Wij willen vrolijk zingen ho</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wir willent vreulich singen <rhyme label="a" type="m">ho</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">und vreuwen uns dez wijnez <rhyme label="b" type="m">train</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">he maicht vil manich hertse <rhyme label="a" type="m" corresp="#s1:l1">vro</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">dar um wil wirs nicht <rhyme label="b" type="m" corresp="#s1:l2">avelain</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">scheynck yn und la dijn truren <rhyme label="b" type="m" corresp="#s1:l2">stain</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">waz hilft daz ich vil trure <rhyme label="a" type="m">mee</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">ynne khans tswair al besorgen <rhyme label="b" type="m">nicht</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">mir deyt ym hertsen truren <rhyme label="a" type="m" corresp="#s2:l1">wee</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">war um sold ich dan truren <rhyme label="b" type="m" corresp="#s2:l2">ycht</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">der wijn halt gair mijn hertse <rhyme label="b" type="m" corresp="#s2:l2">licht</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tzwair liebsz gezel ich blijbs bij <rhyme label="a" type="m">dir</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">zint mir die alder hait <rhyme label="b" type="m">ontsacht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">die vreud die vurbaz was in <rhyme label="a" type="m" corresp="#s3:l1">myr</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">so wil ich drijnken dach und <rhyme label="b" type="m" corresp="#s3:l2">nacht</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">ynne byn noch anders nyt <rhyme label="b" type="m" corresp="#s3:l2">bedacht</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

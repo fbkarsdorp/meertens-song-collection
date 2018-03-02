@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38696</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Wat sien ick <rhyme label="a" type="m">daer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">De jeught staen in een <rhyme label="a" type="m" corresp="#s1:l1">baer</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Wat voor <rhyme label="a" type="m" corresp="#s1:l1">ghevaer</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">De <rhyme label="b" type="m">vrolijckheydt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Is nu haer wesen <rhyme label="b" type="m" corresp="#s1:l4">quijt</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Vol van <rhyme label="c" type="f">ghenuchten</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Dies vlucht van <rhyme label="d" type="m">hier</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Allent't <rhyme label="d" type="m" corresp="#s1:l7">plaisier</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Talia met haer <rhyme label="c" type="f" corresp="#s1:l6">cluchten</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Pomonas bogaert schijnt <rhyme label="e" type="m">berooft</rhyme></l>
+        <l id="s1:l11" met="5" type="+-">Van all'n haer soet en lieffelijcke <rhyme label="c" type="f" corresp="#s1:l6">vruchten</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">En Flora staet <rhyme label="e" type="m" corresp="#s1:l10">verdooft</rhyme></l>
+        <l id="s1:l13" met="2" type="-+">Ruckt van haer <rhyme label="e" type="m" corresp="#s1:l10">hooft</rhyme></l>
+        <l id="s1:l14" met="5" type="-+">Uyt druck en rouw in't midden vanden <rhyme label="f" type="m">dans</rhyme></l>
+        <l id="s1:l15" met="3" type="-+">Haer eyghen <rhyme label="f" type="m" corresp="#s1:l14">bloemme-crans</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Mijn brack <rhyme label="a" type="m">ghetraen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sal nimmermeer <rhyme label="a" type="m" corresp="#s2:l1">vergaen</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Soo langh de <rhyme label="a" type="m" corresp="#s2:l1">maen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Haer schijn-licht <rhyme label="b" type="m">haelt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Uyt Phoebo die <rhyme label="b" type="m" corresp="#s2:l4">bestraelt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Haer bleecke <rhyme label="c" type="f">wanggen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Hoe staet <rhyme label="d" type="m">versuft</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">All' mijn <rhyme label="d" type="m" corresp="#s2:l7">vernuft</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">In d'Heliconsche <rhyme label="c" type="f" corresp="#s2:l6">sanghen</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Wat droef gheluyt gheeft ons <rhyme label="e" type="m">Parnass'</rhyme></l>
+        <l id="s2:l11" met="5" type="+-">Melpomene  doet anders niet dan <rhyme label="c" type="f" corresp="#s2:l6">weenen</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Daer eertijdts blijschap <rhyme label="e" type="m" corresp="#s2:l10">was</rhyme></l>
+        <l id="s2:l13" met="2" type="-+">Loopt Fama <rhyme label="e" type="m" corresp="#s2:l10">ras</rhyme></l>
+        <l id="s2:l14" met="5" type="-+">Steckt u basuyn in't holste vanden <rhyme label="f" type="m">nacht</rhyme></l>
+        <l id="s2:l15" met="3" type="-+">Dat yder hoort mijn <rhyme label="f" type="m" corresp="#s2:l14">cracht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2340</id>
+    <date>
+      <year-start>1587</year-start>
+      <year-end>1587</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>prayer song</tag>
+    </tags>
+    <melody>'s Winters 's zomers even groen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Devote ziele wilt u <rhyme label="a" type="f">vermeyden</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Int hoofken van Oliveten <rhyme label="b" type="m">zoet</rhyme> /</l>
+        <l id="s1:l3" met="4" type="-+">En wilt doch daeruut niet <rhyme label="a" type="f" corresp="#s1:l1">scheyden</rhyme> /</l>
+        <l id="s1:l4" met="4" type="-+">Maer gaet by uwen bruydegom <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme> /</l>
+        <l id="s1:l5" met="4" type="-+">Ghy sult hem vinden liggen ter <rhyme label="c" type="f">aerden</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">In zyn gebet met viericheyt <rhyme label="d" type="m">groot</rhyme> /</l>
+        <l id="s1:l7" met="4" type="-+">Eer hy heeft willen den strydt <rhyme label="c" type="f" corresp="#s1:l5">aenveirden</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Ende voor ons sterven die bitter <rhyme label="d" type="m" corresp="#s1:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe bangich was zyn lieffelyck <rhyme label="a" type="f">herte</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Syn ziele bedroeft in grooter <rhyme label="b" type="m">noot</rhyme> /</l>
+        <l id="s2:l3" met="4" type="-+">Want hy voorsach die groote <rhyme label="a" type="f" corresp="#s2:l1">smerte</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">dat cruyce en allen zyn lyden <rhyme label="b" type="m" corresp="#s2:l2">bloot</rhyme> /</l>
+        <l id="s2:l5" met="4" type="-+">Dwelck hy corts soude moeten <rhyme label="c" type="f">draegen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Voor de sondaers boos en <rhyme label="d" type="m">quaet</rhyme> /</l>
+        <l id="s2:l7" met="4" type="-+">Die hem niet en souden <rhyme label="c" type="f" corresp="#s2:l5">behagen</rhyme> /</l>
+        <l id="s2:l8" met="4" type="-+">Maer veel blyven <rhyme label="d" type="m" corresp="#s2:l6">obstinaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O alderliefste Bruydegom <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ick bid u door u bloedich <rhyme label="b" type="m">sweet</rhyme> /</l>
+        <l id="s3:l3" met="4" type="-+">Door uwen anxt / u schudden ende <rhyme label="a" type="f" corresp="#s3:l1">beven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ende door u traenen <rhyme label="b" type="m" corresp="#s3:l2">heet</rhyme> /</l>
+        <l id="s3:l5" met="4" type="-+">Wilt myn cout herte ontsteken van <rhyme label="c" type="f">binnen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Met uwer vieriger Liefden <rhyme label="d" type="m">groot</rhyme>/</l>
+        <l id="s3:l7" met="4" type="-+">Dat ick myn sonden mach <rhyme label="c" type="f" corresp="#s3:l5">verwinnen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Ende u beminnen tot in myn <rhyme label="d" type="m" corresp="#s3:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Bidt voor die dit heeft <rhyme label="a" type="f">ghescreven</rhyme> /</l>
+        <l id="s4:l2" met="4" type="-+">Ende diet selve heeft <rhyme label="b" type="m">ghedicht</rhyme> /</l>
+        <l id="s4:l3" met="4" type="-+">Dat Godt haer wille zyn gracie <rhyme label="a" type="f" corresp="#s4:l1">geven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Inwendich door zyn Goddelyck <rhyme label="b" type="m" corresp="#s4:l2">licht</rhyme> /</l>
+        <l id="s4:l5" met="4" type="-+">Dat zyn bloedich lyden ende <rhyme label="c" type="f">smerte</rhyme> /</l>
+        <l id="s4:l6" met="4" type="-+">Syn heylich leven ende <rhyme label="d" type="m">deucht</rhyme> /</l>
+        <l id="s4:l7" met="4" type="-+">Soo mach gheprint zyn in haer <rhyme label="c" type="f" corresp="#s4:l5">herte</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Dat zy vergete alle ydel <rhyme label="d" type="m" corresp="#s4:l6">vreucht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25014</id>
+    <date>
+      <year-start>1300</year-start>
+      <year-end>1300</year-end>
+    </date>
+    <location>
+      <orginal-name>zürich</orginal-name>
+      <standard-name>Zürich, Swiss</standard-name>
+      <coordinates>
+        <lon>47.3723957</lon>
+        <lat>8.5423216</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+      <tag>ballet</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Eens meienmorgens <rhyme label="a" type="m">vroe</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Was ic <rhyme label="b" type="m">opgestaen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">In een scoen <rhyme label="c" type="m">boemgaerdekijn</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Soudic spelen <rhyme label="b" type="m" corresp="#s1:l2">gaen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Daer vant ic drie joncfrouwen <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Dene sanc vore, dander sanc <rhyme label="b" type="m" corresp="#s1:l2">na</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Harba lori <rhyme label="d" type="m">fa</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">harba harba lori <rhyme label="d" type="m" corresp="#s1:l7">fa</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">harba lori <rhyme label="d" type="m" corresp="#s1:l7">fa</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doe ic versach dat scone <rhyme label="a" type="m">cruut</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">In den <rhyme label="b" type="m">boemgaerdekijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ende ic verhoorde dat soete <rhyme label="c" type="m">geluut</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Van den mageden <rhyme label="b" type="m" corresp="#s2:l2">fijn</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Doe verblide dat herte <rhyme label="b" type="m" corresp="#s2:l2">mijn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat ic moeste singen <rhyme label="b" type="m" corresp="#s2:l2">na</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Harba lori <rhyme label="d" type="m">fa</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">harba harba lori <rhyme label="d" type="m" corresp="#s2:l7">fa</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">harba lori <rhyme label="d" type="m" corresp="#s2:l7">fa</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Doe groette ic die <rhyme label="a" type="m">allerscoenste</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Die daer onder <rhyme label="b" type="m">stont</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Ic liet mine arme al omme <rhyme label="c" type="m">gaen</rhyme>;</l>
+        <l id="s3:l4" met="3" type="+-">Doe, ter selver <rhyme label="b" type="m" corresp="#s3:l2">stont</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Ic woudese cussen an haren <rhyme label="b" type="m" corresp="#s3:l2">mont</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">Si sprac: `laet staen, laet staen, laet <rhyme label="b" type="m" corresp="#s3:l2">staen</rhyme>!'</l>
+        <l id="s3:l7" met="4" type="+-">Harba lori <rhyme label="d" type="m">fa</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">harba harba lori <rhyme label="d" type="m" corresp="#s3:l7">fa</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">harba lori <rhyme label="d" type="m" corresp="#s3:l7">fa</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

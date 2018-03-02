@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24921</id>
+    <date>
+      <year-start>1390</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love song</tag>
+    </tags>
+    <melody>De schoonste die men schouwen mag</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De scoonste die men scauwen <rhyme label="a" type="m">mach</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">De liefste die ich ye <rhyme label="a" type="m" corresp="#s1:l1">ghesach</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ich weinsche huer heyl ende goeden <rhyme label="a" type="m" corresp="#s1:l1">dach</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Maer wie ich <rhyme label="b" type="m">meyn</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Wil ich niemen doen <rhyme label="a" type="m" corresp="#s1:l1">ghewach</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Dan huer <rhyme label="b" type="m" corresp="#s1:l4">allein</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Die mijns vermach ende anders <rhyme label="b" type="m" corresp="#s1:l4">ghein</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Al zocht een man .vM. <rhyme label="c" type="m">jaer</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Hier noch <rhyme label="c" type="m" corresp="#s1:l8">daer</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">So nes ghein beild so <rhyme label="d" type="m">wivelijch</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Haer edel minnentlijch <rhyme label="c" type="m" corresp="#s1:l8">ghebaer</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">Last mir so <rhyme label="c" type="m" corresp="#s1:l8">zwaer</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Das nie man drouch so <rhyme label="d" type="m" corresp="#s1:l10">truwelijch</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Hets recht groet ich mijn <rhyme label="d" type="m" corresp="#s1:l10">hemelrich</rhyme></l>
+        <l id="s1:l15" met="2" type="-+">Dan <rhyme label="d" type="m" corresp="#s1:l10">jonstelijch</rhyme></l>
+        <l id="s1:l16" met="4" type="-+">Daer an dat staet mijns vruechts <rhyme label="d" type="m" corresp="#s1:l10">ghecrijch</rhyme></l>
+        <l id="s1:l17" met="4" type="-+">Want ich bin huer in trauwen <rhyme label="b" type="m" corresp="#s1:l4">rein</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wan mir gheluct ende icse <rhyme label="a" type="m">can</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Vri scauwen <rhyme label="a" type="m" corresp="#s2:l1">an</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">So brandich in der vruechden <rhyme label="a" type="m" corresp="#s2:l1">gloet</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Wanneer ich moet des derven <rhyme label="b" type="m">dan</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Sone leift gheen <rhyme label="a" type="m" corresp="#s2:l1">man</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Die meer bedruct es in den <rhyme label="b" type="m" corresp="#s2:l4">moet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Hets recht want zi es also <rhyme label="b" type="m" corresp="#s2:l4">zoet</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Des ben ic <rhyme label="c" type="m">vroet</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Al waer al erderijch mijn <rhyme label="c" type="m" corresp="#s2:l8">goet</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Sonder zi het waer tzo <rhyme label="d" type="m">clein</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">De scoonste die men scauwen <rhyme label="c" type="m" corresp="#s2:l8">mach</rhyme></l>
+        <l id="s2:l12" met="2" type="-+">De liefste die ich ye <rhyme label="c" type="m" corresp="#s2:l8">ghesach</rhyme></l>
+        <l id="s2:l13" met="4" type="-+">Ich weinsche huer heyl ende goeden <rhyme label="d" type="m" corresp="#s2:l10">dach</rhyme></l>
+        <l id="s2:l14" met="4" type="-+">Maer wie ich <rhyme label="d" type="m" corresp="#s2:l10">meyn</rhyme></l>
+        <l id="s2:l15" met="2" type="-+">Wil ich niemen doen <rhyme label="d" type="m" corresp="#s2:l10">ghewach</rhyme></l>
+        <l id="s2:l16" met="4" type="-+">Dan huer <rhyme label="d" type="m" corresp="#s2:l10">allein</rhyme></l>
+        <l id="s2:l17" met="4" type="-+">Die mijns vermach ende anders <rhyme label="b" type="m" corresp="#s2:l4">ghein</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Of si dan es mijn hoochste <rhyme label="a" type="m">vruecht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die mir <rhyme label="a" type="m" corresp="#s3:l1">verhuecht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Vor al das vruecht haet ghevens <rhyme label="a" type="m" corresp="#s3:l1">macht</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">En si allein want haer <rhyme label="b" type="m">ghenuecht</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Met huerer <rhyme label="a" type="m" corresp="#s3:l1">duecht</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Mi mach doen leven zoet ende <rhyme label="b" type="m" corresp="#s3:l4">zacht</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Ich wille dan stellen mijn <rhyme label="b" type="m" corresp="#s3:l4">ghedacht</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Dach ende <rhyme label="c" type="m">nacht</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">So dat huer eere si <rhyme label="c" type="m" corresp="#s3:l8">bewacht</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Vor elken clappenden <rhyme label="d" type="m">vilein</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">De scoonste die men scauwen <rhyme label="c" type="m" corresp="#s3:l8">mach</rhyme></l>
+        <l id="s3:l12" met="2" type="-+">De liefste die ich ye <rhyme label="c" type="m" corresp="#s3:l8">ghesach</rhyme></l>
+        <l id="s3:l13" met="4" type="-+">Ich weinsche huer heyl ende goeden <rhyme label="d" type="m" corresp="#s3:l10">dach</rhyme></l>
+        <l id="s3:l14" met="4" type="-+">Maer wie ich <rhyme label="d" type="m" corresp="#s3:l10">meyn</rhyme></l>
+        <l id="s3:l15" met="2" type="-+">Wil ich niemen doen <rhyme label="d" type="m" corresp="#s3:l10">ghewach</rhyme></l>
+        <l id="s3:l16" met="4" type="-+">Dan huer <rhyme label="d" type="m" corresp="#s3:l10">allein</rhyme></l>
+        <l id="s3:l17" met="4" type="-+">Die mijns vermach ende anders <rhyme label="b" type="m" corresp="#s3:l4">ghein</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

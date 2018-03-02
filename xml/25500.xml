@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25500</id>
+    <date>
+      <year-start>1530</year-start>
+      <year-end>1540</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied (jülich?)</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag>love complaint</tag>
+      <tag>farewell song</tag>
+    </tags>
+    <melody></melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ade myt <rhyme label="a" type="m">leyde</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">ich van dyr <rhyme label="a" type="m" corresp="#s1:l1">schiede</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">dar durch myn <rhyme label="b" type="m">hertz</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">vnfregelich <rhyme label="b" type="m" corresp="#s1:l3">smertz</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">alle stondt <rhyme label="c" type="m">erfynt</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">und ist <rhyme label="c" type="m" corresp="#s1:l5">vntzint</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">in jamers <rhyme label="d" type="m">wee</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Ade aene dich lust myr geyne vreuwede nyet <rhyme label="d" type="m" corresp="#s1:l7">me</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Ade myn <rhyme label="a" type="m">frunt</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">der ich geyne <rhyme label="a" type="m" corresp="#s2:l1">zyt</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">an <rhyme label="b" type="m">zu</rhyme> [...]</l>
+        <l id="s2:l4" met="2" type="-+">verdriessen <rhyme label="b" type="m" corresp="#s2:l3">mach</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">hayn ich myr <rhyme label="c" type="m">gewendt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">ind byn <rhyme label="c" type="m" corresp="#s2:l5">ellend</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">in leyt ich <rhyme label="d" type="m">ste</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Ade aene <rhyme label="d" type="m" corresp="#s2:l7">dich</rhyme>...</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Ade <rhyme label="a" type="m">gedenck</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">dyne truwe mich <rhyme label="a" type="m" corresp="#s3:l1">krenkt</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">vnd halt recht <rhyme label="b" type="m">maeß</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">vergyß nyet <rhyme label="b" type="m" corresp="#s3:l3">das</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">als du waill <rhyme label="c" type="m">weyß</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">dyn truwe war mich <rhyme label="c" type="m" corresp="#s3:l5">ließ</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">[.]yn vur <rhyme label="d" type="m">Eehe</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Ade aene dich lust myr geyne vreuwede niet <rhyme label="d" type="m" corresp="#s3:l7">me</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>
