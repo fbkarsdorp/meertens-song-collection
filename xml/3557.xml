@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -39,7 +42,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Phoebus hittich had <rhyme label="a" type="m">verhoocht</rhyme></l>
-        <l id="s3:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s3:l1">Opgedroocht</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s3:l1">Opgedroocht</rhyme>
+        </l>
         <l id="s3:l3" met="4" type="+-">Alles des Nimphes <rhyme label="b" type="f">waeranden</rhyme></l>
         <l id="s3:l4" met="4" type="+-">En eer dat de Son <rhyme label="c" type="m">verdween</rhyme></l>
         <l id="s3:l5" met="2" type="+-">Ginck ick <rhyme label="c" type="m" corresp="#s3:l4">heen</rhyme></l>

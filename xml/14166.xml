@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>sung Lord's Prayer</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="Our Father song">gezongen onze vader</tag>
     </tags>
     <melody>Het waren negen soldaten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

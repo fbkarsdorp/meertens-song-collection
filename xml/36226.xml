@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
-      <tag>shepherd's song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Schone Cato</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

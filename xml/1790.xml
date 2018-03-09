@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Uw liefde kwelt mij tot de dood</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>rider's song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="horseman's song">ruiterlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>In Oostenrijk daar staat een huis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

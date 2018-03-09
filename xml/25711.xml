@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>evening song</tag>
-      <tag>spiritual song</tag>
-      <tag>arcostic</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="evening song">avondlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Op een kerstnacht werd God geboren</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -34,7 +37,9 @@
         <l id="s2:l2" met="4" type="-+">Die lijden moeten veel <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>,</l>
         <l id="s2:l3" met="3" type="-+">Van 't Roomsch geloofs <rhyme label="b" type="f">vyanden</rhyme>:</l>
         <l id="s2:l4" met="2" type="-+">Krijght <rhyme label="c" type="m">vroomigheydt</rhyme>,</l>
-        <l id="s2:l5" met="2" type="-+"><rhyme label="c" type="m" corresp="#s2:l4">Stantvastigheyt</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s2:l4">Stantvastigheyt</rhyme>
+        </l>
         <l id="s2:l6" met="3" type="-+">Voor ons, uyt Godes <rhyme label="b" type="f" corresp="#s2:l3">handen</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

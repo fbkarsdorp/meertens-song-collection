@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ballet 2 de Reuk</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -40,7 +43,9 @@
         <l id="s2:l4" met="2" type="+-">U <rhyme label="b" type="f" corresp="#s2:l3">verblyen</rhyme>,</l>
         <l id="s2:l5" met="3" type="+-">'k Sal 't gewilligh <rhyme label="a" type="f" corresp="#s2:l1">draagen</rhyme>,</l>
         <l id="s2:l6" met="3" type="+-">Doch wen stuursheyts <rhyme label="c" type="f">dampen</rhyme>,</l>
-        <l id="s2:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s2:l6">Sielsslampen</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s2:l6">Sielsslampen</rhyme>
+        </l>
         <l id="s2:l8" met="1" type="-+">Om <rhyme label="c" type="f" corresp="#s2:l6">clampen</rhyme>,</l>
         <l id="s2:l9" met="4" type="-+">Door hulp van 't Stygiaensch <rhyme label="d" type="m">gedrocht</rhyme>,</l>
         <l id="s2:l10" met="3" type="-+">Is dan u wens <rhyme label="d" type="m" corresp="#s2:l9">volbrocht</rhyme>.</l>

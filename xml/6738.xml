@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -43,7 +46,9 @@
         <l id="s3:l2" met="2" type="+-">Duysent <rhyme label="a" type="m" corresp="#s3:l1">jaer</rhyme>,</l>
         <l id="s3:l3" met="3" type="-+">Van u-lieden te <rhyme label="b" type="f">wesen</rhyme>.</l>
         <l id="s3:l4" met="4" type="+-">Want wie kan hier mijne <rhyme label="c" type="m">quael</rhyme></l>
-        <l id="s3:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s3:l4">Altemale</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s3:l4">Altemale</rhyme>
+        </l>
         <l id="s3:l6" met="3" type="-+">Versoeten, en <rhyme label="b" type="f" corresp="#s3:l3">ghenesen</rhyme>?</l>
       </lg>
       <lg id="s4" type="stanza">

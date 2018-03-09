@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>devout song</tag>
-      <tag>farewell song</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Dat is wil dij van de waarheid horen zingen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

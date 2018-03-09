@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
-      <tag>playing song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="">gespeeltjeslied</tag>
     </tags>
     <melody>Toen Hanselijn over de heide reed</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

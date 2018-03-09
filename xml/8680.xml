@@ -15,14 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">CArileen</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">CArileen</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Ay! Wilt u niet <rhyme label="b" type="f">verschuylen</rhyme></l>
         <l id="s1:l3" met="4" type="+-">In het diepste van het <rhyme label="c" type="m">wout</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">Maer hoort mijn Nimphie <rhyme label="d" type="m">hoort</rhyme></l>

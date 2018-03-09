@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>narrative song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Allemande la douce</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

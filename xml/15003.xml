@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>reflective song</tag>
-      <tag>beggar song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Wij twee zijn hier alleen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>battle song</tag>
-      <tag>political song</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="political song">politiek lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Ma mère ik zeg</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

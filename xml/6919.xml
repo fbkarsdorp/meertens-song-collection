@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>proverb</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Baise-moi ma Jeanneton</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +33,9 @@
         <l id="s1:l4" met="3" type="-+">Wat een Vent is <rhyme label="b" type="f" corresp="#s1:l2">Hendrick</rhyme>,</l>
         <l id="s1:l5" met="4" type="-+">Hendrick leeft in swaer <rhyme label="c" type="m">doleur</rhyme></l>
         <l id="s1:l6" met="4" type="-+">Om sijn alderliefste <rhyme label="c" type="m" corresp="#s1:l5">fleur</rhyme>,</l>
-        <l id="s1:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s1:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
@@ -39,7 +45,9 @@
         <l id="s2:l4" met="3" type="-+">Hy docht zijn Moer sou <rhyme label="b" type="f" corresp="#s2:l2">kijven</rhyme>,</l>
         <l id="s2:l5" met="4" type="-+">Want ick heb mijn ghelt <rhyme label="c" type="m">verteert</rhyme>,</l>
         <l id="s2:l6" met="4" type="-+">Met de Meysjens om den <rhyme label="c" type="m" corresp="#s2:l5">heert</rhyme></l>
-        <l id="s2:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s2:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -49,7 +57,9 @@
         <l id="s3:l4" met="3" type="-+">Zout ghy het dorven <rhyme label="b" type="f" corresp="#s3:l2">waghen</rhyme>,</l>
         <l id="s3:l5" met="4" type="-+">Om met my te bedt te <rhyme label="c" type="m">gaen</rhyme>,</l>
         <l id="s3:l6" met="4" type="-+">Ia zey sy de koop is <rhyme label="c" type="m" corresp="#s3:l5">ghedaen</rhyme>:</l>
-        <l id="s3:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s3:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -59,7 +69,9 @@
         <l id="s4:l4" met="3" type="-+">Met mijn Lief <rhyme label="b" type="f" corresp="#s4:l2">beginnen</rhyme>,</l>
         <l id="s4:l5" met="4" type="-+">Hendrick docht ick weet <rhyme label="c" type="m">raet</rhyme></l>
         <l id="s4:l6" met="4" type="-+">Ick salse gheven eenen <rhyme label="c" type="m" corresp="#s4:l5">praet</rhyme>,</l>
-        <l id="s4:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s4:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
@@ -69,7 +81,9 @@
         <l id="s5:l4" met="3" type="-+">Ick moet een deuntjen <rhyme label="b" type="f" corresp="#s5:l2">singhen</rhyme>,</l>
         <l id="s5:l5" met="4" type="-+">Een deuntjen singhen van de <rhyme label="c" type="m">Min</rhyme>,</l>
         <l id="s5:l6" met="4" type="-+">Hey daer ist weer uyt mijn <rhyme label="c" type="m" corresp="#s5:l5">sin</rhyme>,</l>
-        <l id="s5:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s5:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s5:l8" met="3" type="+-">Wat een vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">
@@ -79,7 +93,9 @@
         <l id="s6:l4" met="3" type="-+">Van de schoone <rhyme label="b" type="f" corresp="#s6:l2">Goddinne</rhyme>,</l>
         <l id="s6:l5" met="4" type="-+">Hendrick sprack op het <rhyme label="c" type="m">lest</rhyme>,</l>
         <l id="s6:l6" met="4" type="-+">Lief ick heb ghedaen mijn <rhyme label="c" type="m" corresp="#s6:l5">best</rhyme></l>
-        <l id="s6:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s6:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s6:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -89,7 +105,9 @@
         <l id="s7:l4" met="3" type="-+">Wie sal dat nu <rhyme label="b" type="f" corresp="#s7:l2">houwen</rhyme>?</l>
         <l id="s7:l5" met="4" type="-+">Laet ons werpen kruys of <rhyme label="c" type="m">munt</rhyme>,</l>
         <l id="s7:l6" met="4" type="-+">Sien wat de Fortuyn mijn <rhyme label="c" type="m" corresp="#s7:l5">gunt</rhyme>,</l>
-        <l id="s7:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s7:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s7:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">
@@ -99,7 +117,9 @@
         <l id="s8:l4" met="3" type="-+">Van mijn Lief <rhyme label="b" type="f" corresp="#s8:l2">ghetrouwe</rhyme>,</l>
         <l id="s8:l5" met="4" type="-+">Al heeft Hendrick dat <rhyme label="c" type="m">ghebreck</rhyme>,</l>
         <l id="s8:l6" met="4" type="-+">Denckt t'is een Cappoen, een <rhyme label="c" type="m" corresp="#s8:l5">Geck</rhyme>.</l>
-        <l id="s8:l7" met="3" type="+-"><rhyme label="d" type="m">Elleboghedy</rhyme></l>
+        <l id="s8:l7" met="3" type="+-">
+          <rhyme label="d" type="m">Elleboghedy</rhyme>
+        </l>
         <l id="s8:l8" met="3" type="+-">Wat een Vent is <rhyme label="e" type="m">Hendrick</rhyme>.</l>
       </lg>
     </lg>

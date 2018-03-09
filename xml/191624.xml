@@ -52,7 +52,9 @@
         <l id="s4:l3" met="4" type="+-">Dat verdryft de Liefdes <rhyme label="a" type="m" corresp="#s4:l1">pyn</rhyme>,</l>
         <l id="s4:l4" met="4" type="+-">Ik zal helder liever <rhyme label="b" type="f">klinken</rhyme>,</l>
         <l id="s4:l5" met="2" type="+-">En <rhyme label="c" type="m">verblyd</rhyme></l>
-        <l id="s4:l6" met="2" type="+-"><rhyme label="c" type="m" corresp="#s4:l5">Gezondheid</rhyme></l>
+        <l id="s4:l6" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s4:l5">Gezondheid</rhyme>
+        </l>
         <l id="s4:l7" met="2" type="-+">Van haar gaan <rhyme label="b" type="f" corresp="#s4:l4">drinken</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

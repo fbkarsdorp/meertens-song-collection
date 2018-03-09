@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Ave pulcherrima regina</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -32,7 +35,9 @@
         <l id="s1:l7" met="4" type="-+">Ave MARIA <rhyme label="a" type="f" corresp="#s1:l1">Coninginne</rhyme>,</l>
         <l id="s1:l8" met="3" type="+-">Weerde Gods <rhyme label="a" type="f" corresp="#s1:l1">Vriendinne</rhyme>,</l>
         <l id="s1:l9" met="1" type="-+">Met <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l4">Bevanghen</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l4">Bevanghen</rhyme>
+        </l>
         <l id="s1:l11" met="3" type="+-">Laet doch die Helsche <rhyme label="b" type="f" corresp="#s1:l4">Slanghen</rhyme></l>
         <l id="s1:l12" met="2" type="-+">Rasch van ons <rhyme label="c" type="m" corresp="#s1:l6">gaen</rhyme>,</l>
         <l id="s1:l13" met="2" type="+-">Gheen <rhyme label="d" type="m">verdriet</rhyme></l>
@@ -51,12 +56,16 @@
         <l id="s2:l1" met="4" type="-+">O lof, en eere der <rhyme label="a" type="f">Propheten</rhyme></l>
         <l id="s2:l2" met="3" type="+-">V was Gods <rhyme label="a" type="f" corresp="#s2:l1">secreten</rhyme>,</l>
         <l id="s2:l3" met="1" type="-+">Te <rhyme label="a" type="f" corresp="#s2:l1">weten</rhyme>,</l>
-        <l id="s2:l4" met="1" type="-+"><rhyme label="b" type="f">Ghegheven</rhyme></l>
+        <l id="s2:l4" met="1" type="-+">
+          <rhyme label="b" type="f">Ghegheven</rhyme>
+        </l>
         <l id="s2:l5" met="3" type="-+">Ghy waert van alle <rhyme label="b" type="f" corresp="#s2:l4">sneven</rhyme></l>
         <l id="s2:l6" met="2" type="-+">Der zonden <rhyme label="c" type="m">vry</rhyme>.</l>
         <l id="s2:l7" met="4" type="-+">By t'bosch Moysi zijt ghy <rhyme label="a" type="f" corresp="#s2:l1">gheleecken</rhyme>,</l>
         <l id="s2:l8" met="3" type="+-">Dat bleef <rhyme label="a" type="f" corresp="#s2:l1">onbesweken</rhyme></l>
-        <l id="s2:l9" met="1" type="-+"><rhyme label="a" type="f" corresp="#s2:l1">Ontsteken</rhyme></l>
+        <l id="s2:l9" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s2:l1">Ontsteken</rhyme>
+        </l>
         <l id="s2:l10" met="1" type="-+">Met <rhyme label="b" type="f" corresp="#s2:l4">brande</rhyme></l>
         <l id="s2:l11" met="3" type="+-">So bleeft ghy sonder <rhyme label="b" type="f" corresp="#s2:l4">schande</rhyme></l>
         <l id="s2:l12" met="2" type="-+">Ghelooven <rhyme label="c" type="m" corresp="#s2:l6">wy</rhyme>.</l>
@@ -75,7 +84,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="-+">Edelheyt is oock van u <rhyme label="a" type="f">vernomen</rhyme>,</l>
         <l id="s3:l2" met="3" type="+-">Ghy zijt t'onser <rhyme label="a" type="f" corresp="#s3:l1">vromen</rhyme>,</l>
-        <l id="s3:l3" met="1" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Ghecomen</rhyme></l>
+        <l id="s3:l3" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s3:l1">Ghecomen</rhyme>
+        </l>
         <l id="s3:l4" met="1" type="-+">En <rhyme label="b" type="f">cloofde</rhyme></l>
         <l id="s3:l5" met="3" type="-+">Snachts Holophernus <rhyme label="b" type="f" corresp="#s3:l4">hoofde</rhyme>,</l>
         <l id="s3:l6" met="2" type="-+">Al van zijn <rhyme label="c" type="m">Lijf</rhyme>.</l>
@@ -101,13 +112,19 @@
         <l id="s4:l1" met="4" type="-+">Eer dat u Sone was <rhyme label="a" type="f">verresen</rhyme>,</l>
         <l id="s4:l2" met="3" type="+-">So zijt <rhyme label="a" type="f" corresp="#s4:l1">ghepresen</rhyme></l>
         <l id="s4:l3" met="1" type="-+">Te <rhyme label="a" type="f" corresp="#s4:l1">wesen</rhyme></l>
-        <l id="s4:l4" met="1" type="-+"><rhyme label="b" type="f">Alleene</rhyme></l>
+        <l id="s4:l4" met="1" type="-+">
+          <rhyme label="b" type="f">Alleene</rhyme>
+        </l>
         <l id="s4:l5" met="3" type="-+">Diet gheloof hielt <rhyme label="b" type="f" corresp="#s4:l4">alleene</rhyme></l>
         <l id="s4:l6" met="2" type="-+">Int herte <rhyme label="c" type="m">vast</rhyme>.</l>
         <l id="s4:l7" met="4" type="-+">Lof sy u Hester schoone <rhyme label="a" type="f" corresp="#s4:l1">Vrouwe</rhyme></l>
         <l id="s4:l8" met="3" type="+-">Die u Vrienden <rhyme label="a" type="f" corresp="#s4:l1">rouwe</rhyme></l>
-        <l id="s4:l9" met="1" type="-+"><rhyme label="a" type="f" corresp="#s4:l1">Ghetrouwe</rhyme></l>
-        <l id="s4:l10" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l4">Omwende</rhyme></l>
+        <l id="s4:l9" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s4:l1">Ghetrouwe</rhyme>
+        </l>
+        <l id="s4:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s4:l4">Omwende</rhyme>
+        </l>
         <l id="s4:l11" met="3" type="+-">Amen voor u int <rhyme label="b" type="f" corresp="#s4:l4">ende</rhyme>,</l>
         <l id="s4:l12" met="2" type="-+">Quam aen een <rhyme label="c" type="m" corresp="#s4:l6">bast</rhyme>.</l>
         <l id="s4:l13" met="2" type="+-">Loflijck <rhyme label="d" type="m">loon</rhyme></l>

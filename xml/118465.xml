@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 128 Datheen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

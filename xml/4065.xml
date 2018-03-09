@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>devout song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Ik zie de morgenster</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

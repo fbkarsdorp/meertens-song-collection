@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Zoet roosje rood</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -49,7 +53,9 @@
         <l id="s2:l9" met="3" type="-+">En port het hart vast <rhyme label="d" type="m" corresp="#s2:l5">aen</rhyme></l>
         <l id="s2:l10" met="3" type="-+">Dat willend' niet en <rhyme label="g" type="m">mach</rhyme>,</l>
         <l id="s2:l11" met="2" type="+-">Door <rhyme label="h" type="m">teghenheyt</rhyme>,</l>
-        <l id="s2:l12" met="2" type="+-"><rhyme label="h" type="m" corresp="#s2:l11">gheleghentheyt</rhyme></l>
+        <l id="s2:l12" met="2" type="+-">
+          <rhyme label="h" type="m" corresp="#s2:l11">gheleghentheyt</rhyme>
+        </l>
         <l id="s2:l13" met="3" type="+-">Verwacht ick nacht en <rhyme label="g" type="m" corresp="#s2:l10">dach</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

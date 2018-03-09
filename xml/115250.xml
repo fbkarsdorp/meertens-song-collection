@@ -7,10 +7,13 @@
       <year-end>1678</year-end>
     </date>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

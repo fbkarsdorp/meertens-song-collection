@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

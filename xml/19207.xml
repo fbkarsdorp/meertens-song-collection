@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>martyr's song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>De oude Hillebrand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

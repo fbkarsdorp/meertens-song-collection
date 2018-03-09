@@ -7,11 +7,14 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>children's song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="">Bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

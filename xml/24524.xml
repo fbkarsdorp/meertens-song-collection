@@ -7,12 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Och lig dij nu en slaapt</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

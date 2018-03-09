@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -133,7 +133,9 @@
       </lg>
       <lg id="s15" type="stanza">
         <l id="s15:l1" met="4" type="+-">Heer, gehengh niet dat de <rhyme label="a" type="f">booze</rhyme></l>
-        <l id="s15:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s15:l1">Goddelooze</rhyme></l>
+        <l id="s15:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s15:l1">Goddelooze</rhyme>
+        </l>
         <l id="s15:l3" met="4" type="+-">Lachen om mijn qualijk <rhyme label="b" type="m">vaart</rhyme>.</l>
         <l id="s15:l4" met="4" type="+-">Want zy zouden met mijn <rhyme label="c" type="f">zaken</rhyme></l>
         <l id="s15:l5" met="2" type="+-">Haar <rhyme label="c" type="f" corresp="#s15:l4">vermaken</rhyme>,</l>

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>murder song</tag>
+      <tag translation="murder song">moordlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

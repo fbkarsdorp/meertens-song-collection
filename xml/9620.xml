@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Het regende zeer en ik word nat</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -52,7 +55,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="-+">Des werelts droefheyt is oock <rhyme label="a" type="m">noot</rhyme></l>
         <l id="s5:l2" met="4" type="-+">Te mijden, want sy werckt de <rhyme label="a" type="m" corresp="#s5:l1">doodt</rhyme>,</l>
-        <l id="s5:l3" met="1" type="-+"><rhyme label="b" type="f">Ghemeene</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">
+          <rhyme label="b" type="f">Ghemeene</rhyme>
+        </l>
         <l id="s5:l4" met="3" type="-+">Is haer droefheyt niet <rhyme label="b" type="f" corresp="#s5:l3">kleene</rhyme>,</l>
         <l id="s5:l5" met="4" type="-+">Om nietigh dinck, dat sy acht <rhyme label="a" type="m" corresp="#s5:l1">groot</rhyme>.</l>
       </lg>
@@ -108,7 +113,9 @@
       <lg id="s13" type="stanza">
         <l id="s13:l1" met="4" type="-+">Dese ghenade in Christo <rhyme label="a" type="m">soet</rhyme>,</l>
         <l id="s13:l2" met="4" type="-+">Ons nu verschenen, ons <rhyme label="a" type="m" corresp="#s13:l1">ghemoet</rhyme></l>
-        <l id="s13:l3" met="1" type="-+"><rhyme label="b" type="f">Verheughen</rhyme></l>
+        <l id="s13:l3" met="1" type="-+">
+          <rhyme label="b" type="f">Verheughen</rhyme>
+        </l>
         <l id="s13:l4" met="3" type="-+">Wel mach, jae wy en <rhyme label="b" type="f" corresp="#s13:l3">meuchen</rhyme></l>
         <l id="s13:l5" met="4" type="-+">Niet treuren hier, watmen ons <rhyme label="a" type="m" corresp="#s13:l1">doet</rhyme>.</l>
       </lg>
@@ -178,7 +185,9 @@
       <lg id="s23" type="stanza">
         <l id="s23:l1" met="4" type="-+">Dus uyt oprechter liefden <rhyme label="a" type="m">heet</rhyme>,</l>
         <l id="s23:l2" met="4" type="-+">Laet ons den Heere, die't al <rhyme label="a" type="m" corresp="#s23:l1">weet</rhyme>,</l>
-        <l id="s23:l3" met="1" type="-+"><rhyme label="b" type="f">Ghenaken</rhyme></l>
+        <l id="s23:l3" met="1" type="-+">
+          <rhyme label="b" type="f">Ghenaken</rhyme>
+        </l>
         <l id="s23:l4" met="3" type="-+">Met der herten en <rhyme label="b" type="f" corresp="#s23:l3">maken</rhyme></l>
         <l id="s23:l5" met="4" type="-+">Voor hem gheen ydel <rhyme label="a" type="m" corresp="#s23:l1">mondt-ghebleet</rhyme>.</l>
       </lg>

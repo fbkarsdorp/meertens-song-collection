@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>moralistic song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>Florida zo het wezen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

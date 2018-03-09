@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>proverb</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Réveillez-vous belle endormie</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

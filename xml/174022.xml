@@ -7,10 +7,14 @@
       <year-end>1789</year-end>
     </date>
     <tags>
-      <tag>political song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Un matin brusquement</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

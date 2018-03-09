@@ -7,12 +7,17 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>Easter song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>devout song</tag>
+      <tag translation="Easter song">paaslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Christ ist erstanden</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

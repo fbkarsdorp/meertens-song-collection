@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Edele kersouw</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -34,7 +37,9 @@
         <l id="s1:l10" met="3" type="-+">Ghy Maeght, Vrouw ende <rhyme label="d" type="f" corresp="#s1:l8">Mannen</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
-        <l id="s2:l1" met="2" type="-+"><rhyme label="a" type="m">Elisabeth</rhyme></l>
+        <l id="s2:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Elisabeth</rhyme>
+        </l>
         <l id="s2:l2" met="3" type="-+">En Zacharias <rhyme label="b" type="f">waren</rhyme>,</l>
         <l id="s2:l3" met="3" type="-+">Sijn Ouders seer <rhyme label="c" type="m">vermaert</rhyme>.</l>
         <l id="s2:l4" met="2" type="-+">Hy <rhyme label="a" type="m" corresp="#s2:l1">onbesmet</rhyme></l>
@@ -58,7 +63,9 @@
         <l id="s3:l10" met="3" type="-+">Nu spreeckt in Godts lof <rhyme label="d" type="f" corresp="#s3:l8">geven</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
-        <l id="s4:l1" met="2" type="-+"><rhyme label="a" type="m">Gebenedijt</rhyme></l>
+        <l id="s4:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Gebenedijt</rhyme>
+        </l>
         <l id="s4:l2" met="3" type="-+">Den Heer en Godt moet <rhyme label="b" type="f">wesen</rhyme></l>
         <l id="s4:l3" met="3" type="-+">Zach'rias dit <rhyme label="c" type="m">bedocht</rhyme>,</l>
         <l id="s4:l4" met="2" type="-+">Nu en <rhyme label="a" type="m" corresp="#s4:l1">altijt</rhyme></l>

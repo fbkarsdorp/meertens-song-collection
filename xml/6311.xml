@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>fairground song</tag>
+      <tag translation="kermesse song">kermislied</tag>
     </tags>
     <melody>Als Phoebus vertoog</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

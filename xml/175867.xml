@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>dialog song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Es ist das Heil uns kommen her</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

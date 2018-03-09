@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Sta op mijn bruid die ik bemin</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

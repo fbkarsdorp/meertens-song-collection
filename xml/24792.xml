@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>three-kings song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="">Driekoningenlied</tag>
     </tags>
     <melody>Een kindje is ons geboren</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

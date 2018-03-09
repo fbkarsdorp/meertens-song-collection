@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>orange song</tag>
-      <tag>battle song</tag>
+      <tag translation="">Oranjelied</tag>
+      <tag translation="battle song">strijdlied</tag>
     </tags>
     <melody>Laat ons loven nu de held</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

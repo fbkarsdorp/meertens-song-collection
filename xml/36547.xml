@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>prayer song</tag>
-      <tag>history song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

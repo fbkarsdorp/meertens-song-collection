@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Van Grambal</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -87,7 +90,9 @@
         <l id="s6:l2" met="3" type="-+">Met twee beweende <rhyme label="b" type="f">oogen</rhyme>,</l>
         <l id="s6:l3" met="4" type="+-">Doe sy voor sijn voeten <rhyme label="a" type="m" corresp="#s6:l1">lag</rhyme>,</l>
         <l id="s6:l4" met="2" type="-+">En sy <rhyme label="c" type="m">sey</rhyme>,</l>
-        <l id="s6:l5" met="2" type="-+"><rhyme label="c" type="m" corresp="#s6:l4">Meenigmael</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s6:l4">Meenigmael</rhyme>
+        </l>
         <l id="s6:l6" met="2" type="-+">met een <rhyme label="d" type="m">tael</rhyme>,</l>
         <l id="s6:l7" met="4" type="-+">Iongman kiest mijn voor u <rhyme label="d" type="m" corresp="#s6:l6">Slaef</rhyme>,</l>
         <l id="s6:l8" met="3" type="+-">Dochter had gy daer <rhyme label="e" type="m">opgelet</rhyme>,</l>

@@ -7,12 +7,17 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
-      <tag>praise</tag>
-      <tag>prayer song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Waar is de dochter van Sion</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

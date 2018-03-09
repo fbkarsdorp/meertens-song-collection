@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>thanks song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="gratitude song">danklied</tag>
     </tags>
     <melody>Ik drink de nieuwe most</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -41,7 +45,9 @@
         <l id="s2:l3" met="5" type="-+">Zoo dikmaal looft hy uwe <rhyme label="b" type="m">almogentheid</rhyme>,</l>
         <l id="s2:l4" met="5" type="-+">Waar door hem sproot zulk een <rhyme label="b" type="m" corresp="#s2:l3">medogentheid</rhyme>,</l>
         <l id="s2:l5" met="1" type="-+">Dat <rhyme label="c" type="m">geen</rhyme></l>
-        <l id="s2:l6" met="2" type="-+"><rhyme label="c" type="m" corresp="#s2:l5">Bevalligheên</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s2:l5">Bevalligheên</rhyme>
+        </l>
         <l id="s2:l7" met="2" type="-+">My konnen <rhyme label="d" type="f">strikken</rhyme>:</l>
         <l id="s2:l8" met="3" type="+-">Goede <rhyme label="c" type="m" corresp="#s2:l5">Godd'lijkheên</rhyme>,</l>
         <l id="s2:l9" met="4" type="-+">Laat ik my namaals eeuwig <rhyme label="d" type="f" corresp="#s2:l7">wrikken</rhyme></l>

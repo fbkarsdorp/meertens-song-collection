@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>drinking song</tag>
-      <tag>register song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="catalogue song">registerlied</tag>
     </tags>
     <melody>Het was een klerkje dat ging ter school</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

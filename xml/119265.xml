@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Ik wou dat ik was een wilde zwaan</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

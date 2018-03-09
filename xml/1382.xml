@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>admonishing song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Gij nijders kwaad van doen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

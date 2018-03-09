@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>triumph song</tag>
-      <tag>political song</tag>
-      <tag>orange song</tag>
+      <tag translation="triumph song">triomflied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="orangist song">oranjelied</tag>
     </tags>
     <melody>Mijn lieve Saartje</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

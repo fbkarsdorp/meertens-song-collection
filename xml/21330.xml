@@ -7,11 +7,15 @@
       <year-end>1592</year-end>
     </date>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Ik wil mij gaan verheugen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

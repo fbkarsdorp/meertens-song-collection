@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Bergamasco</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -36,7 +39,9 @@
         <l id="s1:l12" met="4" type="+-">Ghy looft altydt uwen <rhyme label="e" type="m" corresp="#s1:l9">Heer</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
-        <l id="s2:l1" met="2" type="+-"><rhyme label="a" type="f">Nachtegaeltjen</rhyme></l>
+        <l id="s2:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Nachtegaeltjen</rhyme>
+        </l>
         <l id="s2:l2" met="2" type="+-">Leent m'uw <rhyme label="a" type="f" corresp="#s2:l1">taeltjen</rhyme>,</l>
         <l id="s2:l3" met="4" type="+-">Op dat ick Godt nacht en <rhyme label="b" type="m">dagh</rhyme>,</l>
         <l id="s2:l4" met="2" type="+-">Soo in <rhyme label="c" type="f">lyden</rhyme></l>

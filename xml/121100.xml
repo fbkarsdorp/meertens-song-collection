@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>sailor song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Jeune et novice encore</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

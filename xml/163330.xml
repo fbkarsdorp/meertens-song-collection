@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>secular song</tag>
-      <tag>love complaint</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Schep moed mijn hart</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -27,7 +31,9 @@
         <l id="s1:l1" met="4" type="-+">Waarom wild gy mijn, schoone, <rhyme label="a" type="f">vlieden</rhyme>,</l>
         <l id="s1:l2" met="3" type="-+">Dus sonder <rhyme label="b" type="m">medely</rhyme>,</l>
         <l id="s1:l3" met="1" type="-+">Daar   <rhyme label="b" type="m" corresp="#s1:l2">gy</rhyme></l>
-        <l id="s1:l4" met="1" type="-+"><rhyme label="a" type="f" corresp="#s1:l1">Gebieden</rhyme></l>
+        <l id="s1:l4" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s1:l1">Gebieden</rhyme>
+        </l>
         <l id="s1:l5" met="3" type="+-">Kunt het hert van <rhyme label="b" type="m" corresp="#s1:l2">my</rhyme>!</l>
         <l id="s1:l6" met="3" type="-+">Ag, laat mijn hete <rhyme label="c" type="m">smert</rhyme></l>
         <l id="s1:l7" met="3" type="+-">Slegts dese gunst <rhyme label="a" type="f" corresp="#s1:l1">geschieden</rhyme>,</l>

@@ -7,11 +7,15 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>proverb</tag>
+      <tag translation="">Geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>O rad van avontuur</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

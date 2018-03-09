@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>admonishing song</tag>
-      <tag>secular song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Als al de wereld in vreugde is</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

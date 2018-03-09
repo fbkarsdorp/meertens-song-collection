@@ -15,14 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">Voedsteress'</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Voedsteress'</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Der soetste <rhyme label="b" type="f">Minne-vlaeghjes</rhyme>,</l>
         <l id="s1:l3" met="4" type="+-">Daelt uyt uwen Hemel <rhyme label="c" type="m">af</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">Stroyt Zege-bloemtjes <rhyme label="d" type="m">neer</rhyme>:</l>

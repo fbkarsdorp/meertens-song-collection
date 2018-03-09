@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>In Oostenrijk daar staat een huis</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -67,7 +70,9 @@
         <l id="s5:l3" met="4" type="-+">Die Mannen worden seer <rhyme label="a" type="m" corresp="#s5:l1">verstoort</rhyme>,</l>
         <l id="s5:l4" met="4" type="-+">Als sy dese dwaesheyt <rhyme label="b" type="f" corresp="#s5:l2">vernamen</rhyme>,</l>
         <l id="s5:l5" met="4" type="-+">Van Sichem verheven // <rhyme label="c" type="f">bedreven</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="d" type="m">Rebel</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="d" type="m">Rebel</rhyme>
+        </l>
         <l id="s5:l7" met="2" type="-+">Aen <rhyme label="d" type="m" corresp="#s5:l6">Israel</rhyme>,</l>
         <l id="s5:l8" met="4" type="-+">Haer hert en kost het niet <rhyme label="c" type="f" corresp="#s5:l5">vergheven</rhyme>.</l>
       </lg>
@@ -117,7 +122,9 @@
         <l id="s10:l3" met="4" type="-+">Maer hoort ghy ons in desen <rhyme label="a" type="m" corresp="#s10:l1">niet</rhyme>,</l>
         <l id="s10:l4" met="4" type="-+">Wy nemen d'onse en henen <rhyme label="b" type="f" corresp="#s10:l2">trecken</rhyme>,</l>
         <l id="s10:l5" met="4" type="-+">Als sy dit seyden // haer <rhyme label="c" type="f">beyden</rhyme></l>
-        <l id="s10:l6" met="1" type="-+"><rhyme label="d" type="m">Beviel</rhyme></l>
+        <l id="s10:l6" met="1" type="-+">
+          <rhyme label="d" type="m">Beviel</rhyme>
+        </l>
         <l id="s10:l7" met="2" type="-+">Dit inder <rhyme label="d" type="m" corresp="#s10:l6">yel</rhyme></l>
         <l id="s10:l8" met="4" type="-+">Zijn zy van daer vrolijck <rhyme label="c" type="f" corresp="#s10:l5">ghescheyden</rhyme>.</l>
       </lg>
@@ -177,7 +184,9 @@
         <l id="s16:l3" met="4" type="-+">Omgaen, als met een hoere <rhyme label="a" type="m" corresp="#s16:l1">snoo</rhyme>?</l>
         <l id="s16:l4" met="4" type="-+">Maer 'tschijnt het was doch al <rhyme label="b" type="f" corresp="#s16:l2">verloren</rhyme></l>
         <l id="s16:l5" met="4" type="-+">Wat sy antwoorden // dit <rhyme label="c" type="f">moorden</rhyme>,</l>
-        <l id="s16:l6" met="1" type="-+"><rhyme label="d" type="m">Iacob</rhyme></l>
+        <l id="s16:l6" met="1" type="-+">
+          <rhyme label="d" type="m">Iacob</rhyme>
+        </l>
         <l id="s16:l7" met="2" type="-+">Noch haelde <rhyme label="d" type="m" corresp="#s16:l6">op</rhyme></l>
         <l id="s16:l8" met="4" type="-+">In zijn doorbedde, daer sy't <rhyme label="c" type="f" corresp="#s16:l5">hoorden</rhyme>.</l>
       </lg>

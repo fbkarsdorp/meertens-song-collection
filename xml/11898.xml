@@ -68,7 +68,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="3" type="+-">Deughd'lijck voor te <rhyme label="a" type="m">treen</rhyme></l>
         <l id="s3:l2" met="4" type="-+">Op 't Padt, dat ons ten leven <rhyme label="b" type="m">leydt</rhyme>,</l>
-        <l id="s3:l3" met="2" type="+-"><rhyme label="c" type="f">Overtuyghen</rhyme></l>
+        <l id="s3:l3" met="2" type="+-">
+          <rhyme label="c" type="f">Overtuyghen</rhyme>
+        </l>
         <l id="s3:l4" met="2" type="+-">Kan, en <rhyme label="c" type="f" corresp="#s3:l3">buyghen</rhyme></l>
         <l id="s3:l5" met="3" type="+-">Ons tot g'lijcke <rhyme label="d" type="m">daet</rhyme>.</l>
         <l id="s3:l6" met="3" type="+-">Waerom? Ider <rhyme label="a" type="m" corresp="#s3:l1">een</rhyme></l>
@@ -97,7 +99,9 @@
         <l id="s4:l6" met="3" type="+-">Neem sorghvuldigh <rhyme label="a" type="m" corresp="#s4:l1">acht</rhyme></l>
         <l id="s4:l7" met="4" type="-+">Dat nimmermeer ghy jet <rhyme label="b" type="m" corresp="#s4:l2">bestaet</rhyme></l>
         <l id="s4:l8" met="2" type="+-">Waer door <rhyme label="e" type="f">licht'lijck</rhyme></l>
-        <l id="s4:l9" met="2" type="+-"><rhyme label="e" type="f" corresp="#s4:l8">Onvoorsight'lijck</rhyme></l>
+        <l id="s4:l9" met="2" type="+-">
+          <rhyme label="e" type="f" corresp="#s4:l8">Onvoorsight'lijck</rhyme>
+        </l>
         <l id="s4:l10" met="3" type="+-">Hy Gods wegen <rhyme label="d" type="m" corresp="#s4:l5">mist</rhyme>.</l>
         <l id="s4:l11" met="2" type="+-">Wie ten <rhyme label="f" type="m">val</rhyme></l>
         <l id="s4:l12" met="2" type="+-">Brengen <rhyme label="f" type="m" corresp="#s4:l11">sal</rhyme></l>

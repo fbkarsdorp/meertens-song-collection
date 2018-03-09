@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -125,7 +128,9 @@
         <l id="s5:l13" met="4" type="-+">O Julia! wie volgd u <rhyme label="f" type="m">na</rhyme>?</l>
         <l id="s5:l14" met="4" type="-+">O Cesars kroost, Pompeus <rhyme label="g" type="m">troost</rhyme>:</l>
         <l id="s5:l15" met="4" type="-+">Geweldig, word u ziel <rhyme label="h" type="m">gestort</rhyme>.</l>
-        <l id="s5:l16" met="1" type="-+"><rhyme label="c" type="f" corresp="#s5:l6">Gedreven</rhyme></l>
+        <l id="s5:l16" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s5:l6">Gedreven</rhyme>
+        </l>
         <l id="s5:l17" met="4" type="-+">Alleen door d'Echt: die steên <rhyme label="i" type="m">bevecht</rhyme>,</l>
         <l id="s5:l18" met="4" type="-+">En over-wind. gy kend noch <rhyme label="j" type="m">Kind</rhyme>,</l>
         <l id="s5:l19" met="4" type="-+">Noch Ouders. Trou zijt gy, ô! <rhyme label="k" type="m">Vrou</rhyme></l>

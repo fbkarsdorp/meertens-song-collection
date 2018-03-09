@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
-      <tag>new year song</tag>
-      <tag>mystical song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="mystical song">mystiek lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

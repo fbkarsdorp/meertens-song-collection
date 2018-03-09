@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>devout song</tag>
-      <tag>prayer song</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Och lig dij nu en slaapt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>mystical song</tag>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

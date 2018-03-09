@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
-      <tag>narrative song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Belle Iris</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

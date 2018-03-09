@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -64,7 +67,9 @@
       </lg>
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="4" type="+-">Zwakheid zal mij niet <rhyme label="a" type="f">beletten</rhyme>,</l>
-        <l id="s6:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s6:l1">Uittezetten</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s6:l1">Uittezetten</rhyme>
+        </l>
         <l id="s6:l3" met="4" type="+-">Het talent van mijnen <rhyme label="b" type="m">Heer</rhyme>.</l>
         <l id="s6:l4" met="4" type="+-">Door te strijden zal ik <rhyme label="c" type="f">leeren</rhyme></l>
         <l id="s6:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s6:l4">Triomfeeren</rhyme>,</l>

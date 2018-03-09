@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>dialog song</tag>
-      <tag>love song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ik lig somtijds gehele nachten</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

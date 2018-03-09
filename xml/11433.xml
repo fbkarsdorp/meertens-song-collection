@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Branle Breda</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>farewell song</tag>
-      <tag>lamentation</tag>
-      <tag>arcostic</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Haast u mijn schone vriendin</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

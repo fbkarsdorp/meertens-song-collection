@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

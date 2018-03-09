@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Gavotte à la fronte</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +51,9 @@
       </lg>
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="4" type="+-">Gout, Parels leght op een <rhyme label="a" type="m">Schael</rhyme></l>
-        <l id="s4:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s4:l1">Altemael</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s4:l1">Altemael</rhyme>
+        </l>
         <l id="s4:l3" met="3" type="-+">Des Werelts hooghste <rhyme label="b" type="f">saken</rhyme>:</l>
         <l id="s4:l4" met="4" type="+-">Soo op de ander Schael <rhyme label="c" type="m">leyt</rhyme>,</l>
         <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s4:l4">Suyverheyt</rhyme>,</l>
@@ -83,7 +88,9 @@
         <l id="s8:l2" met="2" type="+-">Vleysch, noch <rhyme label="a" type="m" corresp="#s8:l1">eysch</rhyme></l>
         <l id="s8:l3" met="3" type="-+">In d' Engelen op <rhyme label="b" type="f">rijsen</rhyme>.</l>
         <l id="s8:l4" met="4" type="+-">d' Oudt-vaders u Maeghden <rhyme label="c" type="m">reyn</rhyme>,</l>
-        <l id="s8:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s8:l4">Algemeyn</rhyme></l>
+        <l id="s8:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s8:l4">Algemeyn</rhyme>
+        </l>
         <l id="s8:l6" met="3" type="-+">Boven d' Engelen <rhyme label="b" type="f" corresp="#s8:l3">prijsen</rhyme>.</l>
       </lg>
       <lg id="s9" type="stanza">

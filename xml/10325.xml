@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

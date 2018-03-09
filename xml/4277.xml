@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Prieel zoetgeurig balsemvat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -34,7 +39,9 @@
         <l id="s2:l1" met="1" type="-+">Int <rhyme label="a" type="m">grief</rhyme></l>
         <l id="s2:l2" met="3" type="-+">Lach ick (eylaes) <rhyme label="b" type="m">gewont</rhyme>,</l>
         <l id="s2:l3" met="2" type="-+">Die my <rhyme label="c" type="f">benijden</rhyme>,</l>
-        <l id="s2:l4" met="2" type="-+"><rhyme label="c" type="f" corresp="#s2:l3">Vermaledijden</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">
+          <rhyme label="c" type="f" corresp="#s2:l3">Vermaledijden</rhyme>
+        </l>
         <l id="s2:l5" met="5" type="+-">My, om dat ick u hadde <rhyme label="d" type="f">vercoren</rhyme>:</l>
         <l id="s2:l6" met="1" type="-+">Den <rhyme label="a" type="m" corresp="#s2:l1">brief</rhyme></l>
         <l id="s2:l7" met="3" type="-+">Daer t'woort van troost in <rhyme label="b" type="m" corresp="#s2:l2">stont</rhyme>,</l>
@@ -46,7 +53,9 @@
         <l id="s2:l13" met="2" type="-+">Liever <rhyme label="d" type="f" corresp="#s2:l5">geboren</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
-        <l id="s3:l1" met="1" type="-+"><rhyme label="a" type="m">Eerbaer</rhyme></l>
+        <l id="s3:l1" met="1" type="-+">
+          <rhyme label="a" type="m">Eerbaer</rhyme>
+        </l>
         <l id="s3:l2" met="3" type="-+">Acht u een yder // <rhyme label="b" type="m">meest</rhyme>,</l>
         <l id="s3:l3" met="2" type="-+">Ghy zijt in <rhyme label="c" type="f">desen</rhyme></l>
         <l id="s3:l4" met="2" type="-+">Geeert, <rhyme label="c" type="f" corresp="#s3:l3">gepresen</rhyme>,</l>

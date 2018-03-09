@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Bourrée du roi</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +51,9 @@
         <l id="s2:l7" met="4" type="+-">Die daar Cyprus <rhyme label="d" type="m">Afgodin</rhyme></l>
         <l id="s2:l8" met="2" type="+-">Heeft <rhyme label="c" type="f" corresp="#s2:l6">verhoolen</rhyme>;</l>
         <l id="s2:l9" met="2" type="+-">En die <rhyme label="e" type="m">brand</rhyme></l>
-        <l id="s2:l10" met="2" type="+-"><rhyme label="e" type="m" corresp="#s2:l9">Fidamant</rhyme></l>
+        <l id="s2:l10" met="2" type="+-">
+          <rhyme label="e" type="m" corresp="#s2:l9">Fidamant</rhyme>
+        </l>
         <l id="s2:l11" met="4" type="+-">Glijen doet ten boesem <rhyme label="d" type="m" corresp="#s2:l7">in</rhyme>.</l>
         <l id="s2:l12" met="2" type="+-">Mijn <rhyme label="f" type="m">Natuur</rhyme></l>
         <l id="s2:l13" met="2" type="+-">'t <rhyme label="f" type="m" corresp="#s2:l12">Sonne-vuur</rhyme></l>
@@ -85,7 +90,9 @@
         <l id="s4:l10" met="2" type="+-">Noyt <rhyme label="e" type="m" corresp="#s4:l9">verslijt</rhyme>.</l>
         <l id="s4:l11" met="4" type="+-">Stook dan brand met brand niet <rhyme label="d" type="m" corresp="#s4:l7">meer</rhyme>.</l>
         <l id="s4:l12" met="2" type="+-">Maar soo <rhyme label="f" type="m">gy</rhyme></l>
-        <l id="s4:l13" met="2" type="+-"><rhyme label="f" type="m" corresp="#s4:l12">Medely</rhyme></l>
+        <l id="s4:l13" met="2" type="+-">
+          <rhyme label="f" type="m" corresp="#s4:l12">Medely</rhyme>
+        </l>
         <l id="s4:l14" met="2" type="+-">My <rhyme label="g" type="m">ontsegt</rhyme>,</l>
         <l id="s4:l15" met="5" type="+-">Ook uw oog my dan niet meer <rhyme label="g" type="m" corresp="#s4:l14">bevecht</rhyme>.</l>
       </lg>

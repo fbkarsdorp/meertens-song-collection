@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Ballet Dorothée</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -58,7 +61,9 @@
         <l id="s3:l3" met="2" type="-+">Van   al wat <rhyme label="b" type="m">leeft</rhyme></l>
         <l id="s3:l4" met="3" type="-+">Werd hevig na <rhyme label="b" type="m" corresp="#s3:l3">gestreefd</rhyme>;</l>
         <l id="s3:l5" met="1" type="-+">Welks <rhyme label="c" type="m">smaak</rhyme></l>
-        <l id="s3:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s3:l5">Vermaak</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s3:l5">Vermaak</rhyme>
+        </l>
         <l id="s3:l7" met="3" type="-+">Uw steeds sal <rhyme label="d" type="f">mededelen</rhyme>.</l>
         <l id="s3:l8" met="2" type="+-">Ja, die <rhyme label="e" type="m">gloed</rhyme></l>
         <l id="s3:l9" met="2" type="+-">Soo vol <rhyme label="e" type="m" corresp="#s3:l8">soet</rhyme></l>

@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
-      <tag>table song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dining song">tafellied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

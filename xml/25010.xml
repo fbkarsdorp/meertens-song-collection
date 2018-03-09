@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mystical song</tag>
-      <tag>love song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

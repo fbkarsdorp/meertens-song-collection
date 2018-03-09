@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>love complaint</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Gezelletje du moest wandelen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -55,7 +59,9 @@
         <l id="s2:l10" met="3" type="-+">Ist niet een sware <rhyme label="d" type="m">last</rhyme></l>
         <l id="s2:l11" met="3" type="-+">Daer my 't begheert in <rhyme label="c" type="f" corresp="#s2:l9">spanden</rhyme></l>
         <l id="s2:l12" met="3" type="-+">Tot v persoon zeer <rhyme label="d" type="m" corresp="#s2:l10">vast</rhyme>.</l>
-        <l id="s2:l13" met="2" type="-+"><rhyme label="e" type="m">Melancoly</rhyme></l>
+        <l id="s2:l13" met="2" type="-+">
+          <rhyme label="e" type="m">Melancoly</rhyme>
+        </l>
         <l id="s2:l14" met="2" type="-+">En vreughts <rhyme label="e" type="m" corresp="#s2:l13">party</rhyme></l>
         <l id="s2:l15" met="3" type="-+">Daghelijcks in my <rhyme label="d" type="m" corresp="#s2:l10">wast</rhyme></l>
         <l id="s2:l16" met="2" type="-+">Dies vind ick <rhyme label="e" type="m" corresp="#s2:l13">my</rhyme></l>

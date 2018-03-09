@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>protest song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="protest song">protestlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

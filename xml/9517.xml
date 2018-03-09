@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

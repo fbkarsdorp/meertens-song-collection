@@ -7,10 +7,14 @@
       <year-end>1430</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>May song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

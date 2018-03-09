@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

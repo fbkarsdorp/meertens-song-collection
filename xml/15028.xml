@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>consolation song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Come shepherds deck your heads</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

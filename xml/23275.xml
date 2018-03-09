@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Roepen bidden kermen en klagen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

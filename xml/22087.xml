@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>Maria song</tag>
-      <tag>praise</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Waar is de dochter van Sion</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

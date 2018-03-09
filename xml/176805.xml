@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>reflective song</tag>
-      <tag>admonishing song</tag>
-      <tag>baptismal song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="christening song">dooplied</tag>
     </tags>
     <melody>Babel is nu gevallen</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

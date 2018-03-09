@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>battle song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

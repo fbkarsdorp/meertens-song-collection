@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>mystical song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Aanhoor toch mijn geklaag gij ruiters</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

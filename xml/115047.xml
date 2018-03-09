@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

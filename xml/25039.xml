@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>virelai</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="">virelai</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

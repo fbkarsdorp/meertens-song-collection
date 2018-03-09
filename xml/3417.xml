@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>prayer song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Een amoureus fier gelaat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

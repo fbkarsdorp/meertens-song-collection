@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mourning song</tag>
-      <tag>political song</tag>
+      <tag translation="mourning song">rouwlied</tag>
+      <tag translation="political song">politiek lied</tag>
     </tags>
     <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

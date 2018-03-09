@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>pilgrim's song</tag>
+      <tag translation="pilgrim song">pelgrimslied</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

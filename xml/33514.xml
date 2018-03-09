@@ -7,11 +7,15 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>narrative song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Het daagt in de oosten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

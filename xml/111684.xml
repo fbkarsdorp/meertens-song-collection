@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>fairground song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="kermesse song">kermislied</tag>
     </tags>
     <melody>Mars van Marlborough</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

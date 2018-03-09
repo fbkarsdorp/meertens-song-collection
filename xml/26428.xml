@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Onder een prieel vol ruikende rozen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

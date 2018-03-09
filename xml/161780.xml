@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mythological song</tag>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

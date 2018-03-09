@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>love song</tag>
-      <tag>wedding song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Barlo's mars</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

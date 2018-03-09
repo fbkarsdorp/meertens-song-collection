@@ -46,7 +46,9 @@
         <l id="s3:l4" met="2" type="-+">Of streelen de <rhyme label="c" type="f">zinnen</rhyme>.</l>
         <l id="s3:l5" met="3" type="+-">'T is van u <rhyme label="d" type="f">afhanklijk</rhyme>,</l>
         <l id="s3:l6" met="3" type="-+">En broos, en <rhyme label="d" type="f" corresp="#s3:l5">verganklijk</rhyme>,</l>
-        <l id="s3:l7" met="1" type="-+"><rhyme label="e" type="m">Onwaardig</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">
+          <rhyme label="e" type="m">Onwaardig</rhyme>
+        </l>
         <l id="s3:l8" met="2" type="-+">Onwaardig te <rhyme label="c" type="f" corresp="#s3:l4">minnen</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">

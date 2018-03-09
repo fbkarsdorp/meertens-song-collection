@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Mijn allerliefste verheven</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

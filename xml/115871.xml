@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>De stille nacht genaakt</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

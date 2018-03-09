@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
-      <tag>arcostic</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Ik heb de groene straten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

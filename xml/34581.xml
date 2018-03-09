@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

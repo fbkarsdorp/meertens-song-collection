@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>O roosje rood o parel jent</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -78,7 +81,9 @@
         <l id="s6:l4" met="2" type="-+">Noch Vee te <rhyme label="b" type="m" corresp="#s6:l2">doôn</rhyme>,</l>
         <l id="s6:l5" met="2" type="-+">Vaak mennigh <rhyme label="c" type="m">knaap</rhyme></l>
         <l id="s6:l6" met="2" type="-+">Worde' om een <rhyme label="c" type="m" corresp="#s6:l5">Schaap</rhyme></l>
-        <l id="s6:l7" met="1" type="-+"><rhyme label="d" type="m">Ghestrikt</rhyme></l>
+        <l id="s6:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Ghestrikt</rhyme>
+        </l>
         <l id="s6:l8" met="5" type="-+">En schandigh door de Beul in't bloedt <rhyme label="d" type="m" corresp="#s6:l7">gestikt</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">

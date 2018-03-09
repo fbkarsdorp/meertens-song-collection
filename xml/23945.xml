@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Een ridder en een meisje jong</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

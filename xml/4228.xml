@@ -38,13 +38,17 @@
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="3" type="-+">Op dat het Drie in <rhyme label="a" type="m">Een</rhyme></l>
-        <l id="s2:l2" met="2" type="-+"><rhyme label="b" type="f">Goddelijk-wesen</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">
+          <rhyme label="b" type="f">Goddelijk-wesen</rhyme>
+        </l>
         <l id="s2:l3" met="2" type="-+">(Van u <rhyme label="b" type="f" corresp="#s2:l2">gepresen</rhyme>)</l>
         <l id="s2:l4" met="2" type="-+">Sie na <rhyme label="a" type="m" corresp="#s2:l1">beneên</rhyme>:</l>
         <l id="s2:l5" met="3" type="-+">En help ons <rhyme label="c" type="m">dap're-Prins</rhyme>:</l>
         <l id="s2:l6" met="3" type="-+">Gelijk hy (eertijds <rhyme label="c" type="m" corresp="#s2:l5">gins</rhyme>)</l>
         <l id="s2:l7" met="3" type="-+">Bood Iosua <rhyme label="c" type="m" corresp="#s2:l5">(alsins</rhyme>)</l>
-        <l id="s2:l8" met="1" type="-+"><rhyme label="d" type="m">By-stand</rhyme></l>
+        <l id="s2:l8" met="1" type="-+">
+          <rhyme label="d" type="m">By-stand</rhyme>
+        </l>
         <l id="s2:l9" met="3" type="-+">In 't lang <rhyme label="d" type="m" corresp="#s2:l8">beloofde-Land</rhyme>:</l>
         <l id="s2:l10" met="2" type="-+">Die sijn <rhyme label="d" type="m" corresp="#s2:l8">Vyand</rhyme></l>
         <l id="s2:l11" met="2" type="+-">(Vol schrik) dee <rhyme label="b" type="f" corresp="#s2:l2">vresen</rhyme></l>

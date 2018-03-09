@@ -50,7 +50,9 @@
         <l id="s3:l8" met="4" type="-+">Leur coeur s'ouvre au <rhyme label="c" type="m" corresp="#s3:l6">contentement</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
-        <l id="s4:l1" met="2" type="+-"><rhyme label="a" type="m">Exaltons</rhyme></l>
+        <l id="s4:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Exaltons</rhyme>
+        </l>
         <l id="s4:l2" met="2" type="+-">Et <rhyme label="a" type="m" corresp="#s4:l1">chantons</rhyme></l>
         <l id="s4:l3" met="4" type="+-">De ce temple la <rhyme label="b" type="f">Déesse</rhyme>!</l>
         <l id="s4:l4" met="5" type="-+">Sois, temple auguste, un rempart aux <rhyme label="a" type="m" corresp="#s4:l1">Maçons</rhyme>!</l>

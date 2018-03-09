@@ -7,10 +7,14 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Mijn hart dat jaagt zeer onversaagd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

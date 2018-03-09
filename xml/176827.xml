@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>praise</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>O Gott wir danken deiner Güt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,10 +7,13 @@
       <year-end>1600</year-end>
     </date>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Van die men op de galei wilde stellen</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

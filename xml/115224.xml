@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Mijn schone herderin</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

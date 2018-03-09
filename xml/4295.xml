@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Minzaam beeldje amoureus</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -78,7 +83,9 @@
         <l id="s5:l4" met="3" type="-+">Mijn vreught zijt even <rhyme label="b" type="m" corresp="#s5:l2">by</rhyme>,</l>
         <l id="s5:l5" met="3" type="-+">Soo bly // als wy nu <rhyme label="c" type="f">scheyden</rhyme>,</l>
         <l id="s5:l6" met="3" type="+-">Verbeyden // wilt my <rhyme label="d" type="m">saen</rhyme>:</l>
-        <l id="s5:l7" met="1" type="+-"><rhyme label="e" type="f">T'onvroede</rhyme></l>
+        <l id="s5:l7" met="1" type="+-">
+          <rhyme label="e" type="f">T'onvroede</rhyme>
+        </l>
         <l id="s5:l8" met="1" type="-+">Int <rhyme label="e" type="f" corresp="#s5:l7">goede</rhyme></l>
         <l id="s5:l9" met="2" type="-+">Ten bloede // neemt <rhyme label="d" type="m" corresp="#s5:l6">aen</rhyme>,</l>
         <l id="s5:l10" met="1" type="-+">Houdt <rhyme label="f" type="f">stede</rhyme>,</l>

@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="3" type="-+"><rhyme label="a" type="m">OMededogend-God</rhyme></l>
+        <l id="s1:l1" met="3" type="-+">
+          <rhyme label="a" type="m">OMededogend-God</rhyme>
+        </l>
         <l id="s1:l2" met="2" type="-+">Wy uwe <rhyme label="b" type="f">Kind'ren</rhyme>,</l>
         <l id="s1:l3" met="3" type="-+">An-roepen u <rhyme label="c" type="m">alleen</rhyme>:</l>
         <l id="s1:l4" met="3" type="-+">Helpt <rhyme label="a" type="m" corresp="#s1:l1">Heere-Zebaoth</rhyme></l>

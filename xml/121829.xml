@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>craft song</tag>
-      <tag>market song</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
+      <tag translation="market song">marktlied</tag>
     </tags>
     <melody>Kapotje</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

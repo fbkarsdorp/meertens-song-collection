@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dance song</tag>
-      <tag>virelai ballad</tag>
+      <tag translation="dancing song">danslied</tag>
+      <tag translation="virelai-ballad">virelai-ballade</tag>
     </tags>
     <melody>Wel aan wel aan met harten gaai</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

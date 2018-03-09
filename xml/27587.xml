@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
-      <tag>history song</tag>
-      <tag>beggar song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

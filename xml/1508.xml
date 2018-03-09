@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -88,7 +91,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="2" type="-+">Schept nu <rhyme label="a" type="m">playsier</rhyme></l>
         <l id="s5:l2" met="3" type="-+">Princen wilt <rhyme label="b" type="f">vermeyen</rhyme></l>
-        <l id="s5:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s5:l1">d'Eglentier</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s5:l1">d'Eglentier</rhyme>
+        </l>
         <l id="s5:l4" met="3" type="-+">Die bloeyt schoon en <rhyme label="c" type="m">playsant</rhyme>,</l>
         <l id="s5:l5" met="2" type="-+">Oock sietmen <rhyme label="a" type="m" corresp="#s5:l1">fier</rhyme></l>
         <l id="s5:l6" met="3" type="-+">Dat de witte <rhyme label="b" type="f" corresp="#s5:l2">Acoleyen</rhyme></l>

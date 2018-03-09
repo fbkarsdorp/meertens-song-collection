@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>narrative song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -27,7 +31,9 @@
         <l id="s1:l2" met="2" type="+-">snel <rhyme label="a" type="m" corresp="#s1:l1">begon</rhyme></l>
         <l id="s1:l3" met="4" type="+-">Thethys golven op te <rhyme label="b" type="f">scheuren</rhyme>,</l>
         <l id="s1:l4" met="4" type="+-">Soo socht ick, maer ick en <rhyme label="a" type="m" corresp="#s1:l1">con</rhyme></l>
-        <l id="s1:l5" met="2" type="+-"><rhyme label="a" type="m" corresp="#s1:l1">Coridon</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s1:l1">Coridon</rhyme>
+        </l>
         <l id="s1:l6" met="4" type="+-">Nievers vinden, noch <rhyme label="b" type="f" corresp="#s1:l3">ghespeuren</rhyme>,</l>
       </lg>
       <lg id="s2" type="stanza">

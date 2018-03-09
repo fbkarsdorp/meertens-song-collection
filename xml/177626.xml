@@ -43,7 +43,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="1" type="-+">ô <rhyme label="a" type="m">Min</rhyme>!</l>
-        <l id="s3:l2" met="1" type="-+"><rhyme label="a" type="m" corresp="#s3:l1">Verwin</rhyme></l>
+        <l id="s3:l2" met="1" type="-+">
+          <rhyme label="a" type="m" corresp="#s3:l1">Verwin</rhyme>
+        </l>
         <l id="s3:l3" met="3" type="-+">Het hart van myn <rhyme label="b" type="f">verwindster</rhyme>,</l>
         <l id="s3:l4" met="3" type="+-">Maak haar eens <rhyme label="b" type="f" corresp="#s3:l3">bemindster</rhyme></l>
         <l id="s3:l5" met="2" type="+-">Van myn <rhyme label="c" type="m">hart</rhyme>;</l>

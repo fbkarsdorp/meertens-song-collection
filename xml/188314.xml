@@ -23,7 +23,9 @@
         <l id="s1:l1" met="4" type="+-">Nu een Glas geleegd in 't <rhyme label="a" type="m">rond</rhyme>,</l>
         <l id="s1:l2" met="4" type="+-">Want de Bruygom krygt al <rhyme label="b" type="f">kuuren</rhyme>:</l>
         <l id="s1:l3" met="4" type="+-">Goede rys en lang <rhyme label="a" type="m" corresp="#s1:l1">gezond</rhyme></l>
-        <l id="s1:l4" met="2" type="+-"><rhyme label="b" type="f" corresp="#s1:l2">Turelure</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s1:l2">Turelure</rhyme>
+        </l>
         <l id="s1:l5" met="4" type="+-">Lang moet deeze Liefde <rhyme label="b" type="f" corresp="#s1:l2">duuren</rhyme>,</l>
         <l id="s1:l6" met="3" type="+-">Robin <rhyme label="b" type="f" corresp="#s1:l2">Turelure</rhyme>.</l>
       </lg>

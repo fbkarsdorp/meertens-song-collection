@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -74,7 +77,9 @@
         <l id="s7:l2" met="2" type="+-">Noyt <rhyme label="a" type="m" corresp="#s7:l1">Asijn</rhyme></l>
         <l id="s7:l3" met="4" type="+-">Komt in uwen beecker <rhyme label="b" type="f">gieten</rhyme>,</l>
         <l id="s7:l4" met="4" type="+-">Denckt dat sijn <rhyme label="c" type="m">Maiesteyt</rhyme></l>
-        <l id="s7:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s7:l4">Danckbaerheydt</rhyme></l>
+        <l id="s7:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s7:l4">Danckbaerheydt</rhyme>
+        </l>
         <l id="s7:l6" met="4" type="+-">Voor die weldaet wil <rhyme label="b" type="f" corresp="#s7:l3">genieten</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">

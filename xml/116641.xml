@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>murder song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="murder song">moordlied</tag>
     </tags>
     <melody>Te Rijsel in het vergulde rad</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

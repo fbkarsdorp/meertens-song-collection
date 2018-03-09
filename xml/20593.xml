@@ -15,14 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Och wat lijden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="f">HErderinne</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="f">HErderinne</rhyme>
+        </l>
         <l id="s1:l2" met="4" type="+-">Mijn Goddinne ,,vreucht, en <rhyme label="b" type="m">croon</rhyme></l>
         <l id="s1:l3" met="5" type="+-">Van mijn ooghen sijt ghy t'licht, en <rhyme label="c" type="m">Son</rhyme>,</l>
         <l id="s1:l4" met="2" type="+-">Ick <rhyme label="a" type="f" corresp="#s1:l1">ontsinne</rhyme>,</l>

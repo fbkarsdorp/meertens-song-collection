@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love complaint</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Courante simple</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -67,7 +71,9 @@
         <l id="s6:l2" met="5" type="-+">Waer ick hem vinden sal, neen, 'tis te <rhyme label="a" type="m" corresp="#s6:l1">laet</rhyme>,</l>
         <l id="s6:l3" met="4" type="-+">Ick ben als Tisbé nu <rhyme label="b" type="m">ghestelt</rhyme>,</l>
         <l id="s6:l4" met="2" type="-+">Doen haeren <rhyme label="c" type="m">vrindt</rhyme>,</l>
-        <l id="s6:l5" met="1" type="-+"><rhyme label="c" type="m" corresp="#s6:l4">Verslindt</rhyme></l>
+        <l id="s6:l5" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s6:l4">Verslindt</rhyme>
+        </l>
         <l id="s6:l6" met="3" type="-+">Was, door het spoocks <rhyme label="b" type="m" corresp="#s6:l3">ghewelt</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">

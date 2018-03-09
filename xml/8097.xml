@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
-      <tag>arcostic</tag>
+      <tag translation="">Geestelijk lied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Rede die prijst een zeer heerlijk vrij gemoed</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

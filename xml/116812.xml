@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>birthday song</tag>
-      <tag>answersong</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="birthday song">verjaardagslied</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

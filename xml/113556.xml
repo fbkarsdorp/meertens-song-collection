@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
-      <tag>May song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
     <melody>Schoon lief wil mij troost geven</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>secular song</tag>
-      <tag>thanks song</tag>
-      <tag>secular song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Het was een fraai rijk burgerskind</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

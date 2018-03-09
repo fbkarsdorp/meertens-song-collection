@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
+      <tag translation="Marian song">Marialied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -69,7 +72,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="-+">O zuvre roze zonder <rhyme label="a" type="f">doren</rhyme></l>
-        <l id="s3:l2" met="2" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Uutvercoren</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">
+          <rhyme label="a" type="f" corresp="#s3:l1">Uutvercoren</rhyme>
+        </l>
         <l id="s3:l3" met="4" type="-+">Van den heere dor sijn <rhyme label="b" type="m">ootmoet</rhyme></l>
         <l id="s3:l4" met="4" type="-+">Ne ware hi niet van di <rhyme label="a" type="f" corresp="#s3:l1">gheboren</rhyme></l>
         <l id="s3:l5" met="2" type="-+">So ware <rhyme label="a" type="f" corresp="#s3:l1">verloren</rhyme></l>

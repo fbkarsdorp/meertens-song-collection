@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>farewell song</tag>
-      <tag>roundel</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Egidius waar bist du bleven</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

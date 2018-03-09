@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>morning song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="morning song">morgenlied</tag>
     </tags>
     <melody>Grâce au bon petit Jésus</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

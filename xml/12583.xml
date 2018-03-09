@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -66,7 +69,9 @@
         <l id="s5:l2" met="3" type="-+">Sietmen in deughden <rhyme label="b" type="f">bloeyen</rhyme>,</l>
         <l id="s5:l3" met="3" type="-+">Verkrijght Gods gaven <rhyme label="a" type="m" corresp="#s5:l1">meest</rhyme>,</l>
         <l id="s5:l4" met="3" type="-+">Goet In reyn jonsten <rhyme label="b" type="f" corresp="#s5:l2">groeyen</rhyme>;</l>
-        <l id="s5:l5" met="2" type="-+"><rhyme label="c" type="m">Godt-vruchtigheydt</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">
+          <rhyme label="c" type="m">Godt-vruchtigheydt</rhyme>
+        </l>
         <l id="s5:l6" met="3" type="-+">Rijst tot den hooghsten <rhyme label="d" type="f">Throon</rhyme></l>
         <l id="s5:l7" met="2" type="-+">Godts <rhyme label="c" type="m" corresp="#s5:l5">Majesteyt</rhyme>,</l>
         <l id="s5:l8" met="3" type="-+">Schinckt der genaden <rhyme label="d" type="f" corresp="#s5:l6">Kroon</rhyme>.</l>

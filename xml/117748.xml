@@ -15,18 +15,24 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>answersong</tag>
-      <tag>secular song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="-+">Verliefde <rhyme label="a" type="m">Maagd</rhyme>,</l>
         <l id="s1:l2" met="2" type="-+">Meend gy met <rhyme label="b" type="f">lonken</rhyme></l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">t'Ontfonken</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">t'Ontfonken</rhyme>
+        </l>
         <l id="s1:l4" met="3" type="-+">Myn Hert wel eer <rhyme label="a" type="m" corresp="#s1:l1">behaagt</rhyme>;</l>
         <l id="s1:l5" met="2" type="-+">Neen ik stel de <rhyme label="c" type="m">Min</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Gans uyt myn <rhyme label="c" type="m" corresp="#s1:l5">zin</rhyme>,</l>

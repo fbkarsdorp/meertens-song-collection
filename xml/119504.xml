@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
-      <tag>proverb</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Ik lig somtijds gehele nachten</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

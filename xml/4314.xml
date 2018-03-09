@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Kom Aura lief</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -124,7 +129,9 @@
         <l id="s7:l4" met="4" type="+-">De Stieren wreet geslegen // <rhyme label="b" type="m" corresp="#s7:l2">dies</rhyme></l>
         <l id="s7:l5" met="2" type="+-">Vercregen // <rhyme label="b" type="m" corresp="#s7:l2">t'vlies</rhyme>:</l>
         <l id="s7:l6" met="3" type="-+">Cause was <rhyme label="c" type="f">d'uytvercoren</rhyme></l>
-        <l id="s7:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s7:l6">Alvoren</rhyme></l>
+        <l id="s7:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s7:l6">Alvoren</rhyme>
+        </l>
         <l id="s7:l8" met="2" type="+-">Dat ghy <rhyme label="d" type="f">ionde</rhyme></l>
         <l id="s7:l9" met="2" type="+-">Sulck <rhyme label="d" type="f" corresp="#s7:l8">ghesonde</rhyme>,</l>
         <l id="s7:l10" met="3" type="+-">Sonder scheyden // <rhyme label="e" type="m">van</rhyme>,</l>

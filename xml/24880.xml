@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>roundel</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Natuur heeft in mij zo gewrocht</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -30,7 +34,9 @@
         <l id="s1:l5" met="4" type="+-">Lijf ende goet met ganser <rhyme label="a" type="m" corresp="#s1:l1">macht</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Es dijn <rhyme label="b" type="f" corresp="#s1:l3">alleine</rhyme></l>
         <l id="s1:l7" met="2" type="-+">Vor di ne <rhyme label="b" type="f" corresp="#s1:l3">gheine</rhyme></l>
-        <l id="s1:l8" met="2" type="+-"><rhyme label="c" type="m">Sekerlijch</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">
+          <rhyme label="c" type="m">Sekerlijch</rhyme>
+        </l>
         <l id="s1:l9" met="2" type="+-">Das hueghet <rhyme label="c" type="m" corresp="#s1:l8">mijch</rhyme></l>
         <l id="s1:l10" met="4" type="-+">Up minen heit vrauwe duechden <rhyme label="c" type="m" corresp="#s1:l8">rijch</rhyme></l>
         <l id="s1:l11" met="2" type="+-">Ghelooft das <rhyme label="c" type="m" corresp="#s1:l8">ich</rhyme></l>

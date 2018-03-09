@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>mystical song</tag>
-      <tag>wedding song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Puer nobis nascitur</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

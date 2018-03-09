@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>political song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="political song">politiek lied</tag>
     </tags>
     <melody>Lass nur der Politiker sprechen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

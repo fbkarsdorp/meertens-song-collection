@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>sentimental song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="sentimental song">sentimenteel lied</tag>
     </tags>
     <melody>Lieflijk bosje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

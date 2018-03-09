@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

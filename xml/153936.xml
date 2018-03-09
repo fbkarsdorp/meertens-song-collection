@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -34,7 +34,9 @@
         <l id="s2:l3" met="5" type="-+">Geen Gorgons hooft ons marbre beelden <rhyme label="b" type="m">maeckt</rhyme>.</l>
         <l id="s2:l4" met="5" type="-+">Door 't aldersterckst vergift der Addr' of <rhyme label="c" type="m">snootste</rhyme></l>
         <l id="s2:l5" met="5" type="-+">Door 't aldersterckst vergift der Addr' of <rhyme label="c" type="m" corresp="#s2:l4">snootste</rhyme></l>
-        <l id="s2:l6" met="2" type="-+"><rhyme label="d" type="f">Basilisken</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">
+          <rhyme label="d" type="f">Basilisken</rhyme>
+        </l>
         <l id="s2:l7" met="4" type="+-">Geen blint mensch ter doot <rhyme label="b" type="m" corresp="#s2:l3">geraeckt</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

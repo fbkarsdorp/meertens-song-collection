@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>ascension song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="Ascension of Our Lord song">hemelvaartslied</tag>
     </tags>
     <melody>Psalm 123 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

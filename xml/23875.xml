@@ -7,12 +7,17 @@
       <year-end>1592</year-end>
     </date>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>christmas song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Dies est laetitiae in ortu regali</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

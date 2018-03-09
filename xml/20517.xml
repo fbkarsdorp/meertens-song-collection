@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>O Mars zeer wreed</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,9 +49,13 @@
         <l id="s2:l7" met="4" type="+-">De Sond', de Doodt,    de Oude <rhyme label="d" type="m">Slangh</rhyme>,</l>
         <l id="s2:l8" met="4" type="+-">Die hadden ons in haer <rhyme label="d" type="m" corresp="#s2:l7">bedwangh</rhyme>:</l>
         <l id="s2:l9" met="1" type="-+">Om <rhyme label="e" type="m">vast</rhyme>,</l>
-        <l id="s2:l10" met="1" type="-+"><rhyme label="e" type="m" corresp="#s2:l9">Belast</rhyme></l>
+        <l id="s2:l10" met="1" type="-+">
+          <rhyme label="e" type="m" corresp="#s2:l9">Belast</rhyme>
+        </l>
         <l id="s2:l11" met="1" type="+-">In 't <rhyme label="f" type="m">Hels</rhyme></l>
-        <l id="s2:l12" met="1" type="-+"><rhyme label="f" type="m" corresp="#s2:l11">Ghewelt</rhyme></l>
+        <l id="s2:l12" met="1" type="-+">
+          <rhyme label="f" type="m" corresp="#s2:l11">Ghewelt</rhyme>
+        </l>
         <l id="s2:l13" met="1" type="-+">Te <rhyme label="b" type="f" corresp="#s2:l3">dwalen</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -78,7 +85,9 @@
         <l id="s4:l9" met="1" type="-+">U <rhyme label="e" type="m">Vlijt</rhyme>,</l>
         <l id="s4:l10" met="1" type="-+">Is <rhyme label="e" type="m" corresp="#s4:l9">niet</rhyme>,</l>
         <l id="s4:l11" met="1" type="+-">U <rhyme label="f" type="m">list</rhyme></l>
-        <l id="s4:l12" met="1" type="-+"><rhyme label="f" type="m" corresp="#s4:l11">Verquist</rhyme></l>
+        <l id="s4:l12" met="1" type="-+">
+          <rhyme label="f" type="m" corresp="#s4:l11">Verquist</rhyme>
+        </l>
         <l id="s4:l13" met="1" type="-+">Te <rhyme label="b" type="f" corresp="#s4:l3">meere</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
@@ -108,7 +117,9 @@
         <l id="s6:l9" met="1" type="-+">U <rhyme label="e" type="m">licht</rhyme></l>
         <l id="s6:l10" met="1" type="-+">Dat <rhyme label="e" type="m" corresp="#s6:l9">sticht</rhyme>,</l>
         <l id="s6:l11" met="1" type="+-">'t <rhyme label="f" type="m">Bekeert</rhyme>,</l>
-        <l id="s6:l12" met="1" type="-+"><rhyme label="f" type="m" corresp="#s6:l11">Vermeert</rhyme></l>
+        <l id="s6:l12" met="1" type="-+">
+          <rhyme label="f" type="m" corresp="#s6:l11">Vermeert</rhyme>
+        </l>
         <l id="s6:l13" met="1" type="-+">U <rhyme label="b" type="f" corresp="#s6:l3">eere</rhyme>.</l>
       </lg>
     </lg>

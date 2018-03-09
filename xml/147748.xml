@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>passing song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Passion of Our Lord song">passielied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -35,7 +39,9 @@
         <l id="s2:l2" met="2" type="+-">Ons van <rhyme label="a" type="m" corresp="#s2:l1">hem</rhyme></l>
         <l id="s2:l3" met="4" type="+-">Onlangs blydelyk doen <rhyme label="b" type="f">zingen</rhyme>:</l>
         <l id="s2:l4" met="4" type="+-">Zo wy hem nu volgen <rhyme label="c" type="m">na</rhyme>,</l>
-        <l id="s2:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s2:l4">Golgotha</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s2:l4">Golgotha</rhyme>
+        </l>
         <l id="s2:l6" met="4" type="+-">Zal ons haast tot tranen <rhyme label="b" type="f" corresp="#s2:l3">dringen</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -328,7 +334,9 @@
       </lg>
       <lg id="s39" type="stanza">
         <l id="s39:l1" met="4" type="+-">List, bedrog en <rhyme label="a" type="m">leugentaal</rhyme>,</l>
-        <l id="s39:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s39:l1">Altemaal</rhyme></l>
+        <l id="s39:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s39:l1">Altemaal</rhyme>
+        </l>
         <l id="s39:l3" met="4" type="+-">Gaat men onder een <rhyme label="b" type="f">vermengen</rhyme>.</l>
         <l id="s39:l4" met="4" type="+-">Ey, wat wert'er niet <rhyme label="c" type="m">bedogt</rhyme>,</l>
         <l id="s39:l5" met="2" type="+-">En <rhyme label="c" type="m" corresp="#s39:l4">gezogt</rhyme>,</l>
@@ -443,7 +451,9 @@
         <l id="s53:l2" met="2" type="+-">Dien gy <rhyme label="a" type="m" corresp="#s53:l1">wagt</rhyme>?</l>
         <l id="s53:l3" met="4" type="+-">Doet hy niet Messias <rhyme label="b" type="f">werken</rhyme>;</l>
         <l id="s53:l4" met="4" type="+-">Ziet gy niet <rhyme label="c" type="m">Emanuël</rhyme>,</l>
-        <l id="s53:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s53:l4">Israël</rhyme></l>
+        <l id="s53:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s53:l4">Israël</rhyme>
+        </l>
         <l id="s53:l6" met="4" type="+-">Kont gy niet zyn Godheit <rhyme label="b" type="f" corresp="#s53:l3">merken</rhyme>?</l>
       </lg>
       <lg id="s54" type="stanza">

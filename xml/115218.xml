@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>lamentation</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Helaas wat pijn</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

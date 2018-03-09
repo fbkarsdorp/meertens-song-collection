@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Kon ik de maneschijn bedekken</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +31,9 @@
         <l id="s1:l4" met="4" type="-+">Nogtans werd ik de min niet <rhyme label="b" type="m" corresp="#s1:l2">moe</rhyme>.</l>
         <l id="s1:l5" met="3" type="-+">De min slagt onse <rhyme label="c" type="m">Puis</rhyme></l>
         <l id="s1:l6" met="3" type="-+">Die speelenswijs de <rhyme label="c" type="m" corresp="#s1:l5">muis</rhyme></l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="d" type="m">Aenvat</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Aenvat</rhyme>
+        </l>
         <l id="s1:l8" met="2" type="-+">En daer na <rhyme label="d" type="m" corresp="#s1:l7">at</rhyme>.</l>
         <l id="s1:l9" met="3" type="-+">De min heet krabbe <rhyme label="d" type="m" corresp="#s1:l7">kat</rhyme>.</l>
       </lg>

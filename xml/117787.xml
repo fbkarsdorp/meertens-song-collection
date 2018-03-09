@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>lullaby</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="lullaby">wiegelied</tag>
     </tags>
     <melody>Jenneke thuis</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

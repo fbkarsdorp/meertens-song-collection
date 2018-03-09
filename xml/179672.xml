@@ -7,12 +7,14 @@
       <year-end>1767</year-end>
     </date>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">ROzelyn</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">ROzelyn</rhyme>
+        </l>
         <l id="s1:l2" met="2" type="-+">Wanneer zal ’t <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>:</l>
         <l id="s1:l3" met="5" type="-+">Dat gy zult genezen myn <rhyme label="a" type="m" corresp="#s1:l1">Minnepyn</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">Ik heb al drie <rhyme label="b" type="m">Iaer</rhyme>:</l>
@@ -36,7 +38,9 @@
         <l id="s3:l6" met="5" type="-+">Op al u Vryagie ik niet en <rhyme label="b" type="m" corresp="#s3:l4">agt</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
-        <l id="s4:l1" met="2" type="+-"><rhyme label="a" type="m">Rozelyn</rhyme></l>
+        <l id="s4:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Rozelyn</rhyme>
+        </l>
         <l id="s4:l2" met="2" type="-+">Hoe kan dat <rhyme label="a" type="m" corresp="#s4:l1">zyn</rhyme>,</l>
         <l id="s4:l3" met="5" type="-+">Dat in u zulks woond een haet voor <rhyme label="a" type="m" corresp="#s4:l1">myn</rhyme>;</l>
         <l id="s4:l4" met="3" type="-+">Of is u <rhyme label="b" type="m">gemoed</rhyme>;</l>

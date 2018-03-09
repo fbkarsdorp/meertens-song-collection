@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
-      <tag>mythological song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Esprits qui soupirez</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

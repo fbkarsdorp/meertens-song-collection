@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>devout song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

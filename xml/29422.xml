@@ -11,9 +11,12 @@
       <standard-name>Southern Netherlands</standard-name>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Artus Bourrée</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -99,7 +102,9 @@
         <l id="s7:l2" met="3" type="-+">Op dat ik vast mach <rhyme label="b" type="m">staan</rhyme>,</l>
         <l id="s7:l3" met="4" type="-+">En mijden <rhyme label="a" type="m" corresp="#s7:l1">onbescheidentheit</rhyme>,</l>
         <l id="s7:l4" met="3" type="-+">En onbescheid <rhyme label="b" type="m" corresp="#s7:l2">weerstaan</rhyme>,</l>
-        <l id="s7:l5" met="2" type="-+"><rhyme label="c" type="m">Bescheidentheit</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">
+          <rhyme label="c" type="m">Bescheidentheit</rhyme>
+        </l>
         <l id="s7:l6" met="2" type="-+">Met goet <rhyme label="c" type="m" corresp="#s7:l5">beleit</rhyme></l>
         <l id="s7:l7" met="3" type="-+">Laat van my zijn <rhyme label="d" type="m">betracht</rhyme></l>
         <l id="s7:l8" met="2" type="-+">Tot uwer <rhyme label="e" type="m">eer</rhyme></l>

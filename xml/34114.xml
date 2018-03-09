@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>love complaint</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Schone Cato</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

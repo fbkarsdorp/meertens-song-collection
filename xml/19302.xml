@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>dialog song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Schoon liefje jent zeer excellent</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

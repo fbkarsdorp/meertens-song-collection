@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>allegorical song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="allegorical song">allegorisch lied</tag>
     </tags>
     <melody>Vaar weg Gepeins God geve dij leed</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="miscellaneous">allerlei soorten liederen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

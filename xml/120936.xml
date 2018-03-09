@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Adieu schone Rosalinde</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

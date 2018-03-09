@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>craft song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
     </tags>
     <melody>Het droevige nonnetje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

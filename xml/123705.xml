@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>student's song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="student song">studentenlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

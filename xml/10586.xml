@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>May song</tag>
-      <tag>praise</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>In een groot ongeluk ben ik geboren</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

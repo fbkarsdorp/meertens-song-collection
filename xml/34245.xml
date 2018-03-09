@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Malle Sijmen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

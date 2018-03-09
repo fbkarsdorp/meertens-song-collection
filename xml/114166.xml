@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

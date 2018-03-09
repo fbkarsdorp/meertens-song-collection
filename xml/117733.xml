@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>love complaint</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Ik ging er laatst wandelen aan een fontein</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

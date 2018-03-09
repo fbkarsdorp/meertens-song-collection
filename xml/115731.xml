@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>De Franse vlieger</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

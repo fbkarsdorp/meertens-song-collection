@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>moralistic song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">moralistisch</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

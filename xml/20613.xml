@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -53,7 +56,9 @@
         <l id="s3:l1" met="2" type="-+">Hy <rhyme label="a" type="f">onuerduldich</rhyme></l>
         <l id="s3:l2" met="2" type="+-">Had <rhyme label="b" type="m">vercracht</rhyme></l>
         <l id="s3:l3" met="2" type="-+">Haer, en <rhyme label="a" type="f" corresp="#s3:l1">onschuldich</rhyme></l>
-        <l id="s3:l4" met="2" type="+-"><rhyme label="b" type="m" corresp="#s3:l2">Om-ghebracht</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">
+          <rhyme label="b" type="m" corresp="#s3:l2">Om-ghebracht</rhyme>
+        </l>
         <l id="s3:l5" met="2" type="-+">Die sy <rhyme label="c" type="f">besiende</rhyme>,</l>
         <l id="s3:l6" met="2" type="-+">En seer <rhyme label="c" type="f" corresp="#s3:l5">beminde</rhyme>,</l>
         <l id="s3:l7" met="2" type="-+">Midts hy haer <rhyme label="c" type="f" corresp="#s3:l5">dinde</rhyme></l>

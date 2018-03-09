@@ -46,7 +46,9 @@
         <l id="s2:l8" met="3" type="-+">Haar vyand: die haar <rhyme label="d" type="m">mind</rhyme>:</l>
         <l id="s2:l9" met="1" type="-+">Wiens <rhyme label="c" type="f" corresp="#s2:l7">dagen</rhyme></l>
         <l id="s2:l10" met="1" type="-+">(Vol <rhyme label="c" type="f" corresp="#s2:l7">plagen</rhyme>)</l>
-        <l id="s2:l11" met="1" type="+-"><rhyme label="c" type="f" corresp="#s2:l7">Behagen</rhyme></l>
+        <l id="s2:l11" met="1" type="+-">
+          <rhyme label="c" type="f" corresp="#s2:l7">Behagen</rhyme>
+        </l>
         <l id="s2:l12" met="2" type="-+">Haar: die door 't <rhyme label="d" type="m" corresp="#s2:l8">Kind</rhyme></l>
         <l id="s2:l13" met="2" type="-+">Sijn hart <rhyme label="d" type="m" corresp="#s2:l8">ontsind</rhyme></l>
         <l id="s2:l14" met="1" type="-+">Doet <rhyme label="c" type="f" corresp="#s2:l7">knagen</rhyme>.</l>
@@ -108,7 +110,9 @@
         <l id="s6:l6" met="2" type="-+">En oevers, <rhyme label="b" type="m" corresp="#s6:l3">wacht</rhyme>:</l>
         <l id="s6:l7" met="3" type="-+">Wiens trap-gekreukte <rhyme label="c" type="f">bladen</rhyme>,</l>
         <l id="s6:l8" met="3" type="-+">My wijsen waar gy <rhyme label="d" type="m">gaat</rhyme>:</l>
-        <l id="s6:l9" met="1" type="-+"><rhyme label="c" type="f" corresp="#s6:l7">Beladen</rhyme></l>
+        <l id="s6:l9" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s6:l7">Beladen</rhyme>
+        </l>
         <l id="s6:l10" met="1" type="-+">Met <rhyme label="c" type="f" corresp="#s6:l7">daden</rhyme>,</l>
         <l id="s6:l11" met="1" type="+-">Van <rhyme label="c" type="f" corresp="#s6:l7">quaden</rhyme></l>
         <l id="s6:l12" met="2" type="-+">Gerucht, <rhyme label="d" type="m" corresp="#s6:l8">gelaat</rhyme>:</l>

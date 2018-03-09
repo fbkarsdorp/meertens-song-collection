@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mystical song</tag>
-      <tag>new year song</tag>
-      <tag>christmas song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Nu hoor wat ik u schenk</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

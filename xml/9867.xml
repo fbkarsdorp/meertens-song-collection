@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Patientie is goed kruid men zegt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,7 +49,9 @@
         <l id="s2:l8" met="3" type="+-">Door haer <rhyme label="c" type="m" corresp="#s2:l6">onderscheydt</rhyme>,</l>
         <l id="s2:l9" met="2" type="-+">Nu ten <rhyme label="d" type="f">saysoene</rhyme></l>
         <l id="s2:l10" met="4" type="-+">Ghedenckt op 'tWooordt dat Paulus <rhyme label="c" type="m" corresp="#s2:l6">seyt</rhyme>,</l>
-        <l id="s2:l11" met="2" type="+-"><rhyme label="c" type="m" corresp="#s2:l6">Verduldicheyt</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s2:l6">Verduldicheyt</rhyme>
+        </l>
         <l id="s2:l12" met="2" type="-+">Hebt ghy van <rhyme label="d" type="f" corresp="#s2:l9">doene</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

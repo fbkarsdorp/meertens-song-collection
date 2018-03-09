@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>lamentation</tag>
-      <tag>proverb</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

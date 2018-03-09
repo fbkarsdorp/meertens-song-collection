@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mystical song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>holy song</tag>
-      <tag>arcostic</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="saint song">heiligenlied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Te Maas al op de Rijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

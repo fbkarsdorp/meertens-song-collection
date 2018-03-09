@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>love complaint</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Ach mooi meisje ik wou je wel zoenen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

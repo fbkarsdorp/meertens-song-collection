@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>welcoming song</tag>
-      <tag>sailor song</tag>
+      <tag translation="welcome song">welkomstlied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Lief uitverkoren lief triomfant</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

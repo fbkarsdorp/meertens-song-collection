@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

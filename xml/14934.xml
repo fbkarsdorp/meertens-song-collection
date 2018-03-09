@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,12 +29,16 @@
         <l id="s1:l2" met="3" type="-+">En nummermeer troost myn <rhyme label="a" type="f" corresp="#s1:l1">bieden</rhyme></l>
         <l id="s1:l3" met="3" type="+-">Myn Silvia <rhyme label="b" type="f">schoone</rhyme></l>
         <l id="s1:l4" met="3" type="+-">Seght vry sonder <rhyme label="b" type="f" corresp="#s1:l3">hoone</rhyme></l>
-        <l id="s1:l5" met="1" type="-+"><rhyme label="c" type="m">Wanneer</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="c" type="m">Wanneer</rhyme>
+        </l>
         <l id="s1:l6" met="1" type="-+">Nu <rhyme label="c" type="m" corresp="#s1:l5">meer</rhyme></l>
         <l id="s1:l7" met="3" type="-+">Sal ick den tijndt vol <rhyme label="d" type="f">jonghste</rhyme></l>
         <l id="s1:l8" met="3" type="-+">Sien neyghen t mynder <rhyme label="d" type="f" corresp="#s1:l7">gonste</rhyme>?</l>
         <l id="s1:l9" met="3" type="-+">Dat u straf wreede <rhyme label="e" type="m">hert</rhyme></l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="f" type="m">Versoet</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="f" type="m">Versoet</rhyme>
+        </l>
         <l id="s1:l11" met="1" type="+-">Nu <rhyme label="f" type="m" corresp="#s1:l10">doet</rhyme></l>
         <l id="s1:l12" met="3" type="-+">My arme Minnaer <rhyme label="g" type="f">leven</rhyme>!</l>
         <l id="s1:l13" met="3" type="-+">Die by nae was <rhyme label="g" type="f" corresp="#s1:l12">ghebleven</rhyme></l>

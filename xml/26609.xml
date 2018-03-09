@@ -7,16 +7,22 @@
       <year-end>1599</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>spiritual song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>triumph song</tag>
-      <tag>spiritual song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="triumph song">triomflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 128 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

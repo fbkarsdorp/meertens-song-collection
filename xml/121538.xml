@@ -7,12 +7,16 @@
       <year-end>1818</year-end>
     </date>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

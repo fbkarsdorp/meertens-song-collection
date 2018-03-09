@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="f">VEltgodinne</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="f">VEltgodinne</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">De snelle <rhyme label="b" type="f">blixem-staven</rhyme></l>
         <l id="s1:l3" met="2" type="-+">Van uw <rhyme label="c" type="m">gezigt</rhyme>,</l>
         <l id="s1:l4" met="2" type="+-">Doen mijn <rhyme label="a" type="f" corresp="#s1:l1">zinnen</rhyme>,</l>

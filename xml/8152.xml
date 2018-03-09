@@ -262,7 +262,9 @@
       <lg id="s16" type="stanza">
         <l id="s16:l1" met="3" type="-+">Paulus selve <rhyme label="a" type="m">verklaert</rhyme></l>
         <l id="s16:l2" met="3" type="-+">dat hy des Heeren <rhyme label="b" type="f">wille</rhyme></l>
-        <l id="s16:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s16:l1">Gheopenbaert</rhyme></l>
+        <l id="s16:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s16:l1">Gheopenbaert</rhyme>
+        </l>
         <l id="s16:l4" met="3" type="-+">Hadde, volkomen <rhyme label="c" type="m">fijn</rhyme>,</l>
         <l id="s16:l5" met="3" type="-+">Vanden Kinder-doop vol <rhyme label="b" type="f" corresp="#s16:l2">gheschille</rhyme>,</l>
         <l id="s16:l6" met="3" type="-+">daer af soo swijght hy <rhyme label="b" type="f" corresp="#s16:l2">stille</rhyme>,</l>

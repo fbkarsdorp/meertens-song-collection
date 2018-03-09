@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Magnum nomen Domini</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

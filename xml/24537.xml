@@ -7,11 +7,15 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
-      <tag>devout song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Het schenkte een overschildknecht goed</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

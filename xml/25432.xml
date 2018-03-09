@@ -7,10 +7,14 @@
       <year-end>1430</year-end>
     </date>
     <tags>
-      <tag>May song</tag>
-      <tag>love song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -23,7 +27,9 @@
         <l id="s1:l6" met="2" type="-+">zam purper <rhyme label="c" type="m">vaer</rhyme></l>
         <l id="s1:l7" met="4" type="-+">cleyne na vrouwen steyt <rhyme label="d" type="f">gheswensit</rhyme>.</l>
         <l id="s1:l8" met="3" type="-+">Wye zo wal <rhyme label="d" type="f" corresp="#s1:l7">besprensyt</rhyme>,</l>
-        <l id="s1:l9" met="1" type="-+"><rhyme label="d" type="f" corresp="#s1:l7">becrensyt</rhyme></l>
+        <l id="s1:l9" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s1:l7">becrensyt</rhyme>
+        </l>
         <l id="s1:l10" met="1" type="-+">mit <rhyme label="e" type="f">rosen</rhyme>,</l>
         <l id="s1:l11" met="3" type="+-">mit vyoel, <rhyme label="e" type="f" corresp="#s1:l10">tidelosen</rhyme></l>
         <l id="s1:l12" met="2" type="-+">wal <rhyme label="c" type="m" corresp="#s1:l6">dousentvaer</rhyme>!</l>
@@ -42,7 +48,9 @@
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="-+">Vri zi mer hertz onde moyt van <rhyme label="a" type="f">zorghen</rhyme>.</l>
         <l id="s2:l2" met="3" type="+-">Dach, nacht onde <rhyme label="a" type="f" corresp="#s2:l1">morghen</rhyme></l>
-        <l id="s2:l3" met="1" type="-+"><rhyme label="a" type="f" corresp="#s2:l1">verborghen</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s2:l1">verborghen</rhyme>
+        </l>
         <l id="s2:l4" met="1" type="-+">ych <rhyme label="b" type="f">denche</rhyme>,</l>
         <l id="s2:l5" met="3" type="-+">wye ich der werden <rhyme label="b" type="f" corresp="#s2:l4">schenche</rhyme></l>
         <l id="s2:l6" met="2" type="-+">yr lof, yr <rhyme label="c" type="m">groys</rhyme>.</l>

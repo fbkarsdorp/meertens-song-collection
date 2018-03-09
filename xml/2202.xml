@@ -15,18 +15,25 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Celestine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="-+"><rhyme label="a" type="m">Celestyn</rhyme></l>
+        <l id="s1:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Celestyn</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Nu schey ik uyt de <rhyme label="a" type="m" corresp="#s1:l1">pijn</rhyme>;</l>
         <l id="s1:l3" met="3" type="-+">O salig <rhyme label="b" type="m">siel-gesucht</rhyme>!</l>
         <l id="s1:l4" met="2" type="-+">Schept nu <rhyme label="b" type="m" corresp="#s1:l3">genucht</rhyme>,</l>
-        <l id="s1:l5" met="1" type="-+"><rhyme label="c" type="m">Gewis</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="c" type="m">Gewis</rhyme>
+        </l>
         <l id="s1:l6" met="1" type="-+">Nu <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme></l>
         <l id="s1:l7" met="1" type="-+">Uw <rhyme label="d" type="m">klacht</rhyme></l>
         <l id="s1:l8" met="3" type="-+">Noch wel ten end <rhyme label="d" type="m" corresp="#s1:l7">gebracht</rhyme>,</l>
@@ -47,7 +54,9 @@
         <l id="s2:l3" met="3" type="-+">Getreuren <rhyme label="b" type="m">nacht-gewaak</rhyme></l>
         <l id="s2:l4" met="2" type="-+">Keertin <rhyme label="b" type="m" corresp="#s2:l3">vermaak</rhyme>:</l>
         <l id="s2:l5" met="1" type="-+">Mijn <rhyme label="c" type="m">jeugd</rhyme></l>
-        <l id="s2:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s2:l5">Verheugd</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s2:l5">Verheugd</rhyme>
+        </l>
         <l id="s2:l7" met="1" type="-+">Sich <rhyme label="d" type="m">om</rhyme></l>
         <l id="s2:l8" met="3" type="-+">Dat ik die <rhyme label="d" type="m" corresp="#s2:l7">Maagde-blom</rhyme></l>
         <l id="s2:l9" met="2" type="-+">Verwonnen <rhyme label="e" type="m">heb</rhyme>,</l>

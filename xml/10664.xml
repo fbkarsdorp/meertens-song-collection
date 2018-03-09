@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>love song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>L'homme armé</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

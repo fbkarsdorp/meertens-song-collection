@@ -15,15 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="1" type="-+"><rhyme label="a" type="f">VErvloghen</rhyme></l>
+        <l id="s1:l1" met="1" type="-+">
+          <rhyme label="a" type="f">VErvloghen</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">sijt ghy mijn <rhyme label="b" type="m">Herderin</rhyme>?</l>
         <l id="s1:l3" met="3" type="-+">VVat trouweloose <rhyme label="b" type="m" corresp="#s1:l2">min</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">Heeft de liefde wech <rhyme label="a" type="f" corresp="#s1:l1">getogen</rhyme></l>
@@ -45,7 +51,9 @@
         <l id="s2:l9" met="3" type="-+">Door de straelen van u <rhyme label="c" type="m" corresp="#s2:l6">Son</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
-        <l id="s3:l1" met="1" type="-+"><rhyme label="a" type="f">Goddinne</rhyme></l>
+        <l id="s3:l1" met="1" type="-+">
+          <rhyme label="a" type="f">Goddinne</rhyme>
+        </l>
         <l id="s3:l2" met="3" type="-+">Die my alleen <rhyme label="b" type="m">behaeght</rhyme>,</l>
         <l id="s3:l3" met="3" type="-+">Kent wie u liefde <rhyme label="b" type="m" corresp="#s3:l2">draeght</rhyme>,</l>
         <l id="s3:l4" met="3" type="-+">VVilt met even liefd' hem <rhyme label="a" type="f" corresp="#s3:l1">minne</rhyme></l>
@@ -67,7 +75,9 @@
         <l id="s4:l9" met="3" type="-+">Als den lant-man naer den <rhyme label="c" type="m" corresp="#s4:l6">oost</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="1" type="-+"><rhyme label="a" type="f">Princersse</rhyme></l>
+        <l id="s5:l1" met="1" type="-+">
+          <rhyme label="a" type="f">Princersse</rhyme>
+        </l>
         <l id="s5:l2" met="3" type="-+">Houdt daer den <rhyme label="b" type="m">diamant</rhyme>,</l>
         <l id="s5:l3" met="3" type="-+">Die van u Bruygoms <rhyme label="b" type="m" corresp="#s5:l2">hant</rhyme></l>
         <l id="s5:l4" met="3" type="-+">VVort geschoencken sijn <rhyme label="a" type="f" corresp="#s5:l1">Meestersse</rhyme>,</l>
@@ -78,7 +88,9 @@
         <l id="s5:l9" met="3" type="-+">Gheven teeckens van ons <rhyme label="c" type="m" corresp="#s5:l6">trou</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">
-        <l id="s6:l1" met="1" type="-+"><rhyme label="a" type="f">Beminde</rhyme></l>
+        <l id="s6:l1" met="1" type="-+">
+          <rhyme label="a" type="f">Beminde</rhyme>
+        </l>
         <l id="s6:l2" met="3" type="-+">Het is ghenoch <rhyme label="b" type="m">geseyt</rhyme>,</l>
         <l id="s6:l3" met="3" type="-+">Mijn hert staet u <rhyme label="b" type="m" corresp="#s6:l2">bereyt</rhyme>,</l>
         <l id="s6:l4" met="3" type="-+">Laet my weder-liefde <rhyme label="a" type="f" corresp="#s6:l1">vinde</rhyme></l>

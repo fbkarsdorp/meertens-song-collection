@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
-      <tag>love song</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Kom allen gij Venus' diertjes</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

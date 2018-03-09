@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
-      <tag>political song</tag>
-      <tag>orange song</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="orangist song">oranjelied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

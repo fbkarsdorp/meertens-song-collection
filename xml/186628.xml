@@ -23,7 +23,9 @@
         <l id="s1:l9" met="3" type="-+">En loopt vast de armoê <rhyme label="e" type="f" corresp="#s1:l8">tegen</rhyme>,</l>
         <l id="s1:l10" met="3" type="-+">Al wat hij loopen <rhyme label="f" type="m">kan</rhyme>,</l>
         <l id="s1:l11" met="1" type="+-">Hij <rhyme label="g" type="m">is</rhyme></l>
-        <l id="s1:l12" met="1" type="-+"><rhyme label="g" type="m" corresp="#s1:l11">Gewis</rhyme></l>
+        <l id="s1:l12" met="1" type="-+">
+          <rhyme label="g" type="m" corresp="#s1:l11">Gewis</rhyme>
+        </l>
         <l id="s1:l13" met="3" type="-+">Een ongelukkig <rhyme label="f" type="m" corresp="#s1:l10">man</rhyme>,</l>
         <l id="s1:l14" met="3" type="-+">Een ongelukkig <rhyme label="f" type="m" corresp="#s1:l10">man</rhyme>.</l>
       </lg>
@@ -39,7 +41,9 @@
         <l id="s2:l9" met="3" type="-+">Dan is hij klaar van <rhyme label="e" type="f" corresp="#s2:l8">zessen</rhyme>,</l>
         <l id="s2:l10" met="3" type="-+">Dan vecht hij wat hij <rhyme label="f" type="m">kan</rhyme>:</l>
         <l id="s2:l11" met="1" type="+-">Hij <rhyme label="g" type="m">is</rhyme></l>
-        <l id="s2:l12" met="1" type="-+"><rhyme label="g" type="m" corresp="#s2:l11">Gewis</rhyme></l>
+        <l id="s2:l12" met="1" type="-+">
+          <rhyme label="g" type="m" corresp="#s2:l11">Gewis</rhyme>
+        </l>
         <l id="s2:l13" met="3" type="-+">Een ongelukkig <rhyme label="f" type="m" corresp="#s2:l10">man</rhyme>,</l>
         <l id="s2:l14" met="3" type="-+">Een ongelukkig <rhyme label="f" type="m" corresp="#s2:l10">man</rhyme>.</l>
       </lg>

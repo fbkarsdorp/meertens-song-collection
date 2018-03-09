@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
-      <tag>devout song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

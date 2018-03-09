@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Wanneer of mijn ogen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

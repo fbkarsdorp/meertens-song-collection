@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -42,7 +45,9 @@
         <l id="s2:l6" met="2" type="-+">vergoltenn wirtt / s lch boiser <rhyme label="c" type="m" corresp="#s2:l5">list</rhyme></l>
         <l id="s2:l7" met="2" type="-+">will <rhyme label="d" type="m">vngespartt</rhyme> /</l>
         <l id="s2:l8" met="2" type="-+">mein <rhyme label="d" type="m" corresp="#s2:l7">widderfartt</rhyme></l>
-        <l id="s2:l9" met="2" type="-+"><rhyme label="e" type="m">besinnen</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">
+          <rhyme label="e" type="m">besinnen</rhyme>
+        </l>
         <l id="s2:l10" met="2" type="-+">auff besser schatz zu <rhyme label="e" type="m" corresp="#s2:l9">gewinnenn</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

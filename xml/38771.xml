@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
-      <tag>spiritual song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -76,9 +80,13 @@
         <l id="s4:l2" met="3" type="-+">Zijn wy hier t'allen <rhyme label="b" type="f">stonden</rhyme>,</l>
         <l id="s4:l3" met="2" type="-+">Tot <rhyme label="a" type="m" corresp="#s4:l1">d'ydelheyt</rhyme></l>
         <l id="s4:l4" met="3" type="-+">Wt een verdorven <rhyme label="c" type="m">grondt</rhyme>,</l>
-        <l id="s4:l5" met="2" type="-+"><rhyme label="a" type="m" corresp="#s4:l1">Hoveerdigheyt</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s4:l1">Hoveerdigheyt</rhyme>
+        </l>
         <l id="s4:l6" met="3" type="-+">De wortel aller <rhyme label="b" type="f" corresp="#s4:l2">zonden</rhyme>,</l>
-        <l id="s4:l7" met="2" type="-+"><rhyme label="a" type="m" corresp="#s4:l1">Wellustigheyt</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s4:l1">Wellustigheyt</rhyme>
+        </l>
         <l id="s4:l8" met="3" type="-+">Houdt in ons vast <rhyme label="c" type="m" corresp="#s4:l4">verbondt</rhyme>.</l>
         <l id="s4:l9" met="2" type="-+">Wie dit niet <rhyme label="a" type="m" corresp="#s4:l1">seydt</rhyme>,</l>
         <l id="s4:l10" met="3" type="-+">Siet, die is niet <rhyme label="c" type="m" corresp="#s4:l4">ghesondt</rhyme>,</l>

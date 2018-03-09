@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>roundel</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Vriend noch vriend en is zo goed</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

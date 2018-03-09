@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -104,7 +107,9 @@
       </lg>
       <lg id="s11" type="stanza">
         <l id="s11:l1" met="4" type="+-">Iezus gaat Gods <rhyme label="a" type="f">Koninkrijke</rhyme>,</l>
-        <l id="s11:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s11:l1">Vergelijken</rhyme></l>
+        <l id="s11:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s11:l1">Vergelijken</rhyme>
+        </l>
         <l id="s11:l3" met="4" type="+-">By een Net, daar goet en <rhyme label="b" type="m">quaat</rhyme>,</l>
         <l id="s11:l4" met="4" type="+-">Zaamen werdt by een <rhyme label="c" type="f">getoogen</rhyme>,</l>
         <l id="s11:l5" met="2" type="+-">’t Dient <rhyme label="c" type="f" corresp="#s11:l4">gewoogen</rhyme>,</l>

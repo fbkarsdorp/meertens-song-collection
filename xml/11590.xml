@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>reflective song</tag>
-      <tag>dialog song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Jacques</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

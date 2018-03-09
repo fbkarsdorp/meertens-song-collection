@@ -38,7 +38,9 @@
         <l id="s3:l2" met="4" type="-+">Doet op u mueren ende <rhyme label="a" type="f" corresp="#s3:l1">poorten</rhyme></l>
         <l id="s3:l3" met="4" type="-+">V Roven die worden u <rhyme label="b" type="m">onthaelt</rhyme></l>
         <l id="s3:l4" met="5" type="-+">Christus heeft alle onse schult <rhyme label="b" type="m" corresp="#s3:l3">betaelt</rhyme>.</l>
-        <l id="s3:l5" met="2" type="-+"><rhyme label="c" type="m">Kyrieleyson</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">
+          <rhyme label="c" type="m">Kyrieleyson</rhyme>
+        </l>
       </lg>
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="3" type="-+">Was Christus niet <rhyme label="a" type="f">verresen</rhyme></l>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>craft song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
     </tags>
     <melody>Het beste op aarde is een gerust gemoed</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

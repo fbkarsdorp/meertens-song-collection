@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -159,10 +162,14 @@
       </lg>
       <lg id="s18" type="stanza">
         <l id="s18:l1" met="4" type="+-">Fero, Yslant geeft ons <rhyme label="a" type="f">spoedigh</rhyme>,</l>
-        <l id="s18:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s18:l1">Overvloedigh</rhyme></l>
+        <l id="s18:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s18:l1">Overvloedigh</rhyme>
+        </l>
         <l id="s18:l3" met="4" type="+-">Vis, Gesouten en <rhyme label="b" type="m">Gedroocht</rhyme>:</l>
         <l id="s18:l4" met="4" type="+-">Kousen, Wanten zijn sy <rhyme label="c" type="f">schuldigh</rhyme>,</l>
-        <l id="s18:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s18:l4">Menighvuldigh</rhyme></l>
+        <l id="s18:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s18:l4">Menighvuldigh</rhyme>
+        </l>
         <l id="s18:l6" met="4" type="+-">Jaerlijcx aen den Deen <rhyme label="b" type="m" corresp="#s18:l3">gelooft</rhyme>.</l>
       </lg>
       <lg id="s19" type="stanza">

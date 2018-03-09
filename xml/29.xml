@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -42,7 +45,9 @@
         <l id="s1:l17" met="1" type="-+">Het <rhyme label="i" type="m">Koor</rhyme></l>
         <l id="s1:l18" met="1" type="-+">Mijns <rhyme label="i" type="m" corresp="#s1:l17">Oor</rhyme></l>
         <l id="s1:l19" met="2" type="-+">Wiert, door uw <rhyme label="j" type="m">Tongh</rhyme>,</l>
-        <l id="s1:l20" met="1" type="-+"><rhyme label="k" type="m">Betreen</rhyme></l>
+        <l id="s1:l20" met="1" type="-+">
+          <rhyme label="k" type="m">Betreen</rhyme>
+        </l>
         <l id="s1:l21" met="2" type="-+">Met die <rhyme label="k" type="m" corresp="#s1:l20">reen</rhyme></l>
         <l id="s1:l22" met="3" type="-+">Die mijn begrip niet <rhyme label="j" type="m" corresp="#s1:l19">vong</rhyme>.</l>
       </lg>
@@ -63,8 +68,12 @@
         <l id="s2:l14" met="3" type="+-">Zouw, de wreedste <rhyme label="h" type="m">ziel</rhyme>,</l>
         <l id="s2:l15" met="2" type="-+">Zoo kunnen <rhyme label="g" type="f" corresp="#s2:l13">kneden</rhyme></l>
         <l id="s2:l16" met="3" type="+-">Als uw lust <rhyme label="h" type="m" corresp="#s2:l14">beviel</rhyme>.</l>
-        <l id="s2:l17" met="1" type="-+"><rhyme label="i" type="m">Waarom</rhyme></l>
-        <l id="s2:l18" met="1" type="-+"><rhyme label="i" type="m" corresp="#s2:l17">Bekom</rhyme></l>
+        <l id="s2:l17" met="1" type="-+">
+          <rhyme label="i" type="m">Waarom</rhyme>
+        </l>
+        <l id="s2:l18" met="1" type="-+">
+          <rhyme label="i" type="m" corresp="#s2:l17">Bekom</rhyme>
+        </l>
         <l id="s2:l19" met="2" type="-+">'k Dan niet door <rhyme label="j" type="m">reen</rhyme>,</l>
         <l id="s2:l20" met="1" type="-+">Vw <rhyme label="k" type="m">liefd'</rhyme>,</l>
         <l id="s2:l21" met="2" type="-+">Die my <rhyme label="k" type="m" corresp="#s2:l20">griefd'</rhyme></l>
@@ -87,7 +96,9 @@
         <l id="s3:l14" met="3" type="+-">Zoo langh vrugtloos <rhyme label="h" type="m">staen</rhyme>,</l>
         <l id="s3:l15" met="2" type="-+">Tot <rhyme label="g" type="f" corresp="#s3:l13">Mannestronken</rhyme>,</l>
         <l id="s3:l16" met="3" type="+-">Naken hare <rhyme label="h" type="m" corresp="#s3:l14">blaan</rhyme>.</l>
-        <l id="s3:l17" met="1" type="-+"><rhyme label="i" type="m">Mevrouw</rhyme></l>
+        <l id="s3:l17" met="1" type="-+">
+          <rhyme label="i" type="m">Mevrouw</rhyme>
+        </l>
         <l id="s3:l18" met="1" type="-+">De <rhyme label="i" type="m" corresp="#s3:l17">trouw</rhyme></l>
         <l id="s3:l19" met="2" type="-+">Ontmaagt geen <rhyme label="j" type="m">Maagt</rhyme>,</l>
         <l id="s3:l20" met="1" type="-+">Zoo <rhyme label="k" type="m">zy</rhyme></l>

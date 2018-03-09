@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Des morgens voor dag in het veld al bij de weg</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -77,7 +80,9 @@
         <l id="s5:l5" met="2" type="+-">Temteerden // <rhyme label="c" type="m">my</rhyme>,</l>
         <l id="s5:l6" met="2" type="+-">Het deerden // <rhyme label="c" type="m" corresp="#s5:l5">my</rhyme></l>
         <l id="s5:l7" met="1" type="-+">'t <rhyme label="d" type="f">Ontbeerde</rhyme>,</l>
-        <l id="s5:l8" met="1" type="-+"><rhyme label="d" type="f" corresp="#s5:l7">Begeerde</rhyme></l>
+        <l id="s5:l8" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s5:l7">Begeerde</rhyme>
+        </l>
         <l id="s5:l9" met="2" type="+-">Dies keerd' ick <rhyme label="c" type="m" corresp="#s5:l5">my</rhyme></l>
         <l id="s5:l10" met="3" type="-+">Van d'een op d'ander <rhyme label="c" type="m" corresp="#s5:l5">sy</rhyme>.</l>
       </lg>

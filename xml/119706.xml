@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>pentecostal song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Pentecost song">pinksterlied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Nun bitten wir den heiligen Geist</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

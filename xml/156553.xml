@@ -15,15 +15,20 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Marche des Camisards</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">Gierigaard</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Gierigaard</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Die, in u snood <rhyme label="b" type="f">bedryven</rhyme>,</l>
         <l id="s1:l3" met="2" type="+-">Wenst te <rhyme label="b" type="f" corresp="#s1:l2">blyven</rhyme></l>
         <l id="s1:l4" met="2" type="+-">By u <rhyme label="b" type="f" corresp="#s1:l2">schyven</rhyme></l>
@@ -60,7 +65,9 @@
         <l id="s3:l1" met="2" type="+-">Het <rhyme label="a" type="m">gemoet</rhyme></l>
         <l id="s3:l2" met="3" type="-+">Moet buigen voor de <rhyme label="b" type="f">Reden</rhyme></l>
         <l id="s3:l3" met="2" type="+-">En <rhyme label="b" type="f" corresp="#s3:l2">vertreden</rhyme></l>
-        <l id="s3:l4" met="2" type="+-"><rhyme label="b" type="f" corresp="#s3:l2">D'ydelheden</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s3:l2">D'ydelheden</rhyme>
+        </l>
         <l id="s3:l5" met="2" type="+-">Met de <rhyme label="a" type="m" corresp="#s3:l1">voet</rhyme>.</l>
         <l id="s3:l6" met="2" type="+-">Maar de <rhyme label="c" type="m">vrek</rhyme></l>
         <l id="s3:l7" met="3" type="-+">Verslyt sijn tijd met <rhyme label="d" type="f">slaven</rhyme></l>

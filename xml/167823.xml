@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Sinterklaas song</tag>
-      <tag>farewell song</tag>
+      <tag translation="">Sinterklaaslied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Belle Iris</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

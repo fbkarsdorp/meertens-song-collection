@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Het is te Gent nu al verkeerd</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

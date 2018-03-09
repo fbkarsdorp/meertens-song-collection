@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Laetae lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -89,7 +92,9 @@
         <l id="s5:l9" met="5" type="-+">Uw volk verlei, door zoo veel loos <rhyme label="d" type="m" corresp="#s5:l7">geschals</rhyme>;</l>
         <l id="s5:l10" met="1" type="-+">Maar <rhyme label="e" type="m">word</rhyme></l>
         <l id="s5:l11" met="1" type="+-">Heel <rhyme label="e" type="m" corresp="#s5:l10">kort</rhyme></l>
-        <l id="s5:l12" met="1" type="-+"><rhyme label="e" type="m" corresp="#s5:l10">Geschort</rhyme></l>
+        <l id="s5:l12" met="1" type="-+">
+          <rhyme label="e" type="m" corresp="#s5:l10">Geschort</rhyme>
+        </l>
       </lg>
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="2" type="-+">Zoo dat uw <rhyme label="a" type="m">rijk</rhyme></l>
@@ -102,7 +107,9 @@
         <l id="s6:l8" met="5" type="-+">Hoe Gy uw vyand kond tot gruis <rhyme label="d" type="m" corresp="#s6:l7">vertre'en</rhyme>,</l>
         <l id="s6:l9" met="5" type="-+">Schoon zijn gebied der dooven d' uwe <rhyme label="d" type="m" corresp="#s6:l7">scheen</rhyme>.</l>
         <l id="s6:l10" met="1" type="-+">Gy <rhyme label="e" type="m">wind</rhyme></l>
-        <l id="s6:l11" met="1" type="+-"><rhyme label="e" type="m" corresp="#s6:l10">Verslind</rhyme></l>
+        <l id="s6:l11" met="1" type="+-">
+          <rhyme label="e" type="m" corresp="#s6:l10">Verslind</rhyme>
+        </l>
         <l id="s6:l12" met="1" type="-+"><rhyme label="e" type="m" corresp="#s6:l10">Geswind</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -172,7 +179,9 @@
         <l id="s11:l8" met="5" type="-+">Des rijks te voeren, daar geen <rhyme label="d" type="m" corresp="#s11:l7">weer-party</rhyme></l>
         <l id="s11:l9" met="5" type="-+">Haar troon te schenden immer magtig <rhyme label="d" type="m" corresp="#s11:l7">zy</rhyme>.</l>
         <l id="s11:l10" met="1" type="-+">'t <rhyme label="e" type="m">Geveld</rhyme></l>
-        <l id="s11:l11" met="1" type="+-"><rhyme label="e" type="m" corresp="#s11:l10">Geweld</rhyme></l>
+        <l id="s11:l11" met="1" type="+-">
+          <rhyme label="e" type="m" corresp="#s11:l10">Geweld</rhyme>
+        </l>
         <l id="s11:l12" met="1" type="-+">Noit <rhyme label="e" type="m" corresp="#s11:l10">queld</rhyme>.</l>
       </lg>
       <lg id="s12" type="stanza">

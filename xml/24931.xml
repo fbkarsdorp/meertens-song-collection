@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -70,7 +73,9 @@
         <l id="s5:l5" met="4" type="-+">Des zekers wert hi wel <rhyme label="b" type="m" corresp="#s5:l2">bedrogen</rhyme>.</l>
         <l id="s5:l6" met="4" type="-+">Hadde hi gegaen met zwivel <rhyme label="c" type="m">an</rhyme>,</l>
         <l id="s5:l7" met="4" type="-+">Des ongelijx wer hi <rhyme label="b" type="m" corresp="#s5:l2">ontvlogen</rhyme>.</l>
-        <l id="s5:l8" met="4" type="-+"><rhyme label="c" type="m" corresp="#s5:l6">Explicit</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">
+          <rhyme label="c" type="m" corresp="#s5:l6">Explicit</rhyme>
+        </l>
       </lg>
     </lg>
   </text>

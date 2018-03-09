@@ -26,9 +26,13 @@
         <l id="s1:l4" met="3" type="-+">Tot alder tijt <rhyme label="c" type="m">geeert</rhyme></l>
         <l id="s1:l5" met="2" type="-+">Weerdich <rhyme label="b" type="f" corresp="#s1:l2">gepresen</rhyme></l>
         <l id="s1:l6" met="3" type="-+">Al door den heer <rhyme label="b" type="f" corresp="#s1:l2">verresen</rhyme></l>
-        <l id="s1:l7" met="2" type="-+"><rhyme label="c" type="m" corresp="#s1:l4">Gecelebreert</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s1:l4">Gecelebreert</rhyme>
+        </l>
         <l id="s1:l8" met="3" type="-+">En zijn <rhyme label="c" type="m" corresp="#s1:l4">gefestiveert</rhyme></l>
-        <l id="s1:l9" met="2" type="-+"><rhyme label="c" type="m" corresp="#s1:l4">Getriumpheert</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s1:l4">Getriumpheert</rhyme>
+        </l>
         <l id="s1:l10" met="3" type="-+">Heeft Godt seer <rhyme label="d" type="m">vayliant</rhyme></l>
         <l id="s1:l11" met="3" type="+-">Over de helsche <rhyme label="e" type="f">natie</rhyme></l>
         <l id="s1:l12" met="3" type="-+">Nu sidt met grote <rhyme label="e" type="f" corresp="#s1:l11">statie</rhyme></l>

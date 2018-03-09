@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>De wereld is nu heel in roer</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -39,7 +43,9 @@
         <l id="s2:l3" met="4" type="-+">En dicwils bidden met herten <rhyme label="a" type="f" corresp="#s2:l1">stille</rhyme> /</l>
         <l id="s2:l4" met="4" type="-+">Dat es die begeerte <rhyme label="b" type="m" corresp="#s2:l2">myn</rhyme>.</l>
         <l id="s2:l5" met="4" type="-+">Ghij sult vercrijgen op dat <rhyme label="b" type="m" corresp="#s2:l2">termyn</rhyme></l>
-        <l id="s2:l6" met="1" type="-+"><rhyme label="c" type="m">Terstont</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Terstont</rhyme>
+        </l>
         <l id="s2:l7" met="4" type="-+">In uwer zielen myn liefde <rhyme label="b" type="m" corresp="#s2:l2">fyn</rhyme>/</l>
         <l id="s2:l8" met="4" type="-+">En mynen loff in uwen <rhyme label="c" type="m" corresp="#s2:l6">mont</rhyme>.</l>
       </lg>

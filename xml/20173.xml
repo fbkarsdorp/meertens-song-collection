@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>lamentation</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Tweede Carileen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,12 +7,17 @@
       <year-end>1700</year-end>
     </date>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -57,7 +62,9 @@
         <l id="s4:l8" met="3" type="+-">niet eenen soo <rhyme label="b" type="m" corresp="#s4:l4">koen</rhyme></l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="2" type="+-"><rhyme label="a" type="f">herderinne</rhyme></l>
+        <l id="s5:l1" met="2" type="+-">
+          <rhyme label="a" type="f">herderinne</rhyme>
+        </l>
         <l id="s5:l2" met="3" type="+-">hoe soo stuur van <rhyme label="a" type="f" corresp="#s5:l1">sinne</rhyme></l>
         <l id="s5:l3" met="2" type="-+">indien mijn <rhyme label="a" type="f" corresp="#s5:l1">minne</rhyme></l>
         <l id="s5:l4" met="3" type="+-">geen troost en <rhyme label="b" type="m">verhoopt</rhyme></l>

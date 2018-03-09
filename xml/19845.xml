@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>orange song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="orangist song">oranjelied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -56,7 +60,9 @@
       </lg>
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="+-">Heer die alle Cruyden <rhyme label="a" type="m">bout</rhyme>,</l>
-        <l id="s5:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s5:l1">Onderhout</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s5:l1">Onderhout</rhyme>
+        </l>
         <l id="s5:l3" met="4" type="+-">D'Hoogh en Edel stam <rhyme label="b" type="f">Orangien</rhyme>,</l>
         <l id="s5:l4" met="4" type="+-">Dat wy in zijn schaduw' <rhyme label="c" type="m">soel</rhyme></l>
         <l id="s5:l5" met="2" type="+-">Sitten <rhyme label="c" type="m" corresp="#s5:l4">coel</rhyme></l>

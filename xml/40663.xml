@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>christmas song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Versgeboren zag ik een kindje klein</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

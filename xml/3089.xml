@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>farewell song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Bloemerharten wat een schrik</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>love song</tag>
-      <tag>drinking song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

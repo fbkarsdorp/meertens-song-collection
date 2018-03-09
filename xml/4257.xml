@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -80,7 +85,9 @@
         <l id="s7:l2" met="3" type="-+">Ter hant, mijn <rhyme label="b" type="f">lamenteeren</rhyme>:</l>
         <l id="s7:l3" met="3" type="+-">Ten can meestresse // <rhyme label="a" type="m" corresp="#s7:l1">zijn</rhyme>,</l>
         <l id="s7:l4" met="3" type="-+">Soo cunstich int <rhyme label="b" type="f" corresp="#s7:l2">cureeren</rhyme>:</l>
-        <l id="s7:l5" met="3" type="-+"><rhyme label="c" type="m">D'inwendicheyt</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">
+          <rhyme label="c" type="m">D'inwendicheyt</rhyme>
+        </l>
         <l id="s7:l6" met="3" type="-+">Is naer dijn troost in <rhyme label="d" type="f">wake</rhyme>,</l>
         <l id="s7:l7" met="3" type="+-">Dus zijt geen <rhyme label="d" type="f" corresp="#s7:l6">oorsake</rhyme></l>
         <l id="s7:l8" met="3" type="-+">Van mijn <rhyme label="c" type="m" corresp="#s7:l5">ellendicheyt</rhyme>.</l>

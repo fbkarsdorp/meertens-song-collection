@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>beggar song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Psalm 012 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

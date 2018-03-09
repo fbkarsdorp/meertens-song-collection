@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>soldier's song</tag>
-      <tag>love song</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Hebben ze dat gedaan doen ze</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

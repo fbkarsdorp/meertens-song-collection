@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -87,7 +90,9 @@
         <l id="s3:l15" met="2" type="-+">Springh-vloedt en <rhyme label="f" type="f" corresp="#s3:l13">Ader</rhyme></l>
         <l id="s3:l16" met="3" type="+-">Overspringht mijn <rhyme label="g" type="m" corresp="#s3:l14">Ieught</rhyme>,</l>
         <l id="s3:l17" met="1" type="-+"><rhyme label="h" type="m">Bestraelt</rhyme>,</l>
-        <l id="s3:l18" met="1" type="-+"><rhyme label="h" type="m" corresp="#s3:l17">Bepraelt</rhyme></l>
+        <l id="s3:l18" met="1" type="-+">
+          <rhyme label="h" type="m" corresp="#s3:l17">Bepraelt</rhyme>
+        </l>
         <l id="s3:l19" met="2" type="-+">Hemel! mijn <rhyme label="i" type="m">gheest</rhyme>,</l>
         <l id="s3:l20" met="2" type="+-">Datse <rhyme label="j" type="m">staegh</rhyme></l>
         <l id="s3:l21" met="2" type="+-">Alle <rhyme label="j" type="m" corresp="#s3:l20">daegh</rhyme></l>

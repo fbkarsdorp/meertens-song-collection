@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>love song</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Als Garint zijn oogjes open deed</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Zoet Robbertje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -82,7 +85,9 @@
         <l id="s6:l8" met="3" type="-+">Ter saligheydt <rhyme label="d" type="m" corresp="#s6:l7">t'ontfaen</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
-        <l id="s7:l1" met="2" type="-+"><rhyme label="a" type="f">Experienti</rhyme></l>
+        <l id="s7:l1" met="2" type="-+">
+          <rhyme label="a" type="f">Experienti</rhyme>
+        </l>
         <l id="s7:l2" met="3" type="-+">Soo menighmael <rhyme label="b" type="m">verklaert</rhyme>,</l>
         <l id="s7:l3" met="2" type="-+">Dat uw <rhyme label="a" type="f" corresp="#s7:l1">presenti</rhyme>,</l>
         <l id="s7:l4" met="3" type="-+">O Jesu, is seer <rhyme label="b" type="m" corresp="#s7:l2">waert</rhyme>.</l>

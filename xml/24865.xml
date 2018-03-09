@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>De liefste jonst van aardrijk</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -53,9 +56,13 @@
       </lg>
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="4" type="-+">Alle duechden sijn haer <rhyme label="a" type="m">an</rhyme></l>
-        <l id="s4:l2" met="1" type="-+"><rhyme label="b" type="f">Gheboren</rhyme></l>
+        <l id="s4:l2" met="1" type="-+">
+          <rhyme label="b" type="f">Gheboren</rhyme>
+        </l>
         <l id="s4:l3" met="4" type="-+">Anders blevic arem <rhyme label="a" type="m" corresp="#s4:l1">man</rhyme></l>
-        <l id="s4:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l2">Verloren</rhyme></l>
+        <l id="s4:l4" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s4:l2">Verloren</rhyme>
+        </l>
         <l id="s4:l5" met="4" type="-+">In haren dienst bem ic <rhyme label="b" type="f" corresp="#s4:l2">bezworen</rhyme></l>
         <l id="s4:l6" met="2" type="-+">Eighin <rhyme label="c" type="m">vry</rhyme></l>
         <l id="s4:l7" met="4" type="-+">Sorge ende pijn ende allen <rhyme label="b" type="f" corresp="#s4:l2">toren</rhyme></l>

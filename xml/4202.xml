@@ -15,16 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Schoonste Lerinde</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="-+">THans is ons <rhyme label="a" type="f">wenschen</rhyme></l>
         <l id="s1:l2" met="2" type="-+">(In Godes <rhyme label="b" type="f">namen</rhyme>)</l>
-        <l id="s1:l3" met="2" type="-+"><rhyme label="c" type="m">Edele-Paar</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">
+          <rhyme label="c" type="m">Edele-Paar</rhyme>
+        </l>
         <l id="s1:l4" met="2" type="-+">Bruygom en <rhyme label="d" type="m">Bruyd</rhyme>:</l>
         <l id="s1:l5" met="2" type="-+">Dat gy twee <rhyme label="a" type="f" corresp="#s1:l1">menschen</rhyme>,</l>
         <l id="s1:l6" met="2" type="-+">Beyde te <rhyme label="b" type="f" corresp="#s1:l2">samen</rhyme>,</l>

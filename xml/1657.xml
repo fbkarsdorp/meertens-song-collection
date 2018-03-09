@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>rider's song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="horseman's song">ruiterlied</tag>
     </tags>
     <melody>Het voer een maagdje over Rijn</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

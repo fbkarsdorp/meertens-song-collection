@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>praise</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Nu dijn leven is gedreven</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -36,7 +40,9 @@
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="2" type="+-">Wy u <rhyme label="a" type="f">groeten</rhyme>,</l>
-        <l id="s2:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">Oversoeten</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s2:l1">Oversoeten</rhyme>
+        </l>
         <l id="s2:l3" met="2" type="+-"><rhyme label="b" type="m">Honigh-raet</rhyme>.</l>
         <l id="s2:l4" met="3" type="+-">Ons hert weer <rhyme label="c" type="m">versacht</rhyme>,</l>
         <l id="s2:l5" met="3" type="-+">Verdrijft van ons het <rhyme label="b" type="m" corresp="#s2:l3">quaet</rhyme>.</l>
@@ -72,7 +78,9 @@
       </lg>
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="2" type="+-">Hoogh <rhyme label="a" type="f">gebooren</rhyme></l>
-        <l id="s5:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s5:l1">Uytverkooren</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s5:l1">Uytverkooren</rhyme>
+        </l>
         <l id="s5:l3" met="2" type="+-"><rhyme label="b" type="m">Coningin</rhyme>,</l>
         <l id="s5:l4" met="3" type="+-">Voor ons alle <rhyme label="c" type="m">tijdt</rhyme></l>
         <l id="s5:l5" met="3" type="-+">Gaet by den Coninck <rhyme label="b" type="m" corresp="#s5:l3">in</rhyme>.</l>

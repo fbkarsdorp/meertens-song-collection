@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>In Oostenrijk daar staat een huis</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="groups">groepen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

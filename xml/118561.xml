@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Gelukkig wiens gemoed</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

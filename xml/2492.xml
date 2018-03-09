@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>welcoming song</tag>
-      <tag>praise</tag>
+      <tag translation="welcome song">welkomstlied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

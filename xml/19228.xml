@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Tous mes amis</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -27,7 +31,9 @@
         <l id="s1:l2" met="3" type="-+">Die last draecht <rhyme label="b" type="f">oueruloedich</rhyme></l>
         <l id="s1:l3" met="2" type="-+">Roept Christus <rhyme label="a" type="m" corresp="#s1:l1">bly</rhyme></l>
         <l id="s1:l4" met="3" type="-+">Ick wil v troosten <rhyme label="b" type="f" corresp="#s1:l2">spoedich</rhyme></l>
-        <l id="s1:l5" met="2" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Behoedich//saechtmoedich</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Behoedich//saechtmoedich</rhyme>
+        </l>
         <l id="s1:l6" met="4" type="-+">Wilt hy bedruckte volck <rhyme label="c" type="m">ontfaen</rhyme></l>
         <l id="s1:l7" met="2" type="-+">Staet hem al <rhyme label="c" type="m" corresp="#s1:l6">aen</rhyme></l>
         <l id="s1:l8" met="4" type="-+">Gaet toe, hy neempt op hem al v <rhyme label="d" type="f">sonden</rhyme></l>

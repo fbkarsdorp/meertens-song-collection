@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>sailor song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

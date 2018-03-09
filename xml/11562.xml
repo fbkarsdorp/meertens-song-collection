@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
-      <tag>narrative song</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Tanneke</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

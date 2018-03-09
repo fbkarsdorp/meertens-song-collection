@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Het nachtegaaltje klein</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

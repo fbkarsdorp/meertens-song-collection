@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Koker Janszen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -86,7 +89,9 @@
         <l id="s6:l2" met="4" type="+-">Met sijn Zeysen op sijn <rhyme label="b" type="m">schoft</rhyme>;</l>
         <l id="s6:l3" met="4" type="+-">Snockent gingk hy met <rhyme label="a" type="f" corresp="#s6:l1">verlangen</rhyme></l>
         <l id="s6:l4" met="4" type="+-">Na sijn Grait, hy heeft <rhyme label="b" type="m" corresp="#s6:l2">gekoft</rhyme></l>
-        <l id="s6:l5" met="2" type="+-"><rhyme label="c" type="m">Scharre-bier</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">
+          <rhyme label="c" type="m">Scharre-bier</rhyme>
+        </l>
         <l id="s6:l6" met="2" type="+-">Om het <rhyme label="c" type="m" corresp="#s6:l5">vier</rhyme></l>
         <l id="s6:l7" met="4" type="+-">Wat te lesschen, maer ho, <rhyme label="d" type="m">ho</rhyme>,</l>
         <l id="s6:l8" met="2" type="+-">Hulp al <rhyme label="e" type="f">nichel</rhyme>,</l>

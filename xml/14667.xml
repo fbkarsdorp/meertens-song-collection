@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -86,7 +89,9 @@
         <l id="s4:l14" met="3" type="-+">Te lijden was <rhyme label="d" type="m" corresp="#s4:l10">ghesent</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="2" type="-+"><rhyme label="a" type="m">Samarien</rhyme></l>
+        <l id="s5:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Samarien</rhyme>
+        </l>
         <l id="s5:l2" met="3" type="-+">Sult ghy sijn woort oock <rhyme label="b" type="f">preecken</rhyme>,</l>
         <l id="s5:l3" met="2" type="-+">Iudea <rhyme label="a" type="m" corresp="#s5:l1">en</rhyme></l>
         <l id="s5:l4" met="3" type="-+">Gheheel <rhyme label="c" type="m">Ierusalem</rhyme>.</l>

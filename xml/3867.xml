@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>Maria song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +34,9 @@
         <l id="s1:l3" met="3" type="-+">Met eenen woorde <rhyme label="b" type="f">ghewonnen</rhyme></l>
         <l id="s1:l4" met="4" type="-+">Dat dede haer duechdelijck <rhyme label="a" type="m" corresp="#s1:l1">onderstant</rhyme></l>
         <l id="s1:l5" met="4" type="-+">Waer by wort ons hier vre int <rhyme label="a" type="m" corresp="#s1:l1">lant</rhyme></l>
-        <l id="s1:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l3">Ghesonghen</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l3">Ghesonghen</rhyme>
+        </l>
         <l id="s1:l7" met="3" type="-+">Met enghelschen <rhyme label="b" type="f" corresp="#s1:l3">tonghen</rhyme></l>
       </lg>
       <lg id="s2" type="stanza">
@@ -65,7 +72,9 @@
         <l id="s5:l3" met="3" type="-+">Ic bid v staet ons in <rhyme label="b" type="f">staden</rhyme></l>
         <l id="s5:l4" met="4" type="-+">Ghi sijt den sondaren int <rhyme label="a" type="m" corresp="#s5:l1">ghemeyn</rhyme></l>
         <l id="s5:l5" met="4" type="-+">Een vol vat dat daer is <rhyme label="a" type="m" corresp="#s5:l1">certeyn</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l3">Gheladen</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s5:l3">Gheladen</rhyme>
+        </l>
         <l id="s5:l7" met="3" type="-+">Vol godlijcker <rhyme label="b" type="f" corresp="#s5:l3">ghenaden</rhyme></l>
       </lg>
       <lg id="s6" type="stanza">
@@ -83,7 +92,9 @@
         <l id="s7:l3" met="3" type="-+">Daer om bistu <rhyme label="b" type="f">vercoren</rhyme></l>
         <l id="s7:l4" met="4" type="-+">Adams sonden heeft hi <rhyme label="a" type="m" corresp="#s7:l1">beclaecht</rhyme></l>
         <l id="s7:l5" met="4" type="-+">Die van v wer <rhyme label="a" type="m" corresp="#s7:l1">onuersaecht</rhyme></l>
-        <l id="s7:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s7:l3">Gheboren</rhyme></l>
+        <l id="s7:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s7:l3">Gheboren</rhyme>
+        </l>
         <l id="s7:l7" met="3" type="-+">Om tschaep dat was <rhyme label="b" type="f" corresp="#s7:l3">verloren</rhyme></l>
       </lg>
       <lg id="s8" type="stanza">

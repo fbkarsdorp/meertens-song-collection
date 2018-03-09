@@ -82,7 +82,9 @@
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="2" type="+-">Van <rhyme label="a" type="m">Komen</rhyme>,</l>
         <l id="s7:l2" met="3" type="-+">De Joden en noch <rhyme label="b" type="m">meer</rhyme>,</l>
-        <l id="s7:l3" met="2" type="+-"><rhyme label="a" type="m" corresp="#s7:l1">Heydenen</rhyme></l>
+        <l id="s7:l3" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s7:l1">Heydenen</rhyme>
+        </l>
         <l id="s7:l4" met="3" type="-+">Bekeert tot Joodtsche <rhyme label="b" type="m" corresp="#s7:l2">leer</rhyme>,</l>
         <l id="s7:l5" met="4" type="-+">De Creten en den <rhyme label="c" type="m">Arabier</rhyme>,</l>
         <l id="s7:l6" met="4" type="-+">Elck hoort sijn tael nu spreken <rhyme label="c" type="m" corresp="#s7:l5">hier</rhyme>,</l>
@@ -90,7 +92,9 @@
         <l id="s7:l8" met="3" type="-+">Een yder was <rhyme label="d" type="m" corresp="#s7:l7">bevreest</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">
-        <l id="s8:l1" met="2" type="+-"><rhyme label="a" type="m">Altemael</rhyme></l>
+        <l id="s8:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Altemael</rhyme>
+        </l>
         <l id="s8:l2" met="3" type="-+">Spraken sy met een <rhyme label="b" type="m">woort</rhyme>,</l>
         <l id="s8:l3" met="2" type="+-">In sijn <rhyme label="a" type="m" corresp="#s8:l1">tael</rhyme>,</l>
         <l id="s8:l4" met="3" type="-+">Heeft yder hier <rhyme label="b" type="m" corresp="#s8:l2">gehoort</rhyme>,</l>

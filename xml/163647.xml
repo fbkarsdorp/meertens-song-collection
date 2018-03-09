@@ -15,25 +15,33 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="-+">Ik voel mijn <rhyme label="a" type="m">hert</rhyme></l>
         <l id="s1:l2" met="2" type="-+">- Wat wonder <rhyme label="b" type="f">teken</rhyme>! -</l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme>
+        </l>
         <l id="s1:l4" met="3" type="-+">Als met een nieuwe <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>,</l>
         <l id="s1:l5" met="2" type="-+">Door het <rhyme label="c" type="m">geweld</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Der min <rhyme label="c" type="m" corresp="#s1:l5">geveld</rhyme>,</l>
         <l id="s1:l7" met="4" type="-+">Waarvoor ik sie mijn kragt <rhyme label="b" type="f" corresp="#s1:l2">besweken</rhyme>.</l>
         <l id="s1:l8" met="2" type="-+">Ik voel mijn <rhyme label="a" type="m" corresp="#s1:l1">hert</rhyme></l>
         <l id="s1:l9" met="2" type="-+">- Wat wonder <rhyme label="b" type="f" corresp="#s1:l2">teken</rhyme>! -</l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme>
+        </l>
         <l id="s1:l11" met="3" type="+-">Als met een nieuwe <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Comtesse de Corsol</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

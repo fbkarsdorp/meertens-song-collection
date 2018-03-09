@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>table song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="dining song">tafellied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

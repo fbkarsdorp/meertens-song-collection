@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

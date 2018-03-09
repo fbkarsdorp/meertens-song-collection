@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -88,7 +92,9 @@
       </lg>
       <lg id="s8" type="stanza">
         <l id="s8:l1" met="4" type="-+">Dus vielen sy op de Rovertjes <rhyme label="a" type="m">aan</rhyme>.</l>
-        <l id="s8:l2" met="1" type="-+"><rhyme label="b" type="f">Begonden</rhyme></l>
+        <l id="s8:l2" met="1" type="-+">
+          <rhyme label="b" type="f">Begonden</rhyme>
+        </l>
         <l id="s8:l3" met="1" type="-+">In ’t <rhyme label="b" type="f" corresp="#s8:l2">ronden</rhyme></l>
         <l id="s8:l4" met="2" type="-+">Met knuppels te <rhyme label="a" type="m" corresp="#s8:l1">slaan</rhyme>,</l>
         <l id="s8:l5" met="2" type="-+">Met Schoppen en <rhyme label="c" type="m">spa</rhyme>,</l>

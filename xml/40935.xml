@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mythological song</tag>
-      <tag>narrative song</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

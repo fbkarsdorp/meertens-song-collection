@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>narrative song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

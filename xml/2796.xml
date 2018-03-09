@@ -15,14 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="-+"><rhyme label="a" type="m">Melankoely</rhyme></l>
+        <l id="s1:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Melankoely</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Wech neemt myn vruecht te <rhyme label="b" type="m">mael</rhyme></l>
         <l id="s1:l3" met="2" type="-+">alsoe nu <rhyme label="a" type="m" corresp="#s1:l1">my</rhyme></l>
         <l id="s1:l4" met="3" type="-+">myn liefate <rhyme label="b" type="m" corresp="#s1:l2">deelykaet</rhyme></l>
@@ -62,7 +67,9 @@
         <l id="s4:l8" met="3" type="-+">van godt worde <rhyme label="d" type="m" corresp="#s4:l6">gesent</rhyme></l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="2" type="-+"><rhyme label="a" type="m">Onvroomicheyt</rhyme></l>
+        <l id="s5:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Onvroomicheyt</rhyme>
+        </l>
         <l id="s5:l2" met="3" type="-+">Den quaeden valschen <rhyme label="b" type="m">raet</rhyme></l>
         <l id="s5:l3" met="2" type="-+">u verblint <rhyme label="a" type="m" corresp="#s5:l1">leyt</rhyme></l>
         <l id="s5:l4" met="3" type="-+">en my maeckt <rhyme label="b" type="m" corresp="#s5:l2">Disperaet</rhyme></l>

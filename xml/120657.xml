@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Oui je le aime pour jamais</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

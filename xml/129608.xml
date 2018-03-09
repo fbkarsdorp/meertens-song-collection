@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>sailor song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Het is nu ruim vijf jaar geleden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

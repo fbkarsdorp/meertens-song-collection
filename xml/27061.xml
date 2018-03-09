@@ -7,12 +7,17 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>thanks song</tag>
-      <tag>secular song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Es ist das Heil uns kommen her</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

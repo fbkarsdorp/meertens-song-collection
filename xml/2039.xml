@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>I have a love so fair so constant firm and kind</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,7 +49,9 @@
         <l id="s2:l8" met="2" type="-+">In zoet <rhyme label="d" type="m" corresp="#s2:l7">gebie</rhyme>,</l>
         <l id="s2:l9" met="2" type="-+">De teere <rhyme label="e" type="m">jeught</rhyme></l>
         <l id="s2:l10" met="2" type="-+">In rijpe <rhyme label="e" type="m" corresp="#s2:l9">deught</rhyme></l>
-        <l id="s2:l11" met="1" type="+-"><rhyme label="f" type="f">Vergaren</rhyme></l>
+        <l id="s2:l11" met="1" type="+-">
+          <rhyme label="f" type="f">Vergaren</rhyme>
+        </l>
         <l id="s2:l12" met="3" type="-+">Om vreughdigh wel te <rhyme label="f" type="f" corresp="#s2:l11">paren</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -60,7 +65,9 @@
         <l id="s3:l8" met="2" type="-+">In blinde <rhyme label="d" type="m" corresp="#s3:l7">min</rhyme>,</l>
         <l id="s3:l9" met="2" type="-+">Die, dieze <rhyme label="e" type="m">laet</rhyme></l>
         <l id="s3:l10" met="2" type="-+">Of, daerze <rhyme label="e" type="m" corresp="#s3:l9">gaet</rhyme></l>
-        <l id="s3:l11" met="1" type="+-"><rhyme label="f" type="f">Bereyen</rhyme></l>
+        <l id="s3:l11" met="1" type="+-">
+          <rhyme label="f" type="f">Bereyen</rhyme>
+        </l>
         <l id="s3:l12" met="3" type="-+">De rijpe ziel te <rhyme label="f" type="f" corresp="#s3:l11">leyen</rhyme>.</l>
       </lg>
     </lg>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>admonishing song</tag>
-      <tag>Maria song</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="Marian song">Marialied</tag>
     </tags>
     <melody>Het vinnige stralen van de zon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

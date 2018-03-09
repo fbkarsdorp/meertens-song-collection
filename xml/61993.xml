@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>fashion song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="fashion song">modelied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Wohlan die Zeit ist kommen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

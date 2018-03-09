@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>dialect song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -41,7 +45,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Hommers, leete wilder <rhyme label="a" type="f">rotze</rhyme></l>
-        <l id="s3:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s3:l1">Otzebotze</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s3:l1">Otzebotze</rhyme>
+        </l>
         <l id="s3:l3" met="4" type="+-">Deur de duinen, an de <rhyme label="b" type="m">strangt</rhyme>:</l>
         <l id="s3:l4" met="4" type="+-">Lopt deer mitje witte <rhyme label="c" type="f">voetjes</rhyme>,</l>
         <l id="s3:l5" met="2" type="+-">Zogt en <rhyme label="c" type="f" corresp="#s3:l4">zoetjes</rhyme></l>

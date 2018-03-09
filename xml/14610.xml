@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -72,7 +75,9 @@
       </lg>
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="4" type="-+">Let eens hoe den <rhyme label="a" type="m">Sonnen-strael</rhyme></l>
-        <l id="s7:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s7:l1">'Tenemael</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s7:l1">'Tenemael</rhyme>
+        </l>
         <l id="s7:l3" met="4" type="+-">Met zijn licht haer comt <rhyme label="b" type="f">becleeden</rhyme>,</l>
         <l id="s7:l4" met="4" type="+-">En hoe dat de <rhyme label="c" type="m">Mane-schijn</rhyme></l>
         <l id="s7:l5" met="2" type="+-">Seer <rhyme label="c" type="m" corresp="#s7:l4">divijn</rhyme>,</l>
@@ -80,7 +85,9 @@
       </lg>
       <lg id="s8" type="stanza">
         <l id="s8:l1" met="4" type="-+">Van twalef sterren eenen <rhyme label="a" type="m">croon</rhyme></l>
-        <l id="s8:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s8:l1">Overschoon</rhyme></l>
+        <l id="s8:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s8:l1">Overschoon</rhyme>
+        </l>
         <l id="s8:l3" met="4" type="+-">Van haer Bruyd'gom is <rhyme label="b" type="f">gegeven</rhyme>,</l>
         <l id="s8:l4" met="4" type="+-">Die haer nu selfs leyt naer den <rhyme label="c" type="m">Throon</rhyme></l>
         <l id="s8:l5" met="2" type="+-">Met haer <rhyme label="c" type="m" corresp="#s8:l4">Soon</rhyme>,</l>

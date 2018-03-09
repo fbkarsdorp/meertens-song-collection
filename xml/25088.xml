@@ -7,11 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>praise</tag>
-      <tag>Maria song</tag>
-      <tag>christmas song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

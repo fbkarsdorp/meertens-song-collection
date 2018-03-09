@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 061 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -71,7 +74,9 @@
       </lg>
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="4" type="+-">Dan sal uwen name <rhyme label="a" type="f">wesen</rhyme></l>
-        <l id="s7:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s7:l1">Hooch-gepresen</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s7:l1">Hooch-gepresen</rhyme>
+        </l>
         <l id="s7:l3" met="4" type="+-">Door mijn sangen <rhyme label="b" type="m">even-staech</rhyme>.</l>
         <l id="s7:l4" met="4" type="+-">Dan sal ick niet lange <rhyme label="c" type="f">dralen</rhyme></l>
         <l id="s7:l5" met="2" type="+-">Te <rhyme label="c" type="f" corresp="#s7:l4">betalen</rhyme></l>

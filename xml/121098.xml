@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>craft song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
     </tags>
     <melody>Hier heeft mij Rozemond bescheiden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

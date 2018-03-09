@@ -72,7 +72,9 @@
         <l id="s7:l2" met="2" type="+-">Door mijn <rhyme label="a" type="f" corresp="#s7:l1">psalmen</rhyme>,</l>
         <l id="s7:l3" met="4" type="+-">Looven uwe <rhyme label="b" type="m">majesteit</rhyme>;</l>
         <l id="s7:l4" met="4" type="+-">Mijn geloften U <rhyme label="c" type="f">betaalen</rhyme>,</l>
-        <l id="s7:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s7:l4">Menigmaalen</rhyme></l>
+        <l id="s7:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s7:l4">Menigmaalen</rhyme>
+        </l>
         <l id="s7:l6" met="4" type="+-">Plegtig aan U <rhyme label="b" type="m" corresp="#s7:l3">toegezeid</rhyme>.</l>
       </lg>
     </lg>

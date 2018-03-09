@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Christ song</tag>
+      <tag translation="Jesus song">Christuslied</tag>
     </tags>
     <melody>Psalm 024 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

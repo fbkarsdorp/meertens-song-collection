@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>welcoming song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="welcome song">welkomstlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Rijke God wie zal ik klagen</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

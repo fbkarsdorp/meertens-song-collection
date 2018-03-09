@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
-      <tag>beggar song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Wanneer ik slaap</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

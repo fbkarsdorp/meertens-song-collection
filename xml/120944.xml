@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>De schoonheid van mijn zielsvriendin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

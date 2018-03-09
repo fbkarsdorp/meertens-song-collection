@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Ballet du roi</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -60,7 +63,9 @@
         <l id="s1:l36" met="2" type="-+">Door bleeken <rhyme label="n" type="m" corresp="#s1:l34">stoot</rhyme></l>
         <l id="s1:l37" met="2" type="-+">Syn leven <rhyme label="j" type="m" corresp="#s1:l23">sift</rhyme>,</l>
         <l id="s1:l38" met="1" type="-+">Ach <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme></l>
-        <l id="s1:l39" met="1" type="-+"><rhyme label="a" type="m" corresp="#s1:l1">Goddin</rhyme></l>
+        <l id="s1:l39" met="1" type="-+">
+          <rhyme label="a" type="m" corresp="#s1:l1">Goddin</rhyme>
+        </l>
         <l id="s1:l40" met="3" type="-+">Nempt uwen dienaer <rhyme label="o" type="m">af</rhyme>,</l>
         <l id="s1:l41" met="4" type="-+">De thoomen van syn swaere <rhyme label="o" type="m" corresp="#s1:l40">straf</rhyme>,</l>
         <l id="s1:l42" met="4" type="-+">Eer Lachesis hem rolt int <rhyme label="o" type="m" corresp="#s1:l40">graf</rhyme>.</l>

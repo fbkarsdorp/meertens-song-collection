@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Maagdelijk schoon gesticht</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -20,7 +25,9 @@
         <l id="s1:l2" met="3" type="+-">Weet ick een vrouwe // <rhyme label="b" type="m">fyn</rhyme>:</l>
         <l id="s1:l3" met="3" type="-+">Perfect // en soo <rhyme label="a" type="f" corresp="#s1:l1">besneden</rhyme>,</l>
         <l id="s1:l4" met="3" type="+-">Mocht noit kersouwe // <rhyme label="b" type="m" corresp="#s1:l2">zijn</rhyme>:</l>
-        <l id="s1:l5" met="1" type="-+"><rhyme label="b" type="m" corresp="#s1:l2">T'sanguijn</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s1:l2">T'sanguijn</rhyme>
+        </l>
         <l id="s1:l6" met="1" type="-+"><rhyme label="b" type="m" corresp="#s1:l2">Aenschijn</rhyme>,</l>
         <l id="s1:l7" met="1" type="+-"><rhyme label="b" type="m" corresp="#s1:l2">Divijn</rhyme>:</l>
         <l id="s1:l8" met="3" type="-+">Dunct my soo <rhyme label="c" type="m">glorieus</rhyme>:</l>

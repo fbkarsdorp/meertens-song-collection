@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Zal ik nog langer in hete tranen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -107,7 +110,9 @@
         <l id="s9:l3" met="4" type="-+">Sijn Lijck te geven slechte <rhyme label="a" type="f" corresp="#s9:l1">erven</rhyme>:</l>
         <l id="s9:l4" met="4" type="-+">M'hem altijdt soo ootmoedigh <rhyme label="b" type="m" corresp="#s9:l2">vint</rhyme>.</l>
         <l id="s9:l5" met="2" type="-+">In <rhyme label="c" type="m">kleynigheyt</rhyme>,</l>
-        <l id="s9:l6" met="2" type="-+"><rhyme label="c" type="m" corresp="#s9:l5">Ootmoedigheyt</rhyme></l>
+        <l id="s9:l6" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s9:l5">Ootmoedigheyt</rhyme>
+        </l>
         <l id="s9:l7" met="5" type="-+">Heyligen veel hier in te boven <rhyme label="d" type="m">gaet</rhyme>,</l>
         <l id="s9:l8" met="5" type="-+">De Wereldt heel in hem verwondert <rhyme label="d" type="m" corresp="#s9:l7">staet</rhyme>.</l>
       </lg>

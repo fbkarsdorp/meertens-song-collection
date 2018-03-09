@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -82,7 +85,9 @@
         <l id="s6:l8" met="3" type="-+">Ghy wilt mijn jonghe <rhyme label="d" type="m" corresp="#s6:l6">jeucht</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
-        <l id="s7:l1" met="2" type="-+"><rhyme label="a" type="f">Albastelijcke</rhyme></l>
+        <l id="s7:l1" met="2" type="-+">
+          <rhyme label="a" type="f">Albastelijcke</rhyme>
+        </l>
         <l id="s7:l2" met="3" type="+-">Fier Princesse <rhyme label="b" type="m">reyn</rhyme></l>
         <l id="s7:l3" met="2" type="-+">En schoonheyts <rhyme label="a" type="f" corresp="#s7:l1">rijcke</rhyme></l>
         <l id="s7:l4" met="3" type="+-">Lavende <rhyme label="b" type="m" corresp="#s7:l2">Fonteyn</rhyme></l>

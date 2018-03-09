@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>proverb</tag>
-      <tag>love song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Cecilia</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

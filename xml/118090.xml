@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Al wat men doet</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

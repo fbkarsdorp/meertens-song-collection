@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>proverb</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Lijsje wat helpt vele gestreden</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

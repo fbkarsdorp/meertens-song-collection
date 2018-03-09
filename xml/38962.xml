@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>three-kings song</tag>
-      <tag>secular song</tag>
-      <tag>drinking song</tag>
+      <tag translation="Epiphany song">driekoningenlied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>Belle Iris</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

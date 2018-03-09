@@ -40,7 +40,9 @@
         <l id="s3:l2" met="2" type="+-">Siet hoe <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme></l>
         <l id="s3:l3" met="4" type="+-">Voegen sich dees' twee te <rhyme label="b" type="f">samen</rhyme>:</l>
         <l id="s3:l4" met="4" type="+-">Soetertjes, ey volgd haar <rhyme label="c" type="m">Wet</rhyme>,</l>
-        <l id="s3:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s3:l4">Onbesmet</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s3:l4">Onbesmet</rhyme>
+        </l>
         <l id="s3:l6" met="4" type="+-">Niemnd hoefd: sich dat te <rhyme label="b" type="f" corresp="#s3:l3">schamen</rhyme>.</l>
       </lg>
     </lg>

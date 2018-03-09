@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Terwijl de schone lente heeft</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

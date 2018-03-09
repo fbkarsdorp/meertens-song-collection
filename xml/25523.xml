@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love complaint</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -30,7 +34,9 @@
         <l id="s1:l5" met="4" type="-+">erwelt dat moyß ich myden und <rhyme label="c" type="m">fayr</rhyme></l>
         <l id="s1:l6" met="4" type="-+">dair hyn, zo ellend werde ich <rhyme label="d" type="m">gantz</rhyme></l>
         <l id="s1:l7" met="4" type="-+">geselt, so lange bys ich dich <rhyme label="c" type="m" corresp="#s1:l5">weder</rhyme></l>
-        <l id="s1:l8" met="4" type="-+"><rhyme label="d" type="m" corresp="#s1:l6">siehen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">
+          <rhyme label="d" type="m" corresp="#s1:l6">siehen</rhyme>
+        </l>
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="-+">O werder vrunt nw halt yn <rhyme label="a" type="m">hoide</rhyme>,</l>

@@ -7,11 +7,15 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>proverb</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Schoon liefje jent zeer excellent</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

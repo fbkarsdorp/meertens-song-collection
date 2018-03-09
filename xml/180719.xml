@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -23,7 +23,9 @@
         <l id="s1:l1" met="2" type="-+">T’Is u <rhyme label="a" type="m">gheseyt</rhyme>,</l>
         <l id="s1:l2" met="3" type="-+">O Mensch, hoe Godt de <rhyme label="b" type="f">Heere</rhyme></l>
         <l id="s1:l3" met="3" type="-+">Van u begheert soo <rhyme label="b" type="f" corresp="#s1:l2">seere</rhyme>,</l>
-        <l id="s1:l4" met="2" type="-+"><rhyme label="a" type="m" corresp="#s1:l1">Ghehoorsaemheyt</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s1:l1">Ghehoorsaemheyt</rhyme>
+        </l>
         <l id="s1:l5" met="3" type="-+">In sijn heyliche <rhyme label="b" type="f" corresp="#s1:l2">leere</rhyme>,</l>
         <l id="s1:l6" met="2" type="-+">Dat ghy met <rhyme label="c" type="m">vlijt</rhyme></l>
         <l id="s1:l7" met="3" type="-+">Oeffent reyn liefde <rhyme label="d" type="f">gloedich</rhyme>,</l>
@@ -130,7 +132,9 @@
         <l id="s10:l9" met="3" type="-+">Was, hy mocht hem niet <rhyme label="d" type="f" corresp="#s10:l7">salven</rhyme>.</l>
       </lg>
       <lg id="s11" type="stanza">
-        <l id="s11:l1" met="2" type="-+"><rhyme label="a" type="m">Aminadab</rhyme></l>
+        <l id="s11:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Aminadab</rhyme>
+        </l>
         <l id="s11:l2" met="3" type="-+">Noch Samma noch van <rhyme label="b" type="f">seven</rhyme></l>
         <l id="s11:l3" met="3" type="-+">Sonen werdt gheen <rhyme label="b" type="f" corresp="#s11:l2">verheven</rhyme>,</l>
         <l id="s11:l4" met="2" type="-+">Wt <rhyme label="a" type="m" corresp="#s11:l1">t’gheselschap</rhyme></l>

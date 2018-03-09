@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>love song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Het nachtegaaltje klein</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

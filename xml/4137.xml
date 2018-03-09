@@ -37,7 +37,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Kille-beving, <rhyme label="a" type="f">heete-Koortsen</rhyme>,</l>
-        <l id="s3:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s3:l1">Felle-toortsen</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s3:l1">Felle-toortsen</rhyme>
+        </l>
         <l id="s3:l3" met="4" type="+-">Branden al mijn leden <rhyme label="b" type="m">deur</rhyme>:</l>
         <l id="s3:l4" met="4" type="+-">Ja ont-sterken de <rhyme label="c" type="f">gewrichten</rhyme>:</l>
         <l id="s3:l5" met="2" type="+-">Sulke <rhyme label="c" type="f" corresp="#s3:l4">gichten</rhyme></l>
@@ -109,10 +111,14 @@
       </lg>
       <lg id="s12" type="stanza">
         <l id="s12:l1" met="4" type="+-">Daarom gy mijn <rhyme label="a" type="f">Salig-maker</rhyme>,</l>
-        <l id="s12:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s12:l1">Trouwe-waker</rhyme></l>
+        <l id="s12:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s12:l1">Trouwe-waker</rhyme>
+        </l>
         <l id="s12:l3" met="4" type="+-">Voor mijn ziel: in dit <rhyme label="b" type="m">gevecht</rhyme>:</l>
         <l id="s12:l4" met="4" type="+-">Maakt mijn trage-wil, <rhyme label="c" type="f">gewillig</rhyme>:</l>
-        <l id="s12:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s12:l4">Onver-schillig</rhyme></l>
+        <l id="s12:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s12:l4">Onver-schillig</rhyme>
+        </l>
         <l id="s12:l6" met="4" type="+-">Van u wil: als uwen <rhyme label="b" type="m" corresp="#s12:l3">Knecht</rhyme>.</l>
       </lg>
       <lg id="s13" type="stanza">

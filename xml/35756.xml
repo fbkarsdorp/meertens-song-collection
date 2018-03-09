@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Zal ik nog langer in hete tranen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -86,7 +89,9 @@
         <l id="s7:l2" met="4" type="-+">Sijn sangh hooren tot Godes <rhyme label="b" type="m">lof</rhyme>;</l>
         <l id="s7:l3" met="4" type="-+">Hierom sy hem na 't Kercker <rhyme label="a" type="f" corresp="#s7:l1">leyden</rhyme>;</l>
         <l id="s7:l4" met="4" type="-+">'t Sangh was vertelt aen 't Keysers <rhyme label="b" type="m" corresp="#s7:l2">Hof</rhyme>;</l>
-        <l id="s7:l5" met="2" type="-+"><rhyme label="c" type="m">Maximiaen</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">
+          <rhyme label="c" type="m">Maximiaen</rhyme>
+        </l>
         <l id="s7:l6" met="2" type="-+">Stont 't sangh niet <rhyme label="c" type="m" corresp="#s7:l5">aen</rhyme>,</l>
         <l id="s7:l7" met="5" type="-+">In 't Kercker Mirac'len veel heeft <rhyme label="d" type="m">gedaen</rhyme>,</l>
         <l id="s7:l8" met="5" type="-+">Elck kan hier door sijn heyligheyt <rhyme label="d" type="m" corresp="#s7:l7">verstaen</rhyme>.</l>

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>love song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Aan de oever van een snelle vliet</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

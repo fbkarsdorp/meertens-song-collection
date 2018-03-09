@@ -45,7 +45,9 @@
       </lg>
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="4" type="+-">Voort soo liet men daer <rhyme label="a" type="f">ontbieden</rhyme>,</l>
-        <l id="s4:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s4:l1">Timmerlieden</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s4:l1">Timmerlieden</rhyme>
+        </l>
         <l id="s4:l3" met="4" type="+-">Metselaers die quamen <rhyme label="b" type="m">by</rhyme>,</l>
         <l id="s4:l4" met="4" type="+-">En al wat daer helpen <rhyme label="c" type="f">konden</rhyme>,</l>
         <l id="s4:l5" met="2" type="+-">Wiert <rhyme label="c" type="f" corresp="#s4:l4">bevonden</rhyme>,</l>

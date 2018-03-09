@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>lamentation</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Het vinnige stralen van de zon</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

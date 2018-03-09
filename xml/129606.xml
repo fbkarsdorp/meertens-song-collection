@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Ballet Dorothée</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -27,7 +30,9 @@
         <l id="s1:l3" met="2" type="-+">Laat mijne <rhyme label="b" type="m">Min</rhyme></l>
         <l id="s1:l4" met="3" type="-+">In u lieve boesem <rhyme label="b" type="m" corresp="#s1:l3">in</rhyme>.</l>
         <l id="s1:l5" met="1" type="-+">Ach, <rhyme label="c" type="m">ziet</rhyme></l>
-        <l id="s1:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s1:l5">Verdriet</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s1:l5">Verdriet</rhyme>
+        </l>
         <l id="s1:l7" met="4" type="+-">Dat ik in mijn hert moet <rhyme label="d" type="f">dragen</rhyme>!</l>
         <l id="s1:l8" met="2" type="+-">Schoone <rhyme label="e" type="m">Zon</rhyme>,</l>
         <l id="s1:l9" met="2" type="+-">Ach, hoe <rhyme label="e" type="m" corresp="#s1:l8">kon</rhyme></l>

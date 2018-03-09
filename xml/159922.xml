@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Laatstmaal een jager op de jacht</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

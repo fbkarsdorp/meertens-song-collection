@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>shepherd's song</tag>
-      <tag>love song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Wanneer de zon het morgenrood</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -30,7 +30,9 @@
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="-+">God heeft mijn Lichaem uyt het <rhyme label="a" type="m">stof</rhyme></l>
         <l id="s2:l2" met="4" type="+-">Op-geweckt tot sijnen <rhyme label="a" type="m" corresp="#s2:l1">lof</rhyme>,</l>
-        <l id="s2:l3" met="2" type="+-"><rhyme label="b" type="f">Ongeschonden</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">
+          <rhyme label="b" type="f">Ongeschonden</rhyme>
+        </l>
         <l id="s2:l4" met="2" type="+-">Vry van <rhyme label="b" type="f" corresp="#s2:l3">sonden</rhyme>,</l>
         <l id="s2:l5" met="4" type="+-">Vlugh en veerdigh over <rhyme label="c" type="m">al</rhyme>,</l>
         <l id="s2:l6" met="4" type="-+">Dat eeuwighlijck soo blijven <rhyme label="c" type="m" corresp="#s2:l5">sal</rhyme>.</l>

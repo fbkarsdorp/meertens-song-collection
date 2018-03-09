@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>three-kings song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="Epiphany song">driekoningenlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Dies est laetitiae in ortu regali</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>new year song</tag>
-      <tag>May song</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

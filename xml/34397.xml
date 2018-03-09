@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>farewell song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Meisjes die de tijd verdriet</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

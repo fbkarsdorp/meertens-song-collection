@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mystical song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -38,7 +42,9 @@
         <l id="s2:l3" met="3" type="-+">V wil ick en anders <rhyme label="b" type="f">gheene</rhyme></l>
         <l id="s2:l4" met="4" type="-+">Ghi sijt mijn troost mijn <rhyme label="a" type="m" corresp="#s2:l1">toeuerlaet</rhyme></l>
         <l id="s2:l5" met="4" type="-+">Ghi weet wel dat sorgelijck met mi <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme></l>
-        <l id="s2:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">Alteenen</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s2:l3">Alteenen</rhyme>
+        </l>
         <l id="s2:l7" met="5" type="+-">O heer wilt mi troost <rhyme label="b" type="f" corresp="#s2:l3">verleenen</rhyme></l>
       </lg>
       <lg id="s3" type="stanza">
@@ -47,7 +53,9 @@
         <l id="s3:l3" met="3" type="-+">Altijt brengt si druc en <rhyme label="b" type="f">weenen</rhyme></l>
         <l id="s3:l4" met="4" type="-+">Nu mogende God moet ymmer <rhyme label="a" type="m" corresp="#s3:l1">sijn</rhyme></l>
         <l id="s3:l5" met="4" type="-+">Soe sette ict inden wille <rhyme label="a" type="m" corresp="#s3:l1">dijn</rhyme></l>
-        <l id="s3:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">Alteenen</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l3">Alteenen</rhyme>
+        </l>
         <l id="s3:l7" met="5" type="+-">O God wilt mi troost <rhyme label="b" type="f" corresp="#s3:l3">verleenen</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -56,7 +64,9 @@
         <l id="s4:l3" met="3" type="-+">Het doet mi dickwils <rhyme label="b" type="f">weenen</rhyme></l>
         <l id="s4:l4" met="4" type="-+">Het doet mijn herte seer grote <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme></l>
         <l id="s4:l5" met="4" type="-+">Het is al bedroch en valsch <rhyme label="a" type="m" corresp="#s4:l1">fenijn</rhyme></l>
-        <l id="s4:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l3">Alteenen</rhyme></l>
+        <l id="s4:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s4:l3">Alteenen</rhyme>
+        </l>
         <l id="s4:l7" met="5" type="+-">O God wilt y troost <rhyme label="b" type="f" corresp="#s4:l3">verleenen</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
@@ -65,7 +75,9 @@
         <l id="s5:l3" met="3" type="-+">Dus volge ick haer <rhyme label="b" type="f">ghemeene</rhyme></l>
         <l id="s5:l4" met="4" type="-+">Al is bedruct dat herte <rhyme label="a" type="m" corresp="#s5:l1">mijn</rhyme></l>
         <l id="s5:l5" met="4" type="-+">Nochtans thoon ic een bly <rhyme label="a" type="m" corresp="#s5:l1">aenschijn</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l3">Alteenen</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s5:l3">Alteenen</rhyme>
+        </l>
         <l id="s5:l7" met="5" type="+-">O God wilt mi troost <rhyme label="b" type="f" corresp="#s5:l3">verleenen</rhyme>.</l>
       </lg>
     </lg>

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +31,9 @@
         <l id="s1:l4" met="2" type="+-">Weest niet <rhyme label="c" type="m" corresp="#s1:l3">bevreest</rhyme>,</l>
         <l id="s1:l5" met="4" type="+-">Schreeuwt als een Dief in een <rhyme label="d" type="m">Paerde-stal</rhyme>,</l>
         <l id="s1:l6" met="1" type="-+">Die 't <rhyme label="e" type="f">proefde</rhyme>,</l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="e" type="f" corresp="#s1:l6">Behoefde</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="e" type="f" corresp="#s1:l6">Behoefde</rhyme>
+        </l>
         <l id="s1:l8" met="1" type="-+"><rhyme label="f" type="m">Gesleep</rhyme>,</l>
         <l id="s1:l9" met="1" type="-+">Noch <rhyme label="f" type="m" corresp="#s1:l8">sweep</rhyme>,</l>
         <l id="s1:l10" met="2" type="-+">Noch door een <rhyme label="f" type="m" corresp="#s1:l8">greep</rhyme>,</l>

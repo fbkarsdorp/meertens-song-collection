@@ -15,14 +15,20 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
-      <tag>arcostic</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>O Gott wir danken deiner Güt</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -50,7 +50,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Hy heeft tot in t'leste <rhyme label="a" type="m">landt</rhyme></l>
         <l id="s3:l2" met="2" type="-+">Door <rhyme label="b" type="m">Asia</rhyme></l>
-        <l id="s3:l3" met="2" type="-+"><rhyme label="b" type="m" corresp="#s3:l2">America</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">
+          <rhyme label="b" type="m" corresp="#s3:l2">America</rhyme>
+        </l>
         <l id="s3:l4" met="3" type="-+">Het waer geloof <rhyme label="a" type="m" corresp="#s3:l1">geplant</rhyme>.</l>
         <l id="s3:l5" met="4" type="-+">De jonckheydt wist hy meer en <rhyme label="c" type="m">meer</rhyme></l>
         <l id="s3:l6" met="4" type="-+">Te trecken naer de Christi <rhyme label="c" type="m" corresp="#s3:l5">leer</rhyme></l>

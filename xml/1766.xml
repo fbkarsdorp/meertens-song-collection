@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Een lied eerbaar</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -73,7 +76,9 @@
         <l id="s4:l7" met="2" type="-+">Mer weyghert <rhyme label="c" type="m">zijt</rhyme></l>
         <l id="s4:l8" met="2" type="-+">Gheen meerder <rhyme label="c" type="m" corresp="#s4:l7">spijt</rhyme></l>
         <l id="s4:l9" met="3" type="-+">Mijn herte dat splijt  doort <rhyme label="d" type="f">deruen</rhyme></l>
-        <l id="s4:l10" met="2" type="-+"><rhyme label="c" type="m" corresp="#s4:l7">Vermalendijt</rhyme></l>
+        <l id="s4:l10" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s4:l7">Vermalendijt</rhyme>
+        </l>
         <l id="s4:l11" met="2" type="-+">Si vre oft <rhyme label="c" type="m" corresp="#s4:l7">tijt</rhyme></l>
         <l id="s4:l12" met="3" type="-+">Ic roepe ic crijt om <rhyme label="d" type="f" corresp="#s4:l9">steruen</rhyme>.</l>
       </lg>

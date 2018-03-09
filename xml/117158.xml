@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>consolation song</tag>
-      <tag>wedding song</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>La marine</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

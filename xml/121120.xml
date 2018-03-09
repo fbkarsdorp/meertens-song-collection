@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
-      <tag>seasonal song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="seasonal song">seizoenslied</tag>
     </tags>
     <melody>Hoe zoet is het in de lente te leven</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

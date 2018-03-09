@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="f">Aangename</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Aangename</rhyme>
+        </l>
         <l id="s1:l2" met="4" type="+-">Aangename <rhyme label="b" type="m">Zomertyd</rhyme>!</l>
         <l id="s1:l3" met="4" type="+-">Die ons gretig oog <rhyme label="b" type="m" corresp="#s1:l2">verblyd</rhyme>,</l>
         <l id="s1:l4" met="4" type="+-">Door uw keurelyke <rhyme label="c" type="f">fruiten</rhyme>;</l>

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Daar kwam er een meisje uit Scheveningen aan</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

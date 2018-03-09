@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>devout song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>O waarde mond</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

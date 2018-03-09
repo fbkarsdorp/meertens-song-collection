@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lullaby</tag>
-      <tag>children's song</tag>
+      <tag translation="lullaby">wiegelied</tag>
+      <tag translation="children's song">kinderlied</tag>
     </tags>
     <melody>Das Sandmännchen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,11 +7,16 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>new year song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

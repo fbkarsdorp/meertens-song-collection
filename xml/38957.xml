@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>political song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Herders hij is geboren</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

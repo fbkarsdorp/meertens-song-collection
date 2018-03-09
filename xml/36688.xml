@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>devout song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Ik peins om een persoon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

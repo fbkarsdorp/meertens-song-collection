@@ -7,11 +7,15 @@
       <year-end>1582</year-end>
     </date>
     <tags>
-      <tag>new year song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Languir me fais</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

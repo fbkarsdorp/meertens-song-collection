@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>love song</tag>
-      <tag>reflective song</tag>
-      <tag>lamentation</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>La marine</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

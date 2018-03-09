@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Het vuur brandt zeer</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -34,7 +38,9 @@
         <l id="s1:l8" met="3" type="-+">Maria weest <rhyme label="d" type="m" corresp="#s1:l7">gegroet</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
-        <l id="s2:l1" met="2" type="+-"><rhyme label="a" type="m">Gabriël</rhyme></l>
+        <l id="s2:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Gabriël</rhyme>
+        </l>
         <l id="s2:l2" met="3" type="-+">Daelt neer uyt s' Hemels <rhyme label="b" type="m">hof</rhyme></l>
         <l id="s2:l3" met="2" type="+-">Goods <rhyme label="a" type="m" corresp="#s2:l1">bevel</rhyme></l>
         <l id="s2:l4" met="3" type="-+">Verhaelt: ende den <rhyme label="b" type="m" corresp="#s2:l2">lof</rhyme></l>

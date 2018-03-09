@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
-      <tag>passing song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag translation="Passion of Our Lord song">passielied</tag>
     </tags>
     <melody>Psalm 102 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>disaster song</tag>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
+      <tag translation="disaster song">ramplied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Het glas van mijn geneugte</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

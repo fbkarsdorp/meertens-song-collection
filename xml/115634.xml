@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Laetae lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,7 +49,9 @@
         <l id="s2:l8" met="5" type="-+">Nog d' ingelaaten goud begeerte <rhyme label="d" type="m" corresp="#s2:l7">blust</rhyme>;</l>
         <l id="s2:l9" met="5" type="-+">Maar door 't verkrijgen stijft meer <rhyme label="d" type="m" corresp="#s2:l7">hebbens-lust</rhyme>;</l>
         <l id="s2:l10" met="1" type="-+">En 't <rhyme label="e" type="m">hert</rhyme></l>
-        <l id="s2:l11" met="1" type="+-"><rhyme label="e" type="m" corresp="#s2:l10">Verwerd</rhyme></l>
+        <l id="s2:l11" met="1" type="+-">
+          <rhyme label="e" type="m" corresp="#s2:l10">Verwerd</rhyme>
+        </l>
         <l id="s2:l12" met="1" type="-+">In <rhyme label="e" type="m" corresp="#s2:l10">smert</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

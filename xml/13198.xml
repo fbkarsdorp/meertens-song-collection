@@ -15,20 +15,27 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">BAlthasar</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">BAlthasar</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Het eynde van u <rhyme label="b" type="f">leven</rhyme></l>
         <l id="s1:l3" met="4" type="+-">En u Rijck is al <rhyme label="c" type="m">getelt</rhyme></l>
         <l id="s1:l4" met="3" type="-+">U goet, en sonden <rhyme label="d" type="m">al</rhyme></l>
         <l id="s1:l5" met="2" type="-+">Met haer <rhyme label="d" type="m" corresp="#s1:l4">getal</rhyme></l>
         <l id="s1:l6" met="5" type="-+">Nu sijn in de strenge Waegh <rhyme label="c" type="m" corresp="#s1:l3">gestelt</rhyme>,</l>
-        <l id="s1:l7" met="2" type="+-"><rhyme label="a" type="m" corresp="#s1:l1">Openbaer</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s1:l1">Openbaer</rhyme>
+        </l>
         <l id="s1:l8" met="3" type="-+">Ghy rekeningh sult <rhyme label="b" type="f" corresp="#s1:l2">geven</rhyme></l>
         <l id="s1:l9" met="4" type="+-">Voor den hoogen Raedt <rhyme label="e" type="m">gedaeght</rhyme></l>
         <l id="s1:l10" met="3" type="-+">In desen leste <rhyme label="f" type="m">noot</rhyme>,</l>
@@ -39,7 +46,9 @@
         <l id="s1:l15" met="2" type="-+">In 't <rhyme label="g" type="f" corresp="#s1:l13">onbekende</rhyme></l>
         <l id="s1:l16" met="3" type="+-">Goddelijck <rhyme label="h" type="m" corresp="#s1:l14">gericht</rhyme>.</l>
         <l id="s1:l17" met="1" type="-+">Te <rhyme label="i" type="m">swaer</rhyme></l>
-        <l id="s1:l18" met="1" type="-+"><rhyme label="i" type="m" corresp="#s1:l17">Aldaer</rhyme></l>
+        <l id="s1:l18" met="1" type="-+">
+          <rhyme label="i" type="m" corresp="#s1:l17">Aldaer</rhyme>
+        </l>
         <l id="s1:l19" met="2" type="-+">Is al u <rhyme label="j" type="m">quaet</rhyme>.</l>
         <l id="s1:l20" met="1" type="-+">Te <rhyme label="k" type="m">licht</rhyme></l>
         <l id="s1:l21" met="2" type="+-">Het <rhyme label="k" type="m" corresp="#s1:l20">gewicht</rhyme></l>
@@ -63,7 +72,9 @@
         <l id="s2:l15" met="2" type="-+">Wie sal dan <rhyme label="g" type="f" corresp="#s2:l13">wesen</rhyme></l>
         <l id="s2:l16" met="3" type="+-">Uwen <rhyme label="h" type="m" corresp="#s2:l14">Advocaet</rhyme></l>
         <l id="s2:l17" met="1" type="-+">In <rhyme label="i" type="m">noot</rhyme></l>
-        <l id="s2:l18" met="1" type="-+"><rhyme label="i" type="m" corresp="#s2:l17">Verstoot</rhyme></l>
+        <l id="s2:l18" met="1" type="-+">
+          <rhyme label="i" type="m" corresp="#s2:l17">Verstoot</rhyme>
+        </l>
         <l id="s2:l19" met="2" type="-+">U dan den <rhyme label="j" type="m">vriendt</rhyme>,</l>
         <l id="s2:l20" met="1" type="-+">Die <rhyme label="k" type="m">ghy</rhyme></l>
         <l id="s2:l21" met="2" type="+-">Alle <rhyme label="k" type="m" corresp="#s2:l20">ty</rhyme></l>
@@ -87,7 +98,9 @@
         <l id="s3:l15" met="2" type="-+">Die u maer <rhyme label="g" type="f" corresp="#s3:l13">dienden</rhyme></l>
         <l id="s3:l16" met="3" type="+-">Om een handt vol <rhyme label="h" type="m" corresp="#s3:l14">goet</rhyme>,</l>
         <l id="s3:l17" met="1" type="-+">U <rhyme label="i" type="m">lijck</rhyme></l>
-        <l id="s3:l18" met="1" type="-+"><rhyme label="i" type="m" corresp="#s3:l17">Gelijck</rhyme></l>
+        <l id="s3:l18" met="1" type="-+">
+          <rhyme label="i" type="m" corresp="#s3:l17">Gelijck</rhyme>
+        </l>
         <l id="s3:l19" met="2" type="-+">Maer tot het <rhyme label="j" type="m">graf</rhyme></l>
         <l id="s3:l20" met="1" type="-+">Gaen <rhyme label="k" type="m">naer</rhyme>,</l>
         <l id="s3:l21" met="2" type="+-">En van <rhyme label="k" type="m" corresp="#s3:l20">daer</rhyme></l>

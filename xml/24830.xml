@@ -7,12 +7,16 @@
       <year-end>1430</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

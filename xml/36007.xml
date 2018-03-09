@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Die mint die lijdt veel pijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

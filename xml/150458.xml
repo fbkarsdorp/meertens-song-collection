@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 061 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -31,7 +34,9 @@
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="+-">Want op u, ten stercken <rhyme label="a" type="f">tooren</rhyme></l>
-        <l id="s2:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">uytverkoren</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s2:l1">uytverkoren</rhyme>
+        </l>
         <l id="s2:l3" met="4" type="+-">Tegen ’svyandts macht en <rhyme label="b" type="m">konst</rhyme>,</l>
         <l id="s2:l4" met="4" type="+-">Hoopt’ ick oyt. En sal u <rhyme label="c" type="f">throonen</rhyme></l>
         <l id="s2:l5" met="2" type="+-">Steedts <rhyme label="c" type="f" corresp="#s2:l4">bewoonen</rhyme></l>

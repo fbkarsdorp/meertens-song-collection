@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -50,7 +53,9 @@
         <l id="s4:l2" met="2" type="+-">Doet <rhyme label="a" type="f" corresp="#s4:l1">verquijnen</rhyme>.</l>
         <l id="s4:l3" met="4" type="+-">’kVind my wreed’lijck <rhyme label="b" type="m">aengetast</rhyme></l>
         <l id="s4:l4" met="4" type="+-">Van des quaedt-doens <rhyme label="c" type="f">ongenoegen</rhyme>:</l>
-        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s4:l4">’tSonde-wroegen</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s4:l4">’tSonde-wroegen</rhyme>
+        </l>
         <l id="s4:l6" met="4" type="+-">Is t’ondragelijcken <rhyme label="b" type="m" corresp="#s4:l3">last</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

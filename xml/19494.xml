@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>answersong</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

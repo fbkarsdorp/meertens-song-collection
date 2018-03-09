@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sung Ten Commandments</tag>
+      <tag translation="Ten Commandments song">gezongen tien geboden</tag>
     </tags>
     <melody>Dies sind die heiligen zehn Gebote</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

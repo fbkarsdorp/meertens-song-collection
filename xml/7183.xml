@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
-      <tag>dialog song</tag>
-      <tag>devout song</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

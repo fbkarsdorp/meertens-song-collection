@@ -7,11 +7,16 @@
       <year-end>1789</year-end>
     </date>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>political song</tag>
-      <tag>proverb</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>De wereld is in rep en roer</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>praise</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>L'étrenne d'ici bas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

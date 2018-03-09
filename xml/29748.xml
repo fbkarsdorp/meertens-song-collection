@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Gelijk als de witte zwaan</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -90,7 +93,9 @@
         <l id="s7:l5" met="4" type="-+">En dat al om een cleyn <rhyme label="c" type="f">geschille</rhyme></l>
         <l id="s7:l6" met="2" type="-+">Al om een hant vol <rhyme label="d" type="m">gout</rhyme></l>
         <l id="s7:l7" met="4" type="-+">Blyue daer nu tegens haer <rhyme label="c" type="f" corresp="#s7:l5">wille</rhyme></l>
-        <l id="s7:l8" met="2" type="-+"><rhyme label="d" type="m" corresp="#s7:l6">Ongehout</rhyme></l>
+        <l id="s7:l8" met="2" type="-+">
+          <rhyme label="d" type="m" corresp="#s7:l6">Ongehout</rhyme>
+        </l>
       </lg>
       <lg id="s8" type="stanza">
         <l id="s8:l1" met="4" type="-+">Men plach voor gemeen te <rhyme label="a" type="f">sprecken</rhyme></l>

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>abc song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="alphabet song">abclied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Het was of zij het mij zeide</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -37,7 +40,9 @@
         <l id="s2:l2" met="4" type="+-">En ontschuylen daar de <rhyme label="a" type="m" corresp="#s2:l1">Zon</rhyme>,</l>
         <l id="s2:l3" met="2" type="-+">Waar Zephirus <rhyme label="b" type="f">winden</rhyme></l>
         <l id="s2:l4" met="1" type="-+">De <rhyme label="b" type="f" corresp="#s2:l3">Linden</rhyme></l>
-        <l id="s2:l5" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">Verbinden</rhyme></l>
+        <l id="s2:l5" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s2:l3">Verbinden</rhyme>
+        </l>
         <l id="s2:l6" met="1" type="-+">t' <rhyme label="c" type="f">Omhelzen</rhyme></l>
         <l id="s2:l7" met="1" type="-+">De <rhyme label="c" type="f" corresp="#s2:l6">Elzen</rhyme>,</l>
         <l id="s2:l8" met="3" type="+-">Waar d' Eik hem laat <rhyme label="b" type="f" corresp="#s2:l3">vinden</rhyme>.</l>
@@ -47,7 +52,9 @@
         <l id="s3:l1" met="6" type="+-">Lust ons tijd-verdrijf, ieder zoekt zijn <rhyme label="a" type="m">Harderin</rhyme>,</l>
         <l id="s3:l2" met="4" type="+-">Die hy smeekt om <rhyme label="a" type="m" corresp="#s3:l1">weder-min</rhyme>;</l>
         <l id="s3:l3" met="2" type="-+">En doet dat zijn <rhyme label="b" type="f">klachten</rhyme></l>
-        <l id="s3:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">Verwachten</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l3">Verwachten</rhyme>
+        </l>
         <l id="s3:l5" met="1" type="-+">'t <rhyme label="b" type="f" corresp="#s3:l3">Volbrachten</rhyme>;</l>
         <l id="s3:l6" met="1" type="-+">Doet <rhyme label="c" type="f">minnen</rhyme></l>
         <l id="s3:l7" met="1" type="-+">Haar <rhyme label="c" type="f" corresp="#s3:l6">sinnen</rhyme></l>

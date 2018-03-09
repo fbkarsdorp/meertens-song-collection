@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mythological song</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Roosjes in de mei</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

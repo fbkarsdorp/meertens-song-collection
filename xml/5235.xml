@@ -7,12 +7,17 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Wil nu met vreugde leven</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

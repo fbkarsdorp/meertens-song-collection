@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>devout song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Era di maggio</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

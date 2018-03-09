@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Petite royale</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

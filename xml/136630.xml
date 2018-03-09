@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>sailor song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

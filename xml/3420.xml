@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>admonishing song</tag>
-      <tag>arcostic</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Op heden voor de dageraad</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Maastricht gij schone stad</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

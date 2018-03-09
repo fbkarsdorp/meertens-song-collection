@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -82,7 +85,9 @@
         <l id="s2:l21" met="3" type="+-">Snoept 'et quade <rhyme label="j" type="m">af</rhyme>:</l>
         <l id="s2:l22" met="2" type="+-">Laet de <rhyme label="k" type="m">Deught</rhyme>,</l>
         <l id="s2:l23" met="2" type="+-">Heylbre <rhyme label="k" type="m" corresp="#s2:l22">vreught</rhyme>,</l>
-        <l id="s2:l24" met="2" type="+-"><rhyme label="k" type="m" corresp="#s2:l22">Ziel-gheneught</rhyme></l>
+        <l id="s2:l24" met="2" type="+-">
+          <rhyme label="k" type="m" corresp="#s2:l22">Ziel-gheneught</rhyme>
+        </l>
         <l id="s2:l25" met="4" type="+-">Zijn de oeff'ningh van u <rhyme label="k" type="m" corresp="#s2:l22">Ieught</rhyme>,</l>
         <l id="s2:l26" met="4" type="+-">Vliedt 'et quaedt, so veelje <rhyme label="k" type="m" corresp="#s2:l22">meught</rhyme>,</l>
         <l id="s2:l27" met="3" type="+-">En legh ne'er in't <rhyme label="j" type="m" corresp="#s2:l21">Graf</rhyme>,</l>

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>answersong</tag>
-      <tag>secular song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Dedans notre voisinage</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

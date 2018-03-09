@@ -7,12 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Rijke God wie zal ik klagen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

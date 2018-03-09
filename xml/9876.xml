@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>psalm</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>De meise jeugd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

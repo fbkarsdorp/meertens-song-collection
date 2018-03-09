@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 009 Datheen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

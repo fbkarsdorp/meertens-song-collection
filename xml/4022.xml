@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mystical song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Het daagt in de oosten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

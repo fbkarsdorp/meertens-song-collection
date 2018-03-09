@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -63,7 +66,9 @@
         <l id="s5:l3" met="3" type="-+">Als hy die heeft <rhyme label="b" type="f">gheuonden</rhyme></l>
         <l id="s5:l4" met="4" type="-+">Dwelc hi oock gaerne heeft <rhyme label="a" type="m" corresp="#s5:l1">ghedaen</rhyme></l>
         <l id="s5:l5" met="4" type="-+">Ende heeftse tot brytannien <rhyme label="a" type="m" corresp="#s5:l1">aen</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l3">Ghesonden</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s5:l3">Ghesonden</rhyme>
+        </l>
         <l id="s5:l7" met="3" type="-+">Tot dyen seluen <rhyme label="b" type="f" corresp="#s5:l3">stonden</rhyme></l>
       </lg>
       <lg id="s6" type="stanza">
@@ -72,7 +77,9 @@
         <l id="s6:l3" met="3" type="-+">Also men vint <rhyme label="b" type="f">bescreuen</rhyme></l>
         <l id="s6:l4" met="4" type="-+">Gods enghel heeft <rhyme label="a" type="m" corresp="#s6:l1">gheopenbaert</rhyme></l>
         <l id="s6:l5" met="4" type="-+">Des conincx sone van hooger <rhyme label="a" type="m" corresp="#s6:l1">aert</rhyme></l>
-        <l id="s6:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s6:l3">Verheuen</rhyme></l>
+        <l id="s6:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s6:l3">Verheuen</rhyme>
+        </l>
         <l id="s6:l7" met="3" type="-+">Datsi alle souden laten haer <rhyme label="b" type="f" corresp="#s6:l3">leuen</rhyme></l>
       </lg>
       <lg id="s7" type="stanza">
@@ -108,7 +115,9 @@
         <l id="s10:l3" met="3" type="-+">Soe quam si voorts <rhyme label="b" type="f">alleene</rhyme></l>
         <l id="s10:l4" met="4" type="-+">Een wreet tyran haer ooc <rhyme label="a" type="m" corresp="#s10:l1">doerschoot</rhyme></l>
         <l id="s10:l5" met="4" type="-+">Dus bleef si met den anderen <rhyme label="a" type="m" corresp="#s10:l1">doot</rhyme></l>
-        <l id="s10:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s10:l3">Ghemeene</rhyme></l>
+        <l id="s10:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s10:l3">Ghemeene</rhyme>
+        </l>
         <l id="s10:l7" met="3" type="-+">Lof si v maghet <rhyme label="b" type="f" corresp="#s10:l3">reene</rhyme>.</l>
       </lg>
       <lg id="s11" type="stanza">

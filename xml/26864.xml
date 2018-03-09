@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 038 Utenhove</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -110,7 +113,9 @@
         <l id="s7:l2" met="2" type="+-">Sonder <rhyme label="a" type="f" corresp="#s7:l1">scherten</rhyme></l>
         <l id="s7:l3" met="4" type="+-">Bekennɇ, end myn sond my <rhyme label="b" type="m">quelt</rhyme></l>
         <l id="s7:l4" met="4" type="+-">Daerentusschen myn <rhyme label="c" type="f">vyanden</rhyme></l>
-        <l id="s7:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s7:l4">Veelderhande</rhyme></l>
+        <l id="s7:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s7:l4">Veelderhande</rhyme>
+        </l>
         <l id="s7:l6" met="4" type="+-">Syn fraey, stęrck end <rhyme label="b" type="m" corresp="#s7:l3">onghequelt</rhyme>.</l>
         <l id="s7:l7" met="4" type="+-">Die mit haet teghen my <rhyme label="d" type="f">rechten</rhyme></l>
         <l id="s7:l8" met="2" type="+-">Sick <rhyme label="d" type="f" corresp="#s7:l7">t’onrechten</rhyme>,</l>

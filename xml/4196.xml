@@ -90,7 +90,9 @@
         <l id="s5:l12" met="3" type="-+">En morgen leyd <rhyme label="f" type="f" corresp="#s5:l10">vertreden</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">
-        <l id="s6:l1" met="2" type="+-"><rhyme label="a" type="m">Orelof</rhyme></l>
+        <l id="s6:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Orelof</rhyme>
+        </l>
         <l id="s6:l2" met="2" type="-+">Gy jonge <rhyme label="b" type="f">spruytjes</rhyme>,</l>
         <l id="s6:l3" met="2" type="+-">Die hier <rhyme label="c" type="m">by</rhyme></l>
         <l id="s6:l4" met="2" type="-+">Den Amstel <rhyme label="d" type="m">woond</rhyme>,</l>

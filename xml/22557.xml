@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Treuren zo moet ik nacht en dag</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

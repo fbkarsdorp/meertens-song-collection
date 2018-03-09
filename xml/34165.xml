@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>triumph song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="triumph song">triomflied</tag>
     </tags>
     <melody>Bourrée royale</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

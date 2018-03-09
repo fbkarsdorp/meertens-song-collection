@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ballet Dorothée</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -59,7 +63,9 @@
         <l id="s3:l3" met="2" type="-+">Schoon gy met <rhyme label="b" type="m">smaat</rhyme></l>
         <l id="s3:l4" met="3" type="+-">Mijne min dikwils <rhyme label="b" type="m" corresp="#s3:l3">aflaat</rhyme>,</l>
         <l id="s3:l5" met="1" type="-+">Ik <rhyme label="c" type="m">kom</rhyme></l>
-        <l id="s3:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s3:l5">Weerom</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s3:l5">Weerom</rhyme>
+        </l>
         <l id="s3:l7" met="3" type="+-">By mijn <rhyme label="d" type="f">overschoone</rhyme></l>
         <l id="s3:l8" met="2" type="+-">En bid <rhyme label="e" type="m">u</rhyme></l>
         <l id="s3:l9" met="2" type="+-">Weer op <rhyme label="e" type="m" corresp="#s3:l8">nu</rhyme>:</l>

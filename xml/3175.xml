@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +31,9 @@
         <l id="s1:l4" met="2" type="-+">En <rhyme label="b" type="m" corresp="#s1:l3">toeverlaet</rhyme></l>
         <l id="s1:l5" met="4" type="-+">Van Godt den Vader uyt <rhyme label="b" type="m" corresp="#s1:l3">ghenaed'</rhyme>:</l>
         <l id="s1:l6" met="1" type="-+">De <rhyme label="c" type="f">zielen</rhyme></l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s1:l6">Vervielen</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s1:l6">Vervielen</rhyme>
+        </l>
         <l id="s1:l8" met="1" type="-+">Om <rhyme label="d" type="m">laeght</rhyme>,</l>
         <l id="s1:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s1:l8">Ghestaegh</rhyme>,</l>
         <l id="s1:l10" met="2" type="-+">Soo Hoop die <rhyme label="d" type="m" corresp="#s1:l8">plaegh</rhyme></l>

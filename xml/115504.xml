@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Waarom heet je mijn man Kalebasje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>narrative song</tag>
-      <tag>mythological song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>De Heer die moet ik loven</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

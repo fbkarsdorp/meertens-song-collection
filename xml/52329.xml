@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>soldier's song</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

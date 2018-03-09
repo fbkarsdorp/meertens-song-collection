@@ -7,12 +7,17 @@
       <year-end>1581</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>new year song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Faut-il mourir sans parler</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

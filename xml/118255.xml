@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Wenn mein Stündlein vorhanden ist</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

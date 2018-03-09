@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>soldier's song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
     </tags>
     <melody>Van de witkleppen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

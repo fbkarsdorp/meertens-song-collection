@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Psalm 065 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

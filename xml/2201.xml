@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -38,13 +41,17 @@
         <l id="s2:l4" met="3" type="-+">Weet ik geen beeter <rhyme label="a" type="m" corresp="#s2:l1">raad</rhyme>,</l>
         <l id="s2:l5" met="3" type="-+">Als dat gy my eens <rhyme label="c" type="m">kust</rhyme>;</l>
         <l id="s2:l6" met="2" type="+-">Al mijn <rhyme label="d" type="m">pijn</rhyme></l>
-        <l id="s2:l7" met="2" type="+-"><rhyme label="d" type="m" corresp="#s2:l6">Celestyn</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">
+          <rhyme label="d" type="m" corresp="#s2:l6">Celestyn</rhyme>
+        </l>
         <l id="s2:l8" met="3" type="-+">Raakt door een kus in <rhyme label="c" type="m" corresp="#s2:l5">rust</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="3" type="-+">Of so gy niet en <rhyme label="a" type="m">wilt</rhyme></l>
         <l id="s3:l2" met="2" type="-+">My met een <rhyme label="b" type="m">soen</rhyme></l>
-        <l id="s3:l3" met="1" type="-+"><rhyme label="b" type="m" corresp="#s3:l2">Voldoen</rhyme></l>
+        <l id="s3:l3" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s3:l2">Voldoen</rhyme>
+        </l>
         <l id="s3:l4" met="3" type="-+">So word mijn klacht <rhyme label="a" type="m" corresp="#s3:l1">verspilt</rhyme>.</l>
         <l id="s3:l5" met="3" type="-+">Noch kander iets <rhyme label="c" type="m">geschiên</rhyme>,</l>
         <l id="s3:l6" met="2" type="+-">En dat <rhyme label="d" type="m">is</rhyme></l>

@@ -7,11 +7,16 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>proverb</tag>
-      <tag>dance song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="dancing song">danslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

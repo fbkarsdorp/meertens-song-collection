@@ -7,11 +7,16 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>farewell song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Rijke God wie zal ik klagen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Si j'ai pour vous</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,12 +7,17 @@
       <year-end>1678</year-end>
     </date>
     <tags>
-      <tag>proverb</tag>
-      <tag>love complaint</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Waarom heet je mijn man Kalebasje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

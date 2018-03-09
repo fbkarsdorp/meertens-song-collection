@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>secular song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Schoon jonkheertje heus en trouw</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

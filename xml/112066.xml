@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sailor song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

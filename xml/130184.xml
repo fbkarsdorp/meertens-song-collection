@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ballet Dorothée</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -43,7 +47,9 @@
         <l id="s2:l2" met="4" type="+-">Laat ik my so niet <rhyme label="a" type="f" corresp="#s2:l1">omhelsen</rhyme>.</l>
         <l id="s2:l3" met="2" type="-+">Dit jeugdig <rhyme label="b" type="m">groen</rhyme></l>
         <l id="s2:l4" met="3" type="-+">Sou my self hinder <rhyme label="b" type="m" corresp="#s2:l3">doen</rhyme>.</l>
-        <l id="s2:l5" met="1" type="-+"><rhyme label="c" type="m">Verviel</rhyme></l>
+        <l id="s2:l5" met="1" type="-+">
+          <rhyme label="c" type="m">Verviel</rhyme>
+        </l>
         <l id="s2:l6" met="1" type="-+">Mijn <rhyme label="c" type="m" corresp="#s2:l5">Ziel</rhyme></l>
         <l id="s2:l7" met="3" type="-+">Door uw <rhyme label="d" type="f">gedienstigheden</rhyme></l>
         <l id="s2:l8" met="2" type="+-">Tot de <rhyme label="e" type="m">min</rhyme>?</l>

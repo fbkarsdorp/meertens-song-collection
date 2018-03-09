@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Minzaam beeldje amoureus</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -25,7 +30,9 @@
         <l id="s1:l7" met="1" type="-+">Want <rhyme label="e" type="f">geene</rhyme></l>
         <l id="s1:l8" met="1" type="-+">Soo <rhyme label="e" type="f" corresp="#s1:l7">reene</rhyme>,</l>
         <l id="s1:l9" met="2" type="-+">Alleene, ghy <rhyme label="d" type="m" corresp="#s1:l6">cont</rhyme></l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="f" type="f">Doleuren</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="f" type="f">Doleuren</rhyme>
+        </l>
         <l id="s1:l11" met="1" type="-+">Doen <rhyme label="f" type="f" corresp="#s1:l10">scheuren</rhyme>,</l>
         <l id="s1:l12" met="2" type="-+">Voor treuren // <rhyme label="d" type="m" corresp="#s1:l6">terstont</rhyme>.</l>
       </lg>

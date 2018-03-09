@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

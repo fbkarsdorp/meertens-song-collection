@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>history song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>O rad van avontuur</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

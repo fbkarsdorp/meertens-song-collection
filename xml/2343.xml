@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>admonishing song</tag>
-      <tag>battle song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

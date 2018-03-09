@@ -7,10 +7,13 @@
       <year-end>1800</year-end>
     </date>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Liefhebbers hoor hoe een Vlaamse meid</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

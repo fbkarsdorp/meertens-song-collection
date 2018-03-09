@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>La mariée</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="1" type="+-"><rhyme label="a" type="f" corresp="#s1:l1">Cnipjes</rhyme>,</l>
         <l id="s1:l3" met="1" type="+-"><rhyme label="b" type="f">Strikken</rhyme>,</l>
         <l id="s1:l4" met="3" type="+-">Die de jeugd <rhyme label="b" type="f" corresp="#s1:l3">verkwikken</rhyme>,</l>
-        <l id="s1:l5" met="1" type="+-"><rhyme label="b" type="f" corresp="#s1:l3">Likken</rhyme></l>
+        <l id="s1:l5" met="1" type="+-">
+          <rhyme label="b" type="f" corresp="#s1:l3">Likken</rhyme>
+        </l>
         <l id="s1:l6" met="3" type="+-">Als het zoetste <rhyme label="c" type="m">zoet</rhyme></l>
         <l id="s1:l7" met="3" type="-+">Wanneer sy staen te <rhyme label="d" type="f">bloosen</rhyme></l>
         <l id="s1:l8" met="2" type="+-">Als de <rhyme label="d" type="f" corresp="#s1:l7">roosen</rhyme></l>
@@ -50,7 +55,9 @@
         <l id="s2:l2" met="1" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">Kwanten</rhyme>,</l>
         <l id="s2:l3" met="1" type="+-"><rhyme label="b" type="f">Zotten</rhyme>!</l>
         <l id="s2:l4" met="3" type="+-">In kroegen of in <rhyme label="b" type="f" corresp="#s2:l3">kotten</rhyme></l>
-        <l id="s2:l5" met="1" type="+-"><rhyme label="b" type="f" corresp="#s2:l3">Rotten</rhyme></l>
+        <l id="s2:l5" met="1" type="+-">
+          <rhyme label="b" type="f" corresp="#s2:l3">Rotten</rhyme>
+        </l>
         <l id="s2:l6" met="3" type="+-">Sy met list te <rhyme label="c" type="m">zaem</rhyme>.</l>
         <l id="s2:l7" met="3" type="-+">Ik wil nooit met u <rhyme label="d" type="f">zuipen</rhyme>,</l>
         <l id="s2:l8" met="2" type="+-">Nog gaen <rhyme label="d" type="f" corresp="#s2:l7">gluipen</rhyme></l>

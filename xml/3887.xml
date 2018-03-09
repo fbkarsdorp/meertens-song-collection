@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>spiritual song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Een ridder en een meisje jong</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

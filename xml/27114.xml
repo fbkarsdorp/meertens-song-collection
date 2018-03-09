@@ -7,13 +7,19 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>scriptural song</tag>
-      <tag>martyr's song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 079 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -36,7 +42,9 @@
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="2" type="-+">V <rhyme label="a" type="m">Tyrannye</rhyme></l>
         <l id="s2:l2" met="3" type="-+">Sal die niet haest <rhyme label="b" type="f">cesseren</rhyme>:</l>
-        <l id="s2:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s2:l1">Verraderye</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s2:l1">Verraderye</rhyme>
+        </l>
         <l id="s2:l4" met="3" type="-+">Sietmen in v <rhyme label="b" type="f" corresp="#s2:l2">regneren</rhyme>:</l>
         <l id="s2:l5" met="2" type="-+">V Pastoor <rhyme label="c" type="m">boos</rhyme></l>
         <l id="s2:l6" met="3" type="-+">Van onser Vrouwe <rhyme label="d" type="f">Kercke</rhyme>,</l>

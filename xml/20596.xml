@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -39,7 +42,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Iuno, Pallas, en oock <rhyme label="a" type="m">me</rhyme></l>
-        <l id="s3:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s3:l1">Cytherë</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s3:l1">Cytherë</rhyme>
+        </l>
         <l id="s3:l3" met="4" type="+-">Sochten dese eer te <rhyme label="b" type="f">crijghen</rhyme>,</l>
         <l id="s3:l4" met="4" type="+-">Want elck voor haer schoonheyt <rhyme label="a" type="m" corresp="#s3:l1">stre</rhyme></l>
         <l id="s3:l5" met="2" type="+-">Gansch <rhyme label="a" type="m" corresp="#s3:l1">t'onvre</rhyme>,</l>

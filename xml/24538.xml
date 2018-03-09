@@ -7,10 +7,13 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Ik draag dat lijden verborgen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

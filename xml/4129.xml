@@ -178,7 +178,9 @@
       <lg id="s13" type="stanza">
         <l id="s13:l1" met="4" type="-+">Komt hier besit mijns <rhyme label="a" type="m">Vaders-rijk</rhyme>,</l>
         <l id="s13:l2" met="3" type="-+">'t Geen ik u most <rhyme label="b" type="f">bereyden</rhyme>:</l>
-        <l id="s13:l3" met="2" type="+-"><rhyme label="b" type="f" corresp="#s13:l2">Af-gescheyden</rhyme></l>
+        <l id="s13:l3" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s13:l2">Af-gescheyden</rhyme>
+        </l>
         <l id="s13:l4" met="4" type="-+">Van 't on-bestandig <rhyme label="a" type="m" corresp="#s13:l1">blinkend'-slijk</rhyme>:</l>
         <l id="s13:l5" met="3" type="-+">In 't tranen-dal, vol <rhyme label="b" type="f" corresp="#s13:l2">Heyden</rhyme>:</l>
         <l id="s13:l6" met="2" type="+-">Daar gy <rhyme label="b" type="f" corresp="#s13:l2">schreyden</rhyme>:</l>

@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>love song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Ontwaak ontwaak mijn lief</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

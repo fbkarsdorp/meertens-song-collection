@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Objet dont les charmes si doux</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

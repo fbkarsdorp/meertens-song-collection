@@ -7,12 +7,17 @@
       <year-end>1830</year-end>
     </date>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>triumph song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="triumph song">triomflied</tag>
     </tags>
     <melody>Al is ons prinsje nog zo klein</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

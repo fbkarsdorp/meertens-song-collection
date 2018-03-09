@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>answersong</tag>
-      <tag>spiritual song</tag>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 006 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

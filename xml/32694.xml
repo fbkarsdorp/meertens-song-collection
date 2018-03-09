@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Een amoureus fier gelaat</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

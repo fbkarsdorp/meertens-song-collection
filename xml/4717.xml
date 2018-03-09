@@ -25,7 +25,9 @@
         <l id="s1:l3" met="3" type="-+">Des daegs, valt een <rhyme label="b" type="f">rechtveerdig</rhyme></l>
         <l id="s1:l4" met="3" type="+-">Menschelijk <rhyme label="c" type="m">bekoord</rhyme></l>
         <l id="s1:l5" met="4" type="+-">Door gedacht, of werk, of <rhyme label="c" type="m" corresp="#s1:l4">woord</rhyme></l>
-        <l id="s1:l6" met="2" type="+-"><rhyme label="d" type="m">Evenwel</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">
+          <rhyme label="d" type="m">Evenwel</rhyme>
+        </l>
         <l id="s1:l7" met="3" type="-+">Weerstaende, dood en <rhyme label="d" type="m" corresp="#s1:l6">hel</rhyme></l>
         <l id="s1:l8" met="3" type="-+">En blijvende noch <rhyme label="b" type="f" corresp="#s1:l3">waerdig</rhyme></l>
         <l id="s1:l9" met="3" type="+-">D’eer-naem van een <rhyme label="e" type="m">vrind</rhyme></l>

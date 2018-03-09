@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -55,7 +58,9 @@
       </lg>
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="+-">Grooten rijckdom maeckt <rhyme label="a" type="f">hooghmoedigh</rhyme>,</l>
-        <l id="s5:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s5:l1">Overvloedigh</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s5:l1">Overvloedigh</rhyme>
+        </l>
         <l id="s5:l3" met="4" type="+-">Ick van u gantsch niet <rhyme label="b" type="m">begeer</rhyme>;</l>
         <l id="s5:l4" met="4" type="+-">Anders mocht ick my <rhyme label="c" type="f">op-maecken</rhyme>,</l>
         <l id="s5:l5" met="2" type="+-">V <rhyme label="c" type="f" corresp="#s5:l4">versaecken</rhyme>,</l>

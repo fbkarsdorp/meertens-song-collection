@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -74,7 +78,9 @@
         <l id="s4:l4" met="2" type="-+">Sult tegens <rhyme label="b" type="m" corresp="#s4:l3">my</rhyme></l>
         <l id="s4:l5" met="4" type="-+">In Min bewijsen <rhyme label="b" type="m" corresp="#s4:l3">medely</rhyme>.</l>
         <l id="s4:l6" met="1" type="-+">Wel <rhyme label="c" type="f">Boutje</rhyme></l>
-        <l id="s4:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s4:l6">Betroutje</rhyme></l>
+        <l id="s4:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s4:l6">Betroutje</rhyme>
+        </l>
         <l id="s4:l8" met="1" type="-+">Dan <rhyme label="d" type="m">aan</rhyme></l>
         <l id="s4:l9" met="1" type="-+">Mijn <rhyme label="d" type="m" corresp="#s4:l8">Raan</rhyme></l>
         <l id="s4:l10" met="2" type="-+">Die 'k heb <rhyme label="d" type="m" corresp="#s4:l8">gedaan</rhyme>,</l>

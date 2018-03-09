@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>market song</tag>
-      <tag>dialect song</tag>
+      <tag translation="market song">marktlied</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

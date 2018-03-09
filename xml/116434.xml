@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>biblical history song</tag>
-      <tag>Easter song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag translation="Easter song">paaslied</tag>
     </tags>
     <melody>Psalm 009 Datheen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

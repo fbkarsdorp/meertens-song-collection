@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>canon</tag>
-      <tag>patriotic song</tag>
+      <tag translation="canon">canon</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Les Bouffons</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

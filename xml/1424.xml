@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dance song</tag>
+      <tag translation="dancing song">danslied</tag>
     </tags>
     <melody>Al naar de markt zo neem de tert</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

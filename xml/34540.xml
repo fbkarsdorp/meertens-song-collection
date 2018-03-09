@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>farewell song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Hoe lig ik hier in deze ellende</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>table song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dining song">tafellied</tag>
     </tags>
     <melody>Engelenburg</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

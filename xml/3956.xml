@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Dat is wil dij van de waarheid horen zingen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

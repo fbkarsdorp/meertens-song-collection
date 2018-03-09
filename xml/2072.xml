@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Bedroefde harten zij verblijd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -36,7 +39,9 @@
         <l id="s1:l12" met="2" type="+-">By de <rhyme label="f" type="f" corresp="#s1:l11">Menschen</rhyme></l>
         <l id="s1:l13" met="2" type="+-">Te <rhyme label="g" type="f">verkeeren</rhyme></l>
         <l id="s1:l14" met="2" type="+-">Soeten <rhyme label="g" type="f" corresp="#s1:l13">Heere</rhyme>,</l>
-        <l id="s1:l15" met="2" type="+-"><rhyme label="h" type="m">Willekom</rhyme></l>
+        <l id="s1:l15" met="2" type="+-">
+          <rhyme label="h" type="m">Willekom</rhyme>
+        </l>
         <l id="s1:l16" met="4" type="+-">Zyt ghy in’ hert' en <rhyme label="i" type="m">sin</rhyme></l>
         <l id="s1:l17" met="2" type="-+">O <rhyme label="h" type="m" corresp="#s1:l15">Bruydegom</rhyme>.</l>
       </lg>
@@ -44,7 +49,9 @@
         <l id="s2:l1" met="4" type="-+">Onsteckt myn sinnen Soeten <rhyme label="a" type="m">Heer'</rhyme></l>
         <l id="s2:l2" met="4" type="+-">In uw' Minne meer en <rhyme label="a" type="m" corresp="#s2:l1">meer</rhyme>,</l>
         <l id="s2:l3" met="2" type="+-">Steckt in <rhyme label="b" type="f">brande</rhyme></l>
-        <l id="s2:l4" met="2" type="+-"><rhyme label="b" type="f" corresp="#s2:l3">D'Offerhande</rhyme></l>
+        <l id="s2:l4" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s2:l3">D'Offerhande</rhyme>
+        </l>
         <l id="s2:l5" met="2" type="+-">Van myn <rhyme label="c" type="m">hert'</rhyme>,</l>
         <l id="s2:l6" met="4" type="+-">Dat u op-ghedraghen <rhyme label="c" type="m" corresp="#s2:l5">wert</rhyme>,</l>
         <l id="s2:l7" met="3" type="-+">Woont in myn hert' en <rhyme label="d" type="m">sin</rhyme>,</l>

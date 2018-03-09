@@ -15,15 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
-      <tag>thanks song</tag>
-      <tag>secular song</tag>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

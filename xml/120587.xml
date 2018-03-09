@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>orange song</tag>
-      <tag>soldier's song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="orangist song">oranjelied</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
     </tags>
     <melody>O jammer en ellende</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

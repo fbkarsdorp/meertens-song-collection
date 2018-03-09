@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>dialog song</tag>
-      <tag>mythological song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

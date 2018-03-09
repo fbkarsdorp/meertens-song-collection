@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>children's song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Schirwit waar is uw vrouw</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

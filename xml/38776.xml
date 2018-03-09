@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Het zou een meisje gaan om wijn</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

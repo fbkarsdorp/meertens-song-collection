@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>martyr's song</tag>
-      <tag>narrative song</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Het was eens joden dochter</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

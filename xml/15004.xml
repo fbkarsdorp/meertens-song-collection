@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>beggar song</tag>
-      <tag>mourning song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="mourning song">rouwlied</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +32,9 @@
         <l id="s1:l4" met="4" type="-+">Maak my, o God! hier toe <rhyme label="c" type="m">bequaam</rhyme>;</l>
         <l id="s1:l5" met="4" type="-+">Op dat ik uwen heil'gen <rhyme label="c" type="m" corresp="#s1:l4">naam</rhyme></l>
         <l id="s1:l6" met="3" type="-+">Prijs booven alle <rhyme label="b" type="f" corresp="#s1:l3">dingen</rhyme>,</l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="d" type="m">Al-tijd</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Al-tijd</rhyme>
+        </l>
         <l id="s1:l8" met="1" type="-+">Met <rhyme label="d" type="m" corresp="#s1:l7">vlijt</rhyme></l>
         <l id="s1:l9" met="2" type="+-">Uw <rhyme label="e" type="f">genaaden</rhyme></l>
         <l id="s1:l10" met="2" type="+-">En <rhyme label="e" type="f" corresp="#s1:l9">weldaaden</rhyme></l>
@@ -128,7 +133,9 @@
         <l id="s8:l5" met="4" type="-+">Het welk door U ontstooken <rhyme label="c" type="m" corresp="#s8:l4">werd</rhyme>,</l>
         <l id="s8:l6" met="3" type="-+">Genaadelijk <rhyme label="b" type="f" corresp="#s8:l3">verhooren</rhyme>.</l>
         <l id="s8:l7" met="1" type="-+">En <rhyme label="d" type="m">zijt</rhyme></l>
-        <l id="s8:l8" met="1" type="-+"><rhyme label="d" type="m" corresp="#s8:l7">Al-tijd</rhyme></l>
+        <l id="s8:l8" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s8:l7">Al-tijd</rhyme>
+        </l>
         <l id="s8:l9" met="2" type="+-">By my, <rhyme label="e" type="f">Heere</rhyme>!</l>
         <l id="s8:l10" met="2" type="+-">Wild my <rhyme label="e" type="f" corresp="#s8:l9">leeren</rhyme></l>
         <l id="s8:l11" met="2" type="+-">'t Heilig <rhyme label="f" type="f">leeven</rhyme>,</l>

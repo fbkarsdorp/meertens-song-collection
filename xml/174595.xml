@@ -7,10 +7,14 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>children's song</tag>
-      <tag>May song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
     <melody>Zoele koele zuidenwind</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

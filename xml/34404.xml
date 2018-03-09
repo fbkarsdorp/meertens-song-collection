@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
-      <tag>proverb</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Het is te Gent nu al verkeerd</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

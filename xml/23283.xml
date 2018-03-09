@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>arcostic</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Wilhelmus</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

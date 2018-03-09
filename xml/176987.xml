@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>drinking song</tag>
-      <tag>joyful song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="joyful song">vreugdelied</tag>
     </tags>
     <melody>Amarante mijn vriendin</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

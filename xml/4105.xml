@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
-      <tag>Maria song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag translation="Marian song">Marialied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +32,9 @@
         <l id="s1:l3" met="4" type="-+">Want bi dien in pine <rhyme label="a" type="m" corresp="#s1:l1">wreet</rhyme></l>
         <l id="s1:l4" met="3" type="-+">Ghebrocht sijn groot en <rhyme label="b" type="f">cleene</rhyme></l>
         <l id="s1:l5" met="4" type="-+">Eua ghi deet ons cranc <rhyme label="a" type="m" corresp="#s1:l1">bescheet</rhyme></l>
-        <l id="s1:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s1:l7" met="3" type="-+">Dat ghi ons bracht in <rhyme label="b" type="f" corresp="#s1:l4">weene</rhyme></l>
       </lg>
       <lg id="s2" type="stanza">
@@ -37,7 +43,9 @@
         <l id="s2:l3" met="4" type="-+">Doende Adam sulc een <rhyme label="a" type="m" corresp="#s2:l1">ghequel</rhyme></l>
         <l id="s2:l4" met="3" type="-+">Tghebot heeft hi <rhyme label="b" type="f">ghebroken</rhyme></l>
         <l id="s2:l5" met="4" type="-+">Dijn troost het dede dit <rhyme label="a" type="m" corresp="#s2:l1">opstel</rhyme></l>
-        <l id="s2:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s2:l7" met="3" type="-+">Het wort op ons <rhyme label="b" type="f" corresp="#s2:l4">ghewroken</rhyme></l>
       </lg>
       <lg id="s3" type="stanza">
@@ -46,7 +54,9 @@
         <l id="s3:l3" met="4" type="-+">Des laghen lange int <rhyme label="a" type="m" corresp="#s3:l1">misbaer</rhyme></l>
         <l id="s3:l4" met="3" type="-+">Die oude vaders in <rhyme label="b" type="f">liden</rhyme></l>
         <l id="s3:l5" met="4" type="-+">Wachtende een kindeken <rhyme label="a" type="m" corresp="#s3:l1">claer</rhyme></l>
-        <l id="s3:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s3:l7" met="3" type="-+">Dwelck datse soude <rhyme label="b" type="f" corresp="#s3:l4">verbliden</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -55,7 +65,9 @@
         <l id="s4:l3" met="4" type="-+">Ghegroet sijt Maria / in <rhyme label="a" type="m" corresp="#s4:l1">wien</rhyme></l>
         <l id="s4:l4" met="3" type="-+">Veel gratien sijn <rhyme label="b" type="f">gheresen</rhyme></l>
         <l id="s4:l5" met="4" type="-+">Groot wonder hadt ghi in <rhyme label="a" type="m" corresp="#s4:l1">dien</rhyme></l>
-        <l id="s4:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s4:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s4:l7" met="3" type="-+">Ende wert versaecht mids <rhyme label="b" type="f" corresp="#s4:l4">desen</rhyme></l>
       </lg>
       <lg id="s5" type="stanza">
@@ -64,7 +76,9 @@
         <l id="s5:l3" met="4" type="-+">Hi wil dat ghi gods sone <rhyme label="a" type="m" corresp="#s5:l1">draecht</rhyme></l>
         <l id="s5:l4" met="3" type="-+">De heylige geest sal v <rhyme label="b" type="f">omgorden</rhyme></l>
         <l id="s5:l5" met="4" type="-+">Doert volmaect consent deser suuer <rhyme label="a" type="m" corresp="#s5:l1">maecht</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="c" type="m">Onbeclaecht</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Onbeclaecht</rhyme>
+        </l>
         <l id="s5:l7" met="3" type="-+">Dwoert is vleesch <rhyme label="b" type="f" corresp="#s5:l4">gheworden</rhyme></l>
       </lg>
       <lg id="s6" type="stanza">
@@ -73,7 +87,9 @@
         <l id="s6:l3" met="4" type="-+">Het duyster der hellen heeft sy <rhyme label="a" type="m" corresp="#s6:l1">verclaert</rhyme></l>
         <l id="s6:l4" met="3" type="-+">Sonder wee oft sonder <rhyme label="b" type="f">pijn</rhyme></l>
         <l id="s6:l5" met="4" type="-+">Heeft si god ende mensch <rhyme label="a" type="m" corresp="#s6:l1">gebaert</rhyme></l>
-        <l id="s6:l6" met="1" type="-+"><rhyme label="c" type="m">Verclaert</rhyme></l>
+        <l id="s6:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Verclaert</rhyme>
+        </l>
         <l id="s6:l7" met="3" type="-+">Der sielen <rhyme label="b" type="f" corresp="#s6:l4">medicijn</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -82,7 +98,9 @@
         <l id="s7:l3" met="4" type="-+">Gheboren wter ioetscher <rhyme label="a" type="m" corresp="#s7:l1">wet</rhyme></l>
         <l id="s7:l4" met="3" type="-+">Moeder ende maghet <rhyme label="b" type="f">vercoren</rhyme></l>
         <l id="s7:l5" met="4" type="-+">En ware niet v kindeken <rhyme label="a" type="m" corresp="#s7:l1">net</rhyme></l>
-        <l id="s7:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s7:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s7:l7" met="3" type="-+">Wij waren <rhyme label="b" type="f" corresp="#s7:l4">verloren</rhyme></l>
       </lg>
       <lg id="s8" type="stanza">
@@ -91,7 +109,9 @@
         <l id="s8:l3" met="4" type="-+">So dat haer volmaecte <rhyme label="a" type="m" corresp="#s8:l1">oetmoet</rhyme></l>
         <l id="s8:l4" met="3" type="-+">Ons verloste al <rhyme label="b" type="f">ghemeyne</rhyme></l>
         <l id="s8:l5" met="4" type="-+">Doert storten vant onnosel <rhyme label="a" type="m" corresp="#s8:l1">bloet</rhyme></l>
-        <l id="s8:l6" met="1" type="-+"><rhyme label="c" type="m">Eylaes</rhyme></l>
+        <l id="s8:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Eylaes</rhyme>
+        </l>
         <l id="s8:l7" met="3" type="-+">Van haer kindeken <rhyme label="b" type="f" corresp="#s8:l4">cleyne</rhyme>.</l>
       </lg>
     </lg>

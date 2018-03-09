@@ -40,7 +40,9 @@
         <l id="s3:l2" met="2" type="+-">Klaer in <rhyme label="a" type="f" corresp="#s3:l1">lichten</rhyme>:</l>
         <l id="s3:l3" met="4" type="+-">Bouwt op 't gheen streckt tot Godt <rhyme label="b" type="m">eer</rhyme>,</l>
         <l id="s3:l4" met="4" type="+-">Tot de deught in Hert en <rhyme label="c" type="f">Nieren</rhyme>,</l>
-        <l id="s3:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s3:l4">Offer-vieren</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s3:l4">Offer-vieren</rhyme>
+        </l>
         <l id="s3:l6" met="4" type="+-">Branden doet, voor Godt den <rhyme label="b" type="m" corresp="#s3:l3">Heer</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">

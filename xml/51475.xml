@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>secular song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

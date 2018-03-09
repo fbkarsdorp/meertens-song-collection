@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Edele kersouw</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -61,7 +64,9 @@
         <l id="s4:l1" met="2" type="-+">Mocht ick seer <rhyme label="a" type="m">dra</rhyme></l>
         <l id="s4:l2" met="3" type="-+">Met moeyten u <rhyme label="b" type="f">ghewinnen</rhyme></l>
         <l id="s4:l3" met="3" type="-+">Ghelijck Perseus <rhyme label="c" type="m">wan</rhyme></l>
-        <l id="s4:l4" met="2" type="-+"><rhyme label="a" type="m" corresp="#s4:l1">Andromeda</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s4:l1">Andromeda</rhyme>
+        </l>
         <l id="s4:l5" met="3" type="-+">Terstont soud' ick <rhyme label="b" type="f" corresp="#s4:l2">beginnen</rhyme></l>
         <l id="s4:l6" met="3" type="-+">En vallen cloeck daer <rhyme label="c" type="m" corresp="#s4:l3">an</rhyme></l>
         <l id="s4:l7" met="3" type="-+">Want gheene moeyten <rhyme label="c" type="m" corresp="#s4:l3">dan</rhyme></l>

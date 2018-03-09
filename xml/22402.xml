@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>children's song</tag>
-      <tag>new year song</tag>
-      <tag>prayer song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Vom Himmel hoch da komm ich her</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

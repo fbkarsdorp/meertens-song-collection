@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Verdwaalde koningin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -78,7 +81,9 @@
         <l id="s5:l6" met="2" type="-+">Sy prijsen <rhyme label="c" type="m" corresp="#s5:l5">seer</rhyme>,</l>
         <l id="s5:l7" met="3" type="-+">Maer evenwel met <rhyme label="d" type="f">meerder</rhyme></l>
         <l id="s5:l8" met="2" type="-+">Kunst en <rhyme label="e" type="m">beleyt</rhyme></l>
-        <l id="s5:l9" met="2" type="-+"><rhyme label="e" type="m" corresp="#s5:l8">d'Onheylligheyt</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">
+          <rhyme label="e" type="m" corresp="#s5:l8">d'Onheylligheyt</rhyme>
+        </l>
         <l id="s5:l10" met="3" type="-+">Die ons van God leyt <rhyme label="d" type="f" corresp="#s5:l7">veerder</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">

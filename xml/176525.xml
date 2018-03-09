@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>shepherd's song</tag>
-      <tag>dialog song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Blijdschap van mij vlied</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

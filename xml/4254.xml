@@ -7,11 +7,15 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
-      <tag>narrative song</tag>
-      <tag>arcostic</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">verhalend</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

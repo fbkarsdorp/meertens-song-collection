@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>secular song</tag>
-      <tag>love complaint</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +52,9 @@
         <l id="s2:l6" met="2" type="+-">Dat mijn <rhyme label="c" type="m" corresp="#s2:l5">hert</rhyme></l>
         <l id="s2:l7" met="2" type="+-">Door die <rhyme label="d" type="m">pijn</rhyme></l>
         <l id="s2:l8" met="2" type="+-">Haast sal <rhyme label="d" type="m" corresp="#s2:l7">sijn</rhyme></l>
-        <l id="s2:l9" met="1" type="-+"><rhyme label="e" type="m">Verteert</rhyme></l>
+        <l id="s2:l9" met="1" type="-+">
+          <rhyme label="e" type="m">Verteert</rhyme>
+        </l>
         <l id="s2:l10" met="4" type="-+">Soo gy niet erlang <rhyme label="e" type="m" corresp="#s2:l9">verkeerd</rhyme></l>
         <l id="s2:l11" met="3" type="+-">Haar versteend <rhyme label="f" type="m">gemoed</rhyme></l>
         <l id="s2:l12" met="3" type="+-">En my haastig <rhyme label="f" type="m" corresp="#s2:l11">doet</rhyme>,</l>

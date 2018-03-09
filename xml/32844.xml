@@ -7,12 +7,17 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>new year song</tag>
-      <tag>prayer song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Ik had een gestadig minnetje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

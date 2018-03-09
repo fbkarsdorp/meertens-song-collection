@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Beata immaculata</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -54,7 +57,9 @@
         <l id="s4:l3" met="3" type="-+">'s Werelts lusten laet hy <rhyme label="a" type="f" corresp="#s4:l1">varen</rhyme>,</l>
         <l id="s4:l4" met="3" type="-+">Godt hy hem geeft <rhyme label="b" type="m" corresp="#s4:l2">geheel</rhyme>.</l>
         <l id="s4:l5" met="2" type="-+">Van <rhyme label="c" type="m">suyverheyt</rhyme>,</l>
-        <l id="s4:l6" met="2" type="-+"><rhyme label="c" type="m" corresp="#s4:l5">Ootmoedigheyt</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s4:l5">Ootmoedigheyt</rhyme>
+        </l>
         <l id="s4:l7" met="4" type="-+">Werelt, of vlees, hem oyt <rhyme label="c" type="m" corresp="#s4:l5">af-scheyt</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

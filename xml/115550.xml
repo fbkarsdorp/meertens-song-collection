@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>craft song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Visserij is waard geprezen</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

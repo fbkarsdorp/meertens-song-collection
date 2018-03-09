@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 024 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

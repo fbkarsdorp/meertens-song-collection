@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>drinking song</tag>
-      <tag>soldier's song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
     </tags>
     <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

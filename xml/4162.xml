@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="3" type="+-"><rhyme label="a" type="f">YD'le-ijdelhéden</rhyme></l>
+        <l id="s1:l1" met="3" type="+-">
+          <rhyme label="a" type="f">YD'le-ijdelhéden</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="+-">Grond van straf, <rhyme label="b" type="m">voorschuld</rhyme>:</l>
         <l id="s1:l3" met="3" type="+-">Die de deugd <rhyme label="a" type="f" corresp="#s1:l1">vertréden</rhyme>:</l>
         <l id="s1:l4" met="3" type="+-">En de wraak <rhyme label="b" type="m" corresp="#s1:l2">vervuld</rhyme>.</l>
@@ -28,7 +30,9 @@
         <l id="s1:l6" met="3" type="+-">Liefde, en <rhyme label="b" type="m" corresp="#s1:l2">geduld</rhyme>,</l>
         <l id="s1:l7" met="3" type="+-">Segt wat zijn de <rhyme label="a" type="f" corresp="#s1:l1">reden</rhyme></l>
         <l id="s1:l8" met="3" type="+-">Die gy geven <rhyme label="b" type="m" corresp="#s1:l2">sult</rhyme>?</l>
-        <l id="s1:l9" met="2" type="+-"><rhyme label="c" type="f">Blinde-Wéreld</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">
+          <rhyme label="c" type="f">Blinde-Wéreld</rhyme>
+        </l>
         <l id="s1:l10" met="2" type="+-">Die u <rhyme label="d" type="f">schanden</rhyme></l>
         <l id="s1:l11" met="2" type="+-">Noch <rhyme label="c" type="f" corresp="#s1:l9">bepéreld</rhyme>,</l>
         <l id="s1:l12" met="2" type="+-">Met de <rhyme label="d" type="f" corresp="#s1:l10">handen</rhyme></l>

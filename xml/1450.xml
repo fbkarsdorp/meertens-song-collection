@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>praise</tag>
-      <tag>Chamber of rhetoric's song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Hoe zalig zijn de landen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

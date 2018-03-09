@@ -15,20 +15,27 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>O roosje rood o parel jent</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="-+"><rhyme label="a" type="f">Vermaledyden</rhyme></l>
+        <l id="s1:l1" met="2" type="-+">
+          <rhyme label="a" type="f">Vermaledyden</rhyme>
+        </l>
         <l id="s1:l2" met="2" type="-+">Gelt-honger <rhyme label="b" type="m">snoot</rhyme>,</l>
         <l id="s1:l3" met="2" type="-+">Die nu dus <rhyme label="a" type="f" corresp="#s1:l1">byden</rhyme></l>
         <l id="s1:l4" met="2" type="-+">Mensch is soo <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>,</l>
         <l id="s1:l5" met="2" type="-+">Want d'eygen <rhyme label="c" type="m">baet</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Blijft <rhyme label="c" type="m" corresp="#s1:l5">onversaet</rhyme>,</l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="d" type="m">Altijt</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Altijt</rhyme>
+        </l>
         <l id="s1:l8" met="4" type="-+">Door 't gierigh begeeren die hun 't hert <rhyme label="d" type="m" corresp="#s1:l7">verbijt</rhyme>,</l>
         <l id="s1:l9" met="2" type="-+">Nootdruft en <rhyme label="c" type="m" corresp="#s1:l5">maet</rhyme></l>
         <l id="s1:l10" met="2" type="-+">Hy gantsch <rhyme label="c" type="m" corresp="#s1:l5">versmaet</rhyme>,</l>

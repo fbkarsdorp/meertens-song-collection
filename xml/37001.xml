@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>En Jan en durft niet te huis gaan</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

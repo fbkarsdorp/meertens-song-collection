@@ -21,7 +21,9 @@
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="-+">Daar heeft de klok <rhyme label="a" type="f">geslagen</rhyme></l>
-        <l id="s1:l2" met="2" type="+-"><rhyme label="b" type="m">Mironton</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">
+          <rhyme label="b" type="m">Mironton</rhyme>
+        </l>
         <l id="s1:l3" met="3" type="-+">Daar heeft de klok <rhyme label="a" type="f" corresp="#s1:l1">geslagen</rhyme></l>
         <l id="s1:l4" met="3" type="-+">De Bengel luidt wy <rhyme label="c" type="m">gaan</rhyme>.</l>
       </lg>
@@ -99,7 +101,9 @@
       </lg>
       <lg id="s14" type="stanza">
         <l id="s14:l1" met="3" type="-+">Is dit die goeye <rhyme label="a" type="f">jaager</rhyme>?</l>
-        <l id="s14:l2" met="2" type="+-"><rhyme label="b" type="m">Mironton</rhyme></l>
+        <l id="s14:l2" met="2" type="+-">
+          <rhyme label="b" type="m">Mironton</rhyme>
+        </l>
         <l id="s14:l3" met="3" type="-+">Is dit die goeye <rhyme label="a" type="f" corresp="#s14:l1">jaager</rhyme>?</l>
         <l id="s14:l4" met="3" type="-+">Zoo vroeg 'er strak een <rhyme label="c" type="m">kind</rhyme>.</l>
       </lg>

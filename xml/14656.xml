@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>new year song</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
     </tags>
     <melody>Schoon liefje jent zeer excellent</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +51,9 @@
         <l id="s3:l4" met="2" type="-+">Want hy de <rhyme label="a" type="m" corresp="#s3:l1">Hel</rhyme>,</l>
         <l id="s3:l5" met="2" type="-+">Met Satan <rhyme label="a" type="m" corresp="#s3:l1">fel</rhyme>,</l>
         <l id="s3:l6" met="3" type="-+">Benemen sal <rhyme label="a" type="m" corresp="#s3:l1">'tghequel</rhyme>.</l>
-        <l id="s3:l7" met="1" type="-+"><rhyme label="c" type="m">Benemen</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">
+          <rhyme label="c" type="m">Benemen</rhyme>
+        </l>
         <l id="s3:l8" met="3" type="-+">Tot eenen nieuwe <rhyme label="b" type="f" corresp="#s3:l3">Iare</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">

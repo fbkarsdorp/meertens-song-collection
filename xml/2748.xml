@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -55,7 +58,9 @@
       </lg>
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="+-">Heer die alle kruyden <rhyme label="a" type="m">bout</rhyme>,</l>
-        <l id="s5:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s5:l1">Onderhout</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s5:l1">Onderhout</rhyme>
+        </l>
         <l id="s5:l3" met="4" type="+-">d' Hoogh en Edel stam <rhyme label="b" type="f">Orangien</rhyme>,</l>
         <l id="s5:l4" met="4" type="+-">Dat wij in sijn schaduw' <rhyme label="c" type="m">soel</rhyme></l>
         <l id="s5:l5" met="2" type="+-">Sitten <rhyme label="c" type="m" corresp="#s5:l4">koel</rhyme>,</l>

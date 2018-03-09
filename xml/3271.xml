@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -78,7 +81,9 @@
         <l id="s5:l6" met="3" type="-+">In Cana <rhyme label="b" type="f" corresp="#s5:l3">uytgelesen</rhyme>:</l>
         <l id="s5:l7" met="2" type="-+">Weyd my, leyd <rhyme label="d" type="m">my</rhyme></l>
         <l id="s5:l8" met="4" type="+-">Op de paden der <rhyme label="e" type="f">genaden</rhyme></l>
-        <l id="s5:l9" met="2" type="+-"><rhyme label="f" type="f">Voorgeschreven</rhyme></l>
+        <l id="s5:l9" met="2" type="+-">
+          <rhyme label="f" type="f">Voorgeschreven</rhyme>
+        </l>
         <l id="s5:l10" met="4" type="+-">Den mensch ten eeuwigen <rhyme label="f" type="f" corresp="#s5:l9">leven</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">

@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Ootmoedig simpel goedertier</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

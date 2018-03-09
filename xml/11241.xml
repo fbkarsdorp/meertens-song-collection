@@ -7,10 +7,14 @@
       <year-end>1578</year-end>
     </date>
     <tags>
-      <tag>martyr's song</tag>
-      <tag>narrative song</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Ik had een gestadig minnetje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

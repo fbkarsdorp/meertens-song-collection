@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>new year song</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Ik zeg adieu</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

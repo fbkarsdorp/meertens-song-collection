@@ -7,11 +7,15 @@
       <year-end>1430</year-end>
     </date>
     <tags>
-      <tag>new year song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

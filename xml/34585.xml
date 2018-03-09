@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>farewell song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Heb dij niet gehoord lieve Teunis</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -55,7 +59,9 @@
         <l id="s2:l11" met="1" type="+-">Die <rhyme label="f" type="f">riepen</rhyme> //</l>
         <l id="s2:l12" met="1" type="-+">en <rhyme label="f" type="f" corresp="#s2:l11">liepen</rhyme></l>
         <l id="s2:l13" met="1" type="-+"><rhyme label="g" type="f">Couranten</rhyme> //</l>
-        <l id="s2:l14" met="1" type="-+"><rhyme label="g" type="f" corresp="#s2:l13">servanten</rhyme></l>
+        <l id="s2:l14" met="1" type="-+">
+          <rhyme label="g" type="f" corresp="#s2:l13">servanten</rhyme>
+        </l>
         <l id="s2:l15" met="2" type="+-">om het <rhyme label="h" type="m">meest</rhyme>,</l>
         <l id="s2:l16" met="4" type="+-">Was dat niet een <rhyme label="h" type="m" corresp="#s2:l15">Bruyloft-feest</rhyme>?</l>
         <l id="s2:l17" met="4" type="+-">Was dat niet een <rhyme label="h" type="m" corresp="#s2:l15">Bruyloft-feest</rhyme>?</l>
@@ -74,7 +80,9 @@
         <l id="s3:l11" met="1" type="+-">Die <rhyme label="f" type="f">draeyden</rhyme> //</l>
         <l id="s3:l12" met="1" type="-+">en <rhyme label="f" type="f" corresp="#s3:l11">kraeyden</rhyme></l>
         <l id="s3:l13" met="1" type="-+"><rhyme label="g" type="f">Almande</rhyme> //</l>
-        <l id="s3:l14" met="1" type="-+"><rhyme label="g" type="f" corresp="#s3:l13">Pavande</rhyme></l>
+        <l id="s3:l14" met="1" type="-+">
+          <rhyme label="g" type="f" corresp="#s3:l13">Pavande</rhyme>
+        </l>
         <l id="s3:l15" met="2" type="+-">om het <rhyme label="h" type="m">meest</rhyme>,</l>
         <l id="s3:l16" met="4" type="+-">Was dat niet een <rhyme label="h" type="m" corresp="#s3:l15">Bruyloft-feest</rhyme>?</l>
         <l id="s3:l17" met="4" type="+-">Was dat niet een <rhyme label="h" type="m" corresp="#s3:l15">Bruyloft-feest</rhyme>?</l>

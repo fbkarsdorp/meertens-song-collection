@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>club song</tag>
+      <tag translation="social organisation song">verenigingslied</tag>
     </tags>
     <melody>Een scheepje in de haven landt</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

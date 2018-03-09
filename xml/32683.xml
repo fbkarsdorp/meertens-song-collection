@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>moralistic song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>Ach Belinde</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

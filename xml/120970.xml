@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

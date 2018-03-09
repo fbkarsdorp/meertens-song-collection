@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>proverb</tag>
-      <tag>narrative song</tag>
-      <tag>dance song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="dancing song">danslied</tag>
     </tags>
     <melody>Ik had een lief verkoren dies is leden lang</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

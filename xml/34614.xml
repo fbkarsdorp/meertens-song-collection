@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>love song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Phyllis kwam Philander tegen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

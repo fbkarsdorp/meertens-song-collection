@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="3" type="-+"><rhyme label="a" type="m">BEhoeffelijke-tijd</rhyme></l>
+        <l id="s1:l1" met="3" type="-+">
+          <rhyme label="a" type="m">BEhoeffelijke-tijd</rhyme>
+        </l>
         <l id="s1:l2" met="2" type="-+">Gy zijt <rhyme label="b" type="f">verschénen</rhyme>,</l>
         <l id="s1:l3" met="2" type="-+">En recht <rhyme label="b" type="f" corresp="#s1:l2">verdwénen</rhyme></l>
         <l id="s1:l4" met="2" type="-+">Met alle <rhyme label="a" type="m" corresp="#s1:l1">vlijt</rhyme>.</l>

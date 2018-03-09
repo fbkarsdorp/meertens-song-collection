@@ -69,7 +69,9 @@
       </lg>
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="4" type="+-">Gy alleen hebt mijn <rhyme label="a" type="m">gemoed</rhyme></l>
-        <l id="s7:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s7:l1">Tegenspoed</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s7:l1">Tegenspoed</rhyme>
+        </l>
         <l id="s7:l3" met="4" type="+-">Haat, en onheil leeren <rhyme label="b" type="f">dragen</rhyme>.</l>
         <l id="s7:l4" met="4" type="+-">'K zing des uwen naam ten <rhyme label="c" type="m">prijz</rhyme></l>
         <l id="s7:l5" met="2" type="+-">Eene <rhyme label="c" type="m" corresp="#s7:l4">wijz</rhyme></l>

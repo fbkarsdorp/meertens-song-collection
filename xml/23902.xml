@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>three-kings song</tag>
-      <tag>welcoming song</tag>
+      <tag translation="Epiphany song">driekoningenlied</tag>
+      <tag translation="welcome song">welkomstlied</tag>
     </tags>
     <melody>Na dertien droeve nachten</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

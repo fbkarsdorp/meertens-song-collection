@@ -7,9 +7,12 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Met een verzuchten zwaar</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -81,7 +84,9 @@
         <l id="s5:l5" met="2" type="-+">Eenighsins <rhyme label="b" type="f" corresp="#s5:l2">connen</rhyme></l>
         <l id="s5:l6" met="3" type="-+">Victorieus <rhyme label="c" type="f" corresp="#s5:l3">floreren</rhyme>:</l>
         <l id="s5:l7" met="3" type="+-">Ter eeren // moet die <rhyme label="d" type="f">schoone</rhyme></l>
-        <l id="s5:l8" met="1" type="+-"><rhyme label="d" type="f" corresp="#s5:l7">Persoone</rhyme></l>
+        <l id="s5:l8" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s5:l7">Persoone</rhyme>
+        </l>
         <l id="s5:l9" met="3" type="+-">My seluen <rhyme label="e" type="m">present</rhyme></l>
         <l id="s5:l10" met="2" type="-+">Scepter, noch <rhyme label="d" type="f" corresp="#s5:l7">croone</rhyme></l>
         <l id="s5:l11" met="3" type="+-">En crijgh ick te <rhyme label="d" type="f" corresp="#s5:l7">loone</rhyme>,</l>

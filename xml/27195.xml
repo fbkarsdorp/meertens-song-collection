@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Era di maggio</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +32,9 @@
         <l id="s1:l5" met="3" type="-+">Alle myn <rhyme label="c" type="m">melodye</rhyme></l>
         <l id="s1:l6" met="2" type="-+">En <rhyme label="d" type="f">jubileren</rhyme></l>
         <l id="s1:l7" met="3" type="-+">Moet ick door <rhyme label="c" type="m" corresp="#s1:l5">fantazye</rhyme></l>
-        <l id="s1:l8" met="2" type="-+"><rhyme label="d" type="f" corresp="#s1:l6">Abandoneren</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">
+          <rhyme label="d" type="f" corresp="#s1:l6">Abandoneren</rhyme>
+        </l>
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="2" type="-+">Door <rhyme label="a" type="f">lamentaty</rhyme></l>

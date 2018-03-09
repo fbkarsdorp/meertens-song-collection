@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>spiritual song</tag>
-      <tag>guard song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="watchman's song">wachterlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

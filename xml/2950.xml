@@ -61,7 +61,9 @@
       </lg>
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="4" type="+-">Dus aenschoutm' in alle <rhyme label="a" type="m">ding</rhyme></l>
-        <l id="s6:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s6:l1">Wisseling</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s6:l1">Wisseling</rhyme>
+        </l>
         <l id="s6:l3" met="4" type="+-">Van begeert' en <rhyme label="b" type="f">zinne-buyden</rhyme>.</l>
         <l id="s6:l4" met="4" type="+-">Nu zijnz' hier; een ander <rhyme label="c" type="m">jaer</rhyme></l>
         <l id="s6:l5" met="2" type="+-">Op een <rhyme label="c" type="m" corresp="#s6:l4">a^er</rhyme>:</l>

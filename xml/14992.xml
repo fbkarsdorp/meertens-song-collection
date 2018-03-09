@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>political song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="political song">politiek lied</tag>
     </tags>
     <melody>Zoet Robbertje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

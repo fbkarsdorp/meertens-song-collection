@@ -85,7 +85,9 @@
         <l id="s5:l3" met="2" type="-+">Zoo blijft ge <rhyme label="b" type="m">alom</rhyme></l>
         <l id="s5:l4" met="3" type="-+">Des Heeren <rhyme label="b" type="m" corresp="#s5:l3">eygendom</rhyme>.</l>
         <l id="s5:l5" met="1" type="-+">Zijn <rhyme label="c" type="m">hand</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s5:l5">Vermand</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s5:l5">Vermand</rhyme>
+        </l>
         <l id="s5:l7" met="3" type="-+">Wat hem durft <rhyme label="d" type="f">wederstreven</rhyme>.</l>
         <l id="s5:l8" met="2" type="+-">Hoort na <rhyme label="e" type="m">hem</rhyme>.</l>
         <l id="s5:l9" met="2" type="+-">Zijne <rhyme label="e" type="m" corresp="#s5:l8">stem</rhyme></l>

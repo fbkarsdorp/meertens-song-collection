@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>mythological song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Engelse klokkedans</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

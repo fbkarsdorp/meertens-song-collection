@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>thanks song</tag>
-      <tag>secular song</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Pour un peuple aimable et sensible</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

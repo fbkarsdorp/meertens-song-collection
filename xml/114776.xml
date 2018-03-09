@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -59,7 +62,9 @@
         <l id="s2:l12" met="3" type="+-">Die hier door de <rhyme label="g" type="m">doot</rhyme></l>
         <l id="s2:l13" met="2" type="-+">Al t'zaam moet <rhyme label="f" type="f" corresp="#s2:l11">laten</rhyme></l>
         <l id="s2:l14" met="3" type="+-">Dat hy oit <rhyme label="g" type="m" corresp="#s2:l12">genoot</rhyme>,</l>
-        <l id="s2:l15" met="1" type="-+"><rhyme label="h" type="m">Wanneer</rhyme></l>
+        <l id="s2:l15" met="1" type="-+">
+          <rhyme label="h" type="m">Wanneer</rhyme>
+        </l>
         <l id="s2:l16" met="1" type="-+">De <rhyme label="h" type="m" corresp="#s2:l15">Heer</rhyme></l>
         <l id="s2:l17" met="2" type="-+">Geen ydle <rhyme label="i" type="m">kunst</rhyme>;</l>
         <l id="s2:l18" met="1" type="-+">Maar <rhyme label="j" type="m">deugt</rhyme></l>

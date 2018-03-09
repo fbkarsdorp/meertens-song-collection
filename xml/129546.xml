@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
-      <tag>wedding song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>De nachtegaal met zoete toon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

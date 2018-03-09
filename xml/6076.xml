@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>praise</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Parvulus nobis nascitur</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

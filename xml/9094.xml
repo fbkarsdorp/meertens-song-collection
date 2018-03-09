@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Malle Sijmen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -59,7 +62,9 @@
         <l id="s2:l12" met="2" type="+-">En ick <rhyme label="f" type="m" corresp="#s2:l11">dagt</rhyme></l>
         <l id="s2:l13" met="3" type="+-">'k Wil my spoen ten <rhyme label="g" type="f">grave</rhyme>.</l>
         <l id="s2:l14" met="2" type="+-"><rhyme label="h" type="m">Ydelheyd</rhyme>!</l>
-        <l id="s2:l15" met="2" type="+-"><rhyme label="h" type="m" corresp="#s2:l14">Onbescheyd</rhyme></l>
+        <l id="s2:l15" met="2" type="+-">
+          <rhyme label="h" type="m" corresp="#s2:l14">Onbescheyd</rhyme>
+        </l>
         <l id="s2:l16" met="3" type="+-">Wou den doden <rhyme label="g" type="f" corresp="#s2:l13">laven</rhyme>.</l>
         <l id="s2:l17" met="4" type="+-">'k Woud mijn Here salven <rhyme label="i" type="m">gaan</rhyme>.</l>
         <l id="s2:l18" met="4" type="+-">Ioseph had dat al <rhyme label="i" type="m" corresp="#s2:l17">gedaan</rhyme>.</l>
@@ -99,7 +104,9 @@
         <l id="s4:l6" met="4" type="+-">Petre schrick niet, Ia Hy, <rhyme label="d" type="m">Hy</rhyme>,</l>
         <l id="s4:l7" met="4" type="-+">Hy selve stond daar aan mijn <rhyme label="d" type="m" corresp="#s4:l6">sy</rhyme>.</l>
         <l id="s4:l8" met="2" type="+-">Dees mijn <rhyme label="e" type="f">oogen</rhyme></l>
-        <l id="s4:l9" met="2" type="+-"><rhyme label="e" type="f" corresp="#s4:l8">Onbedrogen</rhyme></l>
+        <l id="s4:l9" met="2" type="+-">
+          <rhyme label="e" type="f" corresp="#s4:l8">Onbedrogen</rhyme>
+        </l>
         <l id="s4:l10" met="3" type="+-">Sagen hem daar <rhyme label="c" type="m" corresp="#s4:l5">staan</rhyme>.</l>
         <l id="s4:l11" met="2" type="+-">Seg <rhyme label="f" type="m">Mary</rhyme>,</l>
         <l id="s4:l12" met="2" type="+-">Hoe wist <rhyme label="f" type="m" corresp="#s4:l11">gy</rhyme></l>

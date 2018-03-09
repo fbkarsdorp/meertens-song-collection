@@ -26,7 +26,9 @@
         <l id="s1:l4" met="3" type="-+">Deez' frisschen Perzik <rhyme label="b" type="m">is</rhyme>!</l>
         <l id="s1:l5" met="2" type="-+">Ja, Zusje, <rhyme label="b" type="m" corresp="#s1:l4">gewis</rhyme></l>
         <l id="s1:l6" met="1" type="-+">Zyn' <rhyme label="c" type="f">trekken</rhyme></l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s1:l6">Verwekken</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s1:l6">Verwekken</rhyme>
+        </l>
         <l id="s1:l8" met="3" type="-+">U graagte, indien ik niet <rhyme label="b" type="m" corresp="#s1:l4">mis</rhyme>?</l>
         <l id="s1:l9" met="2" type="-+">Daar! wilt hem <rhyme label="d" type="f">ontvangen</rhyme>!</l>
         <l id="s1:l10" met="2" type="+-">Voldoe myn <rhyme label="d" type="f" corresp="#s1:l9">verlangen</rhyme>:</l>

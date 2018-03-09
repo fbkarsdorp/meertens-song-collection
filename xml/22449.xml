@@ -15,15 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>evening song</tag>
-      <tag>spiritual song</tag>
-      <tag>children's song</tag>
-      <tag>spiritual song</tag>
-      <tag>school song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="evening song">avondlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="school song">schoollied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Veni redemptor gentium</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

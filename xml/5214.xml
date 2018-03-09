@@ -7,11 +7,16 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>history song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>Het reed een ridder welgemoed</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

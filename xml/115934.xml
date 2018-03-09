@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>stuttering song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="stutter song">stotterlied</tag>
     </tags>
     <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

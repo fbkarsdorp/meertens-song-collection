@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>Maria song</tag>
-      <tag>christmas song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

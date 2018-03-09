@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>lamentation</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Cecilia</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

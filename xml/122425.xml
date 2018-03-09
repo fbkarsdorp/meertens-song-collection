@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>dialect song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
     <melody>La Dauphine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

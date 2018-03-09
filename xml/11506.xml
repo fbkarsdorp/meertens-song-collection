@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialect song</tag>
-      <tag>Shrove Tuesday song</tag>
-      <tag>farewell song</tag>
+      <tag translation="dialect song">dialectlied</tag>
+      <tag translation="Shrovetide Carnival song">vastenavondlied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Corydon kom hier wat praten</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

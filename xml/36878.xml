@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>shepherd's song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

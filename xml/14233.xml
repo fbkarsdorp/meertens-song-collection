@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
-      <tag>admonishing song</tag>
-      <tag>mystical song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Hoe luid zong de leraar op de tinnen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

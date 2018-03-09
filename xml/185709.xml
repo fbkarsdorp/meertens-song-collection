@@ -41,7 +41,9 @@
         <l id="s3:l1" met="5" type="+-">V Wijf gelijck een ranck vol druyven <rhyme label="a" type="f">soet</rhyme>,</l>
         <l id="s3:l2" met="5" type="+-">Die overvloedigh brenght vruchten metter <rhyme label="a" type="f" corresp="#s3:l1">spoet</rhyme>,</l>
         <l id="s3:l3" met="3" type="+-">Is soo gy mooght <rhyme label="b" type="f">weten</rhyme>,</l>
-        <l id="s3:l4" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">geseten</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l3">geseten</rhyme>
+        </l>
         <l id="s3:l5" met="2" type="-+">Aen uwen <rhyme label="c" type="m">want</rhyme>,</l>
         <l id="s3:l6" met="2" type="-+">Seer vast <rhyme label="c" type="m" corresp="#s3:l5">geplant</rhyme>,</l>
         <l id="s3:l7" met="4" type="+-">Dit heeft den Heer hem <rhyme label="b" type="f" corresp="#s3:l3">geheeten</rhyme>.</l>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>Christ song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="Jesus song">Christuslied</tag>
     </tags>
     <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

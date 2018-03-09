@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Maagdelijk schoon gesticht</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +53,9 @@
         <l id="s3:l4" met="3" type="-+">O magnanime // <rhyme label="b" type="m" corresp="#s3:l2">bruydt</rhyme>,</l>
         <l id="s3:l5" met="1" type="-+">Die <rhyme label="b" type="m" corresp="#s3:l2">wt</rhyme>,</l>
         <l id="s3:l6" met="1" type="-+">Sulck <rhyme label="b" type="m" corresp="#s3:l2">cruyt</rhyme>,</l>
-        <l id="s3:l7" met="1" type="-+"><rhyme label="b" type="m" corresp="#s3:l2">Virtuyt</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s3:l2">Virtuyt</rhyme>
+        </l>
         <l id="s3:l8" met="3" type="+-">(Tot zijn gesonde) // <rhyme label="c" type="m">haelt</rhyme>:</l>
         <l id="s3:l9" met="2" type="+-">Geen smerte // <rhyme label="d" type="m">verstranght</rhyme>,</l>
         <l id="s3:l10" met="2" type="-+">Zijn herte // <rhyme label="d" type="m" corresp="#s3:l9">ontfanght</rhyme></l>

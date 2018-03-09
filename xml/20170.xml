@@ -15,17 +15,23 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>lamentation</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Sluimerslaapje zoete rust</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">SLuymer-slaepje, soete <rhyme label="a" type="m">rust</rhyme>,</l>
         <l id="s1:l2" met="1" type="-+">Mijn <rhyme label="b" type="m">ziel</rhyme></l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="m" corresp="#s1:l2">verviel</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s1:l2">verviel</rhyme>
+        </l>
         <l id="s1:l4" met="1" type="-+">In <rhyme label="a" type="m" corresp="#s1:l1">lust</rhyme>,</l>
         <l id="s1:l5" met="3" type="+-">Daer den dauw ons <rhyme label="a" type="m" corresp="#s1:l1">kust</rhyme>,</l>
         <l id="s1:l6" met="2" type="-+">En sich <rhyme label="b" type="m" corresp="#s1:l2">onthiel</rhyme>,</l>

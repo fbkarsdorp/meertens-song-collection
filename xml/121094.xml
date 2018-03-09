@@ -7,10 +7,14 @@
       <year-end>1725</year-end>
     </date>
     <tags>
-      <tag>mythological song</tag>
-      <tag>love song</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

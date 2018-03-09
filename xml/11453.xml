@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>La Maurice</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

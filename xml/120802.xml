@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>soldier's song</tag>
-      <tag>patriotic song</tag>
-      <tag>farewell song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Hier ligt mijn Damon in het graf</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="work">werk</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

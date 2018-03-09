@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
-      <tag>Maria song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="Marian song">Marialied</tag>
     </tags>
     <melody>Ik had een gestadig minnetje</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

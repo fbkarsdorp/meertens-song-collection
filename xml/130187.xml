@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Hoe kan ik vrolijk wezen</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

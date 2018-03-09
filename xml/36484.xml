@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>secular song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

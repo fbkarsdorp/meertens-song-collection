@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>arcostic</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Allein Gott in der Höhe sei Ehre</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

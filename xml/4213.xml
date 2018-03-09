@@ -60,7 +60,9 @@
         <l id="s3:l2" met="1" type="-+">Het <rhyme label="b" type="f">Huw'lijk</rhyme>,</l>
         <l id="s3:l3" met="4" type="-+">Dat u in 's levens-kring <rhyme label="a" type="m" corresp="#s3:l1">besluyt</rhyme>:</l>
         <l id="s3:l4" met="3" type="-+">d' <rhyme label="c" type="m">Onslopelijke-Echt</rhyme>:</l>
-        <l id="s3:l5" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l2">Af-schuwlijk</rhyme></l>
+        <l id="s3:l5" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l2">Af-schuwlijk</rhyme>
+        </l>
         <l id="s3:l6" met="4" type="-+">Van die des kuysheyts-schild <rhyme label="c" type="m" corresp="#s3:l4">bevechts</rhyme></l>
         <l id="s3:l7" met="2" type="-+">Die gy <rhyme label="d" type="m">an-vaard</rhyme>:</l>
         <l id="s3:l8" met="2" type="-+">(Na uwen <rhyme label="d" type="m" corresp="#s3:l7">Aart</rhyme>)</l>

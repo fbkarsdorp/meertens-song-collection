@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>dialog song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>O Heer gij staat altijd in mijn zin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

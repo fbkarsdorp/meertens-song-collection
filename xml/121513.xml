@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>secular song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Men is jaloers als men gaat paren</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

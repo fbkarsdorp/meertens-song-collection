@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>lamentation</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

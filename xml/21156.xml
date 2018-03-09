@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -60,7 +63,9 @@
         <l id="s3:l8" met="3" type="-+">Tot datse na 't <rhyme label="c" type="f" corresp="#s3:l5">verlangen</rhyme>,</l>
         <l id="s3:l9" met="2" type="+-"><rhyme label="e" type="f">d'Hemel-kroone</rhyme>,</l>
         <l id="s3:l10" met="2" type="+-"><rhyme label="e" type="f" corresp="#s3:l9">d'Hemel-kroone</rhyme>,</l>
-        <l id="s3:l11" met="2" type="+-"><rhyme label="e" type="f" corresp="#s3:l9">d'Hemel-kroone</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">
+          <rhyme label="e" type="f" corresp="#s3:l9">d'Hemel-kroone</rhyme>
+        </l>
         <l id="s3:l12" met="2" type="+-">Eeuwigh <rhyme label="c" type="f" corresp="#s3:l5">vangen</rhyme>.</l>
       </lg>
     </lg>

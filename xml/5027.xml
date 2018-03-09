@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>abc song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="alphabet song">abclied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Het daagt in de oosten</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

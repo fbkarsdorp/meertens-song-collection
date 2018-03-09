@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>thanks song</tag>
-      <tag>farewell song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Bedroefd hartje</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

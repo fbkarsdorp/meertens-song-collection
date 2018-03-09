@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>answersong</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
     <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

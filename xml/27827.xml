@@ -7,12 +7,18 @@
       <year-end>1581</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>proverb</tag>
-      <tag>farewell song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Wilhelmus</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

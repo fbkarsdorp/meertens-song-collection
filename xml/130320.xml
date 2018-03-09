@@ -15,16 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="-+">Ag schoone <rhyme label="a" type="m">Maagt</rhyme>,</l>
         <l id="s1:l2" met="2" type="-+">Uw lieve <rhyme label="b" type="f">lonken</rhyme></l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Ontvonken</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Ontvonken</rhyme>
+        </l>
         <l id="s1:l4" met="3" type="-+">Mijn hert, wel eer <rhyme label="a" type="m" corresp="#s1:l1">behaagt</rhyme>.</l>
         <l id="s1:l5" met="2" type="-+">Gy stelt mijn <rhyme label="c" type="m">min</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Gants uit uw <rhyme label="c" type="m" corresp="#s1:l5">sin</rhyme></l>
@@ -60,7 +65,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="2" type="-+">Ik wens gy wierd <rhyme label="a" type="m">dra</rhyme></l>
         <l id="s5:l2" met="2" type="-+">Met stralende <rhyme label="b" type="f">oogen</rhyme></l>
-        <l id="s5:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l2">Bewogen</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s5:l2">Bewogen</rhyme>
+        </l>
         <l id="s5:l4" met="3" type="-+">En gaf het lieve <rhyme label="a" type="m" corresp="#s5:l1">ja</rhyme>.</l>
         <l id="s5:l5" met="2" type="-+">Dan kwam myn <rhyme label="c" type="m">druk</rhyme></l>
         <l id="s5:l6" met="2" type="-+">Tot groot <rhyme label="c" type="m" corresp="#s5:l5">geluk</rhyme>.</l>

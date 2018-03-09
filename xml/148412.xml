@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Van Helena</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

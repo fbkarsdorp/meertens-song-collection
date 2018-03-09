@@ -32,7 +32,9 @@
         <l id="s3:l2" met="2" type="+-">En <rhyme label="a" type="m" corresp="#s3:l1">besnijd</rhyme></l>
         <l id="s3:l3" met="4" type="+-">Sich inwendigh, schoon met <rhyme label="b" type="f">smerten</rhyme>;</l>
         <l id="s3:l4" met="4" type="+-">Hy gedenck', hoe d'Heer toe <rhyme label="c" type="m">seyd</rhyme></l>
-        <l id="s3:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s3:l4">Saligheydt</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s3:l4">Saligheydt</rhyme>
+        </l>
         <l id="s3:l6" met="4" type="+-">Aen de reyn en kuysche <rhyme label="b" type="f" corresp="#s3:l3">herten</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -40,7 +42,9 @@
         <l id="s4:l2" met="2" type="+-">Los en <rhyme label="a" type="m" corresp="#s4:l1">vry</rhyme></l>
         <l id="s4:l3" met="4" type="+-">Deser aerde, alleen na <rhyme label="b" type="f">jagen</rhyme>,</l>
         <l id="s4:l4" met="4" type="+-">Dats' ontleeght van vleesches <rhyme label="c" type="m">weeld</rhyme>,</l>
-        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s4:l4">Onverdeelt</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s4:l4">Onverdeelt</rhyme>
+        </l>
         <l id="s4:l6" met="4" type="+-">Gode dienen en <rhyme label="b" type="f" corresp="#s4:l3">behagen</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
@@ -69,7 +73,9 @@
       </lg>
       <lg id="s8" type="stanza">
         <l id="s8:l1" met="4" type="+-">Treck mijn liefde van der <rhyme label="a" type="m">aerd'</rhyme></l>
-        <l id="s8:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s8:l1">Hemelwaerd'</rhyme></l>
+        <l id="s8:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s8:l1">Hemelwaerd'</rhyme>
+        </l>
         <l id="s8:l3" met="4" type="+-">Tot u, en die sael'ge <rhyme label="b" type="f">erve</rhyme>:</l>
         <l id="s8:l4" met="4" type="+-">Laet geduerigh daer mijn <rhyme label="c" type="m">geest</rhyme></l>
         <l id="s8:l5" met="2" type="+-">Houden <rhyme label="c" type="m" corresp="#s8:l4">feest</rhyme>.</l>

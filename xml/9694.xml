@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>De meise jeugd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,7 +49,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="2" type="-+">Maer lof <rhyme label="a" type="m">gheseyt</rhyme></l>
         <l id="s3:l2" met="4" type="-+">Sy Godt, wiens ghenade wy <rhyme label="b" type="f">smaken</rhyme>,</l>
-        <l id="s3:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s3:l1">Gherechtigheyt</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s3:l1">Gherechtigheyt</rhyme>
+        </l>
         <l id="s3:l4" met="4" type="-+">Van eenen deed ons al <rhyme label="b" type="f" corresp="#s3:l2">ghenaken</rhyme></l>
         <l id="s3:l5" met="3" type="-+">'sLevens rechtveerdigh <rhyme label="b" type="f" corresp="#s3:l2">maken</rhyme>,</l>
         <l id="s3:l6" met="4" type="-+">Want Christus, die ghehoorsaem <rhyme label="c" type="f">was</rhyme></l>

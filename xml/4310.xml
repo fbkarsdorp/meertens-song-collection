@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Courageuse violette</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -90,14 +95,20 @@
         <l id="s5:l4" met="4" type="-+">Zijn accoort // tot inde <rhyme label="b" type="m" corresp="#s5:l2">doot</rhyme>,</l>
         <l id="s5:l5" met="4" type="+-">V te laten t'geender <rhyme label="b" type="m" corresp="#s5:l2">noot</rhyme>:</l>
         <l id="s5:l6" met="2" type="+-">O <rhyme label="c" type="m">dierbaer</rhyme></l>
-        <l id="s5:l7" met="1" type="+-"><rhyme label="d" type="m">Parceel</rhyme></l>
-        <l id="s5:l8" met="2" type="+-"><rhyme label="c" type="m" corresp="#s5:l6">Wederpaer</rhyme></l>
+        <l id="s5:l7" met="1" type="+-">
+          <rhyme label="d" type="m">Parceel</rhyme>
+        </l>
+        <l id="s5:l8" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s5:l6">Wederpaer</rhyme>
+        </l>
         <l id="s5:l9" met="1" type="-+">En <rhyme label="d" type="m" corresp="#s5:l7">deel</rhyme></l>
         <l id="s5:l10" met="3" type="+-">Tot mijn treurich <rhyme label="e" type="f">clagen</rhyme>,</l>
         <l id="s5:l11" met="1" type="-+">Coemt <rhyme label="c" type="m" corresp="#s5:l6">naer</rhyme>,</l>
         <l id="s5:l12" met="1" type="-+"><rhyme label="d" type="m" corresp="#s5:l7">Geheel</rhyme>:</l>
         <l id="s5:l13" met="1" type="-+">Dit <rhyme label="c" type="m" corresp="#s5:l6">swaer</rhyme></l>
-        <l id="s5:l14" met="1" type="-+"><rhyme label="d" type="m" corresp="#s5:l7">Goreel</rhyme></l>
+        <l id="s5:l14" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s5:l7">Goreel</rhyme>
+        </l>
         <l id="s5:l15" met="3" type="+-">Helpt my lijdsaem <rhyme label="e" type="f" corresp="#s5:l10">dragen</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">

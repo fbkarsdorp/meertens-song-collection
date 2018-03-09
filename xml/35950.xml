@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>spiritual song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Beata immaculata</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

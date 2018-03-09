@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>O mens aanhoor des Heren woord</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

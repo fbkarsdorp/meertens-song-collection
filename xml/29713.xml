@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Om een nieuw jaar zij haar man bad</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -52,7 +55,9 @@
         <l id="s3:l6" met="3" type="-+">Die dees maeght <rhyme label="d" type="f">suckcederen</rhyme></l>
         <l id="s3:l7" met="2" type="-+">Met deucht <rhyme label="c" type="m" corresp="#s3:l5">versiert</rhyme></l>
         <l id="s3:l8" met="4" type="-+">Als Daephne eerbaerlyck vol <rhyme label="d" type="f" corresp="#s3:l6">eeren</rhyme></l>
-        <l id="s3:l9" met="2" type="-+"><rhyme label="c" type="m" corresp="#s3:l5">Ghelauweriert</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s3:l5">Ghelauweriert</rhyme>
+        </l>
       </lg>
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="4" type="-+">Aenmerck van die heeft laes ter <rhyme label="a" type="m">stont</rhyme></l>

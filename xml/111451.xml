@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>children's song</tag>
+      <tag translation="children's song">kinderlied</tag>
     </tags>
     <melody>Der Ritter von Rosen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

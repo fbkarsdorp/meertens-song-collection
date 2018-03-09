@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>table song</tag>
-      <tag>drinking song</tag>
+      <tag translation="dining song">tafellied</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>Lorsque je suis</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

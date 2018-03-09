@@ -7,11 +7,16 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>praise</tag>
-      <tag>history song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>Psalm 068 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

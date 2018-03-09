@@ -20,9 +20,13 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="1" type="-+"><rhyme label="a" type="m">VErblijt</rhyme></l>
+        <l id="s1:l1" met="1" type="-+">
+          <rhyme label="a" type="m">VErblijt</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Ghy Amoreuse <rhyme label="b" type="f">sinnen</rhyme>,</l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="a" type="m" corresp="#s1:l1">Versmijt</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="a" type="m" corresp="#s1:l1">Versmijt</rhyme>
+        </l>
         <l id="s1:l4" met="3" type="-+">Druck die't hart quelt van <rhyme label="b" type="f" corresp="#s1:l2">binnen</rhyme>,</l>
         <l id="s1:l5" met="3" type="-+">En wilt op nieu <rhyme label="b" type="f" corresp="#s1:l2">beginnen</rhyme></l>
         <l id="s1:l6" met="1" type="-+">Te <rhyme label="b" type="f" corresp="#s1:l2">minnen</rhyme></l>
@@ -68,12 +72,18 @@
         <l id="s4:l10" met="2" type="-+">Meught maken <rhyme label="c" type="m" corresp="#s4:l7">klaer</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="1" type="-+"><rhyme label="a" type="m">Prince</rhyme></l>
+        <l id="s5:l1" met="1" type="-+">
+          <rhyme label="a" type="m">Prince</rhyme>
+        </l>
         <l id="s5:l2" met="3" type="-+">En wilt den moedt niet <rhyme label="b" type="f">geven</rhyme>,</l>
-        <l id="s5:l3" met="1" type="-+"><rhyme label="a" type="m" corresp="#s5:l1">Mintse</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">
+          <rhyme label="a" type="m" corresp="#s5:l1">Mintse</rhyme>
+        </l>
         <l id="s5:l4" met="3" type="-+">Wilt haer met liefd' <rhyme label="b" type="f" corresp="#s5:l2">aenkleven</rhyme>,</l>
         <l id="s5:l5" met="3" type="-+">En alsoo al u <rhyme label="b" type="f" corresp="#s5:l2">leven</rhyme></l>
-        <l id="s5:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s5:l2">Beneven</rhyme></l>
+        <l id="s5:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s5:l2">Beneven</rhyme>
+        </l>
         <l id="s5:l7" met="2" type="-+">Haer blijven <rhyme label="c" type="m">trou</rhyme>,</l>
         <l id="s5:l8" met="2" type="-+">In eer <rhyme label="d" type="m">bequaem</rhyme></l>
         <l id="s5:l9" met="2" type="-+">Tot dat ghy <rhyme label="d" type="m" corresp="#s5:l8">t'saem</rhyme></l>

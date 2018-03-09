@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>love song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Houd je rust Tyter</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

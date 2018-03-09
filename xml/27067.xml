@@ -7,11 +7,16 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>scriptural song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Psalm 006 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

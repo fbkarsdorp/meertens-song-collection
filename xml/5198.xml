@@ -7,12 +7,18 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>wedding song</tag>
-      <tag>orange song</tag>
-      <tag>praise</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="orangist song">oranjelied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Wilhelmus</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

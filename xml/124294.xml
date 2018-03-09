@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>welcoming song</tag>
+      <tag translation="welcome song">welkomstlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

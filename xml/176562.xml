@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
-      <tag>sailor song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Delftenaartje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

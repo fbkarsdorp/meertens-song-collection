@@ -43,7 +43,9 @@
         <l id="s3:l5" met="2" type="-+">Alst slechts <rhyme label="c" type="m">geteemt</rhyme></l>
         <l id="s3:l6" met="2" type="-+">Naar aandacht <rhyme label="c" type="m" corresp="#s3:l5">sweemt</rhyme>,</l>
         <l id="s3:l7" met="3" type="-+">En Mensch aan Mensch doet <rhyme label="d" type="f">hangen</rhyme>.</l>
-        <l id="s3:l8" met="2" type="-+"><rhyme label="e" type="m">Tragedi-spel</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">
+          <rhyme label="e" type="m">Tragedi-spel</rhyme>
+        </l>
         <l id="s3:l9" met="2" type="-+">Kan daar mee <rhyme label="e" type="m" corresp="#s3:l8">wel</rhyme></l>
         <l id="s3:l10" met="3" type="-+">Een dwaas verstant <rhyme label="d" type="f" corresp="#s3:l7">bevangen</rhyme>.</l>
       </lg>

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -31,7 +34,9 @@
         <l id="s1:l6" met="2" type="+-">Denkt nu <rhyme label="c" type="m" corresp="#s1:l5">we'er</rhyme></l>
         <l id="s1:l7" met="2" type="+-">Aan 't <rhyme label="d" type="m">verbond</rhyme></l>
         <l id="s1:l8" met="2" type="+-">En de <rhyme label="d" type="m" corresp="#s1:l7">grond</rhyme>,</l>
-        <l id="s1:l9" met="1" type="-+"><rhyme label="e" type="m">Geleid</rhyme></l>
+        <l id="s1:l9" met="1" type="-+">
+          <rhyme label="e" type="m">Geleid</rhyme>
+        </l>
         <l id="s1:l10" met="4" type="-+">Met Noach, door zijn <rhyme label="e" type="m" corresp="#s1:l9">goedheid</rhyme>;</l>
         <l id="s1:l11" met="3" type="+-">Dat de Weereld <rhyme label="f" type="m">zou</rhyme></l>
         <l id="s1:l12" met="3" type="+-">Blijven in de <rhyme label="f" type="m" corresp="#s1:l11">bou</rhyme></l>

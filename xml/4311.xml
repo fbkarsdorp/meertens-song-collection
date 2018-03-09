@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>love song</tag>
-      <tag>praise</tag>
-      <tag>arcostic</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Courageuse violette</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -58,9 +63,13 @@
         <l id="s3:l6" met="2" type="+-">Eewich <rhyme label="c" type="m">zijn</rhyme></l>
         <l id="s3:l7" met="1" type="-+">V <rhyme label="d" type="m">maeght</rhyme>,</l>
         <l id="s3:l8" met="2" type="+-">Geen <rhyme label="c" type="m" corresp="#s3:l6">gepijn</rhyme></l>
-        <l id="s3:l9" met="1" type="+-"><rhyme label="d" type="m" corresp="#s3:l7">Beclaeght</rhyme></l>
+        <l id="s3:l9" met="1" type="+-">
+          <rhyme label="d" type="m" corresp="#s3:l7">Beclaeght</rhyme>
+        </l>
         <l id="s3:l10" met="3" type="+-">Wert, tot geender <rhyme label="e" type="f">uren</rhyme></l>
-        <l id="s3:l11" met="1" type="-+"><rhyme label="c" type="m" corresp="#s3:l6">Divijn</rhyme></l>
+        <l id="s3:l11" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s3:l6">Divijn</rhyme>
+        </l>
         <l id="s3:l12" met="1" type="-+">Ghy <rhyme label="d" type="m" corresp="#s3:l7">draeght</rhyme></l>
         <l id="s3:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s3:l6">T'aenschijn</rhyme>,</l>
         <l id="s3:l14" met="1" type="-+">En <rhyme label="d" type="m" corresp="#s3:l7">saeght</rhyme></l>
@@ -77,7 +86,9 @@
         <l id="s4:l8" met="2" type="+-">Doet <rhyme label="c" type="m" corresp="#s4:l6">bystant</rhyme></l>
         <l id="s4:l9" met="1" type="+-">Dijn <rhyme label="d" type="m" corresp="#s4:l7">knecht</rhyme>,</l>
         <l id="s4:l10" met="3" type="+-">Die om u <rhyme label="e" type="f">volveerdich</rhyme></l>
-        <l id="s4:l11" met="1" type="-+"><rhyme label="c" type="m" corresp="#s4:l6">Valiant</rhyme></l>
+        <l id="s4:l11" met="1" type="-+">
+          <rhyme label="c" type="m" corresp="#s4:l6">Valiant</rhyme>
+        </l>
         <l id="s4:l12" met="1" type="-+">Noch <rhyme label="d" type="m" corresp="#s4:l7">vecht</rhyme>,</l>
         <l id="s4:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s4:l6">Promant</rhyme>,</l>
         <l id="s4:l14" met="1" type="-+">Hy <rhyme label="d" type="m" corresp="#s4:l7">secht</rhyme></l>

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>moralistic song</tag>
-      <tag>new year song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

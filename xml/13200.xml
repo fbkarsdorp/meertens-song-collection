@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -150,7 +153,9 @@
       <lg id="s19" type="stanza">
         <l id="s19:l1" met="4" type="+-">Als dan open gaet de <rhyme label="a" type="m">poort</rhyme></l>
         <l id="s19:l2" met="4" type="+-">Sien de wijsen maer <rhyme label="a" type="m" corresp="#s19:l1">verhoort</rhyme>,</l>
-        <l id="s19:l3" met="2" type="+-"><rhyme label="b" type="f">Ingelaten</rhyme></l>
+        <l id="s19:l3" met="2" type="+-">
+          <rhyme label="b" type="f">Ingelaten</rhyme>
+        </l>
         <l id="s19:l4" met="2" type="+-">Met haer <rhyme label="b" type="f" corresp="#s19:l3">vaten</rhyme></l>
         <l id="s19:l5" met="4" type="+-">Vol van liefde na Godts <rhyme label="a" type="m" corresp="#s19:l1">woordt</rhyme>.</l>
       </lg>
@@ -165,7 +170,9 @@
         <l id="s21:l1" met="4" type="+-">Als de Son weer onder <rhyme label="a" type="m">gaet</rhyme>,</l>
         <l id="s21:l2" met="4" type="+-">Sien hoe Christus opwaerts <rhyme label="a" type="m" corresp="#s21:l1">gaet</rhyme></l>
         <l id="s21:l3" met="2" type="+-">Met sijn <rhyme label="b" type="f">Cooren</rhyme></l>
-        <l id="s21:l4" met="2" type="+-"><rhyme label="b" type="f" corresp="#s21:l3">Uytverkoren</rhyme></l>
+        <l id="s21:l4" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s21:l3">Uytverkoren</rhyme>
+        </l>
         <l id="s21:l5" met="4" type="+-">Hier bevonden sonder <rhyme label="a" type="m" corresp="#s21:l1">quaet</rhyme>.</l>
       </lg>
       <lg id="s22" type="stanza">

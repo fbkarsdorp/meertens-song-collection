@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>new year song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="New Year's song">nieuwjaarslied</tag>
     </tags>
     <melody>Schoon lief gij zijt prijs waard alleen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

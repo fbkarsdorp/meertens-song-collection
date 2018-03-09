@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>love song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -46,7 +50,9 @@
         <l id="s2:l6" met="1" type="-+">Al <rhyme label="c" type="f">quamen</rhyme></l>
         <l id="s2:l7" met="1" type="-+">Te <rhyme label="c" type="f" corresp="#s2:l6">samen</rhyme></l>
         <l id="s2:l8" met="1" type="-+">’t <rhyme label="d" type="m">Verwoet</rhyme></l>
-        <l id="s2:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s2:l8">Gebroet</rhyme></l>
+        <l id="s2:l9" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s2:l8">Gebroet</rhyme>
+        </l>
         <l id="s2:l10" met="2" type="-+">Wt Stix <rhyme label="d" type="m" corresp="#s2:l8">gewroet</rhyme>,</l>
         <l id="s2:l11" met="2" type="+-">Tot mijn <rhyme label="e" type="m">verdriet</rhyme>;</l>
         <l id="s2:l12" met="2" type="-+">Ik acht het <rhyme label="e" type="m" corresp="#s2:l11">niet</rhyme></l>
@@ -61,7 +67,9 @@
         <l id="s3:l6" met="1" type="-+">V <rhyme label="c" type="f">leden</rhyme></l>
         <l id="s3:l7" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s3:l6">zeden</rhyme></l>
         <l id="s3:l8" met="1" type="-+">Vol <rhyme label="d" type="m">Deugd</rhyme>’</l>
-        <l id="s3:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s3:l8">Verheughd</rhyme></l>
+        <l id="s3:l9" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s3:l8">Verheughd</rhyme>
+        </l>
         <l id="s3:l10" met="2" type="-+">Mijn ziel met <rhyme label="d" type="m" corresp="#s3:l8">vreughd</rhyme>,</l>
         <l id="s3:l11" met="2" type="+-">Dies ik, <rhyme label="e" type="m">Godin</rhyme>,</l>
         <l id="s3:l12" met="2" type="-+">Door trouwe <rhyme label="e" type="m" corresp="#s3:l11">Min</rhyme>,</l>

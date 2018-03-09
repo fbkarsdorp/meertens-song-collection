@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
-      <tag>dialog song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Wees nimf gegroet</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -96,7 +100,9 @@
         <l id="s4:l16" met="2" type="-+">Zonder pracht en <rhyme label="h" type="m" corresp="#s4:l14">pronck</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">
-        <l id="s5:l1" met="2" type="-+"><rhyme label="a" type="m">Gemeenelijck</rhyme></l>
+        <l id="s5:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Gemeenelijck</rhyme>
+        </l>
         <l id="s5:l2" met="2" type="-+">Als in een nieuw <rhyme label="a" type="m" corresp="#s5:l1">rijck</rhyme></l>
         <l id="s5:l3" met="4" type="-+">Koninck of Keyzer komt, of wort <rhyme label="b" type="m">gekroont</rhyme></l>
         <l id="s5:l4" met="4" type="-+">Men blijdtschap hooren; Hy miltheyt <rhyme label="b" type="m" corresp="#s5:l3">toont</rhyme>.</l>

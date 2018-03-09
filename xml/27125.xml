@@ -7,13 +7,19 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>lamentation</tag>
-      <tag>consolation song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="consolation song">troostlied</tag>
     </tags>
     <melody>'s Winters 's zomers even groen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="emotions">emoties</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

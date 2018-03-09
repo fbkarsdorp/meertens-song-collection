@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Engelse klokkedans</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -76,7 +79,9 @@
         <l id="s4:l4" met="2" type="-+">Ach! mocht mijn <rhyme label="a" type="f" corresp="#s4:l1">minne</rhyme>,</l>
         <l id="s4:l5" met="2" type="-+">Tot haaren <rhyme label="b" type="f" corresp="#s4:l2">loon</rhyme>,</l>
         <l id="s4:l6" met="3" type="-+">Genieten uwe <rhyme label="c" type="m" corresp="#s4:l3">gunst</rhyme>;</l>
-        <l id="s4:l7" met="1" type="-+"><rhyme label="d" type="m">Voorwaar</rhyme></l>
+        <l id="s4:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Voorwaar</rhyme>
+        </l>
         <l id="s4:l8" met="1" type="-+">Geen <rhyme label="d" type="m" corresp="#s4:l7">paar</rhyme>,</l>
         <l id="s4:l9" met="3" type="-+">Hoe gunstig en <rhyme label="e" type="m">getrouw</rhyme>,</l>
         <l id="s4:l10" met="3" type="-+">Zo hemelsch leeven <rhyme label="e" type="m" corresp="#s4:l9">zouw</rhyme>,</l>

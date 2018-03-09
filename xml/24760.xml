@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>narrative song</tag>
-      <tag>virelai ballad</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="virelai-ballad">virelai-ballade</tag>
     </tags>
     <melody>Het zou een schamele marsenier</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

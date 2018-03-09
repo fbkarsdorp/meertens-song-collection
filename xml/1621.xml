@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love complaint</tag>
-      <tag>seasonal song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="seasonal song">seizoenslied</tag>
     </tags>
     <melody>De winter is een onwaarde gast</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -7,13 +7,19 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>psalm</tag>
-      <tag>Chamber of rhetoric's song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="psalm">psalm</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Psalm 051 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

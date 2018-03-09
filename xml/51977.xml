@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>hunter's song</tag>
+      <tag translation="hunter's song">jagerslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

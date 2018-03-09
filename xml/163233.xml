@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>secular song</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Réveillez-vous belle endormie</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

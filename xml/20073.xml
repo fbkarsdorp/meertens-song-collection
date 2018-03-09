@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>protest song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="protest song">protestlied</tag>
     </tags>
     <melody>Wat heeft de Amstel al gespuis</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -44,7 +47,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="2" type="-+">Heft op u <rhyme label="a" type="m">stem</rhyme></l>
         <l id="s3:l2" met="3" type="-+">Blaest tot den Wijn-bergh <rhyme label="b" type="f">inne</rhyme>:</l>
-        <l id="s3:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s3:l1">Jerusalem</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s3:l1">Jerusalem</rhyme>
+        </l>
         <l id="s3:l4" met="3" type="-+">Godes schoone <rhyme label="b" type="f" corresp="#s3:l2">Vriendinne</rhyme>:</l>
         <l id="s3:l5" met="2" type="-+">En seght haer <rhyme label="c" type="m">siet</rhyme>,</l>
         <l id="s3:l6" met="3" type="-+">Dat sy bidden en <rhyme label="d" type="f">waken</rhyme>,</l>

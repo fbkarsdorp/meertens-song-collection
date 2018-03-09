@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
-      <tag>love song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -44,7 +48,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="-+">Gut Meisje, och wouje myn byslaepje <rhyme label="a" type="m">zyn</rhyme>,</l>
         <l id="s3:l2" met="1" type="-+">Soo <rhyme label="b" type="f">stracktjes</rhyme>,</l>
-        <l id="s3:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l2">Gemackjes</rhyme></l>
+        <l id="s3:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l2">Gemackjes</rhyme>
+        </l>
         <l id="s3:l4" met="2" type="-+">Schonck ickje de <rhyme label="a" type="m" corresp="#s3:l1">Wyn</rhyme></l>
         <l id="s3:l5" met="2" type="-+">Tot onse moy <rhyme label="c" type="m">Knier</rhyme></l>
         <l id="s3:l6" met="2" type="-+">- Niet verd'   ist van <rhyme label="c" type="m" corresp="#s3:l5">hier</rhyme>.</l>

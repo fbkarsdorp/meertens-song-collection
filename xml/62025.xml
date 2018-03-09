@@ -7,11 +7,15 @@
       <year-end>1837</year-end>
     </date>
     <tags>
-      <tag>entertainment song</tag>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="amusement song">amusementslied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

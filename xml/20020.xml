@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Ballet Bronkhorst</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -25,7 +28,9 @@
         <l id="s1:l1" met="2" type="+-">WErelts <rhyme label="a" type="f">Pronckjes</rhyme>,</l>
         <l id="s1:l2" met="3" type="-+">Vytmuntend schone <rhyme label="b" type="f">beeltjes</rhyme></l>
         <l id="s1:l3" met="2" type="+-">Vol <rhyme label="c" type="m">geestigheyt</rhyme>,</l>
-        <l id="s1:l4" met="2" type="+-"><rhyme label="a" type="f" corresp="#s1:l1">Minnelonckjes</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s1:l1">Minnelonckjes</rhyme>
+        </l>
         <l id="s1:l5" met="3" type="-+">Soet eenstemmige <rhyme label="b" type="f" corresp="#s1:l2">keeltjes</rhyme>,</l>
         <l id="s1:l6" met="2" type="-+">En vol <rhyme label="c" type="m" corresp="#s1:l3">beleydt</rhyme>,</l>
         <l id="s1:l7" met="2" type="+-">Naer de <rhyme label="d" type="m">zin</rhyme>,</l>

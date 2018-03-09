@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>protest song</tag>
-      <tag>political song</tag>
-      <tag>patriotic song</tag>
-      <tag>orange song</tag>
+      <tag translation="protest song">protestlied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="orangist song">oranjelied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

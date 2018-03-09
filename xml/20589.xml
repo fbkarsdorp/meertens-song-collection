@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Och wat lijden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -33,7 +36,9 @@
         <l id="s1:l9" met="3" type="-+">Als een onruste <rhyme label="d" type="m" corresp="#s1:l7">zee</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
-        <l id="s2:l1" met="2" type="+-"><rhyme label="a" type="f">Onghestadich</rhyme></l>
+        <l id="s2:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Onghestadich</rhyme>
+        </l>
         <l id="s2:l2" met="4" type="+-">Dertel wicht// moest ick <rhyme label="b" type="m">me</rhyme></l>
         <l id="s2:l3" met="5" type="+-">Onder-worpen sijn u crachten <rhyme label="c" type="m">groot</rhyme>?</l>
         <l id="s2:l4" met="2" type="+-">Moest <rhyme label="a" type="f" corresp="#s2:l1">moordadich</rhyme></l>

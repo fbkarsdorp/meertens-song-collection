@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>La mariée</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="1" type="+-"><rhyme label="a" type="f" corresp="#s1:l1">Zugten</rhyme>,</l>
         <l id="s1:l3" met="1" type="+-"><rhyme label="b" type="f">Klagen</rhyme>,</l>
         <l id="s1:l4" met="3" type="+-">Nagten spilt en <rhyme label="b" type="f" corresp="#s1:l3">dagen</rhyme></l>
-        <l id="s1:l5" met="1" type="+-"><rhyme label="b" type="f" corresp="#s1:l3">(Plagen</rhyme></l>
+        <l id="s1:l5" met="1" type="+-">
+          <rhyme label="b" type="f" corresp="#s1:l3">(Plagen</rhyme>
+        </l>
         <l id="s1:l6" met="3" type="+-">Voor een fris <rhyme label="c" type="m">gemoed</rhyme>):</l>
         <l id="s1:l7" met="3" type="-+">Verlaat, verlaat uw <rhyme label="d" type="f">treuren</rhyme>,</l>
         <l id="s1:l8" met="2" type="+-">'t Zyn maer <rhyme label="d" type="f" corresp="#s1:l7">leuren</rhyme></l>

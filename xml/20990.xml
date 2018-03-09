@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
-      <tag>answersong</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -67,7 +71,9 @@
         <l id="s2:l17" met="2" type="+-">Die so veel <rhyme label="h" type="f" corresp="#s2:l15">werkte</rhyme>:</l>
         <l id="s2:l18" met="3" type="+-">Die sijn vyand <rhyme label="i" type="m" corresp="#s2:l16">joech</rhyme></l>
         <l id="s2:l19" met="1" type="-+">Als 't <rhyme label="j" type="m">wild</rhyme>:</l>
-        <l id="s2:l20" met="1" type="-+"><rhyme label="j" type="m" corresp="#s2:l19">verspild</rhyme></l>
+        <l id="s2:l20" met="1" type="-+">
+          <rhyme label="j" type="m" corresp="#s2:l19">verspild</rhyme>
+        </l>
         <l id="s2:l21" met="3" type="+-">(Al speelende) 't <rhyme label="k" type="m">geluk</rhyme>:</l>
         <l id="s2:l22" met="2" type="-+">Tot sijn <rhyme label="k" type="m" corresp="#s2:l21">druk</rhyme>.</l>
         <l id="s2:l23" met="3" type="+-">Dit is bewijs <rhyme label="i" type="m" corresp="#s2:l16">genoech</rhyme>.</l>

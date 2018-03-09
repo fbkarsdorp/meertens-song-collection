@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>seasonal song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="seasonal song">seizoenslied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Tegen de zorgen in dit leven</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

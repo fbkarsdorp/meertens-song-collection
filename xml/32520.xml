@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love song</tag>
-      <tag>dialog song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

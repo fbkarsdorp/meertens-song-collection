@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mythological song</tag>
-      <tag>love complaint</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Pourquoi faut-il que je soupire</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

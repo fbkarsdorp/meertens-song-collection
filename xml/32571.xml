@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>farewell song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Ik heb menig pint en kan</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

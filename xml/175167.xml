@@ -7,10 +7,14 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>children's song</tag>
-      <tag>lullaby</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="slumber song">slaaplied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="miscellaneous">allerlei soorten liederen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>dialect song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
     <melody>Neeltje heeft met lobberigs Wijntje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

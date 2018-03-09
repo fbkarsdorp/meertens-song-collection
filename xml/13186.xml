@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -41,7 +44,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Als de Kristallijne <rhyme label="a" type="f">glasen</rhyme>,</l>
-        <l id="s3:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s3:l1">Opgeblasen</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s3:l1">Opgeblasen</rhyme>
+        </l>
         <l id="s3:l3" met="2" type="+-">Door een <rhyme label="b" type="m">stroy</rhyme></l>
         <l id="s3:l4" met="2" type="-+">Wort ghy soo <rhyme label="b" type="m" corresp="#s3:l3">moy</rhyme>.</l>
         <l id="s3:l5" met="4" type="+-">Het almachtigh woordt des <rhyme label="c" type="f">Heeren</rhyme></l>

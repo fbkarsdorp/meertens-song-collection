@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>Chamber of rhetoric's song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

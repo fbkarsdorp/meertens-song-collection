@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Laetae lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -31,7 +34,9 @@
         <l id="s1:l7" met="5" type="-+">Of by die daet oock komt <rhyme label="d" type="m">stantvastigheydt</rhyme>;</l>
         <l id="s1:l8" met="5" type="-+">Een vaerdigheydt en <rhyme label="d" type="m" corresp="#s1:l7">toe-geneghentheyt</rhyme></l>
         <l id="s1:l9" met="5" type="-+">Die 't hert aenport, en drijft, en willigh <rhyme label="d" type="m" corresp="#s1:l7">leyt</rhyme></l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="e" type="m">Voortaen</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="e" type="m">Voortaen</rhyme>
+        </l>
         <l id="s1:l11" met="1" type="+-">Te <rhyme label="e" type="m" corresp="#s1:l10">gaen</rhyme></l>
         <l id="s1:l12" met="1" type="-+">Godts <rhyme label="e" type="m" corresp="#s1:l10">paen</rhyme>.</l>
       </lg>
@@ -46,7 +51,9 @@
         <l id="s2:l8" met="5" type="-+">Hy haat het met een doodelijcke <rhyme label="d" type="m" corresp="#s2:l7">haet</rhyme>.</l>
         <l id="s2:l9" met="5" type="-+">Hy mijt al't geen wat tegen deucht <rhyme label="d" type="m" corresp="#s2:l7">aengaet</rhyme>.</l>
         <l id="s2:l10" met="1" type="-+">Met <rhyme label="e" type="m">vlijt</rhyme></l>
-        <l id="s2:l11" met="1" type="+-"><rhyme label="e" type="m" corresp="#s2:l10">Verblijt</rhyme></l>
+        <l id="s2:l11" met="1" type="+-">
+          <rhyme label="e" type="m" corresp="#s2:l10">Verblijt</rhyme>
+        </l>
         <l id="s2:l12" met="1" type="-+">Hy <rhyme label="e" type="m" corresp="#s2:l10">strijt</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

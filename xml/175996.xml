@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
+      <tag translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -170,7 +173,9 @@
         <l id="s19:l2" met="2" type="+-">Hooch <rhyme label="a" type="f" corresp="#s19:l1">verheven</rhyme></l>
         <l id="s19:l3" met="4" type="+-">En verstercken langs soo <rhyme label="b" type="m">meer</rhyme>.</l>
         <l id="s19:l4" met="4" type="+-">Sy die my onbillick <rhyme label="c" type="f">haten</rhyme></l>
-        <l id="s19:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s19:l4">Wter-maten</rhyme></l>
+        <l id="s19:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s19:l4">Wter-maten</rhyme>
+        </l>
         <l id="s19:l6" met="4" type="+-">Nemen toe in cracht en <rhyme label="b" type="m" corresp="#s19:l3">eer</rhyme>.</l>
       </lg>
       <lg id="s20" type="stanza">

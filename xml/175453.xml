@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>protest song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="protest song">protestlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>dialog song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Adieu nymphe du bois</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

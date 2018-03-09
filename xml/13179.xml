@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Tweede Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +31,9 @@
         <l id="s1:l4" met="3" type="-+">In de loop <rhyme label="b" type="m" corresp="#s1:l3">overwant</rhyme>,</l>
         <l id="s1:l5" met="5" type="+-">Drie gouw' appels als hy wierp in 't <rhyme label="b" type="m" corresp="#s1:l3">sant</rhyme>,</l>
         <l id="s1:l6" met="2" type="-+">En zy haer <rhyme label="c" type="m">oogh</rhyme></l>
-        <l id="s1:l7" met="2" type="+-"><rhyme label="c" type="m" corresp="#s1:l6">Neder-boogh</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s1:l6">Neder-boogh</rhyme>
+        </l>
         <l id="s1:l8" met="2" type="+-">Al te <rhyme label="d" type="m">dwaes</rhyme></l>
         <l id="s1:l9" met="2" type="+-">Naer dit <rhyme label="d" type="m" corresp="#s1:l8">aes</rhyme></l>
         <l id="s1:l10" met="4" type="+-">Dat haer achter-hiel, <rhyme label="d" type="m" corresp="#s1:l8">eylaes</rhyme>,</l>

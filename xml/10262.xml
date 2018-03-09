@@ -15,15 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">Carileen</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Carileen</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Ay! wilt u niet <rhyme label="b" type="f">verschuylen</rhyme></l>
         <l id="s1:l3" met="4" type="+-">Segh waer <rhyme label="c" type="m">heen</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">In het diepste van het <rhyme label="d" type="m">Wout</rhyme></l>

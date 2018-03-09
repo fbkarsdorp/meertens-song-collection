@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
-      <tag>love complaint</tag>
-      <tag>farewell song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Belle Iris</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

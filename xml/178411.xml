@@ -7,7 +7,7 @@
       <year-end>1788</year-end>
     </date>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -32,7 +32,9 @@
         <l id="s2:l8" met="4" type="+-">Haast vegt elk Bataav' zig <rhyme label="c" type="m" corresp="#s2:l7">vry</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
-        <l id="s3:l1" met="1" type="-+"><rhyme label="a" type="m">Nooit-zult</rhyme></l>
+        <l id="s3:l1" met="1" type="-+">
+          <rhyme label="a" type="m">Nooit-zult</rhyme>
+        </l>
         <l id="s3:l2" met="3" type="-+">Gy, Tyrannen! de <rhyme label="a" type="m" corresp="#s3:l1">onschult</rhyme>,</l>
         <l id="s3:l3" met="3" type="-+">Hoe gy op haar <rhyme label="a" type="m" corresp="#s3:l1">aanbrult</rhyme>,</l>
         <l id="s3:l4" met="5" type="+-">Door uw lastertong voor u-zien <rhyme label="b" type="f">bukken</rhyme>,</l>

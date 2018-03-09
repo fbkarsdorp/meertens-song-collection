@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>murder song</tag>
-      <tag>narrative song</tag>
+      <tag translation="murder song">moordlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Biron</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

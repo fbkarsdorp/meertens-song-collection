@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>abc song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="alphabet song">abclied</tag>
     </tags>
     <melody>Camarades lampons</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

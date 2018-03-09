@@ -15,14 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">SPeelnootjes</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">SPeelnootjes</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Begint gy nu te <rhyme label="b" type="f">droomen</rhyme>?</l>
         <l id="s1:l3" met="4" type="+-">Hoe vvel vvaarom komt ghy <rhyme label="c" type="m">hier</rhyme></l>
         <l id="s1:l4" met="3" type="-+">Of denkt gy nu <rhyme label="d" type="m">daarom</rhyme>,</l>

@@ -7,13 +7,19 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>psalm</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
-      <tag>proverb</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="psalm">psalm</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Psalm 002 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

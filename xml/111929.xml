@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>narrative song</tag>
-      <tag>lamentation</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>O welig Amsterdam</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

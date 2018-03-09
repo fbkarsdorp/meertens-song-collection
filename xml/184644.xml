@@ -40,8 +40,12 @@
         <l id="s2:l3" met="4" type="-+">Hoe lang sal ick gemartelt <rhyme label="a" type="m" corresp="#s2:l1">zijn</rhyme></l>
         <l id="s2:l4" met="3" type="+-">Door u wreede <rhyme label="b" type="m" corresp="#s2:l2">min</rhyme>?</l>
         <l id="s2:l5" met="2" type="+-">Wanneer <rhyme label="c" type="m">sal</rhyme></l>
-        <l id="s2:l6" met="2" type="+-"><rhyme label="d" type="m">Amaril</rhyme></l>
-        <l id="s2:l7" met="2" type="+-"><rhyme label="c" type="m" corresp="#s2:l5">'tOngeval</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">
+          <rhyme label="d" type="m">Amaril</rhyme>
+        </l>
+        <l id="s2:l7" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s2:l5">'tOngeval</rhyme>
+        </l>
         <l id="s2:l8" met="3" type="+-">Van u wil, te <rhyme label="d" type="m" corresp="#s2:l6">wreedt</rhyme></l>
         <l id="s2:l9" met="4" type="+-">Dempen uyt u Titers <rhyme label="e" type="m">leet</rhyme>?</l>
         <l id="s2:l10" met="3" type="+-">Daer ick u, mijn <rhyme label="f" type="m">hart</rhyme>,</l>
@@ -55,7 +59,9 @@
         <l id="s3:l3" met="4" type="-+">Dringht 'tswacke voe-loos lichaem <rhyme label="a" type="m" corresp="#s3:l1">deur</rhyme></l>
         <l id="s3:l4" met="3" type="+-">Van u fel <rhyme label="b" type="m" corresp="#s3:l2">gewondt</rhyme>,</l>
         <l id="s3:l5" met="2" type="+-">Stracks <rhyme label="c" type="m">geneest</rhyme></l>
-        <l id="s3:l6" met="2" type="+-"><rhyme label="d" type="m">Over-al</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">
+          <rhyme label="d" type="m">Over-al</rhyme>
+        </l>
         <l id="s3:l7" met="2" type="+-">Mijnen <rhyme label="c" type="m" corresp="#s3:l5">geest</rhyme>,</l>
         <l id="s3:l8" met="3" type="+-">Dies ick sal, u <rhyme label="d" type="m" corresp="#s3:l6">deugdt</rhyme></l>
         <l id="s3:l9" met="4" type="+-">Krijten uyt, die my <rhyme label="e" type="m">verheugt</rhyme>;</l>

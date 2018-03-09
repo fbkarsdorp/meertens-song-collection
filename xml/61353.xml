@@ -7,11 +7,15 @@
       <year-end>1840</year-end>
     </date>
     <tags>
-      <tag>craft song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

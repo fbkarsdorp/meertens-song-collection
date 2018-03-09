@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>fairground song</tag>
-      <tag>sailor song</tag>
+      <tag translation="kermesse song">kermislied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Bloemerharten wat een schrik</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

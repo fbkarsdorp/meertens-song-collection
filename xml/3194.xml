@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -57,7 +60,9 @@
         <l id="s3:l5" met="4" type="-+">De Deught sal noyt beteutert <rhyme label="c" type="m" corresp="#s3:l4">staen</rhyme>:</l>
         <l id="s3:l6" met="3" type="-+">Maer 't wereldts laet <rhyme label="b" type="f" corresp="#s3:l3">verleghen</rhyme>:</l>
         <l id="s3:l7" met="1" type="-+">De <rhyme label="d" type="m">Deught</rhyme></l>
-        <l id="s3:l8" met="1" type="-+"><rhyme label="d" type="m" corresp="#s3:l7">Verheught</rhyme></l>
+        <l id="s3:l8" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s3:l7">Verheught</rhyme>
+        </l>
         <l id="s3:l9" met="2" type="+-">Onse <rhyme label="e" type="f">sinnen</rhyme></l>
         <l id="s3:l10" met="2" type="+-">Diep van <rhyme label="e" type="f" corresp="#s3:l9">binnen</rhyme>:</l>
         <l id="s3:l11" met="2" type="+-">Maer de <rhyme label="f" type="f">Wereldt</rhyme></l>

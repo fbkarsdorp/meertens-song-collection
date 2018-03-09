@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -30,7 +33,9 @@
         <l id="s1:l6" met="3" type="-+">Al door den Heer <rhyme label="b" type="f" corresp="#s1:l2">verresen</rhyme>,</l>
         <l id="s1:l7" met="2" type="-+"><rhyme label="c" type="m" corresp="#s1:l4">Ghecelebreert</rhyme>,</l>
         <l id="s1:l8" met="3" type="-+">En zijn <rhyme label="c" type="m" corresp="#s1:l4">ghefestiveert</rhyme>,</l>
-        <l id="s1:l9" met="2" type="-+"><rhyme label="c" type="m" corresp="#s1:l4">Ghetriumpheert</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s1:l4">Ghetriumpheert</rhyme>
+        </l>
         <l id="s1:l10" met="3" type="-+">Heeft Godt seer <rhyme label="a" type="m" corresp="#s1:l1">valiant</rhyme></l>
         <l id="s1:l11" met="3" type="+-">Over de helsche <rhyme label="d" type="f">natie</rhyme></l>
         <l id="s1:l12" met="3" type="-+">Nu sit met groote <rhyme label="d" type="f" corresp="#s1:l11">statie</rhyme></l>

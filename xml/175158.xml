@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>Chamber of rhetoric's song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Belgica loof de heer</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

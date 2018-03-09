@@ -7,10 +7,14 @@
       <year-end>1588</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Era di maggio</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -155,7 +159,9 @@
         <l id="s14:l8" met="2" type="-+">Noch dese <rhyme label="b" type="f" corresp="#s14:l2">Paerden</rhyme>.</l>
       </lg>
       <lg id="s15" type="stanza">
-        <l id="s15:l1" met="2" type="-+"><rhyme label="a" type="f">CATZENELLENBOGHE</rhyme></l>
+        <l id="s15:l1" met="2" type="-+">
+          <rhyme label="a" type="f">CATZENELLENBOGHE</rhyme>
+        </l>
         <l id="s15:l2" met="3" type="-+">De Wapenen seer <rhyme label="b" type="f">Edelick</rhyme></l>
         <l id="s15:l3" met="2" type="-+">Niet om <rhyme label="a" type="f" corresp="#s15:l1">verhooghe</rhyme></l>
         <l id="s15:l4" met="3" type="-+">Die droech het Paert seer <rhyme label="b" type="f" corresp="#s15:l2">zedelick</rhyme>,</l>

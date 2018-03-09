@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>ascension song</tag>
-      <tag>triumph song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Ascension of Our Lord song">hemelvaartslied</tag>
+      <tag translation="triumph song">triomflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Psalm 068 Datheen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

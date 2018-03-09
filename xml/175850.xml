@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>triumph song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="triumph song">triomflied</tag>
     </tags>
     <melody>Grobbendonk</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

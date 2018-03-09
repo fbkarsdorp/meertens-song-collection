@@ -125,7 +125,9 @@
         <l id="s11:l3" met="3" type="-+">Te Ierusalem <rhyme label="b" type="f">binnen</rhyme>,</l>
         <l id="s11:l4" met="4" type="-+">Die tijt comt, jae is nu <rhyme label="a" type="m" corresp="#s11:l1">bereyt</rhyme>,</l>
         <l id="s11:l5" met="4" type="-+">Men sal in gheest en in <rhyme label="a" type="m" corresp="#s11:l1">waerheyt</rhyme></l>
-        <l id="s11:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s11:l3">Beginnen</rhyme></l>
+        <l id="s11:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s11:l3">Beginnen</rhyme>
+        </l>
         <l id="s11:l7" met="3" type="-+">Den Vader aenbidden uyt <rhyme label="b" type="f" corresp="#s11:l3">minnen</rhyme></l>
         <l id="s11:l8" met="2" type="-+">Met hert en <rhyme label="b" type="f" corresp="#s11:l3">sinnen</rhyme>.</l>
       </lg>
@@ -155,7 +157,9 @@
         <l id="s14:l3" met="3" type="-+">Daer hy in lach <rhyme label="b" type="f">bevrijden</rhyme>,</l>
         <l id="s14:l4" met="4" type="-+">Te doen wat den Vader <rhyme label="a" type="m" corresp="#s14:l1">gheboot</rhyme></l>
         <l id="s14:l5" met="4" type="-+">In die rechte spijse <rhyme label="a" type="m" corresp="#s14:l1">minioot</rhyme>,</l>
-        <l id="s14:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s14:l3">Verblijden</rhyme></l>
+        <l id="s14:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s14:l3">Verblijden</rhyme>
+        </l>
         <l id="s14:l7" met="3" type="-+">Had hy ten allen <rhyme label="b" type="f" corresp="#s14:l3">tijden</rhyme></l>
         <l id="s14:l8" met="2" type="-+">Sonder <rhyme label="b" type="f" corresp="#s14:l3">vermijden</rhyme>.</l>
       </lg>
@@ -195,7 +199,9 @@
         <l id="s18:l3" met="3" type="-+">Wy hebben doch <rhyme label="b" type="f">voordachtich</rhyme></l>
         <l id="s18:l4" met="4" type="-+">Sijn woorden selve nu <rhyme label="a" type="m" corresp="#s18:l1">ghehoort</rhyme></l>
         <l id="s18:l5" met="4" type="-+">Sy beleden hem met <rhyme label="a" type="m" corresp="#s18:l1">accoort</rhyme></l>
-        <l id="s18:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s18:l3">Eendrachtich</rhyme></l>
+        <l id="s18:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s18:l3">Eendrachtich</rhyme>
+        </l>
         <l id="s18:l7" met="3" type="-+">s’Weerelts Salichmaker <rhyme label="b" type="f" corresp="#s18:l3">crachtich</rhyme></l>
         <l id="s18:l8" met="2" type="-+">Christum <rhyme label="b" type="f" corresp="#s18:l3">waerachtich</rhyme>.</l>
       </lg>

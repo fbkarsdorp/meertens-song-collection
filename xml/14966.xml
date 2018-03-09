@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>children's song</tag>
-      <tag>spiritual song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

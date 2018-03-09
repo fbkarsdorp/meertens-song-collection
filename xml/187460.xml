@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -64,7 +64,9 @@
         <l id="s6:l2" met="2" type="-+">De sterke <rhyme label="a" type="m" corresp="#s6:l1">wacht</rhyme></l>
         <l id="s6:l3" met="3" type="-+">Der Roomsche <rhyme label="b" type="f">Soudenieren</rhyme>.</l>
         <l id="s6:l4" met="2" type="-+">Zwicht Dood en <rhyme label="c" type="m">Hel</rhyme>! -</l>
-        <l id="s6:l5" met="2" type="-+"><rhyme label="c" type="m" corresp="#s6:l4">Emanuël</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s6:l4">Emanuël</rhyme>
+        </l>
         <l id="s6:l6" met="3" type="-+">Zal straks weêr <rhyme label="b" type="f" corresp="#s6:l3">zegevieren</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">

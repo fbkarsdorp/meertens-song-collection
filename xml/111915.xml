@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
-      <tag>turn song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="">beurtzang</tag>
     </tags>
     <melody>De Koning leve</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

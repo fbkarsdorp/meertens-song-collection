@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Ik kwam voorbij een brouwerij</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>love song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ik kwam op haar slaapkamertje gaan</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -73,7 +77,9 @@
         <l id="s5:l4" met="3" type="-+">Arsire, schijn <rhyme label="b" type="m">bedriegt</rhyme>,</l>
         <l id="s5:l5" met="4" type="+-">’t Valsch in slaap d’ oprechticheyd <rhyme label="b" type="m" corresp="#s5:l4">wiegt</rhyme>,</l>
         <l id="s5:l6" met="2" type="-+">Mijn voorneem <rhyme label="c" type="m">is</rhyme></l>
-        <l id="s5:l7" met="2" type="-+"><rhyme label="c" type="m" corresp="#s5:l6">Bekentenis</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s5:l6">Bekentenis</rhyme>
+        </l>
         <l id="s5:l8" met="3" type="+-">Te doen van eeuwich te <rhyme label="d" type="f">swijgen</rhyme>;</l>
         <l id="s5:l9" met="3" type="-+">Aan ’t valsch geen eynd <rhyme label="c" type="m" corresp="#s5:l6">is</rhyme>.</l>
       </lg>

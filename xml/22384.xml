@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sung catechism</tag>
+      <tag translation="catachetical song">gezongen catechismus</tag>
     </tags>
     <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

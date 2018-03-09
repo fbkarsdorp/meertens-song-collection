@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Als Garint zijn oogjes open deed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="7" type="+-">Dat g'uw handen bey op mijn oogen neder <rhyme label="a" type="m" corresp="#s1:l1">legt</rhyme>,</l>
         <l id="s1:l3" met="3" type="-+">En my geheel <rhyme label="b" type="m">verblind</rhyme>?</l>
         <l id="s1:l4" met="1" type="-+">Mijn <rhyme label="c" type="m">Son</rhyme></l>
-        <l id="s1:l5" met="1" type="-+"><rhyme label="b" type="m" corresp="#s1:l3">Gemint</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s1:l3">Gemint</rhyme>
+        </l>
         <l id="s1:l6" met="3" type="-+">Van dat ik minnen <rhyme label="c" type="m" corresp="#s1:l4">kon</rhyme>,</l>
         <l id="s1:l7" met="3" type="-+">Verblind my niet <rhyme label="d" type="m">geheel</rhyme>;</l>
         <l id="s1:l8" met="1" type="-+">Te <rhyme label="d" type="m" corresp="#s1:l7">veel</rhyme>,</l>

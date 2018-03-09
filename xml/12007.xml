@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -38,7 +41,9 @@
         <l id="s1:l14" met="3" type="+-">Het kan ons <rhyme label="h" type="m">geven</rhyme></l>
         <l id="s1:l15" met="3" type="+-">Overvloedig <rhyme label="g" type="f" corresp="#s1:l13">stoff</rhyme>,</l>
         <l id="s1:l16" met="3" type="+-">Om in ons leven Godt te <rhyme label="h" type="m" corresp="#s1:l14">gheven</rhyme></l>
-        <l id="s1:l17" met="1" type="-+"><rhyme label="i" type="m">loff</rhyme></l>
+        <l id="s1:l17" met="1" type="-+">
+          <rhyme label="i" type="m">loff</rhyme>
+        </l>
         <l id="s1:l18" met="1" type="-+">Met <rhyme label="i" type="m" corresp="#s1:l17">daet</rhyme>,</l>
         <l id="s1:l19" met="2" type="-+">En <rhyme label="j" type="m">praet</rhyme>,</l>
         <l id="s1:l20" met="1" type="-+">En met een <rhyme label="k" type="m">hert</rhyme>,</l>

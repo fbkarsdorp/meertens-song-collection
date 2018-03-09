@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
-      <tag>dialog song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Petite royale</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

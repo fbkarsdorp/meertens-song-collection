@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>protest song</tag>
-      <tag>praise</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="protest song">protestlied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

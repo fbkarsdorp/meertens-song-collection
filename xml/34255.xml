@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Les Feuillantines</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

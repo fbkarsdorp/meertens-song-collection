@@ -32,7 +32,9 @@
         <l id="s2:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s2:l1">doorgrieven</rhyme></l>
         <l id="s2:l3" met="4" type="+-">Myn gebeente en <rhyme label="b" type="m">ingewandt</rhyme>.</l>
         <l id="s2:l4" met="4" type="+-">'k Ben benaaut en zeer <rhyme label="c" type="f">beneepen</rhyme>,</l>
-        <l id="s2:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s2:l4">Aangegreepen</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s2:l4">Aangegreepen</rhyme>
+        </l>
         <l id="s2:l6" met="4" type="+-">Van uw wraak en slaande <rhyme label="b" type="m" corresp="#s2:l3">handt</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -104,7 +106,9 @@
         <l id="s11:l2" met="2" type="+-">Op de <rhyme label="a" type="f" corresp="#s11:l1">straaten</rhyme></l>
         <l id="s11:l3" met="4" type="+-">Staan myn vrienden van myn <rhyme label="b" type="m">huis</rhyme>.</l>
         <l id="s11:l4" met="4" type="+-">Myn bestaanden zyn <rhyme label="c" type="f">verlegen</rhyme>,</l>
-        <l id="s11:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s11:l4">Neêrgezegen</rhyme></l>
+        <l id="s11:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s11:l4">Neêrgezegen</rhyme>
+        </l>
         <l id="s11:l6" met="4" type="+-">Door myn leet en bitter <rhyme label="b" type="m" corresp="#s11:l3">kruis</rhyme>.</l>
       </lg>
       <lg id="s12" type="stanza">

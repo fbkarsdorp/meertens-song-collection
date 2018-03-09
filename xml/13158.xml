@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>stuttering song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="stutter song">stotterlied</tag>
     </tags>
     <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

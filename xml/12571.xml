@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>spiritual song</tag>
-      <tag>beggar song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Allemande amoureus</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

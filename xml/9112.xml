@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
-      <tag>lamentation</tag>
+      <tag translation="religious song">geestelijk lied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Lacrimae</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -74,7 +78,9 @@
         <l id="s4:l7" met="2" type="+-">Niet dat <rhyme label="d" type="f" corresp="#s4:l6">schreyen</rhyme></l>
         <l id="s4:l8" met="5" type="-+">En siet niet dan woestheyd. daar het naar <rhyme label="c" type="m" corresp="#s4:l5">geschal</rhyme></l>
         <l id="s4:l9" met="5" type="-+">Van Goddeloos' in bloed-dorst uyt <rhyme label="e" type="f">gelaten</rhyme></l>
-        <l id="s4:l10" met="1" type="-+"><rhyme label="e" type="f" corresp="#s4:l9">Soldaten</rhyme></l>
+        <l id="s4:l10" met="1" type="-+">
+          <rhyme label="e" type="f" corresp="#s4:l9">Soldaten</rhyme>
+        </l>
         <l id="s4:l11" met="4" type="+-">Steeds juygt in den roov, in quel, als <rhyme label="f" type="m">spel</rhyme>,</l>
         <l id="s4:l12" met="6" type="+-">En met brand // van huys en hof verwoest de <rhyme label="g" type="f">Landen</rhyme>.</l>
       </lg>
@@ -214,7 +220,9 @@
         <l id="s14:l7" met="2" type="+-">Steelt <rhyme label="d" type="f" corresp="#s14:l6">medogen</rhyme>:</l>
         <l id="s14:l8" met="5" type="-+">Maar sie daar die swangre: Die in swarer <rhyme label="c" type="m" corresp="#s14:l5">nood</rhyme>.</l>
         <l id="s14:l9" met="5" type="-+">Al was nog lijd'lijck, maar dat al die <rhyme label="e" type="f">drucken</rhyme></l>
-        <l id="s14:l10" met="1" type="-+"><rhyme label="e" type="f" corresp="#s14:l9">Gelucken</rhyme></l>
+        <l id="s14:l10" met="1" type="-+">
+          <rhyme label="e" type="f" corresp="#s14:l9">Gelucken</rhyme>
+        </l>
         <l id="s14:l11" met="4" type="+-">Op Zyon; dat costlijck Hemels <rhyme label="f" type="m">saat</rhyme></l>
         <l id="s14:l12" met="6" type="+-">Doet ons hygen maar te cort; dus laat ons <rhyme label="g" type="f">swijgen</rhyme>.</l>
       </lg>

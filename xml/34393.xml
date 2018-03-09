@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>love complaint</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Al wat men doet</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

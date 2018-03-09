@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>wedding song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Fortuin gij doet mijn zinnen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>narrative song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Daar kwam er een meisje uit Scheveningen aan</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

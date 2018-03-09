@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>lamentation</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Ballet Bronkhorst</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -68,7 +72,9 @@
         <l id="s3:l13" met="5" type="-+">Aan u, aan u, die 'k allerwaardigst <rhyme label="f" type="m" corresp="#s3:l12">acht</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
-        <l id="s4:l1" met="2" type="+-"><rhyme label="a" type="f">Celestyne</rhyme></l>
+        <l id="s4:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Celestyne</rhyme>
+        </l>
         <l id="s4:l2" met="3" type="-+">Mijn uytverkooren <rhyme label="b" type="f">Engel</rhyme>,</l>
         <l id="s4:l3" met="3" type="+-">Liefste sieltje, <rhyme label="c" type="m">merk</rhyme></l>
         <l id="s4:l4" met="2" type="+-">Hoe ik met <rhyme label="a" type="f" corresp="#s4:l1">pijne</rhyme></l>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>answersong</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
     <melody>Karel koning van Engeland</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -72,7 +76,9 @@
         <l id="s2:l22" met="4" type="+-">Bouen alle vrouwen int shemels <rhyme label="g" type="m" corresp="#s2:l17">pleyn</rhyme></l>
       </lg>
       <lg id="s3" type="stanza">
-        <l id="s3:l1" met="2" type="-+"><rhyme label="a" type="m">Ezechiel</rhyme></l>
+        <l id="s3:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Ezechiel</rhyme>
+        </l>
         <l id="s3:l2" met="3" type="-+">Een poorte sach / si <rhyme label="b" type="m">sloot</rhyme></l>
         <l id="s3:l3" met="2" type="-+">Die sijt ghi <rhyme label="a" type="m" corresp="#s3:l1">wel</rhyme></l>
         <l id="s3:l4" met="3" type="-+">Maria schoon roose <rhyme label="b" type="m" corresp="#s3:l2">root</rhyme></l>

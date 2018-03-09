@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +32,9 @@
         <l id="s1:l5" met="2" type="+-">By de <rhyme label="c" type="f">beesten</rhyme></l>
         <l id="s1:l6" met="2" type="+-">Siet den <rhyme label="c" type="f" corresp="#s1:l5">meesten</rhyme></l>
         <l id="s1:l7" met="4" type="+-">Meester van de werelt <rhyme label="d" type="m">al</rhyme></l>
-        <l id="s1:l8" met="2" type="+-"><rhyme label="e" type="f">Neergeschoven</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">
+          <rhyme label="e" type="f">Neergeschoven</rhyme>
+        </l>
         <l id="s1:l9" met="2" type="+-">Uyt sijn <rhyme label="e" type="f" corresp="#s1:l8">hoven</rhyme>,</l>
         <l id="s1:l10" met="4" type="+-">En geboren in de <rhyme label="d" type="m" corresp="#s1:l7">stal</rhyme>.</l>
       </lg>

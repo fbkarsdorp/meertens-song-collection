@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>table song</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
-      <tag>thanks song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="dining song">tafellied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

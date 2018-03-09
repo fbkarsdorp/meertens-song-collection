@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Qu'en dira-t-on</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

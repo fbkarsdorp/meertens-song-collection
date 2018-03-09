@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>christmas song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Ad festum laetitiae</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -25,7 +28,9 @@
         <l id="s1:l1" met="4" type="+-">Ad festum <rhyme label="a" type="m">letitie</rhyme></l>
         <l id="s1:l2" met="4" type="+-">nos inuitat <rhyme label="a" type="m" corresp="#s1:l1">hodie</rhyme></l>
         <l id="s1:l3" met="4" type="+-">spes et amor <rhyme label="a" type="m" corresp="#s1:l1">patrie</rhyme></l>
-        <l id="s1:l4" met="1" type="-+"><rhyme label="b" type="f">celestis</rhyme></l>
+        <l id="s1:l4" met="1" type="-+">
+          <rhyme label="b" type="f">celestis</rhyme>
+        </l>
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="+-">Natus est <rhyme label="a" type="m">emanuel</rhyme></l>

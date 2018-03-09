@@ -7,11 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>Advent song</tag>
-      <tag>christmas song</tag>
-      <tag>devout song</tag>
+      <tag translation="advent song">adventslied</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

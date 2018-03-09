@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>vowel song</tag>
-      <tag>drinking song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="vowel song">klinkerlied</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>A a a valete studia</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love complaint</tag>
-      <tag>May song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="May song">meilied</tag>
     </tags>
     <melody>Hélas ma Phyllis je m'en vais mourir</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

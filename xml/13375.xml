@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sailor song</tag>
-      <tag>narrative song</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Als Phoebus vertoog</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

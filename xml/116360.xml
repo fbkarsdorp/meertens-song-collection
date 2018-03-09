@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>welcoming song</tag>
-      <tag>spiritual song</tag>
-      <tag>table song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="welcome song">welkomstlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="dining song">tafellied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Gelukkig wiens gemoed</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

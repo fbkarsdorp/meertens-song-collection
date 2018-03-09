@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>holy song</tag>
+      <tag translation="saint song">heiligenlied</tag>
     </tags>
     <melody>Enfant prodigue</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -95,7 +98,9 @@
       </lg>
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="4" type="+-">'k Vrees dat ick we'er tegens <rhyme label="a" type="f">reden</rhyme></l>
-        <l id="s7:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s7:l1">Overtreden</rhyme></l>
+        <l id="s7:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s7:l1">Overtreden</rhyme>
+        </l>
         <l id="s7:l3" met="4" type="+-">Sal, des Heere soete <rhyme label="b" type="m">wet</rhyme>.</l>
         <l id="s7:l4" met="4" type="+-">Of dit wederom <rhyme label="c" type="f">gebeurden</rhyme></l>
         <l id="s7:l5" met="2" type="+-">Dat ick <rhyme label="c" type="f" corresp="#s7:l4">scheurden</rhyme></l>

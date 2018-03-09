@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>love complaint</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Mijn liefste schoon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -45,7 +49,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="2" type="-+">Als <rhyme label="a" type="m">Piramus</rhyme></l>
         <l id="s3:l2" met="2" type="-+">Ben ick <rhyme label="b" type="f">beuonden</rhyme></l>
-        <l id="s3:l3" met="2" type="-+"><rhyme label="a" type="m" corresp="#s3:l1">Malycyeus</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">
+          <rhyme label="a" type="m" corresp="#s3:l1">Malycyeus</rhyme>
+        </l>
         <l id="s3:l4" met="2" type="-+">Hoort dit <rhyme label="b" type="f" corresp="#s3:l2">orconden</rhyme></l>
         <l id="s3:l5" met="2" type="-+">Hoort desen <rhyme label="c" type="m">sanck</rhyme></l>
         <l id="s3:l6" met="2" type="-+">Met groot <rhyme label="c" type="m" corresp="#s3:l5">verlanck</rhyme></l>

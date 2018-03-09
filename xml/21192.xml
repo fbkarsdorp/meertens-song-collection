@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>praise</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

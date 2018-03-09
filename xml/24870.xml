@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>virelai ballad</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="virelai-ballad">virelai-ballade</tag>
     </tags>
     <melody>Heer God ik klaag in aller tijd</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>love song</tag>
-      <tag>evening song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="evening song">avondlied</tag>
     </tags>
     <melody>Verdwaalde koningin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

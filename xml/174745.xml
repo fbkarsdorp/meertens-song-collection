@@ -7,10 +7,14 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>children's song</tag>
-      <tag>dialog song</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Duifje met uw blanke veren</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

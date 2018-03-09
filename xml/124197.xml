@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>O Holland schoon gij leeft in vrede</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

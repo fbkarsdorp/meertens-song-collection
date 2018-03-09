@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>prayer song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>La Royale</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

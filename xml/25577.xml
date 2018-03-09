@@ -7,12 +7,17 @@
       <year-end>1593</year-end>
     </date>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Een Venus' diertje heb ik uitverkoren</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

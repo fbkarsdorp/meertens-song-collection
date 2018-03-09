@@ -15,24 +15,31 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>secular song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="-+">Hoe kan de <rhyme label="a" type="m">Wyn</rhyme>,</l>
         <l id="s1:l2" met="2" type="-+">'t Gebruyk der <rhyme label="b" type="f">sinnen</rhyme></l>
-        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Verwinnen</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Verwinnen</rhyme>
+        </l>
         <l id="s1:l4" met="3" type="-+">En roeren ons <rhyme label="a" type="m" corresp="#s1:l1">bryn</rhyme>,</l>
         <l id="s1:l5" met="2" type="-+">Ja, gelijk <rhyme label="c" type="m">sot</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Stellen ten <rhyme label="c" type="m" corresp="#s1:l5">spot</rhyme></l>
         <l id="s1:l7" met="4" type="-+">Die al te veel haar kragt <rhyme label="b" type="f" corresp="#s1:l2">beminnen</rhyme>!</l>
         <l id="s1:l8" met="2" type="-+">Hoe kan de <rhyme label="a" type="m" corresp="#s1:l1">wyn</rhyme></l>
         <l id="s1:l9" met="2" type="-+">'t Gebruyk der <rhyme label="b" type="f" corresp="#s1:l2">sinnen</rhyme></l>
-        <l id="s1:l10" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l2">Verwinnen</rhyme></l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Verwinnen</rhyme>
+        </l>
         <l id="s1:l11" met="3" type="+-">En roeren ons <rhyme label="a" type="m" corresp="#s1:l1">bryn</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
@@ -64,14 +71,18 @@
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="2" type="-+">De <rhyme label="a" type="m">overdaad</rhyme></l>
         <l id="s4:l2" met="2" type="-+">Doet maat en <rhyme label="b" type="f">reden</rhyme></l>
-        <l id="s4:l3" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l2">Vertreden</rhyme></l>
+        <l id="s4:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s4:l2">Vertreden</rhyme>
+        </l>
         <l id="s4:l4" met="3" type="-+">En baard een schandig <rhyme label="a" type="m" corresp="#s4:l1">kwaad</rhyme>;</l>
         <l id="s4:l5" met="2" type="-+">Krenkt het <rhyme label="c" type="m">verstand</rhyme></l>
         <l id="s4:l6" met="2" type="-+">Dat sy <rhyme label="c" type="m" corresp="#s4:l5">vermand</rhyme></l>
         <l id="s4:l7" met="4" type="-+">En brengd veel kwalen aan de <rhyme label="b" type="f" corresp="#s4:l2">leden</rhyme>.</l>
         <l id="s4:l8" met="2" type="-+">De <rhyme label="a" type="m" corresp="#s4:l1">overdaad</rhyme></l>
         <l id="s4:l9" met="2" type="-+">Doet maat en <rhyme label="b" type="f" corresp="#s4:l2">reden</rhyme></l>
-        <l id="s4:l10" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l2">Vertreden</rhyme></l>
+        <l id="s4:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s4:l2">Vertreden</rhyme>
+        </l>
         <l id="s4:l11" met="3" type="+-">En baard een schandig <rhyme label="a" type="m" corresp="#s4:l1">kwaad</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

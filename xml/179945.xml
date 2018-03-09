@@ -47,7 +47,9 @@
         <l id="s2:l9" met="2" type="+-">Uit <rhyme label="f" type="f">Silentie</rhyme></l>
         <l id="s2:l10" met="2" type="+-">En <rhyme label="f" type="f" corresp="#s2:l9">Patientie</rhyme>;</l>
         <l id="s2:l11" met="3" type="+-">Voor hem moeten <rhyme label="b" type="f" corresp="#s2:l3">zwichten</rhyme>,</l>
-        <l id="s2:l12" met="2" type="+-"><rhyme label="g" type="f">Proffessoren</rhyme></l>
+        <l id="s2:l12" met="2" type="+-">
+          <rhyme label="g" type="f">Proffessoren</rhyme>
+        </l>
         <l id="s2:l13" met="2" type="+-">En <rhyme label="g" type="f" corresp="#s2:l12">Doktoren</rhyme>;</l>
         <l id="s2:l14" met="2" type="+-">Loop gauw <rhyme label="d" type="m" corresp="#s2:l6">heen</rhyme>.</l>
       </lg>

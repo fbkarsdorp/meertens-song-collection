@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +32,9 @@
         <l id="s1:l5" met="3" type="-+">Doet u albasten <rhyme label="b" type="m" corresp="#s1:l2">beldt</rhyme>,</l>
         <l id="s1:l6" met="4" type="-+">Com siet hier eens <rhyme label="c" type="m">Pymaglion</rhyme>?</l>
         <l id="s1:l7" met="5" type="-+">Haer ooghen die op onse herten <rhyme label="d" type="f">dalen</rhyme></l>
-        <l id="s1:l8" met="1" type="+-"><rhyme label="d" type="f" corresp="#s1:l7">stralen</rhyme></l>
+        <l id="s1:l8" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s1:l7">stralen</rhyme>
+        </l>
         <l id="s1:l9" met="2" type="+-">Als een <rhyme label="c" type="m" corresp="#s1:l6">Son</rhyme>:</l>
         <l id="s1:l10" met="2" type="-+">Soo dat ick <rhyme label="e" type="m">schier</rhyme></l>
         <l id="s1:l11" met="3" type="+-">Versengh in't <rhyme label="e" type="m" corresp="#s1:l10">minne-vier</rhyme>.</l>
@@ -42,7 +47,9 @@
         <l id="s2:l5" met="3" type="-+">Wins schoonheydt alle <rhyme label="b" type="m" corresp="#s2:l2">reys</rhyme></l>
         <l id="s2:l6" met="4" type="-+">Van my soo seer aenbeden <rhyme label="c" type="m">wert</rhyme>:</l>
         <l id="s2:l7" met="5" type="-+">Ey toont weer-min aen die u soo <rhyme label="d" type="f">beminden</rhyme>?</l>
-        <l id="s2:l8" met="1" type="+-"><rhyme label="d" type="f" corresp="#s2:l7">Inden</rhyme></l>
+        <l id="s2:l8" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s2:l7">Inden</rhyme>
+        </l>
         <l id="s2:l9" met="2" type="+-">Grondt sijns <rhyme label="c" type="m" corresp="#s2:l6">hert</rhyme>:</l>
         <l id="s2:l10" met="2" type="-+">Soo salt <rhyme label="e" type="m">ghesucht</rhyme></l>
         <l id="s2:l11" met="3" type="+-">Verkeeren in <rhyme label="e" type="m" corresp="#s2:l10">ghenucht</rhyme>.</l>

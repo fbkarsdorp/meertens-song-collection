@@ -26,7 +26,9 @@
         <l id="s1:l4" met="2" type="+-">Door de <rhyme label="d" type="m">lucht</rhyme>:</l>
         <l id="s1:l5" met="2" type="+-">En mijn <rhyme label="a" type="f" corresp="#s1:l1">klachten</rhyme></l>
         <l id="s1:l6" met="2" type="-+">Over 't <rhyme label="b" type="m" corresp="#s1:l2">Aardrijk</rhyme>,</l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s1:l3">Ontbinden</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s1:l3">Ontbinden</rhyme>
+        </l>
         <l id="s1:l8" met="2" type="-+">Een naar <rhyme label="d" type="m" corresp="#s1:l4">gesucht</rhyme>.</l>
         <l id="s1:l9" met="2" type="+-">Mijn <rhyme label="e" type="m">gesteen</rhyme>,</l>
         <l id="s1:l10" met="3" type="-+">Mijn bitterlijk <rhyme label="e" type="m" corresp="#s1:l9">geween</rhyme>,</l>
@@ -98,7 +100,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="2" type="+-">Dies mijn Lief <rhyme label="a" type="f">je</rhyme></l>
         <l id="s5:l2" met="2" type="-+">Wilt doch (uyt <rhyme label="b" type="m">min</rhyme>)</l>
-        <l id="s5:l3" met="1" type="-+"><rhyme label="c" type="f">Gedenken</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">
+          <rhyme label="c" type="f">Gedenken</rhyme>
+        </l>
         <l id="s5:l4" met="2" type="+-">An u <rhyme label="d" type="m">slaaf</rhyme>:</l>
         <l id="s5:l5" met="2" type="+-">Hartens-Dief <rhyme label="a" type="f" corresp="#s5:l1">je</rhyme>,</l>
         <l id="s5:l6" met="2" type="-+">En (na mijn <rhyme label="b" type="m" corresp="#s5:l2">sin</rhyme>)</l>
@@ -129,7 +133,9 @@
         <l id="s6:l12" met="2" type="-+">(In het <rhyme label="f" type="f" corresp="#s6:l11">verschonen</rhyme></l>
         <l id="s6:l13" met="2" type="-+">Dit te <rhyme label="f" type="f" corresp="#s6:l11">belonen</rhyme>:</l>
         <l id="s6:l14" met="3" type="-+">Maar gy Moordresse <rhyme label="g" type="m">snoot</rhyme>,</l>
-        <l id="s6:l15" met="1" type="-+"><rhyme label="g" type="m" corresp="#s6:l14">Vergroot</rhyme></l>
+        <l id="s6:l15" met="1" type="-+">
+          <rhyme label="g" type="m" corresp="#s6:l14">Vergroot</rhyme>
+        </l>
         <l id="s6:l16" met="1" type="-+">Dees' <rhyme label="g" type="m" corresp="#s6:l14">noot</rhyme>,</l>
         <l id="s6:l17" met="3" type="-+">Tot in de wreetste <rhyme label="g" type="m" corresp="#s6:l14">Doot</rhyme>.</l>
       </lg>

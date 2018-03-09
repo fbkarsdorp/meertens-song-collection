@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
-      <tag>devout song</tag>
-      <tag>arcostic</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="devotional song">devoot lied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

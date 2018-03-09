@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>proverb</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Broertje maat wat zegt</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

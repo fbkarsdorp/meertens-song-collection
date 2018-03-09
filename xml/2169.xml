@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Courante simple</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -68,7 +72,9 @@
         <l id="s8:l1" met="4" type="-+">Vaar wel mijn Engel, vaar dan <rhyme label="a" type="m">wel</rhyme>,</l>
         <l id="s8:l2" met="5" type="-+">In wiens gedachten ik mijn Liefde <rhyme label="a" type="m" corresp="#s8:l1">stel</rhyme>.</l>
         <l id="s8:l3" met="5" type="-+">Denk Celestyne met een <rhyme label="b" type="m">minne-brand</rhyme></l>
-        <l id="s8:l4" met="5" type="-+"><rhyme label="b" type="m" corresp="#s8:l3">Aan</rhyme></l>
+        <l id="s8:l4" met="5" type="-+">
+          <rhyme label="b" type="m" corresp="#s8:l3">Aan</rhyme>
+        </l>
       </lg>
     </lg>
   </text>

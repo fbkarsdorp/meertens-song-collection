@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
-      <tag>dialog song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>O Heer Davids zoon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

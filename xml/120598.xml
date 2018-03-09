@@ -15,13 +15,19 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>orange song</tag>
-      <tag>triumph song</tag>
-      <tag>thanks song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="orangist song">oranjelied</tag>
+      <tag translation="triumph song">triomflied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>O schoonste aller vrouwen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Easter song</tag>
-      <tag>mystical song</tag>
+      <tag translation="Easter song">paaslied</tag>
+      <tag translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Het zouden drie gespeeltjes goed</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

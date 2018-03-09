@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>lamentation</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

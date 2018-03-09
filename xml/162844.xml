@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -44,7 +47,9 @@
         <l id="s2:l4" met="3" type="+-">Mijne smerten <rhyme label="b" type="m" corresp="#s2:l2">siet</rhyme>,</l>
         <l id="s2:l5" met="2" type="+-">Ik <rhyme label="c" type="m">vertraag</rhyme></l>
         <l id="s2:l6" met="2" type="+-">Nog <rhyme label="c" type="m" corresp="#s2:l5">verstaag</rhyme></l>
-        <l id="s2:l7" met="2" type="+-"><rhyme label="d" type="m">Nimmermeer</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">
+          <rhyme label="d" type="m">Nimmermeer</rhyme>
+        </l>
         <l id="s2:l8" met="2" type="+-">Maar ik <rhyme label="d" type="m" corresp="#s2:l7">eer</rhyme></l>
         <l id="s2:l9" met="1" type="-+">Uw <rhyme label="e" type="m">min</rhyme></l>
         <l id="s2:l10" met="4" type="+-">En soek daar mijn vernoegen <rhyme label="e" type="m" corresp="#s2:l9">in</rhyme>,</l>

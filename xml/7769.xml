@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>psalm</tag>
-      <tag>christmas song</tag>
+      <tag translation="psalm">psalm</tag>
+      <tag translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Psalm 118 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

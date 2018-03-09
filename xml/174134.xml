@@ -7,10 +7,14 @@
       <year-end>1789</year-end>
     </date>
     <tags>
-      <tag>dialog song</tag>
-      <tag>political song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="political song">politiek lied</tag>
     </tags>
     <melody>Wie roept mij hier in het groen der bomen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

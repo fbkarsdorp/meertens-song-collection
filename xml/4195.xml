@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -150,7 +150,9 @@
       <lg id="s9" type="stanza">
         <l id="s9:l1" met="2" type="-+">Bedenkt dit <rhyme label="a" type="m">recht</rhyme></l>
         <l id="s9:l2" met="2" type="-+">ô! menschen, <rhyme label="a" type="m" corresp="#s9:l1">slecht</rhyme>,</l>
-        <l id="s9:l3" met="2" type="+-"><rhyme label="a" type="m" corresp="#s9:l1">Overlecht</rhyme></l>
+        <l id="s9:l3" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s9:l1">Overlecht</rhyme>
+        </l>
         <l id="s9:l4" met="2" type="-+">Het eens, by <rhyme label="b" type="m">u</rhyme>,</l>
         <l id="s9:l5" met="2" type="-+">(Met reden) t' <rhyme label="c" type="f">samen</rhyme>:</l>
         <l id="s9:l6" met="2" type="-+">'t Gediert <rhyme label="d" type="m">beneên</rhyme>,</l>

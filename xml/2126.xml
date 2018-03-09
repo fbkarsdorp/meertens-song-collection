@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Echo wil ik tergen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -51,7 +54,9 @@
         <l id="s3:l3" met="3" type="+-">Van den armen <rhyme label="b" type="m">stal</rhyme></l>
         <l id="s3:l4" met="3" type="+-">Sucht in 't <rhyme label="b" type="m" corresp="#s3:l3">tranen-dal</rhyme>,</l>
         <l id="s3:l5" met="2" type="+-">Syn <rhyme label="c" type="m">tranen</rhyme></l>
-        <l id="s3:l6" met="2" type="+-"><rhyme label="c" type="m" corresp="#s3:l5">Vermanen</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s3:l5">Vermanen</rhyme>
+        </l>
         <l id="s3:l7" met="3" type="+-">Ons om te <rhyme label="d" type="f">beschreyen</rhyme></l>
         <l id="s3:l8" met="3" type="+-">Al ons <rhyme label="e" type="m">ydelheydt</rhyme>,</l>
         <l id="s3:l9" met="3" type="+-">Die den Heer doet <rhyme label="d" type="f" corresp="#s3:l7">leyen</rhyme></l>

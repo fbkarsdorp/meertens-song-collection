@@ -7,12 +7,17 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>mystical song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>Maria song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="Marian song">Marialied</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -22,7 +27,9 @@
         <l id="s1:l3" met="3" type="-+">myn hertken <rhyme label="b" type="f">onbedwongen</rhyme></l>
         <l id="s1:l4" met="4" type="-+">dat doet v troestelic <rhyme label="a" type="m" corresp="#s1:l1">onderstant</rhyme></l>
         <l id="s1:l5" met="4" type="-+">wat lof wort v int hemelsche <rhyme label="a" type="m" corresp="#s1:l1">lant</rhyme></l>
-        <l id="s1:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l3">gesongen</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l3">gesongen</rhyme>
+        </l>
         <l id="s1:l7" met="3" type="-+">al mitter engelscher <rhyme label="b" type="f" corresp="#s1:l3">tongen</rhyme></l>
       </lg>
       <lg id="s2" type="stanza">
@@ -31,7 +38,9 @@
         <l id="s2:l3" met="3" type="-+">stady ons nv in <rhyme label="b" type="f">staden</rhyme></l>
         <l id="s2:l4" met="4" type="-+">gy syt den sunderen int <rhyme label="a" type="m" corresp="#s2:l1">gemeyn</rhyme></l>
         <l id="s2:l5" met="4" type="-+">ende een vol vat dat der is <rhyme label="a" type="m" corresp="#s2:l1">sarteyn</rhyme></l>
-        <l id="s2:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">geladen</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s2:l3">geladen</rhyme>
+        </l>
         <l id="s2:l7" met="3" type="-+">mit godtelicker <rhyme label="b" type="f" corresp="#s2:l3">genaden</rhyme></l>
       </lg>
       <lg id="s3" type="stanza">
@@ -40,7 +49,9 @@
         <l id="s3:l3" met="3" type="-+">ende daer toe <rhyme label="b" type="f">wtuercaren</rhyme></l>
         <l id="s3:l4" met="4" type="-+">die jerste sunde heeft hi <rhyme label="a" type="m" corresp="#s3:l1">beclaget</rhyme></l>
         <l id="s3:l5" met="4" type="-+">ende waert van v jae <rhyme label="a" type="m" corresp="#s3:l1">onuersaget</rhyme></l>
-        <l id="s3:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">gebaren</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l3">gebaren</rhyme>
+        </l>
         <l id="s3:l7" met="3" type="-+">hi ontsloet datter was <rhyme label="b" type="f" corresp="#s3:l3">verlaren</rhyme></l>
       </lg>
       <lg id="s4" type="stanza">
@@ -67,7 +78,9 @@
         <l id="s6:l3" met="3" type="-+">daer om lecht hi ons <rhyme label="b" type="f">lagen</rhyme></l>
         <l id="s6:l4" met="4" type="-+">hi smyt hi cloppet hi maket <rhyme label="a" type="m" corresp="#s6:l1">rebel</rhyme></l>
         <l id="s6:l5" met="4" type="-+">op dat hi ons mach in die <rhyme label="a" type="m" corresp="#s6:l1">helle</rhyme></l>
-        <l id="s6:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s6:l3">beknaghen</rhyme></l>
+        <l id="s6:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s6:l3">beknaghen</rhyme>
+        </l>
         <l id="s6:l7" met="3" type="-+">ist vremde dat wy <rhyme label="b" type="f" corresp="#s6:l3">versaghen</rhyme></l>
       </lg>
       <lg id="s7" type="stanza">
@@ -103,7 +116,9 @@
         <l id="s10:l3" met="3" type="-+">hi is daer by <rhyme label="b" type="f">verheuen</rhyme></l>
         <l id="s10:l4" met="4" type="-+">Soe moegdi mit hem sonder <rhyme label="a" type="m" corresp="#s10:l1">vaen</rhyme></l>
         <l id="s10:l5" met="4" type="-+">dat blyde woert van god <rhyme label="a" type="m" corresp="#s10:l1">ontfaen</rhyme></l>
-        <l id="s10:l6" met="1" type="-+"><rhyme label="b" type="f" corresp="#s10:l3">bescreuen</rhyme></l>
+        <l id="s10:l6" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s10:l3">bescreuen</rhyme>
+        </l>
         <l id="s10:l7" met="3" type="-+">comt hier int ewige <rhyme label="b" type="f" corresp="#s10:l3">leuen</rhyme></l>
       </lg>
     </lg>

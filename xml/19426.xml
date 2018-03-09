@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>moralistic song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>Egypte land</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

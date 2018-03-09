@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>martyr's song</tag>
-      <tag>lamentation</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Ich dank dir lieber Herr</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

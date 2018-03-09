@@ -7,17 +7,23 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>christmas song</tag>
-      <tag>narrative song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Alleen mijn troost mijn toeverlaat</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="-+">Alder werelt <rhyme label="a" type="m">heylant</rhyme>.</l>
-        <l id="s1:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">
+          <rhyme label="b" type="m">Kyrieleison</rhyme>
+        </l>
         <l id="s1:l3" met="3" type="-+">heeft ons sinen bode <rhyme label="a" type="m" corresp="#s1:l1">gesant</rhyme>.</l>
         <l id="s1:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme>.</l>
         <l id="s1:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
@@ -26,14 +32,18 @@
         <l id="s2:l1" met="3" type="-+">Die bode hi was een <rhyme label="a" type="m">yngel</rhyme>.</l>
         <l id="s2:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s2:l3" met="3" type="-+">Geheeten was hi <rhyme label="a" type="m" corresp="#s2:l1">gabriel</rhyme>.</l>
-        <l id="s2:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s2:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="3" type="-+">Hi quam tonser lieuer <rhyme label="a" type="m">vrouwen</rhyme>.</l>
         <l id="s3:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s3:l3" met="3" type="-+">Men machse gerne <rhyme label="a" type="m" corresp="#s3:l1">aenscouwen</rhyme>.</l>
-        <l id="s3:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s3:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -47,7 +57,9 @@
         <l id="s5:l1" met="3" type="-+">Die maget haer seere <rhyme label="a" type="m">ontsach</rhyme>.</l>
         <l id="s5:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s5:l3" met="3" type="-+">Doen si den ingel bi haer <rhyme label="a" type="m" corresp="#s5:l1">sach</rhyme>.</l>
-        <l id="s5:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s5:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">
@@ -61,7 +73,9 @@
         <l id="s7:l1" met="3" type="-+">Dies nam si doen groot wonder <rhyme label="a" type="m">an</rhyme>.</l>
         <l id="s7:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s7:l3" met="3" type="-+">Want sine kinde genen <rhyme label="a" type="m" corresp="#s7:l1">man</rhyme>.</l>
-        <l id="s7:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s7:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">
@@ -87,16 +101,22 @@
       </lg>
       <lg id="s11" type="stanza">
         <l id="s11:l1" met="3" type="-+">Na dine woerden moet my <rhyme label="a" type="m">gescien</rhyme>.</l>
-        <l id="s11:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme></l>
+        <l id="s11:l2" met="2" type="-+">
+          <rhyme label="b" type="m">Kyrieleison</rhyme>
+        </l>
         <l id="s11:l3" met="3" type="-+">Heuet god ane my <rhyme label="a" type="m" corresp="#s11:l1">versien</rhyme>.</l>
-        <l id="s11:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s11:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s11:l5" met="3" type="-+">God gruete v <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s12" type="stanza">
         <l id="s12:l1" met="3" type="-+">Gods deerne willic gerne <rhyme label="a" type="m">sijn</rhyme>.</l>
         <l id="s12:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s12:l3" met="3" type="-+">Gescie my na den woerden <rhyme label="a" type="m" corresp="#s12:l1">dijn</rhyme>.</l>
-        <l id="s12:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s12:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s12:l5" met="3" type="-+">Nv bidt vor ons <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s13" type="stanza">
@@ -166,7 +186,9 @@
         <l id="s22:l1" met="3" type="-+">Si soechden met haren <rhyme label="a" type="m">borsten</rhyme>.</l>
         <l id="s22:l2" met="2" type="-+"><rhyme label="b" type="m">Kyrieleison</rhyme>.</l>
         <l id="s22:l3" met="3" type="-+">God alder weerelt <rhyme label="a" type="m" corresp="#s22:l1">voerste</rhyme>.</l>
-        <l id="s22:l4" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme></l>
+        <l id="s22:l4" met="2" type="-+">
+          <rhyme label="c" type="m">Alleluia</rhyme>
+        </l>
         <l id="s22:l5" met="3" type="-+">Geloeft sidi <rhyme label="d" type="m">maria</rhyme>.</l>
       </lg>
       <lg id="s23" type="stanza">

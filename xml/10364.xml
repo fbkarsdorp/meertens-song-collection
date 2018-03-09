@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>stuttering song</tag>
-      <tag>lamentation</tag>
+      <tag translation="stutter song">stotterlied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

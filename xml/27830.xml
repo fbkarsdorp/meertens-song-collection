@@ -7,11 +7,16 @@
       <year-end>1581</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Psalm 011 Haecht</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="groups">groepen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

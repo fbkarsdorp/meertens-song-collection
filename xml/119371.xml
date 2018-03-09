@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Neeltje heeft met lobberigs Wijntje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

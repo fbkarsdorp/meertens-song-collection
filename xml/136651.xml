@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sailor song</tag>
-      <tag>admonishing song</tag>
-      <tag>secular song</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Een scheepje in de haven landt</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

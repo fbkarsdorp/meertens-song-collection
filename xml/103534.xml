@@ -48,7 +48,9 @@
         <l id="s3:l2" met="5" type="-+">En datmijn lief, daar niet en was te <rhyme label="a" type="m" corresp="#s3:l1">woon</rhyme>,</l>
         <l id="s3:l3" met="5" type="-+">K'enagten t'niet, alt' gene zy my <rhyme label="a" type="m" corresp="#s3:l1">boon</rhyme>:</l>
         <l id="s3:l4" met="3" type="-+">K'sou hat heersen <rhyme label="b" type="f">hemel</rhyme></l>
-        <l id="s3:l5" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l4">Gewemel</rhyme></l>
+        <l id="s3:l5" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s3:l4">Gewemel</rhyme>
+        </l>
         <l id="s3:l6" met="2" type="-+"><rhyme label="c" type="f">Ontvlieden</rhyme>:</l>
         <l id="s3:l7" met="3" type="+-">En my buygen int <rhyme label="d" type="m">verdriet</rhyme>,</l>
         <l id="s3:l8" met="2" type="-+">Want al mijn <rhyme label="c" type="f" corresp="#s3:l6">lusten</rhyme>,</l>

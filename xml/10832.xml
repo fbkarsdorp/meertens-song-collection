@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>thanks song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="gratitude song">danklied</tag>
     </tags>
     <melody>Vanwaar komt ons de koele wijn</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

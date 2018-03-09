@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>dialect song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
     <melody>Ik heb de groene straten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

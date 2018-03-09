@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>answersong</tag>
-      <tag>shepherd's song</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -35,7 +39,9 @@
         <l id="s2:l2" met="2" type="+-">Dien ghy <rhyme label="a" type="m" corresp="#s2:l1">dient</rhyme>,</l>
         <l id="s2:l3" met="4" type="+-">En lieft soo seer boven <rhyme label="b" type="f">maten</rhyme>,</l>
         <l id="s2:l4" met="4" type="+-">Menet ghy dat ick u <rhyme label="c" type="m">soud</rhyme></l>
-        <l id="s2:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s2:l4">Onghetroud</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s2:l4">Onghetroud</rhyme>
+        </l>
         <l id="s2:l6" met="4" type="+-">Altijt conen blyven <rhyme label="b" type="f" corresp="#s2:l3">laten</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">

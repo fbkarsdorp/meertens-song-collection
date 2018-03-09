@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
-      <tag>devout song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -91,7 +95,9 @@
         <l id="s9:l2" met="4" type="-+">Gelijck in vleesch, bloedt ende <rhyme label="a" type="m" corresp="#s9:l1">pijn</rhyme>:</l>
         <l id="s9:l3" met="3" type="-+">Daer by oock Godes <rhyme label="b" type="f">Zoone</rhyme></l>
         <l id="s9:l4" met="2" type="-+">Zijn <rhyme label="c" type="m">ned'righeydt</rhyme>,</l>
-        <l id="s9:l5" met="2" type="-+"><rhyme label="c" type="m" corresp="#s9:l4">Gehoorsaemheydt</rhyme></l>
+        <l id="s9:l5" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s9:l4">Gehoorsaemheydt</rhyme>
+        </l>
         <l id="s9:l6" met="3" type="-+">Wilde hier door <rhyme label="b" type="f" corresp="#s9:l3">betoone</rhyme>.</l>
       </lg>
       <lg id="s10" type="stanza">

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -105,7 +109,9 @@
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="2" type="-+">Brevoord men <rhyme label="a" type="m">sach</rhyme>,</l>
         <l id="s6:l2" met="3" type="-+">Des morghens <rhyme label="b" type="f">refuseren</rhyme>,,</l>
-        <l id="s6:l3" met="2" type="-+"><rhyme label="b" type="f" corresp="#s6:l2">'tParlementeren</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">
+          <rhyme label="b" type="f" corresp="#s6:l2">'tParlementeren</rhyme>
+        </l>
         <l id="s6:l4" met="3" type="-+">Seer trots, spytich en <rhyme label="c" type="m">fier</rhyme>:</l>
         <l id="s6:l5" met="2" type="-+">Dien eyghen <rhyme label="a" type="m" corresp="#s6:l1">Dagh</rhyme>,</l>
         <l id="s6:l6" met="3" type="-+">Sochten zy <rhyme label="b" type="f" corresp="#s6:l2">t'accorderen</rhyme></l>

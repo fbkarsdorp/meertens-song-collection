@@ -7,11 +7,15 @@
       <year-end>1830</year-end>
     </date>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>battle song</tag>
-      <tag>secular song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Io vivat</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

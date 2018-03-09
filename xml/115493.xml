@@ -15,12 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>love song</tag>
-      <tag>patriotic song</tag>
-      <tag>history song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>Beminde Clarinde</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

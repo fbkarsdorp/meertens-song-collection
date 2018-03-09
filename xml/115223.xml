@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>love song</tag>
-      <tag>farewell song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Slapende Jan</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

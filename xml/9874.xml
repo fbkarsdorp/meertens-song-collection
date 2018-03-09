@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>arcostic</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Jan wil gij u beteren niet</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>stuttering song</tag>
+      <tag translation="stutter song">stotterlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

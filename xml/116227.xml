@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
-      <tag>canon</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="canon">canon</tag>
     </tags>
     <melody>De nachtegaal met zoete toon</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

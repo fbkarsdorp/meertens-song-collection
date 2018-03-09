@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>O droeve Echo hoor mijn klacht</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -33,7 +36,9 @@
         <l id="s1:l9" met="2" type="-+">Uw tael’ Is <rhyme label="f" type="f">joviael</rhyme>,</l>
         <l id="s1:l10" met="2" type="+-">U lipkens blôsen’ Als de <rhyme label="f" type="f" corresp="#s1:l9">Rôsen</rhyme>,</l>
         <l id="s1:l11" met="2" type="+-">En <rhyme label="e" type="m" corresp="#s1:l8">Corael</rhyme>,</l>
-        <l id="s1:l12" met="4" type="+-"><rhyme label="g" type="f">Peerle-banden</rhyme></l>
+        <l id="s1:l12" met="4" type="+-">
+          <rhyme label="g" type="f">Peerle-banden</rhyme>
+        </l>
         <l id="s1:l13" met="2" type="+-">Zyn uw' <rhyme label="h" type="f">tanden</rhyme>,</l>
         <l id="s1:l14" met="2" type="+-">D'Ooghskens <rhyme label="h" type="f" corresp="#s1:l13">schynen</rhyme></l>
         <l id="s1:l15" met="2" type="+-">Als den <rhyme label="i" type="m">fynen</rhyme></l>
@@ -44,7 +49,9 @@
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="2" type="-+">Al is ons <rhyme label="a" type="m">Philis</rhyme></l>
         <l id="s2:l2" met="2" type="+-"><rhyme label="b" type="m">Minnelyck</rhyme>,</l>
-        <l id="s2:l3" met="2" type="+-"><rhyme label="a" type="m" corresp="#s2:l1">Amarilis</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s2:l1">Amarilis</rhyme>
+        </l>
         <l id="s2:l4" met="2" type="+-"><rhyme label="b" type="m" corresp="#s2:l2">Vriendelyck</rhyme>,</l>
         <l id="s2:l5" met="4" type="-+">Al is Flora’ En <rhyme label="c" type="m">Aurora</rhyme></l>
         <l id="s2:l6" met="2" type="+-">Schoon en <rhyme label="d" type="m">reyn</rhyme>,</l>

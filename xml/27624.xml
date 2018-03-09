@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>battle song</tag>
-      <tag>history song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="historical song">historielied</tag>
     </tags>
     <melody>De wereld is nu heel in roer</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -179,7 +184,9 @@
         <l id="s16:l3" met="4" type="-+">Oft ghy komt ooc zeer haest tot <rhyme label="a" type="f" corresp="#s16:l1">schanden</rhyme></l>
         <l id="s16:l4" met="4" type="-+">Verliest Neeringh' welvaert <rhyme label="b" type="m" corresp="#s16:l2">subijt</rhyme>,</l>
         <l id="s16:l5" met="4" type="-+">Spieghelt v aen Vrancrijc, tis <rhyme label="b" type="m" corresp="#s16:l2">tijt</rhyme></l>
-        <l id="s16:l6" met="1" type="-+"><rhyme label="c" type="m">Verjaeght</rhyme></l>
+        <l id="s16:l6" met="1" type="-+">
+          <rhyme label="c" type="m">Verjaeght</rhyme>
+        </l>
         <l id="s16:l7" met="4" type="-+">Den Hypocrijt, van Jesus <rhyme label="b" type="m" corresp="#s16:l2">wijt</rhyme>,</l>
         <l id="s16:l8" met="4" type="-+">Eer ghyt  end' v kindren <rhyme label="c" type="m" corresp="#s16:l6">beklaeght</rhyme>.</l>
       </lg>

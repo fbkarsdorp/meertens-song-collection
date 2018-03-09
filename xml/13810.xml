@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
+      <tag translation="praise song">loflied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="2" type="+-">Wilt niet <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme></l>
         <l id="s1:l3" met="4" type="+-">Treurigheydt en flauwe <rhyme label="b" type="m">lust</rhyme>,</l>
         <l id="s1:l4" met="4" type="+-">Maer laet varen dese <rhyme label="c" type="f">dingen</rhyme></l>
-        <l id="s1:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s1:l4">Sonderlingen</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s1:l4">Sonderlingen</rhyme>
+        </l>
         <l id="s1:l6" met="4" type="+-">Die de ziel altijdt <rhyme label="b" type="m" corresp="#s1:l3">ontrust</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>consolation song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

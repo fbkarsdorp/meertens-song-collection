@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
-      <tag>mythological song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -56,7 +60,9 @@
         <l id="s2:l14" met="3" type="+-">Met Minph Najaed in <rhyme label="c" type="m" corresp="#s2:l4">t'velt</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
-        <l id="s3:l1" met="2" type="-+"><rhyme label="a" type="m">Melpomene</rhyme></l>
+        <l id="s3:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Melpomene</rhyme>
+        </l>
         <l id="s3:l2" met="3" type="-+">Laet staen dijn truerich <rhyme label="b" type="f">dichten</rhyme></l>
         <l id="s3:l3" met="2" type="-+">En wilt in <rhyme label="a" type="m" corresp="#s3:l1">ste</rhyme></l>
         <l id="s3:l4" met="3" type="-+">Verhaelen s' Meys <rhyme label="c" type="m">viertuijt</rhyme></l>

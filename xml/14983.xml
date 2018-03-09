@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
-      <tag>prayer song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Frog's galliard</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

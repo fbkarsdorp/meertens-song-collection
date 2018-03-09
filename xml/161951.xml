@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mythological song</tag>
-      <tag>love complaint</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
     </tags>
     <melody>Schep moed mijn hart</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -48,7 +52,9 @@
         <l id="s3:l1" met="4" type="-+">Hoe weenden   uw onkuische <rhyme label="a" type="f">ogen</rhyme>,</l>
         <l id="s3:l2" met="3" type="-+">Doe gy op Ydaas <rhyme label="b" type="m">strand</rhyme>,</l>
         <l id="s3:l3" met="1" type="-+">O <rhyme label="b" type="m" corresp="#s3:l2">schand</rhyme>,</l>
-        <l id="s3:l4" met="1" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Bewogen</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s3:l1">Bewogen</rhyme>
+        </l>
         <l id="s3:l5" met="3" type="+-">Met mijn <rhyme label="b" type="m" corresp="#s3:l2">Liefde-brand</rhyme>,</l>
         <l id="s3:l6" met="3" type="-+">Sprak: ‘Mijn <rhyme label="c" type="m">standvastigheid</rhyme></l>
         <l id="s3:l7" met="3" type="-+">Sal noit een drift <rhyme label="a" type="f" corresp="#s3:l1">gedogen</rhyme></l>
@@ -69,7 +75,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="-+">Maar vreest, verrader die de <rhyme label="a" type="f">Wetten</rhyme></l>
         <l id="s5:l2" met="3" type="-+">Van eer en <rhyme label="b" type="m">gastvryheid</rhyme></l>
-        <l id="s5:l3" met="1" type="-+"><rhyme label="b" type="m" corresp="#s5:l2">Ontweyd</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s5:l2">Ontweyd</rhyme>
+        </l>
         <l id="s5:l4" met="1" type="-+">En <rhyme label="a" type="f" corresp="#s5:l1">smetten</rhyme></l>
         <l id="s5:l5" met="3" type="+-">Door uw schelms <rhyme label="b" type="m" corresp="#s5:l2">beleyd</rhyme></l>
         <l id="s5:l6" met="3" type="-+">Het bed van uwe <rhyme label="c" type="m">waard</rhyme>:</l>

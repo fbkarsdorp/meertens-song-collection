@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>hunter's song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="hunter's song">jagerslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Windje daar het bos af drilt</melody>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

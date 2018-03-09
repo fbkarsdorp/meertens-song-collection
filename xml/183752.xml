@@ -97,7 +97,9 @@
         <l id="s7:l9" met="3" type="+-">Hulp der <rhyme label="d" type="m" corresp="#s7:l6">Christenen</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">
-        <l id="s8:l1" met="2" type="+-"><rhyme label="a" type="f">Koninginne</rhyme></l>
+        <l id="s8:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Koninginne</rhyme>
+        </l>
         <l id="s8:l2" met="3" type="-+">Der Eng'len in den <rhyme label="b" type="m">throon</rhyme>:</l>
         <l id="s8:l3" met="5" type="-+">Koninginne der Patriarchen <rhyme label="b" type="m" corresp="#s8:l2">schoon</rhyme>,</l>
         <l id="s8:l4" met="5" type="-+">Koninginne der Patriarchen <rhyme label="b" type="m" corresp="#s8:l2">schoon</rhyme>:</l>
@@ -108,7 +110,9 @@
         <l id="s8:l9" met="3" type="+-">Nu leven <rhyme label="d" type="m" corresp="#s8:l6">verblijdt</rhyme>.</l>
       </lg>
       <lg id="s9" type="stanza">
-        <l id="s9:l1" met="2" type="+-"><rhyme label="a" type="f">Koninginne</rhyme></l>
+        <l id="s9:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Koninginne</rhyme>
+        </l>
         <l id="s9:l2" met="3" type="-+">Der Consessoren, <rhyme label="b" type="m">goed</rhyme>:</l>
         <l id="s9:l3" met="5" type="-+">Koninginne der Maegden vol <rhyme label="b" type="m" corresp="#s9:l2">ootmoed</rhyme>,</l>
         <l id="s9:l4" met="5" type="-+">Koninginne der Maegden vol <rhyme label="b" type="m" corresp="#s9:l2">ootmoed</rhyme>:</l>

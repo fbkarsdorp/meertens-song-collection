@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Ik drink de nieuwe most</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="3" type="-+">In wien de <rhyme label="a" type="m" corresp="#s1:l1">vrolijckheen</rhyme></l>
         <l id="s1:l3" met="5" type="-+">Van Junos praal-ziraazjen staan ten <rhyme label="b" type="m">toon</rhyme>,</l>
         <l id="s1:l4" met="5" type="-+">Die dwingen kon de dapperste aller <rhyme label="b" type="m" corresp="#s1:l3">Goon</rhyme>:</l>
-        <l id="s1:l5" met="1" type="-+"><rhyme label="c" type="m">Wanneer</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="c" type="m">Wanneer</rhyme>
+        </l>
         <l id="s1:l6" met="2" type="-+">Ick d’oogen <rhyme label="c" type="m" corresp="#s1:l5">keer</rhyme></l>
         <l id="s1:l7" met="2" type="-+">Na ’t lief <rhyme label="d" type="m">gestalt</rhyme>,</l>
         <l id="s1:l8" met="3" type="-+">Daer gy steeds mede <rhyme label="d" type="m" corresp="#s1:l7">bralt</rhyme>,</l>

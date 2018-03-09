@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>May song</tag>
-      <tag>secular song</tag>
-      <tag>Chamber of rhetoric's song</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Hier zijn drie licht geladen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

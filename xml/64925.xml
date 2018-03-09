@@ -7,11 +7,15 @@
       <year-end>1800</year-end>
     </date>
     <tags>
-      <tag>soldier's song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

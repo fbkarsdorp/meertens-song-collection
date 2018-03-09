@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>pentecostal song</tag>
+      <tag translation="Pentecost song">pinksterlied</tag>
     </tags>
     <melody>Tweede Carileen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -78,13 +81,17 @@
       <lg id="s4" type="stanza">
         <l id="s4:l1" met="4" type="+-">Zeldzaam quam in yders <rhyme label="a" type="m">oor</rhyme></l>
         <l id="s4:l2" met="4" type="+-">Haar verstand, zoo wonderlijk te <rhyme label="a" type="m" corresp="#s4:l1">voor</rhyme>.</l>
-        <l id="s4:l3" met="2" type="+-"><rhyme label="b" type="m">Gelileen</rhyme></l>
+        <l id="s4:l3" met="2" type="+-">
+          <rhyme label="b" type="m">Gelileen</rhyme>
+        </l>
         <l id="s4:l4" met="4" type="+-">Was bekend in 't <rhyme label="b" type="m" corresp="#s4:l3">gemeen</rhyme></l>
         <l id="s4:l5" met="2" type="+-">Voor geen <rhyme label="c" type="m">throon</rhyme>,</l>
         <l id="s4:l6" met="5" type="+-">Daar de wijsheid heerlijk stond ten <rhyme label="c" type="m" corresp="#s4:l5">toon</rhyme></l>
         <l id="s4:l7" met="2" type="+-">D' onwijste <rhyme label="d" type="m">schaar</rhyme></l>
         <l id="s4:l8" met="2" type="+-">Heeft van <rhyme label="d" type="m" corresp="#s4:l7">haar</rhyme></l>
-        <l id="s4:l9" met="2" type="+-"><rhyme label="d" type="m" corresp="#s4:l7">Openbaar</rhyme></l>
+        <l id="s4:l9" met="2" type="+-">
+          <rhyme label="d" type="m" corresp="#s4:l7">Openbaar</rhyme>
+        </l>
         <l id="s4:l10" met="2" type="+-">Wel <rhyme label="e" type="m">gezeid</rhyme>,</l>
         <l id="s4:l11" met="4" type="+-">'t Is de wijn die haar <rhyme label="e" type="m" corresp="#s4:l10">verleid</rhyme>.</l>
         <l id="s4:l12" met="2" type="+-">Maar die 't <rhyme label="f" type="m">oog</rhyme></l>

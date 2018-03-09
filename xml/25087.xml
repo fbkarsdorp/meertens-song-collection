@@ -7,11 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>christmas song</tag>
-      <tag>three-kings song</tag>
-      <tag>biblical history song</tag>
+      <tag translation="Christmas song">kerstlied</tag>
+      <tag translation="Epiphany song">driekoningenlied</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Een kindje is ons geboren</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

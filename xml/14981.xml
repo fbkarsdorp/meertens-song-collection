@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>political song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Si cette malheureuse bande</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

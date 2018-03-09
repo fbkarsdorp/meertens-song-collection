@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
-      <tag>dialog song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Zo naar de kooi dat is mooi</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

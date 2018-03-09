@@ -7,10 +7,14 @@
       <year-end>1800</year-end>
     </date>
     <tags>
-      <tag>history song</tag>
-      <tag>farewell song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>O Holland schoon gij leeft in vrede</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

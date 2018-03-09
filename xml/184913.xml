@@ -15,7 +15,7 @@
       </coordinates>
     </location>
     <tags/>
-    <melody></melody>
+    <melody/>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +26,9 @@
         <l id="s1:l4" met="3" type="-+">Naer s'Hemels <rhyme label="b" type="f" corresp="#s1:l3">genuchten</rhyme></l>
         <l id="s1:l5" met="3" type="-+">Als gy t'Firmament <rhyme label="c" type="m">besiet</rhyme>?</l>
         <l id="s1:l6" met="1" type="-+">U <rhyme label="d" type="f">trecken</rhyme>,</l>
-        <l id="s1:l7" met="1" type="-+"><rhyme label="d" type="f" corresp="#s1:l6">Verwecken</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s1:l6">Verwecken</rhyme>
+        </l>
         <l id="s1:l8" met="2" type="-+">De Sterren, en <rhyme label="e" type="f">straelen</rhyme>,</l>
         <l id="s1:l9" met="2" type="-+">Die naer uw oog' <rhyme label="e" type="f" corresp="#s1:l8">daelen</rhyme>,</l>
         <l id="s1:l10" met="3" type="+-">d'Aerd' is eenen <rhyme label="c" type="m" corresp="#s1:l5">Niet</rhyme>.</l>
@@ -45,7 +47,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="1" type="-+">Van <rhyme label="a" type="f">stonden</rhyme></l>
-        <l id="s3:l2" met="1" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Ontbonden</rhyme></l>
+        <l id="s3:l2" met="1" type="-+">
+          <rhyme label="a" type="f" corresp="#s3:l1">Ontbonden</rhyme>
+        </l>
         <l id="s3:l3" met="3" type="-+">Wilt gy uyt t'lichaem <rhyme label="b" type="f">wesen</rhyme>,</l>
         <l id="s3:l4" met="3" type="-+">En syn, <rhyme label="b" type="f" corresp="#s3:l3">op-geresen</rhyme></l>
         <l id="s3:l5" met="3" type="-+">Uyt wereldrsche <rhyme label="c" type="m">vuyligheydt</rhyme>:</l>

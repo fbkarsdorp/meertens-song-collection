@@ -7,12 +7,17 @@
       <year-end>1598</year-end>
     </date>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>lamentation</tag>
-      <tag>secular song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Fortuin helaas</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

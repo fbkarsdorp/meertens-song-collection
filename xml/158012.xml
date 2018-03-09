@@ -39,7 +39,9 @@
       </lg>
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="-+">Speel-nootjes sa lustig, men gaat u al <rhyme label="a" type="m">voor</rhyme>,</l>
-        <l id="s3:l2" met="1" type="-+"><rhyme label="b" type="f">Marye</rhyme></l>
+        <l id="s3:l2" met="1" type="-+">
+          <rhyme label="b" type="f">Marye</rhyme>
+        </l>
         <l id="s3:l3" met="1" type="-+">Gaat <rhyme label="b" type="f" corresp="#s3:l2">glye'</rhyme></l>
         <l id="s3:l4" met="2" type="-+">En volgt op het <rhyme label="a" type="m" corresp="#s3:l1">spoor</rhyme></l>
         <l id="s3:l5" met="2" type="-+">Dat Bruygom <rhyme label="c" type="m">Valet</rhyme></l>

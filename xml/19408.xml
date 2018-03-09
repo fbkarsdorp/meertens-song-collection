@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Grâce au bon petit Jésus</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

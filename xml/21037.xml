@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>moralistic song</tag>
-      <tag>answersong</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
     <melody>De uitmuntendste herderin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

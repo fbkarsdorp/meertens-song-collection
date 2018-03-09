@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>stuttering song</tag>
-      <tag>love song</tag>
+      <tag translation="stutter song">stotterlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +30,9 @@
         <l id="s1:l1" met="3" type="-+">SOo suchjes konnen <rhyme label="a" type="f">baten</rhyme>,</l>
         <l id="s1:l2" met="5" type="+-">soo sucht ick ca, ca, <rhyme label="b" type="m">ca</rhyme>,</l>
         <l id="s1:l3" met="3" type="-+">Carileen, no, no, no, nooyt sal ik 't <rhyme label="a" type="f" corresp="#s1:l1">laten</rhyme>,</l>
-        <l id="s1:l4" met="5" type="-+"><rhyme label="b" type="m" corresp="#s1:l2">voor</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">
+          <rhyme label="b" type="m" corresp="#s1:l2">voor</rhyme>
+        </l>
         <l id="s1:l5" met="3" type="-+">ik mijnli, li, li, lief <rhyme label="c" type="f">vereen</rhyme>,</l>
         <l id="s1:l6" met="3" type="-+">mijn Hertje is u eygen, vergunt het uwe <rhyme label="d" type="m">mijn</rhyme>,</l>
         <l id="s1:l7" met="3" type="-+">soo ghy tot mijn kunt <rhyme label="c" type="f" corresp="#s1:l5">neygen</rhyme>,</l>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>beggar song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Es ist das Heil uns kommen her</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

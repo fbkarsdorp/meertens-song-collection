@@ -7,10 +7,14 @@
       <year-end>1700</year-end>
     </date>
     <tags>
-      <tag>children's song</tag>
-      <tag>lullaby</tag>
+      <tag translation="children's song">kinderlied</tag>
+      <tag translation="lullaby">wiegelied</tag>
     </tags>
     <melody>Hebben ze dat gedaan doen ze</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

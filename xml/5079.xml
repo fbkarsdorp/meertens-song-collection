@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>admonishing song</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Ik wou dat ik was een wilde zwaan</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -101,7 +104,9 @@
       <lg id="s12" type="stanza">
         <l id="s12:l1" met="6" type="-+">De kloecke Blandina van God gemaeckt seer <rhyme label="a" type="m">sterck</rhyme>,</l>
         <l id="s12:l2" met="5" type="-+">Vervulde met Martelerye haer <rhyme label="a" type="m" corresp="#s12:l1">perck</rhyme>,</l>
-        <l id="s12:l3" met="2" type="-+"><rhyme label="b" type="m">Potania</rhyme></l>
+        <l id="s12:l3" met="2" type="-+">
+          <rhyme label="b" type="m">Potania</rhyme>
+        </l>
         <l id="s12:l4" met="5" type="-+">Een heylighe Vrouw in d’eerste <rhyme label="a" type="m" corresp="#s12:l1">Kerck</rhyme>,</l>
         <l id="s12:l5" met="2" type="-+">Volghden haer <rhyme label="b" type="m" corresp="#s12:l3">nae</rhyme>.</l>
       </lg>

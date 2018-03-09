@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -63,7 +66,9 @@
       </lg>
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="4" type="+-">Houdt u Man voor Vooght en <rhyme label="a" type="m">Heer</rhyme>,</l>
-        <l id="s6:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s6:l1">Nimmermeer</rhyme></l>
+        <l id="s6:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s6:l1">Nimmermeer</rhyme>
+        </l>
         <l id="s6:l3" met="4" type="+-">Laet door twist u vree <rhyme label="b" type="f">verjagen</rhyme>,</l>
         <l id="s6:l4" met="4" type="+-">En in liefde <rhyme label="c" type="m">wederom</rhyme>,</l>
         <l id="s6:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s6:l4">Bruydegom</rhyme>,</l>

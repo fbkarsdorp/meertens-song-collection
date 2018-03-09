@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>moralistic song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="moralistic song">moralistisch lied</tag>
     </tags>
     <melody>Allemande de Spiers</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

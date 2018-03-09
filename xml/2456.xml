@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
-      <tag>dialog song</tag>
-      <tag>secular song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>La Dauphine</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

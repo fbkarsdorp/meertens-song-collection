@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
-      <tag>love song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Gods kinderen gij moogt wel zijn verheugd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

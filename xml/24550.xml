@@ -7,11 +7,16 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag>dialog song</tag>
-      <tag>Easter song</tag>
-      <tag>narrative song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="Easter song">paaslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

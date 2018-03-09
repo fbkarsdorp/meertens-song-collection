@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>anti-beggar song</tag>
-      <tag>political song</tag>
-      <tag>battle song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="anti-Geuzen song">anti-geuzenlied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="battle song">strijdlied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Wilhelmus</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

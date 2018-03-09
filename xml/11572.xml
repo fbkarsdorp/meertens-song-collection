@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>admonishing song</tag>
-      <tag>reflective song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>scenic song</tag>
-      <tag>secular song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Een meisje op een riviertje zat</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="theatre">theater</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

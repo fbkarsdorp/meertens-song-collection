@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>narrative song</tag>
-      <tag>sailor song</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Biron</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

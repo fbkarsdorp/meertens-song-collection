@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>admonishing song</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -45,7 +48,9 @@
         <l id="s2:l5" met="2" type="+-">Op een <rhyme label="c" type="m">stondt</rhyme></l>
         <l id="s2:l6" met="2" type="+-">In het <rhyme label="d" type="m">veldt</rhyme></l>
         <l id="s2:l7" met="2" type="+-">Ick het <rhyme label="c" type="m" corresp="#s2:l5">vondt</rhyme></l>
-        <l id="s2:l8" met="2" type="+-"><rhyme label="d" type="m" corresp="#s2:l6">Neergevelt</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">
+          <rhyme label="d" type="m" corresp="#s2:l6">Neergevelt</rhyme>
+        </l>
         <l id="s2:l9" met="1" type="-+">Ter <rhyme label="e" type="m">aerdt</rhyme>,</l>
         <l id="s2:l10" met="4" type="+-">Dat den morgen had <rhyme label="e" type="m" corresp="#s2:l9">gebaert</rhyme>,</l>
         <l id="s2:l11" met="3" type="+-">Dat sijn hooftjen stack <rhyme label="f" type="m">uyt</rhyme></l>
@@ -74,7 +79,9 @@
         <l id="s4:l2" met="3" type="+-">Boven <rhyme label="b" type="m">vermillioen</rhyme>,</l>
         <l id="s4:l3" met="4" type="-+">Rontom ontloock het sijnen <rhyme label="a" type="m" corresp="#s4:l1">schoot</rhyme></l>
         <l id="s4:l4" met="3" type="+-">Als de Roosjens <rhyme label="b" type="m" corresp="#s4:l2">doen</rhyme>.</l>
-        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="m">Uytgespreyt</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">
+          <rhyme label="c" type="m">Uytgespreyt</rhyme>
+        </l>
         <l id="s4:l6" met="2" type="+-">Was het <rhyme label="d" type="m">haer</rhyme></l>
         <l id="s4:l7" met="2" type="+-">Haest <rhyme label="c" type="m" corresp="#s4:l5">bereyt</rhyme>,</l>
         <l id="s4:l8" met="2" type="+-">Hier en <rhyme label="d" type="m" corresp="#s4:l6">daer</rhyme></l>

@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>drinking song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>Amis la matinée est belle</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

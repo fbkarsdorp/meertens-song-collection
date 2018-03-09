@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sailor song</tag>
-      <tag>spiritual song</tag>
-      <tag>thanks song</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="gratitude song">danklied</tag>
     </tags>
     <melody>Psalm 065 Datheen</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

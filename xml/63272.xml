@@ -7,11 +7,15 @@
       <year-end>1830</year-end>
     </date>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Schilder ik wou mijzelf graag zien</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

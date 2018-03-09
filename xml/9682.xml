@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Wereld verguld</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -38,7 +41,9 @@
         <l id="s2:l3" met="3" type="-+">Ia 'tvleeschelijck <rhyme label="b" type="f" corresp="#s2:l2">begheeren</rhyme>,</l>
         <l id="s2:l4" met="2" type="-+">Laet ons aent <rhyme label="a" type="m" corresp="#s2:l1">kruys</rhyme></l>
         <l id="s2:l5" met="3" type="-+">Dooden, en van ons <rhyme label="b" type="f" corresp="#s2:l2">weeren</rhyme>,</l>
-        <l id="s2:l6" met="2" type="-+"><rhyme label="c" type="m">Besnedenheyt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">
+          <rhyme label="c" type="m">Besnedenheyt</rhyme>
+        </l>
         <l id="s2:l7" met="3" type="-+">En is nu van gheen <rhyme label="d" type="f">valuere</rhyme>,</l>
         <l id="s2:l8" met="4" type="-+">Maer Christus greyt // Soo Paulus <rhyme label="c" type="m" corresp="#s2:l6">seyt</rhyme></l>
         <l id="s2:l9" met="3" type="-+">Een nieuwe <rhyme label="d" type="f" corresp="#s2:l7">creatuere</rhyme>.</l>

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Est-ce Mars</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -115,7 +118,9 @@
         <l id="s7:l7" met="5" type="+-">Dat 't geloof van alle deuchden <rhyme label="d" type="m">naeckt</rhyme></l>
         <l id="s7:l8" met="2" type="-+">Oock saligh <rhyme label="d" type="m" corresp="#s7:l7">maeckt</rhyme>.</l>
         <l id="s7:l9" met="2" type="+-">Dan in 't <rhyme label="e" type="m">quaet</rhyme></l>
-        <l id="s7:l10" met="2" type="+-"><rhyme label="e" type="m" corresp="#s7:l9">Obstinaet</rhyme></l>
+        <l id="s7:l10" met="2" type="+-">
+          <rhyme label="e" type="m" corresp="#s7:l9">Obstinaet</rhyme>
+        </l>
         <l id="s7:l11" met="5" type="+-">My treckt op, en van het leven <rhyme label="f" type="m">scheyt</rhyme></l>
         <l id="s7:l12" met="2" type="-+">In <rhyme label="f" type="m" corresp="#s7:l11">eeuwigheyt</rhyme>.</l>
       </lg>

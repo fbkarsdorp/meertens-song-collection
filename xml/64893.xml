@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>sentimental song</tag>
-      <tag>life song</tag>
+      <tag translation="sentimental song">sentimenteel lied</tag>
+      <tag translation="tearjerker">levenslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

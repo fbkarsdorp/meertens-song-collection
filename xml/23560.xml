@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Advent song</tag>
+      <tag translation="advent song">adventslied</tag>
     </tags>
     <melody>Veni redemptor gentium</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

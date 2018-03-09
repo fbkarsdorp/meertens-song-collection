@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>prayer song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

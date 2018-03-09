@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>mourning song</tag>
-      <tag>secular song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="mourning song">rouwlied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

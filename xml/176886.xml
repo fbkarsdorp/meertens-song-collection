@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>admonishing song</tag>
-      <tag>love song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Jenever in de morgenstond</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

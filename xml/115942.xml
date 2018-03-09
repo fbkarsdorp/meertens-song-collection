@@ -15,16 +15,21 @@
       </coordinates>
     </location>
     <tags>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">ACh hoe zit ik hier <rhyme label="a" type="m">alleen</rhyme>!</l>
-        <l id="s1:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s1:l1">Af-gesne'en</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s1:l1">Af-gesne'en</rhyme>
+        </l>
         <l id="s1:l3" met="4" type="+-">En van vromen en van <rhyme label="b" type="f">vrinden</rhyme>!</l>
         <l id="s1:l4" met="4" type="+-">'k Zit by naa als in een <rhyme label="c" type="m">kluis</rhyme>,</l>
         <l id="s1:l5" met="2" type="+-">In mijn <rhyme label="c" type="m" corresp="#s1:l4">huis</rhyme>,</l>

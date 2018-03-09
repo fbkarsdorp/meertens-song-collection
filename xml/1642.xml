@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love complaint</tag>
-      <tag>farewell song</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Fortuin wil u keren en val mij niet zo zuur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

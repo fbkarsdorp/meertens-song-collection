@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>biblical history song</tag>
+      <tag translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Der Filistijnen stam kwam</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -146,7 +149,9 @@
         <l id="s13:l2" met="3" type="-+">Ter doot verwesen <rhyme label="a" type="m" corresp="#s13:l1">was</rhyme>,</l>
         <l id="s13:l3" met="3" type="-+">Zy aenriep Godt <rhyme label="b" type="f">almachtich</rhyme>,</l>
         <l id="s13:l4" met="3" type="-+">Die chrachtich t' <rhyme label="c" type="m">onghewis</rhyme>,</l>
-        <l id="s13:l5" met="2" type="-+"><rhyme label="c" type="m" corresp="#s13:l4">Ghetuyghenis</rhyme></l>
+        <l id="s13:l5" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s13:l4">Ghetuyghenis</rhyme>
+        </l>
         <l id="s13:l6" met="2" type="-+">Ded' blijcken <rhyme label="c" type="m" corresp="#s13:l4">mis</rhyme>,</l>
         <l id="s13:l7" met="3" type="-+">Door Daniel, <rhyme label="b" type="f" corresp="#s13:l3">tweedrachtich</rhyme></l>
         <l id="s13:l8" met="3" type="-+">Sulck woort bevonden <rhyme label="c" type="m" corresp="#s13:l4">is</rhyme>.</l>

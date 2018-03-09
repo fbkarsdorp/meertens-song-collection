@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -51,7 +54,9 @@
         <l id="s4:l2" met="2" type="+-">Maeckte <rhyme label="a" type="m" corresp="#s4:l1">fijn</rhyme>,</l>
         <l id="s4:l3" met="4" type="+-">Willende daer mede <rhyme label="b" type="f">leeren</rhyme>,</l>
         <l id="s4:l4" met="4" type="+-">Dat hy self het huw’lijck <rhyme label="c" type="m">jent</rhyme>,</l>
-        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s4:l4">Excelent</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s4:l4">Excelent</rhyme>
+        </l>
         <l id="s4:l6" met="4" type="+-">Stichtet, en haet het <rhyme label="b" type="f" corresp="#s4:l3">hoereren</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

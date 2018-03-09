@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Luz de mi alma</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -28,7 +31,9 @@
         <l id="s1:l4" met="3" type="+-">V gestaegh <rhyme label="b" type="f" corresp="#s1:l3">aenranden</rhyme>.</l>
         <l id="s1:l5" met="3" type="+-">Wel op jonge <rhyme label="c" type="m">Jeucht</rhyme>,</l>
         <l id="s1:l6" met="1" type="-+">Wilt <rhyme label="d" type="f">strijden</rhyme>,</l>
-        <l id="s1:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s1:l6">Lijden</rhyme></l>
+        <l id="s1:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s1:l6">Lijden</rhyme>
+        </l>
         <l id="s1:l8" met="3" type="+-">Om de hooghste <rhyme label="c" type="m" corresp="#s1:l5">vreucht</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
@@ -78,7 +83,9 @@
         <l id="s6:l4" met="3" type="+-">En oock me'e gheen <rhyme label="b" type="f" corresp="#s6:l3">kennis</rhyme></l>
         <l id="s6:l5" met="3" type="+-">Van u droeven <rhyme label="c" type="m">staet</rhyme>:</l>
         <l id="s6:l6" met="1" type="-+"><rhyme label="d" type="f">Ellendigh</rhyme>,</l>
-        <l id="s6:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s6:l6">Schendigh</rhyme></l>
+        <l id="s6:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s6:l6">Schendigh</rhyme>
+        </l>
         <l id="s6:l8" met="3" type="+-">Ghy noch verder <rhyme label="c" type="m" corresp="#s6:l5">gaet</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -88,7 +95,9 @@
         <l id="s7:l4" met="3" type="+-">Gaet geheel <rhyme label="b" type="f" corresp="#s7:l3">vertreden</rhyme>,</l>
         <l id="s7:l5" met="3" type="+-">Na Gods wil en <rhyme label="c" type="m">raedt</rhyme></l>
         <l id="s7:l6" met="1" type="-+">'t <rhyme label="d" type="f">Soet-schijnigh</rhyme></l>
-        <l id="s7:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s7:l6">quijnigh</rhyme></l>
+        <l id="s7:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s7:l6">quijnigh</rhyme>
+        </l>
         <l id="s7:l8" met="3" type="+-">Van al 's Duyvels <rhyme label="c" type="m" corresp="#s7:l5">zaet</rhyme>.</l>
       </lg>
       <lg id="s8" type="stanza">
@@ -108,7 +117,9 @@
         <l id="s9:l4" met="3" type="+-">Gunstelijck <rhyme label="b" type="f" corresp="#s9:l3">toe-lachgen</rhyme></l>
         <l id="s9:l5" met="3" type="+-">Met seer schoonen <rhyme label="c" type="m">schijn</rhyme>:</l>
         <l id="s9:l6" met="1" type="-+">Fraey <rhyme label="d" type="f">toonen</rhyme>,</l>
-        <l id="s9:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s9:l6">Loonen</rhyme></l>
+        <l id="s9:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s9:l6">Loonen</rhyme>
+        </l>
         <l id="s9:l8" met="3" type="+-">Met de Helsche <rhyme label="c" type="m" corresp="#s9:l5">pijn</rhyme>.</l>
       </lg>
       <lg id="s10" type="stanza">
@@ -118,7 +129,9 @@
         <l id="s10:l4" met="3" type="+-">En geheel <rhyme label="b" type="f" corresp="#s10:l3">af-scheyden</rhyme>,</l>
         <l id="s10:l5" met="3" type="+-">Van het grootst' <rhyme label="c" type="m">geluck</rhyme>,</l>
         <l id="s10:l6" met="1" type="-+"><rhyme label="d" type="f">Schijn-gunstigh</rhyme>,</l>
-        <l id="s10:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s10:l6">Kunstigh</rhyme></l>
+        <l id="s10:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s10:l6">Kunstigh</rhyme>
+        </l>
         <l id="s10:l8" met="3" type="+-">Brenghen in den <rhyme label="c" type="m" corresp="#s10:l5">druck</rhyme>.</l>
       </lg>
       <lg id="s11" type="stanza">
@@ -127,8 +140,12 @@
         <l id="s11:l3" met="2" type="-+">V komt <rhyme label="b" type="f">bespringhen</rhyme>,</l>
         <l id="s11:l4" met="3" type="+-">Of tot sonde <rhyme label="b" type="f" corresp="#s11:l3">dringhen</rhyme></l>
         <l id="s11:l5" met="3" type="+-">In een Engels <rhyme label="c" type="m">schijn</rhyme>,</l>
-        <l id="s11:l6" met="1" type="-+"><rhyme label="d" type="f">Schijn-heyligh</rhyme></l>
-        <l id="s11:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s11:l6">Veyligh</rhyme></l>
+        <l id="s11:l6" met="1" type="-+">
+          <rhyme label="d" type="f">Schijn-heyligh</rhyme>
+        </l>
+        <l id="s11:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s11:l6">Veyligh</rhyme>
+        </l>
         <l id="s11:l8" met="3" type="+-">Saeyen Helsch <rhyme label="c" type="m" corresp="#s11:l5">fenijn</rhyme>.</l>
       </lg>
       <lg id="s12" type="stanza">
@@ -138,7 +155,9 @@
         <l id="s12:l4" met="3" type="+-">En oock quade <rhyme label="b" type="f" corresp="#s12:l3">zeden</rhyme>,</l>
         <l id="s12:l5" met="3" type="+-">Maer toont u <rhyme label="c" type="m">beleeft</rhyme>:</l>
         <l id="s12:l6" met="1" type="-+">De <rhyme label="d" type="f">Heere</rhyme>,</l>
-        <l id="s12:l7" met="1" type="+-"><rhyme label="d" type="f" corresp="#s12:l6">Eeren</rhyme></l>
+        <l id="s12:l7" met="1" type="+-">
+          <rhyme label="d" type="f" corresp="#s12:l6">Eeren</rhyme>
+        </l>
         <l id="s12:l8" met="3" type="+-">Die goe gaven <rhyme label="c" type="m" corresp="#s12:l5">gheeft</rhyme>.</l>
       </lg>
     </lg>

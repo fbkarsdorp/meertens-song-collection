@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>proverb</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Het meisje van Amsterdam</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
+      <tag translation="prayer song">gebedslied</tag>
     </tags>
     <melody>Nun bitten wir den heiligen Geist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -26,7 +29,9 @@
         <l id="s1:l2" met="4" type="-+">vm den rechten globen Aller <rhyme label="a" type="m" corresp="#s1:l1">meyst</rhyme></l>
         <l id="s1:l3" met="3" type="+-">daz her vns <rhyme label="b" type="f">behute</rhyme></l>
         <l id="s1:l4" met="4" type="-+">so wir hem varen vt dussem <rhyme label="c" type="f">enelende</rhyme></l>
-        <l id="s1:l5" met="3" type="-+"><rhyme label="d" type="m">kyrieleyson</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">
+          <rhyme label="d" type="m">kyrieleyson</rhyme>
+        </l>
       </lg>
     </lg>
   </text>

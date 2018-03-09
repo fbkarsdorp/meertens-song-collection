@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>lamentation</tag>
+      <tag translation="">Herderslied</tag>
+      <tag translation="lament">klaaglied</tag>
     </tags>
     <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

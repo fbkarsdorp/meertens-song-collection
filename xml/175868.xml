@@ -15,13 +15,20 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>political song</tag>
-      <tag>beggar song</tag>
-      <tag>proverb</tag>
-      <tag>triumph song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="mocking song">spotlied</tag>
+      <tag translation="triumph song">triomflied</tag>
     </tags>
     <melody>Ik ben niet als een pluim</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

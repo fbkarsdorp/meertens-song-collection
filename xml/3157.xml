@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -66,7 +69,9 @@
         <l id="s6:l2" met="2" type="+-">Jae als <rhyme label="a" type="f" corresp="#s6:l1">voncken</rhyme></l>
         <l id="s6:l3" met="4" type="+-">'t Wt haer lieve lichjes <rhyme label="b" type="m">straelt</rhyme>,</l>
         <l id="s6:l4" met="4" type="+-">Die verselt met <rhyme label="c" type="f">Tover-kusjes</rhyme>,</l>
-        <l id="s6:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s6:l4">Minne-gunsjes</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">
+          <rhyme label="c" type="f" corresp="#s6:l4">Minne-gunsjes</rhyme>
+        </l>
         <l id="s6:l6" met="4" type="+-">Op de Bruydgoms boesem <rhyme label="b" type="m" corresp="#s6:l3">daelt</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -87,7 +92,9 @@
       </lg>
       <lg id="s9" type="stanza">
         <l id="s9:l1" met="4" type="+-">Want ick segh u <rhyme label="a" type="f">Speelgenootje</rhyme>,</l>
-        <l id="s9:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s9:l1">Cupidootje</rhyme></l>
+        <l id="s9:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s9:l1">Cupidootje</rhyme>
+        </l>
         <l id="s9:l3" met="4" type="+-">Sit al sijn Boogh en <rhyme label="b" type="m">spant</rhyme>,</l>
         <l id="s9:l4" met="4" type="+-">Laet ghy haest geen vreught <rhyme label="c" type="f">genieten</rhyme>,</l>
         <l id="s9:l5" met="2" type="+-">Hy sal <rhyme label="c" type="f" corresp="#s9:l4">schieten</rhyme></l>

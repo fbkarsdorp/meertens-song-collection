@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>history song</tag>
-      <tag>dialect song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="dialect song">dialectlied</tag>
     </tags>
     <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

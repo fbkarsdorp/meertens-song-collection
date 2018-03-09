@@ -7,12 +7,17 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag>holy song</tag>
-      <tag>martyr's song</tag>
-      <tag>May song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="saint song">heiligenlied</tag>
+      <tag translation="martyr song">martelaarslied</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

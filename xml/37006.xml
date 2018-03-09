@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
-      <tag>proverb</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="mocking song">spotlied</tag>
     </tags>
     <melody>Onlangs zijnde vol onrusten</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

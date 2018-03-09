@@ -58,7 +58,9 @@
         <l id="s3:l6" met="1" type="-+">Uw <rhyme label="c" type="f">leden</rhyme>,</l>
         <l id="s3:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s3:l6">Besneden</rhyme>,</l>
         <l id="s3:l8" met="1" type="-+">En <rhyme label="d" type="m">net</rhyme>,</l>
-        <l id="s3:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s3:l8">Omzet</rhyme></l>
+        <l id="s3:l9" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s3:l8">Omzet</rhyme>
+        </l>
         <l id="s3:l10" met="2" type="-+">Met poez'lig <rhyme label="d" type="m" corresp="#s3:l8">vet</rhyme>,</l>
         <l id="s3:l11" met="2" type="+-">Uw <rhyme label="e" type="m">geestigheit</rhyme>,</l>
         <l id="s3:l12" met="2" type="-+">O zoete <rhyme label="e" type="m" corresp="#s3:l11">Meit</rhyme>!</l>

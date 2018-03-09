@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>passing song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="Passion of Our Lord song">passielied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Bewaar mij God want ik vertrouw</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -39,7 +43,9 @@
         <l id="s2:l3" met="4" type="-+">Het lichaam van uw doode <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme></l>
         <l id="s2:l4" met="2" type="-+">In 't graf van <rhyme label="b" type="m" corresp="#s2:l2">steen</rhyme>.</l>
         <l id="s2:l5" met="4" type="-+">Doch niet geheel, naa dien 't een <rhyme label="c" type="m">groot</rhyme></l>
-        <l id="s2:l6" met="2" type="-+"><rhyme label="d" type="m">Getuigenis</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">
+          <rhyme label="d" type="m">Getuigenis</rhyme>
+        </l>
         <l id="s2:l7" met="4" type="-+">Aan ons verstrekt, en van zijn <rhyme label="c" type="m" corresp="#s2:l5">dood</rhyme></l>
         <l id="s2:l8" met="2" type="-+">Ons maakt <rhyme label="d" type="m" corresp="#s2:l6">gewis</rhyme>.</l>
       </lg>

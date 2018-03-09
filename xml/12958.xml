@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Koker Janszen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -86,7 +89,9 @@
         <l id="s6:l2" met="4" type="+-">Burries, Tobbens, Aker, <rhyme label="b" type="m">Touw</rhyme>,</l>
         <l id="s6:l3" met="4" type="+-">Schoppen, Hauweels, Stokken, <rhyme label="a" type="f" corresp="#s6:l1">Haken</rhyme>,</l>
         <l id="s6:l4" met="4" type="+-">Was Hof-miesters schreeuwe; <rhyme label="b" type="m" corresp="#s6:l2">hou</rhyme>!</l>
-        <l id="s6:l5" met="2" type="+-"><rhyme label="c" type="m">Branje-wijn</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">
+          <rhyme label="c" type="m">Branje-wijn</rhyme>
+        </l>
         <l id="s6:l6" met="2" type="+-">Moet 'er <rhyme label="c" type="m" corresp="#s6:l5">zijn</rhyme>;</l>
         <l id="s6:l7" met="4" type="+-">Ook een pul met <rhyme label="d" type="m">Smokkel-bier</rhyme>,</l>
         <l id="s6:l8" met="2" type="+-">Slonszen, <rhyme label="e" type="f">Keerszen</rhyme>,</l>

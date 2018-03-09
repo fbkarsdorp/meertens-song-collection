@@ -15,13 +15,20 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scriptural song</tag>
-      <tag>prayer song</tag>
-      <tag>thanks song</tag>
-      <tag>psalm</tag>
-      <tag>arcostic</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="psalm">psalm</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

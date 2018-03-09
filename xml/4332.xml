@@ -20,7 +20,9 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">MAjaas</rhyme></l>
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="m">MAjaas</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Troon bevloert de wijde <rhyme label="b" type="f">weerelt</rhyme>,</l>
         <l id="s1:l3" met="4" type="+-">Hare Zegenstandaart <rhyme label="c" type="m">reikt</rhyme>,</l>
         <l id="s1:l4" met="3" type="-+">Van daar de goude <rhyme label="d" type="m">bruit</rhyme>,</l>
@@ -44,13 +46,17 @@
         <l id="s1:l22" met="3" type="-+">Aan de jeugt haar waardigheden <rhyme label="h" type="m" corresp="#s1:l14">tuigt</rhyme>.</l>
       </lg>
       <lg id="s2" type="stanza">
-        <l id="s2:l1" met="2" type="+-"><rhyme label="a" type="m">Karinel</rhyme></l>
+        <l id="s2:l1" met="2" type="+-">
+          <rhyme label="a" type="m">Karinel</rhyme>
+        </l>
         <l id="s2:l2" met="3" type="-+">Geleit haar nucht're <rhyme label="b" type="f">schapen</rhyme></l>
         <l id="s2:l3" met="4" type="+-">Langs het Silviaansche <rhyme label="c" type="m">dal</rhyme>;</l>
         <l id="s2:l4" met="3" type="-+">Maar zie; ai! zie, hoe <rhyme label="d" type="m">zoet</rhyme>,</l>
         <l id="s2:l5" met="2" type="-+">Haar Kloris <rhyme label="d" type="m" corresp="#s2:l4">moet</rhyme>;</l>
         <l id="s2:l6" met="5" type="-+">Kust en omhelst haar, toont een blij <rhyme label="c" type="m" corresp="#s2:l3">geschal</rhyme>:</l>
-        <l id="s2:l7" met="2" type="+-"><rhyme label="a" type="m" corresp="#s2:l1">Doricell'</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s2:l1">Doricell'</rhyme>
+        </l>
         <l id="s2:l8" met="3" type="-+">En kan geen vreugt meer <rhyme label="b" type="f" corresp="#s2:l2">rapen</rhyme>,</l>
         <l id="s2:l9" met="4" type="+-">In d'Hoofsche <rhyme label="e" type="m">ydelheit</rhyme>,</l>
         <l id="s2:l10" met="3" type="-+">Komt afgedwaalt ter <rhyme label="f" type="m">stè</rhyme>,</l>

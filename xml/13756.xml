@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>company song</tag>
+      <tag translation="social song">gezelschapslied</tag>
     </tags>
     <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

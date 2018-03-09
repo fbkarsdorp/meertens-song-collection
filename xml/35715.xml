@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Easter song</tag>
+      <tag translation="Easter song">paaslied</tag>
     </tags>
     <melody>Des morgens voor dag in het veld al bij de weg</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

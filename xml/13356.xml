@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>dialog song</tag>
-      <tag>narrative song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Edele artiesten koen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

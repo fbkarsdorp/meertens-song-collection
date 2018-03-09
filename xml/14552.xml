@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Moet ik dus treuren</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -59,7 +62,9 @@
         <l id="s4:l4" met="3" type="-+">Maer altijdt soet <rhyme label="b" type="m" corresp="#s4:l2">gheschal</rhyme>:</l>
         <l id="s4:l5" met="2" type="-+">Met groot <rhyme label="c" type="m">jolijt</rhyme></l>
         <l id="s4:l6" met="3" type="-+">Singhtmen daer vol van <rhyme label="d" type="f">vreden</rhyme>:</l>
-        <l id="s4:l7" met="2" type="-+"><rhyme label="c" type="m" corresp="#s4:l5">Ghebenedijdt</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">
+          <rhyme label="c" type="m" corresp="#s4:l5">Ghebenedijdt</rhyme>
+        </l>
         <l id="s4:l8" met="3" type="-+">Zy Godt in <rhyme label="d" type="f" corresp="#s4:l6">eeuwigheden</rhyme>.</l>
       </lg>
       <lg id="s5" type="stanza">

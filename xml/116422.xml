@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>lamentation</tag>
-      <tag>spiritual song</tag>
+      <tag translation="lament">klaaglied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Laetae lacrimae</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -61,7 +64,9 @@
         <l id="s3:l8" met="5" type="-+">Hem d' in-gang tot geluk: want zulke <rhyme label="d" type="m" corresp="#s3:l7">trekt</rhyme></l>
         <l id="s3:l9" met="5" type="-+">God uit den dood, als hy de dooden <rhyme label="d" type="m" corresp="#s3:l7">wekt</rhyme>.</l>
         <l id="s3:l10" met="1" type="-+"><rhyme label="e" type="m">Belacht</rhyme>,</l>
-        <l id="s3:l11" met="1" type="+-"><rhyme label="e" type="m" corresp="#s3:l10">Veracht</rhyme></l>
+        <l id="s3:l11" met="1" type="+-">
+          <rhyme label="e" type="m" corresp="#s3:l10">Veracht</rhyme>
+        </l>
         <l id="s3:l12" met="1" type="-+"><rhyme label="e" type="m" corresp="#s3:l10">Doods-kracht</rhyme>.</l>
       </lg>
       <lg id="s4" type="stanza">

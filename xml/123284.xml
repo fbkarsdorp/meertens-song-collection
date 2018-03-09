@@ -15,14 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1"></l>
+        <l id="s1:l1"/>
         <l id="s1:l2">Als alle bergen waren goud</l>
         <l id="s1:l3">en alle waet-ren wijn,</l>
         <l id="s1:l4">dan wou ik nog, mijn lieveken,</l>

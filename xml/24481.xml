@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>secular song</tag>
-      <tag>farewell song</tag>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>secular song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Houd aan ik zal u zingen voor</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="groups">groepen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

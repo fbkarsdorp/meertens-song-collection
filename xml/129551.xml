@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Meisje moet ik bij u slapen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -40,7 +44,9 @@
       <lg id="s3" type="stanza">
         <l id="s3:l1" met="4" type="+-">Dese Haagze <rhyme label="a" type="f">Herderinne</rhyme></l>
         <l id="s3:l2" met="4" type="+-">Hebbe met haar soete <rhyme label="b" type="m">reen</rhyme></l>
-        <l id="s3:l3" met="2" type="+-"><rhyme label="b" type="m" corresp="#s3:l2">Aangebeen</rhyme></l>
+        <l id="s3:l3" met="2" type="+-">
+          <rhyme label="b" type="m" corresp="#s3:l2">Aangebeen</rhyme>
+        </l>
         <l id="s3:l4" met="4" type="+-">Venus, d’ Moeder van het <rhyme label="a" type="f" corresp="#s3:l1">minne</rhyme>,</l>
         <l id="s3:l5" met="4" type="+-">Om haar jongste Zoontje <rhyme label="b" type="m" corresp="#s3:l2">kleen</rhyme>.</l>
       </lg>

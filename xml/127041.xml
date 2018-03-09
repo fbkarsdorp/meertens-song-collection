@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>consolation song</tag>
-      <tag>secular song</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="consolation song">troostlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Meisje waarom weent gij toch</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>political song</tag>
-      <tag>history song</tag>
-      <tag>children's song</tag>
+      <tag translation="political song">politiek lied</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="children's song">kinderlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

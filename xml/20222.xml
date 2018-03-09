@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>answersong</tag>
+      <tag translation="humorous song">kluchtlied</tag>
+      <tag translation="response song">antwoordlied</tag>
     </tags>
     <melody>O Galathea mijn schoonste veldgodin</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

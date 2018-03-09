@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
+      <tag translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Zoel zacht windje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -66,11 +69,15 @@
         <l id="s6:l2" met="4" type="+-">Ach wat valt het wagten <rhyme label="b" type="m">bang</rhyme>,</l>
         <l id="s6:l3" met="4" type="+-">Wyl'k met ongedult <rhyme label="b" type="m" corresp="#s6:l2">verlang</rhyme></l>
         <l id="s6:l4" met="4" type="+-">Naar het meysje swart van <rhyme label="c" type="f">hairen</rhyme>!</l>
-        <l id="s6:l5" met="2" type="+-"><rhyme label="d" type="f">Oogenblikjes</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">
+          <rhyme label="d" type="f">Oogenblikjes</rhyme>
+        </l>
         <l id="s6:l6" met="4" type="+-">Oogenblikjes schynen <rhyme label="c" type="f" corresp="#s6:l4">jaren</rhyme>.</l>
       </lg>
       <lg id="s7" type="stanza">
-        <l id="s7:l1" met="2" type="+-"><rhyme label="a" type="f">leliane</rhyme></l>
+        <l id="s7:l1" met="2" type="+-">
+          <rhyme label="a" type="f">leliane</rhyme>
+        </l>
         <l id="s7:l2" met="4" type="+-">leliane uw lieve <rhyme label="b" type="m">taal</rhyme></l>
         <l id="s7:l3" met="4" type="+-">Rooft myn hert, wyl straal op <rhyme label="b" type="m" corresp="#s7:l2">straal</rhyme></l>
         <l id="s7:l4" met="4" type="+-">Van uw lieve duiven <rhyme label="c" type="f">oogen</rhyme></l>

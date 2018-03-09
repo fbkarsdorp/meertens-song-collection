@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love complaint</tag>
-      <tag>roundel</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love complaint">liefdesklacht</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Al scheid ik van dij in het gezicht</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

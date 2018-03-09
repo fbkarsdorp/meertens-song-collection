@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>soldier's song</tag>
-      <tag>sailor song</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
+      <tag translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>La marine</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Enfant prodigue</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -36,7 +39,9 @@
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="+-">Trouwen Engel, trouw' <rhyme label="a" type="f">Bewaerder</rhyme>,</l>
-        <l id="s2:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">Deughd-vergaerder</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s2:l1">Deughd-vergaerder</rhyme>
+        </l>
         <l id="s2:l3" met="4" type="+-">Van dien geen die heyligh <rhyme label="b" type="m">leeft</rhyme>.</l>
         <l id="s2:l4" met="4" type="+-">Ey! gewaerdight mijn <rhyme label="c" type="f">gebreken</rhyme></l>
         <l id="s2:l5" met="2" type="+-">Af te <rhyme label="c" type="f" corresp="#s2:l4">spreken</rhyme>,</l>

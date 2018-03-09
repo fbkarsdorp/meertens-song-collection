@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>birthday song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="birthday song">verjaardagslied</tag>
     </tags>
     <melody>De Koning leve</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

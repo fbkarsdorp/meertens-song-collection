@@ -11,14 +11,19 @@
       <standard-name>South East Netherlands</standard-name>
     </location>
     <tags>
-      <tag>mystical song</tag>
+      <tag translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Heer Jezus uw bruine ogen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="3" type="-+"><rhyme label="a" type="f">Alia</rhyme></l>
+        <l id="s1:l1" met="3" type="-+">
+          <rhyme label="a" type="f">Alia</rhyme>
+        </l>
         <l id="s1:l2" met="3" type="-+">Her ihesus w bruijn <rhyme label="b" type="m">oghen</rhyme></l>
         <l id="s1:l3" met="3" type="-+">di stelen mich minen <rhyme label="a" type="f" corresp="#s1:l1">sin</rhyme></l>
         <l id="s1:l4" met="3" type="-+">ic salt vrou marien <rhyme label="b" type="m" corresp="#s1:l2">claghen</rhyme></l>
@@ -29,7 +34,9 @@
         <l id="s2:l2" met="3" type="-+">ic sal mich seluer <rhyme label="b" type="m">wreken</rhyme></l>
         <l id="s2:l3" met="3" type="-+">ic sal uch soe doen <rhyme label="a" type="f" corresp="#s2:l1">minnen</rhyme></l>
         <l id="s2:l4" met="3" type="-+">dat uch dat herte sal <rhyme label="b" type="m" corresp="#s2:l2">breken</rhyme></l>
-        <l id="s2:l5" met="3" type="-+"><rhyme label="c" type="m">kyrieleyson</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">
+          <rhyme label="c" type="m">kyrieleyson</rhyme>
+        </l>
       </lg>
     </lg>
   </text>

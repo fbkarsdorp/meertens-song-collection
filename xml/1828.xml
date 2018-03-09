@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>mythological song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -87,7 +91,9 @@
       </lg>
       <lg id="s8" type="stanza">
         <l id="s8:l1" met="4" type="+-">Dijne pruytsheyt, dijn <rhyme label="a" type="m">beval</rhyme></l>
-        <l id="s8:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s8:l1">Liefghetal</rhyme></l>
+        <l id="s8:l2" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s8:l1">Liefghetal</rhyme>
+        </l>
         <l id="s8:l3" met="4" type="+-">Is nu eenmael <rhyme label="b" type="f">t’ondercomen</rhyme>:</l>
         <l id="s8:l4" met="4" type="+-">Wat voor Meyskens zijnder <rhyme label="c" type="m">noch</rhyme></l>
         <l id="s8:l5" met="2" type="+-">Die ick <rhyme label="c" type="m" corresp="#s8:l4">toch</rhyme></l>

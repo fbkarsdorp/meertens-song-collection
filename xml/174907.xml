@@ -7,10 +7,14 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>dialog song</tag>
-      <tag>children's song</tag>
+      <tag translation="dialogue song">dialooglied</tag>
+      <tag translation="children's song">kinderlied</tag>
     </tags>
     <melody>Heisa! Dat hamert er lustig op toe</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

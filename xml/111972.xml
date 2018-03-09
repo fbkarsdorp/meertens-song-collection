@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>rattle song</tag>
-      <tag>narrative song</tag>
+      <tag translation="nightwatchman's song">ratelaarslied</tag>
+      <tag translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Jezus en Sint Jannetje die speelden met een lammetje</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

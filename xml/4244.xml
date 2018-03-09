@@ -7,11 +7,16 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag>farewell song</tag>
-      <tag>love song</tag>
-      <tag>arcostic</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Kloek ingenieus</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -108,7 +113,9 @@
         <l id="s8:l6" met="2" type="+-">Lijf, en <rhyme label="c" type="m" corresp="#s8:l5">leven</rhyme>,</l>
         <l id="s8:l7" met="3" type="+-">Is u, metter <rhyme label="d" type="m">daet</rhyme>,</l>
         <l id="s8:l8" met="2" type="+-"><rhyme label="c" type="m" corresp="#s8:l5">Toegeschreven</rhyme>,</l>
-        <l id="s8:l9" met="2" type="+-"><rhyme label="c" type="m" corresp="#s8:l5">Overbleuen</rhyme></l>
+        <l id="s8:l9" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s8:l5">Overbleuen</rhyme>
+        </l>
         <l id="s8:l10" met="3" type="+-">Niet, dat my <rhyme label="d" type="m" corresp="#s8:l7">aengaet</rhyme>.</l>
       </lg>
       <lg id="s9" type="stanza">

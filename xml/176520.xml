@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>shepherd's song</tag>
-      <tag>wedding song</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Iets moet ik u Laura vragen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

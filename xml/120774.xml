@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>praise</tag>
-      <tag>secular song</tag>
-      <tag>narrative song</tag>
-      <tag>secular song</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
+      <tag translation="narrative song">verhalend lied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Je t'aime sans détours</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

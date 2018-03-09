@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>history song</tag>
-      <tag>drinking song</tag>
+      <tag translation="historical song">historielied</tag>
+      <tag translation="drinking song">drinklied</tag>
     </tags>
     <melody>Bourgoensen laat ons vrolijk zingen</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

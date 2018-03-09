@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>drinking song</tag>
-      <tag>farewell song</tag>
+      <tag translation="drinking song">drinklied</tag>
+      <tag translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

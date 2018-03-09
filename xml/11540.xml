@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>morning song</tag>
-      <tag>thanks song</tag>
-      <tag>devout song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Psalm 009 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

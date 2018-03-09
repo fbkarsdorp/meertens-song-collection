@@ -15,12 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
-      <tag>spiritual song</tag>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Het voer een knaapje over Rijn</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

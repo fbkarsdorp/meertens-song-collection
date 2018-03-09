@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>shepherd's song</tag>
-      <tag>answersong</tag>
-      <tag>secular song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="pastoral song">herderslied</tag>
+      <tag translation="response song">antwoordlied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Als ik mijn Phyllis kussen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

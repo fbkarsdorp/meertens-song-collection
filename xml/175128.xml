@@ -7,11 +7,15 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag>morning song</tag>
-      <tag>spiritual song</tag>
-      <tag>children's song</tag>
+      <tag translation="morning song">morgenlied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="children's song">kinderlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

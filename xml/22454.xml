@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>funeral song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="funeral song">begrafenislied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Nun lasst uns den Leib begraben</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

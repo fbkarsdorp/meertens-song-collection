@@ -15,11 +15,15 @@
       </coordinates>
     </location>
     <tags>
-      <tag>beggar song</tag>
-      <tag>praise</tag>
-      <tag>secular song</tag>
+      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">wereldlijk</tag>
     </tags>
     <melody>Zijt nu verblijd in deze tijd</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

@@ -15,10 +15,13 @@
       </coordinates>
     </location>
     <tags>
-      <tag>thanks song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="gratitude song">danklied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Jezus die u gedachtig is</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

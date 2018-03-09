@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -33,7 +36,9 @@
         <l id="s1:l9" met="2" type="+-">'T <rhyme label="f" type="m">venus-kruyd</rhyme></l>
         <l id="s1:l10" met="2" type="+-">Willig <rhyme label="f" type="m" corresp="#s1:l9">spruytt</rhyme>:</l>
         <l id="s1:l11" met="2" type="+-"><rhyme label="g" type="m">Tullepaen</rhyme>,</l>
-        <l id="s1:l12" met="2" type="+-"><rhyme label="g" type="m" corresp="#s1:l11">Maioraen</rhyme></l>
+        <l id="s1:l12" met="2" type="+-">
+          <rhyme label="g" type="m" corresp="#s1:l11">Maioraen</rhyme>
+        </l>
         <l id="s1:l13" met="3" type="-+">Op't çierelijckste <rhyme label="e" type="m" corresp="#s1:l8">bloeyt</rhyme>,</l>
         <l id="s1:l14" met="3" type="+-">En vult d'Oogen met <rhyme label="d" type="f" corresp="#s1:l7">vreugden</rhyme>.</l>
       </lg>
@@ -64,7 +69,9 @@
         <l id="s3:l8" met="3" type="-+">Prijst syn begaefde <rhyme label="e" type="m">Bruyd</rhyme>.</l>
         <l id="s3:l9" met="2" type="+-">Tyter <rhyme label="f" type="m">klaegt</rhyme></l>
         <l id="s3:l10" met="2" type="+-">'T gêen hy <rhyme label="f" type="m" corresp="#s3:l9">draegt</rhyme>.</l>
-        <l id="s3:l11" met="2" type="+-"><rhyme label="g" type="m">Galathéé</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">
+          <rhyme label="g" type="m">Galathéé</rhyme>
+        </l>
         <l id="s3:l12" met="2" type="+-">'T <rhyme label="g" type="m" corresp="#s3:l11">minne-vvéé</rhyme></l>
         <l id="s3:l13" met="3" type="-+">Door't Ooge-loncken <rhyme label="e" type="m" corresp="#s3:l8">uytt</rhyme>;</l>
         <l id="s3:l14" met="3" type="+-">'T gêen haer tong niet sou <rhyme label="d" type="f" corresp="#s3:l7">vougen</rhyme>.</l>

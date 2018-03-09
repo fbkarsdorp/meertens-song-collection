@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Mall Peatly</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -29,7 +32,9 @@
         <l id="s1:l5" met="4" type="-+">Mijn boesem die soo is <rhyme label="c" type="m">verlieft</rhyme></l>
         <l id="s1:l6" met="4" type="-+">En van die Celestyn <rhyme label="c" type="m" corresp="#s1:l5">gegrieft</rhyme>,</l>
         <l id="s1:l7" met="4" type="-+">Die moet sich troosten met te <rhyme label="d" type="f">klaagen</rhyme></l>
-        <l id="s1:l8" met="2" type="+-"><rhyme label="d" type="f" corresp="#s1:l7">Minne-plaagen</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s1:l7">Minne-plaagen</rhyme>
+        </l>
         <l id="s1:l9" met="2" type="+-">Nacht en <rhyme label="d" type="f" corresp="#s1:l7">daagen</rhyme>,</l>
         <l id="s1:l10" met="4" type="+-">Daar sy Minnaars mee <rhyme label="c" type="m" corresp="#s1:l5">gerieft</rhyme>.</l>
       </lg>

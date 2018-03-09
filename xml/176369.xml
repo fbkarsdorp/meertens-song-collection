@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>dreaming song</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="dream song ">droomlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="miscellaneous">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

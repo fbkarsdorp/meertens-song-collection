@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>scenic song</tag>
-      <tag>love song</tag>
+      <tag translation="theatre song">toneellied</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -51,7 +55,9 @@
         <l id="s3:l2" met="5" type="-+">De wyse Mont met val en vlot <rhyme label="b" type="f">ontslippen</rhyme>,</l>
         <l id="s3:l3" met="3" type="-+">Die met <rhyme label="a" type="f" corresp="#s3:l1">verstandelheden</rhyme>,</l>
         <l id="s3:l4" met="5" type="-+">Eerst syn ghecleynst door t'breyn en lieve <rhyme label="b" type="f" corresp="#s3:l2">lippen</rhyme>,</l>
-        <l id="s3:l5" met="2" type="-+"><rhyme label="c" type="m">Insonderheydt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">
+          <rhyme label="c" type="m">Insonderheydt</rhyme>
+        </l>
         <l id="s3:l6" met="2" type="-+">Met <rhyme label="c" type="m" corresp="#s3:l5">onderscheyt</rhyme>,</l>
         <l id="s3:l7" met="3" type="-+">En kennisse der <rhyme label="d" type="f">dinghen</rhyme></l>
         <l id="s3:l8" met="2" type="-+">Door dit <rhyme label="e" type="f">opmercken</rhyme></l>

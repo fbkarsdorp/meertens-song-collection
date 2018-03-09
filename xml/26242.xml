@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Chamber of rhetoric's song</tag>
-      <tag>spiritual song</tag>
-      <tag>scriptural song</tag>
-      <tag>admonishing song</tag>
+      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Uw liefde kwelt mij tot de dood</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

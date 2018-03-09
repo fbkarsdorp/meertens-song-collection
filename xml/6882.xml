@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -30,7 +33,9 @@
         <l id="s1:l6" met="2" type="+-">In een swaer verdriet <rhyme label="b" type="m" corresp="#s1:l3">verkeert</rhyme>!</l>
         <l id="s1:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s1:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s1:l7">verslonden</rhyme></l>
-        <l id="s1:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s1:l7">D’onghebonden</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s1:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s1:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s1:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s2" type="stanza">
@@ -42,7 +47,9 @@
         <l id="s2:l6" met="2" type="+-">Door-steken mijn <rhyme label="b" type="m" corresp="#s2:l3">in-ghewandt</rhyme>.</l>
         <l id="s2:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s2:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s2:l7">verslonden</rhyme></l>
-        <l id="s2:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s2:l7">D’onghebonden</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s2:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s2:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s2:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -54,7 +61,9 @@
         <l id="s3:l6" met="2" type="+-">Quam ick by soo vuylen <rhyme label="b" type="m" corresp="#s3:l3">dreck</rhyme>.</l>
         <l id="s3:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s3:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s3:l7">verslonden</rhyme></l>
-        <l id="s3:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s3:l7">D’onghebonden</rhyme></l>
+        <l id="s3:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s3:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s3:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s3:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s4" type="stanza">
@@ -66,7 +75,9 @@
         <l id="s4:l6" met="2" type="+-">Dees’ omring’len my om <rhyme label="b" type="m" corresp="#s4:l3">strijdt</rhyme>.</l>
         <l id="s4:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s4:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s4:l7">verslonden</rhyme></l>
-        <l id="s4:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s4:l7">D’onghebonden</rhyme></l>
+        <l id="s4:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s4:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s4:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s4:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s5" type="stanza">
@@ -78,7 +89,9 @@
         <l id="s5:l6" met="2" type="+-">Als hongher my <rhyme label="b" type="m" corresp="#s5:l3">tormenteert</rhyme>.</l>
         <l id="s5:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s5:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s5:l7">verslonden</rhyme></l>
-        <l id="s5:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s5:l7">D’onghebonden</rhyme></l>
+        <l id="s5:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s5:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s5:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s5:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s6" type="stanza">
@@ -90,7 +103,9 @@
         <l id="s6:l6" met="2" type="+-">Smelten in mijn drooghe <rhyme label="b" type="m" corresp="#s6:l3">borst</rhyme>.</l>
         <l id="s6:l7" met="4" type="+-">Och in wat een korte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s6:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s6:l7">verslonden</rhyme></l>
-        <l id="s6:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s6:l7">D’onghebonden</rhyme></l>
+        <l id="s6:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s6:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s6:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s6:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s7" type="stanza">
@@ -126,7 +141,9 @@
         <l id="s9:l6" met="2" type="+-">Dat ick vleesch en bloet nam <rhyme label="b" type="m" corresp="#s9:l3">aen</rhyme>.</l>
         <l id="s9:l7" met="4" type="+-">Och in wat een corte <rhyme label="d" type="f">stonde</rhyme>,</l>
         <l id="s9:l8" met="4" type="+-">Is <rhyme label="d" type="f" corresp="#s9:l7">verslonden</rhyme></l>
-        <l id="s9:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s9:l7">D’onghebonden</rhyme></l>
+        <l id="s9:l9" met="2" type="+-">
+          <rhyme label="d" type="f" corresp="#s9:l7">D’onghebonden</rhyme>
+        </l>
         <l id="s9:l10" met="2" type="+-">Tijdt van <rhyme label="d" type="f" corresp="#s9:l7">sonde</rhyme>!</l>
       </lg>
       <lg id="s10" type="stanza">

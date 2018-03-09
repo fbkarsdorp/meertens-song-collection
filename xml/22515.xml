@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>Maria song</tag>
-      <tag>praise</tag>
-      <tag>spiritual song</tag>
-      <tag>arcostic</tag>
+      <tag translation="Marian song">Marialied</tag>
+      <tag translation="praise song">loflied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="acrostic song">acrostichon</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -33,10 +38,14 @@
         <l id="s1:l6" met="3" type="-+">sijt ghi o vrou <rhyme label="b" type="f" corresp="#s1:l3">alleyne</rhyme></l>
         <l id="s1:l7" met="4" type="-+">ic roep aen v <rhyme label="c" type="m">ghenadicheit</rhyme></l>
         <l id="s1:l8" met="4" type="-+">want ghi hebt onse <rhyme label="c" type="m" corresp="#s1:l7">salicheit</rhyme></l>
-        <l id="s1:l9" met="1" type="-+"><rhyme label="d" type="f">gheuonden</rhyme></l>
+        <l id="s1:l9" met="1" type="-+">
+          <rhyme label="d" type="f">gheuonden</rhyme>
+        </l>
         <l id="s1:l10" met="4" type="-+">den bant van ons <rhyme label="c" type="m" corresp="#s1:l7">misdadicheit</rhyme></l>
         <l id="s1:l11" met="4" type="+-">hebt ghi mit v <rhyme label="c" type="m" corresp="#s1:l7">oetmoedicheit</rhyme></l>
-        <l id="s1:l12" met="1" type="-+"><rhyme label="d" type="f" corresp="#s1:l9">ontbonden</rhyme></l>
+        <l id="s1:l12" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s1:l9">ontbonden</rhyme>
+        </l>
       </lg>
       <lg id="s2" type="stanza">
         <l id="s2:l1" met="4" type="-+">¶ Een leli claer scoen ende <rhyme label="a" type="m">wit</rhyme></l>
@@ -61,7 +70,9 @@
         <l id="s3:l6" met="3" type="-+">mit tongen of mit <rhyme label="b" type="f" corresp="#s3:l3">synnen</rhyme></l>
         <l id="s3:l7" met="4" type="-+">sij bouen gaet der englen <rhyme label="c" type="m">lof</rhyme></l>
         <l id="s3:l8" met="4" type="-+">so hoech sij di in themels <rhyme label="c" type="m" corresp="#s3:l7">hof</rhyme></l>
-        <l id="s3:l9" met="1" type="-+"><rhyme label="d" type="f">verheuen</rhyme></l>
+        <l id="s3:l9" met="1" type="-+">
+          <rhyme label="d" type="f">verheuen</rhyme>
+        </l>
         <l id="s3:l10" met="4" type="-+">wat soud wi sonders doch hier <rhyme label="c" type="m" corresp="#s3:l7">of</rhyme></l>
         <l id="s3:l11" met="4" type="+-">die niet en sijn van ass ende <rhyme label="c" type="m" corresp="#s3:l7">stof</rhyme></l>
         <l id="s3:l12" met="1" type="-+">lof <rhyme label="d" type="f" corresp="#s3:l9">gheuen</rhyme></l>
@@ -75,7 +86,9 @@
         <l id="s4:l6" met="3" type="-+">sidi in themels <rhyme label="b" type="f" corresp="#s4:l3">gaerden</rhyme></l>
         <l id="s4:l7" met="4" type="-+">tbesloten hof sidi <rhyme label="c" type="m">alleyn</rhyme></l>
         <l id="s4:l8" met="4" type="-+">ende die gheteikende <rhyme label="c" type="m" corresp="#s4:l7">fonteyn</rhyme></l>
-        <l id="s4:l9" met="1" type="-+"><rhyme label="d" type="f">vriendinne</rhyme></l>
+        <l id="s4:l9" met="1" type="-+">
+          <rhyme label="d" type="f">vriendinne</rhyme>
+        </l>
         <l id="s4:l10" met="4" type="-+">gods bruit gods duif gods suuer <rhyme label="c" type="m" corresp="#s4:l7">reyn</rhyme></l>
         <l id="s4:l11" met="4" type="+-">eens kijnts mit god den vader <rhyme label="c" type="m" corresp="#s4:l7">gemeijn</rhyme></l>
         <l id="s4:l12" met="1" type="-+">sijn <rhyme label="d" type="f" corresp="#s4:l9">minne</rhyme></l>
@@ -89,10 +102,14 @@
         <l id="s5:l6" met="3" type="-+">die ghi nv draecht mit <rhyme label="b" type="f" corresp="#s5:l3">eren</rhyme></l>
         <l id="s5:l7" met="4" type="-+">die sonne heeft v <rhyme label="c" type="m">ombeuaen</rhyme></l>
         <l id="s5:l8" met="4" type="-+">mit vwe voeten heb di die <rhyme label="c" type="m" corresp="#s5:l7">maen</rhyme></l>
-        <l id="s5:l9" met="1" type="-+"><rhyme label="d" type="f">beschreden</rhyme></l>
+        <l id="s5:l9" met="1" type="-+">
+          <rhyme label="d" type="f">beschreden</rhyme>
+        </l>
         <l id="s5:l10" met="4" type="-+">die englen sijn v <rhyme label="c" type="m" corresp="#s5:l7">onderdaen</rhyme></l>
         <l id="s5:l11" met="4" type="+-">des viants crachten heb di <rhyme label="c" type="m" corresp="#s5:l7">saen</rhyme></l>
-        <l id="s5:l12" met="1" type="-+"><rhyme label="d" type="f" corresp="#s5:l9">vertreden</rhyme></l>
+        <l id="s5:l12" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s5:l9">vertreden</rhyme>
+        </l>
       </lg>
       <lg id="s6" type="stanza">
         <l id="s6:l1" met="4" type="-+">¶ Voerwaer ghi sijt die <rhyme label="a" type="m">eglentier</rhyme></l>
@@ -106,7 +123,9 @@
         <l id="s6:l9" met="1" type="-+">o <rhyme label="d" type="f">reyne</rhyme></l>
         <l id="s6:l10" met="4" type="-+">ghi leit doer v <rhyme label="c" type="m" corresp="#s6:l7">ghenadicheit</rhyme></l>
         <l id="s6:l11" met="4" type="+-">den sondaers totter <rhyme label="c" type="m" corresp="#s6:l7">salicheit</rhyme></l>
-        <l id="s6:l12" met="1" type="-+"><rhyme label="d" type="f" corresp="#s6:l9">ghemeyne</rhyme></l>
+        <l id="s6:l12" met="1" type="-+">
+          <rhyme label="d" type="f" corresp="#s6:l9">ghemeyne</rhyme>
+        </l>
       </lg>
       <lg id="s7" type="stanza">
         <l id="s7:l1" met="4" type="-+">¶ U werdicheit wel <rhyme label="a" type="m">toebehoort</rhyme></l>
@@ -131,7 +150,9 @@
         <l id="s8:l6" met="3" type="-+">ende al themels <rhyme label="b" type="f" corresp="#s8:l3">ghesinne</rhyme></l>
         <l id="s8:l7" met="4" type="-+">nv bidden wij <rhyme label="c" type="m">ootmoedelijc</rhyme></l>
         <l id="s8:l8" met="4" type="-+">dat wi mit v ons al <rhyme label="c" type="m" corresp="#s8:l7">ghelijc</rhyme></l>
-        <l id="s8:l9" met="1" type="-+"><rhyme label="d" type="f">verbliden</rhyme></l>
+        <l id="s8:l9" met="1" type="-+">
+          <rhyme label="d" type="f">verbliden</rhyme>
+        </l>
         <l id="s8:l10" met="4" type="-+">hier bouen in dat soete <rhyme label="c" type="m" corresp="#s8:l7">rijc</rhyme></l>
         <l id="s8:l11" met="4" type="+-">daer vroechd sal wesen <rhyme label="c" type="m" corresp="#s8:l7">ewelijc</rhyme></l>
         <l id="s8:l12" met="1" type="-+">en <rhyme label="d" type="f" corresp="#s8:l9">tiden</rhyme>.</l>

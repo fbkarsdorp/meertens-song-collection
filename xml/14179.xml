@@ -15,13 +15,18 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>farewell song</tag>
-      <tag>spiritual song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="farewell song">afscheidslied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
     </tags>
     <melody>Een meisje op een riviertje zat</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

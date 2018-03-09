@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Windje daar het bos af drilt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -56,7 +59,9 @@
       <lg id="s5" type="stanza">
         <l id="s5:l1" met="4" type="-+">Christus de Heere vol <rhyme label="a" type="m">genaet</rhyme>,</l>
         <l id="s5:l2" met="4" type="+-">Die sijn schepsel niet <rhyme label="a" type="m" corresp="#s5:l1">verlaet</rhyme>,</l>
-        <l id="s5:l3" met="2" type="+-"><rhyme label="b" type="f">Predikanten</rhyme></l>
+        <l id="s5:l3" met="2" type="+-">
+          <rhyme label="b" type="f">Predikanten</rhyme>
+        </l>
         <l id="s5:l4" met="2" type="+-">Alle <rhyme label="b" type="f" corresp="#s5:l3">kanten</rhyme></l>
         <l id="s5:l5" met="4" type="+-">Sendet uyt, die vangen <rhyme label="c" type="m">ras</rhyme></l>
         <l id="s5:l6" met="4" type="+-">Die sondaer die int wilde <rhyme label="c" type="m" corresp="#s5:l5">was</rhyme>.</l>

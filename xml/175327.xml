@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>prayer song</tag>
-      <tag>patriotic song</tag>
+      <tag translation="prayer song">gebedslied</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

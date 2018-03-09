@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
+      <tag translation="love song">liefdeslied</tag>
     </tags>
     <melody>O roosje rood o parel jent</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -32,7 +35,9 @@
         <l id="s2:l1" met="4" type="-+">Sy nam de banden, tot sijnder <rhyme label="a" type="m">schandt</rhyme>,</l>
         <l id="s2:l2" met="4" type="-+">Die sy noch an den, pijl-koker <rhyme label="a" type="m" corresp="#s2:l1">vandt</rhyme>,</l>
         <l id="s2:l3" met="4" type="-+">En bondt bequaem, sijn handen <rhyme label="b" type="m">t’saem</rhyme></l>
-        <l id="s2:l4" met="1" type="-+"><rhyme label="c" type="m">Aleer</rhyme></l>
+        <l id="s2:l4" met="1" type="-+">
+          <rhyme label="c" type="m">Aleer</rhyme>
+        </l>
         <l id="s2:l5" met="5" type="-+">Dat hy ontwaken cost en bieden <rhyme label="c" type="m" corresp="#s2:l4">weer</rhyme>.</l>
       </lg>
       <lg id="s3" type="stanza">
@@ -53,7 +58,9 @@
         <l id="s5:l1" met="4" type="-+">Wech, wech, ghy blinde, verlooren <rhyme label="a" type="m">soon</rhyme>,</l>
         <l id="s5:l2" met="4" type="-+">Want mijn beminde, stelt my <rhyme label="a" type="m" corresp="#s5:l1">gheboon</rhyme>,</l>
         <l id="s5:l3" met="4" type="-+">Sy stiert mijn sin, als mijn <rhyme label="b" type="m">Goddin</rhyme></l>
-        <l id="s5:l4" met="1" type="-+"><rhyme label="c" type="m">Altijt</rhyme></l>
+        <l id="s5:l4" met="1" type="-+">
+          <rhyme label="c" type="m">Altijt</rhyme>
+        </l>
         <l id="s5:l5" met="5" type="-+">Dewijl ghy maer een o in’t Chijpher <rhyme label="c" type="m" corresp="#s5:l4">zijt</rhyme>.</l>
       </lg>
       <lg id="s6" type="stanza">

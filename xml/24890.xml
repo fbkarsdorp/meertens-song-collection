@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>roundel</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Niemand meer dan dijn alleen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

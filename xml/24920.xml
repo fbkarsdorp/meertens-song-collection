@@ -15,11 +15,16 @@
       </coordinates>
     </location>
     <tags>
-      <tag>love song</tag>
-      <tag>May song</tag>
-      <tag>roundel</tag>
+      <tag translation="love song">liefdeslied</tag>
+      <tag translation="May song">meilied</tag>
+      <tag translation="rondeau">rondeel</tag>
     </tags>
     <melody>Mei dijn vreugdenrijk begin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

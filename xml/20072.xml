@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>wedding song</tag>
+      <tag translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>La Vignonne</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -43,7 +46,9 @@
         <l id="s2:l4" met="2" type="-+">Wat valt ghy <rhyme label="b" type="m" corresp="#s2:l3">suyr</rhyme>,</l>
         <l id="s2:l5" met="4" type="-+">Ghy staet my leyder al te <rhyme label="b" type="m" corresp="#s2:l3">duyr</rhyme>,</l>
         <l id="s2:l6" met="1" type="-+">Mijn <rhyme label="c" type="f">zieltje</rhyme>,</l>
-        <l id="s2:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s2:l6">Gevieltje</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s2:l6">Gevieltje</rhyme>
+        </l>
         <l id="s2:l8" met="1" type="-+">Dat <rhyme label="d" type="m">ghy</rhyme></l>
         <l id="s2:l9" met="1" type="-+">Met <rhyme label="d" type="m" corresp="#s2:l8">my</rhyme></l>
         <l id="s2:l10" met="2" type="-+">Zy aen <rhyme label="d" type="m" corresp="#s2:l8">zy</rhyme>,</l>

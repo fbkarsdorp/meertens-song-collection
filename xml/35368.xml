@@ -15,12 +15,17 @@
       </coordinates>
     </location>
     <tags>
-      <tag>craft song</tag>
-      <tag>reflective song</tag>
-      <tag>spiritual song</tag>
-      <tag>consolation song</tag>
+      <tag translation="trademan's song">ambachtslied</tag>
+      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag translation="">geestelijk</tag>
+      <tag translation="consolation song">troostlied</tag>
     </tags>
     <melody>Ach Belinde</melody>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="emotions">emoties</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">

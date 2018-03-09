@@ -15,9 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag>spiritual song</tag>
+      <tag translation="religious song">geestelijk lied</tag>
     </tags>
     <melody>Repicaban</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
@@ -35,7 +38,9 @@
         <l id="s2:l2" met="4" type="-+">U boven alle goet <rhyme label="a" type="f" corresp="#s2:l1">beminnen</rhyme>,</l>
         <l id="s2:l3" met="4" type="-+">En al mijn werck van u <rhyme label="a" type="f" corresp="#s2:l1">beginnen</rhyme></l>
         <l id="s2:l4" met="3" type="-+">Iesu Iesu geen <rhyme label="b" type="m">dromen</rhyme></l>
-        <l id="s2:l5" met="1" type="-+"><rhyme label="b" type="m" corresp="#s2:l4">Aenkomen</rhyme></l>
+        <l id="s2:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s2:l4">Aenkomen</rhyme>
+        </l>
         <l id="s2:l6" met="5" type="-+">Als uwen soete naem in mijnen <rhyme label="c" type="m">slaep</rhyme>,</l>
         <l id="s2:l7" met="5" type="-+">Als uwen soete naem in mijnen <rhyme label="c" type="m" corresp="#s2:l6">slaep</rhyme>.</l>
       </lg>
@@ -53,7 +58,9 @@
         <l id="s4:l2" met="4" type="-+">Van uwe goddelijcke <rhyme label="a" type="f" corresp="#s4:l1">raden</rhyme>,</l>
         <l id="s4:l3" met="4" type="-+">Die my de werelt doen <rhyme label="a" type="f" corresp="#s4:l1">versmaden</rhyme>.</l>
         <l id="s4:l4" met="3" type="-+">Iesu Iesu ick <rhyme label="b" type="m">leere</rhyme></l>
-        <l id="s4:l5" met="1" type="-+"><rhyme label="b" type="m" corresp="#s4:l4">Tereere</rhyme></l>
+        <l id="s4:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s4:l4">Tereere</rhyme>
+        </l>
         <l id="s4:l6" met="5" type="-+">Van uwen lieve naem mijn wit <rhyme label="c" type="m">alleen</rhyme>,</l>
         <l id="s4:l7" met="5" type="-+">Van uwen lieve naem mijn wit <rhyme label="c" type="m" corresp="#s4:l6">alleen</rhyme>.</l>
       </lg>
@@ -71,7 +78,9 @@
         <l id="s6:l2" met="4" type="-+">O Manna vol van <rhyme label="a" type="f" corresp="#s6:l1">soetigheden</rhyme></l>
         <l id="s6:l3" met="4" type="-+">Ghy zijt de ziel van mijn <rhyme label="a" type="f" corresp="#s6:l1">gebeden</rhyme>.</l>
         <l id="s6:l4" met="3" type="-+">Iesu Iesu geen <rhyme label="b" type="m">smaken</rhyme></l>
-        <l id="s6:l5" met="1" type="-+"><rhyme label="b" type="m" corresp="#s6:l4">Vermaken</rhyme></l>
+        <l id="s6:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s6:l4">Vermaken</rhyme>
+        </l>
         <l id="s6:l6" met="5" type="-+">Als uwen soete naem, al mijnen <rhyme label="c" type="m">lust</rhyme>,</l>
         <l id="s6:l7" met="5" type="-+">Als uwen soete naem, al mijnen <rhyme label="c" type="m" corresp="#s6:l6">lust</rhyme>.</l>
       </lg>

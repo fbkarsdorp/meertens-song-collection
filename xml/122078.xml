@@ -15,10 +15,14 @@
       </coordinates>
     </location>
     <tags>
-      <tag>patriotic song</tag>
-      <tag>soldier's song</tag>
+      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag translation="soldier's song">soldatenlied</tag>
     </tags>
-    <melody></melody>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="work">werk</category>
+    </categories>
   </meta>
   <text>
     <lg type="song">
