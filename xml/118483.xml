@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="evening song">avondlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
     </tags>
     <melody>Psalm 012 Datheen</melody>
     <categories>

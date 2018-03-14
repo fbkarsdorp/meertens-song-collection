@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="May song">meilied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="pastoral song">herderslied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Schone Cato</melody>
     <categories>

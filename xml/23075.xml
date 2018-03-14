@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="acrostic song">acrostichon</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>O Venus' band o vurige brand</melody>
     <categories>

@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="response song">antwoordlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
     </tags>
     <melody>Lass nur der Politiker sprechen</melody>
     <categories>

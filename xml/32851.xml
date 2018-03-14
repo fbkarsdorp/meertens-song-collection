@@ -7,10 +7,9 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="martyr song">martelaarslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
     </tags>
     <melody>Hoe lustelijk is ons de koele mei gedaan</melody>
     <categories>

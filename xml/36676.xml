@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Mijn hart gaat op vol vreugden zoet</melody>
     <categories>

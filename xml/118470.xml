@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Het daagt in de oosten</melody>
     <categories>

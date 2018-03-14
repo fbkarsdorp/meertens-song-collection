@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="trademan's song">ambachtslied</tag>
-      <tag translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody/>
     <categories>

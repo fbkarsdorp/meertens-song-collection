@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="dancing song">danslied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
     </tags>
     <melody>Ik vrijde een vrouwtje</melody>
     <categories>

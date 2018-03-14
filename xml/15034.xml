@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="political song">politiek lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
     </tags>
     <melody>La Maurice</melody>
     <categories>

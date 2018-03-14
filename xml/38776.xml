@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Het zou een meisje gaan om wijn</melody>
     <categories>

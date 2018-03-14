@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="response song">antwoordlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
     </tags>
     <melody/>
     <categories>

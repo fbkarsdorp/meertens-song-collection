@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="martyr song">martelaarslied</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Een eeuwige vreugde die niet en vergaat</melody>
     <categories>

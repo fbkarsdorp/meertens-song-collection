@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Op u betrouw ik Heer</melody>
     <categories>

@@ -15,8 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="orangist song">oranjelied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
     <categories>

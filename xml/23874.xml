@@ -7,12 +7,10 @@
       <year-end>1592</year-end>
     </date>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Nun freut euch liebe Christen</melody>
     <categories>

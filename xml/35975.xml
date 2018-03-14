@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Pentecost song">pinksterlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="pinksterlied" translation="Pentecostal song">pinksterlied</tag>
     </tags>
     <melody>Lisette me disait un jour</melody>
     <categories>

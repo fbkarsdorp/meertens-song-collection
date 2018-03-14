@@ -7,10 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Marian song">Marialied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
     </tags>
     <melody>Rijke God wie zal ik klagen</melody>
     <categories>

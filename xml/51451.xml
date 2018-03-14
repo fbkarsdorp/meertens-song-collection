@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mourning song">rouwlied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="rouwlied" translation="mourning song">rouwlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody/>
     <categories>

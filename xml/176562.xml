@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>Delftenaartje</melody>
     <categories>

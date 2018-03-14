@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody>Van Helena</melody>
     <categories>

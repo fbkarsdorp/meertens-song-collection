@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
     </tags>
     <melody>Conditor alme siderum</melody>
     <categories>

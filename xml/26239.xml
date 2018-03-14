@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="rhetorician song">rederijkerslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Het hart is mij vol onrust</melody>
     <categories>

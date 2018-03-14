@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Tien geboden</melody>
     <categories>

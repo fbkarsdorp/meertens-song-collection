@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="mystical song">mystiek lied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Ik zeg adieu</melody>
     <categories>

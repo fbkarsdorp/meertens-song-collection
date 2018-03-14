@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="martyr song">martelaarslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
     </tags>
     <melody>Aanhoor o God mijn zuchten</melody>
     <categories>

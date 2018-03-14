@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="acrostic song">acrostichon</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
     <categories>

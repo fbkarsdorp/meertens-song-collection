@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="protest song">protestlied</tag>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody/>
     <categories>

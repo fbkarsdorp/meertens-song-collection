@@ -7,9 +7,9 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag translation="children's song">kinderlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="slumber song">slaaplied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="slaaplied" translation="slumber song">slaaplied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody/>
     <categories>

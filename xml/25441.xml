@@ -7,10 +7,9 @@
       <year-end>1430</year-end>
     </date>
     <tags>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="love song">liefdeslied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody/>
     <categories>

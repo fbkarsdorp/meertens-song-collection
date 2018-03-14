@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="seasonal song">seizoenslied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="seizoenslied" translation="seasonal song">seizoenslied</tag>
     </tags>
     <melody>Psalm 081 Datheen</melody>
     <categories>

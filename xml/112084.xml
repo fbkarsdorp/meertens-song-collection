@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Psalm 116 Datheen</melody>
     <categories>

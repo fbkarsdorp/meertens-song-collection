@@ -7,8 +7,8 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="Marian song">Marialied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
     </tags>
     <melody>Dies est laetitiae in ortu regali</melody>
     <categories>

@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="patriotic song">vaderlands lied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody/>
     <categories>

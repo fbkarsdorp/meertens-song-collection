@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody/>
     <categories>

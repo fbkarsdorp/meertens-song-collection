@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="saint song">heiligenlied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="love complaint">liefdesklacht</tag>
-      <tag translation="dialogue song">dialooglied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Ik droomde laatst bij nachten</melody>
     <categories>

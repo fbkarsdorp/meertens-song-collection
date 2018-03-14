@@ -7,10 +7,10 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="acrostic song">acrostichon</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Het reed er een ridder uit jagen</melody>
     <categories>

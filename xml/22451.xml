@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="children's song">kinderlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
     </tags>
     <melody>Veni redemptor gentium</melody>
     <categories>

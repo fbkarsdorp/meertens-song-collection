@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="acrostic song">acrostichon</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Psalm 002 Datheen</melody>
     <categories>

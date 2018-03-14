@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="children's song">kinderlied</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Vom Himmel hoch da komm ich her</melody>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Psalm 100 Datheen</melody>
     <categories>

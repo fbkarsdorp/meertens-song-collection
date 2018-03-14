@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Och ik mag wel droevig schreien</melody>
     <categories>

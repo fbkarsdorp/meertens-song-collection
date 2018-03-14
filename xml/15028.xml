@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Come shepherds deck your heads</melody>
     <categories>

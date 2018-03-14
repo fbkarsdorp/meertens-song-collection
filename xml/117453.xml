@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody>Repicaban</melody>
     <categories>

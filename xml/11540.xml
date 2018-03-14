@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="devotional song">devoot lied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Psalm 009 Datheen</melody>
     <categories>

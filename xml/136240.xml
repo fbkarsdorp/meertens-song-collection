@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="kermesse song">kermislied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="kermislied" translation="fairground song">kermislied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="choral song">koor</tag>
-      <tag translation="response song">antwoordlied</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="koor" translation="choral song">koor</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
     </tags>
     <melody/>
     <categories>

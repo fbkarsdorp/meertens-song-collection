@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="drinking song">drinklied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Windje daar het bos af drilt</melody>
     <categories>

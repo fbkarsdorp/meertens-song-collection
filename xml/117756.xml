@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="mythological song">mythologisch lied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="pastoral song">herderslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
     </tags>
     <melody>Toen Daphne de overschone maagd</melody>
     <categories>

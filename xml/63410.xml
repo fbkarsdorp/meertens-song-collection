@@ -7,10 +7,9 @@
       <year-end>1830</year-end>
     </date>
     <tags>
-      <tag translation="patriotic song">vaderlands lied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="triumph song">triomflied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
     </tags>
     <melody>Al is ons prinsje nog zo klein</melody>
     <categories>

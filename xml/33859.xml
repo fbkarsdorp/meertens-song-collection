@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="biblical history song">bijbels historielied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Hoe lig ik hier in deze ellende</melody>
     <categories>

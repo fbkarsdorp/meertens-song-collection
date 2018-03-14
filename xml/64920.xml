@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="farewell song">afscheidslied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
     </tags>
     <melody/>
     <categories>

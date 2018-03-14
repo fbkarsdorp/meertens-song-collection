@@ -11,8 +11,8 @@
       <standard-name>Unknown</standard-name>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="mocking song">spotlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
     </tags>
     <melody>Al is ons prinsje nog zo klein</melody>
     <categories>

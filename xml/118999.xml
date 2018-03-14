@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="vowel song">klinkerlied</tag>
-      <tag translation="drinking song">drinklied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="klinkerlied" translation="vowel song">klinkerlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>A a a valete studia</melody>
     <categories>

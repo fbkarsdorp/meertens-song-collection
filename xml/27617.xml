@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="morning song">morgenlied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
     </tags>
     <melody>Psalm 119 Datheen</melody>
     <categories>

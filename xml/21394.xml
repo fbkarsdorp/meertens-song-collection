@@ -7,11 +7,9 @@
       <year-end>1592</year-end>
     </date>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="May song">meilied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
     </tags>
     <melody>Ik heb de wereld zeer bemind</melody>
     <categories>

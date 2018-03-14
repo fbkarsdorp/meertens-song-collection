@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
     <categories>

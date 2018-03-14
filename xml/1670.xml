@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="watchman's song">wachterlied</tag>
-      <tag translation="May song">meilied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="love song">liefdeslied</tag>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
     </tags>
     <melody>Het viel een hemelse dauw</melody>
     <categories>

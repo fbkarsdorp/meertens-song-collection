@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Ballet des trois princes</melody>
     <categories>

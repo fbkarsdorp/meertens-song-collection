@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Ferme jongens stoere knapen</melody>
     <categories>

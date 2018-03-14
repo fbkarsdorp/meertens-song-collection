@@ -7,9 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="advent song">adventslied</tag>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="devotional song">devoot lied</tag>
+      <tag standard-name="adventslied" translation="advent song">adventslied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
     </tags>
     <melody/>
     <categories>

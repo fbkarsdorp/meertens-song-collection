@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Shrovetide Carnival song">vastenavondlied</tag>
-      <tag translation="drinking song">drinklied</tag>
-      <tag translation="mocking song">spotlied</tag>
+      <tag standard-name="vastenavondlied" translation="Shrovetide Carnival song">vastenavondlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
     </tags>
     <melody>Onlangs zijnde vol onrusten</melody>
     <categories>

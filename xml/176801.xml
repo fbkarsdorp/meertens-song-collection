@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Psalm 138 Datheen</melody>
     <categories>

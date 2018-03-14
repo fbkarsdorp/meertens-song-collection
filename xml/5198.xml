@@ -7,10 +7,10 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="orangist song">oranjelied</tag>
-      <tag translation="praise song">loflied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Wilhelmus</melody>
     <categories>

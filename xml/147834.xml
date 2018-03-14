@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody/>
     <categories>

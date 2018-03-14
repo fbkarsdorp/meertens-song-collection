@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="acrostic song">acrostichon</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="mystical song">mystiek lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Ik kwam tot een dans, daar menig jonkvrouwtje was</melody>
     <categories>

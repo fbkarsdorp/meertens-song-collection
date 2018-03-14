@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Rozemond die lag gedoken</melody>
     <categories>

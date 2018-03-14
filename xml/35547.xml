@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Boksvoetje</melody>
     <categories>

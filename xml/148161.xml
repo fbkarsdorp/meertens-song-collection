@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Psalm 077 Datheen</melody>
     <categories>

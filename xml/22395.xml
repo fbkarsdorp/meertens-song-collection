@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Christmas song">kerstlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Dank sagen wir alle Gott</melody>
     <categories>

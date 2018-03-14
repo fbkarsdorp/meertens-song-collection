@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="pastoral song">herderslied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Polyphemus aan de stranden</melody>
     <categories>

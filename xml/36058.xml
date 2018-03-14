@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="moralistic song">moralistisch lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="May song">meilied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Het ging een meisje aan de kant</melody>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="orangist song">oranjelied</tag>
-      <tag translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
     </tags>
     <melody>O jammer en ellende</melody>
     <categories>

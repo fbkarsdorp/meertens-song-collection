@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="lament">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Roosjes in de mei</melody>
     <categories>

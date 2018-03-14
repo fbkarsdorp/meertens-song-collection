@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Ik zie de dag in het oosten opgaan</melody>
     <categories>

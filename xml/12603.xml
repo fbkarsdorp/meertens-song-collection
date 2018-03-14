@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody>Het was een fraai rijk burgerskind</melody>
     <categories>

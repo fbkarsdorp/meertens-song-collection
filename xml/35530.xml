@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>De mei die komt ons bij zeer blij</melody>
     <categories>

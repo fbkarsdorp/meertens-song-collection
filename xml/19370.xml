@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="mystical song">mystiek lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
     </tags>
     <melody/>
     <categories>

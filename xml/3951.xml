@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Ik had een gestadig minnetje</melody>
     <categories>

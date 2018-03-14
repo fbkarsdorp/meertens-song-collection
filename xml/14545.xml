@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="pilgrim song">pelgrimslied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="pelgrimslied" translation="pilgrim song">pelgrimslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Ik ben een arme pelgrim hier</melody>
     <categories>

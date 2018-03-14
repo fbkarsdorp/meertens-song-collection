@@ -7,9 +7,9 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="farewell song">afscheidslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Rijke God wie zal ik klagen</melody>
     <categories>

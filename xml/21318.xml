@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="Easter song">paaslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Schoon liefje jent zeer excellent</melody>
     <categories>

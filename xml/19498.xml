@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="drinking song">drinklied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
     </tags>
     <melody/>
     <categories>

@@ -7,10 +7,10 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="lament">klaaglied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Es ist das Heil uns kommen her</melody>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
-      <tag translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
     </tags>
     <melody>Van de witkleppen</melody>
     <categories>

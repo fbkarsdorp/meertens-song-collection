@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="rhetorician song">rederijkerslied</tag>
-      <tag translation="love song">liefdeslied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody>In Babylon met onverstand</melody>
     <categories>

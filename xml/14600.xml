@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="">gezongen Onze Vader</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen Onze Vader</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
     <categories>

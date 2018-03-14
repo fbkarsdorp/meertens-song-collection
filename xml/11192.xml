@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="martyr song">martelaarslied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Mijn God waar zal ik heengaan</melody>
     <categories>

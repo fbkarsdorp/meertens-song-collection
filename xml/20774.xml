@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="prayer">gebed</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Tweede Carileen</melody>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody/>
     <categories>

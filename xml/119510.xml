@@ -15,7 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody>Pour l'amitié</melody>
     <categories>

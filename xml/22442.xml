@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
     <categories>

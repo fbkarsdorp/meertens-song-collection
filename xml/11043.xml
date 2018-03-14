@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Psalm 033 Datheen</melody>
     <categories>

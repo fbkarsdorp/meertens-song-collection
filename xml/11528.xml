@@ -15,9 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Het daagt in de oosten</melody>
     <categories>

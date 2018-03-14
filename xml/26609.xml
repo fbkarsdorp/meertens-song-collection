@@ -7,14 +7,10 @@
       <year-end>1599</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Psalm 128 Datheen</melody>
     <categories>

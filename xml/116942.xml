@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="trademan's song">ambachtslied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Allemande amoureus</melody>
     <categories>

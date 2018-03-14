@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="protest song">protestlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="protestlied" translation="protest song">protestlied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,9 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="response song">antwoordlied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
     </tags>
     <melody>Ne vous offensez madame</melody>
     <categories>

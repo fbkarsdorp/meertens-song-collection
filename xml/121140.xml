@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="response song">antwoordlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
     </tags>
     <melody/>
     <categories>

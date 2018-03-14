@@ -7,8 +7,9 @@
       <year-end>1616</year-end>
     </date>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="choral song">koor</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="koor" translation="choral song">koor</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Si c'est pour mon pucelage</melody>
     <categories>

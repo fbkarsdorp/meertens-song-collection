@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Van de petjes</melody>
     <categories>

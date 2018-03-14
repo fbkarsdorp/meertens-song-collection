@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="consolation song">troostlied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Que la danse m'est contraire</melody>
     <categories>

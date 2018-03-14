@@ -15,8 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="May song">meilied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Van de herder Pyramus en Thisbe</melody>
     <categories>

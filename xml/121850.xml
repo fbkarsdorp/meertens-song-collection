@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="dining song">tafellied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
     </tags>
     <melody>Al is ons prinsje nog zo klein</melody>
     <categories>

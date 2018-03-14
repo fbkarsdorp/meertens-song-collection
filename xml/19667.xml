@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody/>
     <categories>

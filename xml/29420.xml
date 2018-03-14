@@ -11,10 +11,8 @@
       <standard-name>Southern Netherlands</standard-name>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Ce petit enfant amour</melody>
     <categories>

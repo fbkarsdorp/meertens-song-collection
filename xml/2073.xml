@@ -15,7 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="religious song">geestelijk lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+      <tag standard-name="passielied" translation="passion song">passielied</tag>
     </tags>
     <melody/>
     <categories>

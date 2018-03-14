@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Wenn mein Stündlein vorhanden ist</melody>
     <categories>

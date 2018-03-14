@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="humorous song">kluchtlied</tag>
-      <tag translation="mocking song">spotlied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
     </tags>
     <melody>Van Hensburg</melody>
     <categories>

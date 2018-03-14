@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialect song">dialectlied</tag>
-      <tag translation="Shrovetide Carnival song">vastenavondlied</tag>
-      <tag translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+      <tag standard-name="vastenavondlied" translation="Shrovetide Carnival song">vastenavondlied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Corydon kom hier wat praten</melody>
     <categories>

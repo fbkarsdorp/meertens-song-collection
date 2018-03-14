@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="battle song">strijdlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="strijdlied" translation="battle song">strijdlied</tag>
     </tags>
     <melody>Een ridder en een meisje jong</melody>
     <categories>

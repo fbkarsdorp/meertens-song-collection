@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="gratitude song">danklied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody>Psalm 065 Datheen</melody>
     <categories>

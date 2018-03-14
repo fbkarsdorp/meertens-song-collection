@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
     </tags>
     <melody>Psalm 068 Datheen</melody>
     <categories>

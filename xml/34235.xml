@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody>Phoebus is lang over de zee</melody>
     <categories>

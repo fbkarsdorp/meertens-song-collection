@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="orangist song">oranjelied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Dat vrij een vrek zijn schijven telt</melody>
     <categories>

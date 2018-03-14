@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>De lustelijke mei is nu in de tijd</melody>
     <categories>

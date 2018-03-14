@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="advent song">adventslied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="adventslied" translation="advent song">adventslied</tag>
     </tags>
     <melody>Maria heden is van u geboren</melody>
     <categories>

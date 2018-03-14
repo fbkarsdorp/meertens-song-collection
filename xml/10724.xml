@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Hoe zalig zijn de landen</melody>
     <categories>

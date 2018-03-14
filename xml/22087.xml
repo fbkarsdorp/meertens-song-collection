@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="praise song">loflied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Waar is de dochter van Sion</melody>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mystical song">mystiek lied</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="Christmas song">kerstlied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
     </tags>
     <melody>Nu hoor wat ik u schenk</melody>
     <categories>

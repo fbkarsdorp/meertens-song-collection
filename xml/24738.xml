@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Het was een ridder wel gedaan</melody>
     <categories>

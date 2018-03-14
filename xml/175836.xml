@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="triumph song">triomflied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
     </tags>
     <melody>Wilhelmus</melody>
     <categories>

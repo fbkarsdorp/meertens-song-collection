@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="trademan's song">ambachtslied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="oogstlied" translation="harvesting song">oogstlied</tag>
     </tags>
     <melody/>
     <categories>

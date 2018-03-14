@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mythological song">mythologisch lied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody/>
     <categories>

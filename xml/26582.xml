@@ -7,13 +7,11 @@
       <year-end>1562</year-end>
     </date>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="rhetorician song">rederijkerslied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="dancing song">danslied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="humorous song">kluchtlied</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Dies est laetitiae in ortu regali</melody>
     <categories>

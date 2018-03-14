@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="May song">meilied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Easter song">paaslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
     </tags>
     <melody>De oude Hillebrand</melody>
     <categories>

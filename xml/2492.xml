@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="welcome song">welkomstlied</tag>
-      <tag translation="praise song">loflied</tag>
+      <tag standard-name="welkomstlied" translation="welcome song">welkomstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
     <categories>

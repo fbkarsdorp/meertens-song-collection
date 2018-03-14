@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
     </tags>
     <melody>La marine</melody>
     <categories>

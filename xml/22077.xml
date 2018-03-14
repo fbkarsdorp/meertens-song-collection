@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="martyr song">martelaarslied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
     </tags>
     <melody>Wilhelmus</melody>
     <categories>

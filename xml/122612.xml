@@ -15,8 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="triumph song">triomflied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="anti-geuzenlied" translation="anti-Geuzen song">anti-geuzenlied</tag>
     </tags>
     <melody>Onlangs zijnde vol onrusten</melody>
     <categories>

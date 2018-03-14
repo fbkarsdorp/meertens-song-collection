@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="humorous song">kluchtlied</tag>
-      <tag translation="love song">liefdeslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody>Die mint die lijdt veel pijn</melody>
     <categories>

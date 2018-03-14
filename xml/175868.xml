@@ -15,11 +15,11 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="triumph song">triomflied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
     </tags>
     <melody>Ik ben niet als een pluim</melody>
     <categories>

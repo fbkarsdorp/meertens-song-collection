@@ -7,12 +7,9 @@
       <year-end>1818</year-end>
     </date>
     <tags>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody/>
     <categories>

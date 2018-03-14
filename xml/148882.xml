@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
     </tags>
     <melody>Ein feste Burg</melody>
     <categories>

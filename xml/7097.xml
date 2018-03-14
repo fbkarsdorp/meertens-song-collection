@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Puer nobis nascitur</melody>
     <categories>

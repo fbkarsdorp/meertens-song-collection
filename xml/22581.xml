@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Het reed een ridder jagen uit aan gene heide groen</melody>
     <categories>

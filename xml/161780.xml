@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mythological song">mythologisch lied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Tranquilles coeurs</melody>
     <categories>

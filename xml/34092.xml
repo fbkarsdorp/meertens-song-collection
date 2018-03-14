@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
     </tags>
     <melody>Cloris est belle je veux</melody>
     <categories>

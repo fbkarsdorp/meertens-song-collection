@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Ik ben een Amsterdams Matroosje</melody>
     <categories>

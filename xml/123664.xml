@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="pilgrim song">pelgrimslied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="pelgrimslied" translation="pilgrim song">pelgrimslied</tag>
     </tags>
     <melody/>
     <categories>

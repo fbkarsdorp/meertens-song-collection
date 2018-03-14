@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Schoon lief gij zijt prijs waard alleen</melody>
     <categories>

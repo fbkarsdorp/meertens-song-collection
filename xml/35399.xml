@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="alphabet song">abclied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="love song">liefdeslied</tag>
+      <tag standard-name="abc-lied" translation="alphabet song">abclied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody>Courante monsieur</melody>
     <categories>

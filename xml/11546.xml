@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="religious song">geestelijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
     <categories>

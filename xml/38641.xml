@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="humorous song">kluchtlied</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Réveillez-vous belle endormie</melody>
     <categories>

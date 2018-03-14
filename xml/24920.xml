@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="May song">meilied</tag>
-      <tag translation="rondeau">rondeel</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="rondeel" translation="rondeau">rondeel</tag>
     </tags>
     <melody>Mei dijn vreugdenrijk begin</melody>
     <categories>

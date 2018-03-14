@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="evening song">avondlied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody/>
     <categories>

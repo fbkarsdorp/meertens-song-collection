@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Gaudeamus igitur</melody>
     <categories>

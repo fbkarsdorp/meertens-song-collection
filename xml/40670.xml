@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="confession of faith song">gezongen geloofsbelijdenis</tag>
-      <tag translation="Ten Commandments song">gezongen tien geboden</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="gezongen catechismus" translation="catachetical song">gezongen catechismus</tag>
     </tags>
     <melody>God heeft de mens geschapen</melody>
     <categories>

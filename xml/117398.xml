@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="pilgrim song">pelgrimslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="pelgrimslied" translation="pilgrim song">pelgrimslied</tag>
     </tags>
     <melody>Tien geboden</melody>
     <categories>

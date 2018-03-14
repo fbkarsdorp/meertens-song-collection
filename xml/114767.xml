@@ -15,7 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
     </tags>
     <melody>Frog's galliard</melody>
     <categories>

@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mystical song">mystiek lied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
     </tags>
     <melody>Sarabande Pinel</melody>
     <categories>

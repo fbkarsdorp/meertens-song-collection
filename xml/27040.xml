@@ -7,9 +7,9 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="psalm">psalm</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 003 Datheen</melody>
     <categories>

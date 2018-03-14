@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="evening song">avondlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
     </tags>
     <melody>Psalm 091 Datheen</melody>
     <categories>

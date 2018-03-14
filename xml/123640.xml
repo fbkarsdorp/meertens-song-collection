@@ -15,7 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="birthday song">verjaardagslied</tag>
+      <tag standard-name="verjaardagslied" translation="birthday song">verjaardagslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>De Koning leve</melody>
     <categories>

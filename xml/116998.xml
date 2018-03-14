@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="birthday song">verjaardagslied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="verjaardagslied" translation="birthday song">verjaardagslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
     <categories>

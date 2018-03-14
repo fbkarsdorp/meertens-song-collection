@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody/>
     <categories>

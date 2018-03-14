@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="martyr song">martelaarslied</tag>
-      <tag translation="lament">klaaglied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
     </tags>
     <melody>Ich dank dir lieber Herr</melody>
     <categories>

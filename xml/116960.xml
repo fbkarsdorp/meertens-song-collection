@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Pentecost song">pinksterlied</tag>
-      <tag translation="kermesse song">kermislied</tag>
-      <tag translation="drinking song">drinklied</tag>
+      <tag standard-name="pinksterlied" translation="Pentecostal song">pinksterlied</tag>
+      <tag standard-name="kermislied" translation="fairground song">kermislied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
     </tags>
     <melody>Zoete lieve reine maagd</melody>
     <categories>

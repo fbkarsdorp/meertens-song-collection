@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="market song">marktlied</tag>
-      <tag translation="dialect song">dialectlied</tag>
+      <tag standard-name="marktlied" translation="market song">marktlied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
     </tags>
     <melody/>
     <categories>

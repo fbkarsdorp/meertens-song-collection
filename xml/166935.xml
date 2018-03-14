@@ -15,8 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="jagerslied" translation="hunter's song">jagerslied</tag>
     </tags>
     <melody>Jonge jeugd der minnen</melody>
     <categories>

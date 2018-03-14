@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody>Psalm 050 Datheen</melody>
     <categories>

@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="biblical history song">bijbels historielied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="mystical song">mystiek lied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Psalm 001 Datheen</melody>
     <categories>

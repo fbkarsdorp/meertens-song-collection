@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
     </tags>
     <melody>O christenen al wil laten varen</melody>
     <categories>

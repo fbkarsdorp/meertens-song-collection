@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Adieu Péronne en Terwanen mee</melody>
     <categories>

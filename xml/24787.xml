@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="">gespeeltjeslied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="gespeeltjeslied" translation="playing song">gespeelkenslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Ik kwam gegaan op een dag</melody>
     <categories>

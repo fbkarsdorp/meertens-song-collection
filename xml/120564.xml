@@ -15,12 +15,12 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="orangist song">oranjelied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
     </tags>
     <melody>Slaapt gij nog mijn welbeminde</melody>
     <categories>

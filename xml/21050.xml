@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="response song">antwoordlied</tag>
-      <tag translation="moralistic song">moralistisch lied</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
     </tags>
     <melody>O kerstnacht schoner dan de dagen</melody>
     <categories>

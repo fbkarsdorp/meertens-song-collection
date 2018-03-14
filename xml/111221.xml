@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="pastoral song">herderslied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="hunter's song">jagerslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="jagerslied" translation="hunter's song">jagerslied</tag>
     </tags>
     <melody>Jacques</melody>
     <categories>

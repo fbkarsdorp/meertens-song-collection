@@ -7,8 +7,8 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="gratitude song">danklied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="battle song">strijdlied</tag>
-      <tag translation="political song">politiek lied</tag>
+      <tag standard-name="strijdlied" translation="battle song">strijdlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
     </tags>
     <melody/>
     <categories>

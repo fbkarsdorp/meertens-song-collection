@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="Our Father song">gezongen onze vader</tag>
-      <tag translation="evening song">avondlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen onze vader</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
     </tags>
     <melody>Psalm 008 Datheen</melody>
     <categories>

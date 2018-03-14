@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="battle song">strijdlied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="strijdlied" translation="battle song">strijdlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Wilhelmus</melody>
     <categories>

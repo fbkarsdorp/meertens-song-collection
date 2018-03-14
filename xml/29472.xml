@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Easter song">paaslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="devotional song">devoot lied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Christ ist erstanden</melody>
     <categories>

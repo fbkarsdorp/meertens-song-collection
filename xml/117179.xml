@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="birthday song">verjaardagslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="verjaardagslied" translation="birthday song">verjaardagslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Psalm 012 Datheen</melody>
     <categories>

@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="response song">antwoordlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
     </tags>
     <melody>Est-ce Mars</melody>
     <categories>

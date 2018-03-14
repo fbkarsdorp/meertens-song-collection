@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="consolation song">troostlied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
     </tags>
     <melody>Onder een prieel vol ruikende rozen</melody>
     <categories>

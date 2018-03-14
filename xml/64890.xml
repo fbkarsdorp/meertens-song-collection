@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love complaint">liefdesklacht</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="sentimental song">sentimenteel lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="sentimenteel lied" translation="sentimental song">sentimenteel lied</tag>
     </tags>
     <melody/>
     <categories>

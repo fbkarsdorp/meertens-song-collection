@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="humorous song">kluchtlied</tag>
-      <tag translation="market song">marktlied</tag>
-      <tag translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="marktlied" translation="market song">marktlied</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
     </tags>
     <melody>La Forlana</melody>
     <categories>

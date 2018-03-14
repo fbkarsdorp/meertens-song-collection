@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="martyr song">martelaarslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
     </tags>
     <melody>'s Winters 's zomers even groen</melody>
     <categories>

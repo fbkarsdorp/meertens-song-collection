@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="soldier's song">soldatenlied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
-      <tag translation="farewell song">afscheidslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Hier ligt mijn Damon in het graf</melody>
     <categories>

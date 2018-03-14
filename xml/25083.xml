@@ -7,9 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
     </tags>
     <melody/>
     <categories>

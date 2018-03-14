@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="">gespeeltjeslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="gespeeltjeslied" translation="playing song">gespeelkenslied</tag>
     </tags>
     <melody>Ach moorderes</melody>
     <categories>

@@ -7,9 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="Christmas song">kerstlied</tag>
-      <tag translation="Epiphany song">driekoningenlied</tag>
-      <tag translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="driekoningenlied" translation="Epiphany song">driekoningenlied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
     </tags>
     <melody>Een kindje is ons geboren</melody>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="psalm">psalm</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
     </tags>
     <melody>Psalm 043 Datheen</melody>
     <categories>

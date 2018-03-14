@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Pavane d'Espagne</melody>
     <categories>

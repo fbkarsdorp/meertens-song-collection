@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="watchman's song">wachterlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
     </tags>
     <melody/>
     <categories>

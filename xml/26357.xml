@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="devotional song">devoot lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
     </tags>
     <melody>Geef mij te drinken naar mijn dorst</melody>
     <categories>

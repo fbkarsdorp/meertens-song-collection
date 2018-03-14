@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
     </tags>
     <melody>Het voer een knaapje over Rijn</melody>
     <categories>

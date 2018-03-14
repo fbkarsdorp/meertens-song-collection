@@ -15,7 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="welcome song">welkomstlied</tag>
+      <tag standard-name="welkomstlied" translation="welcome song">welkomstlied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
     </tags>
     <melody/>
     <categories>

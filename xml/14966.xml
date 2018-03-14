@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="children's song">kinderlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Psalm 023 Datheen</melody>
     <categories>

@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="theatre song">toneellied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>Wat is er groter vreugde op aarde</melody>
     <categories>

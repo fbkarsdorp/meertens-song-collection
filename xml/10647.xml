@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Ga hem toe</melody>
     <categories>

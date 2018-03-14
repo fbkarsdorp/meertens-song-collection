@@ -15,9 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Wilhelmus</melody>
     <categories>

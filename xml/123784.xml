@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="seasonal song">seizoenslied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="seizoenslied" translation="seasonal song">seizoenslied</tag>
     </tags>
     <melody>Lief uitverkoren lief triomfant</melody>
     <categories>

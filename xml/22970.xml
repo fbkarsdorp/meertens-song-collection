@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="watchman's song">wachterlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
     </tags>
     <melody>Al voor des werelds grond ik stond</melody>
     <categories>

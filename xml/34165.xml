@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="triumph song">triomflied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
     </tags>
     <melody>Bourrée royale</melody>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="consolation song">troostlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
     </tags>
     <melody/>
     <categories>

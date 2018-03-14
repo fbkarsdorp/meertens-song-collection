@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="humorous song">kluchtlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
     </tags>
     <melody>Helaas ik arm ellendig wijf</melody>
     <categories>

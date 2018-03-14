@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Wenn mein Stündlein vorhanden ist</melody>
     <categories>

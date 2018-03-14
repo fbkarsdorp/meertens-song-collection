@@ -7,9 +7,9 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="historical song">historielied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
     </tags>
     <melody>Psalm 068 Datheen</melody>
     <categories>

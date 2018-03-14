@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="consolation song">troostlied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="orangist song">oranjelied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
     </tags>
     <melody>Ik lig somtijds gehele nachten</melody>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="sentimental song">sentimenteel lied</tag>
-      <tag translation="tearjerker">levenslied</tag>
+      <tag standard-name="sentimenteel lied" translation="sentimental song">sentimenteel lied</tag>
+      <tag standard-name="levenslied" translation="tearjerker">levenslied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,11 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Jesus song">Christuslied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>In mijn zin had ik verkoren</melody>
     <categories>

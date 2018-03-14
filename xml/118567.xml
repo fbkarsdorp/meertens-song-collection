@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="psalm">psalm</tag>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Psalm 024 Datheen</melody>
     <categories>

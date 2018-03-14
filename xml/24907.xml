@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="pilgrim song">pelgrimslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="pelgrimslied" translation="pilgrim song">pelgrimslied</tag>
     </tags>
     <melody>Wel op elke zondige zij bereid</melody>
     <categories>

@@ -15,8 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
     </tags>
     <melody>Sei tanto graziosa</melody>
     <categories>

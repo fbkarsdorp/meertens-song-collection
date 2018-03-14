@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="mystical song">mystiek lied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
     </tags>
     <melody>Jezus die u gedachtig is</melody>
     <categories>

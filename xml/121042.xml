@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="evening song">avondlied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
     </tags>
     <melody>Gott des Himmels und die Erde</melody>
     <categories>

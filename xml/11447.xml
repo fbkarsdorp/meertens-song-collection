@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="morning song">morgenlied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
     </tags>
     <melody>Aanhoor toch mijn geklaag gij ruiters</melody>
     <categories>

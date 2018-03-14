@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="pastoral song">herderslied</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="praise song">loflied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
     </tags>
     <melody>De mei die komt ons bij zeer blij</melody>
     <categories>

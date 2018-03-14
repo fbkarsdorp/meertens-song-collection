@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>La Durette</melody>
     <categories>

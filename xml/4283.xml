@@ -7,9 +7,9 @@
       <year-end>1602</year-end>
     </date>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="acrostic song">acrostichon</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Haast u mijn schone vriendin</melody>
     <categories>

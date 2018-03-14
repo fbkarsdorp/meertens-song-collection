@@ -7,10 +7,9 @@
       <year-end>1614</year-end>
     </date>
     <tags>
-      <tag translation="saint song">heiligenlied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Geen meerdere vreugde ter wereld en is</melody>
     <categories>

@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="welcome song">welkomstlied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="welkomstlied" translation="welcome song">welkomstlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody>Wel wat heeft de min vermogen</melody>
     <categories>

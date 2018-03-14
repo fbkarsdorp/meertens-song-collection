@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="Marian song">Marialied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody>Koningin der hemelen</melody>
     <categories>

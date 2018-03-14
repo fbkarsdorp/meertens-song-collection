@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Engelse klokkedans</melody>
     <categories>

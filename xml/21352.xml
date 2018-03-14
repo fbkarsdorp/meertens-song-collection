@@ -7,10 +7,9 @@
       <year-end>1592</year-end>
     </date>
     <tags>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>De vogeltjes in de muiten</melody>
     <categories>

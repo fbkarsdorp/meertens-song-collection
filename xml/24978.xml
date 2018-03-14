@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="virelai-ballad">virelai-ballade</tag>
-      <tag translation="dancing song">danslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="virelai-ballade" translation="virelai-ballad">virelai-ballade</tag>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
     </tags>
     <melody/>
     <categories>

@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="Our Father song">gezongen onze vader</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen onze vader</tag>
     </tags>
     <melody>O Vader die in hemelen zijt</melody>
     <categories>

@@ -15,9 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="farewell song">afscheidslied</tag>
-      <tag translation="love complaint">liefdesklacht</tag>
-      <tag translation="rondeau">rondeel</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="rondeel" translation="rondeau">rondeel</tag>
     </tags>
     <melody>Al scheid ik van dij in het gezicht</melody>
     <categories>

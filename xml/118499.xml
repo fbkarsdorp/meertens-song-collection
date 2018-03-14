@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
     </tags>
     <melody>Schoonste nimf van het woud</melody>
     <categories>

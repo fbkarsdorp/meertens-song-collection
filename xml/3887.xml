@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="drinking song">drinklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="reflective song">bespiegelend lied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
     </tags>
     <melody>Een ridder en een meisje jong</melody>
     <categories>

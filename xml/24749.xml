@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="humorous song">kluchtlied</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="dancing song">danslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
     </tags>
     <melody>Ik had een lief verkoren dies is leden lang</melody>
     <categories>

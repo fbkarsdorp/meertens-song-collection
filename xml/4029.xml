@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="mystical song">mystiek lied</tag>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="">geestelijk</tag>
+      <tag standard-name="mystiek lied" translation="mystical song">mystiek lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>O waarde mond</melody>
     <categories>

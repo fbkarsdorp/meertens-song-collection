@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="dialogue song">dialooglied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
     </tags>
     <melody>Mijn allerliefste verheven</melody>
     <categories>

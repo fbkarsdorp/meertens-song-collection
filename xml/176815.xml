@@ -15,8 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="christening song">dooplied</tag>
-      <tag translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="dooplied" translation="christening song">dooplied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
     </tags>
     <melody>Psalm 009 Datheen</melody>
     <categories>

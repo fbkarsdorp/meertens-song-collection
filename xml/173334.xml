@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="Ascension of Our Lord song">hemelvaartslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="hemelvaartslied" translation="Ascension of Our Lord song">hemelvaartslied</tag>
     </tags>
     <melody>Psalm 118 Datheen</melody>
     <categories>

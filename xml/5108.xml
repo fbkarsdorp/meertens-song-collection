@@ -7,9 +7,9 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="mocking song">spotlied</tag>
-      <tag translation="dancing song">danslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
     </tags>
     <melody/>
     <categories>

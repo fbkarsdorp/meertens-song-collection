@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="admonitory song">vermaanlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
     </tags>
     <melody>Engels Schoenlappertje</melody>
     <categories>

@@ -7,11 +7,10 @@
       <year-end>1576</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="lament">klaaglied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="psalm">psalm</tag>
-      <tag translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
     </tags>
     <melody>Psalm 051 Datheen</melody>
     <categories>

@@ -15,9 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Easter song">paaslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
     </tags>
     <melody>Het ging een meisje aan de kant</melody>
     <categories>

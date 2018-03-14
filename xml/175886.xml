@@ -15,10 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="sailor's song">zeemanslied</tag>
-      <tag translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
     </tags>
     <melody>Te mei als alle vogels zingen</melody>
     <categories>

@@ -15,11 +15,10 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="gratitude song">danklied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="triumph song">triomflied</tag>
-      <tag translation="political song">politiek lied</tag>
-      <tag translation="orangist song">oranjelied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="oranjelied" translation="orangist song">oranjelied</tag>
     </tags>
     <melody>Biron</melody>
     <categories>

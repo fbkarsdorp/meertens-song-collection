@@ -7,10 +7,9 @@
       <year-end>1861</year-end>
     </date>
     <tags>
-      <tag translation="children's song">kinderlied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="gratitude song">danklied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
     </tags>
     <melody/>
     <categories>

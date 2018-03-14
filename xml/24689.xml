@@ -15,8 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="devotional song">devoot lied</tag>
-      <tag translation="prayer song">gebedslied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
     </tags>
     <melody/>
     <categories>

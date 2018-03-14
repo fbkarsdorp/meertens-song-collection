@@ -15,10 +15,8 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="wedding song">bruiloftslied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="morning song">morgenlied</tag>
-      <tag translation="">wereldlijk</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
     </tags>
     <melody>O zalig heilig Bethlehem</melody>
     <categories>

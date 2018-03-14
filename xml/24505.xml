@@ -7,10 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="prayer song">gebedslied</tag>
-      <tag translation="praise song">loflied</tag>
-      <tag translation="">geestelijk</tag>
-      <tag translation="Marian song">Marialied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
     </tags>
     <melody>Het gepeins ligt mij zeer vast en kwelt</melody>
     <categories>

@@ -7,9 +7,9 @@
       <year-end>1500</year-end>
     </date>
     <tags>
-      <tag translation="dialogue song">dialooglied</tag>
-      <tag translation="Easter song">paaslied</tag>
-      <tag translation="narrative song">verhalend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
     </tags>
     <melody/>
     <categories>

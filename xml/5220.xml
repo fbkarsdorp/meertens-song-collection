@@ -7,9 +7,9 @@
       <year-end>1925</year-end>
     </date>
     <tags>
-      <tag translation="Geuzen song">geuzenlied</tag>
-      <tag translation="historical song">historielied</tag>
-      <tag translation="New Year's song">nieuwjaarslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
     </tags>
     <melody/>
     <categories>

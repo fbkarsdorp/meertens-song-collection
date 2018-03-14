@@ -15,10 +15,9 @@
       </coordinates>
     </location>
     <tags>
-      <tag translation="narrative song">verhalend lied</tag>
-      <tag translation="">wereldlijk</tag>
-      <tag translation="love song">liefdeslied</tag>
-      <tag translation="watchman's song">wachterlied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
     </tags>
     <melody>De dag al door de wolken drong</melody>
     <categories>
