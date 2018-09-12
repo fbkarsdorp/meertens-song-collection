@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164143</id>
+    <date>
+      <year-start>1614</year-start>
+      <year-end>1614</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Cupido triomfant</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="wie">
+            <s word-stress="1" line-stress="0">wie</s>
+          </w>
+          <w token="hem">
+            <s word-stress="1" line-stress="0">hem</s>
+          </w>
+          <w token="selven">
+            <s word-stress="1" line-stress="0">sel</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token="kleyn">
+            <s word-stress="1" line-stress="0">kleyn</s>
+          </w>
+          <w token="acht">
+            <s word-stress="1" line-stress="0">acht</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="vernedert">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">ne</s>
+            <s word-stress="0" line-stress="0">dert</s>
+          </w>
+          <w token="hier">
+            <s word-stress="1" line-stress="0">hier</s>
+          </w>
+          <w token="beneven">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">ne</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="seyt">
+            <s word-stress="1" line-stress="0">seyt</s>
+          </w>
+          <w token="christus">
+            <s word-stress="1" line-stress="0">chris</s>
+            <s word-stress="0" line-stress="0">tus</s>
+          </w>
+          <w token="wijs">
+            <s word-stress="1" line-stress="0">wijs</s>
+          </w>
+          <w token="bedacht">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">dacht</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="zullen">
+            <s word-stress="1" line-stress="0">zul</s>
+            <s word-stress="0" line-stress="0">len</s>
+          </w>
+          <w token="worden">
+            <s word-stress="1" line-stress="0">wor</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="verheven">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">he</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="wie">
+            <s word-stress="1" line-stress="0">wie</s>
+          </w>
+          <w token="hem">
+            <s word-stress="1" line-stress="0">hem</s>
+          </w>
+          <w token="zelven">
+            <s word-stress="1" line-stress="0">zel</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token="voorwaer">
+            <s word-stress="0" line-stress="0">voor</s>
+            <s word-stress="1" line-stress="0">waer</s>
+          </w>
+        </l>
+        <l id="s1:l6">
+          <w token="verheft">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">heft</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="sullen">
+            <s word-stress="1" line-stress="0">sul</s>
+            <s word-stress="0" line-stress="0">len</s>
+          </w>
+          <w token="zwaer">
+            <s word-stress="1" line-stress="0">zwaer</s>
+          </w>
+        </l>
+        <l id="s1:l7">
+          <w token="vernedert">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">ne</s>
+            <s word-stress="0" line-stress="0">dert</s>
+          </w>
+          <w token="worden">
+            <s word-stress="1" line-stress="0">wor</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="openbaer">
+            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="0" line-stress="0">pen</s>
+            <s word-stress="1" line-stress="0">baer</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

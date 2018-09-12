@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22394</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Gelobt seist du Jesu Christ</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="ghelooft">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="1">looft</s>
+          </w>
+          <w token="zijt">
+            <s word-stress="1" line-stress="1">zijt</s>
+          </w>
+          <w token="ghy">
+            <s word-stress="1" line-stress="0">ghy</s>
+          </w>
+          <w token="jhesu">
+            <s word-stress="1" line-stress="1">jhe</s>
+            <s word-stress="0" line-stress="0">su</s>
+          </w>
+          <w token="al">
+            <s word-stress="1" line-stress="0">al</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="tijt">
+              <s word-stress="1" line-stress="1">tijt</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="4" type="-+">
+          <w token="dat">
+            <s word-stress="1" line-stress="1">dat</s>
+          </w>
+          <w token="ghy">
+            <s word-stress="1" line-stress="0">ghy</s>
+          </w>
+          <w token="mensche">
+            <s word-stress="1" line-stress="1">men</s>
+            <s word-stress="0" line-stress="0">sche</s>
+          </w>
+          <w token="gheboren">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="1">bo</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="zijt">
+              <s word-stress="1" line-stress="1">zijt</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="4" type="-+">
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="eender">
+            <s word-stress="1" line-stress="1">een</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <w token="maghet">
+            <s word-stress="1" line-stress="1">ma</s>
+            <s word-stress="0" line-stress="0">ghet</s>
+          </w>
+          <w token="dat">
+            <s word-stress="1" line-stress="1">dat</s>
+          </w>
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="waer">
+              <s word-stress="1" line-stress="1">waer</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="4" type="-+">
+          <w token="daer">
+            <s word-stress="1" line-stress="0">daer</s>
+          </w>
+          <w token="af">
+            <s word-stress="1" line-stress="1">af</s>
+          </w>
+          <w token="verblijt">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">blijt</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="enghelsche">
+            <s word-stress="0" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">ghel</s>
+            <s word-stress="0" line-stress="0">sche</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l3">
+            <w token="schaer">
+              <s word-stress="1" line-stress="1">schaer</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="2" type="-+">
+          <rhyme label="c" type="m">
+            <w token="kirieleys">
+              <s word-stress="1" line-stress="1">ki</s>
+              <s word-stress="0" line-stress="0">rie</s>
+              <s word-stress="1" line-stress="1">leys</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

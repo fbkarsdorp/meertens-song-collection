@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186027</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik lach met Venus' kwikken</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">
+          <w token="ik">
+            <s word-stress="1" line-stress="1">ik</s>
+          </w>
+          <w token="lach">
+            <s word-stress="1" line-stress="1">lach</s>
+          </w>
+          <w token="met">
+            <s word-stress="1" line-stress="1">met</s>
+          </w>
+          <w token="venus">
+            <s word-stress="1" line-stress="1">ve</s>
+            <s word-stress="0" line-stress="0">nus</s>
+          </w>
+          <rhyme label="a" type="f">
+            <w token="kwikken">
+              <s word-stress="1" line-stress="1">kwik</s>
+              <s word-stress="0" line-stress="1">ken</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="3" type="-+">
+          <w token="zy">
+            <s word-stress="1" line-stress="0">zy</s>
+          </w>
+          <w token="zoekt">
+            <s word-stress="1" line-stress="1">zoekt</s>
+          </w>
+          <w token="my">
+            <s word-stress="1" line-stress="0">my</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="1">te</s>
+          </w>
+          <rhyme label="a" type="f" corresp="#s1:l1">
+            <w token="verstrikken">
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">strik</s>
+              <s word-stress="0" line-stress="0">ken</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="7" type="-+">
+          <w token="ik">
+            <s word-stress="1" line-stress="0">ik</s>
+          </w>
+          <w token="belach">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">lach</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="ik">
+            <s word-stress="1" line-stress="0">ik</s>
+          </w>
+          <w token="belach">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">lach</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="ik">
+            <s word-stress="1" line-stress="0">ik</s>
+          </w>
+          <w token="belach">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">lach</s>
+          </w>
+          <w token="haar">
+            <s word-stress="1" line-stress="0">haar</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="schoon">
+              <s word-stress="1" line-stress="0">schoon</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="3" type="+-">
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="verbreek">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">breek</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <rhyme label="c" type="f">
+            <w token="pylen">
+              <s word-stress="1" line-stress="0">py</s>
+              <s word-stress="0" line-stress="0">len</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="3" type="-+">
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="kupido">
+            <s word-stress="1" line-stress="0">ku</s>
+            <s word-stress="0" line-stress="0">pi</s>
+            <s word-stress="1" line-stress="0">do</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="haar">
+            <s word-stress="1" line-stress="0">haar</s>
+          </w>
+          <rhyme label="d" type="m">
+            <w token="zoon">
+              <s word-stress="1" line-stress="0">zoon</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>148223</id>
+    <date>
+      <year-start>1700</year-start>
+      <year-end>1700</year-end>
+    </date>
+    <location>
+      <orginal-name>groningen</orginal-name>
+      <standard-name>Groningen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2190652</lon>
+        <lat>6.5680077</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Naar dat ik heb gelezen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="den">
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="euangeliste">
+            <s word-stress="1" line-stress="0">e</s>
+            <s word-stress="0" line-stress="0">uan</s>
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">lis</s>
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="lucas">
+            <s word-stress="1" line-stress="0">lu</s>
+            <s word-stress="0" line-stress="0">cas</s>
+          </w>
+          <w token="doet">
+            <s word-stress="1" line-stress="0">doet</s>
+          </w>
+          <w token="ons">
+            <s word-stress="1" line-stress="0">ons</s>
+          </w>
+          <w token="vermaen">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">maen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="op">
+            <s word-stress="1" line-stress="0">op</s>
+          </w>
+          <w token="dat">
+            <s word-stress="1" line-stress="0">dat</s>
+          </w>
+          <w token="ider">
+            <s word-stress="1" line-stress="0">i</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <w token="wiste">
+            <s word-stress="1" line-stress="0">wis</s>
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="sijn">
+            <s word-stress="1" line-stress="0">sijn</s>
+          </w>
+          <w token="gedachten">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">dach</s>
+            <s word-stress="0" line-stress="0">ten</s>
+          </w>
+          <w token="t'ontslaen">
+            <s word-stress="1" line-stress="0">t'ont</s>
+            <s word-stress="1" line-stress="0">slaen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token="staen">
+            <s word-stress="1" line-stress="0">staen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="op">
+            <s word-stress="1" line-stress="0">op</s>
+          </w>
+          <w token="aerdtsche">
+            <s word-stress="1" line-stress="0">aerdt</s>
+            <s word-stress="0" line-stress="0">sche</s>
+          </w>
+          <w token="dingen">
+            <s word-stress="1" line-stress="0">din</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token="//">
+            <s word-stress="1" line-stress="0">//</s>
+          </w>
+          <w token="meest">
+            <s word-stress="1" line-stress="0">meest</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l6">
+          <w token="daer">
+            <s word-stress="1" line-stress="0">daer</s>
+          </w>
+          <w token="'s">
+            <s word-stress="None" line-stress="0">'s</s>
+          </w>
+          <w token="menschen">
+            <s word-stress="1" line-stress="0">men</s>
+            <s word-stress="0" line-stress="0">schen</s>
+          </w>
+          <w token="sonderlingen">
+            <s word-stress="1" line-stress="0">son</s>
+            <s word-stress="0" line-stress="0">der</s>
+            <s word-stress="1" line-stress="0">lin</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token="//">
+            <s word-stress="1" line-stress="0">//</s>
+          </w>
+          <w token="geest">
+            <s word-stress="1" line-stress="0">geest</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l7">
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <w token="toe">
+            <s word-stress="1" line-stress="0">toe</s>
+          </w>
+          <w token="genegen">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">ne</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token="saen">
+            <s word-stress="1" line-stress="0">saen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l8">
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="moet">
+            <s word-stress="1" line-stress="0">moet</s>
+          </w>
+          <w token="doch">
+            <s word-stress="1" line-stress="0">doch</s>
+          </w>
+          <w token="al">
+            <s word-stress="1" line-stress="0">al</s>
+          </w>
+          <w token="vergaen">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">gaen</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

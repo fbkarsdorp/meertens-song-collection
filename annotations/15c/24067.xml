@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24067</id>
+    <date>
+      <year-start>1518</year-start>
+      <year-end>1518</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="ic">
+            <s word-stress="1" line-stress="0">ic</s>
+          </w>
+          <w token="was">
+            <s word-stress="1" line-stress="0">was</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="1">mijn</s>
+          </w>
+          <w token="hoofkijn">
+            <s word-stress="0" line-stress="0">hoof</s>
+            <s word-stress="0" line-stress="1">kijn</s>
+          </w>
+          <w token="om">
+            <s word-stress="1" line-stress="0">om</s>
+          </w>
+          <w token="cruyt">
+            <s word-stress="1" line-stress="1">cruyt</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="gegaen">
+              <s word-stress="0" line-stress="0">ge</s>
+              <s word-stress="1" line-stress="1">gaen</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="4" type="-+">
+          <w token="ic">
+            <s word-stress="1" line-stress="0">ic</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="vanter">
+            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="0" line-stress="0">ter</s>
+          </w>
+          <w token="niet">
+            <s word-stress="1" line-stress="1">niet</s>
+          </w>
+          <w token="dan">
+            <s word-stress="1" line-stress="0">dan</s>
+          </w>
+          <w token="distel">
+            <s word-stress="1" line-stress="1">dis</s>
+            <s word-stress="0" line-stress="0">tel</s>
+          </w>
+          <w token="ende">
+            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="doorn">
+            <s word-stress="1" line-stress="1">doorn</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="staen">
+              <s word-stress="1" line-stress="0">staen</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114332</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="andrea">
+            <s word-stress="0" line-stress="0">an</s>
+            <s word-stress="0" line-stress="0">dre</s>
+            <s word-stress="1" line-stress="0">a</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="0">u</s>
+          </w>
+          <w token="heeft">
+            <s word-stress="1" line-stress="0">heeft</s>
+          </w>
+          <w token="godt">
+            <s word-stress="1" line-stress="0">godt</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="tot">
+            <s word-stress="1" line-stress="0">tot</s>
+          </w>
+          <w token="een">
+            <s word-stress="1" line-stress="0">een</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token="grooten">
+            <s word-stress="1" line-stress="0">groo</s>
+            <s word-stress="0" line-stress="0">ten</s>
+          </w>
+          <w token="lot">
+            <s word-stress="1" line-stress="0">lot</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="gheroepen">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="0">roe</s>
+            <s word-stress="0" line-stress="0">pen</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="dit">
+            <s word-stress="1" line-stress="0">dit</s>
+          </w>
+          <w token="dal">
+            <s word-stress="1" line-stress="0">dal</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="alwaer">
+            <s word-stress="0" line-stress="0">al</s>
+            <s word-stress="1" line-stress="0">waer</s>
+          </w>
+          <w token="ghy">
+            <s word-stress="1" line-stress="0">ghy</s>
+          </w>
+          <w token="metter">
+            <s word-stress="1" line-stress="0">met</s>
+            <s word-stress="0" line-stress="0">ter</s>
+          </w>
+          <w token="spoet">
+            <s word-stress="1" line-stress="0">spoet</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="verlatend">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">la</s>
+            <s word-stress="0" line-stress="0">tend</s>
+          </w>
+          <w token="'">
+            <s word-stress="1" line-stress="0">'</s>
+          </w>
+          <w token="uwen">
+            <s word-stress="1" line-stress="0">u</s>
+            <s word-stress="0" line-stress="0">wen</s>
+          </w>
+          <w token="al">
+            <s word-stress="1" line-stress="0">al</s>
+          </w>
+        </l>
+        <l id="s1:l6">
+          <w token="ghevolght">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="0">volght</s>
+          </w>
+          <w token="hebt">
+            <s word-stress="1" line-stress="0">hebt</s>
+          </w>
+          <w token="'teeuwich">
+            <s word-stress="0" line-stress="0">'teeu</s>
+            <s word-stress="0" line-stress="0">wich</s>
+          </w>
+          <w token="goedt">
+            <s word-stress="1" line-stress="0">goedt</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

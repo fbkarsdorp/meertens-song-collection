@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>137344</id>
+    <date>
+      <year-start>1865</year-start>
+      <year-end>1865</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="'wat">
+            <s word-stress="1" line-stress="0">'wat</s>
+          </w>
+          <w token="wenscht">
+            <s word-stress="1" line-stress="0">wenscht</s>
+          </w>
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token="hem">
+            <s word-stress="1" line-stress="0">hem</s>
+          </w>
+          <w token="voor">
+            <s word-stress="1" line-stress="0">voor</s>
+          </w>
+          <w token="smart">
+            <s word-stress="1" line-stress="0">smart</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="leed">
+            <s word-stress="1" line-stress="0">leed</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="nu">
+            <s word-stress="1" line-stress="0">nu</s>
+          </w>
+          <w token="hij">
+            <s word-stress="1" line-stress="0">hij</s>
+          </w>
+          <w token="zijn">
+            <s word-stress="1" line-stress="0">zijn</s>
+          </w>
+          <w token="trouw">
+            <s word-stress="1" line-stress="0">trouw</s>
+          </w>
+          <w token="brak">
+            <s word-stress="1" line-stress="0">brak</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="zijn">
+            <s word-stress="1" line-stress="0">zijn</s>
+          </w>
+          <w token="eed">
+            <s word-stress="1" line-stress="0">eed</s>
+          </w>
+          <w token="?">
+            <s word-stress="None" line-stress="0">?</s>
+          </w>
+          <w token="’">
+            <s word-stress="1" line-stress="0">’</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

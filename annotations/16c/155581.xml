@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155581</id>
+    <date>
+      <year-start>1624</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Als alle akers rijpen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="christus">
+            <s word-stress="1" line-stress="0">chris</s>
+            <s word-stress="0" line-stress="0">tus</s>
+          </w>
+          <w token="ghenae">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="0">nae</s>
+          </w>
+          <w token="verheven">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">he</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <w token="wonder">
+            <s word-stress="1" line-stress="0">won</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <w token="costelijck">
+            <s word-stress="1" line-stress="0">cos</s>
+            <s word-stress="0" line-stress="0">te</s>
+            <s word-stress="1" line-stress="0">lijck</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="laet">
+            <s word-stress="1" line-stress="0">laet</s>
+          </w>
+          <w token="hem">
+            <s word-stress="1" line-stress="0">hem</s>
+          </w>
+          <w token="niet">
+            <s word-stress="1" line-stress="0">niet</s>
+          </w>
+          <w token="beneven">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">ne</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="vermenghen">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">men</s>
+            <s word-stress="0" line-stress="0">ghen</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="dit">
+            <s word-stress="1" line-stress="0">dit</s>
+          </w>
+          <w token="leven">
+            <s word-stress="1" line-stress="0">le</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="dit">
+            <s word-stress="1" line-stress="0">dit</s>
+          </w>
+          <w token="tijtlijck">
+            <s word-stress="1" line-stress="0">tijt</s>
+            <s word-stress="0" line-stress="0">lijck</s>
+          </w>
+          <w token="wil">
+            <s word-stress="1" line-stress="0">wil</s>
+          </w>
+          <w token="zijn">
+            <s word-stress="1" line-stress="0">zijn</s>
+          </w>
+          <w token="rijck">
+            <s word-stress="1" line-stress="0">rijck</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

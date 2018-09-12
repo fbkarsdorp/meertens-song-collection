@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187723</id>
+    <date>
+      <year-start>1868</year-start>
+      <year-end>1868</year-end>
+    </date>
+    <tags/>
+    <melody/>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
+          </w>
+          <w token="gordijntje">
+            <s word-stress="0" line-stress="0">gor</s>
+            <s word-stress="1" line-stress="0">dijn</s>
+            <s word-stress="0" line-stress="0">tje</s>
+          </w>
+          <w token="wordt">
+            <s word-stress="1" line-stress="0">wordt</s>
+          </w>
+          <w token="daarboven">
+            <s word-stress="0" line-stress="0">daar</s>
+            <s word-stress="1" line-stress="0">bo</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
+          </w>
+          <w token="venster">
+            <s word-stress="1" line-stress="0">ven</s>
+            <s word-stress="1" line-stress="0">ster</s>
+          </w>
+          <w token="weggeschoven">
+            <s word-stress="1" line-stress="0">weg</s>
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">scho</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="door">
+            <s word-stress="1" line-stress="0">door</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="heldere">
+            <s word-stress="0" line-stress="0">hel</s>
+            <s word-stress="1" line-stress="0">de</s>
+            <s word-stress="0" line-stress="0">re</s>
+          </w>
+          <w token="ruit">
+            <s word-stress="1" line-stress="0">ruit</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="blinkt">
+            <s word-stress="1" line-stress="0">blinkt</s>
+          </w>
+          <w token="miekens">
+            <s word-stress="1" line-stress="0">mie</s>
+            <s word-stress="0" line-stress="0">kens</s>
+          </w>
+          <w token="hoofdjen">
+            <s word-stress="1" line-stress="0">hoof</s>
+            <s word-stress="0" line-stress="0">djen</s>
+          </w>
+          <w token="uit">
+            <s word-stress="1" line-stress="0">uit</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

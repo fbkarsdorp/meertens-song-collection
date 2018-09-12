@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6101</id>
+    <date>
+      <year-start>1632</year-start>
+      <year-end>1632</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerik</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Adoro te</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">
+          <w token="'k">
+            <s word-stress="None" line-stress="0">'k</s>
+          </w>
+          <w token="aenbid">
+            <s word-stress="0" line-stress="0">aen</s>
+            <s word-stress="1" line-stress="1">bid</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="1">u</s>
+          </w>
+          <w token="ootmoedich">
+            <s word-stress="0" line-stress="0">oot</s>
+            <s word-stress="1" line-stress="1">moe</s>
+            <s word-stress="0" line-stress="0">dich</s>
+          </w>
+          <w token="verborgen">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">bor</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="godtheyt">
+              <s word-stress="1" line-stress="1">godt</s>
+              <s word-stress="0" line-stress="1">heyt</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="6" type="+-">
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="onder">
+            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <w token="dees">
+            <s word-stress="1" line-stress="1">dees</s>
+          </w>
+          <w token="figuer">
+            <s word-stress="0" line-stress="1">fi</s>
+            <s word-stress="1" line-stress="1">guer</s>
+          </w>
+          <w token="schuylt">
+            <s word-stress="1" line-stress="0">schuylt</s>
+          </w>
+          <w token="inder">
+            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="waerheyt">
+              <s word-stress="1" line-stress="1">waer</s>
+              <s word-stress="0" line-stress="0">heyt</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="6" type="+-">
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="hert">
+            <s word-stress="1" line-stress="1">hert</s>
+          </w>
+          <w token="ick">
+            <s word-stress="1" line-stress="0">ick</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="0">u</s>
+          </w>
+          <w token="heere">
+            <s word-stress="1" line-stress="1">hee</s>
+            <s word-stress="0" line-stress="0">re</s>
+          </w>
+          <w token="onderwerp">
+            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="0">der</s>
+            <s word-stress="1" line-stress="1">werp</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="ganselijck">
+              <s word-stress="1" line-stress="1">gan</s>
+              <s word-stress="0" line-stress="1">se</s>
+              <s word-stress="1" line-stress="0">lijck</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l4" met="6" type="+-">
+          <w token="want">
+            <s word-stress="1" line-stress="0">want</s>
+          </w>
+          <w token="geen">
+            <s word-stress="1" line-stress="1">geen</s>
+          </w>
+          <w token="menschen">
+            <s word-stress="1" line-stress="1">men</s>
+            <s word-stress="0" line-stress="0">schen</s>
+          </w>
+          <w token="verstant">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">stant</s>
+          </w>
+          <w token="begrijpt">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="1">grijpt</s>
+          </w>
+          <w token="dit">
+            <s word-stress="1" line-stress="0">dit</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l3">
+            <w token="eyndelijc">
+              <s word-stress="1" line-stress="1">eyn</s>
+              <s word-stress="0" line-stress="0">de</s>
+              <s word-stress="1" line-stress="1">lijc</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="5" type="-+">
+          <w token="ave">
+            <s word-stress="1" line-stress="1">a</s>
+            <s word-stress="0" line-stress="0">ve</s>
+          </w>
+          <w token="iesu">
+            <s word-stress="1" line-stress="1">ie</s>
+            <s word-stress="0" line-stress="0">su</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="onsen">
+            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="0">sen</s>
+          </w>
+          <w token="behoeder">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="1">hoe</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <rhyme label="c" type="m">
+            <w token="sijt">
+              <s word-stress="1" line-stress="1">sijt</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l6" met="7" type="-+">
+          <w token="vermeert">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">meert</s>
+          </w>
+          <w token="doch">
+            <s word-stress="1" line-stress="0">doch</s>
+          </w>
+          <w token="ons">
+            <s word-stress="1" line-stress="0">ons</s>
+          </w>
+          <w token="geloof">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">loof</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="dees">
+            <s word-stress="1" line-stress="0">dees</s>
+          </w>
+          <w token="benauden">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">nau</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <rhyme label="c" type="m" corresp="#s1:l5">
+            <w token="tijt">
+              <s word-stress="1" line-stress="0">tijt</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

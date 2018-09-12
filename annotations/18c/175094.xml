@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175094</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Honger is de beste saus</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">
+          <w token="honger">
+            <s word-stress="1" line-stress="1">hon</s>
+            <s word-stress="0" line-stress="0">ger</s>
+          </w>
+          <w token="is">
+            <s word-stress="1" line-stress="1">is</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="beste">
+            <s word-stress="1" line-stress="1">bes</s>
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="saus">
+              <s word-stress="1" line-stress="1">saus</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="4" type="+-">
+          <w token="draven">
+            <s word-stress="1" line-stress="1">dra</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="slaven">
+            <s word-stress="1" line-stress="1">sla</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="zwoegen">
+            <s word-stress="1" line-stress="1">zwoe</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <rhyme label="b" type="f">
+            <w token="zweeten">
+              <s word-stress="1" line-stress="1">zwee</s>
+              <s word-stress="0" line-stress="0">ten</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="4" type="+-">
+          <w token="geeft">
+            <s word-stress="1" line-stress="1">geeft</s>
+          </w>
+          <w token="den">
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="regten">
+            <s word-stress="1" line-stress="1">reg</s>
+            <s word-stress="0" line-stress="0">ten</s>
+          </w>
+          <w token="trek">
+            <s word-stress="1" line-stress="1">trek</s>
+          </w>
+          <w token="tot">
+            <s word-stress="1" line-stress="0">tot</s>
+          </w>
+          <rhyme label="b" type="f" corresp="#s1:l2">
+            <w token="eten">
+              <s word-stress="1" line-stress="1">e</s>
+              <s word-stress="0" line-stress="0">ten</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="4" type="+-">
+          <w token="wie">
+            <s word-stress="1" line-stress="1">wie</s>
+          </w>
+          <w token="gewerkt">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="1">werkt</s>
+          </w>
+          <w token="heeft">
+            <s word-stress="1" line-stress="0">heeft</s>
+          </w>
+          <w token="flink">
+            <s word-stress="1" line-stress="1">flink</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <rhyme label="c" type="m">
+            <w token="goed">
+              <s word-stress="1" line-stress="1">goed</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="4" type="+-">
+          <w token="smaken">
+            <s word-stress="1" line-stress="1">sma</s>
+            <s word-stress="0" line-stress="0">ken</s>
+          </w>
+          <w token="raauwe">
+            <s word-stress="0" line-stress="0">ra</s>
+            <s word-stress="1" line-stress="1">au</s>
+            <s word-stress="0" line-stress="0">we</s>
+          </w>
+          <w token="boonen">
+            <s word-stress="1" line-stress="1">boo</s>
+            <s word-stress="0" line-stress="0">nen</s>
+          </w>
+          <rhyme label="c" type="m" corresp="#s1:l4">
+            <w token="zoet">
+              <s word-stress="1" line-stress="1">zoet</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>
