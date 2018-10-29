@@ -24,11 +24,8 @@
           <w token="'k">
             <s word-stress="None" line-stress="0">'k</s>
           </w>
-          <w token="hebb">
-            <s word-stress="1" line-stress="1">hebb</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="hebb'">
+            <s word-stress="1" line-stress="1">hebb'</s>
           </w>
           <w token="al">
             <s word-stress="1" line-stress="0">al</s>
@@ -85,11 +82,8 @@
           <w token="'k">
             <s word-stress="None" line-stress="0">'k</s>
           </w>
-          <w token="hebb">
-            <s word-stress="1" line-stress="0">hebb</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="hebb'">
+            <s word-stress="1" line-stress="0">hebb'</s>
           </w>
           <w token="langh">
             <s word-stress="1" line-stress="1">langh</s>
@@ -104,14 +98,15 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="nu">
-            <s word-stress="1" line-stress="1">nu</s>
+            <s word-stress="1" line-stress="0">nu</s>
           </w>
           <w token="daer">
-            <s word-stress="1" line-stress="0">daer</s>
+            <s word-stress="1" line-stress="1">daer</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="ghesweeft">
-              <s word-stress="0" line-stress="1">ghesweeft</s>
+              <s word-stress="0" line-stress="0">ghe</s>
+              <s word-stress="1" line-stress="1">sweeft</s>
             </w>
           </rhyme>
           <w token=",">
@@ -122,11 +117,8 @@
           <w token="nu">
             <s word-stress="1" line-stress="1">nu</s>
           </w>
-          <w token="wensch">
-            <s word-stress="1" line-stress="0">wensch</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="wensch'">
+            <s word-stress="1" line-stress="0">wensch'</s>
           </w>
           <w token="ick">
             <s word-stress="1" line-stress="1">ick</s>
@@ -161,11 +153,8 @@
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
           </w>
-          <w token="zyn">
-            <s word-stress="1" line-stress="1">zyn</s>
-          </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+          <w token="zyn’">
+            <s word-stress="1" line-stress="1">zyn’</s>
           </w>
           <w token="en">
             <s word-stress="1" line-stress="0">en</s>
