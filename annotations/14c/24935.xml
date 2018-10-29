@@ -177,8 +177,8 @@
           </w>
           <rhyme label="c" type="f">
             <w token="us-ercoren">
-              <s word-stress="1" line-stress="1">us</s>
-              <s word-stress="0" line-stress="0">-er</s>
+              <s word-stress="1" line-stress="1">us-</s>
+              <s word-stress="0" line-stress="0">er</s>
               <s word-stress="1" line-stress="1">co</s>
               <s word-stress="0" line-stress="0">ren</s>
             </w>
@@ -231,8 +231,8 @@
             <s word-stress="1" line-stress="1">blijft</s>
           </w>
           <w token="zumal">
-            <s word-stress="1" line-stress="0">zu</s>
-            <s word-stress="0" line-stress="1">mal</s>
+            <s word-stress="0" line-stress="0">zu</s>
+            <s word-stress="1" line-stress="1">mal</s>
           </w>
           <rhyme label="c" type="f" corresp="#s1:l6">
             <w token="verloren">
