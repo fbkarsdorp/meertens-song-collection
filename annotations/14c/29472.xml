@@ -30,13 +30,13 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="+-">
           <w token="crist">
-            <s word-stress="1" line-stress="0">crist</s>
+            <s word-stress="1" line-stress="1">crist</s>
           </w>
           <w token="ist">
-            <s word-stress="1" line-stress="1">ist</s>
+            <s word-stress="1" line-stress="0">ist</s>
           </w>
           <w token="ent">
-            <s word-stress="1" line-stress="1">ent</s>
+            <s word-stress="1" line-stress="0">ent</s>
           </w>
           <rhyme label="a" type="f">
             <w token="standen">
@@ -53,8 +53,8 @@
             <s word-stress="1" line-stress="0">der</s>
           </w>
           <w token="martir">
-            <s word-stress="0" line-stress="1">mar</s>
-            <s word-stress="1" line-stress="0">tir</s>
+            <s word-stress="1" line-stress="1">mar</s>
+            <s word-stress="0" line-stress="0">tir</s>
           </w>
           <rhyme label="b" type="f">
             <w token="alle">
@@ -79,7 +79,7 @@
             <s word-stress="0" line-stress="0">le</s>
           </w>
           <w token="fro">
-            <s word-stress="1" line-stress="1">fro</s>
+            <s word-stress="1" line-stress="0">fro</s>
           </w>
           <rhyme label="c" type="m">
             <w token="sin">
@@ -96,8 +96,8 @@
             <s word-stress="1" line-stress="0">sal</s>
           </w>
           <w token="vnser">
-            <s word-stress="0" line-stress="1">vn</s>
-            <s word-stress="1" line-stress="0">ser</s>
+            <s word-stress="1" line-stress="1">vn</s>
+            <s word-stress="0" line-stress="0">ser</s>
           </w>
           <w token="trost">
             <s word-stress="1" line-stress="1">trost</s>
@@ -109,7 +109,7 @@
             <w token="kyrieleyson">
               <s word-stress="1" line-stress="1">ky</s>
               <s word-stress="0" line-stress="0">rie</s>
-              <s word-stress="0" line-stress="1">ley</s>
+              <s word-stress="0" line-stress="0">ley</s>
               <s word-stress="1" line-stress="1">son</s>
             </w>
           </rhyme>
