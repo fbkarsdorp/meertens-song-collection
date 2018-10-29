@@ -50,12 +50,11 @@
         <l id="s1:l2" met="3" type="-+">
           <w token="beminnaars">
             <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="0" line-stress="1">min</s>
-            <s word-stress="1" line-stress="0">na</s>
-            <s word-stress="1" line-stress="1">ars</s>
+            <s word-stress="1" line-stress="1">min</s>
+            <s word-stress="0" line-stress="0">naars</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <w token="den">
             <s word-stress="0" line-stress="0">den</s>
@@ -153,25 +152,22 @@
           <w token="en">
             <s word-stress="1" line-stress="0">en</s>
           </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
           </w>
           <rhyme label="d" type="m">
             <w token="doodsgevaar">
-              <s word-stress="1" line-stress="1">dood</s>
-              <s word-stress="0" line-stress="0">sge</s>
+              <s word-stress="1" line-stress="1">doods</s>
+              <s word-stress="0" line-stress="0">ge</s>
               <s word-stress="1" line-stress="1">vaar</s>
             </w>
           </rhyme>
         </l>
         <l id="s1:l7" met="3" type="-+">
           <w token="goedgunstig">
-            <s word-stress="1" line-stress="0">goed</s>
-            <s word-stress="0" line-stress="1">guns</s>
-            <s word-stress="1" line-stress="0">tig</s>
+            <s word-stress="0" line-stress="0">goed</s>
+            <s word-stress="1" line-stress="1">gun</s>
+            <s word-stress="0" line-stress="0">stig</s>
           </w>
           <w token="af">
             <s word-stress="1" line-stress="1">af</s>
@@ -191,16 +187,16 @@
         </l>
         <l id="s1:l8" met="3" type="-+">
           <w token="loof">
-            <s word-stress="1" line-stress="1">loof</s>
+            <s word-stress="1" line-stress="0">loof</s>
           </w>
           <w token="hem">
-            <s word-stress="1" line-stress="0">hem</s>
+            <s word-stress="1" line-stress="1">hem</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="godvruchte">
-            <s word-stress="1" line-stress="0">god</s>
+            <s word-stress="0" line-stress="0">god</s>
             <s word-stress="1" line-stress="1">vruch</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
