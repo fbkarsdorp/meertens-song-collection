@@ -45,11 +45,8 @@
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
           </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
           </w>
           <w token="maegden">
             <s word-stress="1" line-stress="1">maeg</s>
@@ -98,10 +95,10 @@
         </l>
         <l id="s1:l3" met="5" type="+-">
           <w token="hoord">
-            <s word-stress="1" line-stress="1">hoord</s>
+            <s word-stress="1" line-stress="0">hoord</s>
           </w>
           <w token="wat">
-            <s word-stress="1" line-stress="0">wat</s>
+            <s word-stress="1" line-stress="1">wat</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -210,8 +207,8 @@
             <s word-stress="1" line-stress="1">rouw</s>
           </w>
           <w token="sonder">
-            <s word-stress="1" line-stress="1">son</s>
-            <s word-stress="0" line-stress="0">der</s>
+            <s word-stress="1" line-stress="0">son</s>
+            <s word-stress="0" line-stress="1">der</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
