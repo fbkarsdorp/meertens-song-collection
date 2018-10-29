@@ -25,10 +25,11 @@
             <s word-stress="1" line-stress="1">iuygt</s>
           </w>
           <w token="nu">
-            <s word-stress="1" line-stress="1">nu</s>
+            <s word-stress="1" line-stress="0">nu</s>
           </w>
           <w token="zions">
-            <s word-stress="1" line-stress="0">zions</s>
+            <s word-stress="1" line-stress="1">zi</s>
+            <s word-stress="0" line-stress="0">ons</s>
           </w>
           <w token="reyne">
             <s word-stress="1" line-stress="1">rey</s>
@@ -76,11 +77,8 @@
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
           </w>
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="‘t">
+            <s word-stress="None" line-stress="0">‘t</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="openbaer">
@@ -180,7 +178,7 @@
         </l>
         <l id="s1:l8" met="4" type="+-">
           <w token="wie">
-            <s word-stress="1" line-stress="1">wie</s>
+            <s word-stress="1" line-stress="0">wie</s>
           </w>
           <w token="zou">
             <s word-stress="1" line-stress="1">zou</s>
@@ -222,11 +220,8 @@
           </w>
         </l>
         <l id="s1:l10" met="3" type="+-">
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="‘t">
+            <s word-stress="None" line-stress="0">‘t</s>
           </w>
           <w token="is">
             <s word-stress="1" line-stress="1">is</s>
@@ -282,7 +277,7 @@
             <s word-stress="1" line-stress="1">heyl</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
           <w token="ge">
             <s word-stress="0" line-stress="0">ge</s>
