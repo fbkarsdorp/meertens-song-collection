@@ -173,21 +173,21 @@
         </l>
         <l id="s1:l7" met="3" type="-+">
           <w token="wilt">
-            <s word-stress="1" line-stress="1">wilt</s>
+            <s word-stress="1" line-stress="0">wilt</s>
           </w>
           <w token="somtijts">
-            <s word-stress="0" line-stress="0">som</s>
-            <s word-stress="1" line-stress="1">tijts</s>
+            <s word-stress="0" line-stress="1">som</s>
+            <s word-stress="1" line-stress="0">tijts</s>
           </w>
           <w token="om">
-            <s word-stress="1" line-stress="0">om</s>
+            <s word-stress="1" line-stress="1">om</s>
           </w>
           <w token="my">
-            <s word-stress="1" line-stress="1">my</s>
+            <s word-stress="1" line-stress="0">my</s>
           </w>
           <rhyme label="d" type="f">
             <w token="peybseb">
-              <s word-stress="1" line-stress="0">peyb</s>
+              <s word-stress="1" line-stress="1">peyb</s>
               <s word-stress="0" line-stress="0">seb</s>
             </w>
           </rhyme>
