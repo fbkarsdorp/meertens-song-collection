@@ -27,10 +27,10 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="ik">
-            <s word-stress="1" line-stress="1">ik</s>
+            <s word-stress="1" line-stress="0">ik</s>
           </w>
           <w token="ben">
-            <s word-stress="1" line-stress="0">ben</s>
+            <s word-stress="1" line-stress="1">ben</s>
           </w>
           <w token="op">
             <s word-stress="1" line-stress="0">op</s>
@@ -85,10 +85,10 @@
             <s word-stress="1" line-stress="0">myn</s>
           </w>
           <w token="vent">
-            <s word-stress="1" line-stress="0">vent</s>
+            <s word-stress="1" line-stress="1">vent</s>
           </w>
           <w token="weet">
-            <s word-stress="1" line-stress="1">weet</s>
+            <s word-stress="1" line-stress="0">weet</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="1">van</s>
@@ -111,10 +111,10 @@
             <s word-stress="1" line-stress="0">myn</s>
           </w>
           <w token="vent">
-            <s word-stress="1" line-stress="0">vent</s>
+            <s word-stress="1" line-stress="1">vent</s>
           </w>
           <w token="weet">
-            <s word-stress="1" line-stress="1">weet</s>
+            <s word-stress="1" line-stress="0">weet</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="1">van</s>
@@ -169,9 +169,9 @@
             <s word-stress="1" line-stress="1">was</s>
           </w>
           <w token="onnozel">
-            <s word-stress="1" line-stress="0">on</s>
-            <s word-stress="0" line-stress="0">no</s>
-            <s word-stress="1" line-stress="1">zel</s>
+            <s word-stress="0" line-stress="0">on</s>
+            <s word-stress="1" line-stress="1">no</s>
+            <s word-stress="0" line-stress="0">zel</s>
           </w>
           <w token="als">
             <s word-stress="1" line-stress="1">als</s>
@@ -192,11 +192,8 @@
           <w token="maar">
             <s word-stress="1" line-stress="0">maar</s>
           </w>
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="k">
-            <s word-stress="None" line-stress="0">k</s>
+          <w token="'k">
+            <s word-stress="None" line-stress="0">'k</s>
           </w>
           <w token="vrees">
             <s word-stress="1" line-stress="1">vrees</s>
@@ -224,11 +221,8 @@
           <w token="maar">
             <s word-stress="1" line-stress="0">maar</s>
           </w>
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="k">
-            <s word-stress="None" line-stress="0">k</s>
+          <w token="‘k">
+            <s word-stress="None" line-stress="0">‘k</s>
           </w>
           <w token="vrees">
             <s word-stress="1" line-stress="1">vrees</s>
