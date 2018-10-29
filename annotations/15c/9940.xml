@@ -33,9 +33,12 @@
           <w token="vry">
             <s word-stress="1" line-stress="1">vry</s>
           </w>
-          <w token="verblijt//">
+          <w token="verblijt">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="1">blijt//</s>
+            <s word-stress="1" line-stress="1">blijt</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="ghy">
             <s word-stress="1" line-stress="0">ghy</s>
@@ -62,8 +65,11 @@
             <s word-stress="1" line-stress="1">chris</s>
             <s word-stress="0" line-stress="0">to</s>
           </w>
-          <w token="zijt//">
-            <s word-stress="1" line-stress="1">zijt//</s>
+          <w token="zijt">
+            <s word-stress="1" line-stress="1">zijt</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="ghy">
             <s word-stress="1" line-stress="0">ghy</s>
@@ -90,17 +96,20 @@
             <s word-stress="1" line-stress="1">goe</s>
             <s word-stress="0" line-stress="0">den</s>
           </w>
-          <w token="moet//">
-            <s word-stress="1" line-stress="1">moet//</s>
+          <w token="moet">
+            <s word-stress="1" line-stress="1">moet</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="door">
             <s word-stress="1" line-stress="0">door</s>
           </w>
           <w token="sijn">
-            <s word-stress="1" line-stress="0">sijn</s>
+            <s word-stress="1" line-stress="1">sijn</s>
           </w>
           <w token="woordt">
-            <s word-stress="1" line-stress="1">woordt</s>
+            <s word-stress="1" line-stress="0">woordt</s>
           </w>
           <rhyme label="b" type="m">
             <w token="soet">
@@ -121,8 +130,11 @@
           <w token="aen">
             <s word-stress="1" line-stress="0">aen</s>
           </w>
-          <w token="doet//">
-            <s word-stress="1" line-stress="1">doet//</s>
+          <w token="doet">
+            <s word-stress="1" line-stress="1">doet</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="smaet">
             <s word-stress="1" line-stress="0">smaet</s>
