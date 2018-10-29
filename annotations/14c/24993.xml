@@ -54,8 +54,8 @@
             <s word-stress="0" line-stress="0">wen</s>
           </w>
           <w token="alzo">
-            <s word-stress="0" line-stress="1">al</s>
-            <s word-stress="1" line-stress="0">zo</s>
+            <s word-stress="1" line-stress="1">al</s>
+            <s word-stress="0" line-stress="0">zo</s>
           </w>
           <w token="wal">
             <s word-stress="1" line-stress="1">wal</s>
@@ -132,13 +132,13 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="lijp">
-            <s word-stress="1" line-stress="0">lijp</s>
+            <s word-stress="1" line-stress="1">lijp</s>
           </w>
           <w token="unde">
-            <s word-stress="1" line-stress="1">un</s>
+            <s word-stress="1" line-stress="0">un</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="c" type="m">
@@ -185,8 +185,8 @@
             <s word-stress="0" line-stress="0">phe</s>
           </w>
           <w token="odir">
-            <s word-stress="1" line-stress="0">o</s>
-            <s word-stress="0" line-stress="1">dir</s>
+            <s word-stress="1" line-stress="1">o</s>
+            <s word-stress="0" line-stress="0">dir</s>
           </w>
           <w token="ernst">
             <s word-stress="1" line-stress="0">ernst</s>
@@ -209,10 +209,10 @@
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="eyn">
-            <s word-stress="1" line-stress="1">eyn</s>
+            <s word-stress="1" line-stress="0">eyn</s>
           </w>
           <w token="ongevoeger">
-            <s word-stress="1" line-stress="0">on</s>
+            <s word-stress="1" line-stress="1">on</s>
             <s word-stress="0" line-stress="0">ge</s>
             <s word-stress="1" line-stress="1">voe</s>
             <s word-stress="0" line-stress="0">ger</s>
