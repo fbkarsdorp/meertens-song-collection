@@ -57,19 +57,19 @@
         </l>
         <l id="s1:l2" met="5" type="+-">
           <w token="of">
-            <s word-stress="1" line-stress="0">of</s>
+            <s word-stress="1" line-stress="1">of</s>
           </w>
           <w token="denkt">
-            <s word-stress="1" line-stress="1">denkt</s>
+            <s word-stress="1" line-stress="0">denkt</s>
           </w>
           <w token="gy">
-            <s word-stress="1" line-stress="0">gy</s>
+            <s word-stress="1" line-stress="1">gy</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="dat">
-            <s word-stress="1" line-stress="1">dat</s>
+            <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="zyn">
             <s word-stress="1" line-stress="0">zyn</s>
@@ -128,11 +128,8 @@
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
           </w>
-          <w token="zelv">
-            <s word-stress="1" line-stress="1">zelv</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="zelv'">
+            <s word-stress="1" line-stress="1">zelv'</s>
           </w>
           <w token="tot">
             <s word-stress="1" line-stress="0">tot</s>
