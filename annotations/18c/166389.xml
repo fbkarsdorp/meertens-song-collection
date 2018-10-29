@@ -25,10 +25,10 @@
             <s word-stress="1" line-stress="0">het</s>
           </w>
           <w token="zijn">
-            <s word-stress="1" line-stress="0">zijn</s>
+            <s word-stress="1" line-stress="1">zijn</s>
           </w>
           <w token="thans">
-            <s word-stress="1" line-stress="1">thans</s>
+            <s word-stress="1" line-stress="0">thans</s>
           </w>
           <w token="vijf">
             <s word-stress="1" line-stress="1">vijf</s>
@@ -52,18 +52,18 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="dat">
-            <s word-stress="1" line-stress="1">dat</s>
+            <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="onze">
-            <s word-stress="0" line-stress="0">on</s>
-            <s word-stress="1" line-stress="1">ze</s>
+            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="0">ze</s>
           </w>
           <w token="gastheer">
-            <s word-stress="1" line-stress="0">gast</s>
-            <s word-stress="0" line-stress="1">heer</s>
+            <s word-stress="1" line-stress="1">gast</s>
+            <s word-stress="0" line-stress="0">heer</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">en</s>
           </w>
           <w token="zijn">
             <s word-stress="1" line-stress="0">zijn</s>
