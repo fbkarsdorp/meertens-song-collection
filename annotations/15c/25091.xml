@@ -44,25 +44,25 @@
             <s word-stress="1" line-stress="0">hi</s>
           </w>
           <w token="vliecht">
-            <s word-stress="1" line-stress="0">vliecht</s>
+            <s word-stress="1" line-stress="1">vliecht</s>
           </w>
           <w token="soe">
-            <s word-stress="1" line-stress="1">soe</s>
+            <s word-stress="1" line-stress="0">soe</s>
           </w>
           <w token="hoge">
-            <s word-stress="1" line-stress="0">ho</s>
+            <s word-stress="1" line-stress="1">ho</s>
             <s word-stress="0" line-stress="0">ge</s>
           </w>
           <w token="vor">
-            <s word-stress="1" line-stress="1">vor</s>
+            <s word-stress="1" line-stress="0">vor</s>
           </w>
           <w token="gods">
             <s word-stress="1" line-stress="1">gods</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="aenscijn">
-              <s word-stress="0" line-stress="0">aen</s>
-              <s word-stress="1" line-stress="1">scijn</s>
+              <s word-stress="1" line-stress="0">aen</s>
+              <s word-stress="0" line-stress="1">scijn</s>
             </w>
           </rhyme>
         </l>
@@ -122,12 +122,12 @@
         </l>
         <l id="s1:l5" met="3" type="-+">
           <w token="franciscus">
-            <s word-stress="1" line-stress="1">fran</s>
-            <s word-stress="0" line-stress="0">cis</s>
-            <s word-stress="0" line-stress="1">cus</s>
+            <s word-stress="0" line-stress="0">fran</s>
+            <s word-stress="1" line-stress="1">cis</s>
+            <s word-stress="0" line-stress="0">cus</s>
           </w>
           <w token="es">
-            <s word-stress="1" line-stress="0">es</s>
+            <s word-stress="1" line-stress="1">es</s>
           </w>
           <w token="sijn">
             <s word-stress="1" line-stress="0">sijn</s>
