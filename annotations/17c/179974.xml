@@ -133,11 +133,11 @@
             <s word-stress="1" line-stress="1">of</s>
           </w>
           <w token="warmpjes">
-            <s word-stress="1" line-stress="0">warm</s>
-            <s word-stress="0" line-stress="1">pjes</s>
+            <s word-stress="1" line-stress="1">warm</s>
+            <s word-stress="0" line-stress="0">pjes</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="natuur">
@@ -168,8 +168,8 @@
         </l>
         <l id="s1:l6" met="2" type="-+">
           <w token="doktor">
-            <s word-stress="0" line-stress="0">dok</s>
-            <s word-stress="1" line-stress="1">tor</s>
+            <s word-stress="1" line-stress="1">dok</s>
+            <s word-stress="0" line-stress="0">tor</s>
           </w>
           <w token="goê">
             <s word-stress="1" line-stress="0">goê</s>
@@ -185,7 +185,7 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="die">
-            <s word-stress="1" line-stress="0">die</s>
+            <s word-stress="1" line-stress="1">die</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -196,13 +196,13 @@
             <s word-stress="0" line-stress="0">zen</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <w token="vroeg">
-            <s word-stress="1" line-stress="0">vroeg</s>
+            <s word-stress="1" line-stress="1">vroeg</s>
           </w>
           <w token="ofte">
-            <s word-stress="1" line-stress="1">of</s>
+            <s word-stress="1" line-stress="0">of</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
