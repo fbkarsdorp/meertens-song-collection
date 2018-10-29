@@ -32,7 +32,7 @@
             <s word-stress="1" line-stress="1">nimf</s>
           </w>
           <w token="aansiet">
-            <s word-stress="1" line-stress="0">aan</s>
+            <s word-stress="0" line-stress="0">aan</s>
             <s word-stress="1" line-stress="1">siet</s>
           </w>
           <w token="een">
@@ -155,8 +155,8 @@
           </w>
           <rhyme label="c" type="f">
             <w token="lipjes">
-              <s word-stress="0" line-stress="0">li</s>
-              <s word-stress="1" line-stress="1">pjes</s>
+              <s word-stress="1" line-stress="1">lip</s>
+              <s word-stress="0" line-stress="0">jes</s>
             </w>
           </rhyme>
           <w token=",">
@@ -165,8 +165,8 @@
         </l>
         <l id="s1:l6" met="4" type="-+">
           <w token="vergun">
-            <s word-stress="1" line-stress="0">ver</s>
-            <s word-stress="0" line-stress="1">gun</s>
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">gun</s>
           </w>
           <w token="dat">
             <s word-stress="1" line-stress="0">dat</s>
@@ -192,21 +192,21 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="vergun">
-            <s word-stress="1" line-stress="0">ver</s>
-            <s word-stress="0" line-stress="1">gun</s>
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">gun</s>
           </w>
           <w token="dat">
             <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="ik">
-            <s word-stress="1" line-stress="0">ik</s>
+            <s word-stress="1" line-stress="1">ik</s>
           </w>
           <w token="u">
-            <s word-stress="1" line-stress="1">u</s>
+            <s word-stress="1" line-stress="0">u</s>
           </w>
           <w token="borsjes">
-            <s word-stress="0" line-stress="0">bor</s>
-            <s word-stress="1" line-stress="1">sjes</s>
+            <s word-stress="1" line-stress="1">bors</s>
+            <s word-stress="0" line-stress="0">jes</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l6">
             <w token="voel">
@@ -227,8 +227,8 @@
           </w>
           <rhyme label="c" type="f" corresp="#s1:l5">
             <w token="tipjes">
-              <s word-stress="0" line-stress="0">ti</s>
-              <s word-stress="1" line-stress="1">pjes</s>
+              <s word-stress="1" line-stress="1">tip</s>
+              <s word-stress="0" line-stress="0">jes</s>
             </w>
           </rhyme>
           <w token=".">
