@@ -37,16 +37,16 @@
           </w>
           <w token="engelen">
             <s word-stress="1" line-stress="1">en</s>
-            <s word-stress="1" line-stress="0">ge</s>
+            <s word-stress="0" line-stress="0">ge</s>
             <s word-stress="0" line-stress="0">len</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <rhyme label="a" type="f">
             <w token="hemelrijc">
               <s word-stress="1" line-stress="0">he</s>
-              <s word-stress="0" line-stress="1">mel</s>
+              <s word-stress="0" line-stress="0">mel</s>
               <s word-stress="1" line-stress="1">rijc</s>
             </w>
           </rhyme>
@@ -65,15 +65,15 @@
           <w token="herderkens">
             <s word-stress="1" line-stress="1">her</s>
             <s word-stress="0" line-stress="0">der</s>
-            <s word-stress="0" line-stress="1">kens</s>
+            <s word-stress="0" line-stress="0">kens</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="aertrijc">
-              <s word-stress="1" line-stress="1">aert</s>
-              <s word-stress="0" line-stress="0">rijc</s>
+              <s word-stress="1" line-stress="0">aert</s>
+              <s word-stress="0" line-stress="1">rijc</s>
             </w>
           </rhyme>
         </l>
