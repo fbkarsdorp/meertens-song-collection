@@ -33,16 +33,16 @@
           <w token="brusselaers">
             <s word-stress="1" line-stress="1">brus</s>
             <s word-stress="0" line-stress="0">se</s>
-            <s word-stress="1" line-stress="1">laers</s>
+            <s word-stress="0" line-stress="0">laers</s>
           </w>
           <w token="met">
-            <s word-stress="1" line-stress="0">met</s>
+            <s word-stress="1" line-stress="1">met</s>
           </w>
           <rhyme label="a" type="f">
             <w token="couragie">
               <s word-stress="0" line-stress="0">cou</s>
-              <s word-stress="0" line-stress="0">ra</s>
-              <s word-stress="0" line-stress="1">gie</s>
+              <s word-stress="1" line-stress="1">ra</s>
+              <s word-stress="0" line-stress="0">gie</s>
             </w>
           </rhyme>
         </l>
@@ -83,8 +83,8 @@
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="gagie">
-              <s word-stress="0" line-stress="0">ga</s>
-              <s word-stress="1" line-stress="1">gie</s>
+              <s word-stress="1" line-stress="1">ga</s>
+              <s word-stress="0" line-stress="0">gie</s>
             </w>
           </rhyme>
         </l>
