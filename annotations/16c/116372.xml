@@ -59,9 +59,9 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="hoe-welze">
-            <s word-stress="1" line-stress="1">hoe-</s>
-            <s word-stress="0" line-stress="0">wel</s>
-            <s word-stress="1" line-stress="0">ze</s>
+            <s word-stress="0" line-stress="0">hoe-</s>
+            <s word-stress="1" line-stress="1">wel</s>
+            <s word-stress="0" line-stress="0">ze</s>
           </w>
           <w token="korter">
             <s word-stress="1" line-stress="1">kor</s>
@@ -213,7 +213,7 @@
           </w>
           <w token="aan-wijst">
             <s word-stress="1" line-stress="1">aan-</s>
-            <s word-stress="1" line-stress="0">wijst</s>
+            <s word-stress="0" line-stress="0">wijst</s>
           </w>
           <w token="zijnen">
             <s word-stress="1" line-stress="1">zij</s>
