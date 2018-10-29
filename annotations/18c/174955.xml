@@ -19,10 +19,10 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="och">
-            <s word-stress="1" line-stress="1">och</s>
+            <s word-stress="1" line-stress="0">och</s>
           </w>
           <w token="lentelief">
-            <s word-stress="1" line-stress="0">len</s>
+            <s word-stress="1" line-stress="1">len</s>
             <s word-stress="0" line-stress="0">te</s>
             <s word-stress="1" line-stress="1">lief</s>
           </w>
@@ -48,8 +48,8 @@
             <s word-stress="1" line-stress="0">hoe</s>
           </w>
           <w token="prachtig">
-            <s word-stress="0" line-stress="1">prach</s>
-            <s word-stress="1" line-stress="0">tig</s>
+            <s word-stress="1" line-stress="1">prach</s>
+            <s word-stress="0" line-stress="0">tig</s>
           </w>
           <w token="zijn">
             <s word-stress="1" line-stress="1">zijn</s>
@@ -98,7 +98,7 @@
           <w token="paereltjes">
             <s word-stress="1" line-stress="1">pae</s>
             <s word-stress="0" line-stress="0">rel</s>
-            <s word-stress="1" line-stress="1">tjes</s>
+            <s word-stress="0" line-stress="1">tjes</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="0">van</s>
