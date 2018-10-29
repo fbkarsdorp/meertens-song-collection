@@ -95,10 +95,10 @@
             <s word-stress="1" line-stress="0">gy</s>
           </w>
           <w token="my">
-            <s word-stress="1" line-stress="0">my</s>
+            <s word-stress="1" line-stress="1">my</s>
           </w>
           <w token="straks">
-            <s word-stress="1" line-stress="1">straks</s>
+            <s word-stress="1" line-stress="0">straks</s>
           </w>
           <w token="zou">
             <s word-stress="1" line-stress="1">zou</s>
@@ -147,7 +147,7 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="dat">
-            <s word-stress="1" line-stress="0">dat</s>
+            <s word-stress="1" line-stress="1">dat</s>
           </w>
           <w token="'k">
             <s word-stress="None" line-stress="0">'k</s>
@@ -156,7 +156,7 @@
             <s word-stress="1" line-stress="0">me</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
@@ -185,14 +185,13 @@
         </l>
         <l id="s1:l6" met="4" type="+-">
           <w token="en">
-            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">en</s>
           </w>
           <w token="wel">
-            <s word-stress="1" line-stress="1">wel</s>
+            <s word-stress="1" line-stress="0">wel</s>
           </w>
           <w token="wenschten">
-            <s word-stress="1" line-stress="1">wen</s>
-            <s word-stress="0" line-stress="0">sch</s>
+            <s word-stress="1" line-stress="1">wensch</s>
             <s word-stress="0" line-stress="0">ten</s>
           </w>
           <w token="tot">
@@ -212,10 +211,10 @@
         </l>
         <l id="s1:l7" met="4" type="+-">
           <w token="die">
-            <s word-stress="1" line-stress="0">die</s>
+            <s word-stress="1" line-stress="1">die</s>
           </w>
           <w token="my">
-            <s word-stress="1" line-stress="1">my</s>
+            <s word-stress="1" line-stress="0">my</s>
           </w>
           <w token="eeuwig">
             <s word-stress="1" line-stress="1">eeu</s>
