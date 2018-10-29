@@ -28,7 +28,7 @@
             <s word-stress="1" line-stress="1">reyn</s>
           </w>
           <w token="//">
-            <s word-stress="1" line-stress="0">//</s>
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <rhyme label="a" type="f">
             <w token="gelaet">
@@ -50,10 +50,9 @@
           </w>
           <rhyme label="b" type="m">
             <w token="amoreus">
-              <s word-stress="0" line-stress="0">a</s>
-              <s word-stress="0" line-stress="1">mo</s>
-              <s word-stress="1" line-stress="0">re</s>
-              <s word-stress="0" line-stress="1">us</s>
+              <s word-stress="1" line-stress="1">a</s>
+              <s word-stress="0" line-stress="0">mo</s>
+              <s word-stress="1" line-stress="1">reus</s>
             </w>
           </rhyme>
           <w token=",">
@@ -71,7 +70,7 @@
             <s word-stress="1" line-stress="1">pleyn</s>
           </w>
           <w token="//">
-            <s word-stress="1" line-stress="0">//</s>
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="en">
             <s word-stress="1" line-stress="0">en</s>
@@ -92,8 +91,8 @@
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="pretieus">
-              <s word-stress="0" line-stress="1">pre</s>
-              <s word-stress="1" line-stress="0">ti</s>
+              <s word-stress="1" line-stress="1">pre</s>
+              <s word-stress="0" line-stress="0">ti</s>
               <s word-stress="1" line-stress="1">eus</s>
             </w>
           </rhyme>
@@ -147,7 +146,7 @@
             <s word-stress="1" line-stress="1">al</s>
           </w>
           <w token="//">
-            <s word-stress="1" line-stress="0">//</s>
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="mijn">
             <s word-stress="1" line-stress="0">mijn</s>
@@ -169,7 +168,7 @@
             <s word-stress="1" line-stress="1">my</s>
           </w>
           <w token="(">
-            <s word-stress="1" line-stress="0">(</s>
+            <s word-stress="None" line-stress="0">(</s>
           </w>
           <w token="by">
             <s word-stress="1" line-stress="0">by</s>
@@ -184,7 +183,7 @@
             </w>
           </rhyme>
           <w token=")">
-            <s word-stress="1" line-stress="0">)</s>
+            <s word-stress="None" line-stress="0">)</s>
           </w>
         </l>
         <l id="s1:l9" met="3" type="-+">
