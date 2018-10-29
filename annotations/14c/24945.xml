@@ -67,10 +67,10 @@
             <s word-stress="1" line-stress="1">zi</s>
           </w>
           <w token="doch">
-            <s word-stress="1" line-stress="1">doch</s>
+            <s word-stress="1" line-stress="0">doch</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <w token="genedich">
             <s word-stress="0" line-stress="0">ge</s>
@@ -147,15 +147,15 @@
         <l id="s1:l5" met="4" type="-+">
           <w token="0nieman">
             <s word-stress="1" line-stress="1">0nie</s>
-            <s word-stress="0" line-stress="1">man</s>
+            <s word-stress="0" line-stress="0">man</s>
           </w>
           <w token="soldes">
-            <s word-stress="1" line-stress="0">sol</s>
-            <s word-stress="0" line-stress="1">des</s>
+            <s word-stress="1" line-stress="1">sol</s>
+            <s word-stress="0" line-stress="0">des</s>
           </w>
           <w token="gerende">
-            <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="0">ren</s>
+            <s word-stress="1" line-stress="1">ge</s>
+            <s word-stress="0" line-stress="0">ren</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="c" type="m">
@@ -179,7 +179,7 @@
             <s word-stress="0" line-stress="0">che</s>
           </w>
           <w token="``">
-            <s word-stress="1" line-stress="0">``</s>
+            <s word-stress="None" line-stress="0">``</s>
           </w>
           <w token="min">
             <s word-stress="1" line-stress="1">min</s>
@@ -200,7 +200,7 @@
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="''">
-            <s word-stress="1" line-stress="0">''</s>
+            <s word-stress="None" line-stress="0">''</s>
           </w>
           <w token=";">
             <s word-stress="None" line-stress="0">;</s>
@@ -238,10 +238,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="der">
-            <s word-stress="1" line-stress="0">der</s>
+            <s word-stress="1" line-stress="1">der</s>
           </w>
           <w token="zi">
-            <s word-stress="1" line-stress="1">zi</s>
+            <s word-stress="1" line-stress="0">zi</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="min">
