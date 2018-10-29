@@ -23,7 +23,7 @@
         <l id="s1:l1" met="4" type="-+">
           <w token="simson">
             <s word-stress="1" line-stress="0">sim</s>
-            <s word-stress="1" line-stress="1">son</s>
+            <s word-stress="0" line-stress="1">son</s>
           </w>
           <w token="was">
             <s word-stress="1" line-stress="0">was</s>
@@ -39,8 +39,8 @@
           </w>
           <rhyme label="a" type="m">
             <w token="door-speckt">
-              <s word-stress="1" line-stress="0">door-</s>
-              <s word-stress="0" line-stress="1">speckt</s>
+              <s word-stress="0" line-stress="0">door-</s>
+              <s word-stress="1" line-stress="1">speckt</s>
             </w>
           </rhyme>
         </l>
@@ -49,14 +49,14 @@
             <s word-stress="1" line-stress="0">met</s>
           </w>
           <w token="kracht">
-            <s word-stress="1" line-stress="0">kracht</s>
+            <s word-stress="1" line-stress="1">kracht</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="1">van</s>
+            <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="duysent">
-            <s word-stress="0" line-stress="0">duy</s>
-            <s word-stress="1" line-stress="1">sent</s>
+            <s word-stress="1" line-stress="1">duy</s>
+            <s word-stress="0" line-stress="0">sent</s>
           </w>
           <rhyme label="b" type="f">
             <w token="reusen">
@@ -112,8 +112,8 @@
           </w>
           <rhyme label="b" type="f" corresp="#s1:l2">
             <w token="verkneusen">
-              <s word-stress="0" line-stress="0">verk</s>
-              <s word-stress="1" line-stress="1">neu</s>
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">kneu</s>
               <s word-stress="0" line-stress="0">sen</s>
             </w>
           </rhyme>
