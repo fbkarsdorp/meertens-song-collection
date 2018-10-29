@@ -48,8 +48,8 @@
             <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="schencken">
-            <s word-stress="1" line-stress="1">schenc</s>
-            <s word-stress="0" line-stress="0">ken</s>
+            <s word-stress="1" line-stress="1">schen</s>
+            <s word-stress="0" line-stress="0">cken</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
@@ -98,8 +98,8 @@
             <s word-stress="0" line-stress="0">ven</s>
           </w>
           <w token="ionc-vroukens">
-            <s word-stress="1" line-stress="1">ionc-</s>
-            <s word-stress="0" line-stress="0">vrou</s>
+            <s word-stress="1" line-stress="0">ionc-</s>
+            <s word-stress="0" line-stress="1">vrou</s>
             <s word-stress="0" line-stress="0">kens</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
@@ -113,11 +113,10 @@
         </l>
         <l id="s1:l5" met="4" type="-+">
           <w token="en">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="breyen">
-            <s word-stress="1" line-stress="0">bre</s>
-            <s word-stress="0" line-stress="0">y</s>
+            <s word-stress="1" line-stress="1">brey</s>
             <s word-stress="0" line-stress="0">en</s>
           </w>
           <w token="van">
@@ -134,7 +133,7 @@
             <w token="krancelijn">
               <s word-stress="1" line-stress="1">kran</s>
               <s word-stress="0" line-stress="0">ce</s>
-              <s word-stress="1" line-stress="1">lijn</s>
+              <s word-stress="0" line-stress="1">lijn</s>
             </w>
           </rhyme>
           <w token=",">
@@ -153,8 +152,8 @@
             <s word-stress="1" line-stress="0">wy</s>
           </w>
           <w token="schencken">
-            <s word-stress="1" line-stress="1">schenc</s>
-            <s word-stress="0" line-stress="0">ken</s>
+            <s word-stress="1" line-stress="1">schen</s>
+            <s word-stress="0" line-stress="0">cken</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
@@ -165,8 +164,8 @@
           </w>
           <rhyme label="c" type="f">
             <w token="jonckvrouwen">
-              <s word-stress="1" line-stress="1">jonck</s>
-              <s word-stress="0" line-stress="0">vrou</s>
+              <s word-stress="1" line-stress="0">jonck</s>
+              <s word-stress="0" line-stress="1">vrou</s>
               <s word-stress="0" line-stress="0">wen</s>
             </w>
           </rhyme>
