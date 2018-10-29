@@ -29,7 +29,7 @@
         <l id="s1:l1" met="4" type="-+">
           <w token="aenhoort">
             <s word-stress="0" line-stress="0">aen</s>
-            <s word-stress="0" line-stress="1">hoort</s>
+            <s word-stress="1" line-stress="1">hoort</s>
           </w>
           <w token="ghy">
             <s word-stress="1" line-stress="0">ghy</s>
@@ -57,7 +57,7 @@
             <s word-stress="1" line-stress="0">wilt</s>
           </w>
           <w token="v">
-            <s word-stress="1" line-stress="0">v</s>
+            <s word-stress="1" line-stress="1">v</s>
           </w>
           <w token="begheuen">
             <s word-stress="0" line-stress="0">be</s>
@@ -68,11 +68,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="tis">
-            <s word-stress="1" line-stress="1">tis</s>
+            <s word-stress="1" line-stress="0">tis</s>
           </w>
           <w token="nv">
-            <s word-stress="0" line-stress="0">n</s>
-            <s word-stress="1" line-stress="1">v</s>
+            <s word-stress="1" line-stress="1">nv</s>
           </w>
           <w token="den">
             <s word-stress="0" line-stress="0">den</s>
@@ -151,10 +150,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="spoet">
-            <s word-stress="1" line-stress="1">spoet</s>
+            <s word-stress="1" line-stress="0">spoet</s>
           </w>
           <w token="v">
-            <s word-stress="1" line-stress="0">v</s>
+            <s word-stress="1" line-stress="1">v</s>
           </w>
           <w token="met">
             <s word-stress="1" line-stress="0">met</s>
@@ -173,8 +172,7 @@
             <s word-stress="1" line-stress="1">houdt</s>
           </w>
           <w token="nv">
-            <s word-stress="0" line-stress="0">n</s>
-            <s word-stress="1" line-stress="0">v</s>
+            <s word-stress="1" line-stress="0">nv</s>
           </w>
           <w token="op">
             <s word-stress="1" line-stress="1">op</s>
@@ -194,17 +192,17 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="wilt">
-            <s word-stress="1" line-stress="1">wilt</s>
+            <s word-stress="1" line-stress="0">wilt</s>
           </w>
           <w token="gods">
-            <s word-stress="1" line-stress="0">gods</s>
+            <s word-stress="1" line-stress="1">gods</s>
           </w>
           <w token="woort">
-            <s word-stress="1" line-stress="1">woort</s>
+            <s word-stress="1" line-stress="0">woort</s>
           </w>
           <w token="doorlesen">
-            <s word-stress="0" line-stress="0">door</s>
-            <s word-stress="1" line-stress="1">le</s>
+            <s word-stress="1" line-stress="0">door</s>
+            <s word-stress="0" line-stress="1">le</s>
             <s word-stress="0" line-stress="0">sen</s>
           </w>
           <w token=",">
@@ -220,12 +218,12 @@
             <s word-stress="1" line-stress="0">v</s>
           </w>
           <w token="siel">
-            <s word-stress="1" line-stress="0">siel</s>
+            <s word-stress="1" line-stress="1">siel</s>
           </w>
           <rhyme label="d" type="f">
             <w token="ghenesen">
               <s word-stress="0" line-stress="0">ghe</s>
-              <s word-stress="1" line-stress="0">ne</s>
+              <s word-stress="1" line-stress="1">ne</s>
               <s word-stress="0" line-stress="0">sen</s>
             </w>
           </rhyme>
