@@ -46,8 +46,8 @@
             <s word-stress="None" line-stress="0">'s</s>
           </w>
           <w token="vijands">
-            <s word-stress="1" line-stress="1">vi</s>
-            <s word-stress="1" line-stress="0">jands</s>
+            <s word-stress="1" line-stress="1">vij</s>
+            <s word-stress="0" line-stress="0">ands</s>
           </w>
           <rhyme label="a" type="f">
             <w token="handen">
@@ -132,8 +132,8 @@
             <s word-stress="1" line-stress="1">hoog</s>
           </w>
           <w token="vertrek">
-            <s word-stress="1" line-stress="0">ver</s>
-            <s word-stress="0" line-stress="1">trek</s>
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">trek</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l3">
             <w token="gesteld">
@@ -158,13 +158,9 @@
           <w token="'t">
             <s word-stress="None" line-stress="0">'t</s>
           </w>
-          <w token="behaag">
-            <s word-stress="1" line-stress="0">be</s>
-            <s word-stress="0" line-stress="0">ha</s>
-            <s word-stress="1" line-stress="1">ag</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="behaag'">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="1">haag'</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -172,11 +168,8 @@
           <w token="mij">
             <s word-stress="1" line-stress="1">mij</s>
           </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="t'">
+            <s word-stress="None" line-stress="0">t'</s>
           </w>
           <rhyme label="c" type="f">
             <w token="ontzetten">
@@ -244,8 +237,8 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="bloeddorstig">
-            <s word-stress="1" line-stress="1">bloed</s>
-            <s word-stress="0" line-stress="0">dors</s>
+            <s word-stress="0" line-stress="0">bloed</s>
+            <s word-stress="1" line-stress="1">dors</s>
             <s word-stress="0" line-stress="0">tig</s>
           </w>
           <w token="mij">
