@@ -68,7 +68,8 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="bacchus">
-            <s word-stress="1" line-stress="1">bacchus</s>
+            <s word-stress="1" line-stress="1">bac</s>
+            <s word-stress="0" line-stress="0">chus</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="vent">
@@ -114,13 +115,13 @@
             <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="sijn">
-            <s word-stress="1" line-stress="0">sijn</s>
+            <s word-stress="1" line-stress="1">sijn</s>
           </w>
           <rhyme label="c" type="f">
             <w token="saletje">
-              <s word-stress="0" line-stress="1">sa</s>
-              <s word-stress="1" line-stress="0">le</s>
-              <s word-stress="0" line-stress="1">tje</s>
+              <s word-stress="0" line-stress="0">sa</s>
+              <s word-stress="1" line-stress="1">le</s>
+              <s word-stress="0" line-stress="0">tje</s>
             </w>
           </rhyme>
           <w token=",">
@@ -177,8 +178,7 @@
           </w>
           <rhyme label="c" type="f" corresp="#s1:l4">
             <w token="pretje">
-              <s word-stress="1" line-stress="1">pre</s>
-              <s word-stress="0" line-stress="0">t</s>
+              <s word-stress="1" line-stress="1">pret</s>
               <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
