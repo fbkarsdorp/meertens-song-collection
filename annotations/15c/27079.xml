@@ -53,15 +53,14 @@
             <s word-stress="1" line-stress="0">ghy</s>
           </w>
           <w token="die">
-            <s word-stress="1" line-stress="0">die</s>
+            <s word-stress="1" line-stress="1">die</s>
           </w>
           <w token="den">
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <w token="spaengiaert">
             <s word-stress="1" line-stress="1">spaen</s>
-            <s word-stress="0" line-stress="0">gi</s>
-            <s word-stress="1" line-stress="1">aert</s>
+            <s word-stress="0" line-stress="0">giaert</s>
           </w>
           <w token="goet">
             <s word-stress="1" line-stress="0">goet</s>
@@ -125,8 +124,8 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="beurydt">
-              <s word-stress="0" line-stress="0">beu</s>
-              <s word-stress="1" line-stress="1">rydt</s>
+              <s word-stress="0" line-stress="0">be</s>
+              <s word-stress="1" line-stress="1">urydt</s>
             </w>
           </rhyme>
           <w token=",">
