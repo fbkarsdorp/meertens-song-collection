@@ -63,11 +63,8 @@
           <w token="den">
             <s word-stress="0" line-stress="0">den</s>
           </w>
-          <w token="heer">
-            <s word-stress="1" line-stress="1">heer</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="heer'">
+            <s word-stress="1" line-stress="1">heer'</s>
           </w>
           <w token="v">
             <s word-stress="1" line-stress="0">v</s>
@@ -90,16 +87,16 @@
             <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="lof">
-            <s word-stress="1" line-stress="0">lof</s>
+            <s word-stress="1" line-stress="1">lof</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="den">
-            <s word-stress="0" line-stress="0">den</s>
+            <s word-stress="0" line-stress="1">den</s>
           </w>
           <w token="mond">
-            <s word-stress="1" line-stress="1">mond</s>
+            <s word-stress="1" line-stress="0">mond</s>
           </w>
           <w token="sijner">
             <s word-stress="1" line-stress="1">sij</s>
@@ -147,8 +144,8 @@
             <s word-stress="1" line-stress="1">met</s>
           </w>
           <w token="harpen">
-            <s word-stress="1" line-stress="1">har</s>
-            <s word-stress="0" line-stress="0">pen</s>
+            <s word-stress="1" line-stress="0">har</s>
+            <s word-stress="0" line-stress="1">pen</s>
           </w>
           <w token="vol">
             <s word-stress="1" line-stress="0">vol</s>
@@ -194,11 +191,8 @@
             <s word-stress="1" line-stress="0">end</s>
           </w>
           <rhyme label="d" type="m">
-            <w token="eer">
-              <s word-stress="1" line-stress="1">eer</s>
-            </w>
-            <w token="'">
-              <s word-stress="1" line-stress="0">'</s>
+            <w token="eer'">
+              <s word-stress="1" line-stress="1">eer'</s>
             </w>
           </rhyme>
           <w token=",">
@@ -207,14 +201,14 @@
         </l>
         <l id="s1:l8" met="3" type="+-">
           <w token="dat">
-            <s word-stress="1" line-stress="0">dat</s>
+            <s word-stress="1" line-stress="1">dat</s>
           </w>
           <w token="psalters">
-            <s word-stress="1" line-stress="1">psal</s>
-            <s word-stress="0" line-stress="0">ters</s>
+            <s word-stress="1" line-stress="0">psal</s>
+            <s word-stress="0" line-stress="1">ters</s>
           </w>
           <w token="end">
-            <s word-stress="1" line-stress="1">end</s>
+            <s word-stress="1" line-stress="0">end</s>
           </w>
           <rhyme label="e" type="f">
             <w token="kelen">
@@ -231,8 +225,8 @@
             <s word-stress="1" line-stress="1">nu</s>
           </w>
           <w token="singhen">
-            <s word-stress="1" line-stress="1">sin</s>
-            <s word-stress="0" line-stress="0">ghen</s>
+            <s word-stress="1" line-stress="0">sin</s>
+            <s word-stress="0" line-stress="1">ghen</s>
           </w>
           <w token="end">
             <s word-stress="1" line-stress="0">end</s>
@@ -259,11 +253,8 @@
             <s word-stress="1" line-stress="0">end</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l7">
-            <w token="heer">
-              <s word-stress="1" line-stress="1">heer</s>
-            </w>
-            <w token="'">
-              <s word-stress="1" line-stress="0">'</s>
+            <w token="heer'">
+              <s word-stress="1" line-stress="1">heer'</s>
             </w>
           </rhyme>
           <w token=".">
