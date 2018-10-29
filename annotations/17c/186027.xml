@@ -20,15 +20,15 @@
   <text>
     <lg type="song">
       <lg id="s1" type="stanza">
-        <l id="s1:l1" met="6" type="-+">
+        <l id="s1:l1" met="3" type="-+">
           <w token="ik">
-            <s word-stress="1" line-stress="1">ik</s>
+            <s word-stress="1" line-stress="0">ik</s>
           </w>
           <w token="lach">
             <s word-stress="1" line-stress="1">lach</s>
           </w>
           <w token="met">
-            <s word-stress="1" line-stress="1">met</s>
+            <s word-stress="1" line-stress="0">met</s>
           </w>
           <w token="venus">
             <s word-stress="1" line-stress="1">ve</s>
@@ -37,7 +37,7 @@
           <rhyme label="a" type="f">
             <w token="kwikken">
               <s word-stress="1" line-stress="1">kwik</s>
-              <s word-stress="0" line-stress="1">ken</s>
+              <s word-stress="0" line-stress="0">ken</s>
             </w>
           </rhyme>
           <w token=",">
@@ -70,11 +70,11 @@
         </l>
         <l id="s1:l3" met="7" type="-+">
           <w token="ik">
-            <s word-stress="1" line-stress="0">ik</s>
+            <s word-stress="1" line-stress="1">ik</s>
           </w>
           <w token="belach">
             <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="1" line-stress="0">lach</s>
+            <s word-stress="1" line-stress="1">lach</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -84,7 +84,7 @@
           </w>
           <w token="belach">
             <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="1" line-stress="0">lach</s>
+            <s word-stress="1" line-stress="1">lach</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -94,14 +94,14 @@
           </w>
           <w token="belach">
             <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="1" line-stress="0">lach</s>
+            <s word-stress="1" line-stress="1">lach</s>
           </w>
           <w token="haar">
             <s word-stress="1" line-stress="0">haar</s>
           </w>
           <rhyme label="b" type="m">
             <w token="schoon">
-              <s word-stress="1" line-stress="0">schoon</s>
+              <s word-stress="1" line-stress="1">schoon</s>
             </w>
           </rhyme>
           <w token=",">
@@ -110,18 +110,18 @@
         </l>
         <l id="s1:l4" met="3" type="+-">
           <w token="en">
-            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">en</s>
           </w>
           <w token="verbreek">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="0">breek</s>
+            <s word-stress="1" line-stress="1">breek</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="c" type="f">
             <w token="pylen">
-              <s word-stress="1" line-stress="0">py</s>
+              <s word-stress="1" line-stress="1">py</s>
               <s word-stress="0" line-stress="0">len</s>
             </w>
           </rhyme>
@@ -134,9 +134,9 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="kupido">
-            <s word-stress="1" line-stress="0">ku</s>
+            <s word-stress="1" line-stress="1">ku</s>
             <s word-stress="0" line-stress="0">pi</s>
-            <s word-stress="1" line-stress="0">do</s>
+            <s word-stress="1" line-stress="1">do</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -146,7 +146,7 @@
           </w>
           <rhyme label="d" type="m">
             <w token="zoon">
-              <s word-stress="1" line-stress="0">zoon</s>
+              <s word-stress="1" line-stress="1">zoon</s>
             </w>
           </rhyme>
           <w token=".">
