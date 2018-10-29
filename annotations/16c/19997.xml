@@ -57,11 +57,8 @@
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
           </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="’t">
+            <s word-stress="None" line-stress="0">’t</s>
           </w>
           <w token="een">
             <s word-stress="1" line-stress="1">een</s>
@@ -69,11 +66,8 @@
           <w token="of">
             <s word-stress="1" line-stress="0">of</s>
           </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
+          <w token="’t">
+            <s word-stress="None" line-stress="0">’t</s>
           </w>
           <w token="ander">
             <s word-stress="1" line-stress="1">an</s>
@@ -104,8 +98,8 @@
             <s word-stress="1" line-stress="1">thien</s>
           </w>
           <w token="voetstappen">
-            <s word-stress="1" line-stress="1">voet</s>
-            <s word-stress="0" line-stress="0">stap</s>
+            <s word-stress="1" line-stress="0">voet</s>
+            <s word-stress="0" line-stress="1">stap</s>
             <s word-stress="0" line-stress="0">pen</s>
           </w>
           <rhyme label="b" type="m">
@@ -133,8 +127,8 @@
           </w>
           <rhyme label="c" type="f">
             <w token="kotjes">
-              <s word-stress="0" line-stress="1">ko</s>
-              <s word-stress="1" line-stress="0">tjes</s>
+              <s word-stress="1" line-stress="1">kot</s>
+              <s word-stress="0" line-stress="0">jes</s>
             </w>
           </rhyme>
           <w token=",">
