@@ -19,8 +19,7 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">
           <w token="vvie">
-            <s word-stress="1" line-stress="0">v</s>
-            <s word-stress="1" line-stress="1">vie</s>
+            <s word-stress="1" line-stress="1">vvie</s>
           </w>
           <w token="wil">
             <s word-stress="1" line-stress="0">wil</s>
@@ -30,10 +29,10 @@
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="een">
-            <s word-stress="1" line-stress="0">een</s>
+            <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="nieu">
-            <s word-stress="1" line-stress="1">nieu</s>
+            <s word-stress="1" line-stress="0">nieu</s>
           </w>
           <rhyme label="a" type="m">
             <w token="liet">
@@ -53,9 +52,9 @@
             <s word-stress="0" line-stress="0">ter</s>
           </w>
           <w token="corteling">
-            <s word-stress="0" line-stress="1">cor</s>
-            <s word-stress="1" line-stress="0">te</s>
-            <s word-stress="1" line-stress="0">ling</s>
+            <s word-stress="1" line-stress="1">cor</s>
+            <s word-stress="0" line-stress="0">te</s>
+            <s word-stress="0" line-stress="0">ling</s>
           </w>
           <w token="is">
             <s word-stress="1" line-stress="1">is</s>
@@ -72,7 +71,7 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="dat">
-            <s word-stress="1" line-stress="1">dat</s>
+            <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="sal">
             <s word-stress="1" line-stress="1">sal</s>
@@ -99,7 +98,7 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="eenen">
-            <s word-stress="1" line-stress="0">ee</s>
+            <s word-stress="1" line-stress="1">ee</s>
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <w token="spaenschen">
