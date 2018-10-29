@@ -27,12 +27,12 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">
           <w token="woltu">
-            <s word-stress="1" line-stress="0">wol</s>
-            <s word-stress="0" line-stress="1">tu</s>
+            <s word-stress="1" line-stress="1">wol</s>
+            <s word-stress="0" line-stress="0">tu</s>
           </w>
           <w token="lachin">
-            <s word-stress="0" line-stress="0">la</s>
-            <s word-stress="1" line-stress="1">chin</s>
+            <s word-stress="1" line-stress="1">la</s>
+            <s word-stress="0" line-stress="0">chin</s>
           </w>
           <w token="nicht">
             <s word-stress="1" line-stress="1">nicht</s>
@@ -52,13 +52,13 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="vogelin">
-            <s word-stress="1" line-stress="0">vo</s>
+            <s word-stress="1" line-stress="1">vo</s>
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="1">lin</s>
+            <s word-stress="0" line-stress="0">lin</s>
           </w>
           <w token="zanges">
-            <s word-stress="1" line-stress="0">zan</s>
-            <s word-stress="0" line-stress="1">ges</s>
+            <s word-stress="1" line-stress="1">zan</s>
+            <s word-stress="0" line-stress="0">ges</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -130,7 +130,7 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="denke">
-            <s word-stress="1" line-stress="0">den</s>
+            <s word-stress="1" line-stress="1">den</s>
             <s word-stress="0" line-stress="0">ke</s>
           </w>
           <w token="an">
@@ -138,7 +138,7 @@
           </w>
           <w token="minnentliche">
             <s word-stress="1" line-stress="1">min</s>
-            <s word-stress="0" line-stress="1">nent</s>
+            <s word-stress="0" line-stress="0">nent</s>
             <s word-stress="1" line-stress="1">li</s>
             <s word-stress="0" line-stress="0">che</s>
           </w>
