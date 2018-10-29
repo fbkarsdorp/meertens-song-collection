@@ -66,7 +66,7 @@
             <w token="ghebere">
               <s word-stress="0" line-stress="0">ghe</s>
               <s word-stress="1" line-stress="1">be</s>
-              <s word-stress="0" line-stress="1">re</s>
+              <s word-stress="0" line-stress="0">re</s>
             </w>
           </rhyme>
           <w token=",">
@@ -103,11 +103,11 @@
         </l>
         <l id="s1:l4" met="3" type="-+">
           <w token="dey">
-            <s word-stress="1" line-stress="1">dey</s>
+            <s word-stress="1" line-stress="0">dey</s>
           </w>
           <w token="buzen">
-            <s word-stress="0" line-stress="0">bu</s>
-            <s word-stress="1" line-stress="0">zen</s>
+            <s word-stress="1" line-stress="1">bu</s>
+            <s word-stress="0" line-stress="0">zen</s>
           </w>
           <w token="mach">
             <s word-stress="1" line-stress="1">mach</s>
@@ -176,10 +176,10 @@
             <s word-stress="1" line-stress="0">der</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="0">ich</s>
+            <s word-stress="1" line-stress="1">ich</s>
           </w>
           <w token="moyt">
-            <s word-stress="1" line-stress="1">moyt</s>
+            <s word-stress="1" line-stress="0">moyt</s>
           </w>
           <w token="wesen">
             <s word-stress="1" line-stress="1">we</s>
