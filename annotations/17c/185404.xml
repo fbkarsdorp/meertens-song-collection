@@ -53,8 +53,8 @@
             <s word-stress="0" line-stress="0">se</s>
           </w>
           <w token="werelt">
-            <s word-stress="0" line-stress="0">we</s>
-            <s word-stress="1" line-stress="1">relt</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">relt</s>
           </w>
           <w token="by">
             <s word-stress="1" line-stress="1">by</s>
@@ -73,8 +73,8 @@
         </l>
         <l id="s1:l3" met="4" type="+-">
           <w token="werelt">
-            <s word-stress="0" line-stress="0">we</s>
-            <s word-stress="1" line-stress="1">relt</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">relt</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="1">die</s>
@@ -124,8 +124,8 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="werelt">
-            <s word-stress="0" line-stress="0">we</s>
-            <s word-stress="1" line-stress="1">relt</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">relt</s>
           </w>
           <w token="!">
             <s word-stress="None" line-stress="0">!</s>
@@ -163,8 +163,8 @@
             <s word-stress="1" line-stress="0">het</s>
           </w>
           <w token="muysjen">
-            <s word-stress="1" line-stress="1">muy</s>
-            <s word-stress="0" line-stress="0">sjen</s>
+            <s word-stress="1" line-stress="1">muys</s>
+            <s word-stress="0" line-stress="0">jen</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="doet">
