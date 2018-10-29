@@ -45,7 +45,7 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="minen">
             <s word-stress="1" line-stress="1">mi</s>
@@ -61,7 +61,7 @@
         <l id="s1:l3" met="3" type="-+">
           <w token="hebbe">
             <s word-stress="1" line-stress="1">heb</s>
-            <s word-stress="0" line-stress="1">be</s>
+            <s word-stress="0" line-stress="0">be</s>
           </w>
           <rhyme label="b" type="m">
             <w token="gedaen">
@@ -102,8 +102,8 @@
           </w>
           <rhyme label="c" type="f" corresp="#s1:l4">
             <w token="aflaten">
-              <s word-stress="0" line-stress="0">af</s>
-              <s word-stress="1" line-stress="1">la</s>
+              <s word-stress="1" line-stress="0">af</s>
+              <s word-stress="0" line-stress="1">la</s>
               <s word-stress="0" line-stress="0">ten</s>
             </w>
           </rhyme>
@@ -186,7 +186,7 @@
           <rhyme label="d" type="m" corresp="#s1:l6">
             <w token="afgaen">
               <s word-stress="1" line-stress="0">af</s>
-              <s word-stress="1" line-stress="1">gaen</s>
+              <s word-stress="0" line-stress="1">gaen</s>
             </w>
           </rhyme>
           <w token=".">
