@@ -59,8 +59,8 @@
             <s word-stress="1" line-stress="0">myn</s>
           </w>
           <w token="kruikie">
-            <s word-stress="1" line-stress="0">krui</s>
-            <s word-stress="1" line-stress="1">kie</s>
+            <s word-stress="1" line-stress="1">krui</s>
+            <s word-stress="0" line-stress="0">kie</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -83,15 +83,14 @@
             <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="al">
-            <s word-stress="1" line-stress="0">al</s>
+            <s word-stress="1" line-stress="1">al</s>
           </w>
           <w token="myn">
-            <s word-stress="1" line-stress="1">myn</s>
+            <s word-stress="1" line-stress="0">myn</s>
           </w>
           <w token="stukies">
-            <s word-stress="1" line-stress="0">stu</s>
-            <s word-stress="0" line-stress="1">ki</s>
-            <s word-stress="1" line-stress="0">es</s>
+            <s word-stress="1" line-stress="1">stu</s>
+            <s word-stress="0" line-stress="0">kies</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
@@ -153,14 +152,9 @@
           <w token="myn">
             <s word-stress="1" line-stress="0">myn</s>
           </w>
-          <w token="weeld">
-            <s word-stress="1" line-stress="1">weeld</s>
-          </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="rig">
-            <s word-stress="1" line-stress="0">rig</s>
+          <w token="weeld'rig">
+            <s word-stress="1" line-stress="1">weeld'</s>
+            <s word-stress="0" line-stress="0">rig</s>
           </w>
           <rhyme label="c" type="f">
             <w token="leven">
@@ -238,10 +232,10 @@
           <w token="hebbenze">
             <s word-stress="1" line-stress="1">heb</s>
             <s word-stress="0" line-stress="0">ben</s>
-            <s word-stress="1" line-stress="1">ze</s>
+            <s word-stress="1" line-stress="0">ze</s>
           </w>
           <w token="my">
-            <s word-stress="1" line-stress="0">my</s>
+            <s word-stress="1" line-stress="1">my</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l7">
             <w token="gevat">
