@@ -34,11 +34,11 @@
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="hare">
-            <s word-stress="1" line-stress="1">ha</s>
+            <s word-stress="1" line-stress="0">ha</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="gherne">
-            <s word-stress="1" line-stress="0">gher</s>
+            <s word-stress="1" line-stress="1">gher</s>
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="af">
@@ -121,8 +121,8 @@
             <s word-stress="0" line-stress="0">ter</s>
           </w>
           <w token="treckender">
-            <s word-stress="0" line-stress="1">trec</s>
-            <s word-stress="1" line-stress="0">ken</s>
+            <s word-stress="1" line-stress="1">trec</s>
+            <s word-stress="0" line-stress="0">ken</s>
             <s word-stress="0" line-stress="0">der</s>
           </w>
           <w token="chiere">
