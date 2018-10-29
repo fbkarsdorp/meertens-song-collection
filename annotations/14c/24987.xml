@@ -138,8 +138,8 @@
             <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="betzert">
-            <s word-stress="0" line-stress="1">bet</s>
-            <s word-stress="1" line-stress="1">zert</s>
+            <s word-stress="1" line-stress="1">bet</s>
+            <s word-stress="0" line-stress="0">zert</s>
           </w>
           <w token="ze">
             <s word-stress="1" line-stress="1">ze</s>
@@ -170,11 +170,11 @@
             <s word-stress="1" line-stress="1">is</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l3">
             <w token="mich">
-              <s word-stress="1" line-stress="0">mich</s>
+              <s word-stress="1" line-stress="1">mich</s>
             </w>
           </rhyme>
           <w token=",">
