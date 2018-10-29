@@ -37,17 +37,18 @@
             <s word-stress="1" line-stress="0">nu</s>
           </w>
           <w token="israel">
-            <s word-stress="0" line-stress="0">i</s>
-            <s word-stress="1" line-stress="1">srael</s>
+            <s word-stress="1" line-stress="1">is</s>
+            <s word-stress="0" line-stress="0">ra</s>
+            <s word-stress="0" line-stress="0">el</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="doet">
-            <s word-stress="1" line-stress="0">doet</s>
+            <s word-stress="1" line-stress="1">doet</s>
           </w>
           <w token="op">
-            <s word-stress="1" line-stress="1">op</s>
+            <s word-stress="1" line-stress="0">op</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -95,10 +96,10 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="ons">
-            <s word-stress="1" line-stress="0">ons</s>
+            <s word-stress="1" line-stress="1">ons</s>
           </w>
           <w token="langen">
-            <s word-stress="1" line-stress="1">lan</s>
+            <s word-stress="1" line-stress="0">lan</s>
             <s word-stress="0" line-stress="0">gen</s>
           </w>
           <w token="tijt">
@@ -126,10 +127,10 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="is">
-            <s word-stress="1" line-stress="0">is</s>
+            <s word-stress="1" line-stress="1">is</s>
           </w>
           <w token="nu">
-            <s word-stress="1" line-stress="1">nu</s>
+            <s word-stress="1" line-stress="0">nu</s>
           </w>
           <w token="gheboren">
             <s word-stress="0" line-stress="0">ghe</s>
@@ -155,10 +156,10 @@
             <s word-stress="1" line-stress="0">soo</s>
           </w>
           <w token="ons">
-            <s word-stress="1" line-stress="0">ons</s>
+            <s word-stress="1" line-stress="1">ons</s>
           </w>
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="schriftuere">
             <s word-stress="0" line-stress="0">schrif</s>
@@ -201,7 +202,7 @@
             <w token="middelaer">
               <s word-stress="1" line-stress="1">mid</s>
               <s word-stress="0" line-stress="0">de</s>
-              <s word-stress="1" line-stress="1">laer</s>
+              <s word-stress="0" line-stress="1">laer</s>
             </w>
           </rhyme>
           <w token=":">
@@ -255,7 +256,7 @@
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="nieuwe">
-            <s word-stress="0" line-stress="1">nieu</s>
+            <s word-stress="1" line-stress="1">nieu</s>
             <s word-stress="0" line-stress="0">we</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l6">
