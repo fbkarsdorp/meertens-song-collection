@@ -30,7 +30,7 @@
             <s word-stress="1" line-stress="0">och</s>
           </w>
           <w token="levede">
-            <s word-stress="1" line-stress="0">le</s>
+            <s word-stress="1" line-stress="1">le</s>
             <s word-stress="0" line-stress="0">ve</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
@@ -85,8 +85,8 @@
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <w token="altijt">
-            <s word-stress="0" line-stress="0">al</s>
-            <s word-stress="1" line-stress="1">tijt</s>
+            <s word-stress="0" line-stress="1">al</s>
+            <s word-stress="1" line-stress="0">tijt</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="gooden">
@@ -167,15 +167,15 @@
             <s word-stress="1" line-stress="0">soe</s>
           </w>
           <w token="waren">
-            <s word-stress="1" line-stress="0">wa</s>
+            <s word-stress="1" line-stress="1">wa</s>
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="wij">
-            <s word-stress="1" line-stress="1">wij</s>
+            <s word-stress="1" line-stress="0">wij</s>
           </w>
           <w token="altoes">
-            <s word-stress="0" line-stress="0">al</s>
-            <s word-stress="1" line-stress="1">toes</s>
+            <s word-stress="0" line-stress="1">al</s>
+            <s word-stress="1" line-stress="0">toes</s>
           </w>
           <rhyme label="c" type="f" corresp="#s1:l5">
             <w token="blijde">
