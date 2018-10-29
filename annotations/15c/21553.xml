@@ -91,8 +91,8 @@
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="gheconcludeert">
               <s word-stress="0" line-stress="0">ghe</s>
-              <s word-stress="1" line-stress="1">conc</s>
-              <s word-stress="0" line-stress="0">lu</s>
+              <s word-stress="1" line-stress="1">con</s>
+              <s word-stress="0" line-stress="0">clu</s>
               <s word-stress="1" line-stress="1">deert</s>
             </w>
           </rhyme>
@@ -138,16 +138,15 @@
             <s word-stress="1" line-stress="0">want</s>
           </w>
           <w token="christus">
-            <s word-stress="1" line-stress="0">chris</s>
+            <s word-stress="1" line-stress="1">chris</s>
             <s word-stress="0" line-stress="0">tus</s>
           </w>
           <w token="is">
-            <s word-stress="1" line-stress="1">is</s>
+            <s word-stress="1" line-stress="0">is</s>
           </w>
           <rhyme label="d" type="m">
             <w token="nv">
-              <s word-stress="0" line-stress="0">n</s>
-              <s word-stress="1" line-stress="1">v</s>
+              <s word-stress="1" line-stress="1">nv</s>
             </w>
           </rhyme>
         </l>
@@ -188,10 +187,10 @@
         </l>
         <l id="s1:l10" met="2" type="+-">
           <w token="weert">
-            <s word-stress="1" line-stress="1">weert</s>
+            <s word-stress="1" line-stress="0">weert</s>
           </w>
           <w token="verre">
-            <s word-stress="1" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">ver</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="van">
@@ -214,8 +213,8 @@
             <s word-stress="1" line-stress="0">der</s>
           </w>
           <w token="werelt">
-            <s word-stress="0" line-stress="0">we</s>
-            <s word-stress="1" line-stress="1">relt</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">relt</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l7">
             <w token="schu">
