@@ -73,8 +73,8 @@
             <s word-stress="1" line-stress="0">wat</s>
           </w>
           <w token="onrecht">
-            <s word-stress="0" line-stress="0">on</s>
-            <s word-stress="1" line-stress="1">recht</s>
+            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="0">recht</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -96,12 +96,9 @@
           <w token="trouw">
             <s word-stress="1" line-stress="1">trouw</s>
           </w>
-          <w token="verdrukk">
+          <w token="verdrukk'">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="1">drukk</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+            <s word-stress="1" line-stress="1">drukk'</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -141,11 +138,8 @@
           <w token="zijn">
             <s word-stress="1" line-stress="0">zijn</s>
           </w>
-          <w token="weeld">
-            <s word-stress="1" line-stress="1">weeld</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="weeld'">
+            <s word-stress="1" line-stress="1">weeld'</s>
           </w>
           <w token="een">
             <s word-stress="1" line-stress="0">een</s>
@@ -189,7 +183,7 @@
             <s word-stress="1" line-stress="0">ter</s>
           </w>
           <w token="naauwer">
-            <s word-stress="0" line-stress="1">naau</s>
+            <s word-stress="1" line-stress="1">naau</s>
             <s word-stress="0" line-stress="0">wer</s>
           </w>
           <w token="nood">
@@ -221,20 +215,19 @@
             <s word-stress="None" line-stress="0">'t</s>
           </w>
           <w token="gras">
-            <s word-stress="1" line-stress="0">gras</s>
+            <s word-stress="1" line-stress="1">gras</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="door">
-            <s word-stress="1" line-stress="1">door</s>
+            <s word-stress="1" line-stress="0">door</s>
           </w>
           <w token="'s">
             <s word-stress="None" line-stress="0">'s</s>
           </w>
           <w token="maaijers">
-            <s word-stress="0" line-stress="0">ma</s>
-            <s word-stress="1" line-stress="1">ai</s>
+            <s word-stress="1" line-stress="1">maai</s>
             <s word-stress="0" line-stress="0">jers</s>
           </w>
           <w token="seis">
