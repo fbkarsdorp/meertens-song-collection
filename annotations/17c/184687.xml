@@ -45,9 +45,8 @@
         <l id="s1:l2" met="3" type="-+">
           <w token="zeventien">
             <s word-stress="1" line-stress="0">ze</s>
-            <s word-stress="0" line-stress="0">ven</s>
-            <s word-stress="1" line-stress="1">ti</s>
-            <s word-stress="0" line-stress="0">en</s>
+            <s word-stress="0" line-stress="1">ven</s>
+            <s word-stress="1" line-stress="0">tien</s>
           </w>
           <w token="hondert">
             <s word-stress="1" line-stress="1">hon</s>
@@ -85,10 +84,10 @@
         </l>
         <l id="s1:l4" met="3" type="-+">
           <w token="sag">
-            <s word-stress="1" line-stress="1">sag</s>
+            <s word-stress="1" line-stress="0">sag</s>
           </w>
           <w token="men">
-            <s word-stress="1" line-stress="0">men</s>
+            <s word-stress="1" line-stress="1">men</s>
           </w>
           <w token="voor">
             <s word-stress="1" line-stress="0">voor</s>
@@ -133,8 +132,8 @@
         </l>
         <l id="s1:l6" met="3" type="-+">
           <w token="brogten">
-            <s word-stress="1" line-stress="1">brog</s>
-            <s word-stress="0" line-stress="0">ten</s>
+            <s word-stress="1" line-stress="0">brog</s>
+            <s word-stress="0" line-stress="1">ten</s>
           </w>
           <w token="haar">
             <s word-stress="1" line-stress="0">haar</s>
@@ -277,8 +276,8 @@
         </l>
         <l id="s1:l12" met="3" type="-+">
           <w token="kregen">
-            <s word-stress="1" line-stress="1">kre</s>
-            <s word-stress="0" line-stress="0">gen</s>
+            <s word-stress="1" line-stress="0">kre</s>
+            <s word-stress="0" line-stress="1">gen</s>
           </w>
           <w token="wy">
             <s word-stress="1" line-stress="0">wy</s>
