@@ -28,8 +28,8 @@
         <l id="s1:l1" met="4" type="-+">
           <w token="begheric">
             <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="0" line-stress="1">ric</s>
+            <s word-stress="1" line-stress="1">ghe</s>
+            <s word-stress="0" line-stress="0">ric</s>
           </w>
           <w token="iet">
             <s word-stress="1" line-stress="1">iet</s>
@@ -58,9 +58,9 @@
             <s word-stress="1" line-stress="1">in</s>
           </w>
           <w token="onwetenne">
-            <s word-stress="1" line-stress="0">on</s>
-            <s word-stress="0" line-stress="1">we</s>
-            <s word-stress="1" line-stress="0">ten</s>
+            <s word-stress="0" line-stress="0">on</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">ten</s>
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="sonder">
@@ -75,8 +75,8 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="vendic">
-            <s word-stress="0" line-stress="0">ven</s>
-            <s word-stress="1" line-stress="0">dic</s>
+            <s word-stress="0" line-stress="0">vend</s>
+            <s word-stress="1" line-stress="0">ic</s>
           </w>
           <w token="mi">
             <s word-stress="1" line-stress="1">mi</s>
@@ -106,14 +106,14 @@
             <s word-stress="1" line-stress="0">ic</s>
           </w>
           <w token="waent">
-            <s word-stress="1" line-stress="1">waent</s>
+            <s word-stress="1" line-stress="0">waent</s>
           </w>
           <w token="menschen">
-            <s word-stress="1" line-stress="0">men</s>
-            <s word-stress="0" line-stress="1">schen</s>
+            <s word-stress="1" line-stress="1">men</s>
+            <s word-stress="0" line-stress="0">schen</s>
           </w>
           <w token="sen">
-            <s word-stress="1" line-stress="0">sen</s>
+            <s word-stress="1" line-stress="1">sen</s>
           </w>
           <w token="nie">
             <s word-stress="1" line-stress="0">nie</s>
