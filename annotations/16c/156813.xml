@@ -121,10 +121,10 @@
             <s word-stress="0" line-stress="0">sen</s>
           </w>
           <w token="al">
-            <s word-stress="1" line-stress="0">al</s>
+            <s word-stress="1" line-stress="1">al</s>
           </w>
           <w token="ons">
-            <s word-stress="1" line-stress="1">ons</s>
+            <s word-stress="1" line-stress="0">ons</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="gebreken">
@@ -140,10 +140,10 @@
           </w>
           <w token="vergeeft">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="0">geeft</s>
+            <s word-stress="1" line-stress="1">geeft</s>
           </w>
           <w token="deur">
-            <s word-stress="1" line-stress="1">deur</s>
+            <s word-stress="1" line-stress="0">deur</s>
           </w>
           <w token="genade">
             <s word-stress="0" line-stress="0">ge</s>
