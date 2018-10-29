@@ -38,25 +38,25 @@
           <w token="lustelijc">
             <s word-stress="1" line-stress="1">lus</s>
             <s word-stress="0" line-stress="0">te</s>
-            <s word-stress="1" line-stress="1">lijc</s>
+            <s word-stress="0" line-stress="0">lijc</s>
           </w>
           <w token="is">
-            <s word-stress="1" line-stress="0">is</s>
+            <s word-stress="1" line-stress="1">is</s>
           </w>
           <w token="ons">
-            <s word-stress="1" line-stress="1">ons</s>
+            <s word-stress="1" line-stress="0">ons</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="meye">
-            <s word-stress="1" line-stress="1">me</s>
-            <s word-stress="0" line-stress="0">ye</s>
+            <s word-stress="1" line-stress="1">mey</s>
+            <s word-stress="0" line-stress="0">e</s>
           </w>
           <rhyme label="a" type="m">
             <w token="ontdaen">
               <s word-stress="0" line-stress="0">ont</s>
-              <s word-stress="1" line-stress="0">daen</s>
+              <s word-stress="1" line-stress="1">daen</s>
             </w>
           </rhyme>
         </l>
@@ -81,8 +81,8 @@
               <s word-stress="1" line-stress="1">me</s>
               <s word-stress="0" line-stress="0">ni</s>
               <s word-stress="0" line-stress="0">gher</s>
-              <s word-stress="1" line-stress="1">le</s>
-              <s word-stress="0" line-stress="0">ye</s>
+              <s word-stress="1" line-stress="1">ley</s>
+              <s word-stress="0" line-stress="0">e</s>
             </w>
           </rhyme>
           <w token="!">
@@ -129,12 +129,9 @@
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
           </w>
-          <w token="jhesus">
+          <w token="jhesus'">
             <s word-stress="1" line-stress="1">jhe</s>
-            <s word-stress="0" line-stress="0">sus</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+            <s word-stress="0" line-stress="0">sus'</s>
           </w>
           <w token="wonden">
             <s word-stress="1" line-stress="1">won</s>
@@ -164,12 +161,9 @@
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
           </w>
-          <w token="jhesus">
+          <w token="jhesus'">
             <s word-stress="1" line-stress="1">jhe</s>
-            <s word-stress="0" line-stress="0">sus</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+            <s word-stress="0" line-stress="0">sus'</s>
           </w>
           <w token="wonden">
             <s word-stress="1" line-stress="1">won</s>
