@@ -86,8 +86,9 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="vryigheid">
-              <s word-stress="1" line-stress="1">vryig</s>
-              <s word-stress="0" line-stress="1">heid</s>
+              <s word-stress="1" line-stress="1">vry</s>
+              <s word-stress="0" line-stress="0">ig</s>
+              <s word-stress="1" line-stress="1">heid</s>
             </w>
           </rhyme>
           <w token=",">
@@ -177,23 +178,23 @@
         </l>
         <l id="s1:l7" met="3" type="-+">
           <w token="zomtyds">
-            <s word-stress="1" line-stress="1">zom</s>
-            <s word-stress="0" line-stress="0">tyds</s>
+            <s word-stress="1" line-stress="0">zom</s>
+            <s word-stress="0" line-stress="1">tyds</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="zomtyds">
-            <s word-stress="1" line-stress="1">zom</s>
-            <s word-stress="0" line-stress="0">tyds</s>
+            <s word-stress="1" line-stress="0">zom</s>
+            <s word-stress="0" line-stress="1">tyds</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <rhyme label="d" type="m">
             <w token="zomtyds">
-              <s word-stress="1" line-stress="1">zom</s>
-              <s word-stress="0" line-stress="0">tyds</s>
+              <s word-stress="1" line-stress="0">zom</s>
+              <s word-stress="0" line-stress="1">tyds</s>
             </w>
           </rhyme>
           <w token=".">
