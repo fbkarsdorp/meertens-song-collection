@@ -49,8 +49,7 @@
           </w>
           <rhyme label="a" type="m">
             <w token="t'saem">
-              <s word-stress="1" line-stress="0">t'</s>
-              <s word-stress="1" line-stress="1">saem</s>
+              <s word-stress="1" line-stress="1">t'saem</s>
             </w>
           </rhyme>
           <w token=",">
@@ -83,7 +82,8 @@
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="naïm">
-            <s word-stress="1" line-stress="1">naïm</s>
+            <s word-stress="1" line-stress="1">na</s>
+            <s word-stress="0" line-stress="0">ïm</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -95,7 +95,7 @@
             <s word-stress="1" line-stress="1">met</s>
           </w>
           <w token="hem">
-            <s word-stress="1" line-stress="1">hem</s>
+            <s word-stress="1" line-stress="0">hem</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="quaem">
