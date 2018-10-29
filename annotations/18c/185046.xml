@@ -226,7 +226,7 @@
             <s word-stress="1" line-stress="1">my</s>
           </w>
           <w token="zó">
-            <s word-stress="1" line-stress="1">zó</s>
+            <s word-stress="1" line-stress="0">zó</s>
           </w>
           <w token="ver">
             <s word-stress="1" line-stress="1">ver</s>
@@ -234,7 +234,7 @@
           <rhyme label="e" type="m">
             <w token="gebragt">
               <s word-stress="0" line-stress="0">ge</s>
-              <s word-stress="1" line-stress="0">bragt</s>
+              <s word-stress="1" line-stress="1">bragt</s>
             </w>
           </rhyme>
           <w token=".">
