@@ -29,7 +29,7 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="-+">
           <w token="sie">
-            <s word-stress="1" line-stress="1">sie</s>
+            <s word-stress="1" line-stress="0">sie</s>
           </w>
           <w token="daar">
             <s word-stress="1" line-stress="1">daar</s>
@@ -39,7 +39,7 @@
           </w>
           <rhyme label="a" type="m">
             <w token="lentetijd">
-              <s word-stress="1" line-stress="0">len</s>
+              <s word-stress="1" line-stress="1">len</s>
               <s word-stress="0" line-stress="0">te</s>
               <s word-stress="1" line-stress="1">tijd</s>
             </w>
@@ -81,7 +81,7 @@
             <w token="vrolijkheid">
               <s word-stress="1" line-stress="1">vro</s>
               <s word-stress="0" line-stress="0">lijk</s>
-              <s word-stress="0" line-stress="1">heid</s>
+              <s word-stress="1" line-stress="1">heid</s>
             </w>
           </rhyme>
         </l>
