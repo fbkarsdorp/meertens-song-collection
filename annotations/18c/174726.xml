@@ -77,10 +77,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="ze">
-            <s word-stress="1" line-stress="1">ze</s>
+            <s word-stress="1" line-stress="0">ze</s>
           </w>
           <w token="kijken">
-            <s word-stress="1" line-stress="0">kij</s>
+            <s word-stress="1" line-stress="1">kij</s>
             <s word-stress="0" line-stress="0">ken</s>
           </w>
           <w token="over">
@@ -131,8 +131,8 @@
             <s word-stress="None" line-stress="0">'t</s>
           </w>
           <w token="oudje">
-            <s word-stress="1" line-stress="1">ou</s>
-            <s word-stress="0" line-stress="0">dje</s>
+            <s word-stress="1" line-stress="1">oud</s>
+            <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token="dat">
             <s word-stress="1" line-stress="1">dat</s>
@@ -160,8 +160,8 @@
             <s word-stress="1" line-stress="1">net</s>
           </w>
           <w token="alsof">
-            <s word-stress="0" line-stress="0">al</s>
-            <s word-stress="1" line-stress="1">sof</s>
+            <s word-stress="0" line-stress="0">als</s>
+            <s word-stress="1" line-stress="1">of</s>
           </w>
           <w token="hij">
             <s word-stress="1" line-stress="0">hij</s>
