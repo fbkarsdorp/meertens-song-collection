@@ -111,7 +111,7 @@
               <s word-stress="0" line-stress="0">on</s>
               <s word-stress="1" line-stress="1">spre</s>
               <s word-stress="0" line-stress="0">ke</s>
-              <s word-stress="1" line-stress="1">lijc</s>
+              <s word-stress="0" line-stress="1">lijc</s>
             </w>
           </rhyme>
         </l>
@@ -129,7 +129,7 @@
               <s word-stress="0" line-stress="0">be</s>
               <s word-stress="1" line-stress="1">grij</s>
               <s word-stress="0" line-stress="0">pe</s>
-              <s word-stress="1" line-stress="1">lijc</s>
+              <s word-stress="0" line-stress="1">lijc</s>
             </w>
           </rhyme>
         </l>
@@ -169,18 +169,18 @@
             <s word-stress="None" line-stress="0">.</s>
           </w>
           <w token="vruecht">
-            <s word-stress="1" line-stress="0">vruecht</s>
+            <s word-stress="1" line-stress="1">vruecht</s>
           </w>
           <w token=".">
             <s word-stress="None" line-stress="0">.</s>
           </w>
           <w token="ure">
-            <s word-stress="1" line-stress="1">u</s>
-            <s word-stress="0" line-stress="0">re</s>
+            <s word-stress="1" line-stress="0">ure</s>
           </w>
           <rhyme label="d" type="m">
             <w token="zuuerheit">
-              <s word-stress="1" line-stress="1">zuuer</s>
+              <s word-stress="1" line-stress="1">zu</s>
+              <s word-stress="0" line-stress="0">uer</s>
               <s word-stress="0" line-stress="1">heit</s>
             </w>
           </rhyme>
