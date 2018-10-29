@@ -20,12 +20,11 @@
             <s word-stress="1" line-stress="0">ben</s>
           </w>
           <w token="een">
-            <s word-stress="1" line-stress="0">een</s>
+            <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="bataaf">
-            <s word-stress="0" line-stress="1">ba</s>
-            <s word-stress="1" line-stress="0">ta</s>
-            <s word-stress="1" line-stress="1">af</s>
+            <s word-stress="0" line-stress="0">ba</s>
+            <s word-stress="1" line-stress="1">taaf</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -59,12 +58,9 @@
             <s word-stress="1" line-stress="1">ech</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
-          <w token="bato">
+          <w token="bato's">
             <s word-stress="1" line-stress="1">ba</s>
-            <s word-stress="0" line-stress="0">to</s>
-          </w>
-          <w token="'s">
-            <s word-stress="None" line-stress="0">'s</s>
+            <s word-stress="0" line-stress="0">to's</s>
           </w>
           <rhyme label="b" type="m">
             <w token="zoon">
@@ -83,14 +79,15 @@
             <s word-stress="1" line-stress="1">naar</s>
           </w>
           <w token="oranje">
-            <s word-stress="0" line-stress="0">oran</s>
+            <s word-stress="0" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">ran</s>
             <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token="niet">
             <s word-stress="1" line-stress="1">niet</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="hooren">
@@ -110,14 +107,15 @@
             <s word-stress="1" line-stress="1">praat</s>
           </w>
           <w token="oranje">
-            <s word-stress="0" line-stress="0">oran</s>
+            <s word-stress="0" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">ran</s>
             <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token="nog">
             <s word-stress="1" line-stress="1">nog</s>
           </w>
           <w token="zoo">
-            <s word-stress="1" line-stress="1">zoo</s>
+            <s word-stress="1" line-stress="0">zoo</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="schoon">
@@ -139,10 +137,10 @@
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <w token="prins">
-            <s word-stress="1" line-stress="0">prins</s>
+            <s word-stress="1" line-stress="1">prins</s>
           </w>
           <w token="geene">
-            <s word-stress="1" line-stress="1">gee</s>
+            <s word-stress="1" line-stress="0">gee</s>
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="offers">
@@ -172,10 +170,10 @@
           </w>
           <rhyme label="d" type="m">
             <w token="d'oranjestam">
-              <s word-stress="1" line-stress="0">d'o</s>
-              <s word-stress="0" line-stress="1">ran</s>
-              <s word-stress="1" line-stress="0">jes</s>
-              <s word-stress="0" line-stress="1">tam</s>
+              <s word-stress="0" line-stress="0">d'o</s>
+              <s word-stress="1" line-stress="1">ran</s>
+              <s word-stress="0" line-stress="0">je</s>
+              <s word-stress="1" line-stress="1">stam</s>
             </w>
           </rhyme>
           <w token=",">
@@ -187,16 +185,16 @@
             <s word-stress="None" line-stress="0">'k</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <w token="liefst">
-            <s word-stress="1" line-stress="0">liefst</s>
+            <s word-stress="1" line-stress="1">liefst</s>
           </w>
           <w token="weêr">
-            <s word-stress="1" line-stress="1">weêr</s>
+            <s word-stress="1" line-stress="0">weêr</s>
           </w>
           <w token="voor">
-            <s word-stress="1" line-stress="0">voor</s>
+            <s word-stress="1" line-stress="1">voor</s>
           </w>
           <w token="myn">
             <s word-stress="1" line-stress="0">myn</s>
