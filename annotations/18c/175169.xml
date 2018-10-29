@@ -34,22 +34,22 @@
             <s word-stress="1" line-stress="1">eet</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="altijd">
-            <s word-stress="0" line-stress="0">al</s>
-            <s word-stress="1" line-stress="1">tijd</s>
+            <s word-stress="0" line-stress="1">al</s>
+            <s word-stress="1" line-stress="0">tijd</s>
           </w>
           <rhyme label="a" type="m">
             <w token="graag">
-              <s word-stress="1" line-stress="0">graag</s>
+              <s word-stress="1" line-stress="1">graag</s>
             </w>
           </rhyme>
           <w token="...">
-            <s word-stress="1" line-stress="0">...</s>
+            <s word-stress="None" line-stress="0">...</s>
           </w>
           <w token="..">
-            <s word-stress="1" line-stress="0">..</s>
+            <s word-stress="None" line-stress="0">..</s>
           </w>
         </l>
         <l id="s1:l2" met="3" type="-+">
@@ -70,15 +70,15 @@
           </w>
           <rhyme label="b" type="f">
             <w token="dege">
-              <s word-stress="1" line-stress="0">de</s>
-              <s word-stress="0" line-stress="1">ge</s>
+              <s word-stress="1" line-stress="1">de</s>
+              <s word-stress="0" line-stress="0">ge</s>
             </w>
           </rhyme>
           <w token=":">
             <s word-stress="None" line-stress="0">:</s>
           </w>
           <w token="-">
-            <s word-stress="1" line-stress="0">-</s>
+            <s word-stress="None" line-stress="0">-</s>
           </w>
         </l>
         <l id="s1:l3" met="4" type="-+">
@@ -110,8 +110,8 @@
             <s word-stress="1" line-stress="0">iets</s>
           </w>
           <w token="afhoudt">
-            <s word-stress="0" line-stress="1">af</s>
-            <s word-stress="1" line-stress="0">houdt</s>
+            <s word-stress="1" line-stress="1">af</s>
+            <s word-stress="0" line-stress="0">houdt</s>
           </w>
           <w token="voor">
             <s word-stress="1" line-stress="1">voor</s>
