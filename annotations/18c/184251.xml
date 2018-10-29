@@ -26,8 +26,8 @@
             <s word-stress="0" line-stress="0">del</s>
           </w>
           <w token="annaatje">
-            <s word-stress="0" line-stress="0">an</s>
-            <s word-stress="1" line-stress="1">naat</s>
+            <s word-stress="1" line-stress="1">an</s>
+            <s word-stress="0" line-stress="0">naat</s>
             <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token="myn">
@@ -36,8 +36,8 @@
           <rhyme label="a" type="f">
             <w token="buurmeisje">
               <s word-stress="1" line-stress="0">buur</s>
-              <s word-stress="0" line-stress="1">mei</s>
-              <s word-stress="0" line-stress="0">sje</s>
+              <s word-stress="0" line-stress="1">meis</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -90,14 +90,14 @@
             <s word-stress="1" line-stress="0">een</s>
           </w>
           <w token="oost-indies">
-            <s word-stress="1" line-stress="1">oost</s>
-            <s word-stress="0" line-stress="0">-in</s>
-            <s word-stress="1" line-stress="0">dies</s>
+            <s word-stress="0" line-stress="0">oost</s>
+            <s word-stress="1" line-stress="1">-in</s>
+            <s word-stress="0" line-stress="0">dies</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="reisje">
-              <s word-stress="1" line-stress="1">rei</s>
-              <s word-stress="0" line-stress="0">sje</s>
+              <s word-stress="1" line-stress="1">reis</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -140,8 +140,8 @@
             <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="catoen">
-            <s word-stress="0" line-stress="1">ca</s>
-            <s word-stress="1" line-stress="0">toen</s>
+            <s word-stress="0" line-stress="0">ca</s>
+            <s word-stress="1" line-stress="1">toen</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -150,10 +150,10 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="heb">
-            <s word-stress="1" line-stress="0">heb</s>
+            <s word-stress="1" line-stress="1">heb</s>
           </w>
           <w token="gy">
-            <s word-stress="1" line-stress="1">gy</s>
+            <s word-stress="1" line-stress="0">gy</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="0">van</s>
@@ -217,8 +217,8 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="gebragt">
-            <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="1">bragt</s>
+            <s word-stress="0" line-stress="1">ge</s>
+            <s word-stress="1" line-stress="0">bragt</s>
           </w>
           <rhyme label="f" type="f">
             <w token="meede">
@@ -235,10 +235,10 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="zal">
-            <s word-stress="1" line-stress="0">zal</s>
+            <s word-stress="1" line-stress="1">zal</s>
           </w>
           <w token="ik">
-            <s word-stress="1" line-stress="1">ik</s>
+            <s word-stress="1" line-stress="0">ik</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
