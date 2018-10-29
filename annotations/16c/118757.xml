@@ -98,8 +98,7 @@
           </w>
           <rhyme label="b" type="m">
             <w token="t'samen-spraeck">
-              <s word-stress="1" line-stress="0">t'</s>
-              <s word-stress="1" line-stress="1">sa</s>
+              <s word-stress="1" line-stress="1">t'sa</s>
               <s word-stress="0" line-stress="0">men-</s>
               <s word-stress="1" line-stress="1">spraeck</s>
             </w>
@@ -149,9 +148,8 @@
           </w>
           <rhyme label="c" type="f" corresp="#s1:l4">
             <w token="hemels-bode">
-              <s word-stress="1" line-stress="0">he</s>
-              <s word-stress="0" line-stress="1">mel</s>
-              <s word-stress="0" line-stress="0">s-</s>
+              <s word-stress="1" line-stress="1">he</s>
+              <s word-stress="0" line-stress="0">mels-</s>
               <s word-stress="1" line-stress="1">bo</s>
               <s word-stress="0" line-stress="0">de</s>
             </w>
@@ -164,13 +162,10 @@
           <w token="wel">
             <s word-stress="1" line-stress="1">wel</s>
           </w>
-          <w token="beschickend">
+          <w token="beschickend'">
             <s word-stress="0" line-stress="0">be</s>
             <s word-stress="1" line-stress="1">schic</s>
-            <s word-stress="0" line-stress="0">kend</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+            <s word-stress="0" line-stress="0">kend'</s>
           </w>
           <w token="onse">
             <s word-stress="1" line-stress="1">on</s>
