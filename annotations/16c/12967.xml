@@ -34,13 +34,13 @@
             <s word-stress="1" line-stress="1">guit</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
           <w token="'k">
             <s word-stress="None" line-stress="0">'k</s>
           </w>
           <w token="lach">
-            <s word-stress="1" line-stress="1">lach</s>
+            <s word-stress="1" line-stress="0">lach</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -88,16 +88,16 @@
             <s word-stress="1" line-stress="1">schoon</s>
           </w>
           <w token="u">
-            <s word-stress="1" line-stress="1">u</s>
+            <s word-stress="1" line-stress="0">u</s>
           </w>
           <w token="schicht">
-            <s word-stress="1" line-stress="0">schicht</s>
+            <s word-stress="1" line-stress="1">schicht</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
           <w token="mijn">
-            <s word-stress="1" line-stress="1">mijn</s>
+            <s word-stress="1" line-stress="0">mijn</s>
           </w>
           <rhyme label="c" type="m">
             <w token="verplicht">
@@ -141,16 +141,16 @@
             <s word-stress="1" line-stress="1">acht</s>
           </w>
           <w token="u">
-            <s word-stress="1" line-stress="1">u</s>
+            <s word-stress="1" line-stress="0">u</s>
           </w>
           <w token="niet">
-            <s word-stress="1" line-stress="0">niet</s>
+            <s word-stress="1" line-stress="1">niet</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
           <w token="of">
-            <s word-stress="1" line-stress="1">of</s>
+            <s word-stress="1" line-stress="0">of</s>
           </w>
           <w token="ghy">
             <s word-stress="1" line-stress="0">ghy</s>
@@ -181,8 +181,8 @@
           </w>
           <rhyme label="e" type="f">
             <w token="hertje">
-              <s word-stress="0" line-stress="0">her</s>
-              <s word-stress="1" line-stress="1">tje</s>
+              <s word-stress="1" line-stress="1">hert</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -203,7 +203,7 @@
             <s word-stress="1" line-stress="1">fijt</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
           <w token="dat">
             <s word-stress="1" line-stress="0">dat</s>
@@ -212,7 +212,7 @@
             <s word-stress="None" line-stress="0">'s</s>
           </w>
           <w token="een">
-            <s word-stress="1" line-stress="1">een</s>
+            <s word-stress="1" line-stress="0">een</s>
           </w>
           <rhyme label="f" type="m">
             <w token="meidt">
