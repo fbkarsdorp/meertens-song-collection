@@ -28,8 +28,8 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">
           <w token="nymphjens">
-            <s word-stress="0" line-stress="0">nym</s>
-            <s word-stress="1" line-stress="1">phjens</s>
+            <s word-stress="1" line-stress="1">nymph</s>
+            <s word-stress="0" line-stress="0">jens</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="1">van</s>
@@ -65,9 +65,8 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="roosiens">
-            <s word-stress="1" line-stress="1">roo</s>
-            <s word-stress="1" line-stress="0">si</s>
-            <s word-stress="0" line-stress="0">ens</s>
+            <s word-stress="1" line-stress="1">roos</s>
+            <s word-stress="0" line-stress="0">iens</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="loven">
@@ -95,25 +94,22 @@
             <s word-stress="0" line-stress="0">ten</s>
           </w>
           <rhyme label="b" type="m">
-            <w token="vond">
-              <s word-stress="1" line-stress="1">vond</s>
-            </w>
-            <w token="'">
-              <s word-stress="1" line-stress="0">'</s>
+            <w token="vond'">
+              <s word-stress="1" line-stress="1">vond'</s>
             </w>
           </rhyme>
         </l>
         <l id="s1:l4" met="4" type="+-">
           <w token="flora">
-            <s word-stress="1" line-stress="0">flo</s>
-            <s word-stress="0" line-stress="1">ra</s>
+            <s word-stress="1" line-stress="1">flo</s>
+            <s word-stress="0" line-stress="0">ra</s>
           </w>
           <w token="de">
-            <s word-stress="0" line-stress="0">de</s>
+            <s word-stress="0" line-stress="1">de</s>
           </w>
           <w token="goddin">
-            <s word-stress="0" line-stress="1">god</s>
-            <s word-stress="0" line-stress="1">din</s>
+            <s word-stress="0" line-stress="0">god</s>
+            <s word-stress="1" line-stress="1">din</s>
           </w>
           <w token="der">
             <s word-stress="1" line-stress="0">der</s>
@@ -176,7 +172,7 @@
               <s word-stress="1" line-stress="1">mond</s>
             </w>
             <w token="'">
-              <s word-stress="1" line-stress="0">'</s>
+              <s word-stress="None" line-stress="0">'</s>
             </w>
           </rhyme>
           <w token=".">
