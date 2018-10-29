@@ -44,7 +44,7 @@
         </l>
         <l id="s1:l2" met="3" type="+-">
           <w token="onlangs">
-            <s word-stress="1" line-stress="1">on</s>
+            <s word-stress="0" line-stress="1">on</s>
             <s word-stress="1" line-stress="0">langs</s>
           </w>
           <w token=",">
@@ -88,8 +88,7 @@
             <s word-stress="1" line-stress="0">jes</s>
           </w>
           <w token="t'samen">
-            <s word-stress="1" line-stress="0">t'</s>
-            <s word-stress="1" line-stress="1">sa</s>
+            <s word-stress="1" line-stress="1">t'sa</s>
             <s word-stress="0" line-stress="0">men</s>
           </w>
           <rhyme label="b" type="f" corresp="#s1:l2">
