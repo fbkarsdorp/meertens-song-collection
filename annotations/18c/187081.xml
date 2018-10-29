@@ -168,7 +168,7 @@
             <s word-stress="1" line-stress="1">looft</s>
           </w>
           <w token="'t">
-            <s word-stress="None" line-stress="0">'t</s>
+            <s word-stress="0" line-stress="0">'t</s>
           </w>
           <rhyme label="d" type="m">
             <w token="vry">
@@ -202,10 +202,10 @@
         </l>
         <l id="s1:l9" met="5" type="-+">
           <w token="tra">
-            <s word-stress="1" line-stress="1">tra</s>
+            <s word-stress="1" line-stress="0">tra</s>
           </w>
           <w token="la">
-            <s word-stress="1" line-stress="0">la</s>
+            <s word-stress="1" line-stress="1">la</s>
           </w>
           <w token="la">
             <s word-stress="1" line-stress="0">la</s>
