@@ -30,12 +30,12 @@
             <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="clagede">
-            <s word-stress="1" line-stress="0">cla</s>
+            <s word-stress="1" line-stress="1">cla</s>
             <s word-stress="0" line-stress="0">ge</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="ein">
-            <s word-stress="1" line-stress="1">ein</s>
+            <s word-stress="1" line-stress="0">ein</s>
           </w>
           <w token="reyne">
             <s word-stress="1" line-stress="1">rey</s>
@@ -53,8 +53,8 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="elendelichen">
-            <s word-stress="0" line-stress="1">e</s>
-            <s word-stress="1" line-stress="0">len</s>
+            <s word-stress="0" line-stress="0">e</s>
+            <s word-stress="1" line-stress="1">len</s>
             <s word-stress="0" line-stress="0">de</s>
             <s word-stress="1" line-stress="1">li</s>
             <s word-stress="0" line-stress="0">chen</s>
@@ -74,19 +74,19 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="och">
-            <s word-stress="1" line-stress="1">och</s>
+            <s word-stress="1" line-stress="0">och</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="was">
-            <s word-stress="1" line-stress="0">was</s>
+            <s word-stress="1" line-stress="1">was</s>
           </w>
           <w token="sal">
-            <s word-stress="1" line-stress="1">sal</s>
+            <s word-stress="1" line-stress="0">sal</s>
           </w>
           <w token="mer">
-            <s word-stress="1" line-stress="0">mer</s>
+            <s word-stress="1" line-stress="1">mer</s>
           </w>
           <w token="nu">
             <s word-stress="1" line-stress="0">nu</s>
@@ -156,25 +156,25 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="hem">
-            <s word-stress="1" line-stress="0">hem</s>
+            <s word-stress="1" line-stress="1">hem</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="dar">
-            <s word-stress="1" line-stress="1">dar</s>
+            <s word-stress="1" line-stress="0">dar</s>
           </w>
           <w token="al">
-            <s word-stress="1" line-stress="0">al</s>
+            <s word-stress="1" line-stress="1">al</s>
           </w>
           <w token="min">
-            <s word-stress="1" line-stress="1">min</s>
+            <s word-stress="1" line-stress="0">min</s>
           </w>
           <w token="troest">
-            <s word-stress="1" line-stress="0">troest</s>
+            <s word-stress="1" line-stress="1">troest</s>
           </w>
           <w token="an">
-            <s word-stress="1" line-stress="1">an</s>
+            <s word-stress="1" line-stress="0">an</s>
           </w>
           <rhyme label="d" type="m">
             <w token="steit">
@@ -187,8 +187,8 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="queme">
-            <s word-stress="1" line-stress="0">que</s>
-            <s word-stress="0" line-stress="1">me</s>
+            <s word-stress="1" line-stress="1">que</s>
+            <s word-stress="0" line-stress="0">me</s>
           </w>
           <w token="das">
             <s word-stress="1" line-stress="0">das</s>
