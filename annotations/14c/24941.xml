@@ -30,16 +30,16 @@
             <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="hoer">
-            <s word-stress="1" line-stress="0">hoer</s>
+            <s word-stress="1" line-stress="1">hoer</s>
           </w>
           <w token="uch">
-            <s word-stress="1" line-stress="1">uch</s>
+            <s word-stress="1" line-stress="0">uch</s>
           </w>
           <w token="zo">
-            <s word-stress="1" line-stress="0">zo</s>
+            <s word-stress="1" line-stress="1">zo</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <w token="tugen">
             <s word-stress="1" line-stress="1">tu</s>
@@ -65,10 +65,10 @@
             <s word-stress="1" line-stress="0">min</s>
           </w>
           <w token="dienst">
-            <s word-stress="1" line-stress="0">dienst</s>
+            <s word-stress="1" line-stress="1">dienst</s>
           </w>
           <w token="ymmer">
-            <s word-stress="1" line-stress="1">ym</s>
+            <s word-stress="1" line-stress="0">ym</s>
             <s word-stress="0" line-stress="0">mer</s>
           </w>
           <w token="ist">
@@ -123,17 +123,17 @@
             <s word-stress="1" line-stress="0">mir</s>
           </w>
           <w token="an">
-            <s word-stress="1" line-stress="0">an</s>
+            <s word-stress="1" line-stress="1">an</s>
           </w>
           <w token="mire">
-            <s word-stress="1" line-stress="1">mi</s>
+            <s word-stress="1" line-stress="0">mi</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="werdicheit">
               <s word-stress="1" line-stress="1">wer</s>
               <s word-stress="0" line-stress="0">dic</s>
-              <s word-stress="1" line-stress="1">heit</s>
+              <s word-stress="0" line-stress="1">heit</s>
             </w>
           </rhyme>
           <w token=".">
@@ -145,17 +145,17 @@
             <s word-stress="1" line-stress="0">und</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="0">ich</s>
+            <s word-stress="1" line-stress="1">ich</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <w token="ymer">
-            <s word-stress="1" line-stress="0">y</s>
+            <s word-stress="1" line-stress="1">y</s>
             <s word-stress="0" line-stress="0">mer</s>
           </w>
           <w token="des">
-            <s word-stress="1" line-stress="1">des</s>
+            <s word-stress="1" line-stress="0">des</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -178,7 +178,7 @@
             <s word-stress="1" line-stress="0">und</s>
           </w>
           <w token="bid">
-            <s word-stress="1" line-stress="0">bid</s>
+            <s word-stress="1" line-stress="1">bid</s>
           </w>
           <w token="uch">
             <s word-stress="1" line-stress="0">uch</s>
@@ -198,7 +198,7 @@
           <w token="underwindet">
             <s word-stress="1" line-stress="1">un</s>
             <s word-stress="0" line-stress="0">der</s>
-            <s word-stress="1" line-stress="1">win</s>
+            <s word-stress="1" line-stress="0">win</s>
             <s word-stress="0" line-stress="0">det</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
@@ -215,8 +215,8 @@
             <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="levede">
-            <s word-stress="1" line-stress="0">le</s>
-            <s word-stress="0" line-stress="1">ve</s>
+            <s word-stress="1" line-stress="1">le</s>
+            <s word-stress="0" line-stress="0">ve</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="gerne">
