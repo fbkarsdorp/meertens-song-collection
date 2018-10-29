@@ -27,22 +27,22 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="ich">
-            <s word-stress="1" line-stress="1">ich</s>
+            <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="hayn">
-            <s word-stress="1" line-stress="0">hayn</s>
+            <s word-stress="1" line-stress="1">hayn</s>
           </w>
           <w token="eyn">
-            <s word-stress="1" line-stress="1">eyn</s>
+            <s word-stress="1" line-stress="0">eyn</s>
           </w>
           <w token="hertz">
-            <s word-stress="1" line-stress="0">hertz</s>
+            <s word-stress="1" line-stress="1">hertz</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="das">
-            <s word-stress="1" line-stress="1">das</s>
+            <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="mich">
             <s word-stress="1" line-stress="0">mich</s>
@@ -58,13 +58,13 @@
             <s word-stress="1" line-stress="0">vyl</s>
           </w>
           <w token="[">
-            <s word-stress="1" line-stress="0">[</s>
+            <s word-stress="None" line-stress="0">[</s>
           </w>
           <w token="...">
-            <s word-stress="1" line-stress="0">...</s>
+            <s word-stress="None" line-stress="0">...</s>
           </w>
           <w token="]">
-            <s word-stress="1" line-stress="0">]</s>
+            <s word-stress="None" line-stress="0">]</s>
           </w>
           <w token="scaden">
             <s word-stress="1" line-stress="1">sca</s>
@@ -90,11 +90,11 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="eyn">
-            <s word-stress="1" line-stress="1">eyn</s>
+            <s word-stress="1" line-stress="0">eyn</s>
           </w>
           <w token="varendes">
-            <s word-stress="0" line-stress="0">va</s>
-            <s word-stress="1" line-stress="0">ren</s>
+            <s word-stress="1" line-stress="1">va</s>
+            <s word-stress="0" line-stress="0">ren</s>
             <s word-stress="0" line-stress="0">des</s>
           </w>
           <w token="loen">
@@ -123,10 +123,10 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="0">ich</s>
+            <s word-stress="1" line-stress="1">ich</s>
           </w>
           <w token="eenen">
-            <s word-stress="1" line-stress="1">ee</s>
+            <s word-stress="1" line-stress="0">ee</s>
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <w token="zomer">
@@ -272,10 +272,10 @@
             <s word-stress="1" line-stress="1">mues</s>
           </w>
           <w token="yt">
-            <s word-stress="1" line-stress="1">yt</s>
+            <s word-stress="1" line-stress="0">yt</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <rhyme label="e" type="m">
             <w token="ergan">
@@ -319,10 +319,10 @@
             <s word-stress="1" line-stress="0">mer</s>
           </w>
           <w token="duet">
-            <s word-stress="1" line-stress="0">duet</s>
+            <s word-stress="1" line-stress="1">duet</s>
           </w>
           <w token="noch">
-            <s word-stress="1" line-stress="1">noch</s>
+            <s word-stress="1" line-stress="0">noch</s>
           </w>
           <w token="bas">
             <s word-stress="1" line-stress="1">bas</s>
@@ -331,7 +331,8 @@
             <s word-stress="1" line-stress="0">eyn</s>
           </w>
           <w token="rijcher">
-            <s word-stress="1" line-stress="1">rijcher</s>
+            <s word-stress="1" line-stress="1">rij</s>
+            <s word-stress="0" line-stress="0">cher</s>
           </w>
           <rhyme label="e" type="m" corresp="#s1:l9">
             <w token="wan">
