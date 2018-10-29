@@ -26,14 +26,11 @@
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="+-">
-          <w token="albezittend">
+          <w token="albezittend'">
             <s word-stress="1" line-stress="1">al</s>
             <s word-stress="0" line-stress="0">be</s>
             <s word-stress="1" line-stress="1">zit</s>
-            <s word-stress="0" line-stress="0">tend</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+            <s word-stress="0" line-stress="0">tend'</s>
           </w>
           <w token="ligten">
             <s word-stress="1" line-stress="1">lig</s>
@@ -50,13 +47,11 @@
           </w>
         </l>
         <l id="s1:l2" met="4" type="+-">
-          <w token="onuitputb">
+          <w token="onuitputb're">
             <s word-stress="1" line-stress="1">on</s>
             <s word-stress="0" line-stress="0">uit</s>
-            <s word-stress="1" line-stress="1">putb</s>
-          </w>
-          <w token="'re">
-            <s word-stress="1" line-stress="0">'re</s>
+            <s word-stress="1" line-stress="1">put</s>
+            <s word-stress="0" line-stress="0">b're</s>
           </w>
           <w token="volheids">
             <s word-stress="1" line-stress="1">vol</s>
@@ -106,14 +101,13 @@
             <s word-stress="1" line-stress="1">me</s>
             <s word-stress="0" line-stress="0">de</s>
             <s word-stress="1" line-stress="1">deel</s>
-            <s word-stress="0" line-stress="0">za</s>
-            <s word-stress="1" line-stress="1">am</s>
+            <s word-stress="0" line-stress="0">zaam</s>
           </w>
           <w token=":">
             <s word-stress="None" line-stress="0">:</s>
           </w>
           <w token="laat">
-            <s word-stress="1" line-stress="0">laat</s>
+            <s word-stress="1" line-stress="1">laat</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
