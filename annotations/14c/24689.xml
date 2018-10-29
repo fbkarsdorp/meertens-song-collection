@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+s<?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <song>
   <meta>
     <id>24689</id>
@@ -61,7 +61,7 @@
             <s word-stress="1" line-stress="0">mi</s>
           </w>
           <w token="so">
-            <s word-stress="1" line-stress="1">so</s>
+            <s word-stress="1" line-stress="0">so</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="zeer">
@@ -71,10 +71,10 @@
         </l>
         <l id="s1:l3" met="3" type="-+">
           <w token="mijn">
-            <s word-stress="1" line-stress="0">mijn</s>
+            <s word-stress="1" line-stress="1">mijn</s>
           </w>
           <w token="hert">
-            <s word-stress="1" line-stress="1">hert</s>
+            <s word-stress="1" line-stress="0">hert</s>
           </w>
           <w token="end">
             <s word-stress="1" line-stress="1">end</s>
