@@ -32,13 +32,10 @@
             <s word-stress="1" line-stress="0">o</s>
           </w>
           <w token="mensch">
-            <s word-stress="1" line-stress="0">mensch</s>
+            <s word-stress="1" line-stress="1">mensch</s>
           </w>
-          <w token="va">
-            <s word-stress="1" line-stress="1">va</s>
-          </w>
-          <w token="n't">
-            <s word-stress="1" line-stress="0">n't</s>
+          <w token="van't">
+            <s word-stress="1" line-stress="0">van't</s>
           </w>
           <rhyme label="a" type="f">
             <w token="wonder">
@@ -130,8 +127,8 @@
             <s word-stress="1" line-stress="0">der</s>
           </w>
           <w token="eng'len">
-            <s word-stress="0" line-stress="0">en</s>
-            <s word-stress="1" line-stress="1">g'len</s>
+            <s word-stress="1" line-stress="1">eng'</s>
+            <s word-stress="0" line-stress="0">len</s>
           </w>
           <w token="vreught">
             <s word-stress="1" line-stress="1">vreught</s>
