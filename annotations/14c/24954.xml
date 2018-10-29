@@ -63,14 +63,14 @@
         <l id="s1:l2" met="4" type="-+">
           <w token="wildir">
             <s word-stress="1" line-stress="1">wil</s>
-            <s word-stress="0" line-stress="1">dir</s>
+            <s word-stress="0" line-stress="0">dir</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <w token="aldus">
-            <s word-stress="1" line-stress="1">al</s>
-            <s word-stress="0" line-stress="0">dus</s>
+            <s word-stress="0" line-stress="0">al</s>
+            <s word-stress="1" line-stress="1">dus</s>
           </w>
           <rhyme label="b" type="f">
             <w token="verslaen">
@@ -88,10 +88,10 @@
             <s word-stress="0" line-stress="0">der</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <w token="tsemael">
-            <s word-stress="0" line-stress="1">tse</s>
+            <s word-stress="0" line-stress="0">tse</s>
             <s word-stress="1" line-stress="1">mael</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
@@ -134,11 +134,11 @@
         </l>
         <l id="s1:l5" met="4" type="-+">
           <w token="uyr">
-            <s word-stress="1" line-stress="0">uyr</s>
+            <s word-stress="1" line-stress="1">uyr</s>
           </w>
           <w token="vri-eyghen">
-            <s word-stress="1" line-stress="1">vri</s>
-            <s word-stress="0" line-stress="1">-ey</s>
+            <s word-stress="1" line-stress="0">vri-</s>
+            <s word-stress="1" line-stress="1">ey</s>
             <s word-stress="0" line-stress="0">ghen</s>
           </w>
           <w token="wil">
@@ -185,10 +185,10 @@
             <s word-stress="1" line-stress="1">derft</s>
           </w>
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="hertz">
-            <s word-stress="1" line-stress="1">hertz</s>
+            <s word-stress="1" line-stress="0">hertz</s>
           </w>
           <rhyme label="c" type="f" corresp="#s1:l5">
             <w token="miin">
@@ -227,17 +227,17 @@
             <s word-stress="0" line-stress="0">phe</s>
           </w>
           <w token="ende">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="troest">
-            <s word-stress="1" line-stress="0">troest</s>
+            <s word-stress="1" line-stress="1">troest</s>
           </w>
           <w token="halt">
-            <s word-stress="1" line-stress="1">halt</s>
+            <s word-stress="1" line-stress="0">halt</s>
           </w>
           <w token="mer">
-            <s word-stress="1" line-stress="0">mer</s>
+            <s word-stress="1" line-stress="1">mer</s>
           </w>
           <w token="das">
             <s word-stress="1" line-stress="0">das</s>
@@ -288,10 +288,10 @@
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="halt">
-            <s word-stress="1" line-stress="0">halt</s>
+            <s word-stress="1" line-stress="1">halt</s>
           </w>
           <w token="myr">
-            <s word-stress="1" line-stress="1">myr</s>
+            <s word-stress="1" line-stress="0">myr</s>
           </w>
           <w token="ghevangen">
             <s word-stress="0" line-stress="0">ghe</s>
