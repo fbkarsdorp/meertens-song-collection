@@ -29,13 +29,13 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="+-">
           <w token="claeuwaert">
-            <s word-stress="1" line-stress="1">claeu</s>
-            <s word-stress="0" line-stress="0">waert</s>
+            <s word-stress="1" line-stress="0">claeu</s>
+            <s word-stress="0" line-stress="1">waert</s>
           </w>
           <rhyme label="a" type="m">
             <w token="claeuwaert">
-              <s word-stress="1" line-stress="1">claeu</s>
-              <s word-stress="0" line-stress="0">waert</s>
+              <s word-stress="1" line-stress="0">claeu</s>
+              <s word-stress="0" line-stress="1">waert</s>
             </w>
           </rhyme>
         </l>
@@ -52,21 +52,21 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="lelyaert">
-              <s word-stress="1" line-stress="0">le</s>
-              <s word-stress="0" line-stress="1">ly</s>
+              <s word-stress="1" line-stress="1">le</s>
+              <s word-stress="0" line-stress="0">ly</s>
               <s word-stress="1" line-stress="1">aert</s>
             </w>
           </rhyme>
         </l>
         <l id="s1:l3" met="4" type="+-">
           <w token="gaet">
-            <s word-stress="1" line-stress="1">gaet</s>
+            <s word-stress="1" line-stress="0">gaet</s>
           </w>
           <w token="ghi">
-            <s word-stress="1" line-stress="0">ghi</s>
+            <s word-stress="1" line-stress="1">ghi</s>
           </w>
           <w token="niet">
-            <s word-stress="1" line-stress="1">niet</s>
+            <s word-stress="1" line-stress="0">niet</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="thusewaert">
@@ -92,7 +92,7 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="tabbaert">
-              <s word-stress="1" line-stress="1">tab</s>
+              <s word-stress="1" line-stress="0">tab</s>
               <s word-stress="0" line-stress="1">baert</s>
             </w>
           </rhyme>
