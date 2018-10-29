@@ -126,10 +126,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="nacht">
-            <s word-stress="1" line-stress="0">nacht</s>
+            <s word-stress="1" line-stress="1">nacht</s>
           </w>
           <w token="ende">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
