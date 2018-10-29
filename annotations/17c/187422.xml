@@ -37,10 +37,10 @@
             <s word-stress="1" line-stress="0">daar</s>
           </w>
           <w token="ik">
-            <s word-stress="1" line-stress="0">ik</s>
+            <s word-stress="1" line-stress="1">ik</s>
           </w>
           <w token="ook">
-            <s word-stress="1" line-stress="1">ook</s>
+            <s word-stress="1" line-stress="0">ook</s>
           </w>
           <rhyme label="a" type="f">
             <w token="verkeerden">
@@ -55,7 +55,7 @@
         </l>
         <l id="s1:l2" met="4" type="+-">
           <w token="vond">
-            <s word-stress="1" line-stress="0">vond</s>
+            <s word-stress="1" line-stress="1">vond</s>
           </w>
           <w token="ik">
             <s word-stress="1" line-stress="0">ik</s>
@@ -68,7 +68,7 @@
             <s word-stress="0" line-stress="0">sche</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="gereformeerden">
@@ -116,8 +116,8 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="meniste">
-            <s word-stress="0" line-stress="1">me</s>
-            <s word-stress="1" line-stress="0">nis</s>
+            <s word-stress="0" line-stress="0">me</s>
+            <s word-stress="1" line-stress="1">nis</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token=",">
@@ -128,9 +128,10 @@
           </w>
           <rhyme label="c" type="f">
             <w token="arminiane">
-              <s word-stress="1" line-stress="1">ar</s>
-              <s word-stress="0" line-stress="0">min</s>
-              <s word-stress="1" line-stress="1">ia</s>
+              <s word-stress="0" line-stress="1">ar</s>
+              <s word-stress="1" line-stress="0">mi</s>
+              <s word-stress="0" line-stress="0">ni</s>
+              <s word-stress="1" line-stress="1">a</s>
               <s word-stress="0" line-stress="0">ne</s>
             </w>
           </rhyme>
@@ -140,7 +141,7 @@
             <s word-stress="1" line-stress="0">fa</s>
           </w>
           <w token="la">
-            <s word-stress="1" line-stress="0">la</s>
+            <s word-stress="1" line-stress="1">la</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
@@ -196,8 +197,9 @@
           <rhyme label="c" type="f" corresp="#s1:l4">
             <w token="lutheriane">
               <s word-stress="1" line-stress="1">lu</s>
-              <s word-stress="0" line-stress="0">ther</s>
-              <s word-stress="1" line-stress="1">ia</s>
+              <s word-stress="0" line-stress="0">the</s>
+              <s word-stress="0" line-stress="0">ri</s>
+              <s word-stress="1" line-stress="1">a</s>
               <s word-stress="0" line-stress="0">ne</s>
             </w>
           </rhyme>
@@ -261,7 +263,7 @@
             <w token="gloria">
               <s word-stress="1" line-stress="1">glo</s>
               <s word-stress="0" line-stress="0">ri</s>
-              <s word-stress="1" line-stress="1">a</s>
+              <s word-stress="0" line-stress="1">a</s>
             </w>
           </rhyme>
           <w token=".">
