@@ -31,14 +31,14 @@
             <s word-stress="1" line-stress="1">looft</s>
           </w>
           <w token="zijt">
-            <s word-stress="1" line-stress="1">zijt</s>
+            <s word-stress="1" line-stress="0">zijt</s>
           </w>
           <w token="ghy">
-            <s word-stress="1" line-stress="0">ghy</s>
+            <s word-stress="1" line-stress="1">ghy</s>
           </w>
           <w token="jhesu">
-            <s word-stress="1" line-stress="1">jhe</s>
-            <s word-stress="0" line-stress="0">su</s>
+            <s word-stress="1" line-stress="0">jhe</s>
+            <s word-stress="0" line-stress="1">su</s>
           </w>
           <w token="al">
             <s word-stress="1" line-stress="0">al</s>
@@ -119,8 +119,8 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="enghelsche">
-            <s word-stress="0" line-stress="0">en</s>
-            <s word-stress="1" line-stress="1">ghel</s>
+            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="0" line-stress="0">ghel</s>
             <s word-stress="0" line-stress="0">sche</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l3">
@@ -136,7 +136,8 @@
           <rhyme label="c" type="m">
             <w token="kirieleys">
               <s word-stress="1" line-stress="1">ki</s>
-              <s word-stress="0" line-stress="0">rie</s>
+              <s word-stress="0" line-stress="0">ri</s>
+              <s word-stress="0" line-stress="0">e</s>
               <s word-stress="1" line-stress="1">leys</s>
             </w>
           </rhyme>
