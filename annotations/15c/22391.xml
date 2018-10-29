@@ -212,10 +212,10 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="dit">
-            <s word-stress="1" line-stress="1">dit</s>
+            <s word-stress="1" line-stress="0">dit</s>
           </w>
           <w token="ist">
-            <s word-stress="1" line-stress="0">ist</s>
+            <s word-stress="1" line-stress="1">ist</s>
           </w>
           <w token="gheschal">
             <s word-stress="0" line-stress="0">ghe</s>
@@ -264,8 +264,8 @@
           </w>
           <rhyme label="e" type="m" corresp="#s1:l8">
             <w token="misual">
-              <s word-stress="0" line-stress="0">mi</s>
-              <s word-stress="1" line-stress="1">sual</s>
+              <s word-stress="1" line-stress="0">mis</s>
+              <s word-stress="0" line-stress="1">ual</s>
             </w>
           </rhyme>
           <w token=",">
@@ -286,8 +286,8 @@
           <rhyme label="f" type="f">
             <w token="verdraeyen">
               <s word-stress="0" line-stress="0">ver</s>
-              <s word-stress="1" line-stress="1">drae</s>
-              <s word-stress="0" line-stress="0">yen</s>
+              <s word-stress="1" line-stress="1">draey</s>
+              <s word-stress="0" line-stress="0">en</s>
             </w>
           </rhyme>
           <w token=",">
@@ -299,8 +299,8 @@
             <s word-stress="1" line-stress="0">cleyn</s>
           </w>
           <w token="cuddeken">
-            <s word-stress="1" line-stress="0">cud</s>
-            <s word-stress="0" line-stress="1">de</s>
+            <s word-stress="1" line-stress="1">cud</s>
+            <s word-stress="0" line-stress="0">de</s>
             <s word-stress="0" line-stress="0">ken</s>
           </w>
           <w token="ghy">
