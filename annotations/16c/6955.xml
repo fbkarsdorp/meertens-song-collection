@@ -37,10 +37,10 @@
             <s word-stress="1" line-stress="1">oogh</s>
           </w>
           <w token="noch">
-            <s word-stress="1" line-stress="1">noch</s>
+            <s word-stress="1" line-stress="0">noch</s>
           </w>
           <w token="somtijdts">
-            <s word-stress="0" line-stress="0">som</s>
+            <s word-stress="0" line-stress="1">som</s>
             <s word-stress="1" line-stress="0">tijdts</s>
           </w>
           <w token="vriendlijck">
@@ -93,10 +93,10 @@
         </l>
         <l id="s1:l3" met="5" type="-+">
           <w token="was">
-            <s word-stress="1" line-stress="1">was</s>
+            <s word-stress="1" line-stress="0">was</s>
           </w>
           <w token="niemandt">
-            <s word-stress="0" line-stress="0">nie</s>
+            <s word-stress="1" line-stress="1">nie</s>
             <s word-stress="0" line-stress="0">mandt</s>
           </w>
           <w token="soo">
