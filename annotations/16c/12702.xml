@@ -161,7 +161,7 @@
             <w token="vrolijkheyt">
               <s word-stress="1" line-stress="1">vro</s>
               <s word-stress="0" line-stress="0">lijk</s>
-              <s word-stress="0" line-stress="1">heyt</s>
+              <s word-stress="1" line-stress="1">heyt</s>
             </w>
           </rhyme>
         </l>
@@ -192,11 +192,8 @@
           </w>
         </l>
         <l id="s1:l9" met="2" type="+-">
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="k">
-            <s word-stress="None" line-stress="0">k</s>
+          <w token="'k">
+            <s word-stress="None" line-stress="0">'k</s>
           </w>
           <w token="wensch">
             <s word-stress="1" line-stress="1">wensch</s>
@@ -239,12 +236,12 @@
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">en</s>
           </w>
           <rhyme label="d" type="f" corresp="#s1:l8">
             <w token="volenden">
-              <s word-stress="0" line-stress="1">vo</s>
-              <s word-stress="1" line-stress="1">len</s>
+              <s word-stress="0" line-stress="0">vol</s>
+              <s word-stress="1" line-stress="1">en</s>
               <s word-stress="0" line-stress="0">den</s>
             </w>
           </rhyme>
