@@ -70,11 +70,11 @@
           <w token="ongeluks">
             <s word-stress="1" line-stress="1">on</s>
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="1">luks</s>
+            <s word-stress="1" line-stress="0">luks</s>
           </w>
           <rhyme label="b" type="m">
             <w token="blaast">
-              <s word-stress="1" line-stress="0">blaast</s>
+              <s word-stress="1" line-stress="1">blaast</s>
             </w>
           </rhyme>
           <w token=",">
@@ -86,13 +86,10 @@
             <s word-stress="1" line-stress="1">dan</s>
           </w>
           <w token="is">
-            <s word-stress="1" line-stress="1">is</s>
+            <s word-stress="1" line-stress="0">is</s>
           </w>
-          <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
-          </w>
-          <w token="er">
-            <s word-stress="1" line-stress="0">er</s>
+          <w token="'er">
+            <s word-stress="1" line-stress="1">'er</s>
           </w>
           <w token="geen">
             <s word-stress="1" line-stress="0">geen</s>
@@ -229,11 +226,11 @@
           <w token="doodelyk">
             <s word-stress="1" line-stress="1">doo</s>
             <s word-stress="0" line-stress="0">de</s>
-            <s word-stress="1" line-stress="1">lyk</s>
+            <s word-stress="1" line-stress="0">lyk</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l6">
             <w token="zyn">
-              <s word-stress="1" line-stress="0">zyn</s>
+              <s word-stress="1" line-stress="1">zyn</s>
             </w>
           </rhyme>
           <w token=".">
