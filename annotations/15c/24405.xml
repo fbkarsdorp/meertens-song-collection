@@ -30,14 +30,14 @@
             <s word-stress="1" line-stress="0">een</s>
           </w>
           <w token="goet">
-            <s word-stress="1" line-stress="0">goet</s>
+            <s word-stress="1" line-stress="1">goet</s>
           </w>
           <w token="nieu">
-            <s word-stress="1" line-stress="1">nieu</s>
+            <s word-stress="1" line-stress="0">nieu</s>
           </w>
           <w token="lietal">
-            <s word-stress="0" line-stress="1">lie</s>
-            <s word-stress="1" line-stress="0">tal</s>
+            <s word-stress="1" line-stress="1">liet</s>
+            <s word-stress="1" line-stress="0">al</s>
           </w>
           <w token="vant">
             <s word-stress="1" line-stress="1">vant</s>
@@ -98,10 +98,10 @@
             <s word-stress="1" line-stress="0">soo</s>
           </w>
           <w token="ons">
-            <s word-stress="1" line-stress="1">ons</s>
+            <s word-stress="1" line-stress="0">ons</s>
           </w>
           <w token="lucas">
-            <s word-stress="1" line-stress="0">lu</s>
+            <s word-stress="1" line-stress="1">lu</s>
             <s word-stress="0" line-stress="0">cas</s>
           </w>
           <w token="gaet">
@@ -143,7 +143,7 @@
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <w token="oudtsten">
-            <s word-stress="1" line-stress="0">oudt</s>
+            <s word-stress="1" line-stress="1">oudt</s>
             <s word-stress="0" line-stress="0">sten</s>
           </w>
           <w token="diende">
@@ -151,13 +151,13 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="hem">
-            <s word-stress="1" line-stress="1">hem</s>
+            <s word-stress="1" line-stress="0">hem</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <w token="passe">
-            <s word-stress="1" line-stress="1">pas</s>
+            <s word-stress="1" line-stress="0">pas</s>
             <s word-stress="0" line-stress="0">se</s>
           </w>
           <rhyme label="d" type="m">
@@ -185,7 +185,7 @@
           </w>
           <rhyme label="d" type="m" corresp="#s1:l6">
             <w token="rebel">
-              <s word-stress="1" line-stress="0">re</s>
+              <s word-stress="0" line-stress="0">re</s>
               <s word-stress="1" line-stress="1">bel</s>
             </w>
           </rhyme>
