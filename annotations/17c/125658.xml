@@ -47,8 +47,8 @@
           </w>
           <rhyme label="a" type="f">
             <w token="liedje">
-              <s word-stress="0" line-stress="1">lie</s>
-              <s word-stress="1" line-stress="0">dje</s>
+              <s word-stress="1" line-stress="1">lied</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -94,8 +94,8 @@
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="rietje">
-              <s word-stress="0" line-stress="0">rie</s>
-              <s word-stress="1" line-stress="1">tje</s>
+              <s word-stress="0" line-stress="1">riet</s>
+              <s word-stress="1" line-stress="0">je</s>
             </w>
           </rhyme>
         </l>
@@ -132,10 +132,10 @@
             <s word-stress="1" line-stress="1">hy</s>
           </w>
           <w token="zat">
-            <s word-stress="1" line-stress="1">zat</s>
+            <s word-stress="1" line-stress="0">zat</s>
           </w>
           <w token="dus">
-            <s word-stress="1" line-stress="0">dus</s>
+            <s word-stress="1" line-stress="1">dus</s>
           </w>
           <w token="heel">
             <s word-stress="1" line-stress="0">heel</s>
