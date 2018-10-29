@@ -104,7 +104,7 @@
         <l id="s1:l4" met="3" type="-+">
           <w token="tfernoy">
             <s word-stress="1" line-stress="0">tfer</s>
-            <s word-stress="1" line-stress="1">noy</s>
+            <s word-stress="0" line-stress="1">noy</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -157,10 +157,10 @@
             <s word-stress="1" line-stress="0">dat</s>
           </w>
           <w token="doet">
-            <s word-stress="1" line-stress="0">doet</s>
+            <s word-stress="1" line-stress="1">doet</s>
           </w>
           <w token="mire">
-            <s word-stress="1" line-stress="1">mi</s>
+            <s word-stress="1" line-stress="0">mi</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="liefste">
