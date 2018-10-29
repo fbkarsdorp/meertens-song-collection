@@ -34,10 +34,10 @@
             <s word-stress="1" line-stress="0">wol</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <w token="ummer">
-            <s word-stress="1" line-stress="1">um</s>
+            <s word-stress="1" line-stress="0">um</s>
             <s word-stress="0" line-stress="0">mer</s>
           </w>
           <w token=",">
@@ -51,7 +51,8 @@
           </w>
           <w token="lieblichen">
             <s word-stress="1" line-stress="1">lieb</s>
-            <s word-stress="0" line-stress="0">lichen</s>
+            <s word-stress="0" line-stress="0">li</s>
+            <s word-stress="0" line-stress="0">chen</s>
           </w>
           <rhyme label="a" type="f">
             <w token="stunde">
@@ -78,8 +79,9 @@
             <s word-stress="0" line-stress="0">men</s>
           </w>
           <w token="tugentriiche">
-            <s word-stress="1" line-stress="0">tu</s>
-            <s word-stress="0" line-stress="1">gentrii</s>
+            <s word-stress="1" line-stress="1">tu</s>
+            <s word-stress="0" line-stress="0">gent</s>
+            <s word-stress="1" line-stress="0">rii</s>
             <s word-stress="0" line-stress="0">che</s>
           </w>
           <rhyme label="b" type="m">
@@ -212,10 +214,10 @@
             <s word-stress="0" line-stress="0">len</s>
           </w>
           <w token="zu">
-            <s word-stress="1" line-stress="0">zu</s>
+            <s word-stress="1" line-stress="1">zu</s>
           </w>
           <w token="ym">
-            <s word-stress="1" line-stress="1">ym</s>
+            <s word-stress="1" line-stress="0">ym</s>
           </w>
           <rhyme label="c" type="f" corresp="#s1:l5">
             <w token="karte">
@@ -232,7 +234,7 @@
             <s word-stress="1" line-stress="0">hets</s>
           </w>
           <w token="waren">
-            <s word-stress="1" line-stress="1">wa</s>
+            <s word-stress="1" line-stress="0">wa</s>
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="wael">
@@ -240,7 +242,7 @@
           </w>
           <w token="ghewunsceder">
             <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="1" line-stress="0">wun</s>
+            <s word-stress="1" line-stress="1">wun</s>
             <s word-stress="0" line-stress="0">sce</s>
             <s word-stress="0" line-stress="0">der</s>
           </w>
@@ -272,7 +274,7 @@
           </w>
           <w token="tugeden">
             <s word-stress="1" line-stress="1">tu</s>
-            <s word-stress="1" line-stress="0">ge</s>
+            <s word-stress="0" line-stress="0">ge</s>
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <rhyme label="e" type="m">
@@ -403,8 +405,8 @@
         </l>
         <l id="s1:l15" met="2" type="-+">
           <w token="aldurch">
-            <s word-stress="0" line-stress="1">al</s>
-            <s word-stress="1" line-stress="0">durch</s>
+            <s word-stress="0" line-stress="0">al</s>
+            <s word-stress="1" line-stress="1">durch</s>
           </w>
           <w token="das">
             <s word-stress="1" line-stress="0">das</s>
@@ -489,8 +491,8 @@
             <s word-stress="1" line-stress="0">yr</s>
           </w>
           <w token="tuegent">
-            <s word-stress="0" line-stress="1">tue</s>
-            <s word-stress="1" line-stress="0">gent</s>
+            <s word-stress="1" line-stress="1">tue</s>
+            <s word-stress="0" line-stress="0">gent</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="1">die</s>
@@ -518,10 +520,10 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="zi">
-            <s word-stress="1" line-stress="1">zi</s>
+            <s word-stress="1" line-stress="0">zi</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <w token="voer">
             <s word-stress="1" line-stress="0">voer</s>
