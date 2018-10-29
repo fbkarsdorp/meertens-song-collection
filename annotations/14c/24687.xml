@@ -29,9 +29,9 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="-+">
           <w token="maria">
-            <s word-stress="1" line-stress="0">ma</s>
-            <s word-stress="0" line-stress="0">ri</s>
-            <s word-stress="1" line-stress="1">a</s>
+            <s word-stress="0" line-stress="0">ma</s>
+            <s word-stress="1" line-stress="1">ri</s>
+            <s word-stress="0" line-stress="0">a</s>
           </w>
           <rhyme label="a" type="f">
             <w token="conincinne">
@@ -56,17 +56,17 @@
             <w token="toeuerlaet">
               <s word-stress="1" line-stress="1">toe</s>
               <s word-stress="0" line-stress="0">uer</s>
-              <s word-stress="1" line-stress="1">laet</s>
+              <s word-stress="0" line-stress="1">laet</s>
             </w>
           </rhyme>
         </l>
         <l id="s1:l3" met="3" type="-+">
           <w token="vercrijcht">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="0">crijcht</s>
+            <s word-stress="1" line-stress="1">crijcht</s>
           </w>
           <w token="my">
-            <s word-stress="1" line-stress="1">my</s>
+            <s word-stress="1" line-stress="0">my</s>
           </w>
           <w token="v">
             <s word-stress="1" line-stress="1">v</s>
@@ -94,8 +94,8 @@
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="mesdaet">
-              <s word-stress="0" line-stress="0">mes</s>
-              <s word-stress="1" line-stress="1">daet</s>
+              <s word-stress="1" line-stress="0">mes</s>
+              <s word-stress="0" line-stress="1">daet</s>
             </w>
           </rhyme>
         </l>
