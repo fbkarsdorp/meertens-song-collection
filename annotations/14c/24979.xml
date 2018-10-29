@@ -38,10 +38,10 @@
             <s word-stress="1" line-stress="0">vyl</s>
           </w>
           <w token="wal">
-            <s word-stress="1" line-stress="0">wal</s>
+            <s word-stress="1" line-stress="1">wal</s>
           </w>
           <w token="eyn">
-            <s word-stress="1" line-stress="1">eyn</s>
+            <s word-stress="1" line-stress="0">eyn</s>
           </w>
           <w token="bluxndes">
             <s word-stress="1" line-stress="1">bluxn</s>
@@ -55,10 +55,10 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="gar">
-            <s word-stress="1" line-stress="1">gar</s>
+            <s word-stress="1" line-stress="0">gar</s>
           </w>
           <w token="zuverlich">
-            <s word-stress="1" line-stress="0">zu</s>
+            <s word-stress="1" line-stress="1">zu</s>
             <s word-stress="0" line-stress="0">ver</s>
             <s word-stress="0" line-stress="1">lich</s>
           </w>
@@ -79,8 +79,8 @@
           </w>
           <w token="ozenynch">
             <s word-stress="1" line-stress="1">o</s>
-            <s word-stress="0" line-stress="1">ze</s>
-            <s word-stress="1" line-stress="0">nynch</s>
+            <s word-stress="0" line-stress="0">ze</s>
+            <s word-stress="0" line-stress="0">nynch</s>
           </w>
           <w token="zwaer">
             <s word-stress="1" line-stress="1">zwaer</s>
@@ -100,10 +100,10 @@
         </l>
         <l id="s1:l4" met="3" type="-+">
           <w token="mir">
-            <s word-stress="1" line-stress="1">mir</s>
+            <s word-stress="1" line-stress="0">mir</s>
           </w>
           <w token="nicht">
-            <s word-stress="1" line-stress="0">nicht</s>
+            <s word-stress="1" line-stress="1">nicht</s>
           </w>
           <w token="so">
             <s word-stress="1" line-stress="0">so</s>
@@ -138,8 +138,8 @@
           </w>
           <rhyme label="c" type="f">
             <w token="spruzit">
-              <s word-stress="0" line-stress="1">spru</s>
-              <s word-stress="1" line-stress="0">zit</s>
+              <s word-stress="1" line-stress="1">spru</s>
+              <s word-stress="0" line-stress="0">zit</s>
             </w>
           </rhyme>
           <w token=",">
@@ -148,8 +148,8 @@
         </l>
         <l id="s1:l6" met="3" type="-+">
           <w token="daerzu">
-            <s word-stress="0" line-stress="1">daer</s>
-            <s word-stress="1" line-stress="0">zu</s>
+            <s word-stress="0" line-stress="0">daer</s>
+            <s word-stress="1" line-stress="1">zu</s>
           </w>
           <w token="vil">
             <s word-stress="1" line-stress="0">vil</s>
@@ -286,8 +286,8 @@
           </w>
           <rhyme label="e" type="m" corresp="#s1:l9">
             <w token="umbyrt">
-              <s word-stress="0" line-stress="1">um</s>
-              <s word-stress="1" line-stress="0">byrt</s>
+              <s word-stress="0" line-stress="0">um</s>
+              <s word-stress="1" line-stress="1">byrt</s>
             </w>
           </rhyme>
           <w token=",">
