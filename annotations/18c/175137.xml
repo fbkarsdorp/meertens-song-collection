@@ -21,7 +21,7 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
+            <s word-stress="None" line-stress="0">‘</s>
           </w>
           <w token="wat">
             <s word-stress="1" line-stress="0">wat</s>
@@ -63,13 +63,13 @@
           <w token="bloemetje">
             <s word-stress="1" line-stress="1">bloe</s>
             <s word-stress="0" line-stress="0">me</s>
-            <s word-stress="1" line-stress="1">tje</s>
+            <s word-stress="0" line-stress="0">tje</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <w token="'t">
-            <s word-stress="None" line-stress="0">'t</s>
+            <s word-stress="1" line-stress="0">'t</s>
           </w>
           <w token="groene">
             <s word-stress="1" line-stress="1">groe</s>
@@ -103,7 +103,8 @@
           <rhyme label="b" type="f">
             <w token="middaghoogte">
               <s word-stress="1" line-stress="1">mid</s>
-              <s word-stress="0" line-stress="1">daghoog</s>
+              <s word-stress="0" line-stress="0">dag</s>
+              <s word-stress="1" line-stress="1">hoog</s>
               <s word-stress="0" line-stress="0">te</s>
             </w>
           </rhyme>
@@ -175,12 +176,12 @@
           </w>
           <w token="zaâmgeschrompeld">
             <s word-stress="1" line-stress="1">zaâm</s>
-            <s word-stress="0" line-stress="1">gesch</s>
-            <s word-stress="1" line-stress="0">rom</s>
-            <s word-stress="1" line-stress="1">peld</s>
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="1">schrom</s>
+            <s word-stress="0" line-stress="0">peld</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
@@ -249,7 +250,7 @@
               <s word-stress="1" line-stress="1">waar</s>
             </w>
             <w token="'">
-              <s word-stress="1" line-stress="0">'</s>
+              <s word-stress="None" line-stress="0">'</s>
             </w>
           </rhyme>
           <w token=",">
@@ -286,7 +287,7 @@
             <s word-stress="None" line-stress="0">!</s>
           </w>
           <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
+            <s word-stress="None" line-stress="0">’</s>
           </w>
         </l>
       </lg>
