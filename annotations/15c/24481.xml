@@ -30,10 +30,12 @@
     <lg type="song">
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
-          <w token="melcop//">
+          <w token="melcop">
             <s word-stress="1" line-stress="0">mel</s>
-            <s word-stress="0" line-stress="1">co</s>
-            <s word-stress="1" line-stress="0">p//</s>
+            <s word-stress="0" line-stress="1">cop</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="moet">
             <s word-stress="1" line-stress="0">moet</s>
@@ -60,18 +62,21 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="elck">
-            <s word-stress="1" line-stress="1">elck</s>
+            <s word-stress="1" line-stress="0">elck</s>
           </w>
-          <w token="op//">
-            <s word-stress="1" line-stress="0">op//</s>
+          <w token="op">
+            <s word-stress="1" line-stress="1">op</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="dick">
-            <s word-stress="1" line-stress="1">dick</s>
+            <s word-stress="1" line-stress="0">dick</s>
           </w>
           <w token="erwitten">
-            <s word-stress="0" line-stress="0">er</s>
-            <s word-stress="1" line-stress="1">wit</s>
-            <s word-stress="0" line-stress="0">ten</s>
+            <s word-stress="1" line-stress="1">er</s>
+            <s word-stress="0" line-stress="0">wit</s>
+            <s word-stress="0" line-stress="1">ten</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -88,12 +93,12 @@
         </l>
         <l id="s1:l3" met="3" type="-+">
           <w token="met">
-            <s word-stress="1" line-stress="1">met</s>
+            <s word-stress="1" line-stress="0">met</s>
           </w>
           <w token="lepelen">
-            <s word-stress="0" line-stress="0">le</s>
-            <s word-stress="1" line-stress="1">pe</s>
-            <s word-stress="0" line-stress="0">len</s>
+            <s word-stress="1" line-stress="1">le</s>
+            <s word-stress="0" line-stress="0">pe</s>
+            <s word-stress="0" line-stress="1">len</s>
           </w>
           <w token="toe">
             <s word-stress="1" line-stress="0">toe</s>
@@ -106,10 +111,13 @@
           </rhyme>
         </l>
         <l id="s1:l4" met="3" type="-+">
-          <w token="bedreten//">
-            <s word-stress="1" line-stress="0">be</s>
-            <s word-stress="0" line-stress="1">dre</s>
-            <s word-stress="1" line-stress="0">ten//</s>
+          <w token="bedreten">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="1">dre</s>
+            <s word-stress="0" line-stress="0">ten</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="so">
             <s word-stress="1" line-stress="0">so</s>
@@ -134,11 +142,14 @@
             <s word-stress="1" line-stress="1">tstinc</s>
             <s word-stress="0" line-stress="0">ken</s>
           </w>
-          <w token="vliet//">
-            <s word-stress="1" line-stress="0">vliet//</s>
+          <w token="vliet">
+            <s word-stress="1" line-stress="1">vliet</s>
+          </w>
+          <w token="//">
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="toch">
-            <s word-stress="1" line-stress="1">toch</s>
+            <s word-stress="1" line-stress="0">toch</s>
           </w>
           <w token="voor">
             <s word-stress="1" line-stress="1">voor</s>
