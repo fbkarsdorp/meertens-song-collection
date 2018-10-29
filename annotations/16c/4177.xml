@@ -22,15 +22,15 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="+-">
           <w token="segt">
-            <s word-stress="1" line-stress="0">segt</s>
+            <s word-stress="1" line-stress="1">segt</s>
           </w>
           <w token="mijn">
-            <s word-stress="1" line-stress="1">mijn</s>
+            <s word-stress="1" line-stress="0">mijn</s>
           </w>
           <rhyme label="a" type="f">
             <w token="bekje">
-              <s word-stress="0" line-stress="0">be</s>
-              <s word-stress="1" line-stress="1">kje</s>
+              <s word-stress="1" line-stress="1">bek</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -54,14 +54,13 @@
         </l>
         <l id="s1:l3" met="2" type="+-">
           <w token="waarom">
-            <s word-stress="1" line-stress="1">wa</s>
-            <s word-stress="0" line-stress="0">a</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="0" line-stress="1">waar</s>
+            <s word-stress="1" line-stress="0">om</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="gekje">
-              <s word-stress="0" line-stress="0">ge</s>
-              <s word-stress="1" line-stress="1">kje</s>
+              <s word-stress="1" line-stress="1">gek</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
         </l>
@@ -72,7 +71,8 @@
           </w>
           <rhyme label="b" type="f" corresp="#s1:l2">
             <w token="liefje">
-              <s word-stress="0" line-stress="1">liefje</s>
+              <s word-stress="1" line-stress="1">lief</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token="?">
