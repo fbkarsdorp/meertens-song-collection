@@ -54,11 +54,11 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="kersdach">
-            <s word-stress="1" line-stress="0">kers</s>
-            <s word-stress="1" line-stress="0">dach</s>
+            <s word-stress="1" line-stress="1">kers</s>
+            <s word-stress="0" line-stress="0">dach</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="des">
             <s word-stress="1" line-stress="0">des</s>
@@ -167,13 +167,13 @@
             <s word-stress="1" line-stress="0">na</s>
           </w>
           <w token="sire">
-            <s word-stress="1" line-stress="0">si</s>
-            <s word-stress="0" line-stress="1">re</s>
+            <s word-stress="1" line-stress="1">si</s>
+            <s word-stress="0" line-stress="0">re</s>
           </w>
           <rhyme label="d" type="f">
             <w token="menscelichede">
-              <s word-stress="1" line-stress="0">men</s>
-              <s word-stress="0" line-stress="1">sce</s>
+              <s word-stress="1" line-stress="1">men</s>
+              <s word-stress="0" line-stress="0">sce</s>
               <s word-stress="0" line-stress="0">lic</s>
               <s word-stress="1" line-stress="1">he</s>
               <s word-stress="0" line-stress="0">de</s>
@@ -185,7 +185,7 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="wies">
-            <s word-stress="1" line-stress="1">wies</s>
+            <s word-stress="1" line-stress="0">wies</s>
           </w>
           <w token="wesen">
             <s word-stress="1" line-stress="1">we</s>
@@ -197,7 +197,8 @@
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="ondenchlic">
               <s word-stress="0" line-stress="0">on</s>
-              <s word-stress="1" line-stress="1">denchlic</s>
+              <s word-stress="1" line-stress="1">dench</s>
+              <s word-stress="0" line-stress="1">lic</s>
             </w>
           </rhyme>
         </l>
@@ -207,8 +208,8 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="daertoe">
-            <s word-stress="0" line-stress="1">daer</s>
-            <s word-stress="1" line-stress="0">toe</s>
+            <s word-stress="1" line-stress="1">daer</s>
+            <s word-stress="0" line-stress="0">toe</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="ombegripelic">
