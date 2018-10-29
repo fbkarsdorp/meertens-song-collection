@@ -40,10 +40,10 @@
             <s word-stress="None" line-stress="0">:</s>
           </w>
           <w token="``">
-            <s word-stress="1" line-stress="0">``</s>
+            <s word-stress="None" line-stress="0">``</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="1">ich</s>
+            <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="moez">
             <s word-stress="1" line-stress="0">moez</s>
@@ -68,7 +68,7 @@
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <w token="und">
-            <s word-stress="1" line-stress="1">und</s>
+            <s word-stress="1" line-stress="0">und</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="magen">
@@ -167,10 +167,10 @@
             <s word-stress="0" line-stress="0">dich</s>
           </w>
           <w token="mins">
-            <s word-stress="1" line-stress="1">mins</s>
+            <s word-stress="1" line-stress="0">mins</s>
           </w>
           <w token="zins">
-            <s word-stress="1" line-stress="0">zins</s>
+            <s word-stress="1" line-stress="1">zins</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="versagen">
@@ -215,10 +215,10 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="wer">
-            <s word-stress="1" line-stress="1">wer</s>
+            <s word-stress="1" line-stress="0">wer</s>
           </w>
           <w token="mer">
-            <s word-stress="1" line-stress="0">mer</s>
+            <s word-stress="1" line-stress="1">mer</s>
           </w>
           <w token="nu">
             <s word-stress="1" line-stress="0">nu</s>
@@ -271,7 +271,7 @@
             <s word-stress="None" line-stress="0">.</s>
           </w>
           <w token="''">
-            <s word-stress="1" line-stress="0">''</s>
+            <s word-stress="None" line-stress="0">''</s>
           </w>
         </l>
       </lg>
