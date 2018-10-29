@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>190146</id>
+    <date>
+      <year-start>1561</year-start>
+      <year-end>1561</year-end>
+    </date>
+    <location>
+      <orginal-name>londen</orginal-name>
+      <standard-name>London, England</standard-name>
+      <coordinates>
+        <lon>51.5073219</lon>
+        <lat>-0.1276474</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 012 Datheen</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="doe">
+            <s word-stress="1" line-stress="0">doe</s>
+          </w>
+          <w token="bystand">
+            <s word-stress="0" line-stress="0">bys</s>
+            <s word-stress="1" line-stress="0">tand</s>
+          </w>
+          <w token="heer">
+            <s word-stress="1" line-stress="0">heer</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="t">
+            <s word-stress="1" line-stress="0">t</s>
+          </w>
+          <w token="’">
+            <s word-stress="1" line-stress="0">’</s>
+          </w>
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <w token="groot">
+            <s word-stress="1" line-stress="0">groot</s>
+          </w>
+          <w token="tyd">
+            <s word-stress="1" line-stress="0">tyd</s>
+          </w>
+          <w token="nv">
+            <s word-stress="0" line-stress="0">n</s>
+            <s word-stress="1" line-stress="0">v</s>
+          </w>
+          <w token="ter">
+            <s word-stress="1" line-stress="0">ter</s>
+          </w>
+          <w token="stonden">
+            <s word-stress="1" line-stress="0">ston</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="want">
+            <s word-stress="1" line-stress="0">want</s>
+          </w>
+          <w token="der">
+            <s word-stress="1" line-stress="0">der</s>
+          </w>
+          <w token="heyli-ghen">
+            <s word-stress="1" line-stress="0">hey</s>
+            <s word-stress="0" line-stress="0">li-</s>
+            <s word-stress="0" line-stress="0">ghen</s>
+          </w>
+          <w token="hebben">
+            <s word-stress="1" line-stress="0">heb</s>
+            <s word-stress="0" line-stress="0">ben</s>
+          </w>
+          <w token="wy">
+            <s word-stress="1" line-stress="0">wy</s>
+          </w>
+          <w token="ghebreck">
+            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="0">breck</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="onder">
+            <s word-stress="1" line-stress="0">on</s>
+            <s word-stress="0" line-stress="0">der</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="menschen">
+            <s word-stress="1" line-stress="0">men</s>
+            <s word-stress="0" line-stress="0">schen</s>
+          </w>
+          <w token="werden">
+            <s word-stress="1" line-stress="0">wer</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="gheen">
+            <s word-stress="1" line-stress="0">gheen</s>
+          </w>
+          <w token="beuonden">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">uon</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="daer">
+            <s word-stress="1" line-stress="0">daer</s>
+          </w>
+          <w token="trauw">
+            <s word-stress="1" line-stress="0">trauw</s>
+          </w>
+          <w token="syn">
+            <s word-stress="1" line-stress="0">syn</s>
+          </w>
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="herten">
+            <s word-stress="1" line-stress="0">her</s>
+            <s word-stress="0" line-stress="0">ten</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="end">
+            <s word-stress="1" line-stress="0">end</s>
+          </w>
+          <w token="oprecht">
+            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="0" line-stress="0">p</s>
+            <s word-stress="0" line-stress="0">recht</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

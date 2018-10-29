@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>148492</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+      <tag standard-name="passielied" translation="passion song">passielied</tag>
+    </tags>
+    <melody>Psalm 103 Datheen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="immanuël">
+            <s word-stress="1" line-stress="0">im</s>
+            <s word-stress="0" line-stress="0">ma</s>
+            <s word-stress="1" line-stress="0">nuël</s>
+          </w>
+          <w token="!">
+            <s word-stress="None" line-stress="0">!</s>
+          </w>
+          <w token="o">
+            <s word-stress="1" line-stress="0">o</s>
+          </w>
+          <w token="doelwit">
+            <s word-stress="0" line-stress="0">doel</s>
+            <s word-stress="1" line-stress="0">wit</s>
+          </w>
+          <w token="onzer">
+            <s word-stress="0" line-stress="0">on</s>
+            <s word-stress="1" line-stress="0">zer</s>
+          </w>
+          <w token="zangen">
+            <s word-stress="1" line-stress="0">zan</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token="!">
+            <s word-stress="None" line-stress="0">!</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="wij">
+            <s word-stress="1" line-stress="0">wij</s>
+          </w>
+          <w token="schepselen">
+            <s word-stress="0" line-stress="0">schep</s>
+            <s word-stress="1" line-stress="0">se</s>
+            <s word-stress="0" line-stress="0">len</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="wij">
+            <s word-stress="1" line-stress="0">wij</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
+          </w>
+          <w token="aanzijn">
+            <s word-stress="0" line-stress="0">aan</s>
+            <s word-stress="1" line-stress="0">zijn</s>
+          </w>
+          <w token="slechts">
+            <s word-stress="1" line-stress="0">slechts</s>
+          </w>
+          <w token="ontvangen">
+            <s word-stress="0" line-stress="0">ont</s>
+            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="wanneer">
+            <s word-stress="0" line-stress="0">wan</s>
+            <s word-stress="1" line-stress="0">neer</s>
+          </w>
+          <w token="ons">
+            <s word-stress="1" line-stress="0">ons</s>
+          </w>
+          <w token="god">
+            <s word-stress="1" line-stress="0">god</s>
+          </w>
+          <w token="dit">
+            <s word-stress="1" line-stress="0">dit</s>
+          </w>
+          <w token="vlugtig">
+            <s word-stress="1" line-stress="0">vlug</s>
+            <s word-stress="0" line-stress="0">tig</s>
+          </w>
+          <w token="leven">
+            <s word-stress="1" line-stress="0">le</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token="geeft">
+            <s word-stress="1" line-stress="0">geeft</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="wij">
+            <s word-stress="1" line-stress="0">wij</s>
+          </w>
+          <w token="eeren">
+            <s word-stress="1" line-stress="0">ee</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="0">u</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="voor">
+            <s word-stress="1" line-stress="0">voor</s>
+          </w>
+          <w token="ons">
+            <s word-stress="1" line-stress="0">ons</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="'t">
+            <s word-stress="None" line-stress="0">'t</s>
+          </w>
+          <w token="vleesch">
+            <s word-stress="1" line-stress="0">vleesch</s>
+          </w>
+          <w token="geboren">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">bo</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token="hebt">
+            <s word-stress="1" line-stress="0">hebt</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="0">u</s>
+          </w>
+          <w token="zelf">
+            <s word-stress="1" line-stress="0">zelf</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="sterflijkheid">
+            <s word-stress="1" line-stress="0">sterf</s>
+            <s word-stress="0" line-stress="0">lijk</s>
+            <s word-stress="1" line-stress="0">heid</s>
+          </w>
+          <w token="verkoren">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">ko</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l6">
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="eeuwge">
+            <s word-stress="1" line-stress="0">eeuw</s>
+            <s word-stress="0" line-stress="0">ge</s>
+          </w>
+          <w token="!">
+            <s word-stress="None" line-stress="0">!</s>
+          </w>
+          <w token="kiest">
+            <s word-stress="1" line-stress="0">kiest</s>
+          </w>
+          <w token="een">
+            <s word-stress="1" line-stress="0">een</s>
+          </w>
+          <w token="mensch">
+            <s word-stress="1" line-stress="0">mensch</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token="zijn">
+            <s word-stress="1" line-stress="0">zijn</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="leeft">
+            <s word-stress="1" line-stress="0">leeft</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

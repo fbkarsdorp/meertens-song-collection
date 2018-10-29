@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24682</id>
+    <date>
+      <year-start>1473</year-start>
+      <year-end>1473</year-end>
+    </date>
+    <location>
+      <orginal-name>vlaanderen?</orginal-name>
+      <standard-name>Flanders, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0962462</lon>
+        <lat>4.17985128926016</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>Nicolai solemnia</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="jhesus">
+            <s word-stress="1" line-stress="1">jhe</s>
+            <s word-stress="0" line-stress="0">sus</s>
+          </w>
+          <w token="cristus">
+            <s word-stress="1" line-stress="1">cris</s>
+            <s word-stress="0" line-stress="0">tus</s>
+          </w>
+          <w token="marien">
+            <s word-stress="0" line-stress="0">ma</s>
+            <s word-stress="1" line-stress="1">ri</s>
+            <s word-stress="0" line-stress="0">en</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="zoen">
+              <s word-stress="1" line-stress="1">zoen</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l2" met="4" type="-+">
+          <w token="verleene">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">lee</s>
+            <s word-stress="0" line-stress="0">ne</s>
+          </w>
+          <w token="den">
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="levenden">
+            <s word-stress="1" line-stress="1">le</s>
+            <s word-stress="0" line-stress="0">ven</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="wel">
+            <s word-stress="1" line-stress="1">wel</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="doene">
+              <s word-stress="1" line-stress="1">doe</s>
+              <s word-stress="0" line-stress="0">ne</s>
+            </w>
+          </rhyme>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

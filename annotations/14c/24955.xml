@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24955</id>
+    <date>
+      <year-start>1400</year-start>
+      <year-end>1400</year-end>
+    </date>
+    <location>
+      <orginal-name>nederrijngebied? brabant?</orginal-name>
+      <standard-name>Nederrijn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9462323</lon>
+        <lat>5.3880451</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="een">
+            <s word-stress="1" line-stress="0">een</s>
+          </w>
+          <w token="reyne">
+            <s word-stress="1" line-stress="1">rey</s>
+            <s word-stress="0" line-stress="0">ne</s>
+          </w>
+          <w token="liden">
+            <s word-stress="1" line-stress="1">li</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="mit">
+            <s word-stress="1" line-stress="1">mit</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="verdult">
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">dult</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l2" met="4" type="-+">
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <w token="eene">
+            <s word-stress="1" line-stress="1">ee</s>
+            <s word-stress="0" line-stress="0">ne</s>
+          </w>
+          <w token="zake">
+            <s word-stress="1" line-stress="1">za</s>
+            <s word-stress="0" line-stress="0">ke</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="1">die</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="vervult">
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">vult</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l3" met="3" type="-+">
+          <w token="den">
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="menschen">
+            <s word-stress="1" line-stress="1">men</s>
+            <s word-stress="0" line-stress="0">schen</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="goeden">
+            <s word-stress="1" line-stress="1">goe</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <rhyme label="b" type="f">
+            <w token="leven">
+              <s word-stress="1" line-stress="1">le</s>
+              <s word-stress="0" line-stress="0">ven</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="4" type="-+">
+          <w token="wie">
+            <s word-stress="1" line-stress="1">wie</s>
+          </w>
+          <w token="in">
+            <s word-stress="1" line-stress="0">in</s>
+          </w>
+          <w token="liden">
+            <s word-stress="1" line-stress="1">li</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <w token="is">
+            <s word-stress="1" line-stress="0">is</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="onverdult">
+              <s word-stress="1" line-stress="1">on</s>
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">dult</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="4" type="-+">
+          <w token="ende">
+            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="daerin">
+            <s word-stress="1" line-stress="1">daer</s>
+            <s word-stress="0" line-stress="0">in</s>
+          </w>
+          <w token="sinen">
+            <s word-stress="1" line-stress="1">si</s>
+            <s word-stress="0" line-stress="0">nen</s>
+          </w>
+          <w token="god">
+            <s word-stress="1" line-stress="1">god</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="bescult">
+              <s word-stress="0" line-stress="0">be</s>
+              <s word-stress="1" line-stress="1">scult</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l6" met="3" type="-+">
+          <w token="dien">
+            <s word-stress="1" line-stress="0">dien</s>
+          </w>
+          <w token="is">
+            <s word-stress="1" line-stress="1">is</s>
+          </w>
+          <w token="gheen">
+            <s word-stress="1" line-stress="0">gheen</s>
+          </w>
+          <w token="lof">
+            <s word-stress="1" line-stress="1">lof</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <rhyme label="b" type="f" corresp="#s1:l3">
+            <w token="geven">
+              <s word-stress="1" line-stress="1">ge</s>
+              <s word-stress="0" line-stress="0">ven</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

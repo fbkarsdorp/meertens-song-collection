@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>149297</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Wenn mein Stündlein vorhanden ist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="als">
+            <s word-stress="1" line-stress="0">als</s>
+          </w>
+          <w token="ik">
+            <s word-stress="1" line-stress="0">ik</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="wanneer">
+            <s word-stress="0" line-stress="0">wan</s>
+            <s word-stress="1" line-stress="0">neer</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="sterfuur">
+            <s word-stress="1" line-stress="0">ster</s>
+            <s word-stress="1" line-stress="0">fuur</s>
+          </w>
+          <w token="slaat">
+            <s word-stress="1" line-stress="0">slaat</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="het">
+            <s word-stress="1" line-stress="0">het</s>
+          </w>
+          <w token="pad">
+            <s word-stress="1" line-stress="0">pad</s>
+          </w>
+          <w token="des">
+            <s word-stress="1" line-stress="0">des</s>
+          </w>
+          <w token="doods">
+            <s word-stress="1" line-stress="0">doods</s>
+          </w>
+          <w token="betrede">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">tre</s>
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="dan">
+            <s word-stress="1" line-stress="0">dan</s>
+          </w>
+          <w token="gaat">
+            <s word-stress="1" line-stress="0">gaat</s>
+          </w>
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+          <w token="heer">
+            <s word-stress="1" line-stress="0">heer</s>
+          </w>
+          <w token="!">
+            <s word-stress="None" line-stress="0">!</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="toeverlaat">
+            <s word-stress="1" line-stress="0">toe</s>
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="0">laat</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="met">
+            <s word-stress="1" line-stress="0">met</s>
+          </w>
+          <w token="uw">
+            <s word-stress="1" line-stress="0">uw</s>
+          </w>
+          <w token="genade">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">na</s>
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="mede">
+            <s word-stress="1" line-stress="0">me</s>
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token=":">
+            <s word-stress="None" line-stress="0">:</s>
+          </w>
+        </l>
+        <l id="s1:l5">
+          <w token="zijt">
+            <s word-stress="1" line-stress="0">zijt</s>
+          </w>
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="toevlugt">
+            <s word-stress="0" line-stress="0">toevlugt</s>
+          </w>
+          <w token="steeds">
+            <s word-stress="1" line-stress="0">steeds</s>
+          </w>
+          <w token="geweest">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">weest</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l6">
+          <w token="ook">
+            <s word-stress="1" line-stress="0">ook</s>
+          </w>
+          <w token="dan">
+            <s word-stress="1" line-stress="0">dan</s>
+          </w>
+          <w token="beveel">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">veel</s>
+          </w>
+          <w token="ik">
+            <s word-stress="1" line-stress="0">ik</s>
+          </w>
+          <w token="u">
+            <s word-stress="1" line-stress="0">u</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="'">
+            <s word-stress="1" line-stress="0">'</s>
+          </w>
+          <w token="geest">
+            <s word-stress="1" line-stress="0">geest</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l7">
+          <w token="gij">
+            <s word-stress="1" line-stress="0">gij</s>
+          </w>
+          <w token="zult">
+            <s word-stress="1" line-stress="0">zult</s>
+          </w>
+          <w token="hem">
+            <s word-stress="1" line-stress="0">hem</s>
+          </w>
+          <w token="wel">
+            <s word-stress="1" line-stress="0">wel</s>
+          </w>
+          <w token="bewaren">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="0">wa</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

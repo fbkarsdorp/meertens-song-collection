@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24687</id>
+    <date>
+      <year-start>1473</year-start>
+      <year-end>1473</year-end>
+    </date>
+    <location>
+      <orginal-name>vlaanderen?</orginal-name>
+      <standard-name>Flanders, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0962462</lon>
+        <lat>4.17985128926016</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Ik zie de morgenster</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">
+          <w token="maria">
+            <s word-stress="0" line-stress="0">ma</s>
+            <s word-stress="1" line-stress="1">ri</s>
+            <s word-stress="0" line-stress="0">a</s>
+          </w>
+          <rhyme label="a" type="f">
+            <w token="conincinne">
+              <s word-stress="1" line-stress="1">co</s>
+              <s word-stress="0" line-stress="0">nin</s>
+              <s word-stress="1" line-stress="1">cin</s>
+              <s word-stress="0" line-stress="0">ne</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l2" met="3" type="-+">
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <w token="troest">
+            <s word-stress="1" line-stress="1">troest</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="0">mijn</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="toeuerlaet">
+              <s word-stress="1" line-stress="1">toe</s>
+              <s word-stress="0" line-stress="0">uer</s>
+              <s word-stress="0" line-stress="1">laet</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l3" met="3" type="-+">
+          <w token="vercrijcht">
+            <s word-stress="0" line-stress="0">ver</s>
+            <s word-stress="1" line-stress="1">crijcht</s>
+          </w>
+          <w token="my">
+            <s word-stress="1" line-stress="0">my</s>
+          </w>
+          <w token="v">
+            <s word-stress="1" line-stress="1">v</s>
+          </w>
+          <w token="kints">
+            <s word-stress="1" line-stress="0">kints</s>
+          </w>
+          <rhyme label="a" type="f" corresp="#s1:l1">
+            <w token="minne">
+              <s word-stress="1" line-stress="1">min</s>
+              <s word-stress="0" line-stress="0">ne</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l4" met="3" type="-+">
+          <w token="berou">
+            <s word-stress="0" line-stress="0">be</s>
+            <s word-stress="1" line-stress="1">rou</s>
+          </w>
+          <w token="voor">
+            <s word-stress="1" line-stress="0">voor</s>
+          </w>
+          <w token="mijn">
+            <s word-stress="1" line-stress="1">mijn</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l2">
+            <w token="mesdaet">
+              <s word-stress="1" line-stress="0">mes</s>
+              <s word-stress="0" line-stress="1">daet</s>
+            </w>
+          </rhyme>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

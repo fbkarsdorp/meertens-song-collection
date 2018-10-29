@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33710</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ik stond op hoge bergen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">
+          <w token="een">
+            <s word-stress="1" line-stress="0">een</s>
+          </w>
+          <w token="vrouw">
+            <s word-stress="1" line-stress="1">vrouw</s>
+          </w>
+          <w token="met">
+            <s word-stress="1" line-stress="0">met</s>
+          </w>
+          <w token="koorts">
+            <s word-stress="1" line-stress="1">koorts</s>
+          </w>
+          <rhyme label="a" type="f">
+            <w token="bevange">
+              <s word-stress="0" line-stress="0">be</s>
+              <s word-stress="1" line-stress="1">van</s>
+              <s word-stress="0" line-stress="0">ge</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="3" type="-+">
+          <w token="het">
+            <s word-stress="1" line-stress="0">het</s>
+          </w>
+          <w token="petrus">
+            <s word-stress="1" line-stress="1">pe</s>
+            <s word-stress="0" line-stress="0">trus</s>
+          </w>
+          <w token="schoon-moêr">
+            <s word-stress="1" line-stress="1">schoon-</s>
+            <s word-stress="0" line-stress="0">moêr</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="was">
+              <s word-stress="1" line-stress="1">was</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="3" type="-+">
+          <w token="hadt">
+            <s word-stress="1" line-stress="0">hadt</s>
+          </w>
+          <w token="krank">
+            <s word-stress="1" line-stress="1">krank</s>
+          </w>
+          <w token="geleegen">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="1">lee</s>
+            <s word-stress="0" line-stress="0">gen</s>
+          </w>
+          <rhyme label="a" type="f" corresp="#s1:l1">
+            <w token="lange">
+              <s word-stress="1" line-stress="1">lan</s>
+              <s word-stress="0" line-stress="0">ge</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="3" type="-+">
+          <w token="maer">
+            <s word-stress="1" line-stress="0">maer</s>
+          </w>
+          <w token="nu">
+            <s word-stress="1" line-stress="1">nu</s>
+          </w>
+          <w token="geneesden">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="1">nees</s>
+            <s word-stress="0" line-stress="0">den</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l2">
+            <w token="ras">
+              <s word-stress="1" line-stress="1">ras</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

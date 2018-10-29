@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162449</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het vinnige stralen van de zon</melody>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="simson">
+            <s word-stress="1" line-stress="0">sim</s>
+            <s word-stress="0" line-stress="1">son</s>
+          </w>
+          <w token="was">
+            <s word-stress="1" line-stress="0">was</s>
+          </w>
+          <w token="door">
+            <s word-stress="1" line-stress="1">door</s>
+          </w>
+          <w token="en">
+            <s word-stress="1" line-stress="0">en</s>
+          </w>
+          <w token="door">
+            <s word-stress="1" line-stress="1">door</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="door-speckt">
+              <s word-stress="0" line-stress="0">door-</s>
+              <s word-stress="1" line-stress="1">speckt</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l2" met="3" type="-+">
+          <w token="met">
+            <s word-stress="1" line-stress="0">met</s>
+          </w>
+          <w token="kracht">
+            <s word-stress="1" line-stress="1">kracht</s>
+          </w>
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="duysent">
+            <s word-stress="1" line-stress="1">duy</s>
+            <s word-stress="0" line-stress="0">sent</s>
+          </w>
+          <rhyme label="b" type="f">
+            <w token="reusen">
+              <s word-stress="1" line-stress="1">reu</s>
+              <s word-stress="0" line-stress="0">sen</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="4" type="-+">
+          <w token="daer">
+            <s word-stress="1" line-stress="0">daer</s>
+          </w>
+          <w token="hy">
+            <s word-stress="1" line-stress="1">hy</s>
+          </w>
+          <w token="sijn">
+            <s word-stress="1" line-stress="0">sijn</s>
+          </w>
+          <w token="handt">
+            <s word-stress="1" line-stress="1">handt</s>
+          </w>
+          <w token="maer">
+            <s word-stress="1" line-stress="0">maer</s>
+          </w>
+          <w token="henen">
+            <s word-stress="1" line-stress="1">he</s>
+            <s word-stress="0" line-stress="0">nen</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="streckt">
+              <s word-stress="1" line-stress="1">streckt</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="3" type="-+">
+          <w token="moet">
+            <s word-stress="1" line-stress="0">moet</s>
+          </w>
+          <w token="stael">
+            <s word-stress="1" line-stress="1">stael</s>
+          </w>
+          <w token="tot">
+            <s word-stress="1" line-stress="0">tot</s>
+          </w>
+          <w token="stof">
+            <s word-stress="1" line-stress="1">stof</s>
+          </w>
+          <rhyme label="b" type="f" corresp="#s1:l2">
+            <w token="verkneusen">
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">kneu</s>
+              <s word-stress="0" line-stress="0">sen</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

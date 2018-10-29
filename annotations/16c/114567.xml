@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114567</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Een meisje had een ruiter lief</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1">
+          <w token="van">
+            <s word-stress="1" line-stress="0">van</s>
+          </w>
+          <w token="waer">
+            <s word-stress="1" line-stress="0">waer</s>
+          </w>
+          <w token="komt">
+            <s word-stress="1" line-stress="0">komt</s>
+          </w>
+          <w token="phillis">
+            <s word-stress="1" line-stress="0">phil</s>
+            <s word-stress="0" line-stress="0">lis</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="vooghdy">
+            <s word-stress="0" line-stress="0">voogh</s>
+            <s word-stress="1" line-stress="0">dy</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2">
+          <w token="dat">
+            <s word-stress="1" line-stress="0">dat</s>
+          </w>
+          <w token="sy">
+            <s word-stress="1" line-stress="0">sy</s>
+          </w>
+          <w token="mach">
+            <s word-stress="1" line-stress="0">mach</s>
+          </w>
+          <w token="heerschen">
+            <s word-stress="1" line-stress="0">heer</s>
+            <s word-stress="0" line-stress="0">schen</s>
+          </w>
+          <w token="over">
+            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="0" line-stress="0">ver</s>
+          </w>
+          <w token="my">
+            <s word-stress="1" line-stress="0">my</s>
+          </w>
+          <w token="?">
+            <s word-stress="None" line-stress="0">?</s>
+          </w>
+        </l>
+        <l id="s1:l3">
+          <w token="wie">
+            <s word-stress="1" line-stress="0">wie</s>
+          </w>
+          <w token="heeft">
+            <s word-stress="1" line-stress="0">heeft</s>
+          </w>
+          <w token="haer">
+            <s word-stress="1" line-stress="0">haer</s>
+          </w>
+          <w token="macht">
+            <s word-stress="1" line-stress="0">macht</s>
+          </w>
+          <w token="gegeven">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="0">ge</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4">
+          <w token="dat">
+            <s word-stress="1" line-stress="0">dat</s>
+          </w>
+          <w token="sy">
+            <s word-stress="1" line-stress="0">sy</s>
+          </w>
+          <w token="my">
+            <s word-stress="1" line-stress="0">my</s>
+          </w>
+          <w token="dwinght">
+            <s word-stress="1" line-stress="0">dwinght</s>
+          </w>
+          <w token="te">
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token="leven">
+            <s word-stress="1" line-stress="0">le</s>
+            <s word-stress="0" line-stress="0">ven</s>
+          </w>
+          <w token="?">
+            <s word-stress="None" line-stress="0">?</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

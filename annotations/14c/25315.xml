@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25315</id>
+    <date>
+      <year-start>1487</year-start>
+      <year-end>1487</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="coutste">
+            <s word-stress="1" line-stress="1">cout</s>
+            <s word-stress="0" line-stress="0">ste</s>
+          </w>
+          <w token="nacht">
+            <s word-stress="1" line-stress="1">nacht</s>
+          </w>
+          <w token="die">
+            <s word-stress="1" line-stress="0">die</s>
+          </w>
+          <w token="oit">
+            <s word-stress="1" line-stress="1">oit</s>
+          </w>
+          <rhyme label="a" type="m">
+            <w token="gewaert">
+              <s word-stress="0" line-stress="0">ge</s>
+              <s word-stress="1" line-stress="1">waert</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l2" met="3" type="-+">
+          <w token="o">
+            <s word-stress="1" line-stress="0">o</s>
+          </w>
+          <w token="virgo">
+            <s word-stress="1" line-stress="1">vir</s>
+            <s word-stress="0" line-stress="0">go</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="maria">
+              <s word-stress="1" line-stress="1">ma</s>
+              <s word-stress="0" line-stress="0">ri</s>
+              <s word-stress="1" line-stress="1">a</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l3" met="4" type="-+">
+          <w token="dat">
+            <s word-stress="1" line-stress="0">dat</s>
+          </w>
+          <w token="was">
+            <s word-stress="1" line-stress="1">was</s>
+          </w>
+          <w token="doen">
+            <s word-stress="1" line-stress="0">doen</s>
+          </w>
+          <w token="jhesus">
+            <s word-stress="1" line-stress="1">jhe</s>
+            <s word-stress="0" line-stress="0">sus</s>
+          </w>
+          <w token="geboren">
+            <s word-stress="0" line-stress="0">ge</s>
+            <s word-stress="1" line-stress="1">bo</s>
+            <s word-stress="0" line-stress="0">ren</s>
+          </w>
+          <rhyme label="a" type="m" corresp="#s1:l1">
+            <w token="was">
+              <s word-stress="1" line-stress="1">was</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l4" met="8" type="+-">
+          <w token="domine">
+            <s word-stress="1" line-stress="1">do</s>
+            <s word-stress="0" line-stress="0">mi</s>
+            <s word-stress="1" line-stress="1">ne</s>
+          </w>
+          <w token="fulgencia">
+            <s word-stress="0" line-stress="0">ful</s>
+            <s word-stress="1" line-stress="1">gen</s>
+            <s word-stress="0" line-stress="0">ci</s>
+            <s word-stress="1" line-stress="1">a</s>
+          </w>
+          <w token="ave">
+            <s word-stress="1" line-stress="0">a</s>
+            <s word-stress="0" line-stress="0">ve</s>
+          </w>
+          <w token="plena">
+            <s word-stress="1" line-stress="1">ple</s>
+            <s word-stress="0" line-stress="0">na</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l2">
+            <w token="gracia">
+              <s word-stress="1" line-stress="1">gra</s>
+              <s word-stress="0" line-stress="0">ci</s>
+              <s word-stress="1" line-stress="1">a</s>
+            </w>
+          </rhyme>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>

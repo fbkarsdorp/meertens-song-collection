@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183953</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  </meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">
+          <w token="un">
+            <s word-stress="0" line-stress="1">un</s>
+          </w>
+          <w token="digne">
+            <s word-stress="1" line-stress="0">dig</s>
+            <s word-stress="0" line-stress="0">ne</s>
+          </w>
+          <w token="maître">
+            <s word-stress="1" line-stress="1">maî</s>
+            <s word-stress="0" line-stress="0">tre</s>
+          </w>
+          <w token="nous">
+            <s word-stress="1" line-stress="1">nous</s>
+          </w>
+          <rhyme label="a" type="f">
+            <w token="rassemble">
+              <s word-stress="0" line-stress="0">ras</s>
+              <s word-stress="1" line-stress="1">sem</s>
+              <s word-stress="0" line-stress="0">ble</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l2" met="4" type="-+">
+          <w token="pour">
+            <s word-stress="1" line-stress="0">pour</s>
+          </w>
+          <w token="nous">
+            <s word-stress="1" line-stress="1">nous</s>
+          </w>
+          <w token="instruire">
+            <s word-stress="0" line-stress="0">in</s>
+            <s word-stress="1" line-stress="1">strui</s>
+            <s word-stress="0" line-stress="0">re</s>
+          </w>
+          <w token="tous">
+            <s word-stress="1" line-stress="1">tous</s>
+          </w>
+          <rhyme label="a" type="f" corresp="#s1:l1">
+            <w token="ensemble">
+              <s word-stress="0" line-stress="0">en</s>
+              <s word-stress="1" line-stress="1">sem</s>
+              <s word-stress="0" line-stress="0">ble</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+        <l id="s1:l3" met="4" type="-+">
+          <w token="c'est">
+            <s word-stress="1" line-stress="0">c'est</s>
+          </w>
+          <w token="le">
+            <s word-stress="1" line-stress="1">le</s>
+          </w>
+          <w token="devoir">
+            <s word-stress="0" line-stress="0">de</s>
+            <s word-stress="1" line-stress="1">voir</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="tout">
+            <s word-stress="1" line-stress="1">tout</s>
+          </w>
+          <rhyme label="b" type="m">
+            <w token="maçon">
+              <s word-stress="0" line-stress="0">ma</s>
+              <s word-stress="1" line-stress="1">çon</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l4" met="4" type="-+">
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <w token="célébrer">
+            <s word-stress="1" line-stress="1">célé</s>
+            <s word-stress="0" line-stress="0">brer</s>
+          </w>
+          <w token="ici">
+            <s word-stress="0" line-stress="1">i</s>
+            <s word-stress="1" line-stress="0">ci</s>
+          </w>
+          <w token="son">
+            <s word-stress="1" line-stress="1">son</s>
+          </w>
+          <rhyme label="b" type="m" corresp="#s1:l3">
+            <w token="nom">
+              <s word-stress="1" line-stress="1">nom</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+        <l id="s1:l5" met="4" type="-+">
+          <w token="il">
+            <s word-stress="1" line-stress="0">il</s>
+          </w>
+          <w token="porte">
+            <s word-stress="1" line-stress="1">por</s>
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <w token="devant">
+            <s word-stress="0" line-stress="0">de</s>
+            <s word-stress="1" line-stress="1">vant</s>
+          </w>
+          <w token="lui">
+            <s word-stress="1" line-stress="1">lui</s>
+          </w>
+          <rhyme label="c" type="f">
+            <w token="l'équerre">
+              <s word-stress="0" line-stress="0">l'é</s>
+              <s word-stress="1" line-stress="1">quer</s>
+              <s word-stress="0" line-stress="0">re</s>
+            </w>
+          </rhyme>
+          <w token=",">
+            <s word-stress="None" line-stress="0">,</s>
+          </w>
+        </l>
+        <l id="s1:l6" met="4" type="-+">
+          <w token="vrai">
+            <s word-stress="1" line-stress="1">vrai</s>
+          </w>
+          <w token="symbole">
+            <s word-stress="0" line-stress="0">sym</s>
+            <s word-stress="1" line-stress="1">bo</s>
+            <s word-stress="0" line-stress="1">le</s>
+          </w>
+          <w token="de">
+            <s word-stress="0" line-stress="0">de</s>
+          </w>
+          <rhyme label="d" type="m">
+            <w token="l'équité">
+              <s word-stress="1" line-stress="1">l'é</s>
+              <s word-stress="0" line-stress="0">quité</s>
+            </w>
+          </rhyme>
+          <w token=";">
+            <s word-stress="None" line-stress="0">;</s>
+          </w>
+        </l>
+        <l id="s1:l7" met="4" type="-+">
+          <w token="il">
+            <s word-stress="1" line-stress="1">il</s>
+          </w>
+          <w token="est">
+            <s word-stress="1" line-stress="0">est</s>
+          </w>
+          <w token="la">
+            <s word-stress="1" line-stress="0">la</s>
+          </w>
+          <w token="brillante">
+            <s word-stress="1" line-stress="0">bril</s>
+            <s word-stress="1" line-stress="1">lan</s>
+            <s word-stress="0" line-stress="0">te</s>
+          </w>
+          <rhyme label="c" type="f" corresp="#s1:l5">
+            <w token="lumière">
+              <s word-stress="0" line-stress="1">lu</s>
+              <s word-stress="1" line-stress="1">miè</s>
+              <s word-stress="0" line-stress="0">re</s>
+            </w>
+          </rhyme>
+        </l>
+        <l id="s1:l8" met="4" type="-+">
+          <w token="qui">
+            <s word-stress="1" line-stress="1">qui</s>
+          </w>
+          <w token="nous">
+            <s word-stress="1" line-stress="0">nous</s>
+          </w>
+          <w token="montre">
+            <s word-stress="1" line-stress="1">mon</s>
+            <s word-stress="0" line-stress="0">tre</s>
+          </w>
+          <w token="la">
+            <s word-stress="1" line-stress="1">la</s>
+          </w>
+          <rhyme label="d" type="m" corresp="#s1:l6">
+            <w token="vérité">
+              <s word-stress="1" line-stress="1">vérité</s>
+            </w>
+          </rhyme>
+          <w token=".">
+            <s word-stress="None" line-stress="0">.</s>
+          </w>
+        </l>
+      </lg>
+    </lg>
+  </text>
+</song>
