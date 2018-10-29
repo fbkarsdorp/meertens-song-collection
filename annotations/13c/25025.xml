@@ -53,7 +53,7 @@
           <w token="erzeigeten">
             <s word-stress="0" line-stress="0">er</s>
             <s word-stress="1" line-stress="1">zei</s>
-            <s word-stress="1" line-stress="0">ge</s>
+            <s word-stress="0" line-stress="0">ge</s>
             <s word-stress="0" line-stress="0">ten</s>
           </w>
           <w token="manig">
@@ -99,10 +99,10 @@
           <w token="tuegete">
             <s word-stress="1" line-stress="1">tue</s>
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="0" line-stress="1">te</s>
+            <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="sint">
-            <s word-stress="1" line-stress="0">sint</s>
+            <s word-stress="1" line-stress="1">sint</s>
           </w>
           <w token="an">
             <s word-stress="1" line-stress="0">an</s>
@@ -123,10 +123,10 @@
             <s word-stress="1" line-stress="0">dur</s>
           </w>
           <w token="das">
-            <s word-stress="1" line-stress="1">das</s>
+            <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="wan">
-            <s word-stress="1" line-stress="0">wan</s>
+            <s word-stress="1" line-stress="1">wan</s>
           </w>
           <w token="si">
             <s word-stress="1" line-stress="0">si</s>
@@ -183,10 +183,10 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="vns">
-            <s word-stress="None" line-stress="1">vns</s>
+            <s word-stress="None" line-stress="0">vns</s>
           </w>
           <w token="got">
-            <s word-stress="1" line-stress="0">got</s>
+            <s word-stress="1" line-stress="1">got</s>
           </w>
           <w token="wt">
             <s word-stress="1" line-stress="0">wt</s>
@@ -195,11 +195,11 @@
             <s word-stress="1" line-stress="1">schat</s>
           </w>
           <w token="im">
-            <s word-stress="1" line-stress="1">im</s>
+            <s word-stress="1" line-stress="0">im</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="das">
-              <s word-stress="1" line-stress="0">das</s>
+              <s word-stress="1" line-stress="1">das</s>
             </w>
           </rhyme>
         </l>
