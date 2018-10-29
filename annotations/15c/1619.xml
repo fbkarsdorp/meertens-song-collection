@@ -52,17 +52,17 @@
             <s word-stress="1" line-stress="0">ic</s>
           </w>
           <w token="songhe">
-            <s word-stress="1" line-stress="0">son</s>
+            <s word-stress="1" line-stress="1">son</s>
             <s word-stress="0" line-stress="0">ghe</s>
           </w>
           <w token="hem">
-            <s word-stress="1" line-stress="1">hem</s>
+            <s word-stress="1" line-stress="0">hem</s>
           </w>
           <w token="een">
-            <s word-stress="1" line-stress="0">een</s>
+            <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="nieuwe">
-            <s word-stress="0" line-stress="1">nieu</s>
+            <s word-stress="1" line-stress="0">nieu</s>
             <s word-stress="0" line-stress="0">we</s>
           </w>
           <rhyme label="b" type="m">
@@ -82,10 +82,10 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="mijn">
-            <s word-stress="1" line-stress="1">mijn</s>
+            <s word-stress="1" line-stress="0">mijn</s>
           </w>
           <w token="vrouwe">
-            <s word-stress="1" line-stress="0">vrou</s>
+            <s word-stress="1" line-stress="1">vrou</s>
             <s word-stress="0" line-stress="0">we</s>
           </w>
           <w token="van">
@@ -111,8 +111,8 @@
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="lantsheere">
-            <s word-stress="1" line-stress="0">lant</s>
-            <s word-stress="0" line-stress="1">shee</s>
+            <s word-stress="1" line-stress="0">lants</s>
+            <s word-stress="0" line-stress="1">hee</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
