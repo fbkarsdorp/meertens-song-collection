@@ -32,9 +32,9 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="lustelicke">
-            <s word-stress="1" line-stress="0">lus</s>
+            <s word-stress="1" line-stress="1">lus</s>
             <s word-stress="0" line-stress="0">te</s>
-            <s word-stress="1" line-stress="1">lic</s>
+            <s word-stress="1" line-stress="0">lic</s>
             <s word-stress="0" line-stress="0">ke</s>
           </w>
           <w token="mey">
@@ -44,10 +44,10 @@
             <s word-stress="1" line-stress="0">is</s>
           </w>
           <w token="nu">
-            <s word-stress="1" line-stress="0">nu</s>
+            <s word-stress="1" line-stress="1">nu</s>
           </w>
           <w token="inden">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <rhyme label="a" type="m">
@@ -95,7 +95,7 @@
             <s word-stress="0" line-stress="0">wen</s>
           </w>
           <w token="ghy">
-            <s word-stress="1" line-stress="1">ghy</s>
+            <s word-stress="1" line-stress="0">ghy</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
@@ -105,12 +105,12 @@
             <s word-stress="0" line-stress="0">nus</s>
           </w>
           <w token="dienaers">
-            <s word-stress="0" line-stress="0">die</s>
-            <s word-stress="1" line-stress="0">naers</s>
+            <s word-stress="1" line-stress="0">die</s>
+            <s word-stress="0" line-stress="0">naers</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="zijt">
-              <s word-stress="1" line-stress="0">zijt</s>
+              <s word-stress="1" line-stress="1">zijt</s>
             </w>
           </rhyme>
         </l>
@@ -164,10 +164,10 @@
             <s word-stress="0" line-stress="0">nich</s>
           </w>
           <w token="cleyn">
-            <s word-stress="1" line-stress="1">cleyn</s>
+            <s word-stress="1" line-stress="0">cleyn</s>
           </w>
           <w token="voghelken">
-            <s word-stress="1" line-stress="0">vo</s>
+            <s word-stress="1" line-stress="1">vo</s>
             <s word-stress="0" line-stress="0">ghel</s>
             <s word-stress="0" line-stress="0">ken</s>
           </w>
@@ -185,16 +185,16 @@
             <s word-stress="1" line-stress="0">sijn</s>
           </w>
           <w token="sanck">
-            <s word-stress="1" line-stress="0">sanck</s>
+            <s word-stress="1" line-stress="1">sanck</s>
           </w>
           <w token="is">
-            <s word-stress="1" line-stress="1">is</s>
+            <s word-stress="1" line-stress="0">is</s>
           </w>
           <w token="soet">
-            <s word-stress="1" line-stress="0">soet</s>
+            <s word-stress="1" line-stress="1">soet</s>
           </w>
           <w token="om">
-            <s word-stress="1" line-stress="1">om</s>
+            <s word-stress="1" line-stress="0">om</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
