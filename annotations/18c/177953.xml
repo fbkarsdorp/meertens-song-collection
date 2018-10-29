@@ -32,10 +32,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="kom">
-            <s word-stress="1" line-stress="1">kom</s>
+            <s word-stress="1" line-stress="0">kom</s>
           </w>
           <w token="hier">
-            <s word-stress="1" line-stress="0">hier</s>
+            <s word-stress="1" line-stress="1">hier</s>
           </w>
           <w token="eens">
             <s word-stress="1" line-stress="0">eens</s>
@@ -47,10 +47,10 @@
             <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="hoort">
-            <s word-stress="1" line-stress="0">hoort</s>
+            <s word-stress="1" line-stress="1">hoort</s>
           </w>
           <w token="mij">
-            <s word-stress="1" line-stress="1">mij</s>
+            <s word-stress="1" line-stress="0">mij</s>
           </w>
           <w token="dan">
             <s word-stress="1" line-stress="0">dan</s>
@@ -69,7 +69,7 @@
             <s word-stress="1" line-stress="0">ik</s>
           </w>
           <w token="zal">
-            <s word-stress="1" line-stress="0">zal</s>
+            <s word-stress="1" line-stress="1">zal</s>
           </w>
           <w token="u">
             <s word-stress="1" line-stress="0">u</s>
@@ -82,13 +82,13 @@
             <s word-stress="0" line-stress="0">gen</s>
           </w>
           <w token="wat">
-            <s word-stress="1" line-stress="1">wat</s>
+            <s word-stress="1" line-stress="0">wat</s>
           </w>
           <w token="er">
-            <s word-stress="1" line-stress="0">er</s>
+            <s word-stress="1" line-stress="1">er</s>
           </w>
           <w token="moet">
-            <s word-stress="1" line-stress="1">moet</s>
+            <s word-stress="1" line-stress="0">moet</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="gedaan">
@@ -105,10 +105,10 @@
             <s word-stress="1" line-stress="0">gij</s>
           </w>
           <w token="komt">
-            <s word-stress="1" line-stress="0">komt</s>
+            <s word-stress="1" line-stress="1">komt</s>
           </w>
           <w token="hier">
-            <s word-stress="1" line-stress="1">hier</s>
+            <s word-stress="1" line-stress="0">hier</s>
           </w>
           <w token="met">
             <s word-stress="1" line-stress="0">met</s>
@@ -149,10 +149,10 @@
             <s word-stress="1" line-stress="0">nu</s>
           </w>
           <w token="eens">
-            <s word-stress="1" line-stress="0">eens</s>
+            <s word-stress="1" line-stress="1">eens</s>
           </w>
           <w token="wat">
-            <s word-stress="1" line-stress="1">wat</s>
+            <s word-stress="1" line-stress="0">wat</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
