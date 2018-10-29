@@ -30,10 +30,10 @@
             <s word-stress="1" line-stress="0">was</s>
           </w>
           <w token="gheit">
-            <s word-stress="1" line-stress="0">gheit</s>
+            <s word-stress="1" line-stress="1">gheit</s>
           </w>
           <w token="vor">
-            <s word-stress="1" line-stress="1">vor</s>
+            <s word-stress="1" line-stress="0">vor</s>
           </w>
           <w token="werde">
             <s word-stress="1" line-stress="1">wer</s>
@@ -61,8 +61,8 @@
             <w token="ogenbliche">
               <s word-stress="1" line-stress="1">o</s>
               <s word-stress="0" line-stress="0">gen</s>
-              <s word-stress="1" line-stress="1">bli</s>
-              <s word-stress="0" line-stress="0">che</s>
+              <s word-stress="1" line-stress="1">blic</s>
+              <s word-stress="0" line-stress="0">he</s>
             </w>
           </rhyme>
           <w token="?">
@@ -110,8 +110,8 @@
           </w>
           <rhyme label="b" type="f" corresp="#s1:l2">
             <w token="diche">
-              <s word-stress="1" line-stress="1">di</s>
-              <s word-stress="0" line-stress="0">che</s>
+              <s word-stress="1" line-stress="1">dic</s>
+              <s word-stress="0" line-stress="0">he</s>
             </w>
           </rhyme>
           <w token=".">
@@ -175,16 +175,16 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="das">
-            <s word-stress="1" line-stress="1">das</s>
+            <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="dich">
-            <s word-stress="1" line-stress="0">dich</s>
+            <s word-stress="1" line-stress="1">dich</s>
           </w>
           <w token="ein">
-            <s word-stress="1" line-stress="1">ein</s>
+            <s word-stress="1" line-stress="0">ein</s>
           </w>
           <w token="goet">
-            <s word-stress="1" line-stress="0">goet</s>
+            <s word-stress="1" line-stress="1">goet</s>
           </w>
           <w token="wijf">
             <s word-stress="1" line-stress="0">wijf</s>
@@ -240,8 +240,8 @@
           </w>
           <rhyme label="b" type="f" corresp="#s1:l2">
             <w token="strijche">
-              <s word-stress="1" line-stress="1">strij</s>
-              <s word-stress="0" line-stress="0">che</s>
+              <s word-stress="1" line-stress="1">strijc</s>
+              <s word-stress="0" line-stress="0">he</s>
             </w>
           </rhyme>
           <w token=".">
