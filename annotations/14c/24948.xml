@@ -51,10 +51,10 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="dey">
-            <s word-stress="1" line-stress="1">dey</s>
+            <s word-stress="1" line-stress="0">dey</s>
           </w>
           <w token="mir">
-            <s word-stress="1" line-stress="0">mir</s>
+            <s word-stress="1" line-stress="1">mir</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="0">van</s>
@@ -79,10 +79,10 @@
         </l>
         <l id="s1:l3" met="3" type="-+">
           <w token="zo">
-            <s word-stress="1" line-stress="1">zo</s>
+            <s word-stress="1" line-stress="0">zo</s>
           </w>
           <w token="bystu">
-            <s word-stress="1" line-stress="0">bys</s>
+            <s word-stress="1" line-stress="1">bys</s>
             <s word-stress="0" line-stress="0">tu</s>
           </w>
           <w token="eyne">
@@ -131,15 +131,16 @@
         </l>
         <l id="s1:l5" met="3" type="-+">
           <w token="edel">
-            <s word-stress="1" line-stress="0">e</s>
+            <s word-stress="1" line-stress="1">e</s>
             <s word-stress="0" line-stress="0">del</s>
           </w>
           <w token="unde">
-            <s word-stress="1" line-stress="0">un</s>
+            <s word-stress="1" line-stress="1">un</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="rijche">
-            <s word-stress="0" line-stress="0">rijche</s>
+            <s word-stress="1" line-stress="1">rij</s>
+            <s word-stress="0" line-stress="0">che</s>
           </w>
           <w token="zynt">
             <s word-stress="1" line-stress="1">zynt</s>
@@ -161,7 +162,7 @@
         </l>
         <l id="s1:l6" met="3" type="-+">
           <w token="darzu">
-            <s word-stress="0" line-stress="0">dar</s>
+            <s word-stress="0" line-stress="1">dar</s>
             <s word-stress="1" line-stress="0">zu</s>
           </w>
           <w token="traghent">
@@ -186,14 +187,14 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="lichte">
-            <s word-stress="1" line-stress="1">lich</s>
+            <s word-stress="1" line-stress="0">lich</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="sint">
             <s word-stress="1" line-stress="1">sint</s>
           </w>
           <w token="zi">
-            <s word-stress="1" line-stress="1">zi</s>
+            <s word-stress="1" line-stress="0">zi</s>
           </w>
           <rhyme label="d" type="m">
             <w token="besser">
@@ -207,13 +208,13 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="du">
-            <s word-stress="1" line-stress="1">du</s>
+            <s word-stress="1" line-stress="0">du</s>
           </w>
           <w token="bist">
             <s word-stress="1" line-stress="1">bist</s>
           </w>
           <w token="aber">
-            <s word-stress="1" line-stress="1">a</s>
+            <s word-stress="1" line-stress="0">a</s>
             <s word-stress="0" line-stress="0">ber</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l7">
