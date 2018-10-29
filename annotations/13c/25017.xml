@@ -166,8 +166,8 @@
         </l>
         <l id="s1:l6" met="5" type="-+">
           <w token="wacharme">
-            <s word-stress="0" line-stress="0">wa</s>
-            <s word-stress="1" line-stress="1">char</s>
+            <s word-stress="0" line-stress="0">wach</s>
+            <s word-stress="1" line-stress="1">ar</s>
             <s word-stress="0" line-stress="0">me</s>
           </w>
           <w token=",">
@@ -189,11 +189,11 @@
             <s word-stress="0" line-stress="0">les</s>
           </w>
           <w token="doen">
-            <s word-stress="1" line-stress="1">doen</s>
+            <s word-stress="1" line-stress="0">doen</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="niet">
-              <s word-stress="1" line-stress="0">niet</s>
+              <s word-stress="1" line-stress="1">niet</s>
             </w>
           </rhyme>
           <w token=".">
@@ -225,10 +225,10 @@
         </l>
         <l id="s1:l8" met="3" type="-+">
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="haer">
-            <s word-stress="1" line-stress="0">haer</s>
+            <s word-stress="1" line-stress="1">haer</s>
           </w>
           <w token="prisoen">
             <s word-stress="0" line-stress="0">pri</s>
