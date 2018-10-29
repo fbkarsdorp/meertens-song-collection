@@ -113,14 +113,14 @@
             <s word-stress="1" line-stress="1">brui</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="1">van</s>
+            <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="'t">
             <s word-stress="None" line-stress="0">'t</s>
           </w>
           <rhyme label="b" type="f">
             <w token="lopen">
-              <s word-stress="1" line-stress="0">lo</s>
+              <s word-stress="1" line-stress="1">lo</s>
               <s word-stress="0" line-stress="0">pen</s>
             </w>
           </rhyme>
@@ -130,18 +130,18 @@
         </l>
         <l id="s1:l4" met="4" type="-+">
           <w token="zyn">
-            <s word-stress="1" line-stress="1">zyn</s>
+            <s word-stress="1" line-stress="0">zyn</s>
           </w>
           <w token="pegasus">
-            <s word-stress="1" line-stress="0">pe</s>
-            <s word-stress="0" line-stress="1">ga</s>
-            <s word-stress="1" line-stress="0">sus</s>
+            <s word-stress="1" line-stress="1">pe</s>
+            <s word-stress="0" line-stress="0">ga</s>
+            <s word-stress="1" line-stress="1">sus</s>
           </w>
           <w token="stond">
-            <s word-stress="1" line-stress="1">stond</s>
+            <s word-stress="1" line-stress="0">stond</s>
           </w>
           <w token="reeds">
-            <s word-stress="1" line-stress="0">reeds</s>
+            <s word-stress="1" line-stress="1">reeds</s>
           </w>
           <rhyme label="c" type="m">
             <w token="gezaâld">
@@ -187,16 +187,16 @@
         </l>
         <l id="s1:l6" met="3" type="-+">
           <w token="stond">
-            <s word-stress="1" line-stress="1">stond</s>
+            <s word-stress="1" line-stress="0">stond</s>
           </w>
           <w token="reeds">
-            <s word-stress="1" line-stress="0">reeds</s>
+            <s word-stress="1" line-stress="1">reeds</s>
           </w>
           <w token="de">
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="staldeur">
-            <s word-stress="0" line-stress="1">stal</s>
+            <s word-stress="1" line-stress="1">stal</s>
             <s word-stress="1" line-stress="0">deur</s>
           </w>
           <rhyme label="b" type="f" corresp="#s1:l3">
