@@ -57,8 +57,8 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="waeromme">
-            <s word-stress="1" line-stress="1">wae</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="0" line-stress="0">waer</s>
+            <s word-stress="1" line-stress="1">om</s>
             <s word-stress="0" line-stress="0">me</s>
           </w>
           <w token="quetst">
@@ -121,8 +121,8 @@
             <s word-stress="1" line-stress="0">of</s>
           </w>
           <w token="waerom">
-            <s word-stress="1" line-stress="1">wae</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="0" line-stress="1">waer</s>
+            <s word-stress="1" line-stress="0">om</s>
           </w>
           <w token="geeft">
             <s word-stress="1" line-stress="1">geeft</s>
