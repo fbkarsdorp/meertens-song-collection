@@ -35,11 +35,11 @@
           </w>
           <w token="kostlijk">
             <s word-stress="1" line-stress="1">kost</s>
-            <s word-stress="1" line-stress="1">lijk</s>
+            <s word-stress="0" line-stress="0">lijk</s>
           </w>
           <rhyme label="a" type="m">
             <w token="ding">
-              <s word-stress="1" line-stress="0">ding</s>
+              <s word-stress="1" line-stress="1">ding</s>
             </w>
           </rhyme>
           <w token="!">
@@ -78,7 +78,7 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="-">
-            <s word-stress="1" line-stress="0">-</s>
+            <s word-stress="None" line-stress="0">-</s>
           </w>
         </l>
         <l id="s1:l3" met="4" type="+-">
@@ -143,7 +143,7 @@
             <s word-stress="None" line-stress="0">!</s>
           </w>
           <w token="-">
-            <s word-stress="1" line-stress="0">-</s>
+            <s word-stress="None" line-stress="0">-</s>
           </w>
           <w token="zoo">
             <s word-stress="1" line-stress="1">zoo</s>
@@ -191,7 +191,7 @@
             </w>
           </rhyme>
           <w token="...">
-            <s word-stress="1" line-stress="0">...</s>
+            <s word-stress="None" line-stress="0">...</s>
           </w>
         </l>
         <l id="s1:l7" met="4" type="+-">
@@ -238,7 +238,7 @@
             <s word-stress="0" line-stress="0">ger</s>
           </w>
           <w token="...">
-            <s word-stress="1" line-stress="0">...</s>
+            <s word-stress="None" line-stress="0">...</s>
           </w>
           <w token="kort">
             <s word-stress="1" line-stress="1">kort</s>
