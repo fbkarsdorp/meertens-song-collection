@@ -31,20 +31,19 @@
             <s word-stress="1" line-stress="0">ben</s>
           </w>
           <w token="ik">
-            <s word-stress="1" line-stress="0">ik</s>
+            <s word-stress="1" line-stress="1">ik</s>
           </w>
           <rhyme label="a" type="m">
             <w token="eylaas">
-              <s word-stress="1" line-stress="1">ey</s>
-              <s word-stress="0" line-stress="0">la</s>
-              <s word-stress="1" line-stress="1">as</s>
+              <s word-stress="0" line-stress="0">ey</s>
+              <s word-stress="1" line-stress="1">laas</s>
             </w>
           </rhyme>
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="elendig">
             <s word-stress="0" line-stress="0">e</s>
-            <s word-stress="0" line-stress="1">len</s>
+            <s word-stress="1" line-stress="1">len</s>
             <s word-stress="0" line-stress="0">dig</s>
           </w>
           <w token="toe">
