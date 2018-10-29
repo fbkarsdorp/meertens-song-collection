@@ -94,11 +94,11 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="1">in</s>
+            <s word-stress="1" line-stress="0">in</s>
           </w>
           <w token="cortzin">
-            <s word-stress="0" line-stress="0">cort</s>
-            <s word-stress="1" line-stress="0">zin</s>
+            <s word-stress="1" line-stress="1">cort</s>
+            <s word-stress="0" line-stress="0">zin</s>
           </w>
           <w token="ziden">
             <s word-stress="1" line-stress="1">zi</s>
@@ -116,10 +116,10 @@
         <l id="s1:l4" met="3" type="-+">
           <w token="helpes">
             <s word-stress="1" line-stress="1">hel</s>
-            <s word-stress="0" line-stress="1">pes</s>
+            <s word-stress="0" line-stress="0">pes</s>
           </w>
           <w token="mer">
-            <s word-stress="1" line-stress="0">mer</s>
+            <s word-stress="1" line-stress="1">mer</s>
           </w>
           <w token="nicht">
             <s word-stress="1" line-stress="0">nicht</s>
@@ -156,7 +156,7 @@
             <w token="vogelin">
               <s word-stress="1" line-stress="1">vo</s>
               <s word-stress="0" line-stress="0">ge</s>
-              <s word-stress="1" line-stress="1">lin</s>
+              <s word-stress="0" line-stress="1">lin</s>
             </w>
           </rhyme>
           <w token=",">
@@ -168,23 +168,14 @@
             <s word-stress="1" line-stress="0">das</s>
           </w>
           <w token="ir">
-            <s word-stress="1" line-stress="0">ir</s>
+            <s word-stress="1" line-stress="1">ir</s>
           </w>
           <w token="laest">
             <s word-stress="1" line-stress="0">laest</s>
           </w>
-          <w token="uwer">
+          <w token="uwer(r)">
             <s word-stress="1" line-stress="1">u</s>
-            <s word-stress="0" line-stress="0">wer</s>
-          </w>
-          <w token="(">
-            <s word-stress="1" line-stress="0">(</s>
-          </w>
-          <w token="r">
-            <s word-stress="1" line-stress="1">r</s>
-          </w>
-          <w token=")">
-            <s word-stress="1" line-stress="0">)</s>
+            <s word-stress="0" line-stress="0">wer(r)</s>
           </w>
           <w token="singen">
             <s word-stress="1" line-stress="1">sin</s>
