@@ -50,8 +50,7 @@
           </w>
           <w token="gewenschten">
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="1">wen</s>
-            <s word-stress="0" line-stress="0">sch</s>
+            <s word-stress="1" line-stress="1">wensch</s>
             <s word-stress="0" line-stress="0">ten</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
@@ -167,24 +166,21 @@
         </l>
         <l id="s1:l8" met="3" type="-+">
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="naer">
-            <s word-stress="1" line-stress="0">naer</s>
+            <s word-stress="1" line-stress="1">naer</s>
           </w>
-          <w token="uw">
-            <s word-stress="1" line-stress="1">uw</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="uw'">
+            <s word-stress="1" line-stress="0">uw'</s>
           </w>
           <w token="menscheydt">
-            <s word-stress="1" line-stress="0">men</s>
-            <s word-stress="1" line-stress="1">scheydt</s>
+            <s word-stress="1" line-stress="1">mens</s>
+            <s word-stress="0" line-stress="0">cheydt</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l7">
             <w token="haekt">
-              <s word-stress="1" line-stress="0">haekt</s>
+              <s word-stress="1" line-stress="1">haekt</s>
             </w>
           </rhyme>
           <w token=".">
