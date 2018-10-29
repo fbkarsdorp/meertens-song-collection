@@ -35,8 +35,8 @@
           </w>
           <rhyme label="a" type="f">
             <w token="troosje">
-              <s word-stress="1" line-stress="1">troo</s>
-              <s word-stress="0" line-stress="0">sje</s>
+              <s word-stress="1" line-stress="1">troos</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -53,8 +53,8 @@
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="roosje">
-              <s word-stress="1" line-stress="1">roo</s>
-              <s word-stress="0" line-stress="0">sje</s>
+              <s word-stress="1" line-stress="1">roos</s>
+              <s word-stress="0" line-stress="0">je</s>
             </w>
           </rhyme>
           <w token=",">
@@ -112,8 +112,7 @@
           <rhyme label="c" type="f">
             <w token="genuchjes">
               <s word-stress="0" line-stress="0">ge</s>
-              <s word-stress="1" line-stress="0">nu</s>
-              <s word-stress="1" line-stress="1">ch</s>
+              <s word-stress="1" line-stress="1">nuch</s>
               <s word-stress="0" line-stress="0">jes</s>
             </w>
           </rhyme>
@@ -131,8 +130,7 @@
           </w>
           <rhyme label="c" type="f" corresp="#s1:l5">
             <w token="kluchjes">
-              <s word-stress="0" line-stress="0">klu</s>
-              <s word-stress="1" line-stress="1">ch</s>
+              <s word-stress="1" line-stress="1">kluch</s>
               <s word-stress="0" line-stress="0">jes</s>
             </w>
           </rhyme>
@@ -160,9 +158,8 @@
         </l>
         <l id="s1:l8" met="3" type="-+">
           <w token="waarom">
-            <s word-stress="1" line-stress="1">wa</s>
-            <s word-stress="0" line-stress="0">a</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="0" line-stress="0">waar</s>
+            <s word-stress="1" line-stress="1">om</s>
           </w>
           <w token="zijt">
             <s word-stress="1" line-stress="0">zijt</s>
@@ -189,8 +186,8 @@
           </w>
           <rhyme label="e" type="m">
             <w token="yemant">
-              <s word-stress="0" line-stress="0">ye</s>
-              <s word-stress="1" line-stress="1">mant</s>
+              <s word-stress="1" line-stress="0">ye</s>
+              <s word-stress="0" line-stress="1">mant</s>
             </w>
           </rhyme>
         </l>
@@ -201,7 +198,7 @@
           <w token="maaghdelijck">
             <s word-stress="1" line-stress="1">maagh</s>
             <s word-stress="0" line-stress="0">de</s>
-            <s word-stress="1" line-stress="1">lijck</s>
+            <s word-stress="0" line-stress="1">lijck</s>
           </w>
           <rhyme label="e" type="m" corresp="#s1:l9">
             <w token="verstant">
@@ -249,8 +246,8 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="heeftet">
-            <s word-stress="1" line-stress="1">heef</s>
-            <s word-stress="0" line-stress="0">tet</s>
+            <s word-stress="1" line-stress="1">heeft</s>
+            <s word-stress="0" line-stress="0">et</s>
           </w>
           <w token="nooyt">
             <s word-stress="1" line-stress="1">nooyt</s>
