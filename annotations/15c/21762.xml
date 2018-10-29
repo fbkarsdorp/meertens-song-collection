@@ -38,11 +38,8 @@
           <w token="borcht">
             <s word-stress="1" line-stress="1">borcht</s>
           </w>
-          <w token="end">
-            <s word-stress="1" line-stress="0">end</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="end'">
+            <s word-stress="1" line-stress="0">end'</s>
           </w>
           <w token="stercke">
             <s word-stress="1" line-stress="1">sterc</s>
@@ -60,10 +57,10 @@
         </l>
         <l id="s1:l2" met="4" type="-+">
           <w token="ick">
-            <s word-stress="1" line-stress="1">ick</s>
+            <s word-stress="1" line-stress="0">ick</s>
           </w>
           <w token="roep">
-            <s word-stress="1" line-stress="0">roep</s>
+            <s word-stress="1" line-stress="1">roep</s>
           </w>
           <w token="dy">
             <s word-stress="1" line-stress="0">dy</s>
@@ -77,11 +74,8 @@
           <w token="d'eerst">
             <s word-stress="1" line-stress="1">d'eerst</s>
           </w>
-          <w token="end">
-            <s word-stress="1" line-stress="0">end</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="end'">
+            <s word-stress="1" line-stress="0">end'</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="leste">
@@ -122,11 +116,8 @@
           </w>
         </l>
         <l id="s1:l4" met="4" type="-+">
-          <w token="end">
-            <s word-stress="1" line-stress="0">end</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="end'">
+            <s word-stress="1" line-stress="0">end'</s>
           </w>
           <w token="wil">
             <s word-stress="1" line-stress="1">wil</s>
@@ -163,10 +154,10 @@
             <s word-stress="0" line-stress="0">ders</s>
           </w>
           <w token="ick">
-            <s word-stress="1" line-stress="0">ick</s>
+            <s word-stress="1" line-stress="1">ick</s>
           </w>
           <w token="gae">
-            <s word-stress="1" line-stress="1">gae</s>
+            <s word-stress="1" line-stress="0">gae</s>
           </w>
           <w token="heel">
             <s word-stress="1" line-stress="1">heel</s>
@@ -191,18 +182,15 @@
             <s word-stress="1" line-stress="1">die</s>
             <s word-stress="0" line-stress="0">men</s>
           </w>
-          <w token="i">
-            <s word-stress="1" line-stress="0">i</s>
-          </w>
-          <w token="n't">
-            <s word-stress="1" line-stress="1">n't</s>
+          <w token="in't">
+            <s word-stress="1" line-stress="1">in't</s>
           </w>
           <w token="graff">
-            <s word-stress="1" line-stress="1">graff</s>
+            <s word-stress="1" line-stress="0">graff</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="nederschiet">
-              <s word-stress="1" line-stress="0">ne</s>
+              <s word-stress="1" line-stress="1">ne</s>
               <s word-stress="0" line-stress="0">der</s>
               <s word-stress="1" line-stress="1">schiet</s>
             </w>
