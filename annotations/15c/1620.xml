@@ -86,8 +86,8 @@
             <s word-stress="1" line-stress="0">ghi</s>
           </w>
           <w token="minnaers">
-            <s word-stress="0" line-stress="0">min</s>
-            <s word-stress="1" line-stress="0">naers</s>
+            <s word-stress="1" line-stress="1">min</s>
+            <s word-stress="0" line-stress="0">naers</s>
           </w>
           <w token="coemt">
             <s word-stress="1" line-stress="0">coemt</s>
@@ -97,12 +97,12 @@
             <s word-stress="0" line-stress="0">pen</s>
           </w>
           <w token="ende">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="bistant">
-            <s word-stress="0" line-stress="1">bis</s>
-            <s word-stress="1" line-stress="0">tant</s>
+            <s word-stress="1" line-stress="1">bis</s>
+            <s word-stress="0" line-stress="0">tant</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="doen">
@@ -153,8 +153,8 @@
           </w>
           <w token="cruydeken">
             <s word-stress="1" line-stress="1">cruy</s>
-            <s word-stress="1" line-stress="1">de</s>
-            <s word-stress="0" line-stress="0">ken</s>
+            <s word-stress="0" line-stress="0">de</s>
+            <s word-stress="0" line-stress="1">ken</s>
           </w>
           <w token="en">
             <s word-stress="1" line-stress="0">en</s>
@@ -195,7 +195,7 @@
             <s word-stress="1" line-stress="0">doet</s>
           </w>
           <w token="knyedick">
-            <s word-stress="1" line-stress="0">knye</s>
+            <s word-stress="1" line-stress="1">knye</s>
             <s word-stress="0" line-stress="0">dick</s>
           </w>
           <w token="sneeuwen">
@@ -203,10 +203,10 @@
             <s word-stress="0" line-stress="0">wen</s>
           </w>
           <w token="|">
-            <s word-stress="1" line-stress="0">|</s>
+            <s word-stress="0" line-stress="0">|</s>
           </w>
           <w token="ende">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="d" type="f" corresp="#s1:l7">
