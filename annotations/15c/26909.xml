@@ -27,9 +27,9 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="5" type="-+">
           <w token="ghelucksaligh">
-            <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="1" line-stress="1">luck</s>
-            <s word-stress="0" line-stress="0">sa</s>
+            <s word-stress="0" line-stress="1">ghe</s>
+            <s word-stress="1" line-stress="0">luck</s>
+            <s word-stress="1" line-stress="1">sa</s>
             <s word-stress="0" line-stress="0">ligh</s>
           </w>
           <w token=",">
@@ -49,7 +49,7 @@
             <s word-stress="1" line-stress="1">sy</s>
           </w>
           <w token="daer">
-            <s word-stress="1" line-stress="1">daer</s>
+            <s word-stress="1" line-stress="0">daer</s>
           </w>
           <rhyme label="a" type="m">
             <w token="syn">
@@ -69,9 +69,10 @@
             <s word-stress="0" line-stress="0">der</s>
           </w>
           <w token="consciency">
-            <s word-stress="0" line-stress="1">con</s>
-            <s word-stress="1" line-stress="0">scien</s>
-            <s word-stress="0" line-stress="1">cy</s>
+            <s word-stress="1" line-stress="1">con</s>
+            <s word-stress="0" line-stress="0">sci</s>
+            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="0" line-stress="0">cy</s>
           </w>
           <rhyme label="b" type="f">
             <w token="voortvaren">
@@ -104,7 +105,7 @@
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="wet">
-            <s word-stress="1" line-stress="1">wet</s>
+            <s word-stress="1" line-stress="0">wet</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="fyn">
@@ -117,13 +118,13 @@
         </l>
         <l id="s1:l4" met="5" type="-+">
           <w token="ghelucksaligh">
-            <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="1" line-stress="1">luck</s>
-            <s word-stress="0" line-stress="0">sa</s>
+            <s word-stress="0" line-stress="1">ghe</s>
+            <s word-stress="1" line-stress="0">luck</s>
+            <s word-stress="1" line-stress="1">sa</s>
             <s word-stress="0" line-stress="0">ligh</s>
           </w>
           <w token="doch">
-            <s word-stress="1" line-stress="1">doch</s>
+            <s word-stress="1" line-stress="0">doch</s>
           </w>
           <w token="syn">
             <s word-stress="1" line-stress="1">syn</s>
@@ -155,18 +156,18 @@
           <w token="vlietigheyt">
             <s word-stress="1" line-stress="1">vlie</s>
             <s word-stress="0" line-stress="0">tig</s>
-            <s word-stress="1" line-stress="0">heyt</s>
+            <s word-stress="1" line-stress="1">heyt</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="syn">
-            <s word-stress="1" line-stress="1">syn</s>
+            <s word-stress="1" line-stress="0">syn</s>
           </w>
           <w token="ghetuyghnissen">
             <s word-stress="0" line-stress="0">ghe</s>
             <s word-stress="1" line-stress="1">tuygh</s>
-            <s word-stress="1" line-stress="1">nis</s>
+            <s word-stress="1" line-stress="0">nis</s>
             <s word-stress="0" line-stress="0">sen</s>
           </w>
           <rhyme label="c" type="m">
