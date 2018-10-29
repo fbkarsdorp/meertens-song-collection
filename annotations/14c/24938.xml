@@ -27,17 +27,17 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="mir">
-            <s word-stress="1" line-stress="1">mir</s>
+            <s word-stress="1" line-stress="0">mir</s>
           </w>
           <w token="ist">
-            <s word-stress="1" line-stress="0">ist</s>
+            <s word-stress="1" line-stress="1">ist</s>
           </w>
           <w token="ghemeert">
             <s word-stress="0" line-stress="0">ghe</s>
             <s word-stress="1" line-stress="1">meert</s>
           </w>
           <w token="hertz">
-            <s word-stress="1" line-stress="1">hertz</s>
+            <s word-stress="1" line-stress="0">hertz</s>
           </w>
           <w token="und">
             <s word-stress="1" line-stress="0">und</s>
@@ -105,7 +105,7 @@
         </l>
         <l id="s1:l4" met="4" type="-+">
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="met">
             <s word-stress="1" line-stress="0">met</s>
@@ -117,7 +117,7 @@
           <w token="wonnentlicher">
             <s word-stress="1" line-stress="1">won</s>
             <s word-stress="0" line-stress="0">nent</s>
-            <s word-stress="1" line-stress="0">lic</s>
+            <s word-stress="1" line-stress="1">lic</s>
             <s word-stress="0" line-stress="0">her</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
@@ -211,17 +211,17 @@
         </l>
         <l id="s1:l8" met="4" type="-+">
           <w token="ich">
-            <s word-stress="1" line-stress="1">ich</s>
+            <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="dien">
-            <s word-stress="1" line-stress="0">dien</s>
+            <s word-stress="1" line-stress="1">dien</s>
           </w>
           <w token="ir">
-            <s word-stress="1" line-stress="1">ir</s>
+            <s word-stress="1" line-stress="0">ir</s>
           </w>
           <w token="sicher">
-            <s word-stress="1" line-stress="0">si</s>
-            <s word-stress="0" line-stress="1">cher</s>
+            <s word-stress="1" line-stress="1">si</s>
+            <s word-stress="0" line-stress="0">cher</s>
           </w>
           <w token="aen">
             <s word-stress="1" line-stress="0">aen</s>
