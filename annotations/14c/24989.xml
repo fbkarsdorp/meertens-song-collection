@@ -42,7 +42,7 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="hoyr">
-            <s word-stress="1" line-stress="1">hoyr</s>
+            <s word-stress="1" line-stress="0">hoyr</s>
           </w>
           <rhyme label="a" type="f">
             <w token="weyrde">
@@ -90,10 +90,10 @@
             <s word-stress="1" line-stress="0">mijn</s>
           </w>
           <w token="hoyst">
-            <s word-stress="1" line-stress="1">hoyst</s>
+            <s word-stress="1" line-stress="0">hoyst</s>
           </w>
           <w token="zalde">
-            <s word-stress="1" line-stress="0">zal</s>
+            <s word-stress="1" line-stress="1">zal</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="oph">
@@ -111,10 +111,10 @@
         </l>
         <l id="s1:l4" met="4" type="-+">
           <w token="se">
-            <s word-stress="1" line-stress="0">se</s>
+            <s word-stress="1" line-stress="1">se</s>
           </w>
           <w token="mach">
-            <s word-stress="1" line-stress="1">mach</s>
+            <s word-stress="1" line-stress="0">mach</s>
           </w>
           <w token="mir">
             <s word-stress="1" line-stress="1">mir</s>
@@ -162,7 +162,7 @@
         </l>
         <l id="s1:l6" met="4" type="-+">
           <w token="bas">
-            <s word-stress="1" line-stress="0">bas</s>
+            <s word-stress="1" line-stress="1">bas</s>
           </w>
           <w token="dan">
             <s word-stress="1" line-stress="0">dan</s>
@@ -172,11 +172,11 @@
             <s word-stress="0" line-stress="0">le</s>
           </w>
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="werelt">
-            <s word-stress="0" line-stress="0">we</s>
-            <s word-stress="1" line-stress="1">relt</s>
+            <s word-stress="1" line-stress="1">we</s>
+            <s word-stress="0" line-stress="0">relt</s>
           </w>
           <rhyme label="d" type="m">
             <w token="gemeyn">
@@ -221,7 +221,7 @@
             <s word-stress="1" line-stress="0">is</s>
           </w>
           <w token="si">
-            <s word-stress="1" line-stress="0">si</s>
+            <s word-stress="1" line-stress="1">si</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
@@ -234,7 +234,7 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="unde">
-            <s word-stress="1" line-stress="1">un</s>
+            <s word-stress="1" line-stress="0">un</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="anders">
