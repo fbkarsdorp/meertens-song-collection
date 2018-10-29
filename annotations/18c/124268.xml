@@ -22,14 +22,14 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="o">
-            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">o</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="vaarwel">
-            <s word-stress="1" line-stress="1">vaar</s>
-            <s word-stress="0" line-stress="0">wel</s>
+            <s word-stress="0" line-stress="0">vaar</s>
+            <s word-stress="1" line-stress="1">wel</s>
           </w>
           <w token="!">
             <s word-stress="None" line-stress="0">!</s>
@@ -39,7 +39,7 @@
             <s word-stress="1" line-stress="1">geet</s>
           </w>
           <w token="mij">
-            <s word-stress="1" line-stress="1">mij</s>
+            <s word-stress="1" line-stress="0">mij</s>
           </w>
           <rhyme label="a" type="m">
             <w token="niet">
@@ -115,8 +115,8 @@
           </w>
           <w token="vriendschaps-oog">
             <s word-stress="1" line-stress="1">vriend</s>
-            <s word-stress="0" line-stress="0">schap</s>
-            <s word-stress="1" line-stress="1">s-oog</s>
+            <s word-stress="0" line-stress="0">schaps</s>
+            <s word-stress="1" line-stress="1">-oog</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="ontvliedt">
@@ -130,11 +130,11 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="o">
-            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">o</s>
           </w>
           <w token="vaarwel">
-            <s word-stress="1" line-stress="1">vaar</s>
-            <s word-stress="0" line-stress="1">wel</s>
+            <s word-stress="0" line-stress="0">vaar</s>
+            <s word-stress="1" line-stress="1">wel</s>
           </w>
           <w token="!">
             <s word-stress="None" line-stress="0">!</s>
@@ -144,8 +144,8 @@
           </w>
           <rhyme label="c" type="m">
             <w token="vaarwel">
-              <s word-stress="1" line-stress="1">vaar</s>
-              <s word-stress="0" line-stress="1">wel</s>
+              <s word-stress="0" line-stress="0">vaar</s>
+              <s word-stress="1" line-stress="1">wel</s>
             </w>
           </rhyme>
           <w token="!">
@@ -154,11 +154,11 @@
         </l>
         <l id="s1:l6" met="4" type="-+">
           <w token="o">
-            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">o</s>
           </w>
           <w token="vaarwel">
-            <s word-stress="1" line-stress="1">vaar</s>
-            <s word-stress="0" line-stress="0">wel</s>
+            <s word-stress="0" line-stress="0">vaar</s>
+            <s word-stress="1" line-stress="1">wel</s>
           </w>
           <w token="!">
             <s word-stress="None" line-stress="0">!</s>
@@ -168,7 +168,7 @@
             <s word-stress="1" line-stress="1">geet</s>
           </w>
           <w token="mij">
-            <s word-stress="1" line-stress="1">mij</s>
+            <s word-stress="1" line-stress="0">mij</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="niet">
