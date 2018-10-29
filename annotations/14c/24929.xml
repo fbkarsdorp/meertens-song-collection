@@ -30,8 +30,8 @@
             <s word-stress="1" line-stress="0">keer</s>
           </w>
           <w token="truwe">
-            <s word-stress="1" line-stress="0">tru</s>
-            <s word-stress="0" line-stress="1">we</s>
+            <s word-stress="1" line-stress="1">tru</s>
+            <s word-stress="0" line-stress="0">we</s>
           </w>
           <w token="zu">
             <s word-stress="1" line-stress="0">zu</s>
@@ -189,17 +189,8 @@
           <w token="so">
             <s word-stress="1" line-stress="1">so</s>
           </w>
-          <w token="mach">
-            <s word-stress="1" line-stress="0">mach</s>
-          </w>
-          <w token="(">
-            <s word-stress="1" line-stress="0">(</s>
-          </w>
-          <w token="s">
-            <s word-stress="1" line-stress="0">s</s>
-          </w>
-          <w token=")">
-            <s word-stress="1" line-stress="0">)</s>
+          <w token="mach(s)">
+            <s word-stress="1" line-stress="0">mach(s)</s>
           </w>
           <w token="ichs">
             <s word-stress="1" line-stress="1">ichs</s>
