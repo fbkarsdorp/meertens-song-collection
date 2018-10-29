@@ -29,11 +29,11 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="o">
-            <s word-stress="1" line-stress="1">o</s>
+            <s word-stress="1" line-stress="0">o</s>
           </w>
           <w token="hollandt">
-            <s word-stress="0" line-stress="0">hol</s>
-            <s word-stress="1" line-stress="0">landt</s>
+            <s word-stress="1" line-stress="1">hol</s>
+            <s word-stress="0" line-stress="0">landt</s>
           </w>
           <w token="schoon">
             <s word-stress="1" line-stress="1">schoon</s>
@@ -58,13 +58,13 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="met">
-            <s word-stress="1" line-stress="1">met</s>
+            <s word-stress="1" line-stress="0">met</s>
           </w>
           <w token="een-en-dertig">
-            <s word-stress="0" line-stress="0">een</s>
-            <s word-stress="1" line-stress="1">-en-</s>
-            <s word-stress="0" line-stress="0">der</s>
-            <s word-stress="1" line-stress="0">tig</s>
+            <s word-stress="1" line-stress="1">een</s>
+            <s word-stress="0" line-stress="0">-en-</s>
+            <s word-stress="1" line-stress="1">der</s>
+            <s word-stress="0" line-stress="0">tig</s>
           </w>
           <rhyme label="b" type="f">
             <w token="steden">
@@ -85,20 +85,20 @@
             <s word-stress="1" line-stress="0">van</s>
           </w>
           <w token="rijn">
-            <s word-stress="1" line-stress="0">rijn</s>
+            <s word-stress="1" line-stress="1">rijn</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="maes">
-            <s word-stress="1" line-stress="1">maes</s>
+            <s word-stress="1" line-stress="0">maes</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="0">en</s>
+            <s word-stress="1" line-stress="1">en</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="noort-zee">
-              <s word-stress="1" line-stress="1">noort-</s>
+              <s word-stress="1" line-stress="0">noort-</s>
               <s word-stress="1" line-stress="1">zee</s>
             </w>
           </rhyme>
@@ -186,10 +186,10 @@
         </l>
         <l id="s1:l8" met="3" type="-+">
           <w token="mijn">
-            <s word-stress="1" line-stress="1">mijn</s>
+            <s word-stress="1" line-stress="0">mijn</s>
           </w>
           <w token="schuldige">
-            <s word-stress="1" line-stress="0">schul</s>
+            <s word-stress="1" line-stress="1">schul</s>
             <s word-stress="0" line-stress="0">di</s>
             <s word-stress="0" line-stress="0">ge</s>
           </w>
