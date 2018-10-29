@@ -32,8 +32,8 @@
           </w>
           <w token="gepynigt">
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="0" line-stress="1">py</s>
-            <s word-stress="1" line-stress="0">nigt</s>
+            <s word-stress="1" line-stress="1">py</s>
+            <s word-stress="0" line-stress="0">nigt</s>
           </w>
           <w token="door">
             <s word-stress="1" line-stress="1">door</s>
@@ -52,11 +52,8 @@
           <w token="door">
             <s word-stress="1" line-stress="0">door</s>
           </w>
-          <w token="myn">
-            <s word-stress="1" line-stress="1">myn</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="myn'">
+            <s word-stress="1" line-stress="1">myn'</s>
           </w>
           <w token="gedagten">
             <s word-stress="0" line-stress="0">ge</s>
@@ -89,7 +86,7 @@
             <s word-stress="None" line-stress="0">:</s>
           </w>
           <w token="‘">
-            <s word-stress="1" line-stress="0">‘</s>
+            <s word-stress="None" line-stress="0">‘</s>
           </w>
           <w token="neem">
             <s word-stress="1" line-stress="1">neem</s>
