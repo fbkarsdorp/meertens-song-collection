@@ -27,7 +27,8 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="5" type="-+">
           <w token="oeenigheydt">
-            <s word-stress="1" line-stress="1">oee</s>
+            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">ee</s>
             <s word-stress="0" line-stress="0">nig</s>
             <s word-stress="1" line-stress="1">heydt</s>
           </w>
@@ -79,9 +80,9 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="hemels-hof">
-              <s word-stress="1" line-stress="0">he</s>
-              <s word-stress="0" line-stress="1">mel</s>
-              <s word-stress="1" line-stress="1">s-hof</s>
+              <s word-stress="1" line-stress="1">he</s>
+              <s word-stress="0" line-stress="0">mels-</s>
+              <s word-stress="1" line-stress="1">hof</s>
             </w>
           </rhyme>
           <w token=".">
