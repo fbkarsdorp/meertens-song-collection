@@ -90,12 +90,12 @@
         </l>
         <l id="s1:l4" met="3" type="-+">
           <w token="v">
-            <s word-stress="1" line-stress="1">v</s>
+            <s word-stress="1" line-stress="0">v</s>
           </w>
           <w token="lendenen">
-            <s word-stress="1" line-stress="0">len</s>
-            <s word-stress="0" line-stress="1">de</s>
-            <s word-stress="0" line-stress="0">nen</s>
+            <s word-stress="1" line-stress="1">len</s>
+            <s word-stress="0" line-stress="0">de</s>
+            <s word-stress="0" line-stress="1">nen</s>
           </w>
           <w token="niet">
             <s word-stress="1" line-stress="0">niet</s>
@@ -126,12 +126,12 @@
         </l>
         <l id="s1:l6" met="3" type="-+">
           <w token="aen">
-            <s word-stress="1" line-stress="0">aen</s>
+            <s word-stress="1" line-stress="1">aen</s>
           </w>
           <w token="malcander">
-            <s word-stress="0" line-stress="1">mal</s>
-            <s word-stress="1" line-stress="0">can</s>
-            <s word-stress="0" line-stress="1">der</s>
+            <s word-stress="0" line-stress="0">mal</s>
+            <s word-stress="1" line-stress="1">can</s>
+            <s word-stress="0" line-stress="0">der</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l3">
             <w token="publijck">
@@ -145,12 +145,12 @@
         </l>
         <l id="s1:l7" met="3" type="-+">
           <w token="twee">
-            <s word-stress="1" line-stress="0">twee</s>
+            <s word-stress="1" line-stress="1">twee</s>
           </w>
           <w token="spanselen">
-            <s word-stress="0" line-stress="1">span</s>
-            <s word-stress="1" line-stress="0">se</s>
-            <s word-stress="0" line-stress="1">len</s>
+            <s word-stress="0" line-stress="0">span</s>
+            <s word-stress="1" line-stress="1">se</s>
+            <s word-stress="0" line-stress="0">len</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l3">
             <w token="ghelijck">
@@ -213,8 +213,8 @@
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <w token="beker">
-            <s word-stress="0" line-stress="1">be</s>
-            <s word-stress="1" line-stress="0">ker</s>
+            <s word-stress="1" line-stress="1">be</s>
+            <s word-stress="0" line-stress="0">ker</s>
           </w>
           <rhyme label="d" type="m" corresp="#s1:l9">
             <w token="rondt">
