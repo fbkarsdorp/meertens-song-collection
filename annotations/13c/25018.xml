@@ -31,7 +31,7 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="3" type="+-">
           <w token="ic">
-            <s word-stress="1" line-stress="0">ic</s>
+            <s word-stress="1" line-stress="1">ic</s>
           </w>
           <w token="sach">
             <s word-stress="1" line-stress="0">sach</s>
@@ -82,7 +82,7 @@
             <s word-stress="1" line-stress="0">als</s>
           </w>
           <w token="si">
-            <s word-stress="1" line-stress="0">si</s>
+            <s word-stress="1" line-stress="1">si</s>
           </w>
           <w token="heeft">
             <s word-stress="1" line-stress="0">heeft</s>
@@ -132,7 +132,7 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="doch">
-            <s word-stress="1" line-stress="1">doch</s>
+            <s word-stress="1" line-stress="0">doch</s>
           </w>
           <w token="leve">
             <s word-stress="1" line-stress="1">le</s>
@@ -178,7 +178,7 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="geeft">
-            <s word-stress="1" line-stress="1">geeft</s>
+            <s word-stress="1" line-stress="0">geeft</s>
           </w>
           <w token="si">
             <s word-stress="1" line-stress="1">si</s>
@@ -202,14 +202,14 @@
             <s word-stress="1" line-stress="0">si</s>
           </w>
           <w token="mach">
-            <s word-stress="1" line-stress="0">mach</s>
+            <s word-stress="1" line-stress="1">mach</s>
           </w>
           <w token="mis">
-            <s word-stress="1" line-stress="1">mis</s>
+            <s word-stress="1" line-stress="0">mis</s>
           </w>
           <w token="beteren">
-            <s word-stress="0" line-stress="0">be</s>
-            <s word-stress="1" line-stress="1">te</s>
+            <s word-stress="0" line-stress="1">be</s>
+            <s word-stress="1" line-stress="0">te</s>
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <rhyme label="d" type="f" corresp="#s1:l6">
@@ -287,7 +287,7 @@
         </l>
         <l id="s1:l12" met="3" type="-+">
           <w token="moete">
-            <s word-stress="1" line-stress="0">moe</s>
+            <s word-stress="1" line-stress="1">moe</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="wesen">
