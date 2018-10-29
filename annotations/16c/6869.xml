@@ -37,7 +37,7 @@
             <s word-stress="1" line-stress="1">christ</s>
           </w>
           <w token="godes">
-            <s word-stress="1" line-stress="1">go</s>
+            <s word-stress="1" line-stress="0">go</s>
             <s word-stress="0" line-stress="0">des</s>
           </w>
           <rhyme label="a" type="m">
@@ -59,7 +59,7 @@
           </w>
           <w token="ionckvrouwen">
             <s word-stress="1" line-stress="1">ionck</s>
-            <s word-stress="0" line-stress="1">vrou</s>
+            <s word-stress="0" line-stress="0">vrou</s>
             <s word-stress="0" line-stress="0">wen</s>
           </w>
           <rhyme label="b" type="m">
@@ -78,8 +78,8 @@
           </w>
           <w token="ionckvrouwen">
             <s word-stress="1" line-stress="1">ionck</s>
-            <s word-stress="0" line-stress="1">vrou</s>
-            <s word-stress="0" line-stress="0">wen</s>
+            <s word-stress="0" line-stress="0">vrou</s>
+            <s word-stress="0" line-stress="1">wen</s>
           </w>
           <w token="een">
             <s word-stress="1" line-stress="0">een</s>
@@ -116,18 +116,18 @@
         </l>
         <l id="s1:l5" met="4" type="-+">
           <w token="ghy">
-            <s word-stress="1" line-stress="1">ghy</s>
+            <s word-stress="1" line-stress="0">ghy</s>
           </w>
           <w token="sijt">
-            <s word-stress="1" line-stress="0">sijt</s>
+            <s word-stress="1" line-stress="1">sijt</s>
           </w>
           <w token="een">
             <s word-stress="1" line-stress="0">een</s>
           </w>
           <w token="ionckvrouwlijcke">
             <s word-stress="1" line-stress="1">ionck</s>
-            <s word-stress="0" line-stress="1">vrouw</s>
-            <s word-stress="0" line-stress="0">lijc</s>
+            <s word-stress="0" line-stress="0">vrouw</s>
+            <s word-stress="1" line-stress="1">lijc</s>
             <s word-stress="0" line-stress="0">ke</s>
           </w>
           <rhyme label="c" type="m">
@@ -141,10 +141,10 @@
         </l>
         <l id="s1:l6" met="4" type="+-">
           <w token="die">
-            <s word-stress="1" line-stress="0">die</s>
+            <s word-stress="1" line-stress="1">die</s>
           </w>
           <w token="lief">
-            <s word-stress="1" line-stress="1">lief</s>
+            <s word-stress="1" line-stress="0">lief</s>
           </w>
           <w token="heeft">
             <s word-stress="1" line-stress="1">heeft</s>
@@ -169,8 +169,8 @@
           </w>
           <w token="ionckvrouwlijcke">
             <s word-stress="1" line-stress="1">ionck</s>
-            <s word-stress="0" line-stress="1">vrouw</s>
-            <s word-stress="0" line-stress="0">lijc</s>
+            <s word-stress="0" line-stress="0">vrouw</s>
+            <s word-stress="1" line-stress="1">lijc</s>
             <s word-stress="0" line-stress="0">ke</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
