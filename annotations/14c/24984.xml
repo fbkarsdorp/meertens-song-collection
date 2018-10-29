@@ -60,10 +60,10 @@
             <s word-stress="1" line-stress="1">man</s>
           </w>
           <w token="zu">
-            <s word-stress="1" line-stress="1">zu</s>
+            <s word-stress="1" line-stress="0">zu</s>
           </w>
           <w token="gheben">
-            <s word-stress="0" line-stress="0">ghe</s>
+            <s word-stress="1" line-stress="1">ghe</s>
             <s word-stress="0" line-stress="0">ben</s>
           </w>
           <rhyme label="b" type="m">
@@ -133,21 +133,21 @@
         </l>
         <l id="s1:l5" met="3" type="-+">
           <w token="dey">
-            <s word-stress="1" line-stress="1">dey</s>
+            <s word-stress="1" line-stress="0">dey</s>
           </w>
           <w token="god">
-            <s word-stress="1" line-stress="0">god</s>
+            <s word-stress="1" line-stress="1">god</s>
           </w>
           <w token="uf">
-            <s word-stress="1" line-stress="1">uf</s>
+            <s word-stress="1" line-stress="0">uf</s>
           </w>
           <w token="deszer">
-            <s word-stress="0" line-stress="0">des</s>
-            <s word-stress="1" line-stress="1">zer</s>
+            <s word-stress="1" line-stress="1">des</s>
+            <s word-stress="0" line-stress="0">zer</s>
           </w>
           <rhyme label="c" type="f">
             <w token="erden">
-              <s word-stress="1" line-stress="0">er</s>
+              <s word-stress="1" line-stress="1">er</s>
               <s word-stress="0" line-stress="0">den</s>
             </w>
           </rhyme>
@@ -182,10 +182,10 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="durch">
-            <s word-stress="1" line-stress="0">durch</s>
+            <s word-stress="1" line-stress="1">durch</s>
           </w>
           <w token="ym">
-            <s word-stress="1" line-stress="1">ym</s>
+            <s word-stress="1" line-stress="0">ym</s>
           </w>
           <w token="lies">
             <s word-stress="1" line-stress="1">lies</s>
