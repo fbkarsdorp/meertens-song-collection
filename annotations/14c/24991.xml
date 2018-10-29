@@ -30,7 +30,7 @@
             <s word-stress="1" line-stress="1">god</s>
           </w>
           <w token="hiet">
-            <s word-stress="1" line-stress="1">hiet</s>
+            <s word-stress="1" line-stress="0">hiet</s>
           </w>
           <w token="siin">
             <s word-stress="1" line-stress="0">siin</s>
@@ -50,8 +50,8 @@
         </l>
         <l id="s1:l2" met="4" type="+-">
           <w token="daerom">
-            <s word-stress="1" line-stress="1">dae</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="1" line-stress="1">daer</s>
+            <s word-stress="0" line-stress="0">om</s>
           </w>
           <w token="is">
             <s word-stress="1" line-stress="0">is</s>
@@ -104,7 +104,7 @@
           </w>
           <w token="selve">
             <s word-stress="1" line-stress="1">sel</s>
-            <s word-stress="0" line-stress="1">ve</s>
+            <s word-stress="0" line-stress="0">ve</s>
           </w>
           <w token="van">
             <s word-stress="1" line-stress="0">van</s>
@@ -154,10 +154,10 @@
             <s word-stress="0" line-stress="0">ves</s>
           </w>
           <w token="naem">
-            <s word-stress="1" line-stress="0">naem</s>
+            <s word-stress="1" line-stress="1">naem</s>
           </w>
           <w token="unde">
-            <s word-stress="1" line-stress="1">un</s>
+            <s word-stress="1" line-stress="0">un</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="wives">
