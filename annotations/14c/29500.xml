@@ -29,13 +29,13 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="2" type="+-">
           <w token="clauwaert">
-            <s word-stress="1" line-stress="1">clau</s>
-            <s word-stress="0" line-stress="0">waert</s>
+            <s word-stress="1" line-stress="0">clau</s>
+            <s word-stress="0" line-stress="1">waert</s>
           </w>
           <rhyme label="a" type="m">
             <w token="clauwaert">
-              <s word-stress="1" line-stress="1">clau</s>
-              <s word-stress="0" line-stress="0">waert</s>
+              <s word-stress="1" line-stress="0">clau</s>
+              <s word-stress="0" line-stress="1">waert</s>
             </w>
           </rhyme>
         </l>
@@ -69,11 +69,11 @@
             <s word-stress="1" line-stress="0">niet</s>
           </w>
           <w token="vullic">
-            <s word-stress="0" line-stress="1">vul</s>
+            <s word-stress="1" line-stress="1">vul</s>
             <s word-stress="0" line-stress="0">lic</s>
           </w>
           <w token="thuus">
-            <s word-stress="1" line-stress="1">thuus</s>
+            <s word-stress="1" line-stress="0">thuus</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="waert">
@@ -97,7 +97,7 @@
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="tabbaert">
-              <s word-stress="1" line-stress="1">tab</s>
+              <s word-stress="1" line-stress="0">tab</s>
               <s word-stress="0" line-stress="1">baert</s>
             </w>
           </rhyme>
