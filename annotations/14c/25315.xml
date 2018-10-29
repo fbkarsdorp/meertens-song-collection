@@ -43,11 +43,11 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="o">
-            <s word-stress="1" line-stress="1">o</s>
+            <s word-stress="1" line-stress="0">o</s>
           </w>
           <w token="virgo">
-            <s word-stress="0" line-stress="0">vir</s>
-            <s word-stress="1" line-stress="0">go</s>
+            <s word-stress="1" line-stress="1">vir</s>
+            <s word-stress="0" line-stress="0">go</s>
           </w>
           <rhyme label="b" type="m">
             <w token="maria">
@@ -84,29 +84,29 @@
         </l>
         <l id="s1:l4" met="8" type="+-">
           <w token="domine">
-            <s word-stress="0" line-stress="0">do</s>
-            <s word-stress="1" line-stress="0">mi</s>
-            <s word-stress="0" line-stress="0">ne</s>
+            <s word-stress="1" line-stress="1">do</s>
+            <s word-stress="0" line-stress="0">mi</s>
+            <s word-stress="1" line-stress="1">ne</s>
           </w>
           <w token="fulgencia">
             <s word-stress="0" line-stress="0">ful</s>
-            <s word-stress="1" line-stress="0">gen</s>
+            <s word-stress="1" line-stress="1">gen</s>
             <s word-stress="0" line-stress="0">ci</s>
-            <s word-stress="1" line-stress="0">a</s>
+            <s word-stress="1" line-stress="1">a</s>
           </w>
           <w token="ave">
             <s word-stress="1" line-stress="0">a</s>
             <s word-stress="0" line-stress="0">ve</s>
           </w>
           <w token="plena">
-            <s word-stress="1" line-stress="0">ple</s>
+            <s word-stress="1" line-stress="1">ple</s>
             <s word-stress="0" line-stress="0">na</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="gracia">
-              <s word-stress="1" line-stress="0">gra</s>
+              <s word-stress="1" line-stress="1">gra</s>
               <s word-stress="0" line-stress="0">ci</s>
-              <s word-stress="1" line-stress="0">a</s>
+              <s word-stress="1" line-stress="1">a</s>
             </w>
           </rhyme>
         </l>
