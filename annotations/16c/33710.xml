@@ -52,14 +52,14 @@
         </l>
         <l id="s1:l2" met="3" type="-+">
           <w token="het">
-            <s word-stress="1" line-stress="1">het</s>
+            <s word-stress="1" line-stress="0">het</s>
           </w>
           <w token="petrus">
-            <s word-stress="0" line-stress="0">pe</s>
-            <s word-stress="1" line-stress="1">trus</s>
+            <s word-stress="1" line-stress="1">pe</s>
+            <s word-stress="0" line-stress="0">trus</s>
           </w>
           <w token="schoon-moêr">
-            <s word-stress="1" line-stress="0">schoon-</s>
+            <s word-stress="1" line-stress="1">schoon-</s>
             <s word-stress="0" line-stress="0">moêr</s>
           </w>
           <rhyme label="b" type="m">
