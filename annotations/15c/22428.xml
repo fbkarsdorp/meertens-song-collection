@@ -133,8 +133,8 @@
             <s word-stress="0" line-stress="0">sen</s>
           </w>
           <w token="vyant">
-            <s word-stress="0" line-stress="0">vy</s>
-            <s word-stress="1" line-stress="1">ant</s>
+            <s word-stress="1" line-stress="1">vy</s>
+            <s word-stress="0" line-stress="0">ant</s>
           </w>
           <w token="is">
             <s word-stress="1" line-stress="1">is</s>
@@ -186,10 +186,10 @@
             <s word-stress="1" line-stress="1">ons</s>
           </w>
           <w token="hier">
-            <s word-stress="1" line-stress="1">hier</s>
+            <s word-stress="1" line-stress="0">hier</s>
           </w>
           <w token="te">
-            <s word-stress="0" line-stress="0">te</s>
+            <s word-stress="0" line-stress="1">te</s>
           </w>
           <rhyme label="d" type="f">
             <w token="vercloecken">
@@ -209,10 +209,10 @@
           <w token="heymelijck">
             <s word-stress="1" line-stress="1">hey</s>
             <s word-stress="0" line-stress="0">me</s>
-            <s word-stress="1" line-stress="1">lijck</s>
+            <s word-stress="0" line-stress="0">lijck</s>
           </w>
           <w token="te">
-            <s word-stress="0" line-stress="0">te</s>
+            <s word-stress="0" line-stress="1">te</s>
           </w>
           <rhyme label="d" type="f" corresp="#s1:l7">
             <w token="versoecken">
@@ -265,8 +265,8 @@
             <s word-stress="1" line-stress="0">ons</s>
           </w>
           <w token="sterckheyt">
-            <s word-stress="1" line-stress="1">sterc</s>
-            <s word-stress="0" line-stress="0">kheyt</s>
+            <s word-stress="1" line-stress="1">sterck</s>
+            <s word-stress="0" line-stress="0">heyt</s>
           </w>
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
@@ -318,23 +318,23 @@
           <w token="yghelijck">
             <s word-stress="1" line-stress="1">y</s>
             <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="1" line-stress="1">lijck</s>
+            <s word-stress="0" line-stress="0">lijck</s>
           </w>
           <w token="leyt">
-            <s word-stress="1" line-stress="0">leyt</s>
+            <s word-stress="1" line-stress="1">leyt</s>
           </w>
           <w token="op">
-            <s word-stress="1" line-stress="1">op</s>
+            <s word-stress="1" line-stress="0">op</s>
           </w>
           <w token="u">
-            <s word-stress="1" line-stress="0">u</s>
+            <s word-stress="1" line-stress="1">u</s>
           </w>
           <w token="syn">
-            <s word-stress="1" line-stress="1">syn</s>
+            <s word-stress="1" line-stress="0">syn</s>
           </w>
           <rhyme label="f" type="m" corresp="#s1:l11">
             <w token="merck">
-              <s word-stress="1" line-stress="0">merck</s>
+              <s word-stress="1" line-stress="1">merck</s>
             </w>
           </rhyme>
           <w token=",">
