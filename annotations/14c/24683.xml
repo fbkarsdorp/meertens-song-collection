@@ -29,7 +29,7 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="¶">
-            <s word-stress="1" line-stress="0">¶</s>
+            <s word-stress="None" line-stress="0">¶</s>
           </w>
           <w token="der">
             <s word-stress="1" line-stress="0">der</s>
@@ -84,7 +84,7 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="¶">
-            <s word-stress="1" line-stress="0">¶</s>
+            <s word-stress="None" line-stress="0">¶</s>
           </w>
           <w token="och">
             <s word-stress="1" line-stress="0">och</s>
@@ -97,8 +97,8 @@
             <s word-stress="1" line-stress="1">wat</s>
           </w>
           <w token="haddic">
-            <s word-stress="1" line-stress="1">had</s>
-            <s word-stress="0" line-stress="0">dic</s>
+            <s word-stress="1" line-stress="0">had</s>
+            <s word-stress="0" line-stress="1">dic</s>
           </w>
           <rhyme label="a" type="f" corresp="#s1:l1">
             <w token="vercoren">
