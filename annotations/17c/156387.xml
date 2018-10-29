@@ -273,10 +273,10 @@
         </l>
         <l id="s1:l12" met="2" type="+-">
           <w token="geeft">
-            <s word-stress="1" line-stress="0">geeft</s>
+            <s word-stress="1" line-stress="1">geeft</s>
           </w>
           <w token="u">
-            <s word-stress="1" line-stress="1">u</s>
+            <s word-stress="1" line-stress="0">u</s>
           </w>
           <rhyme label="e" type="m" corresp="#s1:l11">
             <w token="stof">
@@ -329,17 +329,17 @@
         </l>
         <l id="s1:l16" met="4" type="+-">
           <w token="die">
-            <s word-stress="1" line-stress="1">die</s>
+            <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="'s">
             <s word-stress="None" line-stress="0">'s</s>
           </w>
           <w token="vyands">
-            <s word-stress="0" line-stress="0">vy</s>
-            <s word-stress="1" line-stress="1">ands</s>
+            <s word-stress="1" line-stress="1">vy</s>
+            <s word-stress="0" line-stress="0">ands</s>
           </w>
           <w token="moed">
-            <s word-stress="1" line-stress="0">moed</s>
+            <s word-stress="1" line-stress="1">moed</s>
           </w>
           <w token="en">
             <s word-stress="1" line-stress="0">en</s>
@@ -412,8 +412,8 @@
             <s word-stress="1" line-stress="0">haar</s>
           </w>
           <w token="welstand">
-            <s word-stress="1" line-stress="1">wels</s>
-            <s word-stress="0" line-stress="0">tand</s>
+            <s word-stress="1" line-stress="1">wel</s>
+            <s word-stress="0" line-stress="0">stand</s>
           </w>
           <rhyme label="h" type="m" corresp="#s1:l16">
             <w token="uyt">
