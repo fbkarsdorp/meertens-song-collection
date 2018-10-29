@@ -27,30 +27,24 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="waerom">
-            <s word-stress="1" line-stress="1">wae</s>
-            <s word-stress="0" line-stress="0">rom</s>
+            <s word-stress="0" line-stress="0">waer</s>
+            <s word-stress="1" line-stress="1">om</s>
           </w>
           <w token="is">
             <s word-stress="1" line-stress="0">is</s>
           </w>
-          <w token="t">
-            <s word-stress="1" line-stress="0">t</s>
-          </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="volck">
-            <s word-stress="1" line-stress="1">volck</s>
+          <w token="t'volck">
+            <s word-stress="1" line-stress="1">t'volck</s>
           </w>
           <w token="oproerich">
-            <s word-stress="0" line-stress="0">o</s>
-            <s word-stress="1" line-stress="1">proe</s>
+            <s word-stress="0" line-stress="0">op</s>
+            <s word-stress="1" line-stress="1">roe</s>
             <s word-stress="0" line-stress="0">rich</s>
           </w>
           <rhyme label="a" type="m">
             <w token="eenpaer">
-              <s word-stress="1" line-stress="1">een</s>
-              <s word-stress="0" line-stress="0">paer</s>
+              <s word-stress="0" line-stress="0">een</s>
+              <s word-stress="1" line-stress="1">paer</s>
             </w>
           </rhyme>
           <w token=",">
@@ -116,10 +110,10 @@
             <s word-stress="0" line-stress="0">uer</s>
           </w>
           <w token="een">
-            <s word-stress="1" line-stress="0">een</s>
+            <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="haeren">
-            <s word-stress="1" line-stress="1">hae</s>
+            <s word-stress="1" line-stress="0">hae</s>
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <w token="raedtslach">
@@ -151,14 +145,8 @@
             <s word-stress="1" line-stress="1">te</s>
             <s word-stress="0" line-stress="0">ghen</s>
           </w>
-          <w token="s">
-            <s word-stress="1" line-stress="0">s</s>
-          </w>
-          <w token="’">
-            <s word-stress="1" line-stress="0">’</s>
-          </w>
-          <w token="heeren">
-            <s word-stress="1" line-stress="1">hee</s>
+          <w token="s'heeren">
+            <s word-stress="1" line-stress="1">s'hee</s>
             <s word-stress="0" line-stress="0">ren</s>
           </w>
           <rhyme label="c" type="m">
