@@ -62,11 +62,11 @@
             <s word-stress="1" line-stress="0">haar</s>
           </w>
           <w token="lang">
-            <s word-stress="1" line-stress="1">lang</s>
+            <s word-stress="1" line-stress="0">lang</s>
           </w>
           <rhyme label="b" type="f">
             <w token="leven">
-              <s word-stress="1" line-stress="0">le</s>
+              <s word-stress="1" line-stress="1">le</s>
               <s word-stress="0" line-stress="0">ven</s>
             </w>
           </rhyme>
@@ -79,8 +79,8 @@
             <s word-stress="0" line-stress="0">ten</s>
           </w>
           <w token="hemel">
-            <s word-stress="0" line-stress="0">he</s>
-            <s word-stress="1" line-stress="1">mel</s>
+            <s word-stress="1" line-stress="1">he</s>
+            <s word-stress="0" line-stress="0">mel</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -120,10 +120,10 @@
         </l>
         <l id="s1:l5" met="4" type="+-">
           <w token="zingt">
-            <s word-stress="1" line-stress="0">zingt</s>
+            <s word-stress="1" line-stress="1">zingt</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="weest">
             <s word-stress="1" line-stress="0">weest</s>
