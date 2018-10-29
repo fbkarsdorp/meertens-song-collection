@@ -40,8 +40,8 @@
           <rhyme label="a" type="f">
             <w token="ghedenket">
               <s word-stress="0" line-stress="0">ghe</s>
-              <s word-stress="1" line-stress="0">den</s>
-              <s word-stress="0" line-stress="1">ket</s>
+              <s word-stress="1" line-stress="1">den</s>
+              <s word-stress="0" line-stress="0">ket</s>
             </w>
           </rhyme>
         </l>
@@ -133,17 +133,17 @@
             <s word-stress="1" line-stress="1">zwer</s>
           </w>
           <w token="zy">
-            <s word-stress="1" line-stress="1">zy</s>
+            <s word-stress="1" line-stress="0">zy</s>
           </w>
           <w token="eret">
-            <s word-stress="1" line-stress="0">e</s>
-            <s word-stress="1" line-stress="1">ret</s>
+            <s word-stress="1" line-stress="1">e</s>
+            <s word-stress="0" line-stress="0">ret</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="der">
-            <s word-stress="1" line-stress="0">der</s>
+            <s word-stress="1" line-stress="1">der</s>
           </w>
           <w token="hat">
             <s word-stress="1" line-stress="0">hat</s>
@@ -164,7 +164,7 @@
           </w>
           <w token="ghedenket">
             <s word-stress="0" line-stress="0">ghe</s>
-            <s word-stress="1" line-stress="0">den</s>
+            <s word-stress="1" line-stress="1">den</s>
             <s word-stress="0" line-stress="0">ket</s>
           </w>
           <w token="an">
@@ -187,7 +187,7 @@
         </l>
         <l id="s1:l7" met="4" type="-+">
           <w token="und">
-            <s word-stress="1" line-stress="1">und</s>
+            <s word-stress="1" line-stress="0">und</s>
           </w>
           <w token="volget">
             <s word-stress="1" line-stress="1">vol</s>
