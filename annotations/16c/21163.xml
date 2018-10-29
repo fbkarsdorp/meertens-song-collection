@@ -37,8 +37,8 @@
           <w token="roosemondtje">
             <s word-stress="1" line-stress="1">roo</s>
             <s word-stress="0" line-stress="0">se</s>
-            <s word-stress="1" line-stress="1">mon</s>
-            <s word-stress="0" line-stress="0">dtje</s>
+            <s word-stress="1" line-stress="1">mondt</s>
+            <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
@@ -67,12 +67,12 @@
             <s word-stress="1" line-stress="1">hart</s>
           </w>
           <w token="inwendigh">
-            <s word-stress="1" line-stress="0">in</s>
-            <s word-stress="0" line-stress="1">wen</s>
+            <s word-stress="0" line-stress="0">in</s>
+            <s word-stress="1" line-stress="1">wen</s>
             <s word-stress="0" line-stress="0">digh</s>
           </w>
           <w token="staegh">
-            <s word-stress="1" line-stress="1">staegh</s>
+            <s word-stress="1" line-stress="0">staegh</s>
           </w>
           <w token="sugt">
             <s word-stress="1" line-stress="1">sugt</s>
@@ -97,7 +97,7 @@
             <s word-stress="None" line-stress="0">!</s>
           </w>
           <w token="overschoone">
-            <s word-stress="1" line-stress="0">o</s>
+            <s word-stress="1" line-stress="1">o</s>
             <s word-stress="0" line-stress="0">ver</s>
             <s word-stress="1" line-stress="1">schoo</s>
             <s word-stress="0" line-stress="0">ne</s>
@@ -139,8 +139,8 @@
             <s word-stress="1" line-stress="1">u</s>
           </w>
           <w token="aenschijn">
-            <s word-stress="0" line-stress="0">aen</s>
-            <s word-stress="1" line-stress="1">schijn</s>
+            <s word-stress="1" line-stress="0">aen</s>
+            <s word-stress="0" line-stress="1">schijn</s>
           </w>
           <w token="niet">
             <s word-stress="1" line-stress="0">niet</s>
@@ -218,8 +218,8 @@
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="beckje">
-            <s word-stress="1" line-stress="1">bec</s>
-            <s word-stress="0" line-stress="0">kje</s>
+            <s word-stress="1" line-stress="1">beck</s>
+            <s word-stress="0" line-stress="0">je</s>
           </w>
           <w token="segt">
             <s word-stress="1" line-stress="1">segt</s>
