@@ -32,10 +32,10 @@
           <w token="iongeren">
             <s word-stress="1" line-stress="1">ion</s>
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="0" line-stress="0">ren</s>
+            <s word-stress="0" line-stress="1">ren</s>
           </w>
           <w token="wilt">
-            <s word-stress="1" line-stress="1">wilt</s>
+            <s word-stress="1" line-stress="0">wilt</s>
           </w>
           <rhyme label="a" type="f">
             <w token="hooren">
@@ -54,7 +54,7 @@
           <w token="stichtelijck">
             <s word-stress="1" line-stress="1">stich</s>
             <s word-stress="0" line-stress="0">te</s>
-            <s word-stress="1" line-stress="1">lijck</s>
+            <s word-stress="0" line-stress="1">lijck</s>
           </w>
           <rhyme label="b" type="m">
             <w token="vermaan">
@@ -100,11 +100,8 @@
           <w token="ick">
             <s word-stress="1" line-stress="0">ick</s>
           </w>
-          <w token="hebb">
-            <s word-stress="1" line-stress="1">hebb</s>
-          </w>
-          <w token="'">
-            <s word-stress="1" line-stress="0">'</s>
+          <w token="hebb'">
+            <s word-stress="1" line-stress="1">hebb'</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="gedaan">
