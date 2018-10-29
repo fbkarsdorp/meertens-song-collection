@@ -45,7 +45,7 @@
           <w token="minnentliche">
             <s word-stress="1" line-stress="1">min</s>
             <s word-stress="0" line-stress="0">nent</s>
-            <s word-stress="1" line-stress="0">li</s>
+            <s word-stress="1" line-stress="1">li</s>
             <s word-stress="0" line-stress="0">che</s>
           </w>
           <rhyme label="a" type="f">
@@ -63,23 +63,23 @@
             <s word-stress="1" line-stress="0">der</s>
           </w>
           <w token="doe">
-            <s word-stress="1" line-stress="1">doe</s>
+            <s word-stress="1" line-stress="0">doe</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="das">
-            <s word-stress="1" line-stress="0">das</s>
+            <s word-stress="1" line-stress="1">das</s>
           </w>
           <w token="ym">
-            <s word-stress="1" line-stress="1">ym</s>
+            <s word-stress="1" line-stress="0">ym</s>
           </w>
           <w token="lere">
             <s word-stress="1" line-stress="1">le</s>
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="minen">
-            <s word-stress="1" line-stress="0">mi</s>
+            <s word-stress="1" line-stress="1">mi</s>
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <rhyme label="b" type="m">
@@ -128,7 +128,7 @@
             <s word-stress="1" line-stress="0">zo</s>
           </w>
           <w token="wirt">
-            <s word-stress="1" line-stress="0">wirt</s>
+            <s word-stress="1" line-stress="1">wirt</s>
           </w>
           <w token="ym">
             <s word-stress="1" line-stress="0">ym</s>
@@ -150,7 +150,7 @@
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="unde">
-            <s word-stress="1" line-stress="1">un</s>
+            <s word-stress="1" line-stress="0">un</s>
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
@@ -197,7 +197,7 @@
             <s word-stress="1" line-stress="1">mach</s>
           </w>
           <w token="siin">
-            <s word-stress="1" line-stress="1">siin</s>
+            <s word-stress="1" line-stress="0">siin</s>
           </w>
           <w token="salde">
             <s word-stress="1" line-stress="1">sal</s>
