@@ -71,8 +71,8 @@
           </w>
           <rhyme label="c" type="m">
             <w token="boemgaerdekijn">
-              <s word-stress="0" line-stress="1">boem</s>
-              <s word-stress="0" line-stress="0">gaer</s>
+              <s word-stress="1" line-stress="0">boem</s>
+              <s word-stress="0" line-stress="1">gaer</s>
               <s word-stress="0" line-stress="0">de</s>
               <s word-stress="1" line-stress="1">kijn</s>
             </w>
@@ -104,14 +104,14 @@
             <s word-stress="1" line-stress="1">vant</s>
           </w>
           <w token="ic">
-            <s word-stress="1" line-stress="1">ic</s>
+            <s word-stress="1" line-stress="0">ic</s>
           </w>
           <w token="drie">
-            <s word-stress="1" line-stress="0">drie</s>
+            <s word-stress="1" line-stress="1">drie</s>
           </w>
           <w token="joncfrouwen">
-            <s word-stress="1" line-stress="1">jonc</s>
-            <s word-stress="0" line-stress="0">frou</s>
+            <s word-stress="1" line-stress="0">jonc</s>
+            <s word-stress="0" line-stress="1">frou</s>
             <s word-stress="0" line-stress="0">wen</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
@@ -125,11 +125,11 @@
         </l>
         <l id="s1:l6" met="4" type="-+">
           <w token="dene">
-            <s word-stress="1" line-stress="0">de</s>
+            <s word-stress="1" line-stress="1">de</s>
             <s word-stress="0" line-stress="0">ne</s>
           </w>
           <w token="sanc">
-            <s word-stress="1" line-stress="1">sanc</s>
+            <s word-stress="1" line-stress="0">sanc</s>
           </w>
           <w token="vore">
             <s word-stress="1" line-stress="1">vo</s>
@@ -143,11 +143,11 @@
             <s word-stress="0" line-stress="0">der</s>
           </w>
           <w token="sanc">
-            <s word-stress="1" line-stress="1">sanc</s>
+            <s word-stress="1" line-stress="0">sanc</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="na">
-              <s word-stress="1" line-stress="0">na</s>
+              <s word-stress="1" line-stress="1">na</s>
             </w>
           </rhyme>
           <w token=":">
@@ -157,7 +157,7 @@
         <l id="s1:l7" met="4" type="+-">
           <w token="harba">
             <s word-stress="1" line-stress="1">har</s>
-            <s word-stress="0" line-stress="1">ba</s>
+            <s word-stress="0" line-stress="0">ba</s>
           </w>
           <w token="lori">
             <s word-stress="1" line-stress="1">lo</s>
@@ -174,7 +174,7 @@
         </l>
         <l id="s1:l8" met="3" type="+-">
           <w token="harba">
-            <s word-stress="1" line-stress="0">har</s>
+            <s word-stress="1" line-stress="1">har</s>
             <s word-stress="0" line-stress="0">ba</s>
           </w>
           <w token="harba">
@@ -197,7 +197,7 @@
         <l id="s1:l9" met="4" type="+-">
           <w token="harba">
             <s word-stress="1" line-stress="1">har</s>
-            <s word-stress="0" line-stress="1">ba</s>
+            <s word-stress="0" line-stress="0">ba</s>
           </w>
           <w token="lori">
             <s word-stress="1" line-stress="1">lo</s>
