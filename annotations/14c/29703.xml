@@ -29,10 +29,10 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="si">
-            <s word-stress="1" line-stress="1">si</s>
+            <s word-stress="1" line-stress="0">si</s>
           </w>
           <w token="hait">
-            <s word-stress="1" line-stress="0">hait</s>
+            <s word-stress="1" line-stress="1">hait</s>
           </w>
           <w token="an">
             <s word-stress="1" line-stress="0">an</s>
@@ -119,10 +119,10 @@
             <s word-stress="0" line-stress="0">tes</s>
           </w>
           <w token="in">
-            <s word-stress="1" line-stress="0">in</s>
+            <s word-stress="1" line-stress="1">in</s>
           </w>
           <w token="hain">
-            <s word-stress="1" line-stress="1">hain</s>
+            <s word-stress="1" line-stress="0">hain</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="nicht">
@@ -219,10 +219,10 @@
             <s word-stress="0" line-stress="0">re</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="0">ich</s>
+            <s word-stress="1" line-stress="1">ich</s>
           </w>
           <w token="vil">
-            <s word-stress="1" line-stress="1">vil</s>
+            <s word-stress="1" line-stress="0">vil</s>
           </w>
           <w token="zender">
             <s word-stress="1" line-stress="1">zen</s>
