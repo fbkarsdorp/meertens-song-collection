@@ -114,10 +114,10 @@
             <s word-stress="1" line-stress="1">mir</s>
           </w>
           <w token="groys">
-            <s word-stress="1" line-stress="1">groys</s>
+            <s word-stress="1" line-stress="0">groys</s>
           </w>
           <w token="liden">
-            <s word-stress="1" line-stress="0">li</s>
+            <s word-stress="1" line-stress="1">li</s>
             <s word-stress="0" line-stress="0">den</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
@@ -131,14 +131,14 @@
         </l>
         <l id="s1:l5" met="4" type="-+">
           <w token="nochtan">
-            <s word-stress="0" line-stress="0">noch</s>
-            <s word-stress="1" line-stress="1">tan</s>
+            <s word-stress="0" line-stress="1">noch</s>
+            <s word-stress="1" line-stress="0">tan</s>
           </w>
           <w token="laes">
-            <s word-stress="1" line-stress="0">laes</s>
+            <s word-stress="1" line-stress="1">laes</s>
           </w>
           <w token="ich't">
-            <s word-stress="1" line-stress="1">ich't</s>
+            <s word-stress="1" line-stress="0">ich't</s>
           </w>
           <w token="varen">
             <s word-stress="1" line-stress="1">va</s>
@@ -210,11 +210,11 @@
             <s word-stress="1" line-stress="0">mach</s>
           </w>
           <w token="ieghen">
-            <s word-stress="1" line-stress="0">ie</s>
+            <s word-stress="1" line-stress="1">ie</s>
             <s word-stress="0" line-stress="0">ghen</s>
           </w>
           <w token="eenen">
-            <s word-stress="1" line-stress="1">ee</s>
+            <s word-stress="1" line-stress="0">ee</s>
             <s word-stress="0" line-stress="0">nen</s>
           </w>
           <w token="hoven">
