@@ -43,15 +43,15 @@
             <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="di">
-            <s word-stress="1" line-stress="1">di</s>
+            <s word-stress="1" line-stress="0">di</s>
           </w>
           <w token="yrst">
-            <s word-stress="1" line-stress="0">yrst</s>
+            <s word-stress="1" line-stress="1">yrst</s>
           </w>
           <rhyme label="a" type="m">
             <w token="ansach">
-              <s word-stress="0" line-stress="1">an</s>
-              <s word-stress="1" line-stress="0">sach</s>
+              <s word-stress="0" line-stress="0">an</s>
+              <s word-stress="1" line-stress="1">sach</s>
             </w>
           </rhyme>
           <w token=",">
@@ -64,14 +64,14 @@
             <s word-stress="0" line-stress="0">de</s>
           </w>
           <w token="diin">
-            <s word-stress="1" line-stress="1">diin</s>
+            <s word-stress="1" line-stress="0">diin</s>
           </w>
           <w token="guete">
             <s word-stress="1" line-stress="1">gue</s>
             <s word-stress="0" line-stress="0">te</s>
           </w>
           <w token="mich">
-            <s word-stress="1" line-stress="0">mich</s>
+            <s word-stress="1" line-stress="1">mich</s>
           </w>
           <rhyme label="a" type="m" corresp="#s1:l1">
             <w token="ansprach">
@@ -85,16 +85,16 @@
         </l>
         <l id="s1:l3" met="4" type="-+">
           <w token="so">
-            <s word-stress="1" line-stress="0">so</s>
+            <s word-stress="1" line-stress="1">so</s>
           </w>
           <w token="en">
-            <s word-stress="1" line-stress="1">en</s>
+            <s word-stress="1" line-stress="0">en</s>
           </w>
           <w token="was">
-            <s word-stress="1" line-stress="0">was</s>
+            <s word-stress="1" line-stress="1">was</s>
           </w>
           <w token="ich">
-            <s word-stress="1" line-stress="1">ich</s>
+            <s word-stress="1" line-stress="0">ich</s>
           </w>
           <w token="nye">
             <s word-stress="1" line-stress="0">nye</s>
@@ -233,8 +233,8 @@
             <s word-stress="0" line-stress="0">le</s>
           </w>
           <w token="misdaet">
-            <s word-stress="0" line-stress="0">mis</s>
-            <s word-stress="1" line-stress="1">daet</s>
+            <s word-stress="1" line-stress="1">mis</s>
+            <s word-stress="0" line-stress="0">daet</s>
           </w>
           <rhyme label="b" type="f" corresp="#s1:l4">
             <w token="miden">
