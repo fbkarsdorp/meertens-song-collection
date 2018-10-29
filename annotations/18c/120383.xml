@@ -35,10 +35,10 @@
             <s word-stress="1" line-stress="0">op</s>
           </w>
           <w token="ras">
-            <s word-stress="1" line-stress="0">ras</s>
+            <s word-stress="1" line-stress="1">ras</s>
           </w>
           <w token="aan">
-            <s word-stress="1" line-stress="1">aan</s>
+            <s word-stress="1" line-stress="0">aan</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -58,8 +58,8 @@
             <s word-stress="1" line-stress="0">een</s>
           </w>
           <w token="avondmaal">
-            <s word-stress="1" line-stress="0">a</s>
-            <s word-stress="0" line-stress="1">vond</s>
+            <s word-stress="1" line-stress="1">a</s>
+            <s word-stress="0" line-stress="0">vond</s>
             <s word-stress="1" line-stress="1">maal</s>
           </w>
           <w token=",">
@@ -70,8 +70,8 @@
           </w>
           <rhyme label="b" type="m">
             <w token="avondmaal">
-              <s word-stress="1" line-stress="0">a</s>
-              <s word-stress="0" line-stress="1">vond</s>
+              <s word-stress="1" line-stress="1">a</s>
+              <s word-stress="0" line-stress="0">vond</s>
               <s word-stress="1" line-stress="1">maal</s>
             </w>
           </rhyme>
@@ -84,8 +84,8 @@
             <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="sabet">
-            <s word-stress="1" line-stress="0">sa</s>
-            <s word-stress="0" line-stress="1">bet</s>
+            <s word-stress="0" line-stress="0">sa</s>
+            <s word-stress="1" line-stress="1">bet</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="verhaal">
@@ -143,7 +143,8 @@
           </w>
           <w token="vermaaklyk">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="1">maaklyk</s>
+            <s word-stress="1" line-stress="1">maak</s>
+            <s word-stress="0" line-stress="0">lyk</s>
           </w>
           <w token="slaapen">
             <s word-stress="1" line-stress="1">slaa</s>
@@ -203,7 +204,8 @@
           </w>
           <w token="vermaaklyk">
             <s word-stress="0" line-stress="0">ver</s>
-            <s word-stress="1" line-stress="1">maaklyk</s>
+            <s word-stress="1" line-stress="1">maak</s>
+            <s word-stress="0" line-stress="0">lyk</s>
           </w>
           <rhyme label="e" type="m">
             <w token="vind">
@@ -395,10 +397,10 @@
             <s word-stress="1" line-stress="0">op</s>
           </w>
           <w token="reis">
-            <s word-stress="1" line-stress="0">reis</s>
+            <s word-stress="1" line-stress="1">reis</s>
           </w>
           <w token="aan">
-            <s word-stress="1" line-stress="1">aan</s>
+            <s word-stress="1" line-stress="0">aan</s>
           </w>
           <w token="te">
             <s word-stress="0" line-stress="0">te</s>
@@ -418,8 +420,8 @@
             <s word-stress="1" line-stress="0">een</s>
           </w>
           <w token="avondmaal">
-            <s word-stress="1" line-stress="0">a</s>
-            <s word-stress="0" line-stress="1">vond</s>
+            <s word-stress="1" line-stress="1">a</s>
+            <s word-stress="0" line-stress="0">vond</s>
             <s word-stress="1" line-stress="1">maal</s>
           </w>
           <w token=",">
@@ -430,8 +432,8 @@
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="avondmaal">
-              <s word-stress="1" line-stress="0">a</s>
-              <s word-stress="0" line-stress="1">vond</s>
+              <s word-stress="1" line-stress="1">a</s>
+              <s word-stress="0" line-stress="0">vond</s>
               <s word-stress="1" line-stress="1">maal</s>
             </w>
           </rhyme>
@@ -441,11 +443,11 @@
         </l>
         <l id="s1:l16" met="2" type="-+">
           <w token="een">
-            <s word-stress="1" line-stress="0">een</s>
+            <s word-stress="1" line-stress="1">een</s>
           </w>
           <w token="sabet">
-            <s word-stress="1" line-stress="0">sa</s>
-            <s word-stress="0" line-stress="1">bet</s>
+            <s word-stress="0" line-stress="0">sa</s>
+            <s word-stress="1" line-stress="1">bet</s>
           </w>
           <rhyme label="b" type="m" corresp="#s1:l2">
             <w token="verhaal">
