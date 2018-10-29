@@ -132,23 +132,24 @@
         </l>
         <l id="s1:l5" met="4" type="-+">
           <w token="daar">
-            <s word-stress="1" line-stress="1">daar</s>
+            <s word-stress="1" line-stress="0">daar</s>
           </w>
           <w token="leckre">
-            <s word-stress="1" line-stress="0">lec</s>
-            <s word-stress="0" line-stress="1">kre</s>
+            <s word-stress="1" line-stress="1">lec</s>
+            <s word-stress="0" line-stress="0">kre</s>
           </w>
           <w token="spijs">
-            <s word-stress="1" line-stress="0">spijs</s>
+            <s word-stress="1" line-stress="1">spijs</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="nog">
-            <s word-stress="1" line-stress="1">nog</s>
+            <s word-stress="1" line-stress="0">nog</s>
           </w>
           <w token="dertle">
-            <s word-stress="1" line-stress="0">dertle</s>
+            <s word-stress="1" line-stress="1">der</s>
+            <s word-stress="0" line-stress="0">tle</s>
           </w>
           <rhyme label="c" type="m" corresp="#s1:l4">
             <w token="wijn">
