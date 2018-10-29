@@ -27,16 +27,16 @@
       <lg id="s1" type="stanza">
         <l id="s1:l1" met="4" type="-+">
           <w token="cupido">
-            <s word-stress="1" line-stress="1">cu</s>
-            <s word-stress="0" line-stress="0">pi</s>
-            <s word-stress="1" line-stress="1">do</s>
+            <s word-stress="1" line-stress="0">cu</s>
+            <s word-stress="0" line-stress="1">pi</s>
+            <s word-stress="0" line-stress="0">do</s>
           </w>
           <w token="stralen">
-            <s word-stress="1" line-stress="0">stra</s>
+            <s word-stress="1" line-stress="1">stra</s>
             <s word-stress="0" line-stress="0">len</s>
           </w>
           <w token="//">
-            <s word-stress="1" line-stress="0">//</s>
+            <s word-stress="None" line-stress="0">//</s>
           </w>
           <w token="doet">
             <s word-stress="1" line-stress="0">doet</s>
@@ -93,10 +93,10 @@
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="wil">
-            <s word-stress="1" line-stress="1">wil</s>
+            <s word-stress="1" line-stress="0">wil</s>
           </w>
           <w token="ick">
-            <s word-stress="1" line-stress="0">ick</s>
+            <s word-stress="1" line-stress="1">ick</s>
           </w>
           <w token="gaen">
             <s word-stress="1" line-stress="0">gaen</s>
@@ -116,14 +116,13 @@
             <s word-stress="1" line-stress="0">op</s>
           </w>
           <w token="dat">
-            <s word-stress="1" line-stress="0">dat</s>
+            <s word-stress="1" line-stress="1">dat</s>
           </w>
           <w token="zy">
-            <s word-stress="1" line-stress="1">zy</s>
+            <s word-stress="1" line-stress="0">zy</s>
           </w>
           <w token="nv">
-            <s word-stress="0" line-stress="0">n</s>
-            <s word-stress="1" line-stress="1">v</s>
+            <s word-stress="1" line-stress="1">nv</s>
           </w>
           <w token="mijn">
             <s word-stress="1" line-stress="0">mijn</s>
@@ -147,20 +146,19 @@
             <s word-stress="1" line-stress="0">twelck</s>
           </w>
           <w token="ic">
-            <s word-stress="1" line-stress="0">ic</s>
+            <s word-stress="1" line-stress="1">ic</s>
           </w>
           <w token="nv">
-            <s word-stress="0" line-stress="0">n</s>
-            <s word-stress="1" line-stress="1">v</s>
+            <s word-stress="1" line-stress="0">nv</s>
           </w>
           <w token="smaeck">
-            <s word-stress="1" line-stress="0">smaeck</s>
+            <s word-stress="1" line-stress="1">smaeck</s>
           </w>
           <w token=",">
             <s word-stress="None" line-stress="0">,</s>
           </w>
           <w token="om">
-            <s word-stress="1" line-stress="1">om</s>
+            <s word-stress="1" line-stress="0">om</s>
           </w>
           <w token="die">
             <s word-stress="1" line-stress="0">die</s>
@@ -232,16 +230,16 @@
             <s word-stress="1" line-stress="0">waer</s>
           </w>
           <w token="door">
-            <s word-stress="1" line-stress="0">door</s>
+            <s word-stress="1" line-stress="1">door</s>
           </w>
           <w token="ic">
-            <s word-stress="1" line-stress="1">ic</s>
+            <s word-stress="1" line-stress="0">ic</s>
           </w>
           <w token="by">
-            <s word-stress="1" line-stress="0">by</s>
+            <s word-stress="1" line-stress="1">by</s>
           </w>
           <w token="naest">
-            <s word-stress="1" line-stress="1">naest</s>
+            <s word-stress="1" line-stress="0">naest</s>
           </w>
           <w token="geheel">
             <s word-stress="0" line-stress="0">ge</s>
@@ -249,8 +247,8 @@
           </w>
           <rhyme label="c" type="m" corresp="#s1:l5">
             <w token="verdwijn">
-              <s word-stress="0" line-stress="0">verd</s>
-              <s word-stress="1" line-stress="1">wijn</s>
+              <s word-stress="0" line-stress="0">ver</s>
+              <s word-stress="1" line-stress="1">dwijn</s>
             </w>
           </rhyme>
           <w token=".">
