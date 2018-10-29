@@ -48,8 +48,8 @@
             <s word-stress="1" line-stress="0">die</s>
           </w>
           <w token="waldoen">
-            <s word-stress="0" line-stress="1">wal</s>
-            <s word-stress="1" line-stress="0">doen</s>
+            <s word-stress="1" line-stress="1">wal</s>
+            <s word-stress="0" line-stress="0">doen</s>
           </w>
           <rhyme label="a" type="f">
             <w token="haet">
@@ -196,7 +196,7 @@
           <w token="argelist">
             <s word-stress="1" line-stress="1">ar</s>
             <s word-stress="0" line-stress="0">ge</s>
-            <s word-stress="1" line-stress="1">list</s>
+            <s word-stress="0" line-stress="0">list</s>
           </w>
           <w token="in">
             <s word-stress="1" line-stress="1">in</s>
@@ -240,7 +240,7 @@
         </l>
         <l id="s1:l9" met="4" type="-+">
           <w token="ghelijc">
-            <s word-stress="0" line-stress="1">ghe</s>
+            <s word-stress="0" line-stress="0">ghe</s>
             <s word-stress="1" line-stress="1">lijc</s>
           </w>
           <w token="den">
@@ -299,8 +299,7 @@
             <s word-stress="0" line-stress="0">ven</s>
           </w>
           <w token="meyen">
-            <s word-stress="1" line-stress="0">me</s>
-            <s word-stress="0" line-stress="1">y</s>
+            <s word-stress="1" line-stress="1">mey</s>
             <s word-stress="0" line-stress="0">en</s>
           </w>
           <rhyme label="e" type="m" corresp="#s1:l9">
@@ -320,10 +319,10 @@
             <s word-stress="1" line-stress="1">ich</s>
           </w>
           <w token="niet">
-            <s word-stress="1" line-stress="1">niet</s>
+            <s word-stress="1" line-stress="0">niet</s>
           </w>
           <w token="van">
-            <s word-stress="1" line-stress="0">van</s>
+            <s word-stress="1" line-stress="1">van</s>
           </w>
           <w token="in">
             <s word-stress="1" line-stress="0">in</s>
